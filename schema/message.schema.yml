@@ -1,4 +1,3 @@
-```yaml
 $schema: "http://json-schema.org/draft-07/schema#"
 $id: "https://divinelove.github.io/schema/message.schema.yml"
 $title: Divine Love Message Metadata Schema
@@ -147,4 +146,3 @@ properties:
     description: Optional curator notes or historical context.
 
 additionalProperties: false
-```
