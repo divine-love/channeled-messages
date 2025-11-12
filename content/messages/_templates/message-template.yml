@@ -1,0 +1,48 @@
+```yaml
+# === Divine Love Message Metadata (TEMPLATE) ===
+# Save this file as: /messages/YYYY/ID.yml
+# Where ID follows: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
+# - MediumInitials: first letters of medium's first & last names, capitalized (e.g., Al Fike → AF)
+# - SpiritName: standard capitalization, but spaces replaced with hyphens (e.g., John-the-Beloved)
+# - Use -2, -3, ... if multiple messages from the same spirit/medium on the same day
+
+id: 2025-01-01-AA-Spirit-Name   # REQUIRED. Pattern: YYYY-MM-DD-MI-Spirit-Name (hyphenated; see rules above)
+
+title: Your Curated Title Here   # REQUIRED. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
+
+date: 2025-01-01                 # REQUIRED. ISO date (YYYY-MM-DD) the message was received.
+
+spirit: Spirit Name              # REQUIRED. Full name, standard capitalization (e.g., "John the Beloved").
+
+medium: Firstname Lastname       # REQUIRED. Full name of the human medium (e.g., "Al Fike").
+
+location:                        # REQUIRED object; city is required, region/country optional.
+  city: City Name                # e.g., "Gibsons"
+  region:                        # OPTIONAL. e.g., "BC" (omit or leave blank if none)
+  country:                       # OPTIONAL. e.g., "Canada" (omit or leave blank if none)
+
+messageType:                     # REQUIRED. One or more of: Blessing, Guidance, Teaching.
+  - Guidance
+  # - Blessing
+  # - Teaching
+
+description: >                   # REQUIRED. 1–2 sentence curator summary (max ~600 chars).
+  One or two sentences describing the heart of this message, its emphasis, and intended comfort or instruction.
+
+primarySubjects: Main Subject    # REQUIRED. Exactly one subject from your “Hierarchy of Subjects in the Messages”.
+secondarySubjects:               # OPTIONAL. Up to two additional subjects from the same hierarchy.
+  # - Another Subject
+  # - Optional Second Subject
+
+people: []                       # OPTIONAL. Living people mentioned (exclude the medium). e.g., ["Barbara", "James Padgett"]
+spirits: []                      # OPTIONAL. Spirits mentioned besides the primary spirit author. e.g., ["Mary", "John the Beloved"]
+
+keywords: []                     # OPTIONAL. Free-form topical tags. e.g., ["fear", "trust", "protection"]
+
+relatedMessages: []              # OPTIONAL. IDs of closely related messages. e.g., ["2015-10-12-AF-Mary"]
+
+audioUrl:                        # OPTIONAL. Link to the audio recording (MP3/stream). e.g., "https://example.com/audio/ID.mp3"
+canonicalUrl:                    # OPTIONAL. Permanent external URL where the message is officially published.
+
+notes:                           # OPTIONAL. Curator notes, context, or provenance.
+```
