@@ -1,4 +1,3 @@
-```yaml
 # === Divine Love Message Metadata (TEMPLATE) ===
 # Save this file as: /messages/YYYY/ID.yml
 # Where ID follows: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
@@ -45,4 +44,3 @@ audioUrl:                        # OPTIONAL. Link to the audio recording (MP3/st
 canonicalUrl:                    # OPTIONAL. Permanent external URL where the message is officially published.
 
 notes:                           # OPTIONAL. Curator notes, context, or provenance.
-```
