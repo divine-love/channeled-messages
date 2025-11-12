@@ -1,16 +1,12 @@
-$schema: "https://json-schema.org/draft/2020-12/schema"
-$title: Divine Love Message
+```yaml
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: "https://divinelove.github.io/schema/message.schema.yml"
+$title: Divine Love Message Metadata Schema
 $type: object
-$comment: |
-  Apply this schema to the YAML front matter of each message Markdown file.
-  Only a few fields are required; everything else is optional and may be omitted.
-
-  ⚠️  Each message must have a globally unique ID following the pattern YYYY-MM-DD-Medium-Spirit.
-  If multiple messages are received from the same Spirit and Medium on the same day,
-  append a numeric suffix (-2, -3, etc.) to ensure uniqueness.
-  Example: 2015-11-30-AF-Jesus and 2015-11-30-AF-Jesus-2.
-
-  The message text itself belongs **below** the front matter in Markdown format.
+$comment: >
+  JSON Schema (draft-07) for message .yml files in /messages/YYYY/.
+  The message text/body itself is stored OUTSIDE the YAML front matter (in the Markdown or after the YAML fence).
+  This schema validates only the metadata fields.
 
 required:
   - id
@@ -18,165 +14,137 @@ required:
   - date
   - spirit
   - medium
-  - location
+  - messageType
+  - primarySubjects
 
 properties:
   id:
     type: string
-    pattern: "^[0-9]{4}-[0-9]{2}-[0-9]{2}-[A-Z]{2}-[A-Za-z]+(-[0-9]+)?$"
     description: >
-      Unique message identifier following the pattern:
-      **YYYY-MM-DD-Medium-Spirit**
-      Example: `2015-11-30-AF-Jesus`
-      If more than one message is received by the same **Spirit** and **Medium**
-      on the same date, append a numeric suffix to maintain uniqueness:
-      `-2` for the second message, `-3` for the third, etc.
+      Unique identifier: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
+      - MediumInitials = first letters of the medium’s first and last names (capitalized), e.g., Al Fike → AF
+      - SpiritName = standard capitalization, spaces replaced by hyphens, e.g., John-the-Beloved
+      - Append -2, -3, ... if multiple messages share the same date/medium/spirit
+    pattern: '^\d{4}-\d{2}-\d{2}-[A-Z]{2}-[A-Z][A-Za-z]*(?:-[A-Z][A-Za-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
 
   title:
     type: string
-    minLength: 1
-
-  description:
-    type: string
-    description: 1–2 sentence summary for listings and previews
+    description: >
+      Human-readable title. If curator-supplied (not from the original), append an asterisk *.
 
   date:
     type: string
     format: date
-    description: ISO date (YYYY-MM-DD) of the message
+    description: Date the message was received (ISO 8601, YYYY-MM-DD).
 
   spirit:
     type: string
-    description: Slug referencing a record in data/spirits/*.yml (e.g., "jesus", "augustine")
+    description: >
+      Spirit author’s full name in standard capitalization (e.g., "John the Beloved").
+      Note: In the id, spaces become hyphens.
 
   medium:
     type: string
-    description: Slug referencing a record in data/people/*.yml (e.g., "al-fike")
+    description: >
+      Human medium’s full name (e.g., "Al Fike"). MediumInitials in id derive from this (AF).
 
   location:
     type: object
-    required: [city, country]
+    description: Place the message was received.
+    required:
+      - city
     properties:
       city:
         type: string
+        description: City or locality (e.g., "Gibsons").
       region:
-        type: string
-        description: Optional state/province/region
+        type: [string, "null"]
+        description: State/Province/Region (optional, e.g., "BC").
       country:
-        type: string
-      place_name:
-        type: string
-        description: Optional freeform (e.g., venue, home, or center name)
+        type: [string, "null"]
+        description: Country (optional, e.g., "Canada").
+    additionalProperties: false
 
-  message_type:
+  messageType:
     type: array
-    description: >
-      Message classification(s). One or more of the following:
-      `Blessing`, `Guidance`, `Teaching`.
+    description: One or more labels describing the message; can include any/all of Blessing, Guidance, Teaching.
     items:
       type: string
-      enum: [Blessing, Guidance, Teaching]
+      enum: ["Blessing", "Guidance", "Teaching"]
     uniqueItems: true
     minItems: 1
 
-  language:
+  description:
     type: string
-    description: Language of this file in BCP-47 code (e.g., "en", "pt-BR")
-    default: "en"
+    description: >
+      Short (1–2 sentences) curator summary of the message’s purpose/insight.
+    minLength: 1
+    maxLength: 600
 
-  original_language:
+  primarySubjects:
     type: string
-    description: Original language if this file is a translation
+    description: >
+      The single main subject from the “Hierarchy of Subjects in the Messages”.
 
-  primary_subjects:
+  secondarySubjects:
     type: array
-    description: Must reference your “Hierarchy of Subjects” primary categories (slugs or names)
-    items: { type: string }
-    uniqueItems: true
-
-  secondary_subjects:
-    type: array
-    description: Optional supporting topics (slugs or names)
-    items: { type: string }
-    uniqueItems: true
-
-  tags:
-    type: array
-    description: Freeform tags for search and curation
-    items: { type: string }
-    uniqueItems: true
-
-  cross_references:
-    type: array
-    description: IDs of related messages (e.g., 2015-10-12-AF-John)
+    description: Up to two additional subject tags (from the same hierarchy).
     items:
       type: string
-
-  theme_clusters:
-    type: array
-    description: Optional higher-level themes (e.g., “Centers of Light”, “Soul Mind vs Material Mind”)
-    items: { type: string }
     uniqueItems: true
+    minItems: 0
+    maxItems: 2
 
-  series:
-    type: object
-    description: Optional grouping for retreats or message series
-    properties:
-      name: { type: string }
-      part: { type: integer, minimum: 1 }
-      total_parts: { type: integer, minimum: 1 }
-
-  canonical_url:
-    type: string
-    format: uri
-    description: >
-      Optional link to the message’s primary or authoritative version on an external website.
-      Example: https://divinelovesanctuary.com/messages/2015-12-27-augustine-awakening-of-the-soul-mind/
-      Use this field to indicate where the message was originally published or hosted.
-      Leave blank for unpublished or repository-original messages.
-
-  source:
-    type: object
-    description: Provenance of the transcript
-    properties:
-      recorder: { type: string }
-      transcription_notes: { type: string }
-      rights:
-        type: string
-        description: Short rights note (e.g., “CC BY-NC-ND 4.0”)
-
-  media:
-    type: object
-    description: Optional associated media for the message (e.g., audio recording)
-    properties:
-      audio:
-        type: object
-        description: Optional link to an audio recording of the message
-        properties:
-          url:
-            type: string
-            format: uri
-            description: Direct or embedded URL to the audio file
-          format:
-            type: string
-            description: File format or container (e.g., "mp3", "wav", "m4a")
-          duration:
-            type: string
-            description: Optional human-readable length (e.g., "12:34")
-        required: [url]
-
-  translations:
+  people:
     type: array
-    description: Links to other language versions in your repo
+    description: >
+      Living people mentioned in or relevant to the message (exclude the medium).
     items:
-      type: object
-      required: [language, path]
-      properties:
-        language: { type: string, description: BCP-47 code }
-        path: { type: string, description: Repo-relative path to the translated file }
+      type: string
+    uniqueItems: true
+    default: []
+
+  spirits:
+    type: array
+    description: >
+      Spirits mentioned besides the primary spirit author.
+    items:
+      type: string
+    uniqueItems: true
+    default: []
+
+  keywords:
+    type: array
+    description: Free-form topical tags (for search/browsing).
+    items:
+      type: string
+      minLength: 1
+      maxLength: 64
+    uniqueItems: true
+    default: []
+
+  relatedMessages:
+    type: array
+    description: IDs of closely related messages.
+    items:
+      type: string
+      pattern: '^\d{4}-\d{2}-\d{2}-[A-Z]{2}-[A-Z][A-Za-z]*(?:-[A-Z][A-Za-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
+    uniqueItems: true
+    default: []
+
+  audioUrl:
+    type: [string, "null"]
+    format: uri
+    description: Optional link to audio recording (MP3/stream).
+
+  canonicalUrl:
+    type: [string, "null"]
+    format: uri
+    description: Optional permanent external URL for the officially published message.
 
   notes:
-    type: string
-    description: Curator notes (internal)
+    type: [string, "null"]
+    description: Optional curator notes or historical context.
 
 additionalProperties: false
+```
