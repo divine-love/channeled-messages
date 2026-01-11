@@ -1,1 +1,134 @@
-
+main_categories:
+- name: Divine Love & Relationship with God
+  subcategories:
+  - Receiving the Divine Love through Prayer
+  - Rebirth of the Soul (New Birth)
+  - At-onement
+  - Knowing God
+  - God's Nature / Essence
+- name: Soul Transformation & Development
+  subcategories:
+  - Soul Awakening
+  - Soul Healing
+  - Personal Transformation Journey
+  - Cleansing / Expiation
+  - Soul Growth through Challenges
+- name: Spiritual Discipline & Daily Living
+  subcategories:
+  - Prayer Practice
+  - Spiritual Habits / Devotion
+  - Surrender / Trust in God
+  - Joyful Living
+  - Walking in the Light
+- name: Earthly Challenges & Human Condition
+  subcategories:
+  - Emotional Struggles
+  - Mind vs Soul Conflict
+  - Temptations / Attachments
+  - Pain and Trauma
+  - Free Will & Human Error
+- name: Spiritual Community & Fellowship
+  subcategories:
+  - Circle of Light / Prayer Circles
+  - Unity in Diversity
+  - Supporting One Another
+  - Group Transformation
+  - Shared Purpose
+- name: Divine Will, Guidance & Orchestration
+  subcategories:
+  - Trust in God’s Will
+  - Divine Plan & Timing
+  - God’s Guidance
+  - Following God’s Direction
+  - Alignment with Divine Flow
+- name: Preparation for Earth Mission
+  subcategories:
+  - Readiness / Spiritual Maturity
+  - Individual Soul Calling
+  - Soul Gifts / Service Readiness
+  - Walking the Divine Path
+- name: Service, Ministry & Being a Channel of Love
+  subcategories:
+  - Discipleship
+  - Light Work / Ministry
+  - Serving Others in Love
+  - Testimony of God’s Love
+  - Example of Divine Truth
+- name: Healing (Soul, Emotional, Physical)
+  subcategories:
+  - Divine Love Healing
+  - Emotional & Spiritual Restoration
+  - Letting Go of Wounds
+  - Healing Through Prayer
+- name: Earth Changes & Prophecy
+  subcategories:
+  - Future World Events
+  - Calm Before the Storm
+  - Acceleration of Change
+  - Cleansing of the Earth
+- name: Spiritual Warfare & Opposition
+  subcategories:
+  - Forces Opposed to Divine Love
+  - Darkness vs Light
+  - Protection from Negative Influences
+  - Spiritual Resistance
+- name: Spiritual Identity & Destiny
+  subcategories:
+  - Unique Soul Gifts
+  - Divine Purpose
+  - Soul’s True Nature
+  - Becoming a Channel of Love
+  - Celestial Destiny
+- name: Collective Awakening & Redemption
+  subcategories:
+  - Redemption of Humanity
+  - Awakening Mass Consciousness
+  - Global Spiritual Work
+  - Humanity’s Transformation
+- name: Interdimensional & Spirit Communication
+  subcategories:
+  - Spirit Circles / Mediumship
+  - Spirit Guides & Angels
+  - Communication Across Realms
+  - Life on Other Planets
+  - Teaching from Celestial Spirits
+- name: Teaching, Testimony & Instruction
+  subcategories:
+  - Spiritual Education
+  - Teaching the Prayer Practice
+  - Spirit Testimony / Personal Story
+  - Instruction from the Celestial Heavens
+  - Moral Topics
+- name: Celestial Governance & Spiritual Law
+  subcategories:
+  - Divine Law / Universal Order
+  - Harmony with God's Laws
+  - Consequences of Spiritual Choice
+- name: Historical Context & Spiritual Legacy
+  subcategories:
+  - Spirit Reflections on Earth Life
+  - name: Mission of Historical Figures
+    children:
+    - Life of Jesus
+  - Religious Error / Reformation
+- name: Spiritual Empowerment & Encouragement
+  subcategories:
+  - Confidence in the Path
+  - Empowerment to Serve
+  - Reassurance & Strength
+  - Support in Trials
+- name: Children, Youth & Future Generations
+  subcategories:
+  - Spiritual Protection for Children
+  - Youth Empowerment
+  - Intergenerational Spiritual Work
+- name: Beauty, Nature & Spiritual Joy
+  subcategories:
+  - Joy in the Spirit
+  - Appreciation of God’s Creation
+  - Laughter & Delight
+  - Lightness of Being
+- name: Creation and Incarnation
+  subcategories: []
+- name: Manifestations/Direct Voice
+  subcategories: []
