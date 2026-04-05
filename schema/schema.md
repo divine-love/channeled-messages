@@ -40,7 +40,7 @@ Each message is stored in its own `.yml` file within a structured directory tree
 ## 2. Message ID Pattern
 Each message has a unique id using this format:
 
-### Pattern:
+### Pattern for message_id:
 
 YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
 
@@ -54,7 +54,7 @@ Example: John the Beloved → John-the-Beloved
  - If more than one message is received by the same spirit and medium on the same day, append `-2`, `-3`, etc. to keep all IDs unique.
  - **Never include spaces** in the ID — use hyphens instead. This ensures compatibility across URLs, filenames, and YAML parsing.
 
-### Example IDs
+### Example Message IDs
 
 ```yaml
 2015-10-12-AF-John-the-Beloved
