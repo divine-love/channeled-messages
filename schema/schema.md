@@ -42,15 +42,15 @@ Each message has a unique id using this format:
 
 ### Pattern for message_id:
 
-YYYY-MM-DD-{MediumInitials}-{spirit_id}{-2|-3|...}
+YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
 
 ### Rules:
 
- - `{MediumInitials}` = the first letter of the medium’s first and last name (not capitalized).
+ - `{mediuminitials}` = the first letter of the medium’s first and last name (not capitalized).
 Example: Al Fike → af
- - `{spirit_id}` = the spirit’s unique identifier, full name with **each space replaced by a hyphen (-)**. The spirit_id is located within the folder called "spirits".
+ - `{spirit_id}` = the spirit’s unique identifier, corresponding to name in the spirit file. Naming pattern is the spirits full name with **each space replaced by a hyphen (-)**.
 Example: John the Beloved → john-the-beloved
- - spirit_id is never capitalized. It must match the spirit file name without the filetype at the end. 
+ - spirit_id is never capitalized. It must match the spirit file name exactly. 
  - If more than one message is received by the same spirit and medium on the same day, append `-2`, `-3`, etc. to keep all IDs unique.
  - **Never include spaces** in the ID — use hyphens instead. This ensures compatibility across URLs, filenames, and YAML parsing.
 
@@ -123,12 +123,12 @@ All messages have been read and approved by the medium prior to posting. Please 
 
 | Field | Type | Description | Example |
 |-------|------|------------|----------|
-| **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2 -3...}`. Braces show the pattern only, do **not** include them in real IDs. `{MediumInitials}` are the capitalized first and last initials of the medium (e.g., Al Fike → AF). `{SpiritName}` uses normal capitalization (e.g., “John the Beloved”). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. | `2015-11-30-AF-Jesus-2` |
-| **title** | string | The given title of the message. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `You are my disciples` |
+| **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{medium_initials}-{spirit_id}{-2 -3...}`. Braces show the pattern only, do **not** include them in real IDs. `{medium_initials}` are the first and last initials of the medium (e.g., Al Fike → af). `{spirit_id}` matches spirit file name (e.g., “john-the-beloved”). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. | `2015-11-30-af-jesus-2` |
+| **title** | string | The given title of the message. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `You Are My Disciples` |
 | **date** | string (YYYY-MM-DD) | The date the message was received, always using ISO format. | `2015-11-30` |
-| **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., “John the Beloved”). | `John the Beloved` |
+| **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., “john-the-beloved”). | `john-the-beloved` |
 | **spirit_name** | string | The full name of the spirit author, written in normal capitalization (e.g., “John the Beloved”). | `John the Beloved` |
-| **medium** | string | The full name of the human medium who received the message. These initials form the {MediumInitials} in the ID. | `Al Fike` |
+| **medium** | string | The full name of the human medium who received the message. These initials form the {medium_initials} in the ID. | `Al Fike` |
 | **location.city** | string | The city or locality where the message was received. | `Gibsons` |
 | **location.region** | string | The state, province, or region. Optional; leave blank if not applicable. | `BC` |
 | **location.country** | string | The country where the message was received. Optional. | `Canada` |
