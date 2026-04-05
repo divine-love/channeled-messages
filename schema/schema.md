@@ -23,11 +23,11 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ 01/  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─2016-01-03-AF-Augustine.yml  
 ├─ spirits/  
-│  └─ Jesus.yml  
-│  └─ Andrew.yml  
-│  └─ Augustine.yml  
+│  └─ jesus.yml  
+│  └─ andrew.yml  
+│  └─ augustine.yml  
 ├─ mediums/    
-│  └─ Al-Fike.yml  
+│  └─ al-fike.yml  
 ├─ schema/  
 │  └─ schema.yml  
 │  └─ schema.md    
@@ -42,38 +42,39 @@ Each message has a unique id using this format:
 
 ### Pattern for message_id:
 
-YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
+YYYY-MM-DD-{MediumInitials}-{spirit_id}{-2|-3|...}
 
 ### Rules:
 
- - `{MediumInitials}` = the first letter of the medium’s first and last name (capitalized).
-Example: Al Fike → AF
- - `{SpiritName}` = the spirit’s full name with **each space replaced by a hyphen (-)**.
-Example: John the Beloved → John-the-Beloved
- - Use **standard capitalization** for each part of the spirit’s name (capitalize first letter of each word).
+ - `{MediumInitials}` = the first letter of the medium’s first and last name (not capitalized).
+Example: Al Fike → af
+ - `{spirit_id}` = the spirit’s unique identifier, full name with **each space replaced by a hyphen (-)**. The spirit_id is located within the folder called "spirits".
+Example: John the Beloved → john-the-beloved
+ - spirit_id is never capitalized. It must match the spirit file name without the filetype at the end. 
  - If more than one message is received by the same spirit and medium on the same day, append `-2`, `-3`, etc. to keep all IDs unique.
  - **Never include spaces** in the ID — use hyphens instead. This ensures compatibility across URLs, filenames, and YAML parsing.
 
 ### Example Message IDs
 
 ```yaml
-2015-10-12-AF-John-the-Beloved
-2015-11-30-AF-Jesus
-2015-11-30-AF-Jesus-2
-2015-12-01-AF-Augustine
+2015-10-12-af-john-the-beloved
+2015-11-30-af-jesus
+2015-11-30-af-jesus-2
+2015-12-01-af-augustine
 ```
 
 ### Filename Example
 
 ```yaml
-2015-10-12-AF-John-the-Beloved.yml
+2015-10-12-af-john-the-beloved.yml
 ```
 
 ### YAML Field Example
 
 ```yaml
-id: 2015-10-12-AF-John-the-Beloved
-spirit: John the Beloved
+id: 2015-10-12-af-john-the-beloved
+spirit_id: john-the-beloved
+spirit_name: "John the Beloved"
 ```
 
 ---
@@ -85,10 +86,11 @@ Each message file is a **Markdown document** with a **YAML front matter** block 
 ```yaml
 ---
 # YAML front matter (metadata)
-message_id: 2015-11-30-AF-Jesus
-title: You are my disciples
+message_id: 2015-11-30-af-jesus
+title: You Are My Disciples
 date: 2015-11-30
-spirit: Jesus
+spirit_id: jesus
+spirit_name: Jesus
 medium: Al Fike
 location:
   city: Gibsons
@@ -124,7 +126,8 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2 -3...}`. Braces show the pattern only, do **not** include them in real IDs. `{MediumInitials}` are the capitalized first and last initials of the medium (e.g., Al Fike → AF). `{SpiritName}` uses normal capitalization (e.g., “John the Beloved”). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. | `2015-11-30-AF-Jesus-2` |
 | **title** | string | The given title of the message. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `You are my disciples` |
 | **date** | string (YYYY-MM-DD) | The date the message was received, always using ISO format. | `2015-11-30` |
-| **spirit** | string | The full name of the spirit author, written in normal capitalization (e.g., “John the Beloved”). | `John the Beloved` |
+| **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., “John the Beloved”). | `John the Beloved` |
+| **spirit_name** | string | The full name of the spirit author, written in normal capitalization (e.g., “John the Beloved”). | `John the Beloved` |
 | **medium** | string | The full name of the human medium who received the message. These initials form the {MediumInitials} in the ID. | `Al Fike` |
 | **location.city** | string | The city or locality where the message was received. | `Gibsons` |
 | **location.region** | string | The state, province, or region. Optional; leave blank if not applicable. | `BC` |
@@ -149,10 +152,11 @@ All messages have been read and approved by the medium prior to posting. Please 
 ### Full Example
 
 ```yaml
-message_id: 2015-11-30-AF-Jesus
-title: You are my disciples
+message_id: 2015-11-30-af-jesus
+title: You Are My Disciples
 date: 2015-11-30
-spirit: Jesus
+spirit_id: jesus
+spirit_name: Jesus
 medium: Al Fike
 location:
   city: Gibsons
@@ -174,10 +178,11 @@ notes: Message received during evening circle in Gibsons, BC.
 ### Minimal Example
 
 ```yaml
-message_id: 2015-12-07-AF-Andrew
-title: Be open to God as a flower opens to the sun
+message_id: 2015-12-07-af-andrew
+title: Be Open To God As A Flower Opens To The Sun
 date: 2015-12-07
-spirit: Andrew
+spirit_id: andrew
+spirit_name: Andrew
 medium: Al Fike
 location:
   city: Vancouver
@@ -236,9 +241,9 @@ location:
 
 Before committing a new message:
 
- - ✅ The **message_id** matches `YYYY-MM-DD-{MediumInitials}-{SpiritName}` format
- - ✅ The **SpiritName** uses hyphens for multi-word names (e.g., John-the-Beloved)
- - ✅ The **title**, **date**, **spirit**, and **medium** are filled in
+ - ✅ The **message_id** matches `YYYY-MM-DD-{MediumInitials}-{spirit_id}` format
+ - ✅ The **spirit_id** matches a name in the spirit list
+ - ✅ The **title**, **date**, **spirit_id**, and **medium** are filled in
  - ✅ At least one **messageType** and one **primarySubject**
  - ✅ Optional fields are blank if unknown (not omitted)
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
@@ -255,7 +260,7 @@ Each translation should be saved as **its own Markdown** (`.md`) file in the sam
 ### Example filename:
 
 ```yaml
-2015-11-23-AF-Jesus.pt-br.md
+2015-11-23-af-jesus.pt-br.md
 ```
 
 ### Example front matter for a translated file:
@@ -264,7 +269,7 @@ Each translation should be saved as **its own Markdown** (`.md`) file in the sam
 language: pt-br
 translations:
   available: [pt-br]
-  translation_of: 2015-11-23-AF-Jesus
+  translation_of: 2015-11-23-af-jesus
 ```
 
 Translation files should:
