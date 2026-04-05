@@ -8,7 +8,7 @@ $comment: >
   This schema validates only the metadata fields.
 
 required:
-  - id
+  - message_id
   - title
   - date
   - spirit
@@ -17,7 +17,7 @@ required:
   - primarySubjects
 
 properties:
-  id:
+  message_id:
     type: string
     description: >
       Unique identifier: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
