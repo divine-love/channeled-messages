@@ -11,7 +11,7 @@ required:
   - message_id
   - title
   - date
-  - spirit
+  - spirit_id
   - medium
   - messageType
   - primarySubjects
@@ -20,11 +20,11 @@ properties:
   message_id:
     type: string
     description: >
-      Unique identifier: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
-      - MediumInitials = first letters of the medium’s first and last names (capitalized), e.g., Al Fike → AF
-      - SpiritName = standard capitalization, spaces replaced by hyphens, e.g., John-the-Beloved
+      Unique identifier: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
+      - medium_initials = first letters of the medium’s first and last names (not capitalized), e.g., Al Fike → af
+      - spirit_id = standard capitalization, spaces replaced by hyphens, e.g., john-the-beloved
       - Append -2, -3, ... if multiple messages share the same date/medium/spirit
-    pattern: '^\d{4}-\d{2}-\d{2}-[A-Z]{2}-[A-Z][A-Za-z]*(?:-[A-Z][A-Za-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
+    pattern: '^\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z]*(?:-[a-z][a-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
 
   title:
     type: string
@@ -36,16 +36,31 @@ properties:
     format: date
     description: Date the message was received (ISO 8601, YYYY-MM-DD).
 
-  spirit:
+  spirit_id:
     type: string
     description: >
-      Spirit author’s full name in standard capitalization (e.g., "John the Beloved").
-      Note: In the id, spaces become hyphens.
+      Canonical ID for the spirit. Must be lowercase kebab-case and should match the
+      corresponding spirit profile filename in /spirits/<spirit_id>.yml (enforced by validator).
+    pattern: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
+    examples:
+      - mary-mother-of-jesus
+      - john-the-beloved
+      - james-padgett
+
+  spirit_name:
+    type: string
+    description: >
+      Optional human-friendly display name for the spirit. If provided, it should match
+      one of the spirit aliases (enforced by validator).
+    examples:
+      - "Mary, Mother of Jesus"
+      - "Mary"
+      - "John the Beloved"    
 
   medium:
     type: string
     description: >
-      Human medium’s full name (e.g., "Al Fike"). MediumInitials in id derive from this (AF).
+      Human medium’s full name (e.g., "Al Fike"). medium_initials in id derive from this (af).
 
   location:
     type: object
