@@ -3,7 +3,7 @@
 This document defines the metadata standard for cataloguing the Divine Love Messages collection.
 All contributors should follow these conventions to ensure consistency, searchability, and compatibility across future platforms.
 
-THis document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
+This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
 ---
 
@@ -85,7 +85,7 @@ Each message file is a **Markdown document** with a **YAML front matter** block 
 ```yaml
 ---
 # YAML front matter (metadata)
-id: 2015-11-30-AF-Jesus
+message_id: 2015-11-30-AF-Jesus
 title: You are my disciples
 date: 2015-11-30
 spirit: Jesus
@@ -121,7 +121,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 
 | Field | Type | Description | Example |
 |-------|------|------------|----------|
-| **id** | string | Unique identifier formatted `YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2 -3...}`. Braces show the pattern only, do **not** include them in real IDs. `{MediumInitials}` are the capitalized first and last initials of the medium (e.g., Al Fike → AF). `{SpiritName}` uses normal capitalization (e.g., “John the Beloved”). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. | `2015-11-30-AF-Jesus-2` |
+| **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2 -3...}`. Braces show the pattern only, do **not** include them in real IDs. `{MediumInitials}` are the capitalized first and last initials of the medium (e.g., Al Fike → AF). `{SpiritName}` uses normal capitalization (e.g., “John the Beloved”). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. | `2015-11-30-AF-Jesus-2` |
 | **title** | string | The given title of the message. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `You are my disciples` |
 | **date** | string (YYYY-MM-DD) | The date the message was received, always using ISO format. | `2015-11-30` |
 | **spirit** | string | The full name of the spirit author, written in normal capitalization (e.g., “John the Beloved”). | `John the Beloved` |
@@ -149,7 +149,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 ### Full Example
 
 ```yaml
-id: 2015-11-30-AF-Jesus
+message_id: 2015-11-30-AF-Jesus
 title: You are my disciples
 date: 2015-11-30
 spirit: Jesus
@@ -171,10 +171,10 @@ canonicalUrl: https://divinelovesanctuary.com/messages/2015-11-30-jesus
 notes: Message received during evening circle in Gibsons, BC.
 ```
 
-### MInimal Example
+### Minimal Example
 
 ```yaml
-id: 2015-12-07-AF-Andrew
+message_id: 2015-12-07-AF-Andrew
 title: Be open to God as a flower opens to the sun
 date: 2015-12-07
 spirit: Andrew
@@ -236,7 +236,7 @@ location:
 
 Before committing a new message:
 
- - ✅ The **ID** matches `YYYY-MM-DD-{MediumInitials}-{SpiritName}` format
+ - ✅ The **message_id** matches `YYYY-MM-DD-{MediumInitials}-{SpiritName}` format
  - ✅ The **SpiritName** uses hyphens for multi-word names (e.g., John-the-Beloved)
  - ✅ The **title**, **date**, **spirit**, and **medium** are filled in
  - ✅ At least one **messageType** and one **primarySubject**
