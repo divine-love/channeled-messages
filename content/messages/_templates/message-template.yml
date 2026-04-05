@@ -1,11 +1,11 @@
 # === Divine Love Message Metadata (TEMPLATE) ===
 # Save this file as: /messages/YYYY/ID.yml
-# Where ID follows: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
+# Where message_id follows: YYYY-MM-DD-{MediumInitials}-{SpiritName}{-2|-3|...}
 # - MediumInitials: first letters of medium's first & last names, capitalized (e.g., Al Fike → AF)
 # - SpiritName: standard capitalization, but spaces replaced with hyphens (e.g., John-the-Beloved)
 # - Use -2, -3, ... if multiple messages from the same spirit/medium on the same day
 
-id: 2025-01-01-AA-Spirit-Name   # REQUIRED. Pattern: YYYY-MM-DD-MI-Spirit-Name (hyphenated; see rules above)
+message_id: 2025-01-01-AA-Spirit-Name   # REQUIRED. Pattern: YYYY-MM-DD-MI-Spirit-Name (hyphenated; see rules above)
 
 title: Your Curated Title Here   # REQUIRED. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
 
