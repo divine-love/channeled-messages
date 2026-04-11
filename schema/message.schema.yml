@@ -1,8 +1,8 @@
 $schema: "http://json-schema.org/draft-07/schema#"
 $id: "https://divinelove.github.io/schema/message.schema.yml"
-$title: Divine Love Message Metadata Schema
-$type: object
-$comment: >
+title: Divine Love Message Metadata Schema
+type: object
+comment: >
   JSON Schema (draft-07) for message .yml files in /messages/YYYY/.
   The message text/body itself is stored OUTSIDE the YAML front matter (in the Markdown or after the YAML fence).
   This schema validates only the metadata fields.
@@ -13,16 +13,16 @@ required:
   - date
   - spirit_id
   - medium
-  - messageType
-  - primarySubjects
+  - message_type
+  - primary_subjects
 
 properties:
   message_id:
     type: string
     description: >
       Unique identifier: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
-      - medium_initials = first letters of the mediums first and last names (not capitalized), e.g., Al Fike → af
-      - spirit_id = standard capitalization, spaces replaced by hyphens, e.g., john-the-beloved
+      - medium_initials = first letters of the medium's first and last names (always lowercase), e.g., Al Fike → af
+      - spirit_id = all lowercase, spaces replaced by hyphens, e.g., john-the-beloved
       - Append -2, -3, ... if multiple messages share the same date/medium/spirit
     pattern: '^\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z]*(?:-[a-z][a-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
 
@@ -55,12 +55,12 @@ properties:
     examples:
       - "Mary, Mother of Jesus"
       - "Mary"
-      - "John the Beloved"    
+      - "John the Beloved"
 
   medium:
     type: string
     description: >
-      Human mediums full name (e.g., "Al Fike"). medium_initials in id derive from this (af).
+      Human medium's full name (e.g., "Al Fike"). medium_initials in id derive from this (af).
 
   location:
     type: object
@@ -79,7 +79,7 @@ properties:
         description: Country (optional, e.g., "Canada").
     additionalProperties: false
 
-  messageType:
+  message_type:
     type: array
     description: One or more labels describing the message; can include any/all of Blessing, Guidance, Teaching.
     items:
@@ -95,12 +95,12 @@ properties:
     minLength: 1
     maxLength: 600
 
-  primarySubjects:
+  primary_subjects:
     type: string
     description: >
-      The single main subject from the “Hierarchy of Subjects in the Messages”.
+      The single main subject from the "Hierarchy of Subjects in the Messages".
 
-  secondarySubjects:
+  secondary_subjects:
     type: array
     description: Up to two additional subject tags (from the same hierarchy).
     items:
@@ -137,21 +137,21 @@ properties:
     uniqueItems: true
     default: []
 
-  relatedMessages:
+  related_messages:
     type: array
-    description: IDs of closely related messages.
+    description: IDs of closely related messages. Must use the same fully lowercase format as message_id.
     items:
       type: string
-      pattern: '^\d{4}-\d{2}-\d{2}-[A-Z]{2}-[A-Z][A-Za-z]*(?:-[A-Z][A-Za-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
+      pattern: '^\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z]*(?:-[a-z][a-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
     uniqueItems: true
     default: []
 
-  audioUrl:
+  audio_url:
     type: [string, "null"]
     format: uri
     description: Optional link to audio recording (MP3/stream).
 
-  canonicalUrl:
+  canonical_url:
     type: [string, "null"]
     format: uri
     description: Optional permanent external URL for the officially published message.
@@ -159,5 +159,10 @@ properties:
   notes:
     type: [string, "null"]
     description: Optional curator notes or historical context.
+
+  last_edited:
+    type: [string, "null"]
+    format: date
+    description: Date this record was last modified (ISO 8601, YYYY-MM-DD). Helps track when translations may need updating.
 
 additionalProperties: false
