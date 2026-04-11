@@ -43,7 +43,7 @@ properties:
       corresponding spirit profile filename in /spirits/<spirit_id>.yml (enforced by validator).
     pattern: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
     examples:
-      - mary-mother-of-jesus
+      - mary
       - john-the-beloved
       - james-padgett
 
@@ -54,7 +54,6 @@ properties:
       one of the spirit aliases (enforced by validator).
     examples:
       - "Mary, Mother of Jesus"
-      - "Mary"
       - "John the Beloved"
 
   medium:
@@ -121,9 +120,12 @@ properties:
   spirits:
     type: array
     description: >
-      Spirits mentioned besides the primary spirit author.
+      spirit_id values of other spirits mentioned besides the primary spirit author.
+      Must be lowercase kebab-case matching filenames in /spirits/<spirit_id>.yml.
+      Use spirit_id values (e.g., "john-the-beloved"), not display names (e.g., "John the Beloved").
     items:
       type: string
+      pattern: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
     uniqueItems: true
     default: []
 

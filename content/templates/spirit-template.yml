@@ -1,0 +1,16 @@
+# === Divine Love Spirit Profile (TEMPLATE) ===
+# Save this file as: /templates/{spirit_id}.yml
+# Where spirit_id is lowercase kebab-case (e.g., john-the-beloved.yml)
+ 
+spirit_id: spirit-id                   # REQUIRED. Lowercase kebab-case, must match this filename exactly (e.g., john-the-beloved)
+ 
+spirit_name: "Full Name"               # REQUIRED. Canonical display name, standard capitalization (e.g., "John the Beloved")
+ 
+spirit_aliases:                        # OPTIONAL. Alternate names this spirit is known by (exclude spirit_name itself). e.g., ["Mary", "Mother of Jesus"]
+  # - "Alternate Name"
+  # - "Another Alias"
+ 
+spirit_description: ""                 # OPTIONAL. Brief description of who this spirit is and their significance.
+ 
+notes: ""                              # OPTIONAL. Any additional context, provenance, or curator notes.
+ 

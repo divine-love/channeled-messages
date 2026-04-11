@@ -1,51 +1,51 @@
 # === Divine Love Message Metadata (TEMPLATE) ===
-# Save this file as: /messages/YYYY/ID.yml
+# Save this file as: /templates/{message_id}.yml
 # Where message_id follows: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
 # - medium_initials: first letters of medium's first & last names, always lowercase (e.g., Al Fike → af)
 # - spirit_id: corresponds to the spirit file name, always lowercase (e.g., john-the-beloved)
 # - Use -2, -3, ... if multiple messages from the same spirit/medium on the same day
- 
+
 message_id: 2025-01-01-af-spirit-id   # REQUIRED. Pattern: YYYY-MM-DD-{medium_initials}-{spirit_id} — always fully lowercase
- 
+
 title: Your Curated Title Here         # REQUIRED. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
- 
+
 date: 2025-01-01                       # REQUIRED. ISO date (YYYY-MM-DD) the message was received.
- 
+
 spirit_name: Spirit Name               # REQUIRED. Full name, standard capitalization (e.g., "John the Beloved").
- 
+
 spirit_id: spirit-id                   # REQUIRED. Spirit identifier matching the spirit file name exactly, always lowercase (e.g., john-the-beloved)
- 
+
 medium: Firstname Lastname             # REQUIRED. Full name of the human medium (e.g., "Al Fike").
- 
+
 location:                              # REQUIRED object; city is required, region/country optional.
   city: City Name                      # e.g., "Gibsons"
   region:                              # OPTIONAL. e.g., "BC" (leave blank if none)
   country:                             # OPTIONAL. e.g., "Canada" (leave blank if none)
- 
+
 message_type:                          # REQUIRED. One or more of: Blessing, Guidance, Teaching.
   - Guidance
   # - Blessing
   # - Teaching
- 
+
 description: >                         # REQUIRED. 1–2 sentence curator summary (max ~600 chars).
   One or two sentences describing the heart of this message, its emphasis, and intended comfort or instruction.
- 
+
 primary_subjects: Main Subject         # REQUIRED. Exactly one subject from your "Hierarchy of Subjects in the Messages".
- 
+
 secondary_subjects:                    # OPTIONAL. Up to two additional subjects from the same hierarchy.
   # - Another Subject
   # - Optional Second Subject
- 
+
 people: []                             # OPTIONAL. Living people mentioned (exclude the medium). e.g., ["Barbara", "James Padgett"]
-spirits: []                            # OPTIONAL. Spirits mentioned besides the primary spirit author. e.g., ["Mary", "John the Beloved"]
- 
+spirits: []                            # OPTIONAL. spirit_id values of spirits mentioned besides the primary spirit author. Must match filenames in /spirits/ exactly. e.g., ["john-the-beloved", "mary"]
+
 keywords: []                           # OPTIONAL. Free-form topical tags. e.g., ["fear", "trust", "protection"]
- 
+
 related_messages: []                   # OPTIONAL. IDs of closely related messages — always fully lowercase. e.g., ["2015-10-12-af-mary"]
- 
+
 audio_url:                             # OPTIONAL. Link to the audio recording (MP3/stream). e.g., "https://example.com/audio/ID.mp3"
 canonical_url:                         # OPTIONAL. Permanent external URL where the message is officially published.
- 
+
 notes:                                 # OPTIONAL. Curator notes, context, or provenance.
- 
+
 last_edited: 2025-01-01               # Update to today's date whenever this record is modified (YYYY-MM-DD).

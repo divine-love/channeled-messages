@@ -13,30 +13,39 @@ This document complements the machine-readable file [`message.schema.yml`](./mes
 Each message is stored in its own `.yml` file within a structured directory tree:
 
 ```
-├─ content/  
-│  └─ messages/  
-│     └─ 2015/  
-│        └─ 11/  
-│           └─ 2015-11-30-af-jesus.yml  
-│        └─ 12/  
-│           └─ 2015-12-07-af-andrew.yml  
-│     └─ 2016/  
-│        └─ 01/  
-│           └─ 2016-01-03-af-augustine.yml  
-├─ spirits/  
-│  └─ jesus.yml  
-│  └─ andrew.yml  
-│  └─ augustine.yml  
-├─ mediums/    
-│  └─ al-fike.yml  
-├─ schema/  
-│  └─ schema.yml  
-│  └─ schema.md    
+├─ content/
+│  └─ messages/
+│     └─ 2015/
+│        └─ 11/
+│           └─ 2015-11-30-af-jesus.yml
+│        └─ 12/
+│           └─ 2015-12-07-af-andrew.yml
+│     └─ 2016/
+│        └─ 01/
+│           └─ 2016-01-03-af-augustine.yml
+│  └─ templates/
+│     └─ medium-template.yml
+│     └─ message-template.yml
+│     └─ spirit-template.yml
+├─ mediums/
+│  └─ al-fike.yml
+├─ metadata/
+│  └─ subjects.yml
+│  └─ theme_clusters.yml
+├─ schema/
+│  └─ message.schema.yml
+│  └─ schema.md
+├─ spirits/
+│  └─ andrew.yml
+│  └─ augustine.yml
+│  └─ jesus.yml
 ```
 
- - `/messages/` contains all message entries organized by year.
- - `/spirits/` and `/mediums/` store background metadata about authors and mediums.
- - `/schema/` contains this documentation and the JSON/YAML schema definition.
+ - `/content/messages/` contains all message entries organized by year.
+ - `/content/templates/` contains template files for messages, spirits, and mediums.
+ - `/spirits/` and `/mediums/` store background metadata about spirit authors and mediums.
+ - `/metadata/` contains controlled vocabulary files such as `subjects.yml` and `theme_clusters.yml`.
+ - `/schema/` contains this documentation and the machine-readable schema definition.
 
 
 ## 2. Message ID Pattern
@@ -141,7 +150,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **primary_subjects** | string | The single main subject category chosen from the subject hierarchy. Represents the central theme. | `Divine Love & Relationship with God` |
 | **secondary_subjects** | array of strings (up to 2) | Up to two related subjects drawn from the same hierarchy to reflect secondary themes. | `["Spiritual Discipline & Daily Living", "Earthly Challenges & Human Condition"]` |
 | **people** | array of strings | Names of living human beings mentioned (excluding the medium). | `["James Padgett", "Helen Padgett"]` |
-| **spirits** | array of strings | Names of other spirits mentioned besides the main `spirit` field. | `["Alec Gaunt", "Mary"]` |
+| **spirits** | array of strings | `spirit_id` values of other spirits mentioned besides the primary spirit author. Must match filenames in `/spirits/` exactly — always lowercase kebab-case. Using `spirit_id` rather than display names ensures consistent searchability across the archive. | `["john-the-beloved", "mary"]` |
 | **keywords** | array of strings | Free-form topical tags or short phrases to improve search and categorization. | `["trust", "peace", "faith", "guidance"]` |
 | **related_messages** | array of strings | Message IDs of other texts connected by subject, author, or event. Use full ID format — **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-26-af-augustine"]` |
 | **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
@@ -172,7 +181,7 @@ description: A message encouraging disciples to walk confidently in God's light 
 primary_subjects: Divine Love & Relationship with God
 secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]
 people: []
-spirits: ["Andrew", "Augustine"]
+spirits: ["andrew", "augustine"]
 keywords: ["discipleship", "service", "light", "divine love"]
 related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
@@ -220,6 +229,7 @@ When adding or editing messages, please follow these YAML guidelines.
  - Do not add blank lines at the beginning or end of the YAML block.
  - Save in UTF-8 encoding.
  - All field names must be **snake_case exactly as shown** — do not capitalize them (e.g., `spirit:` not `Spirit:`, `message_type:` not `MessageType:`).
+ - The **`spirits` field uses `spirit_id` values** (lowercase kebab-case, matching the spirit's filename), not display names. This ensures consistent searchability. Example: `["john-the-beloved", "mary"]` not `["John the Beloved", "Mary"]`. The **`people` field** is the exception — since living people don't have profile files, use their full display names there.
 
 ### Example of good formatting
 
@@ -258,6 +268,7 @@ Before committing a new message:
  - ✅ At least one **message_type** and one **primary_subjects** are present
  - ✅ **Optional fields are present but left blank if unknown** (e.g., `audio_url: ""` or `spirits: []`) — do not omit them entirely, as validators expect all fields to be present
  - ✅ All IDs in **related_messages** are lowercase and match existing `message_id` values exactly
+ - ✅ All entries in **spirits** use `spirit_id` values (lowercase kebab-case) matching filenames in `/spirits/`
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
  - ✅ A short **description** is included
  - ✅ The file is saved as `.yml` under the correct year folder
