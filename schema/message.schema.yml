@@ -21,7 +21,7 @@ properties:
     type: string
     description: >
       Unique identifier: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
-      - medium_initials = first letters of the medium’s first and last names (not capitalized), e.g., Al Fike → af
+      - medium_initials = first letters of the mediums first and last names (not capitalized), e.g., Al Fike → af
       - spirit_id = standard capitalization, spaces replaced by hyphens, e.g., john-the-beloved
       - Append -2, -3, ... if multiple messages share the same date/medium/spirit
     pattern: '^\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z]*(?:-[a-z][a-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
@@ -60,7 +60,7 @@ properties:
   medium:
     type: string
     description: >
-      Human medium’s full name (e.g., "Al Fike"). medium_initials in id derive from this (af).
+      Human mediums full name (e.g., "Al Fike"). medium_initials in id derive from this (af).
 
   location:
     type: object
@@ -91,7 +91,7 @@ properties:
   description:
     type: string
     description: >
-      Short (1–2 sentences) curator summary of the message’s purpose/insight.
+      Short (1 to 2 sentences) curator summary of the message purpose/insight.
     minLength: 1
     maxLength: 600
 

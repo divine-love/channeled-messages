@@ -12,16 +12,17 @@ This document complements the machine-readable file [`message.schema.yml`](./mes
 
 Each message is stored in its own `.yml` file within a structured directory tree:
 
+```
 ├─ content/  
 │  └─ messages/  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─ 2015/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ 11/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─2015-11-30-AF-Jesus.yml  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ 12/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─2015-12-07-AF-Andrew.yml  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─ 2016/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ 01/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─2016-01-03-AF-Augustine.yml  
+│     └─ 2015/  
+│        └─ 11/  
+│           └─ 2015-11-30-af-jesus.yml  
+│        └─ 12/  
+│           └─ 2015-12-07-af-andrew.yml  
+│     └─ 2016/  
+│        └─ 01/  
+│           └─ 2016-01-03-af-augustine.yml  
 ├─ spirits/  
 │  └─ jesus.yml  
 │  └─ andrew.yml  
@@ -31,6 +32,7 @@ Each message is stored in its own `.yml` file within a structured directory tree
 ├─ schema/  
 │  └─ schema.yml  
 │  └─ schema.md    
+```
 
  - `/messages/` contains all message entries organized by year.
  - `/spirits/` and `/mediums/` store background metadata about authors and mediums.
@@ -42,17 +44,18 @@ Each message has a unique id using this format:
 
 ### Pattern for message_id:
 
-YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
+`YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}`
 
 ### Rules:
 
- - `{mediuminitials}` = the first letter of the medium’s first and last name (not capitalized).
-Example: Al Fike → af
- - `{spirit_id}` = the spirit’s unique identifier, corresponding to name in the spirit file. Naming pattern is the spirits full name with **each space replaced by a hyphen (-)**.
-Example: John the Beloved → john-the-beloved
- - spirit_id is never capitalized. It must match the spirit file name exactly. 
+ - `{medium_initials}` = the first letter of the medium's first and last name, **always lowercase**.
+   Example: Al Fike → `af`
+ - `{spirit_id}` = the spirit's unique identifier, corresponding to the name in the spirit file. Naming pattern is the spirit's full name with **each space replaced by a hyphen (-)**.
+   Example: John the Beloved → `john-the-beloved`
+ - `spirit_id` is **never capitalized**. It must match the spirit file name exactly. 
  - If more than one message is received by the same spirit and medium on the same day, append `-2`, `-3`, etc. to keep all IDs unique.
  - **Never include spaces** in the ID — use hyphens instead. This ensures compatibility across URLs, filenames, and YAML parsing.
+ - **IDs are always lowercase** — including `medium_initials`. Never use uppercase anywhere in an ID.
 
 ### Example Message IDs
 
@@ -72,7 +75,7 @@ Example: John the Beloved → john-the-beloved
 ### YAML Field Example
 
 ```yaml
-id: 2015-10-12-af-john-the-beloved
+message_id: 2015-10-12-af-john-the-beloved
 spirit_id: john-the-beloved
 spirit_name: "John the Beloved"
 ```
@@ -96,17 +99,18 @@ location:
   city: Gibsons
   region: BC        # optional
   country: Canada   # optional
-messageType: ["Teaching", "Guidance"]  # any of: Blessing, Guidance, Teaching; can be multiple
+message_type: ["Teaching", "Guidance"]  # any of: Blessing, Guidance, Teaching; can be multiple
 description: A message encouraging disciples to walk confidently in God's light and share His Love with the world.
-primarySubjects: Divine Love & Relationship with God   # exactly one main subject
-secondarySubjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]  # up to two
+primary_subjects: Divine Love & Relationship with God   # exactly one main subject
+secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]  # up to two
 people: []          # living humans mentioned (not the medium)
 spirits: ["Andrew", "Augustine"]         # other spirits mentioned besides `spirit`
 keywords: ["discipleship", "service", "light", "divine love"]
-relatedMessages: ["2015-11-28-AF-Mary"]
-audioUrl: https://example.org/audio/2015-11-30-jesus.mp3
-canonicalUrl: https://divinelovesanctuary.com/messages/2015-11-30-jesus
+related_messages: ["2015-11-28-af-mary"]
+audio_url: https://example.org/audio/2015-11-30-jesus.mp3
+canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
 notes: Message received during evening circle in Gibsons, BC.
+last_edited: 2025-06-01
 ---
 <message text here>
 ```
@@ -123,26 +127,27 @@ All messages have been read and approved by the medium prior to posting. Please 
 
 | Field | Type | Description | Example |
 |-------|------|------------|----------|
-| **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{medium_initials}-{spirit_id}{-2 -3...}`. Braces show the pattern only, do **not** include them in real IDs. `{medium_initials}` are the first and last initials of the medium (e.g., Al Fike → af). `{spirit_id}` matches spirit file name (e.g., “john-the-beloved”). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. | `2015-11-30-af-jesus-2` |
+| **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{medium_initials}-{spirit_id}{-2\|-3...}`. Braces show the pattern only, do **not** include them in real IDs. `{medium_initials}` are the first and last initials of the medium, always lowercase (e.g., Al Fike → `af`). `{spirit_id}` matches spirit file name (e.g., `john-the-beloved`). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. **IDs are always fully lowercase.** | `2015-11-30-af-jesus-2` |
 | **title** | string | The given title of the message. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `You Are My Disciples` |
 | **date** | string (YYYY-MM-DD) | The date the message was received, always using ISO format. | `2015-11-30` |
-| **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., “john-the-beloved”). | `john-the-beloved` |
-| **spirit_name** | string | The full name of the spirit author, written in normal capitalization (e.g., “John the Beloved”). | `John the Beloved` |
-| **medium** | string | The full name of the human medium who received the message. These initials form the {medium_initials} in the ID. | `Al Fike` |
+| **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., `john-the-beloved`). Always lowercase; must match the spirit's filename exactly. | `john-the-beloved` |
+| **spirit_name** | string | The full name of the spirit author, written in normal capitalization (e.g., "John the Beloved"). | `John the Beloved` |
+| **medium** | string | The full name of the human medium who received the message. These initials form the `{medium_initials}` in the ID. | `Al Fike` |
 | **location.city** | string | The city or locality where the message was received. | `Gibsons` |
 | **location.region** | string | The state, province, or region. Optional; leave blank if not applicable. | `BC` |
 | **location.country** | string | The country where the message was received. Optional. | `Canada` |
-| **messageType** | array of strings | One or more of: **Blessing, Guidance, Teaching**. Messages may include multiple types. | `["Guidance", "Teaching"]` |
+| **message_type** | array of strings | One or more of: **Blessing, Guidance, Teaching**. Messages may include multiple types. | `["Guidance", "Teaching"]` |
 | **description** | string | A short (1–2 sentence) summary describing the purpose or insight of the message. | `Encouragement to release fear and trust God's protection amid changing earthly conditions.` |
-| **primarySubjects** | string | The single main subject category chosen from the subject hierarchy. Represents the central theme. | `Divine Love & Relationship with God` |
-| **secondarySubjects** | array of strings (up to 2) | Up to two related subjects drawn from the same hierarchy to reflect secondary themes. | `["Spiritual Discipline & Daily Living", "Earthly Challenges & Human Condition"]` |
+| **primary_subjects** | string | The single main subject category chosen from the subject hierarchy. Represents the central theme. | `Divine Love & Relationship with God` |
+| **secondary_subjects** | array of strings (up to 2) | Up to two related subjects drawn from the same hierarchy to reflect secondary themes. | `["Spiritual Discipline & Daily Living", "Earthly Challenges & Human Condition"]` |
 | **people** | array of strings | Names of living human beings mentioned (excluding the medium). | `["James Padgett", "Helen Padgett"]` |
 | **spirits** | array of strings | Names of other spirits mentioned besides the main `spirit` field. | `["Alec Gaunt", "Mary"]` |
 | **keywords** | array of strings | Free-form topical tags or short phrases to improve search and categorization. | `["trust", "peace", "faith", "guidance"]` |
-| **relatedMessages** | array of strings | Message IDs of other texts connected by subject, author, or event. Use full ID format. | `["2015-11-28-AF-Mary", "2015-11-26-AF-Augustine"]` |
-| **audioUrl** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
-| **canonicalUrl** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
-| **notes** | string | Optional free-text field for contextual notes about where or how the message was received. | Evening prayer circle at Gibsons, BC |
+| **related_messages** | array of strings | Message IDs of other texts connected by subject, author, or event. Use full ID format — **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-26-af-augustine"]` |
+| **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
+| **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
+| **notes** | string | Optional free-text field for contextual notes about where or how the message was received. | `Evening prayer circle at Gibsons, BC` |
+| **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Helps track which translation files may need updating after source edits. | `2025-06-01` |
 
 ---
 
@@ -162,17 +167,18 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-messageType: ["Teaching", "Guidance"]
+message_type: ["Teaching", "Guidance"]
 description: A message encouraging disciples to walk confidently in God's light and share His Love with the world.
-primarySubjects: Divine Love & Relationship with God
-secondarySubjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]
+primary_subjects: Divine Love & Relationship with God
+secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]
 people: []
 spirits: ["Andrew", "Augustine"]
 keywords: ["discipleship", "service", "light", "divine love"]
-relatedMessages: ["2015-11-28-AF-Mary"]
-audioUrl: https://example.org/audio/2015-11-30-jesus.mp3
-canonicalUrl: https://divinelovesanctuary.com/messages/2015-11-30-jesus
+related_messages: ["2015-11-28-af-mary"]
+audio_url: https://example.org/audio/2015-11-30-jesus.mp3
+canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
 notes: Message received during evening circle in Gibsons, BC.
+last_edited: 2025-06-01
 ```
 
 ### Minimal Example
@@ -188,17 +194,18 @@ location:
   city: Vancouver
   region: BC
   country: Canada
-messageType: ["Blessing"]
+message_type: ["Blessing"]
 description: Encouragement to open the soul to God's Love like a flower to the sun.
-primarySubjects: Divine Love & Relationship with God
-secondarySubjects: []
+primary_subjects: Divine Love & Relationship with God
+secondary_subjects: []
 people: []
 spirits: []
 keywords: ["openness", "prayer", "faith"]
-relatedMessages: []
-audioUrl: ""
-canonicalUrl: ""
+related_messages: []
+audio_url: ""
+canonical_url: ""
 notes: Morning gathering in a private home circle.
+last_edited: 2025-06-01
 ```
 
 ## 6. YAML Entry Style Guide
@@ -212,12 +219,13 @@ When adding or editing messages, please follow these YAML guidelines.
  - Use square brackets `[]` for short lists or multiple lines for readability.
  - Do not add blank lines at the beginning or end of the YAML block.
  - Save in UTF-8 encoding.
+ - All field names must be **snake_case exactly as shown** — do not capitalize them (e.g., `spirit:` not `Spirit:`, `message_type:` not `MessageType:`).
 
 ### Example of good formatting
 
 ```yaml
-messageType: ["Guidance", "Teaching"]
-secondarySubjects:
+message_type: ["Guidance", "Teaching"]
+secondary_subjects:
   - Spiritual Discipline & Daily Living
   - Service & Ministry
 location:
@@ -230,25 +238,30 @@ location:
 
 | Mistake | Why It's Wrong | Correct Form |
 |-------|------|------------|
-| Using tabs instead of spaces	| YAML is indentation-sensitive	| Use 2 spaces |
-| Missing quotes around `:` or `&`	| YAML misreads it as a key separator	| `"Love & Truth"` |
-| Empty array as `""` |	Not valid	| `[]` |
-| Unclosed brackets	| Parsing error	| `["Teaching", "Guidance"]` |
-| Capitalized field names	| Must match schema	| `spirit: Jesus`, not `Spirit:` |
+| Using tabs instead of spaces | YAML is indentation-sensitive | Use 2 spaces |
+| Missing quotes around `:` or `&` | YAML misreads it as a key separator | `"Love & Truth"` |
+| Empty array as `""` | Not valid | `[]` |
+| Unclosed brackets | Parsing error | `["Teaching", "Guidance"]` |
+| Capitalized field names | Must match schema exactly | `spirit: Jesus`, not `Spirit: Jesus` |
+| Uppercase in IDs or `related_messages` | IDs must always be lowercase | `2015-11-28-af-mary`, not `2015-11-28-AF-Mary` |
+| Using camelCase field names | All fields use snake_case | `message_type`, not `messageType`; `audio_url`, not `audioUrl` |
+| Omitting optional fields entirely | Omitting fields breaks validators | Leave blank: `audio_url: ""` or `spirits: []` |
 
 
 ## 7. Contributor Checklist
 
 Before committing a new message:
 
- - ✅ The **message_id** matches `YYYY-MM-DD-{MediumInitials}-{spirit_id}` format
- - ✅ The **spirit_id** matches a name in the spirit list
+ - ✅ The **message_id** matches `YYYY-MM-DD-{medium_initials}-{spirit_id}` format and is **fully lowercase**
+ - ✅ The **spirit_id** matches a filename in the `/spirits/` folder exactly
  - ✅ The **title**, **date**, **spirit_id**, and **medium** are filled in
- - ✅ At least one **messageType** and one **primarySubject**
- - ✅ Optional fields are blank if unknown (not omitted)
+ - ✅ At least one **message_type** and one **primary_subjects** are present
+ - ✅ **Optional fields are present but left blank if unknown** (e.g., `audio_url: ""` or `spirits: []`) — do not omit them entirely, as validators expect all fields to be present
+ - ✅ All IDs in **related_messages** are lowercase and match existing `message_id` values exactly
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
  - ✅ A short **description** is included
  - ✅ The file is saved as `.yml` under the correct year folder
+ - ✅ **last_edited** is set to today's date
 
 
 ## 8. Translations
@@ -259,25 +272,55 @@ Each translation should be saved as **its own Markdown** (`.md`) file in the sam
 
 ### Example filename:
 
-```yaml
+```
 2015-11-23-af-jesus.pt-br.md
 ```
 
 ### Example front matter for a translated file:
 
 ```yaml
+---
 language: pt-br
+translation_of: 2015-11-23-af-jesus
+message_id: 2015-11-23-af-jesus
+title: Você São Meus Discípulos
+date: 2015-11-23
+spirit_id: jesus
+spirit_name: Jesus
+medium: Al Fike
+location:
+  city: Gibsons
+  region: BC
+  country: Canada
+message_type: ["Teaching", "Guidance"]
+description: Uma mensagem encorajando os discípulos a caminharem com confiança na luz de Deus.
+primary_subjects: Amor Divino & Relacionamento com Deus
+secondary_subjects: []
+people: []
+spirits: []
+keywords: ["discipulado", "serviço", "luz", "amor divino"]
+related_messages: []
+audio_url: ""
+canonical_url: ""
+notes: ""
+last_edited: 2025-06-01
 translations:
   available: [pt-br]
-  translation_of: 2015-11-23-af-jesus
+---
+<translated message text here>
+
+---
+*Translated by [Translator Name]. Translation reviewed for fidelity to the original.*
 ```
 
 Translation files should:
 
- - Retain the same metadata structure and fields as the original.
- - Include a translator’s note or credit at the end if desired.
- - Use the same `id` pattern for cross-referencing (e.g., `translation_of` links back to the main `.yml`).
- - Be reviewed for fidelity to the original meaning.
+ - Retain the **same metadata structure and fields** as the original source file.
+ - Include `translation_of` linking back to the source `message_id`.
+ - Use the same `message_id` value as the source for cross-referencing.
+ - Be reviewed for fidelity to the original meaning before committing.
+ - Include a translator's note or credit at the end if desired.
+ - Update `last_edited` if the translation is revised after the source message changes.
 
 ## 9. Licensing
 
