@@ -1,0 +1,28 @@
+---
+message_id: 2015-01-05-anon-jesus
+title: "You Are Deeply Needed"
+date: 2015-01-05
+spirit_name: Jesus
+spirit_id: jesus
+medium: Anonymous
+location:
+  city: Gibsons
+  region: BC
+  country: Canada
+message_type: ["Blessing"]
+description: "Jesus affirms the deep purpose of a gathered group, telling them they are precious, beloved, and deeply needed in a world of suffering and longing. He encourages them to allow God's Love to flow through them as a healing presence for the lost and suffering."
+primary_subjects: "Service, Ministry & Being a Channel of Love"
+secondary_subjects: ["Spiritual Empowerment & Encouragement", "Divine Love & Relationship with God"]
+people: []
+spirits: []
+keywords: ["Jesus", "purpose", "deeply needed", "love", "peace", "acceptance", "suffering", "lost souls", "angels", "channel of love", "divine love", "blessing"]
+related_messages: []
+audio_url: ""
+canonical_url: "https://divinelovesanctuary.com/you-are-deeply-needed/"
+notes: "[love?] in paragraph 2 is an editorial insertion indicating an uncertain or inaudible word in the original transcription. Medium requested anonymity."
+last_edited: 2026-04-11
+---
+
+I am Jesus and you are deeply needed, precious and beloved. Yes, beloveds, you are deeply needed. You bring peace and love and acceptance which is so deeply, deeply required. Yes, my beloveds, continue your journey upon the path of Love. Yes, my precious ones, you are so deeply needed and many who hunger and suffer and longing to be loved by God. The Angels surround you with a touch that is deeply, deeply needed in your world. This is your purpose, my beloveds. Let the love flow around you, allow this to touch the lost and the suffering.
+
+Yes, my beloveds, you have this deep purpose and you will do this. The Heavenly Father has touched you and we will help you to take this deepening [love?] into your world. You must allow this to help the lost and suffering. You are precious, beloved souls, beloveds this is your deep purpose….. Let the Creator's Love flow from you, bring peace, love and acceptance. You are precious beloveds with a deep purpose. Yes, my beloveds, a deep purpose. Bless you. Accept this.
