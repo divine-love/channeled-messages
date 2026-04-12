@@ -99,7 +99,7 @@ Each message file is a **Markdown document** with a **YAML front matter** block 
 ---
 # YAML front matter (metadata)
 message_id: 2015-11-30-af-jesus
-title: You Are My Disciples
+title: "You Are My Disciples"
 date: 2015-11-30
 spirit_id: jesus
 spirit_name: Jesus
@@ -137,7 +137,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | Field | Type | Description | Example |
 |-------|------|------------|----------|
 | **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{medium_initials}-{spirit_id}{-2\|-3...}`. Braces show the pattern only, do **not** include them in real IDs. `{medium_initials}` are the first and last initials of the medium, always lowercase (e.g., Al Fike → `af`). `{spirit_id}` matches spirit file name (e.g., `john-the-beloved`). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. **IDs are always fully lowercase.** | `2015-11-30-af-jesus-2` |
-| **title** | string | The given title of the message. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `You Are My Disciples` |
+| **title** | string | The given title of the message. Always wrap in double quotes. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `"You Are My Disciples"` |
 | **date** | string (YYYY-MM-DD) | The date the message was received, always using ISO format. | `2015-11-30` |
 | **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., `john-the-beloved`). Always lowercase; must match the spirit's filename exactly. | `john-the-beloved` |
 | **spirit_name** | string | The full name of the spirit author, written in normal capitalization (e.g., "John the Beloved"). | `John the Beloved` |
@@ -167,7 +167,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 
 ```yaml
 message_id: 2015-11-30-af-jesus
-title: You Are My Disciples
+title: "You Are My Disciples"
 date: 2015-11-30
 spirit_id: jesus
 spirit_name: Jesus
@@ -194,7 +194,7 @@ last_edited: 2025-06-01
 
 ```yaml
 message_id: 2015-12-07-af-andrew
-title: Be Open To God As A Flower Opens To The Sun
+title: "Be Open To God As A Flower Opens To The Sun"
 date: 2015-12-07
 spirit_id: andrew
 spirit_name: Andrew
@@ -250,6 +250,7 @@ location:
 | Mistake | Why It's Wrong | Correct Form |
 |-------|------|------------|
 | Using tabs instead of spaces | YAML is indentation-sensitive | Use 2 spaces |
+| Unquoted title | Titles should always be in double quotes | `title: "Express Your Yearnings to God"` |
 | Missing quotes around `:` or `&` | YAML misreads it as a key separator | `"Love & Truth"` |
 | Empty array as `""` | Not valid | `[]` |
 | Unclosed brackets | Parsing error | `["Teaching", "Guidance"]` |
