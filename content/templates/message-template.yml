@@ -1,5 +1,5 @@
 # === Divine Love Message Metadata (TEMPLATE) ===
-# Save this file as: /templates/{message_id}.yml
+# Save this file as: /messages/YYYY/ID.yml
 # Where message_id follows: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
 # - medium_initials: first letters of medium's first & last names, always lowercase (e.g., Al Fike → af)
 # - spirit_id: corresponds to the spirit file name, always lowercase (e.g., john-the-beloved)
@@ -32,7 +32,7 @@ description: >                         # REQUIRED. 1–2 sentence curator summar
 
 primary_subjects: Main Subject         # REQUIRED. Exactly one subject from your "Hierarchy of Subjects in the Messages".
 
-secondary_subjects:                    # OPTIONAL. Up to two additional subjects from the same hierarchy.
+secondary_subjects:                    # OPTIONAL. Up to three subjects from any level of the hierarchy — top category or subcategory. Choose the most relevant regardless of level.
   # - Another Subject
   # - Optional Second Subject
 

@@ -3,12 +3,7 @@
 # Where medium_id is lowercase kebab-case (e.g., al-fike.yml)
  
 medium_id: medium-id                   # REQUIRED. Lowercase kebab-case, must match this filename exactly (e.g., al-fike)
- 
 medium_name: "Full Name"               # REQUIRED. Full display name, standard capitalization (e.g., "Al Fike")
- 
 medium_aliases: []                     # OPTIONAL. Alternate names this medium is known by (exclude medium_name itself). e.g., ["Al", "Al Fike"]
- 
 medium_description: ""                 # OPTIONAL. Brief description of who this medium is and their significance.
- 
 notes: ""                              # OPTIONAL. Any additional context, provenance, or curator notes.
- 
