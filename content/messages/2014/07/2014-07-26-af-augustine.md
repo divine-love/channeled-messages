@@ -16,6 +16,15 @@ secondary_subjects: ["Divine Will, Guidance & Orchestration", "Earthly Challenge
 people: []
 spirits: []
 keywords: ["free will", "God's will", "chaos", "world events", "prayer", "faith", "patience", "light", "darkness", "love", "choice", "celestial heavens", "trust"]
+questions:
+  - "Why does God allow bad things to happen in the world?"
+  - "Can God control world events?"
+  - "What is the relationship between free will and God's will?"
+  - "Why is the world in such chaos?"
+  - "How do I stay peaceful when the world feels out of control?"
+  - "Does prayer make a difference in the world?"
+  - "How do I align my will with God's will?"
+  - "Why doesn't God fix the problems in the world?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-makes-free-wheeling-world-nothing-guaranteed/"

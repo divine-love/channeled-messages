@@ -16,6 +16,15 @@ secondary_subjects: ["Earth Changes & Prophecy", "Divine Will, Guidance & Orches
 people: []
 spirits: []
 keywords: ["Alec Gaunt", "preparation", "step forward", "earth changes", "transformation", "God's will", "crossroads", "light", "harmony", "peace", "resistance", "flow", "mission", "friendship", "guide"]
+questions:
+  - "How do I know when God is calling me to act?"
+  - "How do I let go of resistance to God's will?"
+  - "What does it mean to step forward in God's service?"
+  - "How do I prepare spiritually for my mission?"
+  - "What are the earth changes that are coming?"
+  - "How do I stay in the flow of God's Love?"
+  - "What happens when we resist God's plan?"
+  - "How do spirit guides help us in our mission?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/after-all-your-preparations-it-is-time-to-step-forward/"

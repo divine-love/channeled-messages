@@ -16,6 +16,14 @@ secondary_subjects: ["Divine Will, Guidance & Orchestration", "Soul Transformati
 people: []
 spirits: []
 keywords: ["Augustine", "fellowship", "gathering", "prayer", "soul perception", "God's will", "river of love", "alignment", "embrace", "progression", "circle of light", "Divine Love", "harmony", "guidance"]
+questions:
+  - "How do I align myself with God's will?"
+  - "What does it mean to be in the flow of God's Love?"
+  - "How does fellowship strengthen my spiritual growth?"
+  - "How do I embrace others who are at different stages of the spiritual path?"
+  - "How does my soul perception deepen over time?"
+  - "What does it mean to wade in the river of God's Love?"
+  - "How do I welcome newcomers into a spiritual community?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/embrace-those-that-are-coming-and-embrace-the-flow-of-gods-love/"

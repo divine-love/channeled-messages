@@ -117,6 +117,10 @@ secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"
 people: []          # living humans mentioned (not the medium)
 spirits: ["Andrew", "Augustine"]         # other spirits mentioned besides `spirit`
 keywords: ["discipleship", "service", "light", "divine love"]
+questions:
+  - "How can I serve God's Love in the world?"
+  - "What does it mean to be a disciple of Jesus?"
+  - "How do I walk in God's Light every day?"
 related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
@@ -154,6 +158,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **people** | array of strings | Names of living human beings mentioned (excluding the medium). | `["James Padgett", "Helen Padgett"]` |
 | **spirits** | array of strings | `spirit_id` values of other spirits mentioned besides the primary spirit author. Must match filenames in `/spirits/` exactly — always lowercase kebab-case. Using `spirit_id` rather than display names ensures consistent searchability across the archive. | `["john-the-beloved", "mary"]` |
 | **keywords** | array of strings | Free-form topical tags or short phrases to improve search and categorization. | `["trust", "peace", "faith", "guidance"]` |
+| **questions** | array of strings | Natural language questions this message addresses, written as a seeker might type them into a search engine. Include as many as are relevant — the more specific, the better for discoverability. | `["How does Divine Love change the soul?", "Can any soul be redeemed?"]` |
 | **related_messages** | array of strings | Message IDs of other texts connected by subject, author, or event. Use full ID format — **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-26-af-augustine"]` |
 | **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
 | **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
@@ -185,6 +190,10 @@ secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"
 people: []
 spirits: ["andrew", "augustine"]
 keywords: ["discipleship", "service", "light", "divine love"]
+questions:
+  - "How can I serve God's Love in the world?"
+  - "What does it mean to be a disciple of Jesus?"
+  - "How do I walk in God's Light every day?"
 related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
@@ -212,6 +221,9 @@ secondary_subjects: []
 people: []
 spirits: []
 keywords: ["openness", "prayer", "faith"]
+questions:
+  - "How do I open my soul to God's Love?"
+  - "What does it feel like to receive Divine Love?"
 related_messages: []
 audio_url: ""
 canonical_url: ""
@@ -273,6 +285,7 @@ Before committing a new message:
  - ✅ **Optional fields are present but left blank if unknown** (e.g., `audio_url: ""` or `spirits: []`) — do not omit them entirely, as validators expect all fields to be present
  - ✅ All IDs in **related_messages** are lowercase and match existing `message_id` values exactly
  - ✅ All entries in **spirits** use `spirit_id` values (lowercase kebab-case) matching filenames in `/spirits/`
+ - ✅ At least one **question** is included in the `questions` field to aid search discoverability
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
  - ✅ A short **description** is included
  - ✅ The file is saved as `.yml` under the correct year folder

@@ -16,6 +16,15 @@ secondary_subjects: ["Spiritual Discipline & Daily Living", "Service, Ministry &
 people: []
 spirits: []
 keywords: ["Augustine", "ministry", "titles", "humility", "God's will", "church", "compliance", "soul progression", "fellowship", "Divine path", "grace", "acceptance", "light", "channel of love"]
+questions:
+  - "How do I serve God within the structures of religion?"
+  - "Does having a religious title make me more spiritual?"
+  - "How do I carry a position of authority with humility?"
+  - "How do I work with others who have different spiritual views?"
+  - "How do I accept God's will when it surprises me?"
+  - "Can I serve God within a traditional church?"
+  - "How do I find joy in doing God's will even when it's unexpected?"
+  - "What is the relationship between soul progression and religious roles?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/complying-will-god/"

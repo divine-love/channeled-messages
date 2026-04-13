@@ -8,7 +8,7 @@
 
 message_id: 2025-01-01-af-spirit-id   # REQUIRED. Pattern: YYYY-MM-DD-{medium_initials}-{spirit_id} — always fully lowercase
 
-title: "Your Curated Title Here"       # REQUIRED. Always wrap in double quotes. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
+title: "Your Curated Title Here"         # REQUIRED. Always wrap in double quotes. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
 
 date: 2025-01-01                       # REQUIRED. ISO date (YYYY-MM-DD) the message was received.
 
@@ -41,6 +41,8 @@ people: []                             # OPTIONAL. Living people mentioned (excl
 spirits: []                            # OPTIONAL. spirit_id values of spirits mentioned besides the primary spirit author. Must match filenames in /spirits/ exactly. e.g., ["john-the-beloved", "mary"]
 
 keywords: []                           # OPTIONAL. Free-form topical tags. e.g., ["fear", "trust", "protection"]
+
+questions: []                          # RECOMMENDED. Natural language questions this message answers, as a seeker might search for them. Include as many as relevant. e.g., ["How does Divine Love change the soul?", "Can any soul be redeemed?", "What is the difference between natural love and Divine Love?"]
 
 related_messages: []                   # OPTIONAL. IDs of closely related messages — always fully lowercase. e.g., ["2015-10-12-af-mary"]
 

@@ -16,6 +16,15 @@ secondary_subjects: ["Mind vs Soul Conflict", "Preparation for Earth Mission"]
 people: []
 spirits: []
 keywords: ["Confucius", "soul ascendency", "prayer", "human condition", "change", "love", "judgment", "fear", "bias", "example", "service", "preparation", "growth", "consciousness", "harmony"]
+questions:
+  - "How do I let my soul lead instead of my mind?"
+  - "How do I overcome judgment and fear in my spiritual life?"
+  - "Why is prayer so important for spiritual growth?"
+  - "How can everything I do become a prayer?"
+  - "How do I prepare to help others on the spiritual path?"
+  - "How do I release reactive thinking and fear?"
+  - "What does it mean to be an example of God's Love?"
+  - "How do I embrace those who are spiritually searching?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/change-within-is-coming-as-your-souls-grow-in-the-love/"

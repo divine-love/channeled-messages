@@ -1,6 +1,6 @@
 ---
 message_id: 2014-10-11-af-confucius
-title: "You Will Never Feel the Pain of Being Alone When You Possess God's Love"
+title: You Will Never Feel the Pain of Being Alone When You Possess God's Love
 date: 2014-10-11
 spirit_name: Confucius
 spirit_id: confucius
@@ -16,6 +16,16 @@ secondary_subjects: ["Divine Love & Relationship with God", "Soul Transformation
 people: []
 spirits: []
 keywords: ["Confucius", "Divine Love", "natural love", "soul", "prayer", "at-onement", "aloneness", "longing", "God's presence", "eternity", "divine essence", "opening the heart", "fellowship"]
+questions:
+  - "What is the difference between natural love and Divine Love?"
+  - "Why do I feel alone even when surrounded by people?"
+  - "How do I receive God's Divine Love?"
+  - "What does it mean to open your soul to God?"
+  - "Is opening the heart the same as opening the soul?"
+  - "How does prayer connect me to God?"
+  - "What is God's Divine Essence?"
+  - "Can God's Love fill the emptiness I feel inside?"
+  - "How does Divine Love lead to at-onement with God?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-will-never-feel-the-pain-of-being-alone-when-you-possess-gods-love/"

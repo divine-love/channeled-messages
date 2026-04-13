@@ -1,6 +1,6 @@
 ---
 message_id: 2014-12-01-af-john-the-beloved
-title: "Express Your Yearnings to God"
+title: Express Your Yearnings to God
 date: 2014-12-01
 spirit_name: John the Beloved
 spirit_id: john-the-beloved
@@ -16,6 +16,16 @@ secondary_subjects: ["Spiritual Community & Fellowship", "Circle of Light & Pray
 people: []
 spirits: []
 keywords: ["prayer", "yearning", "soul longing", "fellowship", "prayer circle", "light", "faith", "humility", "service", "God's will", "channel of love", "self-love", "guidance", "divine love"]
+questions:
+  - "How do I express my soul's longing to God?"
+  - "Why is it important to pray together in a group?"
+  - "How do I love myself spiritually?"
+  - "What does it mean to be a channel of God's Love?"
+  - "How do I hear God's guidance in my life?"
+  - "Why do I struggle to love myself?"
+  - "How does self-love connect to loving others?"
+  - "What is the value of a prayer circle?"
+  - "How do I walk in faith and humility?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/express-your-yearnings-to-god/"

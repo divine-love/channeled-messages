@@ -16,6 +16,16 @@ secondary_subjects: ["Soul Transformation & Development", "Earth Changes & Proph
 people: []
 spirits: []
 keywords: ["Augustine", "two selves", "soul", "material mind", "soul consciousness", "Divine Love", "world change", "choice", "light", "channel of love", "self-love", "God's plan", "human condition", "soul ascension"]
+questions:
+  - "What is the difference between the soul and the material mind?"
+  - "How do I let my soul guide me instead of my mind?"
+  - "What does it mean for the soul to ascend?"
+  - "How do I rise above the human condition?"
+  - "What are the two selves within a person?"
+  - "How do I choose soul consciousness over mental consciousness?"
+  - "What is coming in terms of world change?"
+  - "How do I prepare spiritually for difficult times ahead?"
+  - "How does Divine Love change my consciousness?"
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/recognizing-your-two-selves-the-soul-and-the-material-mind/"

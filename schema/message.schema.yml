@@ -144,6 +144,21 @@ properties:
     uniqueItems: true
     default: []
 
+  questions:
+    type: array
+    description: >
+      Natural language questions that this message addresses, written as a seeker might
+      type them into a search engine. Helps people find messages by the specific questions
+      they are asking. Include as many as are relevant. Examples: "How does Divine Love
+      change the soul?", "What happens when we pray for God's Love?", "Can any soul
+      be redeemed no matter what they have done?"
+    items:
+      type: string
+      minLength: 10
+      maxLength: 200
+    uniqueItems: true
+    default: []
+
   related_messages:
     type: array
     description: IDs of closely related messages. Must use the same fully lowercase format as message_id.
