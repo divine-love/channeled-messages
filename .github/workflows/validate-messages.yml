@@ -1,0 +1,33 @@
+name: Validate Message Files
+
+on:
+  push:
+    paths:
+      - 'content/messages/**/*.md'
+      - 'spirits/**/*.yml'
+      - 'mediums/**/*.yml'
+  pull_request:
+    paths:
+      - 'content/messages/**/*.md'
+      - 'spirits/**/*.yml'
+      - 'mediums/**/*.yml'
+
+jobs:
+  validate:
+    name: Validate YAML Files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml jsonschema
+
+      - name: Validate message files
+        run: python .github/scripts/validate_messages.py

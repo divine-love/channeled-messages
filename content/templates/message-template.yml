@@ -2,6 +2,7 @@
 # Save this file as: /messages/YYYY/ID.yml
 # Where message_id follows: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
 # - medium_initials: first letters of medium's first & last names, always lowercase (e.g., Al Fike → af)
+# - Anonymous mediums: use 'xx' as medium_initials (e.g., 2015-01-05-xx-jesus)
 # - spirit_id: corresponds to the spirit file name, always lowercase (e.g., john-the-beloved)
 # - Use -2, -3, ... if multiple messages from the same spirit/medium on the same day
 

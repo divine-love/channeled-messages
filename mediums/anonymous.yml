@@ -1,5 +1,5 @@
 medium_id: anonymous
 medium_name: "Anonymous"
 medium_aliases: []
-medium_description: "Placeholder profile for messages received through a medium who wished to remain unnamed. Used in message_id as 'anon'."
+medium_description: "Placeholder profile for messages received through a medium who wished to remain unnamed. Used in message_id as 'xx' (e.g., 2015-01-05-xx-jesus)."
 notes: ""

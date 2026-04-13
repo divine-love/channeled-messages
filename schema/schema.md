@@ -59,6 +59,8 @@ Each message has a unique id using this format:
 
  - `{medium_initials}` = the first letter of the medium's first and last name, **always lowercase**.
    Example: Al Fike → `af`
+ - **Anonymous mediums** — when a medium wished to remain unnamed, use `xx` as the medium initials.
+   Example: `2015-01-05-xx-jesus`
  - `{spirit_id}` = the spirit's unique identifier, corresponding to the name in the spirit file. Naming pattern is the spirit's full name with **each space replaced by a hyphen (-)**.
    Example: John the Beloved → `john-the-beloved`
  - `spirit_id` is **never capitalized**. It must match the spirit file name exactly. 
@@ -264,7 +266,7 @@ location:
 
 Before committing a new message:
 
- - ✅ The **message_id** matches `YYYY-MM-DD-{medium_initials}-{spirit_id}` format and is **fully lowercase**
+ - ✅ The **message_id** matches `YYYY-MM-DD-{medium_initials}-{spirit_id}` format and is **fully lowercase**; anonymous mediums use `xx` as medium_initials
  - ✅ The **spirit_id** matches a filename in the `/spirits/` folder exactly
  - ✅ The **title**, **date**, **spirit_id**, and **medium** are filled in
  - ✅ At least one **message_type** and one **primary_subjects** are present
