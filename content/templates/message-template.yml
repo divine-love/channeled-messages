@@ -8,7 +8,7 @@
 
 message_id: 2025-01-01-af-spirit-id   # REQUIRED. Pattern: YYYY-MM-DD-{medium_initials}-{spirit_id} — always fully lowercase
 
-title: "Your Curated Title Here"         # REQUIRED. Always wrap in double quotes. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
+title: "Your Curated Title Here"       # REQUIRED. Always wrap in double quotes. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
 
 date: 2025-01-01                       # REQUIRED. ISO date (YYYY-MM-DD) the message was received.
 
@@ -23,6 +23,8 @@ location:                              # REQUIRED object; city is required, regi
   region:                              # OPTIONAL. e.g., "BC" (leave blank if none)
   country:                             # OPTIONAL. e.g., "Canada" (leave blank if none)
 
+gathering:                             # OPTIONAL. Name of retreat or event. Leave blank for regular prayer circles. e.g., "August 2015 Gibsons Retreat"
+
 message_type:                          # REQUIRED. One or more of: Blessing, Guidance, Teaching.
   - Guidance
   # - Blessing
@@ -33,7 +35,7 @@ description: >                         # REQUIRED. 1–2 sentence curator summar
 
 primary_subjects: Main Subject         # REQUIRED. Exactly one subject from your "Hierarchy of Subjects in the Messages".
 
-secondary_subjects:                    # OPTIONAL. Up to three subjects from any level of the hierarchy — top category or subcategory. Choose the most relevant regardless of level.
+secondary_subjects:                    # OPTIONAL. Up to five subjects from any level of the hierarchy — top category or subcategory. Choose the most relevant regardless of level.
   # - Another Subject
   # - Optional Second Subject
 

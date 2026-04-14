@@ -78,6 +78,14 @@ properties:
         description: Country (optional, e.g., "Canada").
     additionalProperties: false
 
+  gathering:
+    type: [string, "null"]
+    description: >
+      Optional name of the retreat, gathering, or event at which the message was received.
+      Use a consistent name for all messages from the same event so they can be grouped.
+      Leave blank for regular prayer circles. Examples: "August 2015 Gibsons Retreat",
+      "2019 Harrow Retreat", "Happy Days Farm Retreat November 2025".
+
   message_type:
     type: array
     description: One or more labels describing the message; can include any/all of Blessing, Guidance, Teaching.
@@ -104,14 +112,14 @@ properties:
   secondary_subjects:
     type: array
     description: >
-      Up to three additional subjects from any level of the subject hierarchy
+      Up to five additional subjects from any level of the subject hierarchy
       (top category or subcategory). Choose the most relevant subjects regardless
       of hierarchy level.
     items:
       type: string
     uniqueItems: true
     minItems: 0
-    maxItems: 3
+    maxItems: 5
 
   people:
     type: array

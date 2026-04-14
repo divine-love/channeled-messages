@@ -6,6 +6,8 @@ main_categories:
   - At-onement
   - Knowing God
   - God's Nature & Essence
+  - God's Mercy & Unconditional Love
+
 - name: Soul Transformation & Development
   subcategories:
   - Soul Awakening
@@ -13,13 +15,18 @@ main_categories:
   - Personal Transformation Journey
   - Cleansing & Expiation
   - Soul Growth through Challenges
+  - Self-Love & Acceptance
+  - Guilt & Regret
+
 - name: Spiritual Discipline & Daily Living
   subcategories:
-  - Prayer Practice
-  - Spiritual Habits & Devotion
+  - Prayer & Devotion
   - Surrender & Trust in God
   - Joyful Living
-  - Walking in the Light
+  - Walking the Divine Path
+  - Humility
+  - Faith & Trust
+
 - name: Earthly Challenges & Human Condition
   subcategories:
   - Emotional Struggles
@@ -27,6 +34,8 @@ main_categories:
   - Temptations & Attachments
   - Pain and Trauma
   - Free Will & Human Error
+  - Grief & Loss
+
 - name: Spiritual Community & Fellowship
   subcategories:
   - Circle of Light & Prayer Circles
@@ -34,19 +43,23 @@ main_categories:
   - Supporting One Another
   - Group Transformation
   - Shared Purpose
+  - Sanctuary & Sacred Space
+
 - name: Divine Will, Guidance & Orchestration
   subcategories:
-  - Trust in God's Will
+  - Surrender to God's Will
   - Divine Plan & Timing
   - God's Guidance
   - Following God's Direction
   - Alignment with Divine Flow
+
 - name: Preparation for Earth Mission
   subcategories:
   - Readiness & Spiritual Maturity
   - Individual Soul Calling
   - Soul Gifts & Service Readiness
-  - Walking the Divine Path
+  - Overcoming Fear & Doubt
+
 - name: Service, Ministry & Being a Channel of Love
   subcategories:
   - Discipleship
@@ -54,24 +67,45 @@ main_categories:
   - Serving Others in Love
   - Testimony of God's Love
   - Example of Divine Truth
-- name: Healing (Soul, Emotional, Physical)
+  - Interfaith & Universal Truth
+
+- name: Soul Healing & Emotional Restoration
   subcategories:
   - Divine Love Healing
   - Emotional & Spiritual Restoration
   - Letting Go of Wounds
   - Healing Through Prayer
+  - Healing from Grief & Loss
+
+- name: Physical & Miraculous Healing
+  subcategories:
+  - Healing Manifestations
+  - Prayer for Physical Healing
+  - God's Healing Power
+  - Healing Others through Love
+
 - name: Earth Changes & Prophecy
   subcategories:
   - Future World Events
   - Calm Before the Storm
   - Acceleration of Change
   - Cleansing of the Earth
+  - Two Choices for Humanity
+
+- name: Nature, Environment & God's Creation
+  subcategories:
+  - Appreciation of God's Creation
+  - Reverence for the Earth
+  - Harmony with Nature
+  - Beauty & Spiritual Joy
+
 - name: Spiritual Warfare & Opposition
   subcategories:
   - Forces Opposed to Divine Love
   - Darkness vs Light
   - Protection from Negative Influences
   - Spiritual Resistance
+
 - name: Spiritual Identity & Destiny
   subcategories:
   - Unique Soul Gifts
@@ -79,55 +113,74 @@ main_categories:
   - Soul's True Nature
   - Becoming a Channel of Love
   - Celestial Destiny
+
 - name: Collective Awakening & Redemption
   subcategories:
   - Redemption of Humanity
   - Awakening Mass Consciousness
   - Global Spiritual Work
   - Humanity's Transformation
+
 - name: Interdimensional & Spirit Communication
   subcategories:
-  - Spirit Circles & Mediumship
+  - Material Plane & Dark Spheres
+  - Soul Spheres & Progression
+  - Celestial Heavens & At-onement
   - Spirit Guides & Angels
   - Communication Across Realms
-  - Life on Other Planets
+  - Mediumship & Developing as an Instrument
+  - Stellar & Cosmic Beings
   - Teaching from Celestial Spirits
+
 - name: Teaching, Testimony & Instruction
   subcategories:
   - Spiritual Education
   - Teaching the Prayer Practice
   - Spirit Testimony & Personal Story
-  - Instruction from the Celestial Heavens
+  - Teaching & Instruction from Celestial Spirits
   - Moral Topics
+  - Discernment & Truth-Seeking
+
 - name: Celestial Governance & Spiritual Law
   subcategories:
   - Divine Law & Universal Order
   - Harmony with God's Laws
   - Consequences of Spiritual Choice
+  - Law of Attraction & Soul Magnetism
+
 - name: Historical Context & Spiritual Legacy
   subcategories:
   - Spirit Reflections on Earth Life
   - Mission of Historical Figures
   - Life of Jesus
   - Religious Error & Reformation
+  - Padgett Messages & Legacy
+
 - name: Spiritual Empowerment & Encouragement
   subcategories:
   - Confidence in the Path
   - Empowerment to Serve
   - Reassurance & Strength
   - Support in Trials
+  - Overcoming Inadequacy & Doubt
+
 - name: Children, Youth & Future Generations
   subcategories:
   - Spiritual Protection for Children
   - Youth Empowerment
   - Intergenerational Spiritual Work
-- name: Beauty, Nature & Spiritual Joy
-  subcategories:
-  - Joy in the Spirit
-  - Appreciation of God's Creation
-  - Laughter & Delight
-  - Lightness of Being
+  - Praying for Children & Loved Ones
+
 - name: Creation and Incarnation
-  subcategories: []
+  subcategories:
+  - Nature of the Soul
+  - Purpose of Physical Life
+  - Pre-existence & Soul Origins
+  - Natural Love & Human Development
+
 - name: Manifestations & Direct Voice
-  subcategories: []
+  subcategories:
+  - Physical Manifestations
+  - Direct Voice Communication
+  - Healing Manifestations
+  - Signs & Wonders

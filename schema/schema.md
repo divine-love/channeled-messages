@@ -110,6 +110,7 @@ location:
   city: Gibsons
   region: BC        # optional
   country: Canada   # optional
+gathering:                             # optional — name of retreat or event, leave blank for regular circles
 message_type: ["Teaching", "Guidance"]  # any of: Blessing, Guidance, Teaching; can be multiple
 description: A message encouraging disciples to walk confidently in God's light and share His Love with the world.
 primary_subjects: Divine Love & Relationship with God   # exactly one main subject
@@ -151,10 +152,11 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **location.city** | string | The city or locality where the message was received. | `Gibsons` |
 | **location.region** | string | The state, province, or region. Optional; leave blank if not applicable. | `BC` |
 | **location.country** | string | The country where the message was received. Optional. | `Canada` |
+| **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for regular prayer circles. Use a consistent name for all messages from the same event. | `"August 2015 Gibsons Retreat"` |
 | **message_type** | array of strings | One or more of: **Blessing, Guidance, Teaching**. Messages may include multiple types. | `["Guidance", "Teaching"]` |
 | **description** | string | A short (1–2 sentence) summary describing the purpose or insight of the message. | `Encouragement to release fear and trust God's protection amid changing earthly conditions.` |
 | **primary_subjects** | string | The single most relevant subject drawn from any level of the subject hierarchy — top category or subcategory. Represents the central theme of the message. | `"Free Will & Human Error"` |
-| **secondary_subjects** | array of strings (up to 3) | Up to three additional subjects drawn from any level of the subject hierarchy — top category or subcategory. Choose the most relevant subjects regardless of hierarchy level. | `["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]` |
+| **secondary_subjects** | array of strings (up to 5) | Up to five additional subjects drawn from any level of the subject hierarchy — top category or subcategory. Choose the most relevant subjects regardless of hierarchy level. | `["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]` |
 | **people** | array of strings | Names of living human beings mentioned (excluding the medium). | `["James Padgett", "Helen Padgett"]` |
 | **spirits** | array of strings | `spirit_id` values of other spirits mentioned besides the primary spirit author. Must match filenames in `/spirits/` exactly — always lowercase kebab-case. Using `spirit_id` rather than display names ensures consistent searchability across the archive. | `["john-the-beloved", "mary"]` |
 | **keywords** | array of strings | Free-form topical tags or short phrases to improve search and categorization. | `["trust", "peace", "faith", "guidance"]` |
@@ -244,7 +246,7 @@ When adding or editing messages, please follow these YAML guidelines.
  - Save in UTF-8 encoding.
  - All field names must be **snake_case exactly as shown** — do not capitalize them (e.g., `spirit:` not `Spirit:`, `message_type:` not `MessageType:`).
  - The **`spirits` field uses `spirit_id` values** (lowercase kebab-case, matching the spirit's filename), not display names. This ensures consistent searchability. Example: `["john-the-beloved", "mary"]` not `["John the Beloved", "Mary"]`. The **`people` field** is the exception — since living people don't have profile files, use their full display names there.
- - **`primary_subjects` and `secondary_subjects`** can reference any level of the subject hierarchy — top category or subcategory. Always choose the most specific and relevant subject, regardless of its level. `secondary_subjects` is capped at three.
+ - **`primary_subjects` and `secondary_subjects`** can reference any level of the subject hierarchy — top category or subcategory. Always choose the most specific and relevant subject, regardless of its level. `secondary_subjects` is capped at five.
 
 ### Example of good formatting
 
