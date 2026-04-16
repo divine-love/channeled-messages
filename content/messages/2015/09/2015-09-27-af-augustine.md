@@ -15,7 +15,7 @@ description: "Augustine encourages the group to clear away inner obstructions an
 primary_subjects: "Self-Love & Acceptance"
 secondary_subjects: ["Mind vs Soul Conflict", "Individual Soul Calling", "Knowing God"]
 people: []
-spirits: ["faith"]
+spirits: ["faith-nyquist"]
 keywords: ["Augustine", "shadows", "mists", "soul awareness", "self-knowledge", "clarity", "guidance", "purpose", "free will", "soul wisdom", "alignment", "obstructions", "inner knowing", "salvation", "God's Love"]
 questions:
   - "How does God's Love clear away the shadows within me?"

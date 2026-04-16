@@ -1,9 +1,9 @@
 ---
-message_id: 2015-09-27-af-faith
+message_id: 2015-09-27-af-faith-nyquist
 title: "The Wondrous Expressions of Your Soul and Life's Challenges"
 date: 2015-09-27
 spirit_name: Faith
-spirit_id: faith
+spirit_id: faith_nyquist
 medium: Al Fike
 location:
   city: Gibsons
