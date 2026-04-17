@@ -23,6 +23,11 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │     └─ 2016/
 │        └─ 01/
 │           └─ 2016-01-03-af-augustine.yml
+│  └─ practices/
+│     └─ healing-merkaba.md
+│     └─ prayer-for-divine-love-original.md
+│     └─ prayer-for-divine-love-padgett-contemporary.md
+│     └─ prayer-for-divine-love-dlsf.md
 │  └─ templates/
 │     └─ medium-template.yml
 │     └─ message-template.yml
