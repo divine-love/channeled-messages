@@ -16,7 +16,7 @@ primary_subjects: "Personal Transformation Journey"
 secondary_subjects: ["Soul Awakening", "Cleansing & Expiation", "Rebirth of the Soul (New Birth)", "Faith & Trust"]
 people: []
 spirits: []
-keywords: ["Augustine", "newborn", "soul awakening", "perception", "shifts", "transformation", "resistance", "allowing", "Holy Spirit", "God's essence", "inner change", "clarity", "newborn", "trust", "redemption"]
+keywords: ["Augustine", "newborn", "soul awakening", "perception", "shifts", "transformation", "resistance", "allowing", "Holy Spirit", "God's essence", "inner change", "clarity", "trust", "redemption"]
 questions:
   - "Why do I feel emotionally unsettled after deep spiritual experiences?"
   - "Why does spiritual growth sometimes feel uncomfortable or disturbing?"
