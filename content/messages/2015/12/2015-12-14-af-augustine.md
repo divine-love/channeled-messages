@@ -11,7 +11,6 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-significance: key-teaching
 description: "Augustine teaches that the human mind alone cannot know God's Will, and that only a soul enlivened by Divine Love can perceive and align with it. He calls the circle to release mind-driven willfulness, seek the deeper consciousness of the soul, and become beacons of God's reality as the world stands on the verge of great change."
 primary_subjects: "Free Will & Human Error"
 secondary_subjects:
@@ -42,6 +41,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
 notes: "Possible transcription artifact: 'the answers that what they do in the world' — left as-is; may reflect spoken cadence."
+significance: ["Key Teaching"]
 last_edited: 2026-04-17
 ---
 
