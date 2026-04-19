@@ -131,6 +131,7 @@ related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
 notes: Message received during evening circle in Gibsons, BC.
+significance: ["Key Teaching", "Prophetic"]
 last_edited: 2025-06-01
 ---
 <message text here>
@@ -170,6 +171,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
 | **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
 | **notes** | string | Optional free-text field for contextual notes about where or how the message was received. | `Evening prayer circle at Gibsons, BC` |
+| **significance** | array of strings | Optional flags marking a message as particularly important. Values: `Key Teaching`, `Prophetic`, `Historical`, `Healing`, `Biographical`, `Milestone`. Use sparingly. | `["Key Teaching", "Prophetic"]` |
 | **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Helps track which translation files may need updating after source edits. | `2025-06-01` |
 
 ---
@@ -205,6 +207,7 @@ related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
 notes: Message received during evening circle in Gibsons, BC.
+significance: ["Key Teaching"]
 last_edited: 2025-06-01
 ```
 
@@ -235,6 +238,7 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: Morning gathering in a private home circle.
+significance: []
 last_edited: 2025-06-01
 ```
 

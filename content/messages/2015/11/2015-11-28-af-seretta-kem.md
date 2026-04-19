@@ -30,7 +30,8 @@ questions:
 related_messages: ["2015-10-26-af-seretta-kem"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-merkaba/"
-notes: "Message received after the prayer circle created a healing merkaba. Editor's note in source: 'This message came through after our prayer circle created a healing merkaba.' Additional information on creating a merkaba available at http://new-birth.net/healing_circle.htm"
+significance: ["Healing"]
+notes: "Message received after the prayer circle created a healing merkaba. Editor's note in source: 'This message came through after our prayer circle created a healing merkaba.' See content/practices/healing-merkaba.md for instructions. Source: http://new-birth.net/healing_circle.htm"
 last_edited: 2026-04-13
 ---
 

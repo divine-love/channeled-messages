@@ -53,4 +53,6 @@ canonical_url:                         # OPTIONAL. Permanent external URL where 
 
 notes:                                 # OPTIONAL. Curator notes, context, or provenance.
 
+significance:                          # OPTIONAL. Use sparingly. Values: "Key Teaching", "Prophetic", "Historical", "Healing", "Biographical", "Milestone"
+
 last_edited: 2025-01-01               # Update to today's date whenever this record is modified (YYYY-MM-DD).

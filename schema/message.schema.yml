@@ -190,6 +190,23 @@ properties:
     type: [string, "null"]
     description: Optional curator notes or historical context.
 
+  significance:
+    type: array
+    description: >
+      Optional flags marking a message as particularly important. Use sparingly
+      and only for messages of genuine significance. Multiple tags are allowed.
+      Key Teaching: establishes or clarifies core doctrine, vision, or mission.
+      Prophetic: contains specific predictions about the world or the Divine Love movement.
+      Historical: of particular historical importance in the archive.
+      Healing: describes or demonstrates a significant healing event.
+      Biographical: a spirit provides significant information about their own Earth life.
+      Milestone: marks a significant moment in the archive's history.
+    items:
+      type: string
+      enum: ["Key Teaching", "Prophetic", "Historical", "Healing", "Biographical", "Milestone"]
+    uniqueItems: true
+    default: []
+
   last_edited:
     type: [string, "null"]
     format: date
