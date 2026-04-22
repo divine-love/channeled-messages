@@ -12,7 +12,7 @@ location:
 message_type: ["Teaching"]
 description: "Martin Luther speaks on the supremacy of God's Will over the will of man, encouraging his listeners to remain in alignment with God's Will despite the obstructions and conditions laid about by mankind. He draws on his own experience of opposition and persistence, assuring them that sincere prayer is more powerful than any human barrier and that God's plan for the salvation of mankind will be enacted."
 primary_subjects: "Divine Will, Guidance & Orchestration"
-secondary_subjects: ["Surrender & Trust in God", "Prayer Practice"]
+secondary_subjects: ["Surrender & Trust in God", "Prayer & Devotion"]
 people: []
 spirits: []
 keywords: ["God's will", "free will", "man's will", "prayer", "opposition", "salvation", "World Healing Centre", "alignment", "faith", "obstructions", "Celestial Heavens", "light", "peace", "flexibility"]
