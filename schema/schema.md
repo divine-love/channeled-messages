@@ -28,6 +28,10 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │     └─ prayer-for-divine-love-original.md
 │     └─ prayer-for-divine-love-padgett-contemporary.md
 │     └─ prayer-for-divine-love-dlsf.md
+│  └─ talks/
+│     └─ 2015/
+│        └─ 02/
+│           └─ 2015-02-01-af-lifes-choices.md
 │  └─ templates/
 │     └─ medium-template.yml
 │     └─ message-template.yml
@@ -39,6 +43,7 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │  └─ theme_clusters.yml
 ├─ schema/
 │  └─ message.schema.yml
+│  └─ talk.schema.yml
 │  └─ schema.md
 ├─ spirits/
 │  └─ andrew.yml
@@ -47,10 +52,11 @@ Each message is stored in its own `.yml` file within a structured directory tree
 ```
 
  - `/content/messages/` contains all message entries organized by year.
+ - `/content/talks/` contains human-authored talks and speeches organized by year.
  - `/content/templates/` contains template files for messages, spirits, and mediums.
  - `/spirits/` and `/mediums/` store background metadata about spirit authors and mediums.
  - `/metadata/` contains controlled vocabulary files such as `subjects.yml` and `theme_clusters.yml`.
- - `/schema/` contains this documentation and the machine-readable schema definition.
+ - `/schema/` contains this documentation, the machine-readable message schema, and the talk schema.
 
 
 ## 2. Message ID Pattern

@@ -1,0 +1,147 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: "https://divinelove.github.io/schema/talk.schema.yml"
+title: Divine Love Talk Metadata Schema
+type: object
+comment: >
+  JSON Schema (draft-07) for talk .md files in /content/talks/YYYY/.
+  The talk text/body itself is stored OUTSIDE the YAML front matter.
+  This schema validates only the metadata fields.
+
+required:
+  - talk_id
+  - title
+  - date
+  - author
+  - talk_type
+  - primary_subjects
+
+properties:
+  talk_id:
+    type: string
+    description: >
+      Unique identifier: YYYY-MM-DD-{author_initials}-{title_slug}
+      - author_initials = first letters of the author's first and last names, always lowercase (e.g., Al Fike → af)
+      - title_slug = lowercase kebab-case title slug (e.g., lifes-choices)
+    pattern: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
+
+  title:
+    type: string
+    description: >
+      Human-readable title of the talk. Always wrap in double quotes.
+      If curator-supplied (not from the original), append an asterisk *.
+
+  date:
+    type: string
+    format: date
+    description: Date the talk was delivered (ISO 8601, YYYY-MM-DD).
+
+  author:
+    type: string
+    description: Full name of the human author or speaker (e.g., "Al Fike").
+
+  location:
+    type: object
+    description: Place the talk was delivered.
+    required:
+      - city
+    properties:
+      city:
+        type: string
+        description: City or locality (e.g., "Gibsons").
+      region:
+        type: [string, "null"]
+        description: State/Province/Region (optional, e.g., "BC").
+      country:
+        type: [string, "null"]
+        description: Country (optional, e.g., "Canada").
+    additionalProperties: false
+
+  gathering:
+    type: [string, "null"]
+    description: >
+      Optional name of the retreat, gathering, or event at which the talk was delivered.
+      Use a consistent name for all content from the same event.
+      Leave blank for regular prayer circles.
+
+  talk_type:
+    type: string
+    description: The format or nature of the talk.
+    enum: ["Speech", "Reflection", "Lecture", "Testimony"]
+
+  description:
+    type: string
+    description: >
+      Short (1 to 2 sentences) curator summary of the talk's purpose and insight.
+    minLength: 1
+    maxLength: 600
+
+  primary_subjects:
+    type: string
+    description: >
+      The single most relevant subject from any level of the subject hierarchy
+      (top category or subcategory). Choose the most specific and relevant subject
+      regardless of its level in the hierarchy.
+
+  secondary_subjects:
+    type: array
+    description: >
+      Up to five additional subjects from any level of the subject hierarchy.
+    items:
+      type: string
+    uniqueItems: true
+    minItems: 0
+    maxItems: 5
+
+  keywords:
+    type: array
+    description: Free-form topical tags (for search/browsing).
+    items:
+      type: string
+      minLength: 1
+      maxLength: 64
+    uniqueItems: true
+    default: []
+
+  questions:
+    type: array
+    description: >
+      Natural language questions that this talk addresses, written as a seeker might
+      type them into a search engine.
+    items:
+      type: string
+      minLength: 10
+      maxLength: 200
+    uniqueItems: true
+    default: []
+
+  canonical_url:
+    type: [string, "null"]
+    format: uri
+    description: Optional permanent external URL where the talk is officially published.
+
+  notes:
+    type: [string, "null"]
+    description: Optional curator notes or historical context.
+
+  significance:
+    type: array
+    description: >
+      Optional flags marking a talk as particularly important. Use sparingly.
+      Key Teaching: establishes or clarifies core doctrine, vision, or mission.
+      Prophetic: contains specific predictions about the world or the Divine Love movement.
+      Historical: of particular historical importance in the archive.
+      Healing: describes or demonstrates a significant healing event.
+      Biographical: provides significant information about the author's life or experience.
+      Milestone: marks a significant moment in the archive's history.
+    items:
+      type: string
+      enum: ["Key Teaching", "Prophetic", "Historical", "Healing", "Biographical", "Milestone"]
+    uniqueItems: true
+    default: []
+
+  last_edited:
+    type: [string, "null"]
+    format: date
+    description: Date this record was last modified (ISO 8601, YYYY-MM-DD).
+
+additionalProperties: false

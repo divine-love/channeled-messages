@@ -1,6 +1,6 @@
 ---
 message_id: 2014-10-11-af-confucius
-title: You Will Never Feel the Pain of Being Alone When You Possess God's Love
+title: "You Will Never Feel the Pain of Being Alone When You Possess God's Love"
 date: 2014-10-11
 spirit_name: Confucius
 spirit_id: confucius

@@ -1,6 +1,6 @@
 ---
 message_id: 2014-12-01-af-john-the-beloved
-title: Express Your Yearnings to God
+title: "Express Your Yearnings to God"
 date: 2014-12-01
 spirit_name: John the Beloved
 spirit_id: john-the-beloved
