@@ -15,7 +15,7 @@ primary_subjects: "Serving Others in Love"
 secondary_subjects: ["Self-Love & Acceptance", "Humility", "Service, Ministry & Being a Channel of Love", "Unity in Diversity"]
 people: []
 spirits: []
-keywords: ["Martin Luther", "judgment", "love", "diversity", "empty basket", "filled soul", "channel of love", "darkness", "compassion", "touch", "healing", "God's laws", "choice", "flame", "replenishment"]
+keywords: ["judgment", "love", "diversity", "empty basket", "filled soul", "channel of love", "darkness", "compassion", "touch", "healing", "God's laws", "choice", "flame", "replenishment"]
 questions:
   - "How do I love others without judging them?"
   - "Why does God ask us not to judge others?"
@@ -33,6 +33,7 @@ related_messages: ["2015-08-20-af-andrew", "2015-08-20-af-james-padgett", "2015-
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/give-to-others-but-do-not-do-so-with-an-empty-basket/"
 notes: "Message given on the final day of the August 2015 international retreat. Martin Luther acknowledges the great diversity of souls gathered — from newcomers to long-time practitioners — and speaks to them all equally."
+significance: []
 last_edited: 2026-04-13
 ---
 

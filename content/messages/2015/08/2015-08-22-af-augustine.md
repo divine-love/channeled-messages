@@ -16,7 +16,7 @@ primary_subjects: "Personal Transformation Journey"
 secondary_subjects: ["Spiritual Community & Fellowship", "Soul Awakening"]
 people: []
 spirits: []
-keywords: ["Augustine", "soul changes", "inner shifts", "consciousness", "awareness", "fellowship", "sharing", "retreat", "transformation", "harmony", "God's touch", "integration", "community"]
+keywords: ["soul changes", "inner shifts", "consciousness", "awareness", "fellowship", "sharing", "retreat", "transformation", "harmony", "God's touch", "integration", "community"]
 questions:
   - "How do I recognize when God has changed me spiritually?"
   - "How do I share my spiritual experiences with others?"
@@ -29,6 +29,7 @@ related_messages: ["2015-08-22-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/augustine-advises-a-retreat-group-to-talk-about-their-inner-soul-changes/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

@@ -16,7 +16,7 @@ primary_subjects: "Becoming a Channel of Love"
 secondary_subjects: ["Unique Soul Gifts", "Faith & Trust", "God's Mercy & Unconditional Love", "Discipleship", "Lattice of Light & Global Prayer Network"]
 people: []
 spirits: []
-keywords: ["John the Beloved", "instruments of God", "channel of love", "faith", "unique purpose", "honoring others", "God's garden", "chain of light", "lattice of light", "soul gifts", "protection", "service", "alignment", "yearnings", "cascading love"]
+keywords: ["instruments of God", "channel of love", "faith", "unique purpose", "honoring others", "God's garden", "chain of light", "lattice of light", "soul gifts", "protection", "service", "alignment", "yearnings", "cascading love"]
 questions:
   - "How do I become God's instrument of Love in the world?"
   - "How does God carry me along my spiritual path?"
@@ -31,6 +31,7 @@ related_messages: ["2015-10-19-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-are-becoming-gods-instruments-and-channels-of-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

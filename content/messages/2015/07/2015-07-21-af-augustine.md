@@ -15,7 +15,7 @@ primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Soul Healing", "Surrender & Trust in God"]
 people: []
 spirits: []
-keywords: ["Augustine", "retreat", "gathering", "preparation", "door", "threshold", "liberation", "soul encrustations", "release", "openness", "God's orchestration", "gifts", "awareness", "faith", "transformation"]
+keywords: ["retreat", "gathering", "preparation", "door", "threshold", "liberation", "soul encrustations", "release", "openness", "God's orchestration", "gifts", "awareness", "faith", "transformation"]
 questions:
   - "How do I let go of preconceived ideas about spiritual gatherings?"
   - "What does it mean to walk through a spiritual door?"
@@ -30,6 +30,7 @@ related_messages: ["2015-07-06-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/door-opens-will-enter-threshold/"
 notes: "Second message in preparation for the upcoming international retreat. Related to 2015-07-06-af-augustine which also addresses retreat preparation."
+significance: []
 last_edited: 2026-04-13
 ---
 

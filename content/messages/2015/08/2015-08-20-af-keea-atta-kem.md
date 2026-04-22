@@ -16,7 +16,7 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects: ["Soul Healing", "Knowing God", "Prayer & Devotion", "Soul Awakening"]
 people: []
 spirits: []
-keywords: ["Keea atta Kem", "soul consciousness", "material mind", "God's will", "sacred place", "holy communion", "peace", "healing", "wounds", "fear", "wisdom", "alignment", "still voice", "soul awareness", "transformation"]
+keywords: ["soul consciousness", "material mind", "God's will", "sacred place", "holy communion", "peace", "healing", "wounds", "fear", "wisdom", "alignment", "still voice", "soul awareness", "transformation"]
 questions:
   - "How do I shift my consciousness from my mind to my soul?"
   - "How do I live from my soul rather than my material mind?"
@@ -33,6 +33,7 @@ related_messages: ["2015-05-18-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/keea-instructs-a-group-to-go-to-their-souls-and-live-from-that-place-rather-than-the-material-mind/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

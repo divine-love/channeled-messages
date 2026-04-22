@@ -15,7 +15,7 @@ primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Preparation for Earth Mission", "Circle of Light & Prayer Circles"]
 people: []
 spirits: []
-keywords: ["Augustine", "retreat", "preparation", "trust", "God's will", "obedience", "faith", "angels", "banquet", "blessing", "abundance", "humility", "at-onement", "surrender", "channel of love"]
+keywords: ["retreat", "preparation", "trust", "God's will", "obedience", "faith", "angels", "banquet", "blessing", "abundance", "humility", "at-onement", "surrender", "channel of love"]
 questions:
   - "How do I trust God when I am organizing something important?"
   - "How do I let go of my expectations and trust God's plan?"
@@ -31,6 +31,7 @@ related_messages: ["2015-07-06-af-augustine", "2015-07-21-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/guidance-regarding-retreat-take-place/"
 notes: "Third message in preparation for the upcoming international retreat. Related to 2015-07-06-af-augustine and 2015-07-21-af-augustine which also address retreat preparation."
+significance: []
 last_edited: 2026-04-13
 ---
 

@@ -15,7 +15,7 @@ primary_subjects: "Divine Will, Guidance & Orchestration"
 secondary_subjects: ["Surrender & Trust in God", "Prayer Practice"]
 people: []
 spirits: []
-keywords: ["Martin Luther", "God's will", "free will", "man's will", "prayer", "opposition", "salvation", "World Healing Centre", "alignment", "faith", "obstructions", "Celestial Heavens", "light", "peace", "flexibility"]
+keywords: ["God's will", "free will", "man's will", "prayer", "opposition", "salvation", "World Healing Centre", "alignment", "faith", "obstructions", "Celestial Heavens", "light", "peace", "flexibility"]
 questions:
   - "Is God's will stronger than human will?"
   - "How do I stay in God's will when others oppose me?"
@@ -30,6 +30,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/gods-will-mans-will/"
 notes: "Message references 'this structure (the World Healing Centre)' suggesting it was received in the context of a specific building project or spiritual centre."
+significance: []
 last_edited: 2026-04-13
 ---
 

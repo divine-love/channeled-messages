@@ -16,7 +16,7 @@ primary_subjects: "Soul's True Nature"
 secondary_subjects: ["Self-Love & Acceptance", "Walking the Divine Path", "Joyful Living", "Spirit Testimony & Personal Story"]
 people: []
 spirits: []
-keywords: ["Faith", "soul expression", "challenges", "blessings", "disappointment", "expectations", "guidance", "channel of love", "daily life", "prayer", "gifts", "mental constructs", "freedom", "acceptance", "God's love"]
+keywords: ["soul expression", "challenges", "blessings", "disappointment", "expectations", "guidance", "channel of love", "daily life", "prayer", "gifts", "mental constructs", "freedom", "acceptance", "God's love"]
 questions:
   - "Does God disappoint us or is it our own expectations that bring disappointment?"
   - "How do I release my expectations so I can stop feeling let down on the spiritual path?"
@@ -33,6 +33,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-wondrous-expressions-of-your-soul-and-lifes-challenges/"
 notes: "Received on the same day as the Augustine message. Faith reflects on her own Earth life, noting she lived God's Love but did not articulate the Truth of Divine Love clearly due to the indoctrinations of her time."
+significance: []
 last_edited: 2026-04-13
 ---
 

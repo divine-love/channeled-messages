@@ -16,7 +16,7 @@ primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Interdimensional & Spirit Communication", "Material Plane & Dark Spheres", "Lattice of Light & Global Prayer Network", "Teaching from Celestial Spirits"]
 people: []
 spirits: []
-keywords: ["Seretta Kem", "prayer circle", "unseen world", "spirits", "concentric circles", "celestial spirits", "lower spheres", "service", "Light", "midwife", "rebirth", "thousands of spirits", "spirit world", "observed", "darkness to light"]
+keywords: ["prayer circle", "unseen world", "spirits", "concentric circles", "celestial spirits", "lower spheres", "service", "Light", "midwife", "rebirth", "thousands of spirits", "spirit world", "observed", "darkness to light"]
 questions:
   - "What happens in the spirit world when we pray together for Divine Love?"
   - "Do spirits observe our prayer circles?"
@@ -31,6 +31,7 @@ related_messages: ["2015-08-31-af-seretta-kem", "2015-08-24-af-seretta-kem"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/so-many-in-the-unseen-world-benefit-from-your-prayers-together/"
 notes: "Seretta Kem's name was misspelled as 'Serreta Kem' in the opening line of the source text. Corrected."
+significance: []
 last_edited: 2026-04-13
 ---
 

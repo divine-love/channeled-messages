@@ -16,7 +16,7 @@ primary_subjects: "Self-Love & Acceptance"
 secondary_subjects: ["Mind vs Soul Conflict", "Individual Soul Calling", "Knowing God"]
 people: []
 spirits: ["faith-nyquist"]
-keywords: ["Augustine", "shadows", "mists", "soul awareness", "self-knowledge", "clarity", "guidance", "purpose", "free will", "soul wisdom", "alignment", "obstructions", "inner knowing", "salvation", "God's Love"]
+keywords: ["shadows", "mists", "soul awareness", "self-knowledge", "clarity", "guidance", "purpose", "free will", "soul wisdom", "alignment", "obstructions", "inner knowing", "salvation", "God's Love"]
 questions:
   - "How does God's Love clear away the shadows within me?"
   - "How do I come to know my own soul?"
@@ -32,6 +32,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/his-love-clears-away-the-shadows-and-the-mists-allowing-you-to-know-your-own-souls/"
 notes: "Augustine references 'our dear friend Faith' as having given instruction — Faith appears to be another spirit communicator."
+significance: []
 last_edited: 2026-04-13
 ---
 

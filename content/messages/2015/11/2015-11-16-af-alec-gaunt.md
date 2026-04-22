@@ -16,7 +16,7 @@ primary_subjects: "Soul Gifts & Service Readiness"
 secondary_subjects: ["Overcoming Fear & Doubt", "Unique Soul Gifts", "Spiritual Empowerment & Encouragement"]
 people: []
 spirits: []
-keywords: ["Alec Gaunt", "gifts", "express", "hiding", "boldness", "humility", "reluctance", "fear", "purpose", "unique soul", "channel of love", "family", "torch", "truth", "flowering"]
+keywords: ["gifts", "express", "hiding", "boldness", "humility", "reluctance", "fear", "purpose", "unique soul", "channel of love", "family", "torch", "truth", "flowering"]
 questions:
   - "How do I overcome the fear of expressing my spiritual gifts?"
   - "How do I step boldly into the world without fear of judgment?"
@@ -30,6 +30,7 @@ related_messages: ["2015-09-30-af-alec-gaunt"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/do-not-hide-away-but-express-your-gifts-in-the-world/"
 notes: "Alec references the group having been researching his history and family, suggesting some members had been studying the Padgett Messages legacy. He describes himself as family to those on the Divine Love path."
+significance: []
 last_edited: 2026-04-13
 ---
 

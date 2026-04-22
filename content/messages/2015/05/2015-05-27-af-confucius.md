@@ -15,7 +15,7 @@ primary_subjects: "Prayer Practice"
 secondary_subjects: ["Mind vs Soul Conflict", "Preparation for Earth Mission"]
 people: []
 spirits: []
-keywords: ["Confucius", "soul ascendency", "prayer", "human condition", "change", "love", "judgment", "fear", "bias", "example", "service", "preparation", "growth", "consciousness", "harmony"]
+keywords: ["soul ascendency", "prayer", "human condition", "change", "love", "judgment", "fear", "bias", "example", "service", "preparation", "growth", "consciousness", "harmony"]
 questions:
   - "How do I let my soul lead instead of my mind?"
   - "How do I overcome judgment and fear in my spiritual life?"
@@ -29,6 +29,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/change-within-is-coming-as-your-souls-grow-in-the-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-11
 ---
 

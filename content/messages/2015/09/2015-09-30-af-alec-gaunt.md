@@ -16,7 +16,7 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects: ["Knowing God", "Surrender & Trust in God", "Walking the Divine Path"]
 people: []
 spirits: []
-keywords: ["Alec Gaunt", "God's will", "going within", "soul awareness", "still voice", "mind", "depth", "communion", "Truth", "gifts", "channel of love", "mental illusions", "soul perception", "effort", "risk"]
+keywords: ["God's will", "going within", "soul awareness", "still voice", "mind", "depth", "communion", "Truth", "gifts", "channel of love", "mental illusions", "soul perception", "effort", "risk"]
 questions:
   - "How do I know God's Will for my life?"
   - "How do I go within to find the answers I'm seeking?"
@@ -33,6 +33,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/go-within-in-order-to-know-gods-will-for-you/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

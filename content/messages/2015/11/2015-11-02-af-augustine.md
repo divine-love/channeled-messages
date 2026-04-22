@@ -16,7 +16,7 @@ primary_subjects: "Free Will & Human Error"
 secondary_subjects: ["Soul Growth through Challenges", "Mind vs Soul Conflict", "Surrender & Trust in God"]
 people: []
 spirits: []
-keywords: ["Augustine", "free will", "choice", "Light", "pain", "alignment", "God's will", "human condition", "judgment", "discernment", "soul growth", "struggle", "love", "consequences", "burning away"]
+keywords: ["free will", "choice", "Light", "pain", "alignment", "God's will", "human condition", "judgment", "discernment", "soul growth", "struggle", "love", "consequences", "burning away"]
 questions:
   - "How does free will work in relation to God's plan for my life?"
   - "How do I make better choices on my spiritual path?"
@@ -32,6 +32,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-governs-your-path/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

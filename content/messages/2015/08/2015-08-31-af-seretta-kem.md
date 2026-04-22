@@ -16,7 +16,7 @@ primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Earth Changes & Prophecy", "Faith & Trust", "Service, Ministry & Being a Channel of Love", "Physical & Miraculous Healing"]
 people: []
 spirits: []
-keywords: ["Seretta Kem", "winds of change", "world changes", "service", "channel of love", "faith", "healing", "physical body", "soul over body", "God's will", "protection", "angels", "beacon", "lost souls", "teaching"]
+keywords: ["winds of change", "world changes", "service", "channel of love", "faith", "healing", "physical body", "soul over body", "God's will", "protection", "angels", "beacon", "lost souls", "teaching"]
 questions:
   - "How does God's Love affect the physical body?"
   - "Can the soul override physical pain or illness?"
@@ -33,6 +33,7 @@ related_messages: ["2015-08-24-af-seretta-kem", "2015-08-17-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-world-is-changing-and-needs-many-souls-in-service-to-gods-will/"
 notes: "Message opens with a reference to the medium being in physical pain, which Seretta Kem uses as a teaching moment about the soul's influence over the body."
+significance: []
 last_edited: 2026-04-13
 ---
 

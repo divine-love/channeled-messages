@@ -15,7 +15,7 @@ primary_subjects: "Spiritual Identity & Destiny"
 secondary_subjects: ["Unique Soul Gifts", "Receiving the Divine Love through Prayer"]
 people: []
 spirits: []
-keywords: ["Confucius", "soul gifts", "hidden gifts", "Divine Love", "activation", "potential", "rebirth", "true self", "service", "channel", "prayer", "transformation", "discovery", "purpose", "healing"]
+keywords: ["soul gifts", "hidden gifts", "Divine Love", "activation", "potential", "rebirth", "true self", "service", "channel", "prayer", "transformation", "discovery", "purpose", "healing"]
 questions:
   - "What hidden gifts do I have that I don't know about?"
   - "How does God's Love activate my spiritual gifts?"
@@ -32,6 +32,7 @@ related_messages: ["2015-06-24-af-confucius"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/many-gifts-lie-within/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

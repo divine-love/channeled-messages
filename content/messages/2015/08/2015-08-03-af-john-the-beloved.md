@@ -15,7 +15,7 @@ primary_subjects: "Soul Awakening"
 secondary_subjects: ["Knowing God", "Receiving the Divine Love through Prayer"]
 people: []
 spirits: []
-keywords: ["John the Beloved", "truth", "soul awakening", "yearning", "Divine Love", "mind vs soul", "living waters", "faith", "resistance", "openness", "vulnerability", "encrustations", "presence of God", "eternal truth", "prayer"]
+keywords: ["truth", "soul awakening", "yearning", "Divine Love", "mind vs soul", "living waters", "faith", "resistance", "openness", "vulnerability", "encrustations", "presence of God", "eternal truth", "prayer"]
 questions:
   - "How do I know what is spiritually true?"
   - "Can the mind know absolute truth?"
@@ -33,6 +33,7 @@ related_messages: ["2014-12-01-af-john-the-beloved"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/follow-sweet-yearnings-soul-may-know-truth/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

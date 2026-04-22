@@ -15,7 +15,7 @@ primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Divine Will, Guidance & Orchestration", "Spiritual Discipline & Daily Living"]
 people: []
 spirits: []
-keywords: ["Alec Gaunt", "God's will", "free will", "surrender", "trust", "prayer", "fear", "ignorance", "channel of love", "Divine Path", "light", "harmony", "angels", "choice", "obstructions"]
+keywords: ["God's will", "free will", "surrender", "trust", "prayer", "fear", "ignorance", "channel of love", "Divine Path", "light", "harmony", "angels", "choice", "obstructions"]
 questions:
   - "How do I submit my will to God's will?"
   - "Why does the world seem so far from God's will?"
@@ -30,6 +30,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/understand-follow-will-god/"
 notes: ""
+significance: []
 last_edited: 2026-04-11
 ---
 

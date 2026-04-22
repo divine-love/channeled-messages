@@ -16,7 +16,7 @@ primary_subjects: "Soul Awakening"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "At-onement", "Unique Soul Gifts"]
 people: []
 spirits: []
-keywords: ["John the Beloved", "enlightenment", "soul gifts", "blessing", "prayer", "at-onement", "consciousness", "faith", "channel of love", "healing", "world", "grace", "angels", "opening", "new beginning"]
+keywords: ["enlightenment", "soul gifts", "blessing", "prayer", "at-onement", "consciousness", "faith", "channel of love", "healing", "world", "grace", "angels", "opening", "new beginning"]
 questions:
   - "How do I pray for greater enlightenment?"
   - "Can God open new parts of my soul that have been closed?"
@@ -32,6 +32,7 @@ related_messages: ["2015-08-03-af-john-the-beloved", "2014-12-01-af-john-the-bel
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/john-gives-a-prayer-for-greater-enlightenment/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

@@ -16,7 +16,7 @@ primary_subjects: "Spiritual Community & Fellowship"
 secondary_subjects: ["Self-Love & Acceptance", "Overcoming Fear & Doubt", "Walking the Divine Path"]
 people: []
 spirits: []
-keywords: ["Augustine", "learning to love", "trust", "fellowship", "barriers to love", "commitment", "fear", "joy", "community", "shared journey", "human condition", "progress", "eternity", "love one another"]
+keywords: ["learning to love", "trust", "fellowship", "barriers to love", "commitment", "fear", "joy", "community", "shared journey", "human condition", "progress", "eternity", "love one another"]
 questions:
   - "How do I truly learn to love others?"
   - "What are the barriers to Love and how do I overcome them?"
@@ -29,6 +29,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/these-are-the-days-to-learn-how-to-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

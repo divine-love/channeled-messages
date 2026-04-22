@@ -16,7 +16,7 @@ primary_subjects: "Nature, Environment & God's Creation"
 secondary_subjects: ["Earth Changes & Prophecy", "Service, Ministry & Being a Channel of Love", "Reverence for the Earth", "Unique Soul Gifts"]
 people: []
 spirits: []
-keywords: ["Francis of Assisi", "healing", "world", "creation", "beauty", "creativity", "harmony", "balance", "creatures", "disruptions", "earth changes", "God's handiwork", "channels of love", "soul faculties", "garden"]
+keywords: ["healing", "world", "creation", "beauty", "creativity", "harmony", "balance", "creatures", "disruptions", "earth changes", "God's handiwork", "channels of love", "soul faculties", "garden"]
 questions:
   - "How do I bring healing and beauty into the world?"
   - "What is God's plan for healing the Earth?"
@@ -32,6 +32,7 @@ related_messages: ["2015-08-17-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-for-this-precious-world-is-required/"
 notes: "Francis opens by describing a personal moment with the medium in his garden, noting the beauty of his creative work there."
+significance: []
 last_edited: 2026-04-13
 ---
 

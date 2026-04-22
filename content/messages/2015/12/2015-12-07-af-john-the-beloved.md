@@ -33,6 +33,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/drink-deep-living-waters/"
 notes: "Two corrections from source text: 'I heed you all' changed to 'I urge you all'; 'given a as a great blessing' changed to 'given as a great blessing'."
+significance: []
 last_edited: 2026-04-17
 ---
 

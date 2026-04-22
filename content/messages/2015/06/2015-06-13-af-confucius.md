@@ -15,7 +15,7 @@ primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Spiritual Community & Fellowship", "Interdimensional & Spirit Communication"]
 people: []
 spirits: []
-keywords: ["Confucius", "prayer circle", "circle of light", "angels", "spirits", "law of attraction", "light", "healing", "fellowship", "global network", "Divine Love", "at-onement", "longing", "community", "bonds of love"]
+keywords: ["prayer circle", "circle of light", "angels", "spirits", "law of attraction", "light", "healing", "fellowship", "global network", "Divine Love", "at-onement", "longing", "community", "bonds of love"]
 questions:
   - "What happens spiritually when we pray together in a group?"
   - "Do angels come to prayer circles?"
@@ -31,6 +31,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-many-benefits-of-praying-in-a-circle-of-light/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

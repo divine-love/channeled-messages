@@ -16,7 +16,7 @@ primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Individual Soul Calling", "Spiritual Identity & Destiny", "Faith & Trust", "Serving Others in Love"]
 people: []
 spirits: []
-keywords: ["Confucius", "circles of light", "purpose", "unique path", "faith", "stepping forward", "miracles", "simplicity of truth", "humility", "integrity", "God's timing", "soul gifts", "channel of love", "truth", "guidance"]
+keywords: ["circles of light", "purpose", "unique path", "faith", "stepping forward", "miracles", "simplicity of truth", "humility", "integrity", "God's timing", "soul gifts", "channel of love", "truth", "guidance"]
 questions:
   - "How do I start a Circle of Light in my community?"
   - "How do I create a prayer group in my home?"
@@ -34,6 +34,7 @@ related_messages: ["2015-08-22-af-augustine", "2015-08-22-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/confucius-urges-group-participants-to-start-circles-of-light-where-they-live/"
 notes: "Closing message of the August 2015 Gibsons Retreat. Confucius sends each participant home with a unique calling to start their own Circle of Light."
+significance: []
 last_edited: 2026-04-13
 ---
 

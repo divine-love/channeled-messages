@@ -16,7 +16,7 @@ primary_subjects: "Overcoming Fear & Doubt"
 secondary_subjects: ["Praying for Children & Loved Ones", "Faith & Trust", "God's Mercy & Unconditional Love"]
 people: []
 spirits: []
-keywords: ["John the Beloved", "fear", "light", "joy", "protection", "faith", "trust", "loved ones", "prayer", "acceptance", "channel of love", "healing", "peace", "earth changes", "God's hand"]
+keywords: ["fear", "light", "joy", "protection", "faith", "trust", "loved ones", "prayer", "acceptance", "channel of love", "healing", "peace", "earth changes", "God's hand"]
 questions:
   - "How do I stop being afraid of what is coming in the world?"
   - "How do I trust God when the world feels chaotic and frightening?"
@@ -30,6 +30,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/continue-to-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

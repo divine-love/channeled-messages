@@ -15,7 +15,7 @@ primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: ["Divine Love & Relationship with God", "Soul Transformation & Development"]
 people: []
 spirits: []
-keywords: ["Confucius", "Divine Love", "natural love", "soul", "prayer", "at-onement", "aloneness", "longing", "God's presence", "eternity", "divine essence", "opening the heart", "fellowship"]
+keywords: ["Divine Love", "natural love", "soul", "prayer", "at-onement", "aloneness", "longing", "God's presence", "eternity", "divine essence", "opening the heart", "fellowship"]
 questions:
   - "What is the difference between natural love and Divine Love?"
   - "Why do I feel alone even when surrounded by people?"
@@ -30,6 +30,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-will-never-feel-the-pain-of-being-alone-when-you-possess-gods-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-11
 ---
 

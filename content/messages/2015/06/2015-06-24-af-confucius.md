@@ -15,7 +15,7 @@ primary_subjects: "Spiritual Identity & Destiny"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "Individual Soul Calling"]
 people: []
 spirits: []
-keywords: ["Confucius", "purpose", "soul gift", "uniqueness", "calling", "Divine Love", "guidance", "still voice", "prayer", "light", "potential", "service", "acknowledgment"]
+keywords: ["purpose", "soul gift", "uniqueness", "calling", "Divine Love", "guidance", "still voice", "prayer", "light", "potential", "service", "acknowledgment"]
 questions:
   - "Does every soul have a purpose?"
   - "How do I discover my spiritual purpose?"
@@ -29,6 +29,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/every-soul-purpose-gift-bring-world/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

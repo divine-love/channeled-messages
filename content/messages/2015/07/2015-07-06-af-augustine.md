@@ -15,7 +15,7 @@ primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Spiritual Community & Fellowship", "Receiving the Divine Love through Prayer"]
 people: []
 spirits: []
-keywords: ["Augustine", "retreat", "gathering", "fellowship", "Divine Love", "embrace", "preparation", "international", "living waters", "opening", "soul awakening", "Light", "unity", "God's children"]
+keywords: ["retreat", "gathering", "fellowship", "Divine Love", "embrace", "preparation", "international", "living waters", "opening", "soul awakening", "Light", "unity", "God's children"]
 questions:
   - "How do I prepare spiritually for a retreat or gathering?"
   - "How do I embrace people at different stages of the spiritual path?"
@@ -29,6 +29,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/guidance-concerning-the-upcoming-retreat-embrace-all-who-are-coming/"
 notes: "Message is given in preparation for an upcoming international retreat gathering souls from around the world."
+significance: []
 last_edited: 2026-04-13
 ---
 

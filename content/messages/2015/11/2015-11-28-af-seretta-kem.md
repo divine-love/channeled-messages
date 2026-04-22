@@ -16,7 +16,7 @@ primary_subjects: "Physical & Miraculous Healing"
 secondary_subjects: ["Interfaith & Universal Truth", "Lattice of Light & Global Prayer Network", "Circle of Light & Prayer Circles", "Global Spiritual Work"]
 people: []
 spirits: []
-keywords: ["Seretta Kem", "merkaba", "healing circle", "circles of light", "tolerance", "acceptance", "interfaith", "exponential", "interconnected", "doors", "world healing", "soul light", "God's channels", "unity", "diversity"]
+keywords: ["merkaba", "healing circle", "circles of light", "tolerance", "acceptance", "interfaith", "exponential", "interconnected", "doors", "world healing", "soul light", "God's channels", "unity", "diversity"]
 questions:
   - "What is a healing merkaba?"
   - "How does a group create a healing merkaba together?"

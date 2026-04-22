@@ -15,7 +15,7 @@ primary_subjects: "Soul Healing"
 secondary_subjects: ["Preparation for Earth Mission", "Letting Go of Wounds"]
 people: []
 spirits: ["jesus"]
-keywords: ["Alec Gaunt", "soul healing", "release", "inharmony", "transformation", "God's channels", "discipleship", "garden", "sanctuary", "earth changes", "two choices", "preparation", "angels", "healing touch", "honesty"]
+keywords: ["soul healing", "release", "inharmony", "transformation", "God's channels", "discipleship", "garden", "sanctuary", "earth changes", "two choices", "preparation", "angels", "healing touch", "honesty"]
 questions:
   - "How do I release deep emotional pain to God?"
   - "What are the last vestiges of inharmony in the soul?"
@@ -31,6 +31,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-pains-soul-god-needs-strong-clear/"
 notes: "Message references a garden sanctuary being developed by the medium and alludes to 'coming days of disruption and difficulty' and 'two choices for humanity.' Jesus is mentioned as having asked the group to come together."
+significance: []
 last_edited: 2026-04-13
 ---
 

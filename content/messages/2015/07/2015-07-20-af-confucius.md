@@ -15,7 +15,7 @@ primary_subjects: "Soul Transformation & Development"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "At-onement"]
 people: []
 spirits: []
-keywords: ["Confucius", "soul transformation", "Divine Love", "immortal", "angel", "at-onement", "eternity", "redemption", "joy", "universe", "knowing God", "flower", "river of love", "blessing", "yearning"]
+keywords: ["soul transformation", "Divine Love", "immortal", "angel", "at-onement", "eternity", "redemption", "joy", "universe", "knowing God", "flower", "river of love", "blessing", "yearning"]
 questions:
   - "How does Divine Love change the soul?"
   - "Can a human soul become angelic through God's Love?"
@@ -31,6 +31,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/how-your-soul-is-changed-by-the-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

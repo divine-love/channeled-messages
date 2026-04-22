@@ -16,7 +16,7 @@ primary_subjects: "Manifestations & Direct Voice"
 secondary_subjects: ["Service, Ministry & Being a Channel of Love", "Divine Will, Guidance & Orchestration", "Faith & Trust"]
 people: []
 spirits: []
-keywords: ["Seretta Kem", "manifestations", "spirit laws", "material objects", "healing", "Love", "focus", "curiosity", "soul to soul", "truth", "God's plan", "faith", "light", "power of spirit"]
+keywords: ["manifestations", "spirit laws", "material objects", "healing", "Love", "focus", "curiosity", "soul to soul", "truth", "God's plan", "faith", "light", "power of spirit"]
 questions:
   - "Are physical manifestations from spirit real?"
   - "Should spiritual manifestations be a focus of spiritual work?"
@@ -32,6 +32,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/material-manifestations-will-come-time/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

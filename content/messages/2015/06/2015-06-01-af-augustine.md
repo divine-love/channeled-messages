@@ -15,7 +15,7 @@ primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Spiritual Discipline & Daily Living", "Service, Ministry & Being a Channel of Love"]
 people: []
 spirits: []
-keywords: ["Augustine", "ministry", "titles", "humility", "God's will", "church", "compliance", "soul progression", "fellowship", "Divine path", "grace", "acceptance", "light", "channel of love"]
+keywords: ["ministry", "titles", "humility", "God's will", "church", "compliance", "soul progression", "fellowship", "Divine path", "grace", "acceptance", "light", "channel of love"]
 questions:
   - "How do I serve God within the structures of religion?"
   - "Does having a religious title make me more spiritual?"
@@ -29,6 +29,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/complying-will-god/"
 notes: ""
+significance: []
 last_edited: 2026-04-11
 ---
 

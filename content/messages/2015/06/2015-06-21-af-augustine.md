@@ -15,7 +15,7 @@ primary_subjects: "Soul Healing"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "Earthly Challenges & Human Condition"]
 people: []
 spirits: []
-keywords: ["Augustine", "bruised apple", "metaphor", "soul healing", "pain", "corruption", "compassion", "Divine Love", "restoration", "darkness to light", "error", "judgment", "incremental healing", "prayer", "purity"]
+keywords: ["bruised apple", "metaphor", "soul healing", "pain", "corruption", "compassion", "Divine Love", "restoration", "darkness to light", "error", "judgment", "incremental healing", "prayer", "purity"]
 questions:
   - "How does unresolved pain affect the soul?"
   - "What happens when we hold on to emotional wounds?"
@@ -31,6 +31,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-metaphor-of-the-bruised-apple/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

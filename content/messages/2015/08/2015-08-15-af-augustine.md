@@ -15,7 +15,7 @@ primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Spiritual Identity & Destiny", "Spiritual Community & Fellowship"]
 people: []
 spirits: []
-keywords: ["Augustine", "retreat", "gifts", "purpose", "hidden treasures", "fear", "rejection", "judgment", "mask", "step forward", "God's will", "service", "salvation of mankind", "soul awareness", "revelation", "international gathering"]
+keywords: ["retreat", "gifts", "purpose", "hidden treasures", "fear", "rejection", "judgment", "mask", "step forward", "God's will", "service", "salvation of mankind", "soul awareness", "revelation", "international gathering"]
 questions:
   - "How do I find my unique purpose in God's plan?"
   - "How do I step forward in God's service despite fear of rejection?"
@@ -33,6 +33,7 @@ related_messages: ["2015-07-06-af-augustine", "2015-07-21-af-augustine", "2015-0
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/speaking-divine-love-retreat-group-open-new-possibilities/"
 notes: "Message given during an international Divine Love retreat gathering. Part of a series of retreat-related messages from Augustine."
+significance: []
 last_edited: 2026-04-13
 ---
 

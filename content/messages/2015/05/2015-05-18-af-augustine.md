@@ -15,7 +15,7 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects: ["Soul Transformation & Development", "Earth Changes & Prophecy"]
 people: []
 spirits: []
-keywords: ["Augustine", "two selves", "soul", "material mind", "soul consciousness", "Divine Love", "world change", "choice", "light", "channel of love", "self-love", "God's plan", "human condition", "soul ascension"]
+keywords: ["two selves", "soul", "material mind", "soul consciousness", "Divine Love", "world change", "choice", "light", "channel of love", "self-love", "God's plan", "human condition", "soul ascension"]
 questions:
   - "What is the difference between the soul and the material mind?"
   - "How do I let my soul guide me instead of my mind?"
@@ -30,6 +30,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/recognizing-your-two-selves-the-soul-and-the-material-mind/"
 notes: ""
+significance: []
 last_edited: 2026-04-11
 ---
 

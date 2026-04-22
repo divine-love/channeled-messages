@@ -16,7 +16,7 @@ primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: ["Prayer & Devotion", "Knowing God"]
 people: []
 spirits: []
-keywords: ["Augustine", "cherish", "light", "flame", "prayer", "God's love", "gift", "protection", "relationship with God", "grace", "joy", "peace", "blessing"]
+keywords: ["cherish", "light", "flame", "prayer", "God's love", "gift", "protection", "relationship with God", "grace", "joy", "peace", "blessing"]
 questions:
   - "How do I protect and nurture the spiritual light within me?"
   - "How do I keep the flame of God's Love burning within my soul?"
@@ -27,6 +27,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/cherish-this-light/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

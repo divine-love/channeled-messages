@@ -16,7 +16,7 @@ primary_subjects: "Spiritual Community & Fellowship"
 secondary_subjects: ["Soul Awakening", "Unique Soul Gifts", "Shared Purpose"]
 people: []
 spirits: []
-keywords: ["Augustine", "fellowship", "bonds", "distance", "soul connection", "communication", "unity", "new phase", "gifts opening", "soul perception", "truth", "love", "journey", "together", "brothers and sisters"]
+keywords: ["fellowship", "bonds", "distance", "soul connection", "communication", "unity", "new phase", "gifts opening", "soul perception", "truth", "love", "journey", "together", "brothers and sisters"]
 questions:
   - "How do I stay connected with my spiritual community across distances?"
   - "How are souls bonded together in Love?"
@@ -30,6 +30,7 @@ related_messages: ["2015-08-22-af-augustine", "2015-08-22-af-confucius"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/work-together-in-love/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

@@ -16,7 +16,7 @@ primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Prayer & Devotion", "Soul Awakening", "Faith & Trust"]
 people: []
 spirits: []
-keywords: ["Confucius", "firmer ground", "uncertainty", "confusion", "soul shifts", "prayer", "patience", "waiting", "God's plan", "peace", "speculation", "daily prayer", "perceptions", "assimilation", "Divine Will"]
+keywords: ["firmer ground", "uncertainty", "confusion", "soul shifts", "prayer", "patience", "waiting", "God's plan", "peace", "speculation", "daily prayer", "perceptions", "assimilation", "Divine Will"]
 questions:
   - "Why do I feel confused and uncertain after a spiritual breakthrough?"
   - "How do I find firmer ground when my spiritual perceptions are shifting?"
@@ -32,6 +32,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/take-time-to-come-to-firmer-ground/"
 notes: "Received on the same day as the Augustine message about the newborn soul. Both address the post-retreat experience of inner shifting and uncertainty."
+significance: []
 last_edited: 2026-04-13
 ---
 

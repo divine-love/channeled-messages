@@ -15,7 +15,7 @@ primary_subjects: "Letting Go of Wounds"
 secondary_subjects: ["Preparation for Earth Mission", "Spiritual Discipline & Daily Living"]
 people: []
 spirits: []
-keywords: ["Augustine", "release", "conditions", "holding back", "prayer", "preparation", "gathering", "channel of love", "harmony", "God's Love", "freedom", "struggle", "threshold", "joy", "prayerful attitude"]
+keywords: ["release", "conditions", "holding back", "prayer", "preparation", "gathering", "channel of love", "harmony", "God's Love", "freedom", "struggle", "threshold", "joy", "prayerful attitude"]
 questions:
   - "What conditions are holding me back spiritually?"
   - "How do I release old patterns that no longer serve me?"
@@ -32,6 +32,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-conditions-within-hold-back/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 

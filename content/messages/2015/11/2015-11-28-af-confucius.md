@@ -16,7 +16,7 @@ primary_subjects: "Prayer & Devotion"
 secondary_subjects: ["Joyful Living", "Soul Healing & Emotional Restoration"]
 people: []
 spirits: []
-keywords: ["Confucius", "prayer", "freedom", "joy", "burdens", "Light", "shackles", "earthly conditions", "uplifted", "God's presence", "circle", "blessing"]
+keywords: ["prayer", "freedom", "joy", "burdens", "Light", "shackles", "earthly conditions", "uplifted", "God's presence", "circle", "blessing"]
 questions:
   - "How do I pray to be freed from my burdens?"
   - "How do I find joy and lightness in my spiritual life?"
@@ -27,6 +27,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/prayer-to-bring-freedom-and-joy/"
 notes: ""
+significance: []
 last_edited: 2026-04-13
 ---
 
