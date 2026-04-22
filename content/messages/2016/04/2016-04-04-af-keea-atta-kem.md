@@ -20,7 +20,7 @@ secondary_subjects:
   - "Mediumship & Developing as an Instrument"
 people: []
 spirits: []
-keywords: ["prism", "soul gifts", "Divine Love", "healing", "perception", "empathy", "wisdom", "communication", "refraction", "light", "color", "unique soul", "spiritual gifts", "Keea atta Kem", "soul mind"]
+keywords: ["prism", "soul gifts", "Divine Love", "healing", "perception", "empathy", "wisdom", "communication", "refraction", "light", "color", "unique soul", "spiritual gifts", "soul mind"]
 questions:
   - "What are my spiritual gifts?"
   - "How does Divine Love transform and awaken my soul's gifts?"
