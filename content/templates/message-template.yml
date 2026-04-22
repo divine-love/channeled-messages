@@ -55,4 +55,10 @@ notes:                                 # OPTIONAL. Curator notes, context, or pr
 
 significance:                          # OPTIONAL. Use sparingly. Values: "Key Teaching", "Prophetic", "Historical", "Healing", "Biographical", "Milestone"
 
+language: en                           # REQUIRED. Language code (ISO 639-1). Default is "en" for English.
+
+excerpt:                               # OPTIONAL. Short pull quote or highlight for social sharing and teasers. Direct quote or curator-written. Aim for under 200 characters.
+
+series: []                             # OPTIONAL. Thematic groupings for curated website collections. Leave empty until groupings are defined.
+
 last_edited: 2025-01-01               # Update to today's date whenever this record is modified (YYYY-MM-DD).

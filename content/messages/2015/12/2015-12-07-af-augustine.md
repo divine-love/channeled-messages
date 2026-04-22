@@ -36,7 +36,9 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/carry-this-light-into-the-darkened-world/"
 notes: ""
-significance: []
+language: en
+excerpt: "Carry it held high with Love, with the sure knowledge that God has touched your souls deeply with His Mighty Hand and Light and Love."
+series: []
 last_edited: 2026-04-17
 ---
 

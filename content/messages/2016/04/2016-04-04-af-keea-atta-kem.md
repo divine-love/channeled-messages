@@ -41,6 +41,9 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-prism-of-our-souls/"
 notes: "Keea atta Kem opens as 'Keea' — source text had 'Kea' which is a typo, corrected throughout. She addresses three individuals by initial only (J., H., and A. — the last being Al Fike, the instrument). Personal messages have been retained as received; names withheld per convention."
 significance: ["Key Teaching"]
+language: en
+excerpt: "If you think of light passing through a prism — the light within your soul brings this effect, refracted and changed by the prism of God's Love, each beautiful color a gift."
+series: []
 last_edited: 2026-04-17
 ---
 

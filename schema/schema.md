@@ -28,10 +28,6 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │     └─ prayer-for-divine-love-original.md
 │     └─ prayer-for-divine-love-padgett-contemporary.md
 │     └─ prayer-for-divine-love-dlsf.md
-│  └─ talks/
-│     └─ 2015/
-│        └─ 02/
-│           └─ 2015-02-01-af-lifes-choices.md
 │  └─ templates/
 │     └─ medium-template.yml
 │     └─ message-template.yml
@@ -43,7 +39,6 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │  └─ theme_clusters.yml
 ├─ schema/
 │  └─ message.schema.yml
-│  └─ talk.schema.yml
 │  └─ schema.md
 ├─ spirits/
 │  └─ andrew.yml
@@ -52,11 +47,10 @@ Each message is stored in its own `.yml` file within a structured directory tree
 ```
 
  - `/content/messages/` contains all message entries organized by year.
- - `/content/talks/` contains human-authored talks and speeches organized by year.
  - `/content/templates/` contains template files for messages, spirits, and mediums.
  - `/spirits/` and `/mediums/` store background metadata about spirit authors and mediums.
  - `/metadata/` contains controlled vocabulary files such as `subjects.yml` and `theme_clusters.yml`.
- - `/schema/` contains this documentation, the machine-readable message schema, and the talk schema.
+ - `/schema/` contains this documentation and the machine-readable schema definition.
 
 
 ## 2. Message ID Pattern
@@ -178,6 +172,9 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
 | **notes** | string | Optional free-text field for contextual notes about where or how the message was received. | `Evening prayer circle at Gibsons, BC` |
 | **significance** | array of strings | Optional flags marking a message as particularly important. Values: `Key Teaching`, `Prophetic`, `Historical`, `Healing`, `Biographical`, `Milestone`. Use sparingly. | `["Key Teaching", "Prophetic"]` |
+| **language** | string | Language code (ISO 639-1). Always include. Defaults to `en` for English. Required for multilingual site rendering. | `en` |
+| **excerpt** | string | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Aim for under 200 characters. | `"Drink deep these Living waters and open yourselves wide."` |
+| **series** | array of strings | Optional thematic groupings for curated website collections. Leave empty until groupings are defined. | `["Healing Messages", "Jesus Speaks"]` |
 | **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Helps track which translation files may need updating after source edits. | `2025-06-01` |
 
 ---
@@ -214,6 +211,9 @@ audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
 notes: Message received during evening circle in Gibsons, BC.
 significance: ["Key Teaching"]
+language: en
+excerpt: "Oh what wonders your Heavenly Father may manifest through you, oh what love will flow."
+series: []
 last_edited: 2025-06-01
 ```
 
@@ -245,6 +245,9 @@ audio_url: ""
 canonical_url: ""
 notes: Morning gathering in a private home circle.
 significance: []
+language: en
+excerpt: ""
+series: []
 last_edited: 2025-06-01
 ```
 

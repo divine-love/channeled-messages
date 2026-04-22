@@ -41,6 +41,9 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/expectations-of-the-mind-on-releasing-control/"
 notes: ""
 significance: ["Key Teaching"]
+language: en
+excerpt: "Just think how much freedom you will obtain by letting go — this is not relinquishing action, but releasing your mind's desire to control outcomes."
+series: []
 last_edited: 2026-04-17
 ---
 

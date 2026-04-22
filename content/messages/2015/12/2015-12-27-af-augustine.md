@@ -36,6 +36,9 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/awakening-of-the-soul-mind/"
 notes: "Transcription artifact corrected: comma added after 'understandings' — 'understandings knowledge of Truth' changed to 'understandings, knowledge of Truth'."
 significance: []
+language: en
+excerpt: "It will come clear like a newborn whose vision is blurry and indistinct — you will come to know this part of you, your soul mind."
+series: []
 last_edited: 2026-04-17
 ---
 

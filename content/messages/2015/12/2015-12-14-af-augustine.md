@@ -42,6 +42,9 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
 notes: "Possible transcription artifact: 'the answers that what they do in the world' — left as-is; may reflect spoken cadence."
 significance: ["Key Teaching"]
+language: en
+excerpt: "You cannot know God's Will from your mind — the faculties of the mind were not gifted to mankind for this purpose. The faculties of the soul, enlivened by God's Touch of Love, are quite capable."
+series: []
 last_edited: 2026-04-17
 ---
 
