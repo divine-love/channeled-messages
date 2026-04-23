@@ -20,7 +20,7 @@ secondary_subjects:
   - "Collective Awakening & Redemption"
 people: []
 spirits: []
-keywords: ["Matthew", "change", "new year", "illusion", "reality", "soul awakening", "mind", "habits", "cleansing", "transition", "threshold", "truth", "light", "Padgett Messages", "Judas book"]
+keywords: ["Matthew", "change", "new year", "illusion", "reality", "soul awakening", "mind", "habits", "cleansing", "transition", "threshold", "truth", "light", "Padgett Messages", "Judas of Kerioth"]
 questions:
   - "How do I prepare myself spiritually for a time of major world change?"
   - "How do I let go of beliefs and habits built up over a lifetime?"
@@ -40,7 +40,7 @@ related_messages:
   - 2016-03-21-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/time-accept-new-way/"
-notes: "First message from Matthew in the archive. Matthew came because Al Fike had read one of his messages in the Padgett Messages — referred to as 'the Judas book.'"
+notes: "First message from Matthew in the archive. Matthew came because Al Fike had read one of his messages in the Padgett Messages book Judas of Kerioth."
 significance: ["Prophetic"]
 language: en
 excerpt: "You live in a very special time — a time of further awakening of mankind, a time of healing this world, a time of bringing more truth and light and love. You have been asked to forge this path."

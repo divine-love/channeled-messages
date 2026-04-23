@@ -1,0 +1,45 @@
+# === Divine Love Archive — Book Resource Template ===
+# Save as: content/books/{kebab-case-title}.md
+# All fields are optional except title, description, and at least one url field.
+
+---
+title: "Book Title Here"                # REQUIRED. Full title in quotes.
+
+author: "Author Name"                   # REQUIRED. Use "Anonymous" if author wishes to remain unnamed.
+
+year_published:                         # OPTIONAL. Year of first publication. Use year_of_messages for channeled works spanning multiple years e.g. "2001 onwards"
+year_of_messages:                       # OPTIONAL. For channeled works — the period during which messages were received e.g. "1914-1932"
+
+format: []                              # REQUIRED. All available formats. Any of: print, ebook, pdf, web. e.g. [print, ebook, pdf, web]
+
+publisher:                              # OPTIONAL. Publisher name if known. e.g. "Lulu Press"
+
+isbn_10:                                # OPTIONAL. 10-digit ISBN for older editions. Widely used in library systems and older databases.
+isbn_13:                                # OPTIONAL. 13-digit ISBN — current standard, used in barcodes and modern catalogues.
+
+language: en                            # OPTIONAL. ISO 639-1 language code. Default is "en" for English.
+
+description: >                          # REQUIRED. A clear summary of the book's content and significance.
+  Describe the book here — its subject matter, who channeled or wrote it,
+  what it contains, and why it is relevant to the Divine Love path.
+
+relevance: >                            # OPTIONAL. How this book connects to the Divine Love messages archive specifically.
+  Explain the connection to the archive here — which messages reference it,
+  which spirits authored or appear in it, or why it is recommended reading.
+
+related_messages: []                    # OPTIONAL. message_ids of messages that reference or connect to this book.
+  # - YYYY-MM-DD-af-spirit-id
+
+related_spirits: []                     # OPTIONAL. spirit_ids of spirits who authored or appear in this book.
+  # - spirit-id
+
+topics: []                              # OPTIONAL. Free-form tags for searchability. e.g. ["Divine Love", "afterlife", "Jesus", "soul progression"]
+
+url_free:                               # OPTIONAL. URL where the book can be read or downloaded free of charge.
+url_amazon:                             # OPTIONAL. Amazon listing URL.
+url_lulu:                               # OPTIONAL. Lulu print edition URL.
+url_publisher:                          # OPTIONAL. Publisher or author's official site.
+url_other:                              # OPTIONAL. Any other relevant URL.
+
+notes:                                  # OPTIONAL. Any additional context, copyright notes, or curator observations.
+---
