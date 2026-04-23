@@ -106,6 +106,7 @@ last_updated: 2026-04-23
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | 2016-03-21 | You are the first tender shoots of a spring that is dawning for all of mankind |
 | [Talk on Service](messages/2016/03/2016-03-26-af-andrew.md) | Andrew | 2016-03-26 | There is a deep recognition within you that you are meant to love and to be a channel of Love |
 | [The Gift of Life](messages/2016/03/2016-03-29-af-james.md) | James | 2016-03-29 | To know your soul and to know who you truly are is the greatest of all gifts to yourself |
+| [A Lesson on the Power of Humility](messages/2016/03/2016-03-30-af-augustine.md) | Augustine | 2016-03-30 | True power is not control. It is the strength that comes from letting God flow through you unrestricted |
 | [In Knowing and Growing Your Soul, You Will Find Your True Self](messages/2016/04/2016-04-04-af-jesus.md) | Jesus | 2016-04-04 | You are a gift to the world. As you truly love yourselves, oh what wonders your Heavenly Father may manifest through you |
 | [The Prism of Our Souls](messages/2016/04/2016-04-04-af-keea-atta-kem.md) | Keea atta Kem | 2016-04-04 | The light within your soul refracts through the prism of God's Love, each colour a unique gift |
 | [Talk on Compassion and Service](messages/2016/04/2016-04-05-af-gandhi.md) | Gandhi | 2016-04-05 | Everyone hungers for love. Prepare a feast for the starving soul |
@@ -133,3 +134,5 @@ last_updated: 2026-04-23
 | [Time to Accept a New Way of Being](messages/2016/12/2016-12-29-af-matthew.md) | Matthew | 2016-12-29 | The reality you have built in your mind is not the only reality. Letting go of it is liberation, not loss |
 | [The Road Is Clear Before You](messages/2017/01/2017-01-02-af-jesus.md) | Jesus | 2017-01-02 | The road is already clear. The only obstructions are the ones you create yourself |
 | [Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually](messages/2017/01/2017-01-16-af-keea-atta-kem.md) | Keea atta Kem | 2017-01-16 | Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside |
+| [Building a Foundation of Spiritual Growth and Development](messages/2017/01/2017-01-25-af-alec-gaunt.md) | Alec Gaunt | 2017-01-25 | The greatest fulfillment your soul can experience is simply to be with God |
+| [Release Self-Will and Embrace the Perfect Will of God](messages/2017/03/2017-03-27-af-james.md) | James | 2017-03-27 | You already know which way you will choose. Your soul drew you here |
