@@ -16,7 +16,7 @@ primary_subjects: "Divine Love & Relationship with God"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Soul Transformation & Development"
-  - "Beauty, Nature & Spiritual Joy"
+  - "Beauty & Spiritual Joy"
   - "Unique Soul Gifts"
 people: []
 spirits: []
