@@ -17,12 +17,15 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │  └─ messages/
 │     └─ 2015/
 │        └─ 11/
-│           └─ 2015-11-30-af-jesus.yml
+│           └─ 2015-11-30-af-jesus.md
 │        └─ 12/
-│           └─ 2015-12-07-af-andrew.yml
+│           └─ 2015-12-07-af-andrew.md
 │     └─ 2016/
 │        └─ 01/
-│           └─ 2016-01-03-af-augustine.yml
+│           └─ 2016-01-03-af-augustine.md
+│  └─ books/
+│     └─ judas-of-kerioth.md
+│     └─ book-template.md
 │  └─ practices/
 │     └─ healing-merkaba.md
 │     └─ prayer-for-divine-love-original.md
@@ -32,6 +35,7 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │     └─ medium-template.yml
 │     └─ message-template.yml
 │     └─ spirit-template.yml
+│  └─ doors.md
 ├─ mediums/
 │  └─ al-fike.yml
 ├─ metadata/
@@ -46,7 +50,9 @@ Each message is stored in its own `.yml` file within a structured directory tree
 │  └─ jesus.yml
 ```
 
- - `/content/messages/` contains all message entries organized by year.
+ - `/content/messages/` contains all message entries organized by year, as Markdown files (`.md`) with YAML front matter.
+ - `/content/books/` contains recommended reading entries — books and resources relevant to the Divine Love archive.
+ - `/content/doors.md` — a curated index of the spiritual insight (the "door") hidden within each message, linking to the full text.
  - `/content/templates/` contains template files for messages, spirits, and mediums.
  - `/spirits/` and `/mediums/` store background metadata about spirit authors and mediums.
  - `/metadata/` contains controlled vocabulary files such as `subjects.yml` and `theme_clusters.yml`.
@@ -174,7 +180,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **significance** | array of strings | Optional flags marking a message as particularly important. Values: `Key Teaching`, `Prophetic`, `Historical`, `Healing`, `Biographical`, `Milestone`. Use sparingly. | `["Key Teaching", "Prophetic"]` |
 | **language** | string | Language code (ISO 639-1). Always include. Defaults to `en` for English. Required for multilingual site rendering. | `en` |
 | **excerpt** | string | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Aim for under 200 characters. | `"Drink deep these Living waters and open yourselves wide."` |
-| **series** | array of strings | Optional thematic groupings for curated website collections. Leave empty until groupings are defined. | `["Healing Messages", "Jesus Speaks"]` |
+| **series** | array of strings | Optional thematic groupings for curated website collections. Leave empty if not yet assigned. | `[]` |
 | **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Helps track which translation files may need updating after source edits. | `2025-06-01` |
 
 ---
@@ -251,7 +257,53 @@ series: []
 last_edited: 2025-06-01
 ```
 
-## 6. YAML Entry Style Guide
+## 6. Curator Conventions
+
+The following conventions have been established through the curation process and should be followed by all contributors.
+
+### Text Handling
+
+- **Never alter message text** without explicit permission from the archive curator.
+- **Spacing artifacts** (double spaces, space before punctuation): fix silently.
+- **Clear typos** (e.g., "yolk" for "yoke", "froth" for "forth"): fix silently.
+- **Grammar errors**: flag but do not auto-fix without permission.
+- **Transcriber insertions** — words or phrases added by the transcriber for clarity should be wrapped in **square brackets** `[]`, not parentheses. Example: `He walked with them [after the resurrection] for forty days.`
+
+### Notes Field
+
+The `notes` field should only record curatorially significant information such as:
+- Context about where or how the message was received
+- Biographical details revealed in the message
+- Connections to other messages or events
+- Incomplete transcriptions or missing portions
+
+Routine typo corrections do not need to be noted.
+
+### Questions Field
+
+Questions should be written as a real seeker would type them into a search engine at 2am. Aim for:
+- Natural, human phrasing ("Why do I keep failing?" not "What causes repeated spiritual failure?")
+- Universally applicable — not specific to people or events in the message
+- A mix of spiritual, emotional, and practical angles
+- Questions born from fear, doubt, grief, or confusion are particularly valuable
+
+### Spirit Names in Keywords
+
+If a spirit has a spirit file in `/spirits/`, do **not** include their name in the `keywords` field — they are already indexed via `spirit_id` and `spirits[]`. Only include spirit names in `keywords` if they are mentioned but have no spirit file.
+
+Exception: the word "faith" is always treated as a concept keyword, never removed as a spirit name reference, unless the message is specifically by or about Faith Nyquist.
+
+### Related Messages
+
+`related_messages` should reflect **subject connections only** — not date proximity, same retreat, or same location. Two messages received on the same day are only linked if their content is thematically connected.
+
+### Em Dashes
+
+Avoid em dashes (—) in curator-written content (descriptions, excerpts, questions, notes, doors). Use a single hyphen (-) when a dash is needed, or rephrase to avoid it. Em dashes are a common AI writing pattern and reduce the human feel of the archive.
+
+---
+
+## 7. YAML Entry Style Guide
 
 When adding or editing messages, please follow these YAML guidelines.
 
@@ -294,7 +346,7 @@ location:
 | Omitting optional fields entirely | Omitting fields breaks validators | Leave blank: `audio_url: ""` or `spirits: []` |
 
 
-## 7. Contributor Checklist
+## 8. Contributor Checklist
 
 Before committing a new message:
 
@@ -308,11 +360,17 @@ Before committing a new message:
  - ✅ At least one **question** is included in the `questions` field to aid search discoverability
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
  - ✅ A short **description** is included
- - ✅ The file is saved as `.yml` under the correct year folder
+ - ✅ **language** is set (default `en`)
+ - ✅ **excerpt** is filled in with an evocative pull quote or curator highlight
+ - ✅ **series** is present (leave as `[]` if not yet assigned)
+ - ✅ **significance** is present (leave as `[]` if none applies)
+ - ✅ The file is saved as `.md` under the correct year/month folder
  - ✅ **last_edited** is set to today's date
+ - ✅ Spirit names are **not** in `keywords` if that spirit has a file in `/spirits/`
+ - ✅ Transcriber insertions use **square brackets** `[]` not parentheses
 
 
-## 8. Translations
+## 9. Translations
 
 Translations are permitted and encouraged under the repository license.
 
@@ -370,7 +428,7 @@ Translation files should:
  - Include a translator's note or credit at the end if desired.
  - Update `last_edited` if the translation is revised after the source message changes.
 
-## 9. Licensing
+## 10. Licensing
 
 **License:** `CC-BY-ND-4.0+Translations`
 
