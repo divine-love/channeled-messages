@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "Yogananda addresses the group's deliberations about a journey to India, using his own experience of leaving India for America as a teaching on faith, service, and accepting God's invitations. He teaches that God never demands or punishes, but lays opportunities before each soul — and that a soul filled with Love, faith, and trust is the one most able to step forward into the unknown and discover what God has prepared."
+description: >
+  Yogananda addresses the group's deliberations about a journey to India, using
+  his own experience of leaving India for America as a teaching on faith,
+  service, and accepting God's invitations. He teaches that God never demands or
+  punishes, but lays opportunities before each soul — and that a soul filled with
+  Love, faith, and trust is the one most able to step forward into the unknown
+  and discover what God has prepared.
 primary_subjects: "Divine Will, Guidance & Orchestration"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
@@ -19,7 +25,7 @@ secondary_subjects:
   - "Free Will & Human Error"
   - "Manifestations & Direct Voice"
 people: []
-spirits: ["jesus"]
+spirits: []
 keywords: ["India", "invitation", "faith", "service", "risk", "free will", "direct voice", "limitations", "journey", "disciples", "America", "choice", "God's plan", "reticence", "soul yearning"]
 questions:
   - "How do I know if a prompting to serve God is really from Him?"
@@ -40,11 +46,17 @@ related_messages:
   - 2016-08-17-af-james-padgett
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/choice-and-accepting-the-will-of-god/"
-notes: "Yogananda references an earlier invitation he gave to visit India, and speaks directly to the group's deliberations about whether to proceed with the journey. He also anticipates speaking in Direct Voice in the future."
+notes: >
+  Yogananda references an earlier invitation he gave to visit India, and speaks
+  directly to the group's deliberations about whether to proceed with the
+  journey. He also anticipates speaking in Direct Voice in the future.
 significance: ["Biographical"]
 language: en
-excerpt: "God will never turn away from you no matter what you decide. But if every invitation is rejected, these invitations will cease, for God respects your free will. He waits until you are ready."
-series: []
+excerpt: >
+  God will never turn away from you no matter what you decide. But if every
+  invitation is rejected, these invitations will cease, for God respects your
+  free will. He waits until you are ready.
+series: ["Service & Mission", "Letters from History"]
 last_edited: 2026-04-23
 ---
 

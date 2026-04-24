@@ -11,7 +11,11 @@ location:
   country: USA
 gathering:
 message_type: ["Guidance"]
-description: "John the Beloved encourages the circle never to doubt their service to God, teaching that every soul aligned with God's Will serves Him in many ways — seen and unseen — and that as the soul deepens in Divine Love, service becomes clearer, more powerful, and more joyfully aligned with God's unfolding plan."
+description: >
+  John the Beloved encourages the circle never to doubt their service to God,
+  teaching that every soul aligned with God's Will serves Him in many ways — seen
+  and unseen — and that as the soul deepens in Divine Love, service becomes
+  clearer, more powerful, and more joyfully aligned with God's unfolding plan.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Discipleship"
@@ -42,8 +46,10 @@ canonical_url: "https://divinelovesanctuary.com/talk-on-service-to-god-2/"
 notes: ""
 significance: []
 language: en
-excerpt: "You and God are bonded for all eternity, and you shall continue to serve Him in ever greater, deeper and more wondrous ways as you become closer to Him."
-series: []
+excerpt: >
+  You and God are bonded for all eternity, and you shall continue to serve Him in
+  ever greater, deeper and more wondrous ways as you become closer to Him.
+series: ["Service & Mission"]
 last_edited: 2026-04-17
 ---
 

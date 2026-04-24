@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Augustine addresses an international Divine Love retreat group, affirming that each soul has been guided there by God's Will and carries unique gifts and a hidden purpose waiting to be revealed. He challenges them to release their fears of rejection and judgment, step out from behind their masks, and boldly offer their gifts in service — assuring them that as they do, God's Will shall be made manifest through them collectively."
+description: >
+  Augustine addresses an international Divine Love retreat group, affirming that
+  each soul has been guided there by God's Will and carries unique gifts and a
+  hidden purpose waiting to be revealed. He challenges them to release their
+  fears of rejection and judgment, step out from behind their masks, and boldly
+  offer their gifts in service — assuring them that as they do, God's Will shall
+  be made manifest through them collectively.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Spiritual Identity & Destiny", "Spiritual Community & Fellowship"]
 people: []
@@ -32,7 +38,9 @@ questions:
 related_messages: ["2015-07-06-af-augustine", "2015-07-21-af-augustine", "2015-07-27-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/speaking-divine-love-retreat-group-open-new-possibilities/"
-notes: "Message given during an international Divine Love retreat gathering. Part of a series of retreat-related messages from Augustine."
+notes: >
+  Message given during an international Divine Love retreat gathering. Part of a
+  series of retreat-related messages from Augustine.
 significance: []
 last_edited: 2026-04-13
 ---

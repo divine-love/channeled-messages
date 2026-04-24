@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Confucius welcomes a circle of souls seeking Truth and gently directs them inward — to plumb the depths of their own souls — teaching that it is God's Love that ignites a soul to awaken, and that the awakened soul has a capacity to understand Truth that the mind alone simply cannot access."
+description: >
+  Confucius welcomes a circle of souls seeking Truth and gently directs them
+  inward — to plumb the depths of their own souls — teaching that it is God's
+  Love that ignites a soul to awaken, and that the awakened soul has a capacity
+  to understand Truth that the mind alone simply cannot access.
 primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Knowing God"
@@ -34,11 +38,16 @@ related_messages:
   - 2016-01-04-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-awakened-soul/"
-notes: "Appears to be addressed to a new or smaller circle — 'welcome to this little Circle of Light.'"
+notes: >
+  Appears to be addressed to a new or smaller circle — 'welcome to this little
+  Circle of Light.'
 significance: []
 language: en
-excerpt: "It is the touch of God's Essence, His Love, that ignites a soul to awaken — and the awakened soul has the capacity to understand Truth in ways that the mind cannot."
-series: []
+excerpt: >
+  It is the touch of God's Essence, His Love, that ignites a soul to awaken — and
+  the awakened soul has the capacity to understand Truth in ways that the mind
+  cannot.
+series: ["Mind & Soul"]
 last_edited: 2026-04-17
 ---
 

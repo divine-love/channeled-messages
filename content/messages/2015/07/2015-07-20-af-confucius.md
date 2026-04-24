@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Confucius describes the transformative power of God's Divine Love, which turns a mortal being into an immortal angel and opens the soul to ever-deepening communion with the Heavenly Father. He promises that those who seek this gift earnestly will one day look back and barely recognize their former selves, so profound is the change that Love brings."
+description: >
+  Confucius describes the transformative power of God's Divine Love, which turns
+  a mortal being into an immortal angel and opens the soul to ever-deepening
+  communion with the Heavenly Father. He promises that those who seek this gift
+  earnestly will one day look back and barely recognize their former selves, so
+  profound is the change that Love brings.
 primary_subjects: "Soul Transformation & Development"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "At-onement"]
 people: []

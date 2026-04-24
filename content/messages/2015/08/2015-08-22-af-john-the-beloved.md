@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering: "August 2015 Gibsons Retreat"
 message_type: ["Blessing"]
-description: "John the Beloved assures the retreat group that each soul has been uniquely blessed and gifted this day, with parts of their souls opened that were previously closed. He closes with a tender prayer to the Heavenly Father on behalf of all gathered, longing for at-onement, guidance, and a constant infilling of Divine Love."
+description: >
+  John the Beloved assures the retreat group that each soul has been uniquely
+  blessed and gifted this day, with parts of their souls opened that were
+  previously closed. He closes with a tender prayer to the Heavenly Father on
+  behalf of all gathered, longing for at-onement, guidance, and a constant
+  infilling of Divine Love.
 primary_subjects: "Soul Awakening"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "At-onement", "Unique Soul Gifts"]
 people: []

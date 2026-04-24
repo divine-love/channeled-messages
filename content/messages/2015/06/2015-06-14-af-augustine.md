@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Augustine commends a gathered group for their time together in prayer and fellowship, noting that the greatest benefit has been within their souls. He encourages them to embrace those who will soon gather, to continue receiving the Father's Love, and to trust that as their soul perception deepens they will increasingly align with God's Will and flow within the river of His Love."
+description: >
+  Augustine commends a gathered group for their time together in prayer and
+  fellowship, noting that the greatest benefit has been within their souls. He
+  encourages them to embrace those who will soon gather, to continue receiving
+  the Father's Love, and to trust that as their soul perception deepens they will
+  increasingly align with God's Will and flow within the river of His Love.
 primary_subjects: "Spiritual Community & Fellowship"
 secondary_subjects: ["Divine Will, Guidance & Orchestration", "Soul Transformation & Development"]
 people: []

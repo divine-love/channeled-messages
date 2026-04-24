@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering: "August 2015 Gibsons Retreat"
 message_type: ["Teaching"]
-description: "Keea atta Kem calls the gathered souls to shift their consciousness from the material mind to the sacred place of the soul, where God's Will is known, wounds are healed, and all wisdom flows. She invites them to go together into that place of deep peace and holy communion with God, where every question is answered and every fear resolved."
+description: >
+  Keea atta Kem calls the gathered souls to shift their consciousness from the
+  material mind to the sacred place of the soul, where God's Will is known,
+  wounds are healed, and all wisdom flows. She invites them to go together into
+  that place of deep peace and holy communion with God, where every question is
+  answered and every fear resolved.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects: ["Soul Healing", "Knowing God", "Prayer & Devotion", "Soul Awakening"]
 people: []

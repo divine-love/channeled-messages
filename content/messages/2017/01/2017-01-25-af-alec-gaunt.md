@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Alec Gaunt returns to a church he has visited many times both in the flesh and in spirit, urging those gathered to open themselves to the living waters of God's Love and build within themselves the great foundation of a relationship with their Heavenly Father - one that will carry them through every challenge, every joy, and every aspect of their lives."
+description: >
+  Alec Gaunt returns to a church he has visited many times both in the flesh and
+  in spirit, urging those gathered to open themselves to the living waters of
+  God's Love and build within themselves the great foundation of a relationship
+  with their Heavenly Father - one that will carry them through every challenge,
+  every joy, and every aspect of their lives.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Spiritual Discipline & Daily Living"
@@ -36,10 +41,16 @@ related_messages:
   - 2016-04-27-af-alec-gaunt
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/building-a-foundation-of-spiritual-growth-and-development/"
-notes: "Alec mentions having visited this church many times both in the flesh and in spirit, indicating a long-standing connection to the Burnaby spiritual community."
+notes: >
+  Alec mentions having visited this church many times both in the flesh and in
+  spirit, indicating a long-standing connection to the Burnaby spiritual
+  community.
 significance: []
 language: en
-excerpt: "You are building a great foundation within you as you continue to pursue your spiritual growth and development. God will be with you and you will feel the strength and the comfort and the joy of this presence, always."
+excerpt: >
+  You are building a great foundation within you as you continue to pursue your
+  spiritual growth and development. God will be with you and you will feel the
+  strength and the comfort and the joy of this presence, always.
 series: []
 last_edited: 2026-04-23
 ---

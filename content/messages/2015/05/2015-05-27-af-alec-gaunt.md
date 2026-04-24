@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Alec Gaunt tells his friends that the long season of preparation is over and the time to act has come. He encourages them to release resistance, go with the flow of God's Love and Will, and be fully engaged in the great transformation unfolding in the world, assuring them that he will continue to walk by their side as friend, guide, and protector."
+description: >
+  Alec Gaunt tells his friends that the long season of preparation is over and
+  the time to act has come. He encourages them to release resistance, go with the
+  flow of God's Love and Will, and be fully engaged in the great transformation
+  unfolding in the world, assuring them that he will continue to walk by their
+  side as friend, guide, and protector.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Earth Changes & Prophecy", "Divine Will, Guidance & Orchestration"]
 people: []

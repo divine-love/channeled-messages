@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Augustine urges the group to release the worldly conditions that hold them back and to build the prayerful inner conditions needed for God to work powerfully through them as many souls come seeking. He assures them that releasing what no longer serves them is not a struggle but an acceptance, and that God's Love, harmony, and joy await them just a prayer away."
+description: >
+  Augustine urges the group to release the worldly conditions that hold them back
+  and to build the prayerful inner conditions needed for God to work powerfully
+  through them as many souls come seeking. He assures them that releasing what no
+  longer serves them is not a struggle but an acceptance, and that God's Love,
+  harmony, and joy await them just a prayer away.
 primary_subjects: "Letting Go of Wounds"
 secondary_subjects: ["Preparation for Earth Mission", "Spiritual Discipline & Daily Living"]
 people: []

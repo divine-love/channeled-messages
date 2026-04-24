@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Alec Gaunt encourages his friends to be strong in the face of worldly conditions created by humanity's departure from God's Laws of Love, urging them to submit their will to God's Will through prayer and deep faith. He assures them that God's Will is stronger than the will of man and that each day brings new opportunities to choose Light, live as a channel of Love, and walk the Divine Path."
+description: >
+  Alec Gaunt encourages his friends to be strong in the face of worldly
+  conditions created by humanity's departure from God's Laws of Love, urging them
+  to submit their will to God's Will through prayer and deep faith. He assures
+  them that God's Will is stronger than the will of man and that each day brings
+  new opportunities to choose Light, live as a channel of Love, and walk the
+  Divine Path.
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Divine Will, Guidance & Orchestration", "Spiritual Discipline & Daily Living"]
 people: []

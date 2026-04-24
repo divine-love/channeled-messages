@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering: "August 2015 Gibsons Retreat"
 message_type: ["Teaching"]
-description: "James Padgett speaks to the retreat gathering, reflecting on his own journey of doubt and fear as he received the Divine Love messages, and encouraging those present to walk boldly in the Truth as he could not always do himself. He assures them that the blessings of God's Love are infinite and exponential, and that even the smallest act of sharing the Truth can have great and enduring consequences for others."
+description: >
+  James Padgett speaks to the retreat gathering, reflecting on his own journey of
+  doubt and fear as he received the Divine Love messages, and encouraging those
+  present to walk boldly in the Truth as he could not always do himself. He
+  assures them that the blessings of God's Love are infinite and exponential, and
+  that even the smallest act of sharing the Truth can have great and enduring
+  consequences for others.
 primary_subjects: "Padgett Messages & Legacy"
 secondary_subjects: ["Testimony of God's Love", "Discipleship", "Soul Spheres & Progression", "Spiritual Empowerment & Encouragement"]
 people: []
@@ -34,7 +40,10 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/express-the-truth-to-others-padgett-talks-of-why-this-is-so-important/"
 significance: ["Historical", "Biographical"]
-notes: "James Padgett speaks at the August 2015 international retreat. He reflects on his own struggles with doubt and fear during his years as medium, and expresses gratitude that his work has borne fruit in the lives of those gathered."
+notes: >
+  James Padgett speaks at the August 2015 international retreat. He reflects on
+  his own struggles with doubt and fear during his years as medium, and expresses
+  gratitude that his work has borne fruit in the lives of those gathered.
 last_edited: 2026-04-13
 ---
 

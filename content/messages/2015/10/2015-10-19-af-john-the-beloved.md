@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "John the Beloved assures the gathered souls that God carries them upon the Divine Path in a mighty flow of Love, and calls them to honor every soul as God's unique creation. He affirms that they have arrived at a place of deep faith and soul Light and are now walking as God's instruments, agents of change, and channels of Love — part of a chain of Light that flows through them and touches many souls."
+description: >
+  John the Beloved assures the gathered souls that God carries them upon the
+  Divine Path in a mighty flow of Love, and calls them to honor every soul as
+  God's unique creation. He affirms that they have arrived at a place of deep
+  faith and soul Light and are now walking as God's instruments, agents of
+  change, and channels of Love — part of a chain of Light that flows through them
+  and touches many souls.
 primary_subjects: "Becoming a Channel of Love"
 secondary_subjects: ["Unique Soul Gifts", "Faith & Trust", "God's Mercy & Unconditional Love", "Discipleship", "Lattice of Light & Global Prayer Network"]
 people: []

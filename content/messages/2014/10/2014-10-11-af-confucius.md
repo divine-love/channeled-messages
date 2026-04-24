@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching", "Blessing"]
-description: "Confucius clarifies the difference between natural love and Divine Love, urging his listeners to open their souls to receive the Father's Divine Essence through prayer. He assures them that this gift, freely given to all who ask, dissolves the deep aloneness of the soul and begins an eternal journey of at-onement with God."
+description: >
+  Confucius clarifies the difference between natural love and Divine Love, urging
+  his listeners to open their souls to receive the Father's Divine Essence
+  through prayer. He assures them that this gift, freely given to all who ask,
+  dissolves the deep aloneness of the soul and begins an eternal journey of
+  at-onement with God.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: ["Divine Love & Relationship with God", "Soul Transformation & Development"]
 people: []

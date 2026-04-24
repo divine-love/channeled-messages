@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "John the Beloved blesses those who continue to rise above the conditions of the world and encourages them to release the parts within themselves that are of error and pain. He describes how God's Love heals wounds, awakens the soul's faculties, and breaks the chain of error passed from generation to generation — calling each soul to shout 'I am Loved' and walk boldly toward the Light."
+description: >
+  John the Beloved blesses those who continue to rise above the conditions of the
+  world and encourages them to release the parts within themselves that are of
+  error and pain. He describes how God's Love heals wounds, awakens the soul's
+  faculties, and breaks the chain of error passed from generation to generation —
+  calling each soul to shout 'I am Loved' and walk boldly toward the Light.
 primary_subjects: "Cleansing & Expiation"
 secondary_subjects: ["Self-Love & Acceptance", "Soul Awakening", "Rebirth of the Soul (New Birth)", "Guilt & Regret"]
 people: []
@@ -29,7 +34,10 @@ questions:
 related_messages: ["2015-11-02-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-the-yolk-of-error-and-lack-of-self-love/"
-notes: "The website title and message body used 'yolk' — corrected to 'yoke' (a burden or chain) throughout. A missing closing quotation mark was also added after 'I am in it.'"
+notes: >
+  The website title and message body used 'yolk' — corrected to 'yoke' (a burden
+  or chain) throughout. A missing closing quotation mark was also added after 'I
+  am in it.'
 significance: []
 last_edited: 2026-04-13
 ---

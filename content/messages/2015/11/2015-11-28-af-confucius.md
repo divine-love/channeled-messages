@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Blessing"]
-description: "Confucius offers a beautiful prayer to the Heavenly Father on behalf of those gathered, asking that their burdens be lifted, that they be freed from the shackles of earthly conditions, and that they be uplifted into glorious Light and the joy of God's presence within."
+description: >
+  Confucius offers a beautiful prayer to the Heavenly Father on behalf of those
+  gathered, asking that their burdens be lifted, that they be freed from the
+  shackles of earthly conditions, and that they be uplifted into glorious Light
+  and the joy of God's presence within.
 primary_subjects: "Prayer & Devotion"
 secondary_subjects: ["Joyful Living", "Soul Healing & Emotional Restoration"]
 people: []

@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine calls his students to release the mind's need to control outcomes and impose its will upon the world and those around them, teaching that true humility is this act of letting go, and that in doing so God's Will can infuse every part of their lives, marking the beginning of their ministry in the world."
+description: >
+  Augustine calls his students to release the mind's need to control outcomes and
+  impose its will upon the world and those around them, teaching that true
+  humility is this act of letting go, and that in doing so God's Will can infuse
+  every part of their lives, marking the beginning of their ministry in the
+  world.
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects:
   - "Humility"
@@ -42,8 +47,10 @@ canonical_url: "https://divinelovesanctuary.com/expectations-of-the-mind-on-rele
 notes: ""
 significance: ["Key Teaching"]
 language: en
-excerpt: "Just think how much freedom you will obtain by letting go — this is not relinquishing action, but releasing your mind's desire to control outcomes."
-series: []
+excerpt: >
+  Just think how much freedom you will obtain by letting go — this is not
+  relinquishing action, but releasing your mind's desire to control outcomes.
+series: ["Mind & Soul"]
 last_edited: 2026-04-17
 ---
 

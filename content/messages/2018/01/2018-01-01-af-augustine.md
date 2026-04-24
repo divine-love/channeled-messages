@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine opens 2018 by announcing a new phase of service for those gathered, promising that God's Will will be laid plainly before them as their souls awaken further. He cautions against becoming a source of dependence for those drawn to their Light, and teaches that the true mission is to humbly point each soul to God as the Source of all gifts, teaching every soul to go directly to God in prayer for themselves."
+description: >
+  Augustine opens 2018 by announcing a new phase of service for those gathered,
+  promising that God's Will will be laid plainly before them as their souls
+  awaken further. He cautions against becoming a source of dependence for those
+  drawn to their Light, and teaches that the true mission is to humbly point each
+  soul to God as the Source of all gifts, teaching every soul to go directly to
+  God in prayer for themselves.
 primary_subjects: "Discipleship"
 secondary_subjects:
   - "Preparation for Earth Mission"
@@ -41,8 +47,11 @@ canonical_url: "https://divinelovesanctuary.com/teach-each-soul-to-go-to-god-in-
 notes: ""
 significance: []
 language: en
-excerpt: "Resist the temptation of adulation from those who recognize your Light. Humbly point to the Source of All and say: this is from whence all of my gifts come. It is for each child to petition God to receive these gifts of Love."
-series: []
+excerpt: >
+  Resist the temptation of adulation from those who recognize your Light. Humbly
+  point to the Source of All and say: this is from whence all of my gifts come.
+  It is for each child to petition God to receive these gifts of Love.
+series: ["Service & Mission"]
 last_edited: 2026-04-23
 ---
 

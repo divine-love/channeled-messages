@@ -11,7 +11,13 @@ location:
   country: United States of America
 gathering:
 message_type: ["Teaching"]
-description: "Seretta Kem delivers a comprehensive teaching on the gift of mediumship — how spirit communication works, the conditions required for it, the dangers of expectation and premature gift-opening, and the crucial discernment principle that any message not centred on God's Love and the flowering of the soul is not from a Celestial angel. He concludes that while mediumship is a blessing, the gift of Divine Love received in prayer is infinitely greater."
+description: >
+  Seretta Kem delivers a comprehensive teaching on the gift of mediumship — how
+  spirit communication works, the conditions required for it, the dangers of
+  expectation and premature gift-opening, and the crucial discernment principle
+  that any message not centred on God's Love and the flowering of the soul is not
+  from a Celestial angel. He concludes that while mediumship is a blessing, the
+  gift of Divine Love received in prayer is infinitely greater.
 primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
@@ -41,11 +47,18 @@ related_messages:
   - 2015-08-20-af-james-padgett
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/talk-mediumship-laws-communication-rapport/"
-notes: "Two minor transcription artifacts corrected: space before comma in 'When this is so , many things' and missing space in 'acknowledgement of God.It is useful.'"
+notes: >
+  Two minor transcription artifacts corrected: space before comma in 'When this
+  is so , many things' and missing space in 'acknowledgement of God.It is
+  useful.'
 significance: ["Key Teaching"]
 language: en
-excerpt: "If within a message there is no mention of God's Love, that it is not about the opening and flowering of the soul — it is not from an angel. You must discern for yourself through your own soul's acknowledgement what comes through as true."
-series: []
+excerpt: >
+  If within a message there is no mention of God's Love, that it is not about the
+  opening and flowering of the soul — it is not from an angel. You must discern
+  for yourself through your own soul's acknowledgement what comes through as
+  true.
+series: ["Healing Path"]
 last_edited: 2026-04-17
 ---
 

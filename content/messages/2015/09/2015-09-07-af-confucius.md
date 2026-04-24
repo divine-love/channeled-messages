@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Confucius addresses a period of inner uncertainty following deep soul shifts, reassuring the group — and the medium specifically — that feeling groundless is a natural part of the transition as new soul perceptions open. He calls them to stop speculating about the future, continue in daily prayer for God's Love, and wait patiently in peace as God's plan unfolds in His good time."
+description: >
+  Confucius addresses a period of inner uncertainty following deep soul shifts,
+  reassuring the group — and the medium specifically — that feeling groundless is
+  a natural part of the transition as new soul perceptions open. He calls them to
+  stop speculating about the future, continue in daily prayer for God's Love, and
+  wait patiently in peace as God's plan unfolds in His good time.
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Prayer & Devotion", "Soul Awakening", "Faith & Trust"]
 people: []
@@ -31,7 +36,9 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/take-time-to-come-to-firmer-ground/"
-notes: "Received on the same day as the Augustine message about the newborn soul. Both address the post-retreat experience of inner shifting and uncertainty."
+notes: >
+  Received on the same day as the Augustine message about the newborn soul. Both
+  address the post-retreat experience of inner shifting and uncertainty.
 significance: []
 last_edited: 2026-04-13
 ---

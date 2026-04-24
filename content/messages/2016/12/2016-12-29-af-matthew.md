@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "Matthew speaks prophetically of changes coming in the new year for the circle and the world, urging them to release the illusions and mental constructs built up over a lifetime and accept the new reality of soul-centred truth — for they are being prepared to lead others through the same transformative process in the times ahead."
+description: >
+  Matthew speaks prophetically of changes coming in the new year for the circle
+  and the world, urging them to release the illusions and mental constructs built
+  up over a lifetime and accept the new reality of soul-centred truth — for they
+  are being prepared to lead others through the same transformative process in
+  the times ahead.
 primary_subjects: "Personal Transformation Journey"
 secondary_subjects:
   - "Mind vs Soul Conflict"
@@ -40,11 +45,16 @@ related_messages:
   - 2016-03-21-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/time-accept-new-way/"
-notes: "First message from Matthew in the archive. Matthew came because Al Fike had read one of his messages in the Padgett Messages book Judas of Kerioth."
+notes: >
+  First message from Matthew in the archive. Matthew came because Al Fike had
+  read one of his messages in the Padgett Messages book Judas of Kerioth.
 significance: ["Prophetic"]
 language: en
-excerpt: "You live in a very special time — a time of further awakening of mankind, a time of healing this world, a time of bringing more truth and light and love. You have been asked to forge this path."
-series: []
+excerpt: >
+  You live in a very special time — a time of further awakening of mankind, a
+  time of healing this world, a time of bringing more truth and light and love.
+  You have been asked to forge this path.
+series: ["Mind & Soul"]
 last_edited: 2026-04-17
 ---
 

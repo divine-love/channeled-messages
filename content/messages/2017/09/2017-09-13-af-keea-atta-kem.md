@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Keea atta Kem delivers a wide-ranging prophetic teaching on the intensifying changes coming to the world - magnetic pole shifts, disrupted animal behaviour, dramatic environmental and social upheaval - teaching that these are the consequences of humanity's disregard for God's Laws of Creation, and that those who carry Divine Love will be guided to scientists, leaders, and seekers as rocks of stability and truth in the coming storms."
+description: >
+  Keea atta Kem delivers a wide-ranging prophetic teaching on the intensifying
+  changes coming to the world - magnetic pole shifts, disrupted animal behaviour,
+  dramatic environmental and social upheaval - teaching that these are the
+  consequences of humanity's disregard for God's Laws of Creation, and that those
+  who carry Divine Love will be guided to scientists, leaders, and seekers as
+  rocks of stability and truth in the coming storms.
 primary_subjects: "Earth Changes & Prophecy"
 secondary_subjects:
   - "Collective Awakening & Redemption"
@@ -45,11 +51,17 @@ related_messages:
   - 2016-03-21-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/make-love-guiding-truth-earth-changes/"
-notes: "Fourth message from the September 12-13, 2017 Gibsons gathering, following three messages from September 12. Keea atta Kem mentions that Al Fike has seen some things that are coming in vision."
+notes: >
+  Fourth message from the September 12-13, 2017 Gibsons gathering, following
+  three messages from September 12. Keea atta Kem mentions that Al Fike has seen
+  some things that are coming in vision.
 significance: ["Key Teaching", "Prophetic"]
 language: en
-excerpt: "You will be a rock in a world disrupted by conditions of change - and despite all the chaos around you, you will feel the strength and peace and wisdom that comes with your soul enlivened by Love."
-series: []
+excerpt: >
+  You will be a rock in a world disrupted by conditions of change - and despite
+  all the chaos around you, you will feel the strength and peace and wisdom that
+  comes with your soul enlivened by Love.
+series: ["Awakening Humanity"]
 last_edited: 2026-04-23
 ---
 

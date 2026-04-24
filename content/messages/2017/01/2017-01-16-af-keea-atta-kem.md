@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Keea atta Kem addresses the anxiety of spiritually sensitive souls who feel affected by the world's conditions, teaching that increased sensitivity is a natural sign of soul growth, that thoughts attract like energies by law, and that the Love within a growing soul provides powerful protection — so there is no need for fear, only joyful acceptance of each unique soul walking their own path toward God."
+description: >
+  Keea atta Kem addresses the anxiety of spiritually sensitive souls who feel
+  affected by the world's conditions, teaching that increased sensitivity is a
+  natural sign of soul growth, that thoughts attract like energies by law, and
+  that the Love within a growing soul provides powerful protection — so there is
+  no need for fear, only joyful acceptance of each unique soul walking their own
+  path toward God.
 primary_subjects: "Spiritual Identity & Destiny"
 secondary_subjects:
   - "Earthly Challenges & Human Condition"
@@ -40,11 +46,16 @@ related_messages:
   - 2016-07-10-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/accept-every-unique-soul-differences-will-not-harm-spiritually/"
-notes: "Correction: 'not for you to obsessed about' corrected to 'not for you to be obsessed about'. Double space before 'obsessed' also corrected."
+notes: >
+  Correction: 'not for you to obsessed about' corrected to 'not for you to be
+  obsessed about'. Double space before 'obsessed' also corrected.
 significance: []
 language: en
-excerpt: "Just as upon a sunny day the clouds obscure the sun and bring a small shadow — these clouds will move on and the sun returns. So it is with your condition as you sit with God."
-series: []
+excerpt: >
+  Just as upon a sunny day the clouds obscure the sun and bring a small shadow —
+  these clouds will move on and the sun returns. So it is with your condition as
+  you sit with God.
+series: ["Prism of the Soul"]
 last_edited: 2026-04-23
 ---
 

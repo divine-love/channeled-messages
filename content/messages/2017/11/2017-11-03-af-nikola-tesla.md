@@ -11,7 +11,14 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Nikola Tesla speaks from spirit about his continued exploration of the universe's mechanics and his particular interest in assisting the development of Direct Voice mediumship, which he understands to have an electrical component. He teaches that Divine Love is the most powerful energy in the universe, that its capacities far exceed what humanity has understood, and that as souls mature in Love, scientific understanding will flourish in ways that will astound the world."
+description: >
+  Nikola Tesla speaks from spirit about his continued exploration of the
+  universe's mechanics and his particular interest in assisting the development
+  of Direct Voice mediumship, which he understands to have an electrical
+  component. He teaches that Divine Love is the most powerful energy in the
+  universe, that its capacities far exceed what humanity has understood, and that
+  as souls mature in Love, scientific understanding will flourish in ways that
+  will astound the world.
 primary_subjects: "Interdimensional & Spirit Communication"
 secondary_subjects:
   - "Manifestations & Direct Voice"
@@ -39,11 +46,19 @@ related_messages:
   - 2017-09-13-af-keea-atta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/tesla-talks-about-the-power-of-love/"
-notes: "First message from Nikola Tesla in the archive. Two corrections from source text: 'awareness's' corrected to 'awarenesses'; 'it's potential' corrected to 'its potential'. Tesla also mentions that the group is 'causing quite a stir in spirit' and that many in spirit know of their work."
+notes: >
+  First message from Nikola Tesla in the archive. Two corrections from source
+  text: 'awareness's' corrected to 'awarenesses'; 'it's potential' corrected to
+  'its potential'. Tesla also mentions that the group is 'causing quite a stir in
+  spirit' and that many in spirit know of their work.
 significance: ["Biographical", "Historical"]
 language: en
-excerpt: "Love can alter many things and influence many aspects of the material and spiritual world. It is not just a thing of singularity for one purpose. Love can ignite many things, can stimulate many aspects of the universe in a way that can change their basic attributes."
-series: []
+excerpt: >
+  Love can alter many things and influence many aspects of the material and
+  spiritual world. It is not just a thing of singularity for one purpose. Love
+  can ignite many things, can stimulate many aspects of the universe in a way
+  that can change their basic attributes.
+series: ["Letters from History"]
 last_edited: 2026-04-23
 ---
 

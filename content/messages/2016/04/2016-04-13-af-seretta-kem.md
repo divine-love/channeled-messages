@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "Seretta Kem acknowledges the many healing energies and practices present in the circle, but teaches that Divine Love — God's Essence poured into the soul through longing and prayer — is the one gift that cannot be passed from person to person, must come directly from God, and surpasses all other healing energies in power, permanence, and transformative effect."
+description: >
+  Seretta Kem acknowledges the many healing energies and practices present in the
+  circle, but teaches that Divine Love — God's Essence poured into the soul
+  through longing and prayer — is the one gift that cannot be passed from person
+  to person, must come directly from God, and surpasses all other healing
+  energies in power, permanence, and transformative effect.
 primary_subjects: "Divine Love & Relationship with God"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
@@ -19,7 +24,7 @@ secondary_subjects:
   - "Prayer & Devotion"
   - "Becoming a Channel of Love"
 people: []
-spirits: ["jesus"]
+spirits: []
 keywords: ["Divine Love", "healing energy", "magnetic healing", "earth energies", "prayer", "longing", "soul", "eternal", "essence", "flame", "at-onement", "living waters", "choice", "invitation"]
 questions:
   - "What is the most powerful healing energy?"
@@ -38,11 +43,17 @@ related_messages:
   - 2015-12-07-af-john-the-beloved
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-greatest-healing-energy-of-all-is-gods-divine-love/"
-notes: "Transcription artifact corrected: 'the power of God's Love is the greatest healing energy of all is God's Divine Love ense, beyond measure' changed to 'the power of God's Love is the greatest healing energy of all — God's Divine Love, His Essence, beyond measure'."
+notes: >
+  Transcription artifact corrected: 'the power of God's Love is the greatest
+  healing energy of all is God's Divine Love ense, beyond measure' changed to
+  'the power of God's Love is the greatest healing energy of all — God's Divine
+  Love, His Essence, beyond measure'.
 significance: ["Key Teaching"]
 language: en
-excerpt: "There is only one blessing which cannot be given from one to another. For it to enter your soul it must be given by God through your longing and prayers."
-series: []
+excerpt: >
+  There is only one blessing which cannot be given from one to another. For it to
+  enter your soul it must be given by God through your longing and prayers.
+series: ["Healing Path"]
 last_edited: 2026-04-17
 ---
 

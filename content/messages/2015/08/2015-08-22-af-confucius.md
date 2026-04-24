@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering: "August 2015 Gibsons Retreat"
 message_type: ["Guidance"]
-description: "Confucius tells the retreat participants that each has been uniquely blessed and is now ready to uncover their individual path and purpose. He urges each one to start their own Circle of Light where they live — to pray, serve, and teach the Truth — and assures them that God will clear their path, lift their burdens, and provide all resources needed if they step forward in faith and love."
+description: >
+  Confucius tells the retreat participants that each has been uniquely blessed
+  and is now ready to uncover their individual path and purpose. He urges each
+  one to start their own Circle of Light where they live — to pray, serve, and
+  teach the Truth — and assures them that God will clear their path, lift their
+  burdens, and provide all resources needed if they step forward in faith and
+  love.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Individual Soul Calling", "Spiritual Identity & Destiny", "Faith & Trust", "Serving Others in Love"]
 people: []
@@ -33,7 +39,9 @@ questions:
 related_messages: ["2015-08-22-af-augustine", "2015-08-22-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/confucius-urges-group-participants-to-start-circles-of-light-where-they-live/"
-notes: "Closing message of the August 2015 Gibsons Retreat. Confucius sends each participant home with a unique calling to start their own Circle of Light."
+notes: >
+  Closing message of the August 2015 Gibsons Retreat. Confucius sends each
+  participant home with a unique calling to start their own Circle of Light.
 significance: []
 last_edited: 2026-04-13
 ---

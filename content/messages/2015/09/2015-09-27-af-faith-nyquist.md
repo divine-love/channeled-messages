@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Faith reflects on her own Earth life — its challenges, blessings, and the limitations of her understanding of Divine Love — and uses it to encourage those gathered to live each day as a prayer, embrace their soul's natural expression, and release the mental constructs that bring disappointment. She assures them that God is never disappointed in them and that as they accept who they truly are, they become a clear and beautiful channel of Love in the world."
+description: >
+  Faith reflects on her own Earth life — its challenges, blessings, and the
+  limitations of her understanding of Divine Love — and uses it to encourage
+  those gathered to live each day as a prayer, embrace their soul's natural
+  expression, and release the mental constructs that bring disappointment. She
+  assures them that God is never disappointed in them and that as they accept who
+  they truly are, they become a clear and beautiful channel of Love in the world.
 primary_subjects: "Soul's True Nature"
 secondary_subjects: ["Self-Love & Acceptance", "Walking the Divine Path", "Joyful Living", "Spirit Testimony & Personal Story"]
 people: []
@@ -32,7 +38,10 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-wondrous-expressions-of-your-soul-and-lifes-challenges/"
-notes: "Received on the same day as the Augustine message. Faith reflects on her own Earth life, noting she lived God's Love but did not articulate the Truth of Divine Love clearly due to the indoctrinations of her time."
+notes: >
+  Received on the same day as the Augustine message. Faith reflects on her own
+  Earth life, noting she lived God's Love but did not articulate the Truth of
+  Divine Love clearly due to the indoctrinations of her time.
 significance: []
 last_edited: 2026-04-13
 ---

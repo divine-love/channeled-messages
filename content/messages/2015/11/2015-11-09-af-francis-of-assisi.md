@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Francis of Assisi opens by describing a quiet moment with the medium in the garden, then calls the gathered souls to bring healing, beauty, Love and Light to a world that struggles in darkness. He speaks of coming changes to the Earth — disruptions and adjustments necessary for the survival of all creatures — and assures those present that with the eyes and ears of their souls they will guide many through these changes as God's channels of Love."
+description: >
+  Francis of Assisi opens by describing a quiet moment with the medium in the
+  garden, then calls the gathered souls to bring healing, beauty, Love and Light
+  to a world that struggles in darkness. He speaks of coming changes to the Earth
+  — disruptions and adjustments necessary for the survival of all creatures — and
+  assures those present that with the eyes and ears of their souls they will
+  guide many through these changes as God's channels of Love.
 primary_subjects: "Nature, Environment & God's Creation"
 secondary_subjects: ["Earth Changes & Prophecy", "Service, Ministry & Being a Channel of Love", "Reverence for the Earth", "Unique Soul Gifts"]
 people: []
@@ -31,7 +37,9 @@ questions:
 related_messages: ["2015-08-17-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-for-this-precious-world-is-required/"
-notes: "Francis opens by describing a personal moment with the medium in his garden, noting the beauty of his creative work there."
+notes: >
+  Francis opens by describing a personal moment with the medium in his garden,
+  noting the beauty of his creative work there.
 significance: []
 last_edited: 2026-04-13
 ---

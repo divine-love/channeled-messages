@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine declares that humanity is in a deep spiritual slumber, and that those gathered are the first tender shoots of a great awakening dawning for mankind — called to drink deep of God's Love, release all barriers, and emerge into the Light of their unique purpose and service."
+description: >
+  Augustine declares that humanity is in a deep spiritual slumber, and that those
+  gathered are the first tender shoots of a great awakening dawning for mankind —
+  called to drink deep of God's Love, release all barriers, and emerge into the
+  Light of their unique purpose and service.
 primary_subjects: "Collective Awakening & Redemption"
 secondary_subjects:
   - "Soul Awakening"
@@ -41,8 +45,10 @@ canonical_url: "https://divinelovesanctuary.com/the-awakening-of-humanity/"
 notes: ""
 significance: ["Prophetic"]
 language: en
-excerpt: "You are the first tender shoots of this spring that is dawning for mankind — you are awakening, my beloveds."
-series: []
+excerpt: >
+  You are the first tender shoots of this spring that is dawning for mankind —
+  you are awakening, my beloveds.
+series: ["Awakening Humanity"]
 last_edited: 2026-04-17
 ---
 

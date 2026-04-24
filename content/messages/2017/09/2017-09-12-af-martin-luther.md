@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Martin Luther responds to the group's conversation about limitations, teaching that God has created an ordered universe governed by laws, that the Law of Divine Love supersedes all others and can bypass the long process of natural love purification, and that each soul bears personal responsibility for their own regeneration - for God cannot spoon-feed a soul into harmony without that soul's own desire, effort, and prayer."
+description: >
+  Martin Luther responds to the group's conversation about limitations, teaching
+  that God has created an ordered universe governed by laws, that the Law of
+  Divine Love supersedes all others and can bypass the long process of natural
+  love purification, and that each soul bears personal responsibility for their
+  own regeneration - for God cannot spoon-feed a soul into harmony without that
+  soul's own desire, effort, and prayer.
 primary_subjects: "Celestial Governance & Spiritual Law"
 secondary_subjects:
   - "Rebirth of the Soul (New Birth)"
@@ -41,11 +47,18 @@ related_messages:
   - 2016-04-12-af-moses
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/understanding-the-laws-of-love-and-the-regeneration-of-our-souls/"
-notes: "Third message from the same circle on September 12, 2017, following 2017-09-12-af-confucius and 2017-09-12-af-augustine. Martin Luther opens by referencing the group's conversation that evening. Typo corrected: 'thir intention' to 'their intention'."
+notes: >
+  Third message from the same circle on September 12, 2017, following
+  2017-09-12-af-confucius and 2017-09-12-af-augustine. Martin Luther opens by
+  referencing the group's conversation that evening. Typo corrected: 'thir
+  intention' to 'their intention'.
 significance: ["Key Teaching"]
 language: en
-excerpt: "To one whose soul is filled with Love, obeying God's Laws is not a burden. It makes perfect sense, and one naturally obeys, for this wisdom comes to the awakened soul."
-series: []
+excerpt: >
+  To one whose soul is filled with Love, obeying God's Laws is not a burden. It
+  makes perfect sense, and one naturally obeys, for this wisdom comes to the
+  awakened soul.
+series: ["Mind & Soul", "Two Paths"]
 last_edited: 2026-04-23
 ---
 

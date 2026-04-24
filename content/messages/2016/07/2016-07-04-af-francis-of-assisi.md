@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "Francis of Assisi speaks of love as the great unifying force of the universe and the true currency of life, sharing how he found God's Love alone in the forest among creatures, and urging all who seek spiritually to beseech God for this Love — whether through the natural or Divine Love path — for it will transform the soul, awaken its gifts, and lead to at-onement with God."
+description: >
+  Francis of Assisi speaks of love as the great unifying force of the universe
+  and the true currency of life, sharing how he found God's Love alone in the
+  forest among creatures, and urging all who seek spiritually to beseech God for
+  this Love — whether through the natural or Divine Love path — for it will
+  transform the soul, awaken its gifts, and lead to at-onement with God.
 primary_subjects: "Divine Love & Relationship with God"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
@@ -37,11 +42,16 @@ related_messages:
   - 2016-05-11-af-jesus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/love-is-the-true-currency-of-life/"
-notes: "Message opens mid-sentence ('…I am Francis') suggesting the recording began partway through."
+notes: >
+  Message opens mid-sentence ('…I am Francis') suggesting the recording began
+  partway through.
 significance: []
 language: en
-excerpt: "A heart cold and unloving does not truly live. A heart filled with love, beaming Light and feeling connected to all creation, knows the deep joy that is unobtainable when there is no openness or acknowledgement of love."
-series: []
+excerpt: >
+  A heart cold and unloving does not truly live. A heart filled with love,
+  beaming Light and feeling connected to all creation, knows the deep joy that is
+  unobtainable when there is no openness or acknowledgement of love.
+series: ["Letters from History"]
 last_edited: 2026-04-17
 ---
 

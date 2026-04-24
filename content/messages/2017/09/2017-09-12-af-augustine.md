@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine acknowledges the real limitations of living in a material body and mind shaped by early conditioning, and teaches that God's Love, incrementally building within the soul, has the power to purify these conditions from the inside outward - bringing not a loss of self but a simplification and clarification of consciousness, where soul wisdom replaces mental complexity and self-judgment gives way to deep self-love."
+description: >
+  Augustine acknowledges the real limitations of living in a material body and
+  mind shaped by early conditioning, and teaches that God's Love, incrementally
+  building within the soul, has the power to purify these conditions from the
+  inside outward - bringing not a loss of self but a simplification and
+  clarification of consciousness, where soul wisdom replaces mental complexity
+  and self-judgment gives way to deep self-love.
 primary_subjects: "Personal Transformation Journey"
 secondary_subjects:
   - "Self-Love & Acceptance"
@@ -40,11 +46,17 @@ related_messages:
   - 2016-07-10-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-of-limitations/"
-notes: "Received in the same circle as 2017-09-12-af-confucius, which appears to have been a brief opening message from Confucius before Augustine delivered this fuller teaching."
+notes: >
+  Received in the same circle as 2017-09-12-af-confucius, which appears to have
+  been a brief opening message from Confucius before Augustine delivered this
+  fuller teaching.
 significance: []
 language: en
-excerpt: "There is so much to learn, and yet there is so much to unlearn. As this process moves forward, you will see with clarity, a vibrancy, a beauty, a knowing that cannot be had in any other way than a soul awakened in Love."
-series: []
+excerpt: >
+  There is so much to learn, and yet there is so much to unlearn. As this process
+  moves forward, you will see with clarity, a vibrancy, a beauty, a knowing that
+  cannot be had in any other way than a soul awakened in Love.
+series: ["Mind & Soul"]
 last_edited: 2026-04-23
 ---
 

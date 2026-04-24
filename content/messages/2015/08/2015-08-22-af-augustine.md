@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering: "August 2015 Gibsons Retreat"
 message_type: ["Guidance"]
-description: "Augustine encourages the retreat group to share with one another what shifts and changes they have experienced within themselves during the gathering. He urges them to bring these inner awarenesses out into the open, examine them consciously, and work together toward the goal of integrating the changes God has brought within them."
+description: >
+  Augustine encourages the retreat group to share with one another what shifts
+  and changes they have experienced within themselves during the gathering. He
+  urges them to bring these inner awarenesses out into the open, examine them
+  consciously, and work together toward the goal of integrating the changes God
+  has brought within them.
 primary_subjects: "Personal Transformation Journey"
 secondary_subjects: ["Spiritual Community & Fellowship", "Soul Awakening"]
 people: []

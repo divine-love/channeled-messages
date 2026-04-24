@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Alec Gaunt addresses souls in the midst of deep inner transformation, teaching that the discomfort, confusion, and self-criticism they feel is the natural result of old patterns and conditions being burned away by God's Love. He urges them to recognize that the outward conscious self they cling to is not their true self, and that as the fire of Divine Love burns brighter within, the treasures of their true souls will emerge in beauty and power."
+description: >
+  Alec Gaunt addresses souls in the midst of deep inner transformation, teaching
+  that the discomfort, confusion, and self-criticism they feel is the natural
+  result of old patterns and conditions being burned away by God's Love. He urges
+  them to recognize that the outward conscious self they cling to is not their
+  true self, and that as the fire of Divine Love burns brighter within, the
+  treasures of their true souls will emerge in beauty and power.
 primary_subjects: "Soul Transformation & Development"
 secondary_subjects:
   - "Cleansing & Expiation"
@@ -41,11 +47,15 @@ related_messages:
   - 2016-04-13-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/changes-within-soul-will-bring-many-rewards/"
-notes: "Two corrections: 'andwe who assist you' corrected to 'and we who assist you'; 'you maybe distracted' corrected to 'you may be distracted'."
+notes: >
+  Two corrections: 'andwe who assist you' corrected to 'and we who assist you';
+  'you maybe distracted' corrected to 'you may be distracted'.
 significance: []
 language: en
-excerpt: "That outward conscious manifestation of who you are is a sort of paper tiger. It is a picture of what you have experienced in life. It is not your true self."
-series: []
+excerpt: >
+  That outward conscious manifestation of who you are is a sort of paper tiger.
+  It is a picture of what you have experienced in life. It is not your true self.
+series: ["Mind & Soul", "Healing Path"]
 last_edited: 2026-04-23
 ---
 

@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Keea atta Kem teaches that Divine Love acts as a prism through which the light of the soul is refracted into many unique gifts and colors, and that each soul possesses a distinct combination of these gifts — healing, perception, empathy, wisdom, communication — which God enlivens and orchestrates in beautiful and wondrous ways."
+description: >
+  Keea atta Kem teaches that Divine Love acts as a prism through which the light
+  of the soul is refracted into many unique gifts and colors, and that each soul
+  possesses a distinct combination of these gifts — healing, perception, empathy,
+  wisdom, communication — which God enlivens and orchestrates in beautiful and
+  wondrous ways.
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Soul Awakening"
@@ -39,11 +44,18 @@ related_messages:
   - 2016-03-29-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-prism-of-our-souls/"
-notes: "Keea atta Kem opens as 'Keea' — source text had 'Kea' which is a typo, corrected throughout. She addresses three individuals by initial only (J., H., and A. — the last being Al Fike, the instrument). Personal messages have been retained as received; names withheld per convention."
+notes: >
+  Keea atta Kem opens as 'Keea' — source text had 'Kea' which is a typo,
+  corrected throughout. She addresses three individuals by initial only (J., H.,
+  and A. — the last being Al Fike, the instrument). Personal messages have been
+  retained as received; names withheld per convention.
 significance: ["Key Teaching"]
 language: en
-excerpt: "If you think of light passing through a prism — the light within your soul brings this effect, refracted and changed by the prism of God's Love, each beautiful color a gift."
-series: []
+excerpt: >
+  If you think of light passing through a prism — the light within your soul
+  brings this effect, refracted and changed by the prism of God's Love, each
+  beautiful color a gift.
+series: ["Prism of the Soul"]
 last_edited: 2026-04-17
 ---
 

@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Martin Luther addresses souls returning to the world after a period of spiritual immersion, teaching that this is now the critical phase of application - where the new sensibilities and soul awareness gained must be consciously chosen over old mind patterns in the real world. He calls them to take responsibility for their own thoughts and choices, reminding them that God and the angels are always available to help when asked."
+description: >
+  Martin Luther addresses souls returning to the world after a period of
+  spiritual immersion, teaching that this is now the critical phase of
+  application - where the new sensibilities and soul awareness gained must be
+  consciously chosen over old mind patterns in the real world. He calls them to
+  take responsibility for their own thoughts and choices, reminding them that God
+  and the angels are always available to help when asked.
 primary_subjects: "Walking the Divine Path"
 secondary_subjects:
   - "Mind vs Soul Conflict"
@@ -41,8 +47,12 @@ canonical_url: "https://divinelovesanctuary.com/the-responsibility-of-acting-in-
 notes: ""
 significance: []
 language: en
-excerpt: "You are babies no longer. It is time that you take those steps of maturity. This requires conscious efforts, the recognition of your own responsibilities and the desire for the highest, the greatest good, the most Love that is possible."
-series: []
+excerpt: >
+  You are babies no longer. It is time that you take those steps of maturity.
+  This requires conscious efforts, the recognition of your own responsibilities
+  and the desire for the highest, the greatest good, the most Love that is
+  possible.
+series: ["Mind & Soul"]
 last_edited: 2026-04-23
 ---
 

@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine encourages the group to clear away inner obstructions and truly acknowledge themselves as the beautiful souls they are, assuring them that as this self-awareness dawns, guidance will come in deeper and clearer ways. He calls them to stop cluttering their minds with unnecessary questioning and instead allow the deep knowing of the soul to be their anchor, as God's Love gradually clears away the shadows and mists to reveal their true purpose."
+description: >
+  Augustine encourages the group to clear away inner obstructions and truly
+  acknowledge themselves as the beautiful souls they are, assuring them that as
+  this self-awareness dawns, guidance will come in deeper and clearer ways. He
+  calls them to stop cluttering their minds with unnecessary questioning and
+  instead allow the deep knowing of the soul to be their anchor, as God's Love
+  gradually clears away the shadows and mists to reveal their true purpose.
 primary_subjects: "Self-Love & Acceptance"
 secondary_subjects: ["Mind vs Soul Conflict", "Individual Soul Calling", "Knowing God"]
 people: []
@@ -31,7 +37,9 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/his-love-clears-away-the-shadows-and-the-mists-allowing-you-to-know-your-own-souls/"
-notes: "Augustine references 'our dear friend Faith' as having given instruction — Faith appears to be another spirit communicator."
+notes: >
+  Augustine references 'our dear friend Faith' as having given instruction —
+  Faith appears to be another spirit communicator.
 significance: []
 last_edited: 2026-04-13
 ---

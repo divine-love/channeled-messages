@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Confucius urges his listeners to allow their souls to take greater ascendency over the human condition, releasing old habits of mind, judgment, and fear. He calls them to redouble their prayer life and be fully prepared to embrace all souls they encounter with pure, unconditional Love, as many are coming who will turn their eyes toward them."
+description: >
+  Confucius urges his listeners to allow their souls to take greater ascendency
+  over the human condition, releasing old habits of mind, judgment, and fear. He
+  calls them to redouble their prayer life and be fully prepared to embrace all
+  souls they encounter with pure, unconditional Love, as many are coming who will
+  turn their eyes toward them.
 primary_subjects: "Prayer & Devotion"
 secondary_subjects: ["Mind vs Soul Conflict", "Preparation for Earth Mission"]
 people: []

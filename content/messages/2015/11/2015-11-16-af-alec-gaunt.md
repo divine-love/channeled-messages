@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Alec Gaunt reveals he has been closely present with many in the group, working to open doors for each one and nurture their individual gifts. He calls them to set aside reluctance, shyness, and fear of judgment and step boldly into the world as God's channels of Love — expressing their unique gifts not out of pride but because hiding them inhibits their own growth and withholds blessings from many others."
+description: >
+  Alec Gaunt reveals he has been closely present with many in the group, working
+  to open doors for each one and nurture their individual gifts. He calls them to
+  set aside reluctance, shyness, and fear of judgment and step boldly into the
+  world as God's channels of Love — expressing their unique gifts not out of
+  pride but because hiding them inhibits their own growth and withholds blessings
+  from many others.
 primary_subjects: "Soul Gifts & Service Readiness"
 secondary_subjects: ["Overcoming Fear & Doubt", "Unique Soul Gifts", "Spiritual Empowerment & Encouragement"]
 people: []
@@ -29,7 +35,10 @@ questions:
 related_messages: ["2015-09-30-af-alec-gaunt"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/do-not-hide-away-but-express-your-gifts-in-the-world/"
-notes: "Alec references the group having been researching his history and family, suggesting some members had been studying the Padgett Messages legacy. He describes himself as family to those on the Divine Love path."
+notes: >
+  Alec references the group having been researching his history and family,
+  suggesting some members had been studying the Padgett Messages legacy. He
+  describes himself as family to those on the Divine Love path.
 significance: []
 last_edited: 2026-04-13
 ---

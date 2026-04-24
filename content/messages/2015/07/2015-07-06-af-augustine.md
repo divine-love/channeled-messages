@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Augustine prepares the group for an upcoming international retreat, urging them to drink deeply of God's Love and to embrace each soul who comes with openness and joy. He assures them that God will gift all who gather with a great opening of His Love, and encourages those further along the path to reach back and welcome those just beginning."
+description: >
+  Augustine prepares the group for an upcoming international retreat, urging them
+  to drink deeply of God's Love and to embrace each soul who comes with openness
+  and joy. He assures them that God will gift all who gather with a great opening
+  of His Love, and encourages those further along the path to reach back and
+  welcome those just beginning.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Spiritual Community & Fellowship", "Receiving the Divine Love through Prayer"]
 people: []
@@ -28,7 +33,9 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/guidance-concerning-the-upcoming-retreat-embrace-all-who-are-coming/"
-notes: "Message is given in preparation for an upcoming international retreat gathering souls from around the world."
+notes: >
+  Message is given in preparation for an upcoming international retreat gathering
+  souls from around the world.
 significance: []
 last_edited: 2026-04-13
 ---

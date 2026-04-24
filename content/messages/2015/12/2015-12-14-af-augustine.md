@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine teaches that the human mind alone cannot know God's Will, and that only a soul enlivened by Divine Love can perceive and align with it. He calls the circle to release mind-driven willfulness, seek the deeper consciousness of the soul, and become beacons of God's reality as the world stands on the verge of great change."
+description: >
+  Augustine teaches that the human mind alone cannot know God's Will, and that
+  only a soul enlivened by Divine Love can perceive and align with it. He calls
+  the circle to release mind-driven willfulness, seek the deeper consciousness of
+  the soul, and become beacons of God's reality as the world stands on the verge
+  of great change.
 primary_subjects: "Free Will & Human Error"
 secondary_subjects:
   - "Mind vs Soul Conflict"
@@ -40,11 +45,16 @@ related_messages:
   - 2015-08-03-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
-notes: "Possible transcription artifact: 'the answers that what they do in the world' — left as-is; may reflect spoken cadence."
+notes: >
+  Possible transcription artifact: 'the answers that what they do in the world' —
+  left as-is; may reflect spoken cadence.
 significance: ["Key Teaching"]
 language: en
-excerpt: "You cannot know God's Will from your mind — the faculties of the mind were not gifted to mankind for this purpose. The faculties of the soul, enlivened by God's Touch of Love, are quite capable."
-series: []
+excerpt: >
+  You cannot know God's Will from your mind — the faculties of the mind were not
+  gifted to mankind for this purpose. The faculties of the soul, enlivened by
+  God's Touch of Love, are quite capable.
+series: ["Mind & Soul"]
 last_edited: 2026-04-17
 ---
 

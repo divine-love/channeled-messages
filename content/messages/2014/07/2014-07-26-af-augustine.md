@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Augustine addresses the tension between God's will and human free will, explaining that neither God nor spirits can control world events or override human choice. He encourages his listeners to align themselves with God's will through prayer and love, assuring them that they are deeply cared for and that God will provide all they need on their spiritual path."
+description: >
+  Augustine addresses the tension between God's will and human free will,
+  explaining that neither God nor spirits can control world events or override
+  human choice. He encourages his listeners to align themselves with God's will
+  through prayer and love, assuring them that they are deeply cared for and that
+  God will provide all they need on their spiritual path.
 primary_subjects: "Free Will & Human Error"
 secondary_subjects: ["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]
 people: []

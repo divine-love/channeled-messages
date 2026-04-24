@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Augustine uses the metaphor of a bruised apple to illustrate how souls that nurture their wounds rather than seeking God's healing Love allow corruption to spread within. He calls for compassion toward those acting from places of pain and confusion, reminding his listeners that healing is gradual and incremental, and that God's Love is the only true restorer of the soul."
+description: >
+  Augustine uses the metaphor of a bruised apple to illustrate how souls that
+  nurture their wounds rather than seeking God's healing Love allow corruption to
+  spread within. He calls for compassion toward those acting from places of pain
+  and confusion, reminding his listeners that healing is gradual and incremental,
+  and that God's Love is the only true restorer of the soul.
 primary_subjects: "Soul Healing"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "Earthly Challenges & Human Condition"]
 people: []

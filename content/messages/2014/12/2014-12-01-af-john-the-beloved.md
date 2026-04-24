@@ -10,7 +10,11 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "John the Beloved encourages a prayer circle to express their soul yearnings to God, affirming the rarity and beauty of their gathering. He urges them to continue in prayer, release self-doubt, and trust that God's Love will become a mighty river flowing through them to the world."
+description: >
+  John the Beloved encourages a prayer circle to express their soul yearnings to
+  God, affirming the rarity and beauty of their gathering. He urges them to
+  continue in prayer, release self-doubt, and trust that God's Love will become a
+  mighty river flowing through them to the world.
 primary_subjects: "Prayer & Devotion"
 secondary_subjects: ["Spiritual Community & Fellowship", "Circle of Light & Prayer Circles", "Spiritual Discipline & Daily Living"]
 people: []

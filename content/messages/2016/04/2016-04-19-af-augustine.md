@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine closes a season of intense teaching and fellowship by affirming how much has been accomplished, promising the group will be summoned together again, and urging them to carry the treasure of Truth they have received — sharing it in love, humility, and joy."
+description: >
+  Augustine closes a season of intense teaching and fellowship by affirming how
+  much has been accomplished, promising the group will be summoned together
+  again, and urging them to carry the treasure of Truth they have received —
+  sharing it in love, humility, and joy.
 primary_subjects: "Spiritual Community & Fellowship"
 secondary_subjects:
   - "Spiritual Empowerment & Encouragement"
@@ -35,8 +39,11 @@ canonical_url: "https://divinelovesanctuary.com/will-come-together/"
 notes: ""
 significance: []
 language: en
-excerpt: "Remember the words we have spoken to you, beloveds — hidden within each lesson is a great door to growing your souls and making yourselves a clearer channel of Love in the world."
-series: []
+excerpt: >
+  Remember the words we have spoken to you, beloveds — hidden within each lesson
+  is a great door to growing your souls and making yourselves a clearer channel
+  of Love in the world.
+series: ["Service & Mission"]
 last_edited: 2026-04-17
 ---
 

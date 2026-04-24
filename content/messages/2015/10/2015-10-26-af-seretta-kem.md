@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Seretta Kem reveals the unseen dimensions of a Divine Love prayer circle, describing how thousands of spirits in the lower spheres gather in concentric circles around those praying, drawn by the Light and taught by celestial spirits. He encourages the group by assuring them that their prayers serve many more souls than they can see, both in the flesh and in spirit, and that the celestials are like midwives supporting the rebirthing of their souls in Love."
+description: >
+  Seretta Kem reveals the unseen dimensions of a Divine Love prayer circle,
+  describing how thousands of spirits in the lower spheres gather in concentric
+  circles around those praying, drawn by the Light and taught by celestial
+  spirits. He encourages the group by assuring them that their prayers serve many
+  more souls than they can see, both in the flesh and in spirit, and that the
+  celestials are like midwives supporting the rebirthing of their souls in Love.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Interdimensional & Spirit Communication", "Material Plane & Dark Spheres", "Lattice of Light & Global Prayer Network", "Teaching from Celestial Spirits"]
 people: []
@@ -30,7 +36,9 @@ questions:
 related_messages: ["2015-08-31-af-seretta-kem", "2015-08-24-af-seretta-kem"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/so-many-in-the-unseen-world-benefit-from-your-prayers-together/"
-notes: "Seretta Kem's name was misspelled as 'Serreta Kem' in the opening line of the source text. Corrected."
+notes: >
+  Seretta Kem's name was misspelled as 'Serreta Kem' in the opening line of the
+  source text. Corrected.
 significance: []
 last_edited: 2026-04-13
 ---

@@ -11,7 +11,10 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine calls the circle to carry the Light they have received boldly into the world, walking as true children of God and allowing His Love to work through them as agents of change for all they encounter."
+description: >
+  Augustine calls the circle to carry the Light they have received boldly into
+  the world, walking as true children of God and allowing His Love to work
+  through them as agents of change for all they encounter.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Discipleship"
@@ -37,7 +40,9 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/carry-this-light-into-the-darkened-world/"
 notes: ""
 language: en
-excerpt: "Carry it held high with Love, with the sure knowledge that God has touched your souls deeply with His Mighty Hand and Light and Love."
+excerpt: >
+  Carry it held high with Love, with the sure knowledge that God has touched your
+  souls deeply with His Mighty Hand and Light and Love.
 series: []
 last_edited: 2026-04-17
 ---

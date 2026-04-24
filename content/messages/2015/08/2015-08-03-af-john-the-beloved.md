@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "John the Beloved explains that absolute Truth cannot be known by the mind alone but only through the awakening of the soul touched by God's Love. He invites his listeners to allow their resistance to fall, to open like a child in joyous vulnerability, and to drink deeply of God's Living Waters so that the age-old questions of the soul may finally be answered."
+description: >
+  John the Beloved explains that absolute Truth cannot be known by the mind alone
+  but only through the awakening of the soul touched by God's Love. He invites
+  his listeners to allow their resistance to fall, to open like a child in joyous
+  vulnerability, and to drink deeply of God's Living Waters so that the age-old
+  questions of the soul may finally be answered.
 primary_subjects: "Soul Awakening"
 secondary_subjects: ["Knowing God", "Receiving the Divine Love through Prayer"]
 people: []

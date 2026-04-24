@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Faith tenderly encourages the circle as they grow together in prayer, assuring them that the Love flowing into their souls is dissolving all barriers, preparing them for unique service, and bringing forward the true expression of who they are."
+description: >
+  Faith tenderly encourages the circle as they grow together in prayer, assuring
+  them that the Love flowing into their souls is dissolving all barriers,
+  preparing them for unique service, and bringing forward the true expression of
+  who they are.
 primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Spiritual Community & Fellowship"
@@ -37,7 +41,9 @@ related_messages:
   - 2015-09-27-af-faith-nyquist
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-emerging-growth-of-your-souls/"
-notes: "Received same evening as the Augustine message 2015-12-14-af-augustine. Spacing artifact corrected: double space before 'can' in second paragraph."
+notes: >
+  Received same evening as the Augustine message 2015-12-14-af-augustine. Spacing
+  artifact corrected: double space before 'can' in second paragraph.
 significance: []
 language: en
 excerpt: "You cannot turn back, beloveds, but only move forward, move forward in Love."

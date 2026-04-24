@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "James Padgett reflects openly on his own fear and desire for recognition when the truth of Divine Love first came to him, and uses it to teach that effective ministry requires not perfect knowledge or a polished presentation, but a humble, loving sharing of one's own unique experience of God — for it is the embrace, not the argument, that touches another soul."
+description: >
+  James Padgett reflects openly on his own fear and desire for recognition when
+  the truth of Divine Love first came to him, and uses it to teach that effective
+  ministry requires not perfect knowledge or a polished presentation, but a
+  humble, loving sharing of one's own unique experience of God — for it is the
+  embrace, not the argument, that touches another soul.
 primary_subjects: "Discipleship"
 secondary_subjects:
   - "Humility"
@@ -39,11 +44,17 @@ related_messages:
   - 2016-03-18-af-john-the-beloved
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/minds-men-hunger-reality-words-create-soul-hungers-love/"
-notes: "James Padgett opens with a personal confession about initially hiding the Divine Love truth out of fear for his reputation — significant biographical content. Jesus mentioned as the example of teaching through personal example and healing; added to spirits field."
+notes: >
+  James Padgett opens with a personal confession about initially hiding the
+  Divine Love truth out of fear for his reputation — significant biographical
+  content. Jesus mentioned as the example of teaching through personal example
+  and healing; added to spirits field.
 significance: ["Key Teaching", "Biographical"]
 language: en
-excerpt: "The minds of men hunger for the reality that words create, but the soul hungers for Love — and it is your embrace that will touch another soul."
-series: []
+excerpt: >
+  The minds of men hunger for the reality that words create, but the soul hungers
+  for Love — and it is your embrace that will touch another soul.
+series: ["Service & Mission", "Letters from History"]
 last_edited: 2026-04-17
 ---
 

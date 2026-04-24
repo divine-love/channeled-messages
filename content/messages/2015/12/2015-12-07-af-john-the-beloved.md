@@ -11,7 +11,10 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "John the Beloved urges the circle to open themselves fully to the powerful presence of Divine Love in the room, calling them to drink deep from its living waters and allow it to fill their souls to overflowing."
+description: >
+  John the Beloved urges the circle to open themselves fully to the powerful
+  presence of Divine Love in the room, calling them to drink deep from its living
+  waters and allow it to fill their souls to overflowing.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
@@ -32,9 +35,13 @@ related_messages:
   - 2015-08-22-af-john-the-beloved
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/drink-deep-living-waters/"
-notes: "Two corrections from source text: 'I heed you all' changed to 'I urge you all'; 'given a as a great blessing' changed to 'given as a great blessing'."
+notes: >
+  Two corrections from source text: 'I heed you all' changed to 'I urge you all';
+  'given a as a great blessing' changed to 'given as a great blessing'.
 language: en
-excerpt: "Drink deep these Living waters and open yourselves wide, truly feel this Love my beloveds — it is yours, a Gift, a blessing, a touch."
+excerpt: >
+  Drink deep these Living waters and open yourselves wide, truly feel this Love
+  my beloveds — it is yours, a Gift, a blessing, a touch.
 series: []
 last_edited: 2026-04-17
 ---

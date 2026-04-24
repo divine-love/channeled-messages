@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Martin Luther speaks to the diverse gathering at the retreat, urging them to release all judgment of one another and to love as God loves — unconditionally. He teaches that a soul filled with God's Love gives without depletion and receives more in return, and calls each person to take up the flame of Love and carry it boldly into the world, touching even those in darkness with compassion rather than condemnation."
+description: >
+  Martin Luther speaks to the diverse gathering at the retreat, urging them to
+  release all judgment of one another and to love as God loves — unconditionally.
+  He teaches that a soul filled with God's Love gives without depletion and
+  receives more in return, and calls each person to take up the flame of Love and
+  carry it boldly into the world, touching even those in darkness with compassion
+  rather than condemnation.
 primary_subjects: "Serving Others in Love"
 secondary_subjects: ["Self-Love & Acceptance", "Humility", "Service, Ministry & Being a Channel of Love", "Unity in Diversity"]
 people: []
@@ -32,7 +38,10 @@ questions:
 related_messages: ["2015-08-20-af-andrew", "2015-08-20-af-james-padgett", "2015-08-20-af-mary", "2015-06-21-af-martin-luther"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/give-to-others-but-do-not-do-so-with-an-empty-basket/"
-notes: "Message given on the final day of the August 2015 international retreat. Martin Luther acknowledges the great diversity of souls gathered — from newcomers to long-time practitioners — and speaks to them all equally."
+notes: >
+  Message given on the final day of the August 2015 international retreat. Martin
+  Luther acknowledges the great diversity of souls gathered — from newcomers to
+  long-time practitioners — and speaks to them all equally.
 significance: []
 last_edited: 2026-04-13
 ---

@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine delivers a deeply personal teaching on humility, confessing openly that in his Earth life he was a man of ambition, desire for power, and fleshly pleasures who taught error that still persists in the church today. From this confession he draws a powerful teaching: true humility is not weakness but the greatest strength, allowing God's Love to flow through you unrestricted, unfiltered, and uncontaminated by self-will."
+description: >
+  Augustine delivers a deeply personal teaching on humility, confessing openly
+  that in his Earth life he was a man of ambition, desire for power, and fleshly
+  pleasures who taught error that still persists in the church today. From this
+  confession he draws a powerful teaching: true humility is not weakness but the
+  greatest strength, allowing God's Love to flow through you unrestricted,
+  unfiltered, and uncontaminated by self-will.
 primary_subjects: "Humility"
 secondary_subjects:
   - "Mind vs Soul Conflict"
@@ -40,11 +46,18 @@ related_messages:
   - 2017-03-27-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/lesson-power-humility/"
-notes: "Augustine's most biographical message in the archive. He confesses candidly that he taught error in his Earth life that still persists in the church today, and that he resisted the inclinations of his soul in favour of power and control."
+notes: >
+  Augustine's most biographical message in the archive. He confesses candidly
+  that he taught error in his Earth life that still persists in the church today,
+  and that he resisted the inclinations of his soul in favour of power and
+  control.
 significance: ["Key Teaching", "Biographical"]
 language: en
-excerpt: "I taught error, and that error to some degrees still survives to this day within the church. I did not listen to God. I listened to my own mind and desire and fears, my own humanity."
-series: []
+excerpt: >
+  I taught error, and that error to some degrees still survives to this day
+  within the church. I did not listen to God. I listened to my own mind and
+  desire and fears, my own humanity.
+series: ["Letters from History"]
 last_edited: 2026-04-23
 ---
 

@@ -11,7 +11,14 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Seretta Kem congratulates the group for creating a powerful healing merkaba together and speaks of the great exponential flowering of interconnected Circles of Light in the world. He calls them to embrace all souls with tolerance and acceptance regardless of their beliefs or philosophies, assuring them that God will open door after door as they travel the world connecting with other circles of Light in God's great plan to bring healing and harmony to the Earth."
+description: >
+  Seretta Kem congratulates the group for creating a powerful healing merkaba
+  together and speaks of the great exponential flowering of interconnected
+  Circles of Light in the world. He calls them to embrace all souls with
+  tolerance and acceptance regardless of their beliefs or philosophies, assuring
+  them that God will open door after door as they travel the world connecting
+  with other circles of Light in God's great plan to bring healing and harmony to
+  the Earth.
 primary_subjects: "Physical & Miraculous Healing"
 secondary_subjects: ["Interfaith & Universal Truth", "Lattice of Light & Global Prayer Network", "Circle of Light & Prayer Circles", "Global Spiritual Work"]
 people: []
@@ -31,7 +38,11 @@ related_messages: ["2015-10-26-af-seretta-kem"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-merkaba/"
 significance: ["Healing"]
-notes: "Message received after the prayer circle created a healing merkaba. Editor's note in source: 'This message came through after our prayer circle created a healing merkaba.' See content/practices/healing-merkaba.md for instructions. Source: http://new-birth.net/healing_circle.htm"
+notes: >
+  Message received after the prayer circle created a healing merkaba. Editor's
+  note in source: 'This message came through after our prayer circle created a
+  healing merkaba.' See content/practices/healing-merkaba.md for instructions.
+  Source: http://new-birth.net/healing_circle.htm
 last_edited: 2026-04-13
 ---
 

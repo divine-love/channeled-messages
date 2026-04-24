@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Seretta Kem opens by noting that the medium is in physical pain yet communication continues, offering this as a lesson on the soul's influence over the body. He then speaks urgently of the winds of change coming to the world, assuring the group that God will guide many souls to them and work through them as beacons of Light. He calls each one to embrace God's Will completely and walk as a Lighted Path through darkening times."
+description: >
+  Seretta Kem opens by noting that the medium is in physical pain yet
+  communication continues, offering this as a lesson on the soul's influence over
+  the body. He then speaks urgently of the winds of change coming to the world,
+  assuring the group that God will guide many souls to them and work through them
+  as beacons of Light. He calls each one to embrace God's Will completely and
+  walk as a Lighted Path through darkening times.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Earth Changes & Prophecy", "Faith & Trust", "Service, Ministry & Being a Channel of Love", "Physical & Miraculous Healing"]
 people: []
@@ -32,7 +38,9 @@ questions:
 related_messages: ["2015-08-24-af-seretta-kem", "2015-08-17-af-jesus"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-world-is-changing-and-needs-many-souls-in-service-to-gods-will/"
-notes: "Message opens with a reference to the medium being in physical pain, which Seretta Kem uses as a teaching moment about the soul's influence over the body."
+notes: >
+  Message opens with a reference to the medium being in physical pain, which
+  Seretta Kem uses as a teaching moment about the soul's influence over the body.
 significance: []
 last_edited: 2026-04-13
 ---

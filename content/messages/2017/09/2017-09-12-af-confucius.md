@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Confucius, speaking on behalf of many angels who wish to address the circle, announces that the time is approaching when years of prayer and soul longing will open many doors of opportunity to bring Light, Truth, Peace, and Love to a world in desperate need - with the entire Celestial Kingdom watching and ready to guide and support each willing instrument."
+description: >
+  Confucius, speaking on behalf of many angels who wish to address the circle,
+  announces that the time is approaching when years of prayer and soul longing
+  will open many doors of opportunity to bring Light, Truth, Peace, and Love to a
+  world in desperate need - with the entire Celestial Kingdom watching and ready
+  to guide and support each willing instrument.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
@@ -35,11 +40,16 @@ related_messages:
   - 2017-05-11-af-jesus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-time-approaches/"
-notes: "Confucius opens by noting that many angels wish to speak, suggesting this was a brief message at the start of a longer circle."
+notes: >
+  Confucius opens by noting that many angels wish to speak, suggesting this was a
+  brief message at the start of a longer circle.
 significance: ["Prophetic"]
 language: en
-excerpt: "All of those years of prayers, of coming together with the longing of the soul, will open up these doors as God continues to bless you and helps you to see beyond the limitations of your minds."
-series: []
+excerpt: >
+  All of those years of prayers, of coming together with the longing of the soul,
+  will open up these doors as God continues to bless you and helps you to see
+  beyond the limitations of your minds.
+series: ["Awakening Humanity"]
 last_edited: 2026-04-23
 ---
 

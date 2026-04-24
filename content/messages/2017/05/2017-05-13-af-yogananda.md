@@ -11,7 +11,13 @@ location:
   country: United States of America
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "Yogananda speaks from his own sanctuary in Encinitas, confirming he inhabits the Celestial Kingdom and that his teachings, though expressed in his own tradition, were always rooted in the same Truth of God's Love. He calls those gathered to accept the diversity of God's creation, embrace all souls regardless of background or belief, and understand that each unique voice adds to the full and beautiful truth of God's Love in the world."
+description: >
+  Yogananda speaks from his own sanctuary in Encinitas, confirming he inhabits
+  the Celestial Kingdom and that his teachings, though expressed in his own
+  tradition, were always rooted in the same Truth of God's Love. He calls those
+  gathered to accept the diversity of God's creation, embrace all souls
+  regardless of background or belief, and understand that each unique voice adds
+  to the full and beautiful truth of God's Love in the world.
 primary_subjects: "Collective Awakening & Redemption"
 secondary_subjects:
   - "Interfaith & Universal Truth"
@@ -39,11 +45,18 @@ related_messages:
   - 2017-01-16-af-keea-atta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/accept-diversity-god-created/"
-notes: "Message received at the Self-Realization Fellowship sanctuary in Encinitas, California, founded by Yogananda himself. Parenthetical transcriber notation converted to square brackets: [laughter]. Yogananda addresses 'my friend (J W)' who introduced the group to the sanctuary."
+notes: >
+  Message received at the Self-Realization Fellowship sanctuary in Encinitas,
+  California, founded by Yogananda himself. Parenthetical transcriber notation
+  converted to square brackets: [laughter]. Yogananda addresses 'my friend (J W)'
+  who introduced the group to the sanctuary.
 significance: ["Key Teaching", "Biographical", "Historical"]
 language: en
-excerpt: "Each of you may bring some teaching to the world as your souls are ignited and aflame with Love. It takes all of us from many different religions and backgrounds who have seen the higher Truth of Love to bring this forward."
-series: []
+excerpt: >
+  Each of you may bring some teaching to the world as your souls are ignited and
+  aflame with Love. It takes all of us from many different religions and
+  backgrounds who have seen the higher Truth of Love to bring this forward.
+series: ["Letters from History"]
 last_edited: 2026-04-23
 ---
 

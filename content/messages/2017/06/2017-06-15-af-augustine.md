@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine delivers a comprehensive lesson on the urge to judge, teaching that our reactions to others' conditions reveal our own soul state, that judgment is incompatible with Love, and that the antidote is not suppression but conscious choice - catching yourself in the act of judgment and choosing Love instead. He includes an extended first-person inner monologue as a template for how to make that choice in the moment."
+description: >
+  Augustine delivers a comprehensive lesson on the urge to judge, teaching that
+  our reactions to others' conditions reveal our own soul state, that judgment is
+  incompatible with Love, and that the antidote is not suppression but conscious
+  choice - catching yourself in the act of judgment and choosing Love instead. He
+  includes an extended first-person inner monologue as a template for how to make
+  that choice in the moment.
 primary_subjects: "Self-Love & Acceptance"
 secondary_subjects:
   - "Humility"
@@ -41,11 +47,17 @@ related_messages:
   - 2015-12-14-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/lesson-on-judgement/"
-notes: "Message given at the group's request on the subject of judgment. The extended first-person inner monologue in the fourth main paragraph is a practical template for choosing Love over judgment in the moment."
+notes: >
+  Message given at the group's request on the subject of judgment. The extended
+  first-person inner monologue in the fourth main paragraph is a practical
+  template for choosing Love over judgment in the moment.
 significance: ["Key Teaching"]
 language: en
-excerpt: "With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot judge. I may embrace all goodness and Love, and this I will do as I walk upon this Divine Path."
-series: []
+excerpt: >
+  With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot
+  judge. I may embrace all goodness and Love, and this I will do as I walk upon
+  this Divine Path.
+series: ["Mind & Soul"]
 last_edited: 2026-04-23
 ---
 

@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "John the Beloved teaches on the power of intention, showing how a soul's sincere desire to seek the highest, serve others, embrace all they meet, and push back the darkness creates real and lasting change in the world — magnified over and over as Divine Love deepens within."
+description: >
+  John the Beloved teaches on the power of intention, showing how a soul's
+  sincere desire to seek the highest, serve others, embrace all they meet, and
+  push back the darkness creates real and lasting change in the world — magnified
+  over and over as Divine Love deepens within.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Spiritual Discipline & Daily Living"
@@ -37,10 +41,14 @@ related_messages:
   - 2015-10-19-af-john-the-beloved
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/each-day-has-the-potential-to-bring-light-given-the-right-intentions/"
-notes: "Transcriber insertions rendered in square brackets throughout: [prayer circle in Abbotsford], [have], [who]."
+notes: >
+  Transcriber insertions rendered in square brackets throughout: [prayer circle
+  in Abbotsford], [have], [who].
 significance: []
 language: en
-excerpt: "Like the butterfly that flutters its wings and in some place creates the hurricane, so it is — these tiny flutters of Light will create change in time."
+excerpt: >
+  Like the butterfly that flutters its wings and in some place creates the
+  hurricane, so it is — these tiny flutters of Light will create change in time.
 series: []
 last_edited: 2026-04-17
 ---

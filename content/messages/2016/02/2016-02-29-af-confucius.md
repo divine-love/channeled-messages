@@ -11,7 +11,11 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Confucius tenderly acknowledges the struggles of the circle as their souls undergo a deep cleansing, assuring them that God is never far and that releasing their burdens through faith opens the way to healing, joy, and becoming a powerful channel of Love in the world."
+description: >
+  Confucius tenderly acknowledges the struggles of the circle as their souls
+  undergo a deep cleansing, assuring them that God is never far and that
+  releasing their burdens through faith opens the way to healing, joy, and
+  becoming a powerful channel of Love in the world.
 primary_subjects: "Soul Healing & Emotional Restoration"
 secondary_subjects:
   - "Cleansing & Expiation"
@@ -37,10 +41,14 @@ related_messages:
   - 2015-08-03-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-struggle-but-you-make-progress/"
-notes: "Confucius references 'our brother, Luke' as having previously spoken about joy and happiness. Luke is Luke the Evangelist — see spirits/luke.yml."
+notes: >
+  Confucius references 'our brother, Luke' as having previously spoken about joy
+  and happiness. Luke is Luke the Evangelist — see spirits/luke.yml.
 significance: []
 language: en
-excerpt: "My Heavenly Father, you can heal me — touch the very centre of me, those tender and hurting places within me, and heal me."
+excerpt: >
+  My Heavenly Father, you can heal me — touch the very centre of me, those tender
+  and hurting places within me, and heal me.
 series: []
 last_edited: 2026-04-17
 ---

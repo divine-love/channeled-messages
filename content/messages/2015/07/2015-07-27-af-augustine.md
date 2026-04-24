@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Augustine encourages the group as they finalize preparations for their upcoming retreat, urging them to lay down preconceptions and willful expectations and trust fully in God's plan. He assures them that God's Hand will bless every detail of the gathering and that a multitude of angels will be present, bringing a great Light and abundance of Divine Love to all who come."
+description: >
+  Augustine encourages the group as they finalize preparations for their upcoming
+  retreat, urging them to lay down preconceptions and willful expectations and
+  trust fully in God's plan. He assures them that God's Hand will bless every
+  detail of the gathering and that a multitude of angels will be present,
+  bringing a great Light and abundance of Divine Love to all who come.
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Preparation for Earth Mission", "Circle of Light & Prayer Circles"]
 people: []
@@ -30,7 +35,10 @@ questions:
 related_messages: ["2015-07-06-af-augustine", "2015-07-21-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/guidance-regarding-retreat-take-place/"
-notes: "Third message in preparation for the upcoming international retreat. Related to 2015-07-06-af-augustine and 2015-07-21-af-augustine which also address retreat preparation."
+notes: >
+  Third message in preparation for the upcoming international retreat. Related to
+  2015-07-06-af-augustine and 2015-07-21-af-augustine which also address retreat
+  preparation.
 significance: []
 last_edited: 2026-04-13
 ---

@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Confucius assures his listeners that each soul has a unique purpose and gift to bring into the world, and that drawing close to the Heavenly Father through prayer will reveal this purpose in a conscious way. He encourages them to listen for God's still voice and to walk in the Light with the strength to express their gift as a channel of the Father's Love."
+description: >
+  Confucius assures his listeners that each soul has a unique purpose and gift to
+  bring into the world, and that drawing close to the Heavenly Father through
+  prayer will reveal this purpose in a conscious way. He encourages them to
+  listen for God's still voice and to walk in the Light with the strength to
+  express their gift as a channel of the Father's Love.
 primary_subjects: "Spiritual Identity & Destiny"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "Individual Soul Calling"]
 people: []

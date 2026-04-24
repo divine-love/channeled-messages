@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "John the Beloved assures the gathered souls that there is nothing to fear — God's Hand is firmly upon them and only Light and joy await. He calls them to trust in God's Will, pray for those around them who struggle, and release the need to control the paths of loved ones, accepting them with Love and prayer while walking in peace and faith."
+description: >
+  John the Beloved assures the gathered souls that there is nothing to fear —
+  God's Hand is firmly upon them and only Light and joy await. He calls them to
+  trust in God's Will, pray for those around them who struggle, and release the
+  need to control the paths of loved ones, accepting them with Love and prayer
+  while walking in peace and faith.
 primary_subjects: "Overcoming Fear & Doubt"
 secondary_subjects: ["Praying for Children & Loved Ones", "Faith & Trust", "God's Mercy & Unconditional Love"]
 people: []

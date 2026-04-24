@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Alec Gaunt speaks of the great preparations being made in spirit for those chosen as God's channels of Love, urging them to release the last vestiges of inharmony within their souls so that God can heal and transform them. He assures them that this release is not done out of desperation but joyful anticipation, and that once freed they will be used in miraculous ways as true disciples of the Master."
+description: >
+  Alec Gaunt speaks of the great preparations being made in spirit for those
+  chosen as God's channels of Love, urging them to release the last vestiges of
+  inharmony within their souls so that God can heal and transform them. He
+  assures them that this release is not done out of desperation but joyful
+  anticipation, and that once freed they will be used in miraculous ways as true
+  disciples of the Master.
 primary_subjects: "Soul Healing"
 secondary_subjects: ["Preparation for Earth Mission", "Letting Go of Wounds"]
 people: []
@@ -30,7 +36,10 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-pains-soul-god-needs-strong-clear/"
-notes: "Message references a garden sanctuary being developed by the medium and alludes to 'coming days of disruption and difficulty' and 'two choices for humanity.' Jesus is mentioned as having asked the group to come together."
+notes: >
+  Message references a garden sanctuary being developed by the medium and alludes
+  to 'coming days of disruption and difficulty' and 'two choices for humanity.'
+  Jesus is mentioned as having asked the group to come together.
 significance: []
 last_edited: 2026-04-13
 ---

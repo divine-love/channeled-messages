@@ -11,7 +11,14 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine delivers a comprehensive teaching on the soul's yearning as the true key to God, contrasting the mind's compulsion to rationalize and control with the soul's deeper capacity to receive Divine Truth. He traces the roots of human error to the mind's domination over the soul, charts both the natural love and Divine Love paths to their ultimate destinations, and urges each soul to plumb its own depths and follow the yearning that leads to at-onement with God."
+description: >
+  Augustine delivers a comprehensive teaching on the soul's yearning as the true
+  key to God, contrasting the mind's compulsion to rationalize and control with
+  the soul's deeper capacity to receive Divine Truth. He traces the roots of
+  human error to the mind's domination over the soul, charts both the natural
+  love and Divine Love paths to their ultimate destinations, and urges each soul
+  to plumb its own depths and follow the yearning that leads to at-onement with
+  God.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Free Will & Human Error"
@@ -42,11 +49,15 @@ related_messages:
   - 2016-06-13-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/nurturing-the-mind-or-the-soul-its-a-choice/"
-notes: "Two corrections from source text: typo 'Iit' corrected to 'It'; paragraph break added after 'to bring true healing to you' for readability."
+notes: >
+  Two corrections from source text: typo 'Iit' corrected to 'It'; paragraph break
+  added after 'to bring true healing to you' for readability.
 significance: ["Key Teaching"]
 language: en
-excerpt: "A yearning soul is the key that will unlock the door to God — and a curious mind is but a symptom of the yearning soul."
-series: []
+excerpt: >
+  A yearning soul is the key that will unlock the door to God — and a curious
+  mind is but a symptom of the yearning soul.
+series: ["Mind & Soul"]
 last_edited: 2026-04-17
 ---
 

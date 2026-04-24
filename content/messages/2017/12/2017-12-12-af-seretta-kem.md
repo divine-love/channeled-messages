@@ -11,7 +11,14 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Seretta Kem delivers a detailed teaching on the mechanics of soul expiation, explaining how encrustations around the soul block the inflowing of Divine Love, the two major factors that prevent people from feeling God's Love in prayer, and the many routes by which God finds His way through even the most armoured soul. He also teaches that it is not the responsibility of God's channels to insist on any particular route for another soul, but simply to give the simple Truth of God's Love in love and respect."
+description: >
+  Seretta Kem delivers a detailed teaching on the mechanics of soul expiation,
+  explaining how encrustations around the soul block the inflowing of Divine
+  Love, the two major factors that prevent people from feeling God's Love in
+  prayer, and the many routes by which God finds His way through even the most
+  armoured soul. He also teaches that it is not the responsibility of God's
+  channels to insist on any particular route for another soul, but simply to give
+  the simple Truth of God's Love in love and respect.
 primary_subjects: "Cleansing & Expiation"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
@@ -42,11 +49,17 @@ related_messages:
   - 2017-09-12-af-martin-luther
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/on-soul-expiation/"
-notes: "Four corrections from source text: 'fishers' corrected to 'fissures'; 'bring froth' corrected to 'bring forth'; 'the Dive Love' corrected to 'the Divine Love'; 'knowing's' corrected to 'knowings'."
+notes: >
+  Four corrections from source text: 'fishers' corrected to 'fissures'; 'bring
+  froth' corrected to 'bring forth'; 'the Dive Love' corrected to 'the Divine
+  Love'; 'knowing's' corrected to 'knowings'.
 significance: ["Key Teaching"]
 language: en
-excerpt: "There is always a crack in the armor. God may find a way through this seemingly impenetrable condition of encrustations. There is always some route to the soul which God, through His Holy Spirit, will find."
-series: []
+excerpt: >
+  There is always a crack in the armor. God may find a way through this seemingly
+  impenetrable condition of encrustations. There is always some route to the soul
+  which God, through His Holy Spirit, will find.
+series: ["Healing Path"]
 last_edited: 2026-04-23
 ---
 

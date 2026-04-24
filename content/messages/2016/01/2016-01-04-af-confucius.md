@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Confucius teaches that the great challenge of the spiritual life is allowing the soul to come into direct communication with the mind, dissolving the filters and prejudices that obstruct true perception. He assures the circle that as this merging of awarenesses deepens through God's Love, they will see both the beauty of God's Creation and the darkness of man's, yet remain anchored and unswayed by the power of Divine Love within them."
+description: >
+  Confucius teaches that the great challenge of the spiritual life is allowing
+  the soul to come into direct communication with the mind, dissolving the
+  filters and prejudices that obstruct true perception. He assures the circle
+  that as this merging of awarenesses deepens through God's Love, they will see
+  both the beauty of God's Creation and the darkness of man's, yet remain
+  anchored and unswayed by the power of Divine Love within them.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Soul Awakening"
@@ -42,8 +48,10 @@ canonical_url: "https://divinelovesanctuary.com/accepting-the-new-awarenesses-of
 notes: ""
 significance: ["Key Teaching"]
 language: en
-excerpt: "There may be nothing between your mind and your soul — a merging of consciousness, if you will."
-series: []
+excerpt: >
+  There may be nothing between your mind and your soul — a merging of
+  consciousness, if you will.
+series: ["Mind & Soul"]
 last_edited: 2026-04-17
 ---
 

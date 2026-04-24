@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine encourages a group of souls who have prayed together over many years to trust one another, release their fears, and walk in Love. He assures them that the barriers to Love are universal and can be overcome, and that looking back they will see these as the days they truly learned to love — one another, and all their brothers and sisters in the world."
+description: >
+  Augustine encourages a group of souls who have prayed together over many years
+  to trust one another, release their fears, and walk in Love. He assures them
+  that the barriers to Love are universal and can be overcome, and that looking
+  back they will see these as the days they truly learned to love — one another,
+  and all their brothers and sisters in the world.
 primary_subjects: "Spiritual Community & Fellowship"
 secondary_subjects: ["Self-Love & Acceptance", "Overcoming Fear & Doubt", "Walking the Divine Path"]
 people: []

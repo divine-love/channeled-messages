@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Augustine encourages two souls pursuing ministerial titles in their church, affirming that while titles carry worldly gravity, it is the soul's relationship with God that matters most. He urges them to carry their titles with humility and grace, to work within the structures of the world without losing their inner freedom, and to accept God's Will joyfully even when it brings the unexpected."
+description: >
+  Augustine encourages two souls pursuing ministerial titles in their church,
+  affirming that while titles carry worldly gravity, it is the soul's
+  relationship with God that matters most. He urges them to carry their titles
+  with humility and grace, to work within the structures of the world without
+  losing their inner freedom, and to accept God's Will joyfully even when it
+  brings the unexpected.
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects: ["Spiritual Discipline & Daily Living", "Service, Ministry & Being a Channel of Love"]
 people: []

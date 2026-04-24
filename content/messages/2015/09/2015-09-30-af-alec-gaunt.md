@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Alec Gaunt assures the group that they already have everything they require to do God's work, and encourages them to stop seeking answers from the surface of the mind and instead go deep within to the still voice of the soul where Truth, insight, and God's Will are found. He urges them to make the effort and take the risk of going beyond mental imaginings to that deeper place of communion with God."
+description: >
+  Alec Gaunt assures the group that they already have everything they require to
+  do God's work, and encourages them to stop seeking answers from the surface of
+  the mind and instead go deep within to the still voice of the soul where Truth,
+  insight, and God's Will are found. He urges them to make the effort and take
+  the risk of going beyond mental imaginings to that deeper place of communion
+  with God.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects: ["Knowing God", "Surrender & Trust in God", "Walking the Divine Path"]
 people: []

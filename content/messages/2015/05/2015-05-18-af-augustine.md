@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Augustine challenges his listeners to recognize the distinction between their human self and their soul, urging them to allow the soul's ascension to take precedence over material concerns and mental biases. He warns of great world changes ahead and encourages them to choose Love and soul consciousness each day, assuring them that in doing so they will become clear channels of God's Love and fulfill their part in His Plan."
+description: >
+  Augustine challenges his listeners to recognize the distinction between their
+  human self and their soul, urging them to allow the soul's ascension to take
+  precedence over material concerns and mental biases. He warns of great world
+  changes ahead and encourages them to choose Love and soul consciousness each
+  day, assuring them that in doing so they will become clear channels of God's
+  Love and fulfill their part in His Plan.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects: ["Soul Transformation & Development", "Earth Changes & Prophecy"]
 people: []

@@ -10,7 +10,13 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Martin Luther speaks on the supremacy of God's Will over the will of man, encouraging his listeners to remain in alignment with God's Will despite the obstructions and conditions laid about by mankind. He draws on his own experience of opposition and persistence, assuring them that sincere prayer is more powerful than any human barrier and that God's plan for the salvation of mankind will be enacted."
+description: >
+  Martin Luther speaks on the supremacy of God's Will over the will of man,
+  encouraging his listeners to remain in alignment with God's Will despite the
+  obstructions and conditions laid about by mankind. He draws on his own
+  experience of opposition and persistence, assuring them that sincere prayer is
+  more powerful than any human barrier and that God's plan for the salvation of
+  mankind will be enacted.
 primary_subjects: "Divine Will, Guidance & Orchestration"
 secondary_subjects: ["Surrender & Trust in God", "Prayer & Devotion"]
 people: []
@@ -29,7 +35,9 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/gods-will-mans-will/"
-notes: "Message references 'this structure (the World Healing Centre)' suggesting it was received in the context of a specific building project or spiritual centre."
+notes: >
+  Message references 'this structure (the World Healing Centre)' suggesting it
+  was received in the context of a specific building project or spiritual centre.
 significance: []
 last_edited: 2026-04-13
 ---

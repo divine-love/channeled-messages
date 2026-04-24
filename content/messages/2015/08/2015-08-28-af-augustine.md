@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Augustine sends the retreat participants home with a final word of guidance, urging them to continue communicating and strengthening their bonds even across great distances. He assures them that their souls are forever bonded in Love, that as one gains insight all benefit, and that a new phase of their journey has begun — one filled with rapidly opening gifts, new perceptions, and many souls awaiting their presence."
+description: >
+  Augustine sends the retreat participants home with a final word of guidance,
+  urging them to continue communicating and strengthening their bonds even across
+  great distances. He assures them that their souls are forever bonded in Love,
+  that as one gains insight all benefit, and that a new phase of their journey
+  has begun — one filled with rapidly opening gifts, new perceptions, and many
+  souls awaiting their presence.
 primary_subjects: "Spiritual Community & Fellowship"
 secondary_subjects: ["Soul Awakening", "Unique Soul Gifts", "Shared Purpose"]
 people: []

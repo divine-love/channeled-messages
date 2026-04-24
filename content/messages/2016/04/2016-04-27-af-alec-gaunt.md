@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching", "Guidance"]
-description: "Alec Gaunt teaches that change is a fundamental law of the universe, and that the key to navigating it is not resistance but a willing, faith-filled acceptance of God's hand in all transitions — for when God's Love is within you, even the most unexpected changes become joyous doorways to greater Light and growth."
+description: >
+  Alec Gaunt teaches that change is a fundamental law of the universe, and that
+  the key to navigating it is not resistance but a willing, faith-filled
+  acceptance of God's hand in all transitions — for when God's Love is within
+  you, even the most unexpected changes become joyous doorways to greater Light
+  and growth.
 primary_subjects: "Faith & Trust"
 secondary_subjects:
   - "Soul Growth through Challenges"
@@ -39,7 +44,10 @@ canonical_url: "https://divinelovesanctuary.com/the-law-of-change/"
 notes: ""
 significance: []
 language: en
-excerpt: "When you resist, then comes the pain — but as you go with the flow of change which in your hearts and souls you know is right, there will be no pain but a rejoicing for what will come."
+excerpt: >
+  When you resist, then comes the pain — but as you go with the flow of change
+  which in your hearts and souls you know is right, there will be no pain but a
+  rejoicing for what will come.
 series: []
 last_edited: 2026-04-17
 ---

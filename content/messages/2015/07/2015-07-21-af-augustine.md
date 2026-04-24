@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Augustine prepares the group for their upcoming gathering, urging them to release preconceived notions and old soul encrustations so that God — not human orchestration — may direct the event. He promises that those who enter with sincere openness and loving desire will receive unique gifts, revelatory awarenesses, and a dawning Light that will change them irrevocably."
+description: >
+  Augustine prepares the group for their upcoming gathering, urging them to
+  release preconceived notions and old soul encrustations so that God — not human
+  orchestration — may direct the event. He promises that those who enter with
+  sincere openness and loving desire will receive unique gifts, revelatory
+  awarenesses, and a dawning Light that will change them irrevocably.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects: ["Soul Healing", "Surrender & Trust in God"]
 people: []
@@ -29,7 +34,9 @@ questions:
 related_messages: ["2015-07-06-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/door-opens-will-enter-threshold/"
-notes: "Second message in preparation for the upcoming international retreat. Related to 2015-07-06-af-augustine which also addresses retreat preparation."
+notes: >
+  Second message in preparation for the upcoming international retreat. Related
+  to 2015-07-06-af-augustine which also addresses retreat preparation.
 significance: []
 last_edited: 2026-04-13
 ---

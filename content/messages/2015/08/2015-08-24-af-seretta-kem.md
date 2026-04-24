@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering: "August 2015 Gibsons Retreat"
 message_type: ["Teaching"]
-description: "Seretta Kem addresses a group discussion about spiritual manifestations, affirming that while material manifestations are possible and will occur in God's timing, they are not to be the focus of the work. He teaches that the most powerful manifestation of all is the love and Light of God flowing through a soul, and that soul-to-soul connection and the words of Truth are the higher expression of God's plan."
+description: >
+  Seretta Kem addresses a group discussion about spiritual manifestations,
+  affirming that while material manifestations are possible and will occur in
+  God's timing, they are not to be the focus of the work. He teaches that the
+  most powerful manifestation of all is the love and Light of God flowing through
+  a soul, and that soul-to-soul connection and the words of Truth are the higher
+  expression of God's plan.
 primary_subjects: "Manifestations & Direct Voice"
 secondary_subjects: ["Service, Ministry & Being a Channel of Love", "Divine Will, Guidance & Orchestration", "Faith & Trust"]
 people: []

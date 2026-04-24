@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Brother Mandus, founder of the World Healing Crusade in Blackpool, England, speaks to members of the circle who have been serving at his organisation, assuring them that despite opposition and mental obstacles, God's Will to use them as channels of Divine Love at his house will manifest — and that what is needed is not a strong personality but a humble, prayerful, soul-centred servant of God's Will."
+description: >
+  Brother Mandus, founder of the World Healing Crusade in Blackpool, England,
+  speaks to members of the circle who have been serving at his organisation,
+  assuring them that despite opposition and mental obstacles, God's Will to use
+  them as channels of Divine Love at his house will manifest — and that what is
+  needed is not a strong personality but a humble, prayerful, soul-centred
+  servant of God's Will.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
@@ -34,11 +40,20 @@ related_messages:
   - 2015-09-27-af-faith-nyquist
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-will-fulfill-your-mandate-to-be-a-channel-of-love-at-my-home/"
-notes: "Brother Mandus addresses the circle with particular focus on one woman ('my daughter') who has been serving at the World Healing Centre in Blackpool, England — his organisation. His surname Nyquist may connect him to Faith Nyquist; to be confirmed if addressed in future messages. Message opens mid-sentence ('…. to receive the benediction') suggesting the recording began partway through."
+notes: >
+  Brother Mandus addresses the circle with particular focus on one woman ('my
+  daughter') who has been serving at the World Healing Centre in Blackpool,
+  England — his organisation. His surname Nyquist may connect him to Faith
+  Nyquist; to be confirmed if addressed in future messages. Message opens
+  mid-sentence ('…. to receive the benediction') suggesting the recording began
+  partway through.
 significance: ["Biographical", "Historical"]
 language: en
-excerpt: "To be humble and loving, to be clear and strong in your faith — this is what is required. It does not require a personality, a strong man or woman. It requires a soul earnest, simple, clear and loving, close to God."
-series: []
+excerpt: >
+  To be humble and loving, to be clear and strong in your faith — this is what is
+  required. It does not require a personality, a strong man or woman. It requires
+  a soul earnest, simple, clear and loving, close to God.
+series: ["Letters from History"]
 last_edited: 2026-04-17
 ---
 

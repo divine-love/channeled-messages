@@ -11,7 +11,13 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine teaches on the nature of free will, explaining that every day presents choices that lead either toward Light or toward pain. He assures the group that as their souls grow in discernment, choices become clearer and less cluttered with fear and judgment. He acknowledges the struggle of human life with compassion, affirming that the human conditions are gradually being burnt away by God's Love and that celestial spirits walk alongside them always."
+description: >
+  Augustine teaches on the nature of free will, explaining that every day
+  presents choices that lead either toward Light or toward pain. He assures the
+  group that as their souls grow in discernment, choices become clearer and less
+  cluttered with fear and judgment. He acknowledges the struggle of human life
+  with compassion, affirming that the human conditions are gradually being burnt
+  away by God's Love and that celestial spirits walk alongside them always.
 primary_subjects: "Free Will & Human Error"
 secondary_subjects: ["Soul Growth through Challenges", "Mind vs Soul Conflict", "Surrender & Trust in God"]
 people: []

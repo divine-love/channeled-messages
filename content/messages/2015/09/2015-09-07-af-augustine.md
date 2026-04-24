@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Augustine describes the post-retreat experience of deep inner shifting as the power of God's Love continues to transform each soul, comparing it to a newborn barely opening its eyes to a new world. He urges the group not to resist or be overwhelmed by the changes within, but to allow, accept, and trust in God as their anchor through this dramatic and rewarding process of transformation."
+description: >
+  Augustine describes the post-retreat experience of deep inner shifting as the
+  power of God's Love continues to transform each soul, comparing it to a newborn
+  barely opening its eyes to a new world. He urges the group not to resist or be
+  overwhelmed by the changes within, but to allow, accept, and trust in God as
+  their anchor through this dramatic and rewarding process of transformation.
 primary_subjects: "Personal Transformation Journey"
 secondary_subjects: ["Soul Awakening", "Cleansing & Expiation", "Rebirth of the Soul (New Birth)", "Faith & Trust"]
 people: []

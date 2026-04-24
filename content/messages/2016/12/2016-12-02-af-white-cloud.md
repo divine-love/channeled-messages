@@ -11,7 +11,12 @@ location:
   country: United States of America
 gathering:
 message_type: ["Guidance"]
-description: "White Cloud responds to the circle's prayers for a struggling world, affirming that those who speak truth do so because they know it in their hearts, and urging all who carry the truth of God's Love to pray for the world — its lost souls, its children, its hungry — and to express that Love gently, daily, and with dignity, for love is the only true agent of healing and change."
+description: >
+  White Cloud responds to the circle's prayers for a struggling world, affirming
+  that those who speak truth do so because they know it in their hearts, and
+  urging all who carry the truth of God's Love to pray for the world — its lost
+  souls, its children, its hungry — and to express that Love gently, daily, and
+  with dignity, for love is the only true agent of healing and change.
 primary_subjects: "Collective Awakening & Redemption"
 secondary_subjects:
   - "Prayer & Devotion"
@@ -39,11 +44,15 @@ related_messages:
   - 2016-08-15-af-mary
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/world-needs-prayers/"
-notes: "First message from White Cloud in the archive. First message received in the United States. Location is Hawaii."
+notes: >
+  First message from White Cloud in the archive. First message received in the
+  United States. Location is Hawaii.
 significance: []
 language: en
-excerpt: "What will save the world? Not violence, not insistence, but love — and the strongest man and woman is the one who can express love."
-series: []
+excerpt: >
+  What will save the world? Not violence, not insistence, but love — and the
+  strongest man and woman is the one who can express love.
+series: ["Awakening Humanity"]
 last_edited: 2026-04-17
 ---
 

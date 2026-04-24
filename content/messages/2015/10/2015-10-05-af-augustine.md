@@ -11,7 +11,12 @@ location:
   country: Canada
 gathering:
 message_type: ["Blessing"]
-description: "Augustine blesses the gathered souls and urges them to take the Gift of God's Love into their lives, cherish it, protect it, and feed it through prayer so it may grow into a great flame guiding everything they do. He calls them to reach out to God in prayer and open themselves to a full and rich relationship with their Heavenly Father."
+description: >
+  Augustine blesses the gathered souls and urges them to take the Gift of God's
+  Love into their lives, cherish it, protect it, and feed it through prayer so it
+  may grow into a great flame guiding everything they do. He calls them to reach
+  out to God in prayer and open themselves to a full and rich relationship with
+  their Heavenly Father.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: ["Prayer & Devotion", "Knowing God"]
 people: []

@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching"]
-description: "Confucius reveals the far-reaching effects of a prayer circle, explaining that the Light generated draws spirits of all levels, angels, and even connects souls around the globe. He encourages the group to continue gathering, assuring them that their unified longing toward God creates a great Light that brings healing, comfort, and Divine Love to many both seen and unseen."
+description: >
+  Confucius reveals the far-reaching effects of a prayer circle, explaining that
+  the Light generated draws spirits of all levels, angels, and even connects
+  souls around the globe. He encourages the group to continue gathering, assuring
+  them that their unified longing toward God creates a great Light that brings
+  healing, comfort, and Divine Love to many both seen and unseen.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects: ["Spiritual Community & Fellowship", "Interdimensional & Spirit Communication"]
 people: []

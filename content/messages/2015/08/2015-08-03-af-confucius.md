@@ -10,7 +10,12 @@ location:
   region: BC
   country: Canada
 message_type: ["Guidance"]
-description: "Confucius reveals that every soul carries many hidden gifts and treasures that lie dormant, awaiting the activating power of God's Divine Love to bring them to life. He encourages each listener to seek the Father's Love earnestly, promising that as they do, their true selves will unfold in wondrous and surprising ways."
+description: >
+  Confucius reveals that every soul carries many hidden gifts and treasures that
+  lie dormant, awaiting the activating power of God's Divine Love to bring them
+  to life. He encourages each listener to seek the Father's Love earnestly,
+  promising that as they do, their true selves will unfold in wondrous and
+  surprising ways.
 primary_subjects: "Spiritual Identity & Destiny"
 secondary_subjects: ["Unique Soul Gifts", "Receiving the Divine Love through Prayer"]
 people: []
