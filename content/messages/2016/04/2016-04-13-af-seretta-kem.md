@@ -19,7 +19,7 @@ secondary_subjects:
   - "Prayer & Devotion"
   - "Becoming a Channel of Love"
 people: []
-spirits: []
+spirits: ["jesus"]
 keywords: ["Divine Love", "healing energy", "magnetic healing", "earth energies", "prayer", "longing", "soul", "eternal", "essence", "flame", "at-onement", "living waters", "choice", "invitation"]
 questions:
   - "What is the most powerful healing energy?"
