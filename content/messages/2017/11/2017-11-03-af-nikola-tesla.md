@@ -11,7 +11,7 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Nikola Tesla makes a surprise appearance, speaking from spirit about his continued exploration of the universe's mechanics and his particular interest in assisting the development of Direct Voice mediumship, which he understands to have an electrical component. He teaches that Divine Love is the most powerful energy in the universe, that its capacities far exceed what humanity has understood, and that as souls mature in Love, scientific understanding will flourish in ways that will astound the world."
+description: "Nikola Tesla speaks from spirit about his continued exploration of the universe's mechanics and his particular interest in assisting the development of Direct Voice mediumship, which he understands to have an electrical component. He teaches that Divine Love is the most powerful energy in the universe, that its capacities far exceed what humanity has understood, and that as souls mature in Love, scientific understanding will flourish in ways that will astound the world."
 primary_subjects: "Interdimensional & Spirit Communication"
 secondary_subjects:
   - "Manifestations & Direct Voice"
