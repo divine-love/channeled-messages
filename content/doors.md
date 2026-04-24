@@ -150,3 +150,6 @@ last_updated: 2026-04-23
 | [Choice and Accepting the Will of God](messages/2017/10/2017-10-25-af-yogananda.md) | Yogananda | 2017‑10‑25 | God will never turn away from you no matter what you decide. But if every invitation is rejected, the invitations will cease |
 | [Tesla Talks About the Power of Love](messages/2017/11/2017-11-03-af-nikola-tesla.md) | Nikola Tesla | 2017‑11‑03 | Love is not just a feeling. It is the most powerful energy in the universe, and its capacities have barely been understood |
 | [On Soul Expiation](messages/2017/12/2017-12-12-af-seretta-kem.md) | Seretta Kem | 2017‑12‑12 | There is always a crack in the armor. God always finds a way through |
+| [A Blessing](messages/2017/12/2017-12-14-af-jesus.md) | Jesus | 2017‑12‑14 | You are no longer lost. Now it is time to carry this Truth to the world |
+| [The Responsibility of Acting in Love Lies with You](messages/2017/12/2017-12-18-af-martin-luther.md) | Martin Luther | 2017‑12‑18 | You are babies no longer. The phase of application has begun |
+| [Teach Each Soul to Go to God in Prayer](messages/2018/01/2018-01-01-af-augustine.md) | Augustine | 2018‑01‑01 | Resist the temptation of adulation. Humbly point every soul to God as the Source of all gifts |
