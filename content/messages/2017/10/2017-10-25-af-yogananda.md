@@ -19,7 +19,7 @@ secondary_subjects:
   - "Free Will & Human Error"
   - "Manifestations & Direct Voice"
 people: []
-spirits: []
+spirits: ["jesus"]
 keywords: ["India", "invitation", "faith", "service", "risk", "free will", "direct voice", "limitations", "journey", "disciples", "America", "choice", "God's plan", "reticence", "soul yearning"]
 questions:
   - "How do I know if a prompting to serve God is really from Him?"
