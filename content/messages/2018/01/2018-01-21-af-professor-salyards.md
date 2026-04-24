@@ -11,7 +11,8 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Professor Salyards, a tireless worker in the development of Direct Voice mediumship, affirms the circle's progress and urges them to maintain their hopeful expectation of this gift. He speaks with urgency about humanity's need to awaken before the consequences of the human condition become irreversible, and assures them that even if Direct Voice is not achieved, they will bring Truth through other gifts - but that this gift is very much worth pursuing."
+description: >
+  Professor Salyards, a tireless worker in the development of Direct Voice mediumship, affirms the circle's progress and urges them to maintain their hopeful expectation of this gift. He speaks with urgency about humanity's need to awaken before the consequences of the human condition become irreversible, and assures them that even if Direct Voice is not achieved, they will bring Truth through other gifts - but that this gift is very much worth pursuing.
 primary_subjects: "Manifestations & Direct Voice"
 secondary_subjects:
   - "Collective Awakening & Redemption"
@@ -38,10 +39,12 @@ related_messages:
   - 2016-08-17-af-james-padgett
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/who-will-bring-the-truth-to-this-world/"
-notes: "Professor Salyards was a close friend and former instructor of James Padgett, and one of the first spirits to communicate with Padgett through automatic writing. His messages in the Padgett collection addressed spiritual laws, the Law of Compensation, and Divine Love."
+notes: >
+  Professor Salyards was a close friend and former instructor of James Padgett, and one of the first spirits to communicate with Padgett through automatic writing. His messages in the Padgett collection addressed spiritual laws, the Law of Compensation, and Divine Love.
 significance: ["Prophetic", "Historical"]
 language: en
-excerpt: "How will the world change if not by this awakening of the soul, the faculties of the soul, the desires of the soul, the connection of the soul to God and God to the soul?"
+excerpt: >
+  How will the world change if not by this awakening of the soul, the faculties of the soul, the desires of the soul, the connection of the soul to God and God to the soul?
 series: []
 last_edited: 2026-04-23
 ---

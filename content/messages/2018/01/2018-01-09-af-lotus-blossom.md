@@ -11,7 +11,8 @@ location:
   country: Canada
 gathering:
 message_type: ["Guidance"]
-description: "Lotus Blossom addresses a circle of seven beloved souls, promising that gifts of spiritual perception are coming to each one in unique ways. sight of auras, perception of spirits, inner hearing, and deep intuitive knowing. She urges them to allow these gifts to unfold naturally without forcing or formulating them through the mind, to support one another, and to trust that each moment lived in harmony with God is already an expression of His Will."
+description: >
+  Lotus Blossom addresses a circle of seven beloved souls, promising that gifts of spiritual perception are coming to each one in unique ways. sight of auras, perception of spirits, inner hearing, and deep intuitive knowing. She urges them to allow these gifts to unfold naturally without forcing or formulating them through the mind, to support one another, and to trust that each moment lived in harmony with God is already an expression of His Will.
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Spiritual Community & Fellowship"
@@ -37,10 +38,12 @@ related_messages:
   - 2017-04-10-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/many-gifts-for-the-circle-of-seven-2/"
-notes: "First message from Lotus Blossom in the archive."
+notes: >
+  First message from Lotus Blossom in the archive.
 significance: ["Prophetic"]
 language: en
-excerpt: "Like some beautiful flower that emerges from the ground, its buds forming, petals unfolding until the exquisite nature of each beautiful flower is recognized. You are awakening, coming forth from that place deep within you."
+excerpt: >
+  Like some beautiful flower that emerges from the ground, its buds forming, petals unfolding until the exquisite nature of each beautiful flower is recognized. You are awakening, coming forth from that place deep within you.
 series: []
 last_edited: 2026-04-23
 ---
