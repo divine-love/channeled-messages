@@ -123,11 +123,13 @@ location:
   country: Canada   # optional
 gathering:                             # optional — name of retreat or event, leave blank for regular circles
 message_type: ["Teaching", "Guidance"]  # any of: Blessing, Guidance, Teaching; can be multiple
-description: A message encouraging disciples to walk confidently in God's light and share His Love with the world.
+description: >
+  A message encouraging disciples to walk confidently in God's light
+  and share His Love with the world.
 primary_subjects: Divine Love & Relationship with God   # exactly one main subject
-secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]  # up to two
+secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]  # up to five
 people: []          # living humans mentioned (not the medium)
-spirits: ["Andrew", "Augustine"]         # other spirits mentioned besides `spirit`
+spirits: ["andrew", "augustine"]         # other spirits mentioned besides `spirit`
 keywords: ["discipleship", "service", "light", "divine love"]
 questions:
   - "How can I serve God's Love in the world?"
@@ -136,8 +138,14 @@ questions:
 related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
-notes: Message received during evening circle in Gibsons, BC.
+notes: >
+  Message received during evening circle in Gibsons, BC.
 significance: ["Key Teaching", "Prophetic"]
+language: en
+excerpt: >
+  Oh what wonders your Heavenly Father may manifest through you,
+  oh what love will flow.
+series: []
 last_edited: 2025-06-01
 ---
 <message text here>
@@ -166,7 +174,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **location.country** | string | The country where the message was received. Optional. | `Canada` |
 | **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for regular prayer circles. Use a consistent name for all messages from the same event. | `"August 2015 Gibsons Retreat"` |
 | **message_type** | array of strings | One or more of: **Blessing, Guidance, Teaching**. Messages may include multiple types. | `["Guidance", "Teaching"]` |
-| **description** | string | A short (1–2 sentence) summary describing the purpose or insight of the message. | `Encouragement to release fear and trust God's protection amid changing earthly conditions.` |
+| **description** | string (block scalar) | A short (1–2 sentence) summary describing the purpose or insight of the message. Use YAML block scalar format (`>`) to prevent long lines. | `description: >`<br>`  Encouragement to release fear and trust God's protection.` |
 | **primary_subjects** | string | The single most relevant subject drawn from any level of the subject hierarchy — top category or subcategory. Represents the central theme of the message. | `"Free Will & Human Error"` |
 | **secondary_subjects** | array of strings (up to 5) | Up to five additional subjects drawn from any level of the subject hierarchy — top category or subcategory. Choose the most relevant subjects regardless of hierarchy level. | `["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]` |
 | **people** | array of strings | Names of living human beings mentioned (excluding the medium). | `["James Padgett", "Helen Padgett"]` |
@@ -176,10 +184,10 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **related_messages** | array of strings | Message IDs of other texts connected by subject, author, or event. Use full ID format — **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-26-af-augustine"]` |
 | **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
 | **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
-| **notes** | string | Optional free-text field for contextual notes about where or how the message was received. | `Evening prayer circle at Gibsons, BC` |
+| **notes** | string | Optional free-text field for contextual notes. Leave blank (`notes: ""`) if none. Use YAML block scalar format (`>`) when content is present. | `notes: ""` or `notes: >`<br>`  Message received during evening circle.` |
 | **significance** | array of strings | Optional flags marking a message as particularly important. Values: `Key Teaching`, `Prophetic`, `Historical`, `Healing`, `Biographical`, `Milestone`. Use sparingly. | `["Key Teaching", "Prophetic"]` |
 | **language** | string | Language code (ISO 639-1). Always include. Defaults to `en` for English. Required for multilingual site rendering. | `en` |
-| **excerpt** | string | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Aim for under 200 characters. | `"Drink deep these Living waters and open yourselves wide."` |
+| **excerpt** | string (block scalar) | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Use YAML block scalar format (`>`) for longer excerpts. | `excerpt: >`<br>`  Drink deep these Living waters and open yourselves wide.` |
 | **series** | array of strings | Optional thematic groupings for curated website collections. Leave empty if not yet assigned. | `[]` |
 | **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Helps track which translation files may need updating after source edits. | `2025-06-01` |
 
@@ -202,7 +210,9 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching", "Guidance"]
-description: A message encouraging disciples to walk confidently in God's light and share His Love with the world.
+description: >
+  A message encouraging disciples to walk confidently in God's light
+  and share His Love with the world.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]
 people: []
@@ -215,10 +225,13 @@ questions:
 related_messages: ["2015-11-28-af-mary"]
 audio_url: https://example.org/audio/2015-11-30-jesus.mp3
 canonical_url: https://divinelovesanctuary.com/messages/2015-11-30-jesus
-notes: Message received during evening circle in Gibsons, BC.
+notes: >
+  Message received during evening circle in Gibsons, BC.
 significance: ["Key Teaching"]
 language: en
-excerpt: "Oh what wonders your Heavenly Father may manifest through you, oh what love will flow."
+excerpt: >
+  Oh what wonders your Heavenly Father may manifest through you,
+  oh what love will flow.
 series: []
 last_edited: 2025-06-01
 ```
@@ -237,7 +250,8 @@ location:
   region: BC
   country: Canada
 message_type: ["Blessing"]
-description: Encouragement to open the soul to God's Love like a flower to the sun.
+description: >
+  Encouragement to open the soul to God's Love like a flower to the sun.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: []
 people: []
@@ -249,7 +263,8 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: Morning gathering in a private home circle.
+notes: >
+  Morning gathering in a private home circle.
 significance: []
 language: en
 excerpt: ""
@@ -314,6 +329,12 @@ When adding or editing messages, please follow these YAML guidelines.
  - Use square brackets `[]` for short lists or multiple lines for readability.
  - Do not add blank lines at the beginning or end of the YAML block.
  - Save in UTF-8 encoding.
+ - **Use YAML block scalar format (`>`) for `description`, `excerpt`, and `notes` fields.** This prevents long lines and improves readability. Example:
+   ```yaml
+   description: >
+     A message encouraging disciples to walk confidently in God's light
+     and share His Love with the world.
+   ```
  - All field names must be **snake_case exactly as shown** — do not capitalize them (e.g., `spirit:` not `Spirit:`, `message_type:` not `MessageType:`).
  - The **`spirits` field uses `spirit_id` values** (lowercase kebab-case, matching the spirit's filename), not display names. This ensures consistent searchability. Example: `["john-the-beloved", "mary"]` not `["John the Beloved", "Mary"]`. The **`people` field** is the exception — since living people don't have profile files, use their full display names there.
  - **`primary_subjects` and `secondary_subjects`** can reference any level of the subject hierarchy — top category or subcategory. Always choose the most specific and relevant subject, regardless of its level. `secondary_subjects` is capped at five.
@@ -399,7 +420,9 @@ location:
   region: BC
   country: Canada
 message_type: ["Teaching", "Guidance"]
-description: Uma mensagem encorajando os discípulos a caminharem com confiança na luz de Deus.
+description: >
+  Uma mensagem encorajando os discípulos a caminharem com confiança
+  na luz de Deus.
 primary_subjects: Amor Divino & Relacionamento com Deus
 secondary_subjects: []
 people: []
