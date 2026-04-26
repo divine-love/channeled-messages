@@ -304,7 +304,7 @@ Questions should be written as a real seeker would type them into a search engin
 
 ### Spirit Names in Keywords
 
-If a spirit has a spirit file in `/spirits/`, do **not** include their name in the `keywords` field — they are already indexed via `spirit_id` and `spirits[]`. Only include spirit names in `keywords` if they are mentioned but have no spirit file.
+If a spirit has a spirit file in `/spirits/`, do **not** include their name in the `keywords` field — they are already indexed via `spirit_id` and `spirits[]`. This applies to the **channeling spirit** (the message author) as well as any other spirits mentioned who have spirit files. Only include spirit names in `keywords` if they are mentioned but have no spirit file.
 
 Exception: the word "faith" is always treated as a concept keyword, never removed as a spirit name reference, unless the message is specifically by or about Faith Nyquist.
 
@@ -343,9 +343,10 @@ When adding or editing messages, please follow these YAML guidelines.
 
 ```yaml
 message_type: ["Guidance", "Teaching"]
+primary_subjects: "Spiritual Discipline & Daily Living"
 secondary_subjects:
-  - Spiritual Discipline & Daily Living
-  - Service & Ministry
+  - "Spiritual Discipline & Daily Living"
+  - "Service & Ministry"
 location:
   city: Gibsons
   region: BC
@@ -432,6 +433,11 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: ""
+significance: []
+language: pt-br
+excerpt: >
+  Beba fundo destas Águas Vivas e abra-se amplamente.
+series: []
 last_edited: 2025-06-01
 translations:
   available: [pt-br]
