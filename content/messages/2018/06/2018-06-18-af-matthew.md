@@ -31,6 +31,7 @@ spirits: []
 keywords: ["two realities", "two minds", "soul mind", "material mind", "Law of Attraction", "scientists of the soul", "vanguards", "veil lifted", "frame of reference", "merging", "perception", "waves", "adventurers", "thought conditions", "new dawn"]
 questions:
   - "Is there more than one way to experience reality?"
+  - "What does it mean to be double-minded?"
   - "What is the Law of Attraction and how does it relate to God?"
   - "How does Divine Love change the way I perceive the world?"
   - "What does it mean to merge the reality of the soul with the reality of the mind?"
