@@ -22,9 +22,9 @@ secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "God's Healing Power"
   - "Prayer & Devotion"
-  - "Becoming a Channel of Love"
+  - "Service, Ministry & Being a Channel of Love"
 people: []
-spirits: []
+spirits: ["jesus"]
 keywords: ["Divine Love", "healing energy", "magnetic healing", "earth energies", "prayer", "longing", "soul", "eternal", "essence", "flame", "at-onement", "living waters", "choice", "invitation"]
 questions:
   - "What is the most powerful healing energy?"
@@ -53,7 +53,7 @@ language: en
 excerpt: >
   There is only one blessing which cannot be given from one to another. For it to
   enter your soul it must be given by God through your longing and prayers.
-series: ["Healing Path"]
+series: []
 last_edited: 2026-04-17
 ---
 

@@ -21,7 +21,7 @@ secondary_subjects:
   - "Soul Awakening"
   - "Preparation for Earth Mission"
   - "Spiritual Empowerment & Encouragement"
-  - "Becoming a Channel of Love"
+  - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["awakening", "humanity", "slumber", "spring", "tender shoots", "soul", "enlightenment", "barriers", "channel of love", "purpose", "service", "compassion", "material mind", "God's Love", "testimony"]
@@ -48,7 +48,7 @@ language: en
 excerpt: >
   You are the first tender shoots of this spring that is dawning for mankind —
   you are awakening, my beloveds.
-series: ["Awakening Humanity"]
+series: []
 last_edited: 2026-04-17
 ---
 
