@@ -1,7 +1,7 @@
 ---
 title: "The Doors"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-04-23
+last_updated: 2026-04-30
 ---
 
 # The Doors
@@ -34,6 +34,10 @@ last_updated: 2026-04-23
 | [Answering the Call to Gather in Love](messages/2015/03/2015-03-29-af-confucius.md) | Confucius | 2015‑03‑29 | The journeys will continue and you will come again and again to those who desire your presence. This is your purpose and calling |
 | [Walk in the Grace of God's Love](messages/2015/03/2015-03-29-af-mary.md) | Mary | 2015‑03‑29 | As you give Love so shall you receive Love. Do not falter - God will guide you to where you are meant to be |
 | [The Greatest of All Types of Healing Is Divine Love Healing](messages/2015/03/2015-03-29-af-seretta-kem.md) | Seretta Kem | 2015‑03‑29 | The greatest healing of all is obtained through the inflowing of God's Essence. Every cell, every energy, every aspect of your mind is transformed |
+| [The Ups and the Downs of the Journey](messages/2015/05/2015-05-03-af-confucius.md) | Confucius | 2015‑05‑03 | Each time you make this effort, the struggle for something higher, you feel a little more joy within your souls |
+| [The Healing of This World Begins](messages/2015/05/2015-05-04-af-andrew.md) | Andrew | 2015‑05‑04 | The healing of this world begins, my beloveds |
+| [Be Aware of Each Step You Take](messages/2015/05/2015-05-04-af-augustine.md) | Augustine | 2015‑05‑04 | You must all be aware of each step that you take, each word that you speak, each feeling that you feel |
+| [Reaching for Greater Light and Service](messages/2015/05/2015-05-04-af-seretta-kem.md) | Seretta Kem | 2015‑05‑04 | Bless you, beloved souls, who reach eagerly for greater Light and service |
 | [Treasures Uncovered](messages/2015/05/2015-05-18-af-andrew.md) | Andrew | 2015‑05‑18 | The gifts within you are not waiting to be earned. They are waiting to be uncovered |
 | [Recognizing Your Two Selves, the Soul and the Material Mind](messages/2015/05/2015-05-18-af-augustine.md) | Augustine | 2015‑05‑18 | You are not your mind. Your soul is a different and deeper self entirely |
 | [After All Your Preparations It Is Time to Step Forward](messages/2015/05/2015-05-27-af-alec-gaunt.md) | Alec Gaunt | 2015‑05‑27 | The season of preparation is over. It is time to act |
@@ -180,7 +184,6 @@ last_updated: 2026-04-23
 | [Change Comes One Soul at a Time](messages/2018/05/2018-05-10-af-gandhi.md) | Mahatma Gandhi | 2018‑05‑10 | You look at all the dilemmas of this world and throw up your arms. But it is your awakened soul that will find the role you must play. One step at a time |
 | [This Is a Place of Refuge](messages/2018/05/2018-05-11-af-augustine.md) | Augustine | 2018‑05‑11 | Open your doors. Let those who come feel the peace. In time they will carry this Light and create their own refuge wherever they are |
 | [Law of Compensation: Natural Compared with the Divine Path](messages/2018/05/2018-05-12-af-luke.md) | Luke | 2018‑05‑12 | The Law of Compensation insists that every dark condition in your soul be reconciled and brought to Light. Divine Love does this not consciously but as a reflexive response to God's Touch within you |
-| [Law of Compensation: Natural Compared with the Divine Path](messages/2018/05/2018-05-12-af-luke.md) | Luke | 2018‑05‑12 | The Law of Compensation insists that every dark condition within you be reconciled. Divine Love does this not consciously but as a reflexive response to God's Touch |
 | [60/40 Soul Mind Guidance](messages/2018/05/2018-05-17-af-augustine.md) | Augustine | 2018‑05‑17 | The goal is not soul or mind. It is a beautiful orange - predominantly soul, but with the mind mixed in to create something harmonious and whole |
 | [Make Arrangements to Come Together](messages/2018/05/2018-05-20-af-keea-atta-kem.md) | Keea atta Kem | 2018‑05‑20 | When you are together in love and harmony, sitting and praying in the flesh, the possibilities of awakening are far greater than when you are apart |
 | [Awaken to the Greater Love](messages/2018/05/2018-05-21-af-matthew.md) | Matthew | 2018‑05‑21 | Those parts of you that have lain dormant for many years are now eager for the light of day. They come from your soul |
