@@ -3,7 +3,7 @@ message_id: 2018-07-13-af-keea-atta-kem
 title: "Awakening of Your Gifts Requires God's Love, Faith and Timing"
 date: 2018-07-13
 spirit_id: keea-atta-kem
-spirit_name: "Keea atta Kem"
+spirit_name: Keea Atta Kem
 medium: Al Fike
 location:
   city: Gibsons

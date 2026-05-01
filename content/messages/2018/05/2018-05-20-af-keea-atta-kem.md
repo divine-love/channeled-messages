@@ -3,7 +3,7 @@ message_id: 2018-05-20-af-keea-atta-kem
 title: "Make Arrangements to Come Together"
 date: 2018-05-20
 spirit_id: keea-atta-kem
-spirit_name: "Keea atta Kem"
+spirit_name: Keea Atta Kem
 medium: Al Fike
 location:
   city: Gibsons

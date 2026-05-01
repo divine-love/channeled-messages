@@ -3,7 +3,7 @@ message_id: 2017-01-16-af-keea-atta-kem
 title: "Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually"
 date: 2017-01-16
 spirit_id: keea-atta-kem
-spirit_name: "Keea atta Kem"
+spirit_name: Keea Atta Kem
 medium: Al Fike
 location:
   city: Gibsons

@@ -51,7 +51,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/circles-of-light/"
 notes: >
   Spirit's name appears as "Kea Atta Kem" in the opening salutation. Standardised
-  to established form "Keea Atta Kem" throughout.
+  to established form Keea Atta Kem throughout.
 significance: ["Key Teaching"]
 language: en
 excerpt: >

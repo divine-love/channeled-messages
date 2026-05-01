@@ -3,7 +3,7 @@ message_id: 2017-09-13-af-keea-atta-kem
 title: "Make Love Your Guiding Truth Through Earth Changes"
 date: 2017-09-13
 spirit_id: keea-atta-kem
-spirit_name: "Keea atta Kem"
+spirit_name: Keea Atta Kem
 medium: Al Fike
 location:
   city: Gibsons
