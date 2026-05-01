@@ -33,7 +33,6 @@ questions:
   - "How can one soul make a difference in a darkened world?"
   - "How do I bring light and peace to those I encounter?"
 related_messages:
-  - 2015-12-07-af-john-the-beloved
   - 2015-09-27-af-augustine
   - 2015-08-03-af-augustine
 audio_url: ""

@@ -42,7 +42,6 @@ questions:
   - "What does it mean to obey God's laws joyfully rather than out of obligation?"
 related_messages:
   - 2017-09-12-af-confucius
-  - 2017-09-12-af-augustine
   - 2016-05-02-af-andrew
   - 2016-04-12-af-moses
 audio_url: ""

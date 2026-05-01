@@ -40,7 +40,6 @@ questions:
   - "How do I know I am never alone even when life feels isolating and difficult?"
   - "Why is unlearning just as important as learning on the spiritual path?"
 related_messages:
-  - 2017-09-12-af-confucius
   - 2017-06-15-af-augustine
   - 2017-01-23-af-alec-gaunt
   - 2016-07-10-af-augustine

@@ -31,7 +31,6 @@ questions:
   - "Is there a spiritual family that transcends religion and culture?"
   - "What can a small diverse gathering of seekers really accomplish together?"
 related_messages:
-  - 2015-03-27-af-andrew
   - 2016-01-04-af-confucius
   - 2018-07-17-af-mary
 audio_url: ""
