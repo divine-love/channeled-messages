@@ -38,8 +38,7 @@ related_messages:
   - 2017-04-10-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/many-gifts-for-the-circle-of-seven-2/"
-notes: >
-  First message from Lotus Blossom in the archive.
+notes: ""
 significance: ["Prophetic"]
 language: en
 excerpt: >

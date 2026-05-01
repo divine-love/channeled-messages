@@ -44,9 +44,7 @@ related_messages:
   - 2016-08-15-af-mary
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/world-needs-prayers/"
-notes: >
-  First message from White Cloud in the archive. First message received in the
-  United States. Location is Hawaii.
+notes: ""
 significance: []
 language: en
 excerpt: >

@@ -52,9 +52,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/make-love-guiding-truth-earth-changes/"
 notes: >
-  Fourth message from the September 12-13, 2017 Gibsons gathering, following
-  three messages from September 12. Keea atta Kem mentions that Al Fike has seen
-  some things that are coming in vision.
+  Keea atta Kem mentions that Al Fike has seen some things that are coming in vision.
 significance: ["Key Teaching", "Prophetic"]
 language: en
 excerpt: >

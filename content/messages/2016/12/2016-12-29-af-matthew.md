@@ -46,8 +46,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/time-accept-new-way/"
 notes: >
-  First message from Matthew in the archive. Matthew came because Al Fike had
-  read one of his messages in the Padgett Messages book Judas of Kerioth.
+  Matthew came because Al Fike had read one of his messages in the Padgett Messages book Judas of Kerioth.
 significance: ["Prophetic"]
 language: en
 excerpt: >

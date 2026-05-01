@@ -11,7 +11,8 @@ location:
   country: Canada
 gathering:
 message_type: ["Teaching"]
-description: "Matthew teaches that the soul's experience of God's Love cannot be described intellectually, only felt - and that each soul's experience of this Touch is unique. He warns against turning personal spiritual experience into a dogmatic formula, urging all to validate and accept the wide range of ways that God's Love manifests within different souls."
+description: >
+ Matthew teaches that the soul's experience of God's Love cannot be described intellectually, only felt - and that each soul's experience of this Touch is unique. He warns against turning personal spiritual experience into a dogmatic formula, urging all to validate and accept the wide range of ways that God's Love manifests within different souls.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Mind vs Soul Conflict"
@@ -39,10 +40,12 @@ related_messages:
   - 2017-04-10-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/soul-can-know-gods-love/"
-notes: "Matthew's second message in the archive. He opens by referencing a reading the group had been discussing."
+notes: >
+ Matthew opens by referencing a reading the group had been discussing.
 significance: ["Key Teaching"]
 language: en
-excerpt: "A thousand words, a million books will never truly bring this Truth as it is experienced by that deep Touch from God. One must feel Love to understand it."
+excerpt: >
+ A thousand words, a million books will never truly bring this Truth as it is experienced by that deep Touch from God. One must feel Love to understand it.
 series: []
 last_edited: 2026-04-23
 ---

@@ -47,10 +47,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/tesla-talks-about-the-power-of-love/"
 notes: >
-  First message from Nikola Tesla in the archive. Two corrections from source
-  text: 'awareness's' corrected to 'awarenesses'; 'it's potential' corrected to
-  'its potential'. Tesla also mentions that the group is 'causing quite a stir in
-  spirit' and that many in spirit know of their work.
+  Two corrections from source text: 'awareness's' corrected to 'awarenesses'; 'it's potential' corrected to 'its potential'. Tesla also mentions that the group is 'causing quite a stir in spirit' and that many in spirit know of their work.
 significance: ["Biographical", "Historical"]
 language: en
 excerpt: >

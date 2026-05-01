@@ -47,9 +47,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/all-truth-begins-with-the-soul-awakened-in-love/"
 notes: >
   Wesley identifies himself at the close as the founder of Methodism and a
-  current inhabitant of the Celestial Kingdom. Third message from the June 9,
-  2018 Gibsons gathering, following 2018-06-09-af-matthew and
-  2018-06-09-af-john-the-beloved.
+  current inhabitant of the Celestial Kingdom.
 significance: ["Key Teaching", "Historical", "Biographical"]
 language: en
 excerpt: >

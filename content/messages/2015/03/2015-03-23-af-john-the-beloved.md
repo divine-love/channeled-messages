@@ -41,10 +41,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Third message from the March 23, 2015 New York gathering, following
-  2015-03-23-af-augustine and 2015-03-23-af-goldie. John identifies himself
-  simply as "John" but is confirmed as John the Beloved. Not publicly posted
-  online.
+  John identifies himself simply as "John" but is confirmed as John the Beloved. Not publicly posted online.
 significance: []
 language: en
 excerpt: >
