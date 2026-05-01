@@ -2,7 +2,7 @@
 message_id: 2018-07-30-af-keea-atta-kem
 title: "Prayer"
 date: 2018-07-30
-spirit_name: Keea atta Kem
+spirit_name: Keea Atta Kem
 spirit_id: keea-atta-kem
 medium: Al Fike
 location:
@@ -12,7 +12,7 @@ location:
 gathering:
 message_type: ["Teaching"]
 description: >
-  Keea atta Kem delivers a comprehensive teaching on prayer as the primary vehicle
+  Keea Atta Kem delivers a comprehensive teaching on prayer as the primary vehicle
   of the Divine Love path, the language of the soul and the act of faith that opens
   a thread of light to God. She teaches that prayer need not be long or complicated,
   only heartfelt and soul-directed, and that as Divine Love accumulates within the
@@ -84,4 +84,4 @@ You, my beloveds, understand that a heartfelt prayer is a true prayer and you mu
 
 So, do not let another diminish your efforts, but merely say a prayer for them for they are often the ones most in need, the ones who resolutely stand alone and do not beseech God and befriend God. Many are in darkness and confusion. Many suffer the numbness of the heart and feel very little other than fear, confusion, and are alone and afraid in their lives. Yet you, my beloveds, have a richness of understanding, a bounty of blessings, a fullness in your life that continues to grow and draw in more and more light and blessings. How wise you are to recognize the power of prayer with all its blessings and benefits.
 
-May you continue upon this road. May your prayers become a constant desire to be with God and in this there will be a constant inflowing upon you, beloved souls. God bless you and keep you in His Grace and Love, peace and joy. I am with you. I am your friend and I love you. I am Keea atta Kem. God bless you my beloveds. May your life be a prayer and may your life be full and rich. God bless you.
+May you continue upon this road. May your prayers become a constant desire to be with God and in this there will be a constant inflowing upon you, beloved souls. God bless you and keep you in His Grace and Love, peace and joy. I am with you. I am your friend and I love you. I am Keea Atta Kem. God bless you my beloveds. May your life be a prayer and may your life be full and rich. God bless you.
