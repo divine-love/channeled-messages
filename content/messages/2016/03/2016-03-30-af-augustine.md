@@ -58,8 +58,7 @@ excerpt: >
   within the church. I did not listen to God. I listened to my own mind and
   desire and fears, my own humanity.
 series: ["Letters from History"]
-door: True power is not control. It is the strength that comes from letting God flow through
-  you unrestricted
+door: True power is not control. It is the strength that comes from letting God flow through you unrestricted
 last_edited: 2026-04-23
 ---
 

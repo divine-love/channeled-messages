@@ -48,8 +48,7 @@ excerpt: >
   It will come clear like a newborn whose vision is blurry and indistinct — you
   will come to know this part of you, your soul mind.
 series: ["Mind & Soul"]
-door: The soul mind is awakening within you, like a newborn whose vision is blurry but becoming
-  clear
+door: The soul mind is awakening within you, like a newborn whose vision is blurry but becoming clear
 last_edited: 2026-04-17
 ---
 

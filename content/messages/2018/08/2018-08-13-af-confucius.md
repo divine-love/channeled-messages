@@ -42,8 +42,7 @@ excerpt: >
   God does not withhold His Love and blessings from His children but beseeches
   each child to partake of what God has to give.
 series: []
-door: God does not withhold His Love and blessings from His children but beseeches each
-  child to partake of what God has to give
+door: God does not withhold His Love and blessings from His children but beseeches each child to partake of what God has to give
 last_edited: 2026-05-01
 ---
 

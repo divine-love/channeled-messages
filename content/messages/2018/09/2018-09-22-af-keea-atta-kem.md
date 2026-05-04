@@ -53,8 +53,7 @@ excerpt: >
   None of you can do this alone. Ask for us. Ask for the angels to assist you.
   Ask for God to continue to open your soul that you may be awakened in love.
 series: []
-door: None of you can do this alone. Ask for us. Ask for the angels to assist you. Ask for
-  God to continue to open your soul that you may be awakened in love
+door: None of you can do this alone. Ask for us. Ask for the angels to assist you. Ask for God to continue to open your soul that you may be awakened in love
 last_edited: 2026-05-01
 ---
 

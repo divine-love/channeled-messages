@@ -54,8 +54,7 @@ excerpt: >
   be clothed in the raiments of Light and strong in your relationship with your
   Heavenly Father.
 series: ["Awakening Humanity"]
-door: You are entering the calm before the storm. When you enter the storm you must be clothed
-  in the raiments of Light and strong in your relationship with your Heavenly Father
+door: You are entering the calm before the storm. When you enter the storm you must be clothed in the raiments of Light and strong in your relationship with your Heavenly Father
 last_edited: 2026-05-01
 ---
 

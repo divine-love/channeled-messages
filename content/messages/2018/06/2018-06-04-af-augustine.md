@@ -56,8 +56,7 @@ excerpt: >
   mind. As you transition between them there is conflict. This is not failure.
   It is a sign you are ready to take the leap of faith toward soul dominance.
 series: ["Mind & Soul"]
-door: The soul is stronger. The soul knows. And the soul needs to forge ahead - to realize
-  its purpose in this life, and to serve God in Love
+door: The soul is stronger. The soul knows. And the soul needs to forge ahead - to realize its purpose in this life, and to serve God in Love
 last_edited: 2026-04-23
 ---
 

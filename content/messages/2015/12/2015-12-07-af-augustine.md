@@ -43,8 +43,7 @@ excerpt: >
   Carry it held high with Love, with the sure knowledge that God has touched your
   souls deeply with His Mighty Hand and Light and Love.
 series: []
-door: Carry it held high with Love and with the sure knowledge that God has touched your
-  souls
+door: Carry it held high with Love and with the sure knowledge that God has touched your souls
 last_edited: 2026-04-17
 ---
 

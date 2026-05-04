@@ -57,9 +57,7 @@ excerpt: >
   bringing to these scientifically-inclined individuals a greater science, the
   science of the soul.
 series: ["Mind & Soul"]
-door: You are the innovators, beloveds, even though this truth is ancient. You are bringing
-  to these scientifically-inclined individuals a greater science, the science of the
-  soul
+door: You are the innovators, beloveds, even though this truth is ancient. You are bringing to these scientifically-inclined individuals a greater science, the science of the soul
 last_edited: 2026-05-01
 ---
 

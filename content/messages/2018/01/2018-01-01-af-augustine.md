@@ -52,8 +52,7 @@ excerpt: >
   point to the Source of All and say: this is from whence all of my gifts come.
   It is for each child to petition God to receive these gifts of Love.
 series: ["Service & Mission"]
-door: Resist the temptation of adulation. Humbly point every soul to God as the Source of
-  all gifts
+door: Resist the temptation of adulation. Humbly point every soul to God as the Source of all gifts
 last_edited: 2026-04-23
 ---
 

@@ -43,8 +43,7 @@ excerpt: >
   Drink deep these Living waters and open yourselves wide, truly feel this Love
   my beloveds — it is yours, a Gift, a blessing, a touch.
 series: []
-door: Drink deep these Living waters and open yourselves wide. It is yours, a Gift, a blessing,
-  a touch
+door: Drink deep these Living waters and open yourselves wide. It is yours, a Gift, a blessing, a touch
 last_edited: 2026-04-17
 ---
 

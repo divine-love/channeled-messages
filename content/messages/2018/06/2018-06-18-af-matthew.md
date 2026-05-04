@@ -57,8 +57,7 @@ excerpt: >
   vanguards seeking to move forward into a new dawn of Love and Truth that
   God intends for this world.
 series: ["Mind & Soul"]
-door: You are scientists of the soul, discovering its mysteries. The vanguards of a new
-  dawn of Love and Truth that God intends for this world
+door: You are scientists of the soul, discovering its mysteries. The vanguards of a new dawn of Love and Truth that God intends for this world
 last_edited: 2026-04-23
 ---
 

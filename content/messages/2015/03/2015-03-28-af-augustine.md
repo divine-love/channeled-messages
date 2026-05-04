@@ -58,8 +58,7 @@ excerpt: >
   this Love and I ascended through the spheres of spirit and entered into
   the Celestial Kingdom.
 series: ["Letters from History", "Foundational Teachings"]
-door: Once I entered spirit and learned of this Truth, I prayed earnestly to receive this
-  Love and ascended into the Celestial Kingdom
+door: Once I entered spirit and learned of this Truth, I prayed earnestly to receive this Love and ascended into the Celestial Kingdom
 last_edited: 2026-04-23
 ---
 

@@ -57,8 +57,7 @@ excerpt: >
   this signal of light into the world. It is always with you, for it is truly
   a part of you.
 series: ["Foundational Teachings"]
-door: As you walk in the world a bell tolls with your presence, calling your brothers and
-  sisters to prayer, stimulating that part of their souls that longs for God
+door: As you walk in the world a bell tolls with your presence, calling your brothers and sisters to prayer, stimulating that part of their souls that longs for God
 last_edited: 2026-05-01
 ---
 

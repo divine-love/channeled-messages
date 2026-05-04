@@ -46,8 +46,7 @@ language: en
 excerpt: >
   How will the world change if not by this awakening of the soul, the faculties of the soul, the desires of the soul, the connection of the soul to God and God to the soul?
 series: []
-door: How will the world change if not by this awakening of the soul, the faculties of the
-  soul, the connection of the soul to God?
+door: How will the world change if not by this awakening of the soul, the faculties of the soul, the connection of the soul to God?
 last_edited: 2026-04-23
 ---
 

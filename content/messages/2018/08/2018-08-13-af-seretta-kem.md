@@ -52,8 +52,7 @@ excerpt: >
   It is the light that you carry that pushes back the darkness. Remember this,
   beloved souls, no matter what situation you are in.
 series: ["Awakening Humanity", "Foundational Teachings"]
-door: No matter what situation you are in in your life, it is the light that you carry and
-  the light that builds within you that will have the greatest effect
+door: No matter what situation you are in in your life, it is the light that you carry and the light that builds within you that will have the greatest effect
 last_edited: 2026-05-01
 ---
 

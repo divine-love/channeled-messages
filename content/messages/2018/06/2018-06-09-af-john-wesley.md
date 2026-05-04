@@ -55,8 +55,7 @@ excerpt: >
   It brings life. Understand this, and you come a long way to truly
   understanding yourselves and the nature of God's Creation.
 series: ["Letters from History", "Mind & Soul", "Awakening Humanity"]
-door: All Truth begins with Love. For Love is what makes the universe what it is. It brings
-  life
+door: All Truth begins with Love. For Love is what makes the universe what it is. It brings life
 last_edited: 2026-04-23
 ---
 

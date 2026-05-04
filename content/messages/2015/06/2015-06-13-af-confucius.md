@@ -37,8 +37,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-many-benefits-of-praying-in-a-circle-of-light/"
 notes: ""
 significance: []
-door: When souls pray together their Light multiplies beyond what any one could generate
-  alone
+door: When souls pray together their Light multiplies beyond what any one could generate alone
 last_edited: 2026-04-13
 ---
 

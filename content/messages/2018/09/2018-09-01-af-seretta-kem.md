@@ -55,9 +55,7 @@ excerpt: >
   world. You will know a great joy as God's plan unfolds and you awaken to a new
   dawn, the Dawn of Love.
 series: ["Awakening Humanity"]
-door: You are on the verge of great transformation, not only personally but in this world.
-  You will know a great joy as God's plan unfolds and you awaken to a new dawn, the
-  Dawn of Love
+door: You are on the verge of great transformation, not only personally but in this world. You will know a great joy as God's plan unfolds and you awaken to a new dawn, the Dawn of Love
 last_edited: 2026-05-01
 ---
 

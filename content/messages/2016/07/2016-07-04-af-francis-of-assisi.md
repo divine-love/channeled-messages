@@ -52,8 +52,7 @@ excerpt: >
   beaming Light and feeling connected to all creation, knows the deep joy that is
   unobtainable when there is no openness or acknowledgement of love.
 series: ["Letters from History"]
-door: Love is not something to find outside yourself. It is something God pours in when
-  you simply ask
+door: Love is not something to find outside yourself. It is something God pours in when you simply ask
 last_edited: 2026-04-17
 ---
 

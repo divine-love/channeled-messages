@@ -52,8 +52,7 @@ excerpt: >
   expand and be expressed and come awake within you, so that you may help to
   awaken mankind to the truth of His Love.
 series: []
-door: Allow these gifts that God has given you and will ignite within your soul to expand
-  and be expressed and come awake within you
+door: Allow these gifts that God has given you and will ignite within your soul to expand and be expressed and come awake within you
 last_edited: 2026-05-01
 ---
 

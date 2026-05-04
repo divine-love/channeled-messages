@@ -46,8 +46,7 @@ excerpt: >
   beautiful waters of God's Love, enjoying the warmth of the Son, smiling and
   expressing the purity of life.
 series: []
-door: Put aside your judgments and fears. Be as little children, bathing in these beautiful
-  waters of God's Love
+door: Put aside your judgments and fears. Be as little children, bathing in these beautiful waters of God's Love
 last_edited: 2026-04-23
 ---
 
