@@ -227,6 +227,15 @@ properties:
       Should be more evocative and compelling than the description field.
       Aim for 1–2 sentences, under 200 characters where possible.
 
+  door:
+    type: [string, "null"]
+    description: >
+      A single sentence distilling the transformative insight hidden within the
+      message — the curator's invitation to enter. Written in the curator's voice
+      or very close to the spirit's words. Used to generate the Doors index.
+      Aim for one strong sentence, under 300 characters.
+    maxLength: 300
+
   series:
     type: array
     description: >
