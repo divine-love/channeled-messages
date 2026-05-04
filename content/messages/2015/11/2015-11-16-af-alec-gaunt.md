@@ -40,7 +40,8 @@ notes: >
   suggesting some members had been studying the Padgett Messages legacy. He
   describes himself as family to those on the Divine Love path.
 significance: []
-door: Hiding your gifts is not humility. It is withholding blessings from those who need them
+door: >
+  Hiding your gifts is not humility. It is withholding blessings from those who need them
 last_edited: 2026-04-13
 ---
 

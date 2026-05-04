@@ -56,7 +56,8 @@ excerpt: >
   moves forward, you will see with clarity, a vibrancy, a beauty, a knowing that
   cannot be had in any other way than a soul awakened in Love.
 series: ["Mind & Soul"]
-door: There is so much to learn, and yet there is so much to unlearn
+door: >
+  There is so much to learn, and yet there is so much to unlearn
 last_edited: 2026-04-23
 ---
 

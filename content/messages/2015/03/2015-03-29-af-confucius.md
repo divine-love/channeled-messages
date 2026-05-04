@@ -52,7 +52,8 @@ excerpt: >
   desire your presence - for greater prayers, for greater love. This is your
   purpose and a mission and a calling.
 series: []
-door: The journeys will continue and you will come again and again to those who desire your presence. This is your purpose and calling
+door: >
+  The journeys will continue and you will come again and again to those who desire your presence. This is your purpose and calling
 last_edited: 2026-04-23
 ---
 

@@ -39,7 +39,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/material-manifestations-will-come-time/"
 notes: ""
 significance: []
-door: The most powerful healing manifestation is not a miracle. It is Love
+door: >
+  The most powerful healing manifestation is not a miracle. It is Love
 last_edited: 2026-04-13
 ---
 

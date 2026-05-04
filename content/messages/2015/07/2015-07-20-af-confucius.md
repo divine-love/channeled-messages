@@ -37,7 +37,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/how-your-soul-is-changed-by-the-love/"
 notes: ""
 significance: []
-door: Divine Love does not just comfort the soul. It fundamentally changes its nature
+door: >
+  Divine Love does not just comfort the soul. It fundamentally changes its nature
 last_edited: 2026-04-13
 ---
 

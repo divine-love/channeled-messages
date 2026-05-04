@@ -40,7 +40,8 @@ notes: >
   Received on the same day as the Augustine message about the newborn soul. Both
   address the post-retreat experience of inner shifting and uncertainty.
 significance: []
-door: Stillness is not inaction. It is the foundation from which all true action comes
+door: >
+  Stillness is not inaction. It is the foundation from which all true action comes
 last_edited: 2026-04-13
 ---
 

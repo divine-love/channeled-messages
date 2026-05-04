@@ -53,7 +53,8 @@ excerpt: >
   in this world. Even through the maze of human conditions, God will work and
   bring His Will and purpose.
 series: []
-door: Even through the maze and forest of these human conditions, God will work and bring His Will and purpose
+door: >
+  Even through the maze and forest of these human conditions, God will work and bring His Will and purpose
 last_edited: 2026-05-01
 ---
 

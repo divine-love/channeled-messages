@@ -55,7 +55,8 @@ excerpt: >
   Prayer is the language of the soul. May your life be a prayer and may your life
   be full and rich.
 series: ["Foundational Teachings"]
-door: Prayer is your vehicle. Prayer opens the door. Prayer is the language of the soul
+door: >
+  Prayer is your vehicle. Prayer opens the door. Prayer is the language of the soul
 last_edited: 2026-04-30
 ---
 

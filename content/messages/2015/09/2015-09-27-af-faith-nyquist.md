@@ -43,7 +43,8 @@ notes: >
   Earth life, noting she lived God's Love but did not articulate the Truth of
   Divine Love clearly due to the indoctrinations of her time.
 significance: []
-door: God is never disappointed in you. Only your own expectations disappoint you
+door: >
+  God is never disappointed in you. Only your own expectations disappoint you
 last_edited: 2026-04-13
 ---
 

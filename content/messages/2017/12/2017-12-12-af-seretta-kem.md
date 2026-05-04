@@ -60,7 +60,8 @@ excerpt: >
   impenetrable condition of encrustations. There is always some route to the soul
   which God, through His Holy Spirit, will find.
 series: ["Healing Path"]
-door: There is always a crack in the armor. God always finds a way through
+door: >
+  There is always a crack in the armor. God always finds a way through
 last_edited: 2026-04-23
 ---
 

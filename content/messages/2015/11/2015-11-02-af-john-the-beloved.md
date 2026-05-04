@@ -39,7 +39,8 @@ notes: >
   or chain) throughout. A missing closing quotation mark was also added after 'I
   am in it.'
 significance: []
-door: The yoke you are carrying was never meant for you. It can be laid down
+door: >
+  The yoke you are carrying was never meant for you. It can be laid down
 last_edited: 2026-04-13
 ---
 

@@ -52,7 +52,8 @@ language: en
 excerpt: >
   Seek ye the Kingdom of Heaven and all things shall come unto you. It is a truth.
 series: ["Mind & Soul"]
-door: Give yourself up to your faith and trust in God and all things shall be delivered unto you, all answers, all knowings, all seeings, all understanding
+door: >
+  Give yourself up to your faith and trust in God and all things shall be delivered unto you, all answers, all knowings, all seeings, all understanding
 last_edited: 2026-05-01
 ---
 

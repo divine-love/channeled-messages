@@ -48,7 +48,8 @@ language: en
 excerpt: >
   You walk the path of Love. It is lit by God. It is within the grace of God's Love and flow.
 series: []
-door: My little birds, you will fly into the light of His Love, rising ever higher and higher, knowing the joy and the ecstasy of His Touch
+door: >
+  My little birds, you will fly into the light of His Love, rising ever higher and higher, knowing the joy and the ecstasy of His Touch
 last_edited: 2026-04-30
 ---
 

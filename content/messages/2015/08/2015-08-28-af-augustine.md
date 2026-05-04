@@ -37,7 +37,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/work-together-in-love/"
 notes: ""
 significance: []
-door: Working together in Love creates something none of you could create alone
+door: >
+  Working together in Love creates something none of you could create alone
 last_edited: 2026-04-13
 ---
 

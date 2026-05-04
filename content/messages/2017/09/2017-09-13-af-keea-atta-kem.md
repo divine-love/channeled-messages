@@ -60,7 +60,8 @@ excerpt: >
   all the chaos around you, you will feel the strength and peace and wisdom that
   comes with your soul enlivened by Love.
 series: ["Awakening Humanity"]
-door: You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
+door: >
+  You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
 last_edited: 2026-04-23
 ---
 

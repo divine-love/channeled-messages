@@ -36,7 +36,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/complying-will-god/"
 notes: ""
 significance: []
-door: Surrender to God's Will is not defeat. It is the beginning of your true life
+door: >
+  Surrender to God's Will is not defeat. It is the beginning of your true life
 last_edited: 2026-04-11
 ---
 

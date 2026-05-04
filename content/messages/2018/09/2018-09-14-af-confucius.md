@@ -49,7 +49,8 @@ excerpt: >
   We will be with you, beloveds. Keep us with you in your consciousness and
   prayers and you will be protected.
 series: []
-door: You are my little birds and I keep you in my nest of love, beloveds
+door: >
+  You are my little birds and I keep you in my nest of love, beloveds
 last_edited: 2026-05-01
 ---
 

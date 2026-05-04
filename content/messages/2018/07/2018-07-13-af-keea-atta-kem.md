@@ -53,7 +53,8 @@ excerpt: >
   out to many others whose souls desire these blessings, though their minds
   may not be aware.
 series: ["Prism of the Soul"]
-door: You only see the tip of the iceberg. As you pray together, you activate blessings going out to many others whose souls are longing - though their minds may not know it
+door: >
+  You only see the tip of the iceberg. As you pray together, you activate blessings going out to many others whose souls are longing - though their minds may not know it
 last_edited: 2026-04-23
 ---
 

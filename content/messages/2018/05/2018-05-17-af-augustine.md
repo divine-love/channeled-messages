@@ -56,7 +56,8 @@ excerpt: >
   desire a beautiful sunset orange, you would mix predominantly yellow with red.
   It is not one or the other. It is a harmonious intermingling.
 series: ["Mind & Soul"]
-door: The goal is not soul or mind. It is a beautiful orange - predominantly soul, but with the mind mixed in to create something harmonious and whole
+door: >
+  The goal is not soul or mind. It is a beautiful orange - predominantly soul, but with the mind mixed in to create something harmonious and whole
 last_edited: 2026-04-23
 ---
 

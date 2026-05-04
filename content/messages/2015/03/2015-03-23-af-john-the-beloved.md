@@ -49,7 +49,8 @@ excerpt: >
   pray, how to focus, how to reach out for the Love of God. This is but a
   small portion of what is to come.
 series: []
-door: Your purpose in this gathering is to teach the prayer practice. This is but a small portion of what is to come
+door: >
+  Your purpose in this gathering is to teach the prayer practice. This is but a small portion of what is to come
 last_edited: 2026-04-23
 ---
 

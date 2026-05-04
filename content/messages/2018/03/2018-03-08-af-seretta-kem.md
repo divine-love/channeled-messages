@@ -49,7 +49,8 @@ excerpt: >
   all the wonders of God's Love. It continues to unfold for us as it does for
   you. This journey is infinite.
 series: ["Healing Path"]
-door: Even those in the Celestial Kingdom do not know all the wonders of God's Love. It continues to unfold for them as it does for you
+door: >
+  Even those in the Celestial Kingdom do not know all the wonders of God's Love. It continues to unfold for them as it does for you
 last_edited: 2026-04-23
 ---
 

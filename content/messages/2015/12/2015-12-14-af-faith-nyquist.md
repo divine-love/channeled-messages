@@ -48,7 +48,8 @@ significance: []
 language: en
 excerpt: "You cannot turn back, beloveds, but only move forward, move forward in Love."
 series: []
-door: You cannot turn back. You can only move forward in Love
+door: >
+  You cannot turn back. You can only move forward in Love
 last_edited: 2026-04-17
 ---
 

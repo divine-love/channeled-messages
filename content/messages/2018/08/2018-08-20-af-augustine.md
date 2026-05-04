@@ -54,7 +54,8 @@ excerpt: >
   Pray with faith and joy. For it is in this opening and joyful acknowledgment
   of God that the power required to heal your world will come.
 series: ["Awakening Humanity", "Foundational Teachings"]
-door: Pray with faith and joy. For it is in this opening and joyful acknowledgment of God that the power required to heal your world will come
+door: >
+  Pray with faith and joy. For it is in this opening and joyful acknowledgment of God that the power required to heal your world will come
 last_edited: 2026-05-01
 ---
 

@@ -39,7 +39,8 @@ notes: >
   Message references 'this structure (the World Healing Centre)' suggesting it
   was received in the context of a specific building project or spiritual centre.
 significance: []
-door: Religious error can be held sincerely, and sincerely held error still needs to be released
+door: >
+  Religious error can be held sincerely, and sincerely held error still needs to be released
 last_edited: 2026-04-13
 ---
 

@@ -50,7 +50,8 @@ excerpt: >
   Do you recognize your two selves, the one which is human and the one which is
   your soul?
 series: ["Mind & Soul"]
-door: Do you recognize your two selves, the one which is human and the one which is your soul?
+door: >
+  Do you recognize your two selves, the one which is human and the one which is your soul?
 last_edited: 2026-04-30
 ---
 

@@ -55,7 +55,8 @@ excerpt: >
   natural flow of understanding. Then the world buries it. Your whole spiritual
   journey is simply learning to find it again.
 series: ["Mind & Soul"]
-door: The innocent child knows its own soul naturally. Then the world buries it. Your whole spiritual journey is simply learning to find it again
+door: >
+  The innocent child knows its own soul naturally. Then the world buries it. Your whole spiritual journey is simply learning to find it again
 last_edited: 2026-04-23
 ---
 

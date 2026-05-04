@@ -36,7 +36,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/continue-to-love/"
 notes: ""
 significance: []
-door: When everything else is uncertain, continuing to love is always the right next step
+door: >
+  When everything else is uncertain, continuing to love is always the right next step
 last_edited: 2026-04-13
 ---
 

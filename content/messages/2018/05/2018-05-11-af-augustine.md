@@ -50,7 +50,8 @@ excerpt: >
   the peace, the beauty and to avail themselves of the Love of God in a setting
   that inspires and envelops all who come.
 series: ["Service & Mission"]
-door: Open your doors. Let those who come feel the peace. In time they will carry this Light and create their own refuge wherever they are
+door: >
+  Open your doors. Let those who come feel the peace. In time they will carry this Light and create their own refuge wherever they are
 last_edited: 2026-04-23
 ---
 

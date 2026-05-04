@@ -50,7 +50,8 @@ excerpt: >
   things to overcome, choices to make, love to give. This is life and this is a
   good life.
 series: []
-door: Life conspires to bring growth. It is not stale and static but full of movement and openings
+door: >
+  Life conspires to bring growth. It is not stale and static but full of movement and openings
 last_edited: 2026-04-23
 ---
 

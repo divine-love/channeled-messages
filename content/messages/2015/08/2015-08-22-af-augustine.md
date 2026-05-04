@@ -35,7 +35,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/augustine-advises-a-retreat-group-to-talk-about-their-inner-soul-changes/"
 notes: ""
 significance: []
-door: Sharing your inner changes with others is itself an act of Love and courage
+door: >
+  Sharing your inner changes with others is itself an act of Love and courage
 last_edited: 2026-04-13
 ---
 

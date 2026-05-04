@@ -54,7 +54,8 @@ excerpt: >
   The time for silence is over, beloved souls. Silence in the presence of error
   is an acceptance of error.
 series: ["Foundational Teachings"]
-door: Silence in the presence of error is an acceptance of error
+door: >
+  Silence in the presence of error is an acceptance of error
 last_edited: 2026-05-01
 ---
 

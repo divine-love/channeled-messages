@@ -42,7 +42,8 @@ language: en
 excerpt: >
   You carry the waters of life and you shall quench the thirst of many in this world.
 series: []
-door: Many, many doors are opening. Walk willingly into this lighted passage of service and many blessings and miracles will follow in your stead
+door: >
+  Many, many doors are opening. Walk willingly into this lighted passage of service and many blessings and miracles will follow in your stead
 last_edited: 2026-04-30
 ---
 

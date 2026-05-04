@@ -58,7 +58,8 @@ excerpt: >
   The light in the centre of these circles is great and often an angel stands in
   the centre in deep prayer, drawing great blessings to your midst.
 series: ["Foundational Teachings"]
-door: Each soul in the circle is supported by an angel who stands behind them, with their hands upon them in prayer
+door: >
+  Each soul in the circle is supported by an angel who stands behind them, with their hands upon them in prayer
 last_edited: 2026-05-01
 ---
 

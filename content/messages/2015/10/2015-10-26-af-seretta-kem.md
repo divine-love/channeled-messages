@@ -40,7 +40,8 @@ notes: >
   Seretta Kem's name was misspelled as 'Serreta Kem' in the opening line of the
   source text. Corrected.
 significance: []
-door: Your prayers reach into the spirit world and bring healing to souls you will never meet in this life
+door: >
+  Your prayers reach into the spirit world and bring healing to souls you will never meet in this life
 last_edited: 2026-04-13
 ---
 

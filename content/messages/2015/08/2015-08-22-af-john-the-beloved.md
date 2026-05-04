@@ -38,7 +38,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/john-gives-a-prayer-for-greater-enlightenment/"
 notes: ""
 significance: []
-door: Prayer is not a petition to a distant God. It is communion with One who is already present
+door: >
+  Prayer is not a petition to a distant God. It is communion with One who is already present
 last_edited: 2026-04-13
 ---
 

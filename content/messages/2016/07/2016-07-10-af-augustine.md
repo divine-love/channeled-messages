@@ -58,7 +58,8 @@ excerpt: >
   A yearning soul is the key that will unlock the door to God — and a curious
   mind is but a symptom of the yearning soul.
 series: ["Mind & Soul"]
-door: The yearning itself is the prayer, and the crack in the armor of the mind is where God enters
+door: >
+  The yearning itself is the prayer, and the crack in the armor of the mind is where God enters
 last_edited: 2026-04-17
 ---
 

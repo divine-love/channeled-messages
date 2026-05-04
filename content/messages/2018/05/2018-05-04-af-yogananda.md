@@ -54,7 +54,8 @@ excerpt: >
   harmony. You will not have to yearn and struggle and seek to find your way,
   for the path will open and you will see for yourself God's Plan for you.
 series: ["Letters from History", "Service & Mission"]
-door: Everything has led to this point. From this point many things will flow in harmony. You will not have to struggle to find your way - the path will open
+door: >
+  Everything has led to this point. From this point many things will flow in harmony. You will not have to struggle to find your way - the path will open
 last_edited: 2026-04-23
 ---
 

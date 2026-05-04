@@ -35,7 +35,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/after-all-your-preparations-it-is-time-to-step-forward/"
 notes: ""
 significance: []
-door: The season of preparation is over. It is time to act
+door: >
+  The season of preparation is over. It is time to act
 last_edited: 2026-04-11
 ---
 

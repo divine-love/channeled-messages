@@ -41,7 +41,8 @@ notes: >
   Francis opens by describing a personal moment with the medium in his garden,
   noting the beauty of his creative work there.
 significance: []
-door: The world is not beyond healing, but it needs souls willing to be instruments of that healing
+door: >
+  The world is not beyond healing, but it needs souls willing to be instruments of that healing
 last_edited: 2026-04-13
 ---
 

@@ -39,7 +39,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-governs-your-path/"
 notes: ""
 significance: []
-door: Free will is not a burden. It is the dignity God gave you to choose Love
+door: >
+  Free will is not a burden. It is the dignity God gave you to choose Love
 last_edited: 2026-04-13
 ---
 

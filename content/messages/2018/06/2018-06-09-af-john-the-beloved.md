@@ -55,7 +55,8 @@ excerpt: >
   abundance until your souls truly know me? Even then, I shall continue to
   bless you."
 series: []
-door: 'God places His Hand upon you and asks: Will you accept my Love? Even when your soul truly knows me, I shall continue to bless you'
+door: >
+  'God places His Hand upon you and asks: Will you accept my Love? Even when your soul truly knows me, I shall continue to bless you'
 last_edited: 2026-04-23
 ---
 

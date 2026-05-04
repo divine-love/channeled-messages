@@ -43,7 +43,8 @@ notes: >
   Luther acknowledges the great diversity of souls gathered — from newcomers to
   long-time practitioners — and speaks to them all equally.
 significance: []
-door: You cannot give what you do not have. Fill yourself with Love before you try to fill others
+door: >
+  You cannot give what you do not have. Fill yourself with Love before you try to fill others
 last_edited: 2026-04-13
 ---
 

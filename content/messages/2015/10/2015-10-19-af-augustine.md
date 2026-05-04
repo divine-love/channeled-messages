@@ -35,7 +35,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/these-are-the-days-to-learn-how-to-love/"
 notes: ""
 significance: []
-door: You are living in the very days that matter most, and learning to love is the work of these days
+door: >
+  You are living in the very days that matter most, and learning to love is the work of these days
 last_edited: 2026-04-13
 ---
 

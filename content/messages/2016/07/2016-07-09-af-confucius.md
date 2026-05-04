@@ -48,7 +48,8 @@ excerpt: >
   the awakened soul has the capacity to understand Truth in ways that the mind
   cannot.
 series: ["Mind & Soul"]
-door: The awakened soul understands Truth in ways the mind simply cannot
+door: >
+  The awakened soul understands Truth in ways the mind simply cannot
 last_edited: 2026-04-17
 ---
 

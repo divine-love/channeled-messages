@@ -37,7 +37,8 @@ notes: >
   Message is given in preparation for an upcoming international retreat gathering
   souls from around the world.
 significance: []
-door: Every soul who comes to you is sent. Receive them accordingly
+door: >
+  Every soul who comes to you is sent. Receive them accordingly
 last_edited: 2026-04-13
 ---
 
