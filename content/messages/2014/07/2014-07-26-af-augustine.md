@@ -35,6 +35,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-makes-free-wheeling-world-nothing-guaranteed/"
 notes: ""
 significance: []
+door: Freedom to choose is the very thing that makes love real
 last_edited: 2026-04-11
 ---
 

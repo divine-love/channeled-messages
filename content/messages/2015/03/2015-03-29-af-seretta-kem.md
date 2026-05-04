@@ -58,6 +58,8 @@ excerpt: >
   the energies of your spirit, and all aspects of your mind are transformed
   by this Love.
 series: ["Healing Path"]
+door: The greatest healing of all is obtained through the inflowing of God's Essence. Every
+  cell, every energy, every aspect of your mind is transformed
 last_edited: 2026-04-23
 ---
 

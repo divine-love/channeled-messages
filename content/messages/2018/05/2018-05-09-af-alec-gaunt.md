@@ -56,6 +56,8 @@ excerpt: >
   a creative flow that combines your choice and God's Will together in harmony,
   creating greater Light and expressing your gifts in unique ways.
 series: ["Mind & Soul", "Letters from History"]
+door: Life is not preordained. It is a cooperation between you and God - a creative flow
+  that combines your choice and God's Will together in harmony
 last_edited: 2026-04-23
 ---
 

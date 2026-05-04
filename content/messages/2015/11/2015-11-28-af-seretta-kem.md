@@ -43,6 +43,7 @@ notes: >
   note in source: 'This message came through after our prayer circle created a
   healing merkaba.' See content/practices/healing-merkaba.md for instructions.
   Source: http://new-birth.net/healing_circle.htm
+door: When souls join hands in prayer, they share not just intention but their very being
 last_edited: 2026-04-13
 ---
 

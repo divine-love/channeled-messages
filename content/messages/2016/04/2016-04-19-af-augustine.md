@@ -44,6 +44,7 @@ excerpt: >
   is a great door to growing your souls and making yourselves a clearer channel
   of Love in the world.
 series: ["Service & Mission"]
+door: Hidden within each lesson is a great door to growing your souls
 last_edited: 2026-04-17
 ---
 

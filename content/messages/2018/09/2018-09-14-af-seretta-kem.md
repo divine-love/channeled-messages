@@ -53,6 +53,7 @@ language: en
 excerpt: >
   You are the emissaries of truth, spoken not in words but in light and love.
 series: []
+door: You are the emissaries of truth, spoken not in words but in light and love
 last_edited: 2026-05-01
 ---
 

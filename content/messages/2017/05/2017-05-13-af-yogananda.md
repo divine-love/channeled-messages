@@ -57,6 +57,8 @@ excerpt: >
   aflame with Love. It takes all of us from many different religions and
   backgrounds who have seen the higher Truth of Love to bring this forward.
 series: ["Letters from History"]
+door: When different souls bring their truth together, they create something more beautiful
+  than any one of them could alone
 last_edited: 2026-04-23
 ---
 

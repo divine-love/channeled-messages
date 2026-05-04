@@ -54,6 +54,8 @@ excerpt: >
   time of healing this world, a time of bringing more truth and light and love.
   You have been asked to forge this path.
 series: ["Mind & Soul"]
+door: The reality you have built in your mind is not the only reality. Letting go of it
+  is liberation, not loss
 last_edited: 2026-04-17
 ---
 

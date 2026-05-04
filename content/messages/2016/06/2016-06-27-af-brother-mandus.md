@@ -54,6 +54,7 @@ excerpt: >
   required. It does not require a personality, a strong man or woman. It requires
   a soul earnest, simple, clear and loving, close to God.
 series: ["Letters from History"]
+door: What is needed is not a strong personality but a humble, prayerful soul
 last_edited: 2026-04-17
 ---
 

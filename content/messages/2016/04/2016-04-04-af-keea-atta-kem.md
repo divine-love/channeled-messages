@@ -56,6 +56,8 @@ excerpt: >
   brings this effect, refracted and changed by the prism of God's Love, each
   beautiful color a gift.
 series: ["Prism of the Soul"]
+door: The light within your soul refracts through the prism of God's Love, each colour a
+  unique gift
 last_edited: 2026-04-17
 ---
 

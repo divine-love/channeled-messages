@@ -44,6 +44,7 @@ notes: >
   James Padgett speaks at the August 2015 international retreat. He reflects on
   his own struggles with doubt and fear during his years as medium, and expresses
   gratitude that his work has borne fruit in the lives of those gathered.
+door: The truth you carry is needed, and the world cannot hear it if you keep it to yourself
 last_edited: 2026-04-13
 ---
 

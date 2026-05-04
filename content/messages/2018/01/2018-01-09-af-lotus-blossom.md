@@ -44,6 +44,8 @@ language: en
 excerpt: >
   Like some beautiful flower that emerges from the ground, its buds forming, petals unfolding until the exquisite nature of each beautiful flower is recognized. You are awakening, coming forth from that place deep within you.
 series: []
+door: Like a flower emerging from the ground, your gifts are budding. They will come, and
+  they will come quickly
 last_edited: 2026-04-23
 ---
 

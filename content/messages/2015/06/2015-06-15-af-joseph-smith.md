@@ -58,6 +58,8 @@ excerpt: >
   The will of man usurps the Will of God. The imaginings and ideas of men create
   falsehoods and misinterpretations of the laws and Love of God.
 series: ["Letters from History", "Foundational Teachings"]
+door: The will of man usurps the Will of God. The imaginings and ideas of men create falsehoods
+  and misinterpretations of the laws and Love of God
 last_edited: 2026-05-01
 ---
 

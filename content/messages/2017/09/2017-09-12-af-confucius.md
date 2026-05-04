@@ -50,6 +50,7 @@ excerpt: >
   will open up these doors as God continues to bless you and helps you to see
   beyond the limitations of your minds.
 series: ["Awakening Humanity"]
+door: All those years of prayer are about to open doors you have not yet imagined
 last_edited: 2026-04-23
 ---
 

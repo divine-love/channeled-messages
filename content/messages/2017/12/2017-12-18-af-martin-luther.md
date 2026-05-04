@@ -53,6 +53,7 @@ excerpt: >
   and the desire for the highest, the greatest good, the most Love that is
   possible.
 series: ["Mind & Soul"]
+door: You are babies no longer. The phase of application has begun
 last_edited: 2026-04-23
 ---
 

@@ -50,6 +50,8 @@ excerpt: >
   My Heavenly Father, you can heal me — touch the very centre of me, those tender
   and hurting places within me, and heal me.
 series: []
+door: The struggle is not a sign that something is wrong. It is proof that something is
+  growing
 last_edited: 2026-04-17
 ---
 

@@ -52,6 +52,8 @@ excerpt: >
   Drop by drop, the soul begins to awaken. Allow your soul to come forth and share its
   wisdom, its truths and gifts.
 series: ["Mind & Soul"]
+door: You see with the eyes of your soul-love, you speak with the words of your soul-love,
+  you touch with the gentleness of your soul in love
 last_edited: 2026-04-30
 ---
 

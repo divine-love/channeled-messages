@@ -35,6 +35,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/change-within-is-coming-as-your-souls-grow-in-the-love/"
 notes: ""
 significance: []
+door: The change you feel stirring within is not disruption. It is growth
 last_edited: 2026-04-11
 ---
 

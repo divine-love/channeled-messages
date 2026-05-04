@@ -42,6 +42,7 @@ notes: >
   Message opens with a reference to the medium being in physical pain, which
   Seretta Kem uses as a teaching moment about the soul's influence over the body.
 significance: []
+door: The world's need for souls in service is urgent, and you already have what it takes
 last_edited: 2026-04-13
 ---
 

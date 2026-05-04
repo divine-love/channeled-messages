@@ -56,6 +56,8 @@ excerpt: >
   these clouds will move on and the sun returns. So it is with your condition as
   you sit with God.
 series: ["Prism of the Soul"]
+door: Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger
+  than anything you encounter outside
 last_edited: 2026-04-23
 ---
 

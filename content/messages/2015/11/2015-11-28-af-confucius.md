@@ -32,6 +32,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/prayer-to-bring-freedom-and-joy/"
 notes: ""
 significance: []
+door: Prayer is not an obligation. It is the most direct path to freedom and joy
 last_edited: 2026-04-13
 ---
 

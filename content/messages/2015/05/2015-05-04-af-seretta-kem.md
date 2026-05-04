@@ -40,6 +40,7 @@ language: en
 excerpt: >
   You have great aspirations, my beloved beautiful souls, to be God's willing channels in the world of Love.
 series: []
+door: Bless you, beloved souls, who reach eagerly for greater Light and service
 last_edited: 2026-04-30
 ---
 

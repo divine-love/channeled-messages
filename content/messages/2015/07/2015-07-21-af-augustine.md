@@ -38,6 +38,7 @@ notes: >
   Second message in preparation for the upcoming international retreat. Related
   to 2015-07-06-af-augustine which also addresses retreat preparation.
 significance: []
+door: The door is already open. The only question is whether you will walk through it
 last_edited: 2026-04-13
 ---
 

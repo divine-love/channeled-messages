@@ -39,6 +39,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/follow-sweet-yearnings-soul-may-know-truth/"
 notes: ""
 significance: []
+door: The sweet yearning you feel is your soul showing you the way to Truth
 last_edited: 2026-04-13
 ---
 

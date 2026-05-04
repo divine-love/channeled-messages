@@ -53,6 +53,8 @@ excerpt: >
   Walk in Light, my beloveds. Be the beacon, be the example, even when the
   conditions of life crowd around you and try to thwart you from Light.
 series: []
+door: 'This is the time to be strong in the Light, to stand tall and say: I am with God.
+  God will guide me through'
 last_edited: 2026-05-01
 ---
 

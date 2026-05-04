@@ -45,6 +45,8 @@ language: en
 excerpt: >
   Your understanding will come in leaps and bounds, and in trickles, and then slow, and then running.
 series: []
+door: Each time you make this effort, the struggle for something higher, you feel a little
+  more joy within your souls
 last_edited: 2026-04-30
 ---
 

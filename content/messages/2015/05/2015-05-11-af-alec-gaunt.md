@@ -51,6 +51,7 @@ excerpt: >
   This network of Light, these wonderful connections all around the world, which will
   intensify and multiply, are a part of God's plan.
 series: []
+door: As one steps forward, you all step forward
 last_edited: 2026-04-30
 ---
 

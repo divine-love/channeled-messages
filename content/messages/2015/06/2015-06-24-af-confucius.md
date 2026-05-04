@@ -35,6 +35,8 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/every-soul-purpose-gift-bring-world/"
 notes: ""
 significance: []
+door: Your unique purpose is not something you have to invent. It is something you have
+  to discover
 last_edited: 2026-04-13
 ---
 

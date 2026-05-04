@@ -58,6 +58,8 @@ excerpt: >
   makes perfect sense, and one naturally obeys, for this wisdom comes to the
   awakened soul.
 series: ["Mind & Soul", "Two Paths"]
+door: To one whose soul is filled with Love, obeying God's Laws is not a burden. It makes
+  perfect sense
 last_edited: 2026-04-23
 ---
 

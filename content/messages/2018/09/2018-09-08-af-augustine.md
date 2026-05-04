@@ -55,6 +55,8 @@ excerpt: >
   nurture your souls in prayer, and wonder about your own being. These things
   need your attention if you are to grow.
 series: []
+door: Simplicity, my beloveds, simplicity is the key. Do not overtax yourselves with mindful
+  considerations that do not lead to greater understanding
 last_edited: 2026-05-01
 ---
 

@@ -58,6 +58,9 @@ excerpt: >
   that the greatest progress is made and the most Love is infilled into your
   soul.
 series: ["Healing Path"]
+door: When you look back upon your lives, you will feel as much gratitude for the difficult
+  times as for the times of joy. It is in the difficult times that the greatest progress
+  is made
 last_edited: 2026-04-23
 ---
 

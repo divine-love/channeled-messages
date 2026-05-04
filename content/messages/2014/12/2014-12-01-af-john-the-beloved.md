@@ -35,6 +35,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/express-your-yearnings-to-god/"
 notes: ""
 significance: []
+door: Your longing is already a prayer and God hears it before you find the words
 last_edited: 2026-04-11
 ---
 

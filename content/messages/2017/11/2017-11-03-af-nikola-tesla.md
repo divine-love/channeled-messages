@@ -56,6 +56,8 @@ excerpt: >
   can ignite many things, can stimulate many aspects of the universe in a way
   that can change their basic attributes.
 series: ["Letters from History"]
+door: Love is not just a feeling. It is the most powerful energy in the universe, and its
+  capacities have barely been understood
 last_edited: 2026-04-23
 ---
 

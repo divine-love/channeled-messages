@@ -49,6 +49,7 @@ excerpt: >
   which in your hearts and souls you know is right, there will be no pain but a
   rejoicing for what will come.
 series: []
+door: Change itself is the path, not an obstacle to it
 last_edited: 2026-04-17
 ---
 

@@ -57,6 +57,8 @@ excerpt: >
   invitation is rejected, these invitations will cease, for God respects your
   free will. He waits until you are ready.
 series: ["Service & Mission", "Letters from History"]
+door: God will never turn away from you no matter what you decide. But if every invitation
+  is rejected, the invitations will cease
 last_edited: 2026-04-23
 ---
 

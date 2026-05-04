@@ -52,6 +52,7 @@ excerpt: >
   There may be nothing between your mind and your soul — a merging of
   consciousness, if you will.
 series: ["Mind & Soul"]
+door: There may be nothing between your mind and your soul - a merging of consciousness
 last_edited: 2026-04-17
 ---
 

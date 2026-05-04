@@ -51,6 +51,7 @@ excerpt: >
   Just think how much freedom you will obtain by letting go — this is not
   relinquishing action, but releasing your mind's desire to control outcomes.
 series: ["Mind & Soul"]
+door: Think how much freedom you will obtain by simply letting go
 last_edited: 2026-04-17
 ---
 

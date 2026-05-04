@@ -53,6 +53,8 @@ excerpt: >
   Much of the work you do is hidden but goes very deep as you plant seeds of
   truth, as God blesses many through you, soul to soul.
 series: []
+door: Much of the work you do is hidden but goes very deep as you plant seeds of truth,
+  as God blesses many through you, soul to soul
 last_edited: 2026-05-01
 ---
 

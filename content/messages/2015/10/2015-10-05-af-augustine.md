@@ -33,6 +33,7 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/cherish-this-light/"
 notes: ""
 significance: []
+door: The Light within you is precious. Treat it accordingly
 last_edited: 2026-04-13
 ---
 

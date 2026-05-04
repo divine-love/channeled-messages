@@ -59,6 +59,8 @@ excerpt: >
   for yourself through your own soul's acknowledgement what comes through as
   true.
 series: ["Healing Path"]
+door: The gift of Divine Love received wordlessly in prayer is greater than any message
+  from a spirit
 last_edited: 2026-04-17
 ---
 
