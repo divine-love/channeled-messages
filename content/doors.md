@@ -1,7 +1,7 @@
 ---
 title: "The Doors"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ---
 
 # The Doors
@@ -262,3 +262,8 @@ last_updated: 2026-05-04
 | [Time to Speak the Truth](messages/2018/09/2018-09-30-af-augustine.md) | Augustine | 2018‑09‑30 | Silence in the presence of error is an acceptance of error |
 | [Go Naked to God in Joy](messages/2018/10/2018-10-04-af-matthew.md) | Matthew | 2018‑10‑04 | Release your cloaks, go naked to God, bare your souls. Be free of all that encroaches upon it and be with God. |
 | [Celestials Dancing with Joy](messages/2018/10/2018-10-04-mc-goldie.md) | Goldie | 2018‑10‑04 | We in the Celestial Heavens are dancing with joy at your great yearning and passion. Your souls are sparkling. |
+| [Walk in the Light](messages/2018/10/2018-10-08-af-andrew.md) | Andrew | 2018‑10‑08 | The lights flicker in the darkness. Those lights are destined to touch others, igniting others, bringing more light to this world. This is your destiny. |
+| [The Integration of the Material Mind with the Soul Mind](messages/2018/10/2018-10-09-af-seretta-kem.md) | Seretta Kem | 2018‑10‑09 | As the soul and mind embrace in joyful recognition, they begin to merge until there is no sense of separation — only the singular consciousness of the soul mind and material mind as one. |
+| [A Kaleidoscope of Light](messages/2018/10/2018-10-16-af-seretta-kem.md) | Seretta Kem | 2018‑10‑16 | An entire garden of gifts lays within your soul. As God brings His living waters in, the seeds germinate and the flora of your soul bears fruit that will nurture many others. |
+| [Seek Harmony Through God's Love](messages/2018/10/2018-10-23-af-andrew.md) | Andrew | 2018‑10‑23 | Seek harmony. Seek harmony through love. Seek love through God. Such a simple message — and yet humanity is so far away from it. |
+| [Seretta Kem Talks of the Service that May Come](messages/2018/10/2018-10-24-af-seretta-kem.md) | Seretta Kem | 2018‑10‑24 | You are but one component of a vast network that is being built and will flourish with the hand of God upon it. |
