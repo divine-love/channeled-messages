@@ -260,3 +260,5 @@ last_updated: 2026-05-04
 | [Truth Comes Through the Soul Awakened by God's Love](messages/2018/09/2018-09-22-af-luke.md) | Luke | 2018‑09‑22 | It is as if you wish to examine the moon with a telescope and you turn the telescope backwards. So it is with the mind seeking spiritual truth |
 | [Celebrating Vicky's Passing Into the World of Spirit](messages/2018/09/2018-09-29-af-goldie.md) | Goldie | 2018‑09‑29 | If only more knew how beautiful and wonderful is God's creation, all that worry and concern would melt into joy and laughter |
 | [Time to Speak the Truth](messages/2018/09/2018-09-30-af-augustine.md) | Augustine | 2018‑09‑30 | Silence in the presence of error is an acceptance of error |
+| [Go Naked to God in Joy](messages/2018/10/2018-10-04-af-matthew.md) | Matthew | 2018‑10‑04 | Release your cloaks, go naked to God, bare your souls. Be free of all that encroaches upon it and be with God. |
+| [Celestials Dancing with Joy](messages/2018/10/2018-10-04-mc-goldie.md) | Goldie | 2018‑10‑04 | We in the Celestial Heavens are dancing with joy at your great yearning and passion. Your souls are sparkling. |
