@@ -80,9 +80,9 @@ def make_relative_path(md_path: Path) -> str:
     # e.g. content/messages/2015/05/2015-05-03-af-confucius.md
     # → messages/2015/05/2015-05-03-af-confucius.md
     try:
-        return str(md_path.relative_to("content"))
+        return str(md_path.relative_to("content")).replace("\\", "/")
     except ValueError:
-        return str(md_path)
+        return str(md_path).replace("\\", "/")
 
 
 # ---------------------------------------------------------------------------
