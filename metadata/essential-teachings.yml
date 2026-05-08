@@ -1,0 +1,56 @@
+# essential_teachings.yml
+# Essential teachings flags for the Divine Love Messages archive.
+# These values are used in the essential_teachings field of each message
+# to mark messages that carry particular weight in the archive.
+# Use sparingly — not every message requires an essential_teachings flag.
+# Generated pages are produced automatically by generate_essential_teachings.py
+# and placed in content/essential-teachings/.
+
+essential_teachings:
+
+- name: "Core Teaching"
+  definition: >
+    Establishes or clarifies core doctrine, vision, or mission of the
+    Divine Love path. These are the messages that form the theological
+    and spiritual foundation of the archive — teachings a newcomer
+    would be directed to first, and that curators return to when
+    seeking clarity on the path's central truths.
+
+- name: "Divine Healing"
+  definition: >
+    Describes, demonstrates, or teaches the mechanics of divine healing.
+    Includes both accounts of healing events and instruction on how
+    divine healing works — through prayer, soul purity, and the
+    inflowing of God's Love. Distinct from the Healing Path collection,
+    which is thematic; this flag marks messages of particular
+    significance within that theme.
+
+- name: "Historical"
+  definition: >
+    Of particular historical importance in the archive — messages that
+    mark a significant moment in the history of the Divine Love
+    movement, the development of a circle, or the record of an event
+    that will be of lasting interest to researchers and historians
+    of the movement.
+
+- name: "Milestone"
+  definition: >
+    Marks a significant moment in the archive's history — the
+    establishment of a circle, the beginning or end of a major
+    gathering, a notable first, or another event that represents a
+    threshold in the unfolding of the Divine Love mission.
+
+- name: "Prophecy"
+  definition: >
+    Contains specific predictions about the world, humanity, or the
+    Divine Love movement. Prophecies in the archive are given by
+    Celestial spirits and concern future events, spiritual shifts,
+    and the unfolding of God's plan for humanity.
+
+- name: "Spirit Biography"
+  definition: >
+    A spirit provides significant information about their own Earth
+    life, identity, or experience in spirit. These messages are
+    valuable both spiritually and historically, offering first-person
+    testimony from spirits whose lives are part of the broader human
+    and sacred record.
