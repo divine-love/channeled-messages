@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: ["Teaching", "Guidance"]
+message_type: "Teaching"
 description: >
   Yogananda addresses the group's deliberations about a journey to India, using
   his own experience of leaving India for America as a teaching on faith,

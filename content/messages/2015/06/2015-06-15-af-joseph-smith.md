@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: ["Teaching", "Guidance"]
+message_type: "Teaching"
 description: >
   Joseph Smith speaks from the Celestial Heavens, acknowledging that while angels
   did support his Earth life work in founding the Mormon Church, the institution

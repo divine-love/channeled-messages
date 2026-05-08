@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: ["Teaching", "Guidance"]
+message_type: "Teaching"
 description: >
   Francis of Assisi speaks of love as the great unifying force of the universe
   and the true currency of life, sharing how he found God's Love alone in the
