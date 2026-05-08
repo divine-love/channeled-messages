@@ -1,0 +1,71 @@
+# collections.yml
+# Thematic collections for the Divine Love Messages archive.
+# Each collection groups messages by theme and is used to generate
+# browse pages in content/collections/.
+# Generated pages are produced automatically by generate_collections.py.
+
+collections:
+
+- name: "Awakening Humanity"
+  definition: >
+    Messages concerning the broader spiritual awakening of humanity —
+    the global shift in consciousness that the Divine Love teachings
+    anticipate and call forth. Includes teachings on the role of prayer
+    circles, light workers, and the awakening mission in the world.
+
+- name: "Healing Path"
+  definition: >
+    Messages about healing in all its dimensions — physical, emotional,
+    and spiritual. Includes teachings on how Divine Love heals, the
+    mechanics of spirit healing, and the restoration of the soul and body
+    through prayer and God's Love.
+
+- name: "Jesus Speaks"
+  definition: >
+    Messages channelled directly from Jesus of Nazareth. Jesus is the
+    foremost teacher in the Divine Love archive, speaking on prayer,
+    the soul, at-onement, service, and the truth of God's Love as the
+    heart of his original mission.
+
+- name: "Letters from History"
+  definition: >
+    Messages from historical figures beyond the biblical canon —
+    philosophers, rulers, mystics, scientists, and others speaking
+    from their perspective in spirit about Divine Love, truth, and the
+    soul's journey.
+
+- name: "Mind & Soul"
+  definition: >
+    Messages exploring the relationship between the material mind and
+    the soul — how the mind can assist or obstruct the soul's growth,
+    the integration of mind and soul, and the soul's faculties of
+    perception and knowing.
+
+- name: "Prism of the Soul"
+  definition: >
+    Messages exploring the nature, faculties, and gifts of the soul —
+    its capacity for Divine Love, its unique expression, its senses,
+    and the gifts that emerge as it is awakened and transformed.
+
+- name: "Service & Mission"
+  definition: >
+    Messages about service, mediumship, and the mission of those
+    called to carry Divine Love to the world. Covers the development
+    of gifts, the challenges of being a channel of love, and the
+    calling to awaken others.
+
+- name: "The Saints & Apostles Speak"
+  definition: >
+    Messages from the biblical apostles and saints speaking directly
+    from their perspective in spirit — Andrew, James, John the Beloved,
+    Peter, Matthew, Mark, Luke, Francis of Assisi, and others. These
+    spirits offer personal testimony, teaching, and encouragement
+    grounded in their own experience of Divine Love.
+
+- name: "Two Paths"
+  definition: >
+    Messages contrasting the natural love path and the Divine Love path
+    — the two ways a soul may progress after physical life. Clarifies
+    the distinction between natural love (which leads to the soul
+    spheres) and Divine Love (which leads to the Celestial Heavens and
+    at-onement with God).
