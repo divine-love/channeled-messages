@@ -88,12 +88,13 @@ properties:
 
   message_type:
     type: array
-    description: One or more labels describing the message; can include any/all of Blessing, Guidance, Teaching.
+    description: Exactly one label describing the message — Blessing, Guidance, or Teaching.
     items:
       type: string
       enum: ["Blessing", "Guidance", "Teaching"]
     uniqueItems: true
     minItems: 1
+    maxItems: 1
 
   description:
     type: string
@@ -190,20 +191,20 @@ properties:
     type: [string, "null"]
     description: Optional curator notes or historical context.
 
-  significance:
+  essential_teachings:
     type: array
     description: >
       Optional flags marking a message as particularly important. Use sparingly
       and only for messages of genuine significance. Multiple tags are allowed.
-      Key Teaching: establishes or clarifies core doctrine, vision, or mission.
-      Prophetic: contains specific predictions about the world or the Divine Love movement.
+      Core Teaching: establishes or clarifies core doctrine, vision, or mission.
+      Prophecy: contains specific predictions about the world or the Divine Love movement.
       Historical: of particular historical importance in the archive.
-      Healing: describes or demonstrates a significant healing event.
-      Biographical: a spirit provides significant information about their own Earth life.
+      Divine Healing: describes, demonstrates, or teaches the mechanics of divine healing.
+      Spirit Biography: a spirit provides significant information about their own Earth life.
       Milestone: marks a significant moment in the archive's history.
     items:
       type: string
-      enum: ["Key Teaching", "Prophetic", "Historical", "Healing", "Biographical", "Milestone"]
+      enum: ["Core Teaching", "Prophecy", "Historical", "Divine Healing", "Spirit Biography", "Milestone"]
     uniqueItems: true
     default: []
 
@@ -232,19 +233,30 @@ properties:
     description: >
       A single sentence distilling the transformative insight hidden within the
       message — the curator's invitation to enter. Written in the curator's voice
-      or very close to the spirit's words. Used to generate the Doors index.
+      or very close to the spirit's words. Used to generate the browse index.
       Aim for one strong sentence, under 300 characters.
     maxLength: 300
 
-  series:
+  collections:
     type: array
     description: >
-      Optional thematic groupings or series this message belongs to.
-      Used for curated collections on the website (e.g. "Healing Messages",
-      "Jesus Speaks", "Prophetic Messages"). Leave empty if not yet assigned.
+      Optional thematic collections this message belongs to. Used to generate
+      curated collection pages in content/collections/. Leave empty if not yet
+      assigned. Valid values: "Mind & Soul", "Two Paths", "Awakening Humanity",
+      "Healing Path", "Service & Mission", "Letters from History", "Jesus Speaks",
+      "Prism of the Soul", "The Saints & Apostles Speak".
     items:
       type: string
-      minLength: 1
+      enum:
+        - "Mind & Soul"
+        - "Two Paths"
+        - "Awakening Humanity"
+        - "Healing Path"
+        - "Service & Mission"
+        - "Letters from History"
+        - "Jesus Speaks"
+        - "Prism of the Soul"
+        - "The Saints & Apostles Speak"
     uniqueItems: true
     default: []
 
