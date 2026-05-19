@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-generate_doors.py
-Generates docs/doors.md from the `door` field in all message YAML front matter.
+generate_browse.py
+Generates content/browse.md from the `door` field in all message YAML front matter.
 
 Usage:
-    python .github/scripts/generate_doors.py
+    python .github/scripts/generate_browse.py
 
 Output:
-    docs/doors.md  (or the path set in OUTPUT_PATH below)
+    content/browse.md  (or the path set in OUTPUT_PATH below)
 
 The script walks content/messages/**/*.md, reads the YAML front matter,
 and builds a chronologically sorted Markdown table. Messages without a
@@ -25,28 +25,28 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 
 MESSAGES_DIR = Path("content/messages")
-OUTPUT_PATH  = Path("content/doors.md")
+OUTPUT_PATH  = Path("content/browse.md")
 
 HEADER = '''\
 ---
-title: "The Doors"
+title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
 last_updated: {today}
 ---
 
-# The Doors
+# Browse All Messages
 
 > "Remember the words we have spoken to you, beloveds. Contemplate these words, these teachings, for hidden within each lesson is a great door to growing your souls and making yourselves a clearer channel of Love in the world."
 > — Augustine, April 19, 2016
 
 ---
 
-| Message | Spirit | Date | The Door |
-|---|---|---|---|
+| Message | Spirit | Medium | Date | The Door |
+|---|---|---|---|---|
 '''
 
 ROW_TEMPLATE = (
-    "| [{title}]({path}) | {spirit} | {date_fmt} | {door} |\n"
+    "| [{title}]({path}) | {spirit} | {medium} | {date_fmt} | {door} |\n"
 )
 
 # ---------------------------------------------------------------------------
@@ -104,17 +104,19 @@ def main():
         if not door:
             continue  # skip messages without a door
 
-        title        = fm.get("title", md_file.stem)
-        spirit       = fm.get("spirit_name") or fm.get("spirit_id", "")
-        raw_date     = fm.get("date")
-        relative     = make_relative_path(md_file)
+        title    = fm.get("title", md_file.stem)
+        spirit   = fm.get("spirit_name") or fm.get("spirit_id", "")
+        medium   = fm.get("medium", "")
+        raw_date = fm.get("date")
+        relative = make_relative_path(md_file)
 
         entries.append({
-            "date":    raw_date,
-            "title":   title,
-            "spirit":  spirit,
-            "door":    door.strip(),
-            "path":    relative,
+            "date":   raw_date,
+            "title":  title,
+            "spirit": spirit,
+            "medium": medium,
+            "door":   door.strip(),
+            "path":   relative,
         })
 
     # Sort chronologically, then by path for same-date stability
@@ -129,6 +131,7 @@ def main():
             title    = e["title"],
             path     = e["path"],
             spirit   = e["spirit"],
+            medium   = e["medium"],
             date_fmt = format_date(e["date"]),
             door     = e["door"],
         ))
