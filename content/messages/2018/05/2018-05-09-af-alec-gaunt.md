@@ -49,13 +49,13 @@ notes: >
   Alec reveals that in his Earth life his desires were stronger than God's Will,
   and that he passed into spirit sooner than he should have because he pushed
   so hard. This is his most biographical message in the archive.
-significance: ["Key Teaching", "Biographical"]
+essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >
   Life is not altogether preordained. It is a cooperation between you and God,
   a creative flow that combines your choice and God's Will together in harmony,
   creating greater Light and expressing your gifts in unique ways.
-series: ["Mind & Soul", "Letters from History"]
+collections: ["Mind & Soul", "Letters from History"]
 door: >
   Life is not preordained. It is a cooperation between you and God - a creative flow that combines your choice and God's Will together in harmony
 last_edited: 2026-04-23

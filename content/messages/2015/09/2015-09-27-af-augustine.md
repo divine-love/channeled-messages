@@ -40,7 +40,7 @@ canonical_url: "https://divinelovesanctuary.com/his-love-clears-away-the-shadows
 notes: >
   Augustine references 'our dear friend Faith' as having given instruction —
   Faith appears to be another spirit communicator.
-significance: []
+essential_teachings: []
 door: >
   The fog that obscures your soul is not permanent. Love is already clearing it
 last_edited: 2026-04-13

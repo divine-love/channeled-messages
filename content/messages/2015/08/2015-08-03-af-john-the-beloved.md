@@ -38,7 +38,7 @@ related_messages: ["2014-12-01-af-john-the-beloved"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/follow-sweet-yearnings-soul-may-know-truth/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The sweet yearning you feel is your soul showing you the way to Truth
 last_edited: 2026-04-13

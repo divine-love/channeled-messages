@@ -52,12 +52,12 @@ notes: >
   Not publicly posted online. Message addressed partly to a specific individual
   within the Mormon Church. Questions reframed universally per archive convention.
   First and only message from Joseph Smith in the archive.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   The will of man usurps the Will of God. The imaginings and ideas of men create
   falsehoods and misinterpretations of the laws and Love of God.
-series: ["Letters from History", "Foundational Teachings"]
+collections: ["Letters from History", "Foundational Teachings"]
 door: >
   The will of man usurps the Will of God. The imaginings and ideas of men create falsehoods and misinterpretations of the laws and Love of God
 last_edited: 2026-05-01

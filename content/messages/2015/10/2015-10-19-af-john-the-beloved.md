@@ -37,7 +37,7 @@ related_messages: ["2015-10-19-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-are-becoming-gods-instruments-and-channels-of-love/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   Becoming a channel of Love is not a destination. It is a continuous unfolding
 last_edited: 2026-04-13

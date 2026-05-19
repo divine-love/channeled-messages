@@ -50,14 +50,14 @@ notes: >
   been used as an instrument. He closes by addressing her directly about
   Direct Voice development, indicating that her gifts are being utilized when
   the circle prays for this gift.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   When you look back upon your lives, you will feel as much gratitude for the
   difficult times as for the times of joy. For it is in the difficult times
   that the greatest progress is made and the most Love is infilled into your
   soul.
-series: ["Healing Path"]
+collections: ["Healing Path"]
 door: >
   When you look back upon your lives, you will feel as much gratitude for the difficult times as for the times of joy. It is in the difficult times that the greatest progress is made
 last_edited: 2026-04-23

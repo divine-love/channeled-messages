@@ -43,13 +43,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-soul-longs-for-the-touch-of-god/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   The soul seeks until it finds. It quietly goes about its business, seeking
   the Source of all. You may not consciously express this desire, yet it has
   brought you here. It has brought you to God.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The soul seeks until it finds. It quietly goes about its business, seeking the Source of all. And it has brought you here
 last_edited: 2026-04-23

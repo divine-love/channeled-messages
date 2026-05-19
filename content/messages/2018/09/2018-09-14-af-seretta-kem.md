@@ -48,11 +48,11 @@ canonical_url: "https://divinelovesanctuary.com/awaken-others-to-the-purpose-of-
 notes: >
   Delivered while the circle was attending what appears to be a spiritualist
   or psychic convention or seminar in Phoenix.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You are the emissaries of truth, spoken not in words but in light and love.
-series: []
+collections: []
 door: >
   You are the emissaries of truth, spoken not in words but in light and love
 last_edited: 2026-05-01

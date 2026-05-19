@@ -44,10 +44,10 @@ canonical_url: "https://divinelovesanctuary.com/the-emerging-growth-of-your-soul
 notes: >
   Received same evening as the Augustine message 2015-12-14-af-augustine. Spacing
   artifact corrected: double space before 'can' in second paragraph.
-significance: []
+essential_teachings: []
 language: en
 excerpt: "You cannot turn back, beloveds, but only move forward, move forward in Love."
-series: []
+collections: []
 door: >
   You cannot turn back. You can only move forward in Love
 last_edited: 2026-04-17

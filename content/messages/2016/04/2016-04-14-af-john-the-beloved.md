@@ -44,12 +44,12 @@ canonical_url: "https://divinelovesanctuary.com/each-day-has-the-potential-to-br
 notes: >
   Transcriber insertions rendered in square brackets throughout: [prayer circle
   in Abbotsford], [have], [who].
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Like the butterfly that flutters its wings and in some place creates the
   hurricane, so it is — these tiny flutters of Light will create change in time.
-series: []
+collections: []
 door: >
   Like the butterfly that flutters its wings and creates the hurricane, these tiny flutters of Light will create change
 last_edited: 2026-04-17

@@ -47,12 +47,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/ask-for-the-angels-help/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   None of you can do this alone. Ask for us. Ask for the angels to assist you.
   Ask for God to continue to open your soul that you may be awakened in love.
-series: []
+collections: []
 door: >
   None of you can do this alone. Ask for us. Ask for the angels to assist you. Ask for God to continue to open your soul that you may be awakened in love
 last_edited: 2026-05-01

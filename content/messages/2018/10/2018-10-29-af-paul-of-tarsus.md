@@ -49,14 +49,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-value-and-purpose-of-your-soul/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   A soul ignited in this blessing of Love will find that it craves and longs
   for it, this nurturance, this Divine Elixir that is the Essence of God.
 door: >
   Jesus said "seek ye the kingdom and all things shall come to you." His words refer to the blessing of Divine Love — for this creates the kingdom within your soul.
-series: ["Two Paths", "Foundational Teachings", "Letters from History"]
+collections: ["Two Paths", "Foundational Teachings", "Letters from History"]
 last_edited: 2026-05-05
 ---
 

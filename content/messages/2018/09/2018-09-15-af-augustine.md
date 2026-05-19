@@ -50,13 +50,13 @@ canonical_url: "https://divinelovesanctuary.com/augustine-comments-on-the-perspe
 notes: >
   Delivered following attendance at the AREI (Afterlife Research and Education
   Institute) conference in Phoenix, Arizona.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You are the innovators, beloveds, even though this truth is ancient. You are
   bringing to these scientifically-inclined individuals a greater science, the
   science of the soul.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   You are the innovators, beloveds, even though this truth is ancient. You are bringing to these scientifically-inclined individuals a greater science, the science of the soul
 last_edited: 2026-05-01

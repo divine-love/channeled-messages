@@ -45,13 +45,13 @@ notes: >
   with the circle's approach. He addresses two souls who have "journeyed
   far" - likely Al Fike and his partner. Delivered in New York, NY. Not
   publicly posted online.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   The journeys will continue and you will come again and again to those who
   desire your presence - for greater prayers, for greater love. This is your
   purpose and a mission and a calling.
-series: []
+collections: []
 door: >
   The journeys will continue and you will come again and again to those who desire your presence. This is your purpose and calling
 last_edited: 2026-04-23

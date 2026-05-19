@@ -51,14 +51,14 @@ notes: >
   Two minor transcription artifacts corrected: space before comma in 'When this
   is so , many things' and missing space in 'acknowledgement of God.It is
   useful.'
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   If within a message there is no mention of God's Love, that it is not about the
   opening and flowering of the soul — it is not from an angel. You must discern
   for yourself through your own soul's acknowledgement what comes through as
   true.
-series: ["Healing Path"]
+collections: ["Healing Path"]
 door: >
   The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit
 last_edited: 2026-04-17

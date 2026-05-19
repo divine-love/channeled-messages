@@ -50,13 +50,13 @@ notes: >
   California, founded by Yogananda himself. Parenthetical transcriber notation
   converted to square brackets: [laughter]. Yogananda addresses 'my friend (J W)'
   who introduced the group to the sanctuary.
-significance: ["Key Teaching", "Biographical", "Historical"]
+essential_teachings: ["Core Teaching", "Spirit Biography", "Historical"]
 language: en
 excerpt: >
   Each of you may bring some teaching to the world as your souls are ignited and
   aflame with Love. It takes all of us from many different religions and
   backgrounds who have seen the higher Truth of Love to bring this forward.
-series: ["Letters from History"]
+collections: ["Letters from History"]
 door: >
   When different souls bring their truth together, they create something more beautiful than any one of them could alone
 last_edited: 2026-04-23

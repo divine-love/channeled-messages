@@ -47,7 +47,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/compassion-as-an-expression-of-love-for-self-and-others/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Compassion is an act of love. It wells up from the soul and is a loving gesture
@@ -55,7 +55,7 @@ excerpt: >
   who are in pain.
 door: >
   When you gaze upon another with eyes of love, compassion often accompanies your interaction. It is a signal that God is working through you — for this gift of compassion is the Hand of God reaching through you to others.
-series: []
+collections: []
 last_edited: 2026-05-05
 ---
 

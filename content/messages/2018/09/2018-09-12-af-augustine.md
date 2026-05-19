@@ -45,13 +45,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/awaken-your-gifts-through-love/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Allow these gifts that God has given you and will ignite within your soul to
   expand and be expressed and come awake within you, so that you may help to
   awaken mankind to the truth of His Love.
-series: []
+collections: []
 door: >
   Allow these gifts that God has given you and will ignite within your soul to expand and be expressed and come awake within you
 last_edited: 2026-05-01

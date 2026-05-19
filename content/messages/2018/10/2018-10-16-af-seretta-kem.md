@@ -48,14 +48,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/a-kaleidoscope-of-light/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   An entire garden of gifts lays within your soul, these seeds varied and unique.
   What may come will be surprising and delightful.
 door: >
   An entire garden of gifts lays within your soul. As God brings His living waters in, the seeds germinate and the flora of your soul bears fruit that will nurture many others.
-series: ["Foundational Teachings"]
+collections: ["Foundational Teachings"]
 last_edited: 2026-05-05
 ---
 

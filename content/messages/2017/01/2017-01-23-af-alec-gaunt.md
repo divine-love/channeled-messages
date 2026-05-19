@@ -50,12 +50,12 @@ canonical_url: "https://divinelovesanctuary.com/changes-within-soul-will-bring-m
 notes: >
   Two corrections: 'andwe who assist you' corrected to 'and we who assist you';
   'you maybe distracted' corrected to 'you may be distracted'.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   That outward conscious manifestation of who you are is a sort of paper tiger.
   It is a picture of what you have experienced in life. It is not your true self.
-series: ["Mind & Soul", "Healing Path"]
+collections: ["Mind & Soul", "Healing Path"]
 door: >
   The outward self you cling to is a paper tiger. Your true self, with all its gifts and treasures, is waiting inside your soul
 last_edited: 2026-04-23

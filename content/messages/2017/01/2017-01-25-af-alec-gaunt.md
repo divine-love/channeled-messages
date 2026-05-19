@@ -45,13 +45,13 @@ notes: >
   Alec mentions having visited this church many times both in the flesh and in
   spirit, indicating a long-standing connection to the Burnaby spiritual
   community.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You are building a great foundation within you as you continue to pursue your
   spiritual growth and development. God will be with you and you will feel the
   strength and the comfort and the joy of this presence, always.
-series: []
+collections: []
 door: >
   The greatest fulfillment your soul can experience is simply to be with God
 last_edited: 2026-04-23

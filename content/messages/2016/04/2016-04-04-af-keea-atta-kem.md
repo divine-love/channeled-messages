@@ -49,13 +49,13 @@ notes: >
   corrected throughout. She addresses three individuals by initial only (J., H.,
   and A. — the last being Al Fike, the instrument). Personal messages have been
   retained as received; names withheld per convention.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   If you think of light passing through a prism — the light within your soul
   brings this effect, refracted and changed by the prism of God's Love, each
   beautiful color a gift.
-series: ["Prism of the Soul"]
+collections: ["Prism of the Soul"]
 door: >
   The light within your soul refracts through the prism of God's Love, each colour a unique gift
 last_edited: 2026-04-17

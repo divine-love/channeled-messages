@@ -48,13 +48,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-are-ready-to-step-forward/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   You are on the verge of great transformation, not only personally but in this
   world. You will know a great joy as God's plan unfolds and you awaken to a new
   dawn, the Dawn of Love.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 door: >
   You are on the verge of great transformation, not only personally but in this world. You will know a great joy as God's plan unfolds and you awaken to a new dawn, the Dawn of Love
 last_edited: 2026-05-01

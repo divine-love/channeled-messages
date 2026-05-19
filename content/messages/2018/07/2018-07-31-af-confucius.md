@@ -37,11 +37,11 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/a-special-blessing-given/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You carry the waters of life and you shall quench the thirst of many in this world.
-series: []
+collections: []
 door: >
   Many, many doors are opening. Walk willingly into this lighted passage of service and many blessings and miracles will follow in your stead
 last_edited: 2026-04-30

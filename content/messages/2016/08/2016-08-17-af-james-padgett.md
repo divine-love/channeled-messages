@@ -49,12 +49,12 @@ notes: >
   Divine Love truth out of fear for his reputation — significant biographical
   content. Jesus mentioned as the example of teaching through personal example
   and healing; added to spirits field.
-significance: ["Key Teaching", "Biographical"]
+essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >
   The minds of men hunger for the reality that words create, but the soul hungers
   for Love — and it is your embrace that will touch another soul.
-series: ["Service & Mission", "Letters from History"]
+collections: ["Service & Mission", "Letters from History"]
 door: >
   Your unique story of Love is all you need, and your embrace will touch souls your words alone never could
 last_edited: 2026-04-17

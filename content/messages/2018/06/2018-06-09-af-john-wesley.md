@@ -48,13 +48,13 @@ canonical_url: "https://divinelovesanctuary.com/all-truth-begins-with-the-soul-a
 notes: >
   Wesley identifies himself at the close as the founder of Methodism and a
   current inhabitant of the Celestial Kingdom.
-significance: ["Key Teaching", "Historical", "Biographical"]
+essential_teachings: ["Core Teaching", "Historical", "Spirit Biography"]
 language: en
 excerpt: >
   All Truth begins with Love. For Love is what makes the universe what it is.
   It brings life. Understand this, and you come a long way to truly
   understanding yourselves and the nature of God's Creation.
-series: ["Letters from History", "Mind & Soul", "Awakening Humanity"]
+collections: ["Letters from History", "Mind & Soul", "Awakening Humanity"]
 door: >
   All Truth begins with Love. For Love is what makes the universe what it is. It brings life
 last_edited: 2026-04-23

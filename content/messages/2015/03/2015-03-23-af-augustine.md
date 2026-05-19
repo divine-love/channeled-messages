@@ -38,12 +38,12 @@ notes: >
   Delivered in New York, NY — Al Fike appears to have been visiting or on a
   trip. "This building" refers to a specific venue in New York whose identity
   is not recorded. Not publicly posted online.
-significance: ["Prophetic"]
+essential_teachings: ["Prophecy"]
 language: en
 excerpt: >
   They will fill this building and the hosannas will rise to God. Guidance
   will be given concerning this place when the time is right.
-series: []
+collections: []
 door: >
   They will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right
 last_edited: 2026-04-23

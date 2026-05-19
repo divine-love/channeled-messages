@@ -52,12 +52,12 @@ canonical_url: "https://divinelovesanctuary.com/nurturing-the-mind-or-the-soul-i
 notes: >
   Two corrections from source text: typo 'Iit' corrected to 'It'; paragraph break
   added after 'to bring true healing to you' for readability.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   A yearning soul is the key that will unlock the door to God — and a curious
   mind is but a symptom of the yearning soul.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The yearning itself is the prayer, and the crack in the armor of the mind is where God enters
 last_edited: 2026-04-17

@@ -39,7 +39,7 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/express-the-truth-to-others-padgett-talks-of-why-this-is-so-important/"
-significance: ["Historical", "Biographical"]
+essential_teachings: ["Historical", "Spirit Biography"]
 notes: >
   James Padgett speaks at the August 2015 international retreat. He reflects on
   his own struggles with doubt and fear during his years as medium, and expresses

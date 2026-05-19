@@ -39,7 +39,7 @@ canonical_url: "https://divinelovesanctuary.com/so-many-in-the-unseen-world-bene
 notes: >
   Seretta Kem's name was misspelled as 'Serreta Kem' in the opening line of the
   source text. Corrected.
-significance: []
+essential_teachings: []
 door: >
   Your prayers reach into the spirit world and bring healing to souls you will never meet in this life
 last_edited: 2026-04-13

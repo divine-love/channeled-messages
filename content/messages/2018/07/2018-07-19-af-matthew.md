@@ -46,12 +46,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/death-can-be-a-joyful-transitioning-to-spirit/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   The transition to the world of spirit will be celebrated — a changing of the conditions
   in which a soul lives and operates. It is nothing more than this.
-series: ["Mind & Soul", "Foundational Teachings"]
+collections: ["Mind & Soul", "Foundational Teachings"]
 door: >
   The transition to the world of spirit will be celebrated — a changing of the conditions in which a soul lives and operates. It is nothing more than this
 last_edited: 2026-04-30

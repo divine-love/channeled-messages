@@ -50,13 +50,13 @@ notes: >
   Yogananda references an earlier invitation he gave to visit India, and speaks
   directly to the group's deliberations about whether to proceed with the
   journey. He also anticipates speaking in Direct Voice in the future.
-significance: ["Biographical"]
+essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >
   God will never turn away from you no matter what you decide. But if every
   invitation is rejected, these invitations will cease, for God respects your
   free will. He waits until you are ready.
-series: ["Service & Mission", "Letters from History"]
+collections: ["Service & Mission", "Letters from History"]
 door: >
   God will never turn away from you no matter what you decide. But if every invitation is rejected, the invitations will cease
 last_edited: 2026-04-23

@@ -47,12 +47,12 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: "Not publicly posted online."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You will be given the opportunities to bring comfort to many and show them
   the way to Truth, the way to Love, the way to give back to this beautiful Earth.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 door: >
   You do indeed live in interesting times, a great shift of consciousness in the world. Very few will know what this means — and you will convey this knowledge and bring comfort to many
 last_edited: 2026-05-01

@@ -43,13 +43,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/gods-love-awakens-the-gifts-of-the-soul/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Within you, my beloveds, is a beautiful garden made from the gifts that God
   has planted, creating a unique and beautiful soul. What brings the soul alive
   is the Light of God's Love, igniting all the potentials within.
-series: ["Prism of the Soul"]
+collections: ["Prism of the Soul"]
 door: >
   God has planted a whole universe within you. It takes only one prayer to begin bringing it alive
 last_edited: 2026-04-23

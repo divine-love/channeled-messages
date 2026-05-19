@@ -42,13 +42,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-law-of-change/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   When you resist, then comes the pain — but as you go with the flow of change
   which in your hearts and souls you know is right, there will be no pain but a
   rejoicing for what will come.
-series: []
+collections: []
 door: >
   Change itself is the path, not an obstacle to it
 last_edited: 2026-04-17

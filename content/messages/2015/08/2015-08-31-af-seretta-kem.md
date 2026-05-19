@@ -41,7 +41,7 @@ canonical_url: "https://divinelovesanctuary.com/the-world-is-changing-and-needs-
 notes: >
   Message opens with a reference to the medium being in physical pain, which
   Seretta Kem uses as a teaching moment about the soul's influence over the body.
-significance: []
+essential_teachings: []
 door: >
   The world's need for souls in service is urgent, and you already have what it takes
 last_edited: 2026-04-13

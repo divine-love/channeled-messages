@@ -44,12 +44,12 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: "Not publicly posted online."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Do you recognize your two selves, the one which is human and the one which is
   your soul?
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   Do you recognize your two selves, the one which is human and the one which is your soul?
 last_edited: 2026-04-30

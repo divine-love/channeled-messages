@@ -45,14 +45,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/awakening-of-your-gifts-requires-gods-love-faith-and-timing/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You only see the tip of the iceberg - a small portion of the service you
   give to humanity. For as you pray together, you activate blessings going
   out to many others whose souls desire these blessings, though their minds
   may not be aware.
-series: ["Prism of the Soul"]
+collections: ["Prism of the Soul"]
 door: >
   You only see the tip of the iceberg. As you pray together, you activate blessings going out to many others whose souls are longing - though their minds may not know it
 last_edited: 2026-04-23

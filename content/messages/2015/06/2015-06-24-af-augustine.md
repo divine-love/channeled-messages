@@ -47,12 +47,12 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: "Not publicly posted online."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   The soul is made in the image of the Creator and the Divine Love is the Essence
   of the Creator. So the image becomes the substance with this blessing.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The soul is made in the image of the Creator and the Divine Love is the Essence of the Creator. So the image becomes the substance with this blessing
 last_edited: 2026-05-01

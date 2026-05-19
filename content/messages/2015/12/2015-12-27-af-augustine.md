@@ -42,12 +42,12 @@ notes: >
   Transcription artifact corrected: comma added after 'understandings' —
   'understandings knowledge of Truth' changed to 'understandings, knowledge of
   Truth'.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   It will come clear like a newborn whose vision is blurry and indistinct — you
   will come to know this part of you, your soul mind.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The soul mind is awakening within you, like a newborn whose vision is blurry but becoming clear
 last_edited: 2026-04-17

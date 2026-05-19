@@ -47,12 +47,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/be-discerning-wise-and-true-to-gods-will/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Much of the work you do is hidden but goes very deep as you plant seeds of
   truth, as God blesses many through you, soul to soul.
-series: []
+collections: []
 door: >
   Much of the work you do is hidden but goes very deep as you plant seeds of truth, as God blesses many through you, soul to soul
 last_edited: 2026-05-01

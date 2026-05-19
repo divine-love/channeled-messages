@@ -33,7 +33,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/embrace-those-that-are-coming-and-embrace-the-flow-of-gods-love/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The doors God opens are not always the ones you were expecting
 last_edited: 2026-04-13

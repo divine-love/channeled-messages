@@ -37,7 +37,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-conditions-within-hold-back/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The conditions holding you back are not permanent. They are ready to be released
 last_edited: 2026-04-13

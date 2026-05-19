@@ -39,7 +39,7 @@ canonical_url: "https://divinelovesanctuary.com/take-time-to-come-to-firmer-grou
 notes: >
   Received on the same day as the Augustine message about the newborn soul. Both
   address the post-retreat experience of inner shifting and uncertainty.
-significance: []
+essential_teachings: []
 door: >
   Stillness is not inaction. It is the foundation from which all true action comes
 last_edited: 2026-04-13

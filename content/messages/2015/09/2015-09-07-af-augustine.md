@@ -38,7 +38,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/like-a-newborn-the-eyes-of-your-soul-begin-to-open-bringing-shifts-and-changes-of-perception/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The disorientation you feel is not confusion. It is your soul's eyes learning to see
 last_edited: 2026-04-13

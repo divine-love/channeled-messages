@@ -50,14 +50,14 @@ notes: >
   when the culture was at its peak, confirms he walks the Divine Path and
   inhabits the Celestial Kingdom. Delivered in New York, NY. Not publicly
   posted online.
-significance: ["Key Teaching", "Biographical"]
+essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >
   The greatest healing of all is obtained through the inflowing of God's
   Essence, His Divine Love. As it enters you, every cell of your body, all
   the energies of your spirit, and all aspects of your mind are transformed
   by this Love.
-series: ["Healing Path"]
+collections: ["Healing Path"]
 door: >
   The greatest healing of all is obtained through the inflowing of God's Essence. Every cell, every energy, every aspect of your mind is transformed
 last_edited: 2026-04-23

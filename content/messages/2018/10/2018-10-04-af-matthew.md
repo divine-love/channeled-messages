@@ -45,14 +45,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/go-naked-to-god-in-joy/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Release your cloaks, go naked to God, bare your souls. Be free of all that
   encroaches upon it and be with God.
 door: >
   Release your cloaks, go naked to God, bare your souls. Be free of all that encroaches upon it and be with God.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 last_edited: 2026-05-01
 ---
 

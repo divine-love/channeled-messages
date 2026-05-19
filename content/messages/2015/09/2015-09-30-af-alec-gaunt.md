@@ -39,7 +39,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/go-within-in-order-to-know-gods-will-for-you/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The answers you are seeking from others are already within you
 last_edited: 2026-04-13

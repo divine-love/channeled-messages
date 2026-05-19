@@ -46,12 +46,12 @@ canonical_url: ""
 notes: >
   Not publicly posted online. Personal message from Al Fike's mother in spirit,
   addressed to her grandson. Questions reframed universally per archive convention.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You have the advantage of knowing this truth of God's Love now, in your youth.
   Imagine what you can do with it.
-series: []
+collections: []
 door: >
   You create an oasis, a place of respite for all who wish to partake of this beautiful blessing and healing and peace
 last_edited: 2026-05-01

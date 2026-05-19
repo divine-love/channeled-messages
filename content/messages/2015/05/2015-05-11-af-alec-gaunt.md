@@ -45,12 +45,12 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: "Not publicly posted online."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   This network of Light, these wonderful connections all around the world, which will
   intensify and multiply, are a part of God's plan.
-series: []
+collections: []
 door: >
   As one steps forward, you all step forward
 last_edited: 2026-04-30

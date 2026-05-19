@@ -48,14 +48,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/seretta-kem-talks-of-the-service-that-may-come/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   You are but one component of a vast network that is being built and will
   flourish with the hand of God upon it.
 door: >
   You are but one component of a vast network that is being built and will flourish with the hand of God upon it.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 last_edited: 2026-05-05
 ---
 

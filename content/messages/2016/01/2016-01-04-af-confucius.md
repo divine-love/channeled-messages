@@ -46,12 +46,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/accepting-the-new-awarenesses-of-an-opening-soul/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   There may be nothing between your mind and your soul — a merging of
   consciousness, if you will.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   There may be nothing between your mind and your soul - a merging of consciousness
 last_edited: 2026-04-17

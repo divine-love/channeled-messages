@@ -53,13 +53,13 @@ notes: >
   Four corrections from source text: 'fishers' corrected to 'fissures'; 'bring
   froth' corrected to 'bring forth'; 'the Dive Love' corrected to 'the Divine
   Love'; 'knowing's' corrected to 'knowings'.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   There is always a crack in the armor. God may find a way through this seemingly
   impenetrable condition of encrustations. There is always some route to the soul
   which God, through His Holy Spirit, will find.
-series: ["Healing Path"]
+collections: ["Healing Path"]
 door: >
   There is always a crack in the armor. God always finds a way through
 last_edited: 2026-04-23

@@ -40,11 +40,11 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Not publicly posted online. Comma removed after "judgements" in the sentence beginning "All of these emotions and thoughts and judgements can be turned into opportunities."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Your understanding will come in leaps and bounds, and in trickles, and then slow, and then running.
-series: []
+collections: []
 door: >
   Each time you make this effort, the struggle for something higher, you feel a little more joy within your souls
 last_edited: 2026-04-30

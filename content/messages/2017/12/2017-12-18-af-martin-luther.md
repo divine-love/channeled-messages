@@ -45,14 +45,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-responsibility-of-acting-in-love-lies-with-you/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You are babies no longer. It is time that you take those steps of maturity.
   This requires conscious efforts, the recognition of your own responsibilities
   and the desire for the highest, the greatest good, the most Love that is
   possible.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   You are babies no longer. The phase of application has begun
 last_edited: 2026-04-23

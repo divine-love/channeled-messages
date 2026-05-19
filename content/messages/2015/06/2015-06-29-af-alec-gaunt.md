@@ -40,7 +40,7 @@ notes: >
   Message references a garden sanctuary being developed by the medium and alludes
   to 'coming days of disruption and difficulty' and 'two choices for humanity.'
   Jesus is mentioned as having asked the group to come together.
-significance: []
+essential_teachings: []
 door: >
   God cannot fully use you until you are willing to let Him heal the places you are still protecting
 last_edited: 2026-04-13

@@ -50,13 +50,13 @@ canonical_url: "https://divinelovesanctuary.com/the-awakening-of-your-souls-brin
 notes: >
   Website title contained a grammatical error ("Your Soul's Brings"). Corrected
   to "The Awakening of Your Souls Brings the Message of Truth to Humanity."
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   Even when you are sitting in your home doing idle things, you still send out
   this signal of light into the world. It is always with you, for it is truly
   a part of you.
-series: ["Foundational Teachings"]
+collections: ["Foundational Teachings"]
 door: >
   As you walk in the world a bell tolls with your presence, calling your brothers and sisters to prayer, stimulating that part of their souls that longs for God
 last_edited: 2026-05-01

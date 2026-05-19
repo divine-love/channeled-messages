@@ -37,7 +37,7 @@ questions:
 related_messages: ["2015-10-26-af-seretta-kem"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-merkaba/"
-significance: ["Healing"]
+essential_teachings: ["Divine Healing"]
 notes: >
   Message received after the prayer circle created a healing merkaba. Editor's
   note in source: 'This message came through after our prayer circle created a

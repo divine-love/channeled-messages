@@ -41,7 +41,7 @@ canonical_url: "https://divinelovesanctuary.com/speaking-divine-love-retreat-gro
 notes: >
   Message given during an international Divine Love retreat gathering. Part of a
   series of retreat-related messages from Augustine.
-significance: []
+essential_teachings: []
 door: >
   God is always opening new possibilities. Your only task is to remain open
 last_edited: 2026-04-13

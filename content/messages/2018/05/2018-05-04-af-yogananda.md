@@ -47,13 +47,13 @@ notes: >
   friend," referring to the invitation to visit India given in an earlier message
   (2017-10-25). References to music, song, and the role of minstrel suggest this
   person is a musician.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Everything has led to this point. From this point many things will flow in
   harmony. You will not have to yearn and struggle and seek to find your way,
   for the path will open and you will see for yourself God's Plan for you.
-series: ["Letters from History", "Service & Mission"]
+collections: ["Letters from History", "Service & Mission"]
 door: >
   Everything has led to this point. From this point many things will flow in harmony. You will not have to struggle to find your way - the path will open
 last_edited: 2026-04-23

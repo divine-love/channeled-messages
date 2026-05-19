@@ -42,7 +42,7 @@ notes: >
   Received on the same day as the Augustine message. Faith reflects on her own
   Earth life, noting she lived God's Love but did not articulate the Truth of
   Divine Love clearly due to the indoctrinations of her time.
-significance: []
+essential_teachings: []
 door: >
   God is never disappointed in you. Only your own expectations disappoint you
 last_edited: 2026-04-13

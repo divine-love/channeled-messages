@@ -47,13 +47,13 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/time-accept-new-way/"
 notes: >
   Matthew came because Al Fike had read one of his messages in the Padgett Messages book Judas of Kerioth.
-significance: ["Prophetic"]
+essential_teachings: ["Prophecy"]
 language: en
 excerpt: >
   You live in a very special time — a time of further awakening of mankind, a
   time of healing this world, a time of bringing more truth and light and love.
   You have been asked to forge this path.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The reality you have built in your mind is not the only reality. Letting go of it is liberation, not loss
 last_edited: 2026-04-17

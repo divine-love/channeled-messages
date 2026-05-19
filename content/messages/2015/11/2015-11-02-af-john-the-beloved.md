@@ -38,7 +38,7 @@ notes: >
   The website title and message body used 'yolk' — corrected to 'yoke' (a burden
   or chain) throughout. A missing closing quotation mark was also added after 'I
   am in it.'
-significance: []
+essential_teachings: []
 door: >
   The yoke you are carrying was never meant for you. It can be laid down
 last_edited: 2026-04-13

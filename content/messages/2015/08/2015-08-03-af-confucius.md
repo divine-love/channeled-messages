@@ -37,7 +37,7 @@ related_messages: ["2015-06-24-af-confucius"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/many-gifts-lie-within/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The gifts you have been given are already within you, waiting to be recognised
 last_edited: 2026-04-13

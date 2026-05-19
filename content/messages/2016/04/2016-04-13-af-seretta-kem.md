@@ -48,12 +48,12 @@ notes: >
   healing energy of all is God's Divine Love ense, beyond measure' changed to
   'the power of God's Love is the greatest healing energy of all — God's Divine
   Love, His Essence, beyond measure'.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   There is only one blessing which cannot be given from one to another. For it to
   enter your soul it must be given by God through your longing and prayers.
-series: []
+collections: []
 door: >
   There is only one blessing that cannot be given from one person to another. It must come directly from God
 last_edited: 2026-04-17

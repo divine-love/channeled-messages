@@ -43,12 +43,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/we-will-be-with-you/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   We will be with you, beloveds. Keep us with you in your consciousness and
   prayers and you will be protected.
-series: []
+collections: []
 door: >
   You are my little birds and I keep you in my nest of love, beloveds
 last_edited: 2026-05-01

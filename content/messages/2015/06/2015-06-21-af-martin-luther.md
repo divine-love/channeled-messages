@@ -38,7 +38,7 @@ canonical_url: "https://divinelovesanctuary.com/gods-will-mans-will/"
 notes: >
   Message references 'this structure (the World Healing Centre)' suggesting it
   was received in the context of a specific building project or spiritual centre.
-significance: []
+essential_teachings: []
 door: >
   Religious error can be held sincerely, and sincerely held error still needs to be released
 last_edited: 2026-04-13

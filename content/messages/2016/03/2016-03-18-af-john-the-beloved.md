@@ -44,12 +44,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/talk-on-service-to-god-2/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You and God are bonded for all eternity, and you shall continue to serve Him in
   ever greater, deeper and more wondrous ways as you become closer to Him.
-series: ["Service & Mission"]
+collections: ["Service & Mission"]
 door: >
   You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways
 last_edited: 2026-04-17

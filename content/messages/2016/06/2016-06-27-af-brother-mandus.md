@@ -47,13 +47,13 @@ notes: >
   Nyquist; to be confirmed if addressed in future messages. Message opens
   mid-sentence ('…. to receive the benediction') suggesting the recording began
   partway through.
-significance: ["Biographical", "Historical"]
+essential_teachings: ["Spirit Biography", "Historical"]
 language: en
 excerpt: >
   To be humble and loving, to be clear and strong in your faith — this is what is
   required. It does not require a personality, a strong man or woman. It requires
   a soul earnest, simple, clear and loving, close to God.
-series: ["Letters from History"]
+collections: ["Letters from History"]
 door: >
   What is needed is not a strong personality but a humble, prayerful soul
 last_edited: 2026-04-17

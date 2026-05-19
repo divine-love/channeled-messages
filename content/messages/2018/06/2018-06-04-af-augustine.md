@@ -49,13 +49,13 @@ canonical_url: "https://divinelovesanctuary.com/transitioning-from-mind-to-soul/
 notes: >
   Augustine opens by responding to a specific question from someone in the
   circle about confusion and conflicting inner states during spiritual growth.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   Within you there are two minds - one of the soul and one of the material
   mind. As you transition between them there is conflict. This is not failure.
   It is a sign you are ready to take the leap of faith toward soul dominance.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The soul is stronger. The soul knows. And the soul needs to forge ahead - to realize its purpose in this life, and to serve God in Love
 last_edited: 2026-04-23

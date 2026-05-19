@@ -41,11 +41,11 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Not publicly posted online. Received on the same day as the Andrew message 2015-05-04-af-andrew.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Walk in the Light, my beloveds, and do not allow the negative conditions of this world to impinge upon this work that you have committed together to do.
-series: []
+collections: []
 door: >
   You must all be aware of each step that you take, each word that you speak, each feeling that you feel
 last_edited: 2026-04-30

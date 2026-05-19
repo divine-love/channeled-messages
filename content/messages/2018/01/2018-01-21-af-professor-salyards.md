@@ -41,11 +41,11 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/who-will-bring-the-truth-to-this-world/"
 notes: >
   Professor Salyards was a close friend and former instructor of James Padgett, and one of the first spirits to communicate with Padgett through automatic writing. His messages in the Padgett collection addressed spiritual laws, the Law of Compensation, and Divine Love.
-significance: ["Prophetic", "Historical"]
+essential_teachings: ["Prophecy", "Historical"]
 language: en
 excerpt: >
   How will the world change if not by this awakening of the soul, the faculties of the soul, the desires of the soul, the connection of the soul to God and God to the soul?
-series: []
+collections: []
 door: >
   How will the world change if not by this awakening of the soul, the faculties of the soul, the connection of the soul to God?
 last_edited: 2026-04-23

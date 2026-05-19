@@ -43,12 +43,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-awakening-of-humanity/"
 notes: ""
-significance: ["Prophetic"]
+essential_teachings: ["Prophecy"]
 language: en
 excerpt: >
   You are the first tender shoots of this spring that is dawning for mankind —
   you are awakening, my beloveds.
-series: []
+collections: []
 door: >
   You are the first tender shoots of a spring that is dawning for all of mankind
 last_edited: 2026-04-17

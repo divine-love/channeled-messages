@@ -35,11 +35,11 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Not publicly posted online. Closing blessing of an evening gathering, received on the same day as the Andrew and Augustine messages.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You have great aspirations, my beloved beautiful souls, to be God's willing channels in the world of Love.
-series: []
+collections: []
 door: >
   Bless you, beloved souls, who reach eagerly for greater Light and service
 last_edited: 2026-04-30

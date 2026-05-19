@@ -48,14 +48,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-integration-of-the-material-mind-with-the-soul-mind/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   The soul stirs and awakens, emanating a deep desire for more of this sustenance,
   these living waters, to refresh the parched soul, to enliven all that is the soul.
 door: >
   As the soul and mind embrace in joyful recognition, they begin to merge until there is no sense of separation — only the singular consciousness of the soul mind and material mind as one.
-series: ["Mind & Soul", "Foundational Teachings"]
+collections: ["Mind & Soul", "Foundational Teachings"]
 last_edited: 2026-05-05
 ---
 

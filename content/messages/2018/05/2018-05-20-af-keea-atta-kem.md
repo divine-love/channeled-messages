@@ -38,13 +38,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/make-arrangements-to-come-together/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   When you are together in love and harmony, sitting and praying together, there
   is indeed great benefit and many blessings. The possibilities of upliftment
   and awakening are far greater when you are together in this way.
-series: []
+collections: []
 door: >
   When you are together in love and harmony, sitting and praying in the flesh, the possibilities of awakening are far greater than when you are apart
 last_edited: 2026-04-23

@@ -42,7 +42,7 @@ canonical_url: "https://divinelovesanctuary.com/confucius-urges-group-participan
 notes: >
   Closing message of the August 2015 Gibsons Retreat. Confucius sends each
   participant home with a unique calling to start their own Circle of Light.
-significance: []
+essential_teachings: []
 door: >
   Every city, every town, every home can become a point of Light in the world
 last_edited: 2026-04-13

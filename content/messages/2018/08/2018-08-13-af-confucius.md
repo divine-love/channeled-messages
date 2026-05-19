@@ -36,12 +36,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/confucius-blesses-us/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   God does not withhold His Love and blessings from His children but beseeches
   each child to partake of what God has to give.
-series: []
+collections: []
 door: >
   God does not withhold His Love and blessings from His children but beseeches each child to partake of what God has to give
 last_edited: 2026-05-01

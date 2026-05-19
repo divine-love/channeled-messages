@@ -41,13 +41,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/your-efforts-are-blessed-ten-times-over/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Any small effort you make, even in prayer, is blessed ten times over by God.
   This is the generosity of God's Love for you, beloved souls - that whatever
   you may do is indeed blessed mightily by God.
-series: ["Service & Mission"]
+collections: ["Service & Mission"]
 door: >
   Any small effort you make, even in prayer, is blessed ten times over by God. This is the generosity of God's Love for you
 last_edited: 2026-04-23

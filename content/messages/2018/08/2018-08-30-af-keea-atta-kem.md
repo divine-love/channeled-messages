@@ -52,12 +52,12 @@ canonical_url: "https://divinelovesanctuary.com/circles-of-light/"
 notes: >
   Spirit's name appears as "Kea Atta Kem" in the opening salutation. Standardised
   to established form Keea Atta Kem throughout.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   The light in the centre of these circles is great and often an angel stands in
   the centre in deep prayer, drawing great blessings to your midst.
-series: ["Foundational Teachings"]
+collections: ["Foundational Teachings"]
 door: >
   Each soul in the circle is supported by an angel who stands behind them, with their hands upon them in prayer
 last_edited: 2026-05-01

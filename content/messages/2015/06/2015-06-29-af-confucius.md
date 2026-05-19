@@ -47,13 +47,13 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: "Not publicly posted online."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You are entering the calm before the storm. When you enter the storm you must
   be clothed in the raiments of Light and strong in your relationship with your
   Heavenly Father.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 door: >
   You are entering the calm before the storm. When you enter the storm you must be clothed in the raiments of Light and strong in your relationship with your Heavenly Father
 last_edited: 2026-05-01

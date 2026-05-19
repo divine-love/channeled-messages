@@ -48,7 +48,7 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/listen-to-your-soul-not-the-illusions-of-your-mind/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   The true reality is within you, within your soul and your relationship with
@@ -56,7 +56,7 @@ excerpt: >
   your perceptions of yourself and the world.
 door: >
   Draw your line, beloved souls — your line against darkness and error, your line against self-hatred. I am a child of God and I shall live accordingly.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 last_edited: 2026-05-05
 ---
 

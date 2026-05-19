@@ -49,13 +49,13 @@ notes: >
   Received in the same circle as 2017-09-12-af-confucius, which appears to have
   been a brief opening message from Confucius before Augustine delivered this
   fuller teaching.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   There is so much to learn, and yet there is so much to unlearn. As this process
   moves forward, you will see with clarity, a vibrancy, a beauty, a knowing that
   cannot be had in any other way than a soul awakened in Love.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   There is so much to learn, and yet there is so much to unlearn
 last_edited: 2026-04-23

@@ -50,14 +50,14 @@ canonical_url: "https://divinelovesanctuary.com/release-judgment-embrace-love/"
 notes: >
   Direct continuation of themes from 2018-06-24-af-luke, addressed to the
   same circle the following day.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   You will know when you have passed the test. For when you gaze upon one who
   has challenged you, and rather than the old pattern there is love, compassion,
   and forgiveness - you have overcome a barrier to love and become stronger in
   Light.
-series: ["Mind & Soul", "Healing Path"]
+collections: ["Mind & Soul", "Healing Path"]
 door: >
   You will know when you have passed the test. When you gaze upon one who has challenged you and find love, compassion, and forgiveness - you have become stronger in Light
 last_edited: 2026-04-23

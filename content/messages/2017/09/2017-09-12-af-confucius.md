@@ -43,13 +43,13 @@ canonical_url: "https://divinelovesanctuary.com/the-time-approaches/"
 notes: >
   Confucius opens by noting that many angels wish to speak, suggesting this was a
   brief message at the start of a longer circle.
-significance: ["Prophetic"]
+essential_teachings: ["Prophecy"]
 language: en
 excerpt: >
   All of those years of prayers, of coming together with the longing of the soul,
   will open up these doors as God continues to bless you and helps you to see
   beyond the limitations of your minds.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 door: >
   All those years of prayer are about to open doors you have not yet imagined
 last_edited: 2026-04-23

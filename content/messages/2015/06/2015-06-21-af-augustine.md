@@ -36,7 +36,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-metaphor-of-the-bruised-apple/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   What looks bruised and damaged to you may be exactly what God is healing from the inside
 last_edited: 2026-04-13

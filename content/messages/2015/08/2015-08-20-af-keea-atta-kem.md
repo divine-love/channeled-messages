@@ -38,7 +38,7 @@ related_messages: ["2015-05-18-af-augustine"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/keea-instructs-a-group-to-go-to-their-souls-and-live-from-that-place-rather-than-the-material-mind/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   Your soul already knows what your mind is still arguing about
 last_edited: 2026-04-13

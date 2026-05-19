@@ -43,13 +43,13 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/new-thresholds-new-life/"
 notes: "Punctuation corrected: 'challenges that will come/ You' corrected to 'challenges that will come. You'."
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Life conspires to bring growth, awakenings, understandings, lessons to learn,
   things to overcome, choices to make, love to give. This is life and this is a
   good life.
-series: []
+collections: []
 door: >
   Life conspires to bring growth. It is not stale and static but full of movement and openings
 last_edited: 2026-04-23

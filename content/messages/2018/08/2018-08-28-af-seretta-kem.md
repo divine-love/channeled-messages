@@ -49,12 +49,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/elevate-your-gifts-through-divine-love/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   With the gift of Divine Love, there are no limitations to these blessings. There
   is an elevation of the gifts of each soul ignited by the Divine Love.
-series: ["Foundational Teachings"]
+collections: ["Foundational Teachings"]
 door: >
   Seek God above all else and your gifts will flourish in this one desire for the highest
 last_edited: 2026-05-01

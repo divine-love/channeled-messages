@@ -36,7 +36,7 @@ related_messages: ["2015-08-22-af-augustine", "2015-08-22-af-confucius"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/work-together-in-love/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   Working together in Love creates something none of you could create alone
 last_edited: 2026-04-13

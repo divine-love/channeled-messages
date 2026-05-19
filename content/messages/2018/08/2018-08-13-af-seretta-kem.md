@@ -46,12 +46,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/growing-the-light-within-your-souls-is-the-greatest-service-to-god/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   It is the light that you carry that pushes back the darkness. Remember this,
   beloved souls, no matter what situation you are in.
-series: ["Awakening Humanity", "Foundational Teachings"]
+collections: ["Awakening Humanity", "Foundational Teachings"]
 door: >
   No matter what situation you are in in your life, it is the light that you carry and the light that builds within you that will have the greatest effect
 last_edited: 2026-05-01

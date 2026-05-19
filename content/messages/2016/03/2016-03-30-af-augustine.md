@@ -51,13 +51,13 @@ notes: >
   that he taught error in his Earth life that still persists in the church today,
   and that he resisted the inclinations of his soul in favour of power and
   control.
-significance: ["Key Teaching", "Biographical"]
+essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >
   I taught error, and that error to some degrees still survives to this day
   within the church. I did not listen to God. I listened to my own mind and
   desire and fears, my own humanity.
-series: ["Letters from History"]
+collections: ["Letters from History"]
 door: >
   True power is not control. It is the strength that comes from letting God flow through you unrestricted
 last_edited: 2026-04-23

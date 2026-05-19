@@ -36,7 +36,7 @@ canonical_url: "https://divinelovesanctuary.com/guidance-concerning-the-upcoming
 notes: >
   Message is given in preparation for an upcoming international retreat gathering
   souls from around the world.
-significance: []
+essential_teachings: []
 door: >
   Every soul who comes to you is sent. Receive them accordingly
 last_edited: 2026-04-13

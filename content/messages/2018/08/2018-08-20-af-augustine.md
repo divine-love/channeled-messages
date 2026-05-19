@@ -48,12 +48,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/commentary-on-earth-changes/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   Pray with faith and joy. For it is in this opening and joyful acknowledgment
   of God that the power required to heal your world will come.
-series: ["Awakening Humanity", "Foundational Teachings"]
+collections: ["Awakening Humanity", "Foundational Teachings"]
 door: >
   Pray with faith and joy. For it is in this opening and joyful acknowledgment of God that the power required to heal your world will come
 last_edited: 2026-05-01

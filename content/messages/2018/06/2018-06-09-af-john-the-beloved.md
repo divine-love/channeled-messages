@@ -47,14 +47,14 @@ canonical_url: "https://divinelovesanctuary.com/seek-to-know-god-through-love/"
 notes: >
   Received in the same circle as 2018-06-09-af-matthew, addressed to a
   gathering that includes newcomers from afar.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   God places His Hand upon you and asks, "Will you accept my Love? Are you
   willing to receive this gift that I give and will continue to give in
   abundance until your souls truly know me? Even then, I shall continue to
   bless you."
-series: []
+collections: []
 door: >
   'God places His Hand upon you and asks: Will you accept my Love? Even when your soul truly knows me, I shall continue to bless you'
 last_edited: 2026-04-23

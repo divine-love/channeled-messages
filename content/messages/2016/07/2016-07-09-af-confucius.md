@@ -41,13 +41,13 @@ canonical_url: "https://divinelovesanctuary.com/the-awakened-soul/"
 notes: >
   Appears to be addressed to a new or smaller circle — 'welcome to this little
   Circle of Light.'
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   It is the touch of God's Essence, His Love, that ignites a soul to awaken — and
   the awakened soul has the capacity to understand Truth in ways that the mind
   cannot.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   The awakened soul understands Truth in ways the mind simply cannot
 last_edited: 2026-04-17

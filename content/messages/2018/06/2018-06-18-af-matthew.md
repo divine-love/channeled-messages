@@ -49,14 +49,14 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-reality-of-the-soul-can-be-merged-with-the-mind/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   You are scientists of the soul, discovering its mysteries and coming to a
   different Truth than what has been placed within your mind. You are the
   vanguards seeking to move forward into a new dawn of Love and Truth that
   God intends for this world.
-series: ["Mind & Soul"]
+collections: ["Mind & Soul"]
 door: >
   You are scientists of the soul, discovering its mysteries. The vanguards of a new dawn of Love and Truth that God intends for this world
 last_edited: 2026-04-23

@@ -46,13 +46,13 @@ canonical_url: ""
 notes: >
   Not publicly posted online. Message addressed to a specific individual concerning
   a specific ministry situation. Questions reframed universally per archive convention.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Do not underestimate the Will of God or the power of His Love to make change
   in this world. Even through the maze of human conditions, God will work and
   bring His Will and purpose.
-series: []
+collections: []
 door: >
   Even through the maze and forest of these human conditions, God will work and bring His Will and purpose
 last_edited: 2026-05-01

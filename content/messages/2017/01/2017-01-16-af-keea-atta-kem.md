@@ -49,13 +49,13 @@ canonical_url: "https://divinelovesanctuary.com/accept-every-unique-soul-differe
 notes: >
   Correction: 'not for you to obsessed about' corrected to 'not for you to be
   obsessed about'. Double space before 'obsessed' also corrected.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Just as upon a sunny day the clouds obscure the sun and bring a small shadow —
   these clouds will move on and the sun returns. So it is with your condition as
   you sit with God.
-series: ["Prism of the Soul"]
+collections: ["Prism of the Soul"]
 door: >
   Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside
 last_edited: 2026-04-23

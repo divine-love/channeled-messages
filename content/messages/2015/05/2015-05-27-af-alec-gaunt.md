@@ -34,7 +34,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/after-all-your-preparations-it-is-time-to-step-forward/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   The season of preparation is over. It is time to act
 last_edited: 2026-04-11

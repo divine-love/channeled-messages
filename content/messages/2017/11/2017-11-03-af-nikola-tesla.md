@@ -48,14 +48,14 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/tesla-talks-about-the-power-of-love/"
 notes: >
   Two corrections from source text: 'awareness's' corrected to 'awarenesses'; 'it's potential' corrected to 'its potential'. Tesla also mentions that the group is 'causing quite a stir in spirit' and that many in spirit know of their work.
-significance: ["Biographical", "Historical"]
+essential_teachings: ["Spirit Biography", "Historical"]
 language: en
 excerpt: >
   Love can alter many things and influence many aspects of the material and
   spiritual world. It is not just a thing of singularity for one purpose. Love
   can ignite many things, can stimulate many aspects of the universe in a way
   that can change their basic attributes.
-series: ["Letters from History"]
+collections: ["Letters from History"]
 door: >
   Love is not just a feeling. It is the most powerful energy in the universe, and its capacities have barely been understood
 last_edited: 2026-04-23

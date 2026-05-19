@@ -39,7 +39,7 @@ notes: >
   Third message in preparation for the upcoming international retreat. Related to
   2015-07-06-af-augustine and 2015-07-21-af-augustine which also address retreat
   preparation.
-significance: []
+essential_teachings: []
 door: >
   What God prepares for a gathering of souls is far greater than what any one of them imagined
 last_edited: 2026-04-13

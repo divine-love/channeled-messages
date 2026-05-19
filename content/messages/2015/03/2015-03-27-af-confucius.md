@@ -39,13 +39,13 @@ notes: >
   Delivered in New York, NY on the same day as 2015-03-27-af-andrew, to a
   larger and more diverse gathering. Confucius promises to return to speak
   again during the gathering. Not publicly posted online.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   Put aside your judgments and fears. Be as little children, bathing in these
   beautiful waters of God's Love, enjoying the warmth of the Son, smiling and
   expressing the purity of life.
-series: []
+collections: []
 door: >
   Put aside your judgments and fears. Be as little children, bathing in these beautiful waters of God's Love
 last_edited: 2026-04-23

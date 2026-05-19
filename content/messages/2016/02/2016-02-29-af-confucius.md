@@ -44,12 +44,12 @@ canonical_url: "https://divinelovesanctuary.com/you-struggle-but-you-make-progre
 notes: >
   Confucius references 'our brother, Luke' as having previously spoken about joy
   and happiness. Luke is Luke the Evangelist — see spirits/luke.yml.
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   My Heavenly Father, you can heal me — touch the very centre of me, those tender
   and hurting places within me, and heal me.
-series: []
+collections: []
 door: >
   The struggle is not a sign that something is wrong. It is proof that something is growing
 last_edited: 2026-04-17

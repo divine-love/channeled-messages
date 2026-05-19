@@ -51,13 +51,13 @@ notes: >
   2017-09-12-af-confucius and 2017-09-12-af-augustine. Martin Luther opens by
   referencing the group's conversation that evening. Typo corrected: 'thir
   intention' to 'their intention'.
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   To one whose soul is filled with Love, obeying God's Laws is not a burden. It
   makes perfect sense, and one naturally obeys, for this wisdom comes to the
   awakened soul.
-series: ["Mind & Soul", "Two Paths"]
+collections: ["Mind & Soul", "Two Paths"]
 door: >
   To one whose soul is filled with Love, obeying God's Laws is not a burden. It makes perfect sense
 last_edited: 2026-04-23

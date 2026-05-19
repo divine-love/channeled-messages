@@ -45,7 +45,7 @@ related_messages: []
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/as-you-pray-together-you-are-a-channel-of-love-for-many/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   You become a powerful channel of love and light in this world, that you pray
@@ -53,7 +53,7 @@ excerpt: >
 door: >
   When souls gather to pray, they become more than individuals — a living channel
   through which God's healing flows outward to a grieving world.
-series: []
+collections: []
 last_edited: 2026-05-08
 ---
 

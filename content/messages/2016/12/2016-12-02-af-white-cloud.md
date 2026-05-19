@@ -45,12 +45,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/world-needs-prayers/"
 notes: ""
-significance: []
+essential_teachings: []
 language: en
 excerpt: >
   What will save the world? Not violence, not insistence, but love — and the
   strongest man and woman is the one who can express love.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 door: >
   Love is not the soft option. It is the most powerful force in the universe
 last_edited: 2026-04-17

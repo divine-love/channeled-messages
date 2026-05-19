@@ -53,13 +53,13 @@ audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/make-love-guiding-truth-earth-changes/"
 notes: >
   Keea atta Kem mentions that Al Fike has seen some things that are coming in vision.
-significance: ["Key Teaching", "Prophetic"]
+essential_teachings: ["Core Teaching", "Prophecy"]
 language: en
 excerpt: >
   You will be a rock in a world disrupted by conditions of change - and despite
   all the chaos around you, you will feel the strength and peace and wisdom that
   comes with your soul enlivened by Love.
-series: ["Awakening Humanity"]
+collections: ["Awakening Humanity"]
 door: >
   You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
 last_edited: 2026-04-23

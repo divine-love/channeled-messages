@@ -50,14 +50,14 @@ notes: >
   his role in spreading erroneous beliefs during his Earth life. He describes
   his own ascension through the spirit spheres into the Celestial Kingdom
   through Divine Love. Delivered in New York, NY. Not publicly posted online.
-significance: ["Key Teaching", "Biographical"]
+essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >
   Once I entered spirit and learned of this Truth, I prayed with all my
   earnestness to receive this Love within and indeed I found the power of
   this Love and I ascended through the spheres of spirit and entered into
   the Celestial Kingdom.
-series: ["Letters from History", "Foundational Teachings"]
+collections: ["Letters from History", "Foundational Teachings"]
 door: >
   Once I entered spirit and learned of this Truth, I prayed earnestly to receive this Love and ascended into the Celestial Kingdom
 last_edited: 2026-04-23

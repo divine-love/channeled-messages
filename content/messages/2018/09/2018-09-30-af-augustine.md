@@ -48,12 +48,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/time-to-speak-the-truth/"
 notes: ""
-significance: ["Key Teaching"]
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   The time for silence is over, beloved souls. Silence in the presence of error
   is an acceptance of error.
-series: ["Foundational Teachings"]
+collections: ["Foundational Teachings"]
 door: >
   Silence in the presence of error is an acceptance of error
 last_edited: 2026-05-01

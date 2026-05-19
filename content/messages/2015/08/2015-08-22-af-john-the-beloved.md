@@ -37,7 +37,7 @@ related_messages: ["2015-08-03-af-john-the-beloved", "2014-12-01-af-john-the-bel
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/john-gives-a-prayer-for-greater-enlightenment/"
 notes: ""
-significance: []
+essential_teachings: []
 door: >
   Prayer is not a petition to a distant God. It is communion with One who is already present
 last_edited: 2026-04-13
