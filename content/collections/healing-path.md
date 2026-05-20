@@ -1,7 +1,7 @@
 ---
 title: "Healing Path"
 description: "Messages about healing in all its dimensions — physical, emotional, and spiritual. Includes teachings on how Divine Love heals, the mechanics of spirit healing, and the restoration of the soul and body through prayer and God's Love."
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
 # Healing Path
@@ -22,3 +22,4 @@ Messages about healing in all its dimensions — physical, emotional, and spirit
 | [Release Judgment, Embrace Love](messages/2018/06/2018-06-26-af-matthew.md) | 2018‑06‑26 | Matthew continues the theme of Luke's previous message, teaching that beneath judgment and anger almost always lies a deep hurt of feeling unloved and unrecognized. He teaches that authentic love cannot be performed while carrying hidden resentment, that this gap between surface and inner reality is why the world is so dark, and that each day God places before each soul the test and opportunity to choose love over the old patterns of the mind - one rung at a time up the ladder of Light. |
 | [Soul Expiation Through Pursuit of Truth, Release of Error](messages/2018/07/2018-07-14-af-seretta-kem.md) | 2018‑07‑14 | Seretta Kem delivers a compassionate teaching on the rhythm of soul expiation, explaining that the journey of soul awakening alternates between times of great joy and times when hidden conditions rise to the surface to be released. He teaches that the difficult times are when the greatest progress is made, that the angels act as midwives in this process, and that the new birth of the soul - though it brings pain and heartache - leads to a permanent joy and peace that is not dependent on outer conditions. |
 | [Forgiveness](messages/2018/07/2018-07-16-af-andrew.md) | 2018‑07‑16 | Andrew delivers a thorough teaching on forgiveness as one of the most important aspects of soul growth, teaching that the act of releasing others who have trespassed against you is a direct measure of the soul's progression in Divine Love. He teaches that as God infills the soul with His Love, the urge to forgive comes reflexively, that forgiveness and compassion come together in true soul awakening, and that holding on to resentment and judgment holds the soul's progression back. |
+| [God's Love Will Nurture Your Soul](messages/2018/11/2018-11-04-af-keea-atta-kem.md) | 2018‑11‑04 | Keea Atta Kem urges the gathering to nurture their souls and seek the soothing balm of God's Divine Love, assuring them that this gift heals all within, dissolves worry and care, and is given freely to every soul who sincerely asks, regardless of their condition or place in the world. |

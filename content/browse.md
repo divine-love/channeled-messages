@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
 # Browse All Messages
@@ -271,3 +271,11 @@ last_updated: 2026-05-19
 | [Compassion as an Expression of Love for Self and Others](messages/2018/10/2018-10-25-af-martin-luther.md) | Martin Luther | Al Fike | 2018‑10‑25 | When you gaze upon another with eyes of love, compassion often accompanies your interaction. It is a signal that God is working through you — for this gift of compassion is the Hand of God reaching through you to others. |
 | [The Value and Purpose of Your Soul](messages/2018/10/2018-10-29-af-paul-of-tarsus.md) | Paul of Tarsus | Al Fike | 2018‑10‑29 | Jesus said "seek ye the kingdom and all things shall come to you." His words refer to the blessing of Divine Love — for this creates the kingdom within your soul. |
 | [As You Pray Together You Are a Channel of Love for Many](messages/2018/11/2018-11-03-af-confucius.md) | Confucius | Al Fike | 2018‑11‑03 | When souls gather to pray, they become more than individuals — a living channel through which God's healing flows outward to a grieving world. |
+| [Live the Truth of God's Love](messages/2018/11/2018-11-03-af-matthew.md) | Matthew | Al Fike | 2018‑11‑03 | The world is full of souls who do not know they have a soul, and you hold the key that could unlock their door. |
+| [God Invites You to Awaken in His Love](messages/2018/11/2018-11-04-af-augustine.md) | Augustine | Al Fike | 2018‑11‑04 | God's invitation to awaken is already within you; prayer is simply the act of saying yes. |
+| [Goldie's Gift](messages/2018/11/2018-11-04-af-goldie.md) | Goldie | Al Fike | 2018‑11‑04 | Goldie brings a flower to remind you that you are loved — and that an angel walks beside you every step of the way. |
+| [God's Love Will Nurture Your Soul](messages/2018/11/2018-11-04-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2018‑11‑04 | A great ocean of God's Love is waiting for you - and all you need to do is ask. |
+| [Many Blessings Flow From a Circle of Light](messages/2018/11/2018-11-05-af-andrew.md) | Andrew | Al Fike | 2018‑11‑05 | When souls gather to pray, the blessings flow far beyond the room, touching the living, the departed, and the world they cannot see. |
+| [Speak Up for Truth and Change](messages/2018/11/2018-11-05-af-john-wesley.md) | John Wesley | Al Fike | 2018‑11‑05 | John Wesley reformed a church but never found the highest truth; now from the Celestial Kingdom he asks who will carry what he could not. |
+| [The Struggle of the Material Mind to Be in Harmony With Love](messages/2018/11/2018-11-06-af-augustine.md) | Augustine | Al Fike | 2018‑11‑06 | The soul already knows how to love; the lifelong work is teaching the mind to follow where the soul leads. |
+| [Open Your Minds and Souls to God's Guidance](messages/2018/11/2018-11-14-af-seretta-kem.md) | Seretta Kem | Al Fike | 2018‑11‑14 | What looks like a modest gathering is, in God's hands, the planting of seeds whose fruit you may never see but others will taste. |

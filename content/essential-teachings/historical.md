@@ -1,7 +1,7 @@
 ---
 title: "Historical"
 description: "Messages of particular historical importance in the archive — marking a significant moment in the history of the Divine Love movement, the development of a circle, or the record of an event that will be of lasting interest to researchers and historians of the movement."
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
 # Historical
@@ -23,3 +23,4 @@ Messages of particular historical importance in the archive — marking a signif
 | [Tesla Talks About the Power of Love](messages/2017/11/2017-11-03-af-nikola-tesla.md) | 2017‑11‑03 | Nikola Tesla speaks from spirit about his continued exploration of the universe's mechanics and his particular interest in assisting the development of Direct Voice mediumship, which he understands to have an electrical component. He teaches that Divine Love is the most powerful energy in the universe, that its capacities far exceed what humanity has understood, and that as souls mature in Love, scientific understanding will flourish in ways that will astound the world. |
 | [Who Will Bring the Truth to This World?](messages/2018/01/2018-01-21-af-professor-salyards.md) | 2018‑01‑21 | Professor Salyards, a tireless worker in the development of Direct Voice mediumship, affirms the circle's progress and urges them to maintain their hopeful expectation of this gift. He speaks with urgency about humanity's need to awaken before the consequences of the human condition become irreversible, and assures them that even if Direct Voice is not achieved, they will bring Truth through other gifts - but that this gift is very much worth pursuing. |
 | [All Truth Begins with the Soul Awakened in Love](messages/2018/06/2018-06-09-af-john-wesley.md) | 2018‑06‑09 | John Wesley, founder of Methodism and now an inhabitant of the Celestial Kingdom, speaks urgently about humanity's need to awaken from the illusions of the mind before it is too late. He teaches that the material mind cannot solve the great dilemmas of humanity, that all truth begins with Love, and that only the soul awakened in Divine Love can truly perceive God's Creation and become an instrument of change in the world. |
+| [Speak Up for Truth and Change](messages/2018/11/2018-11-05-af-john-wesley.md) | 2018‑11‑05 | John Wesley, now an inhabitant of the Celestial Kingdom, reflects on the limitations of his earthly ministry and the failure of institutional Christianity to teach the higher truth of God's Love. He calls the gathering to stand up with tenacity and courage, declaring the truth of the soul and Divine Love to a world mired in intellectual doctrine and the pursuit of power. |

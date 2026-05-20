@@ -1,7 +1,7 @@
 ---
 title: "Letters from History"
 description: "Messages from historical figures beyond the biblical canon — philosophers, rulers, mystics, scientists, and others speaking from their perspective in spirit about Divine Love, truth, and the soul's journey."
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
 # Letters from History
@@ -32,3 +32,4 @@ Messages from historical figures beyond the biblical canon — philosophers, rul
 | [Change Comes One Soul at a Time](messages/2018/05/2018-05-10-af-gandhi.md) | 2018‑05‑10 | Gandhi responds to the group's contemplation of the world's darkness and inequities, teaching that true change in the world begins with the individual soul and its reconciliation with God. He draws on his own Earth life, speaking of how one step led to another as he followed God's guidance, and urges those gathered not to be overwhelmed by the complexity of the world's problems but to trust that their awakening souls will reveal the role they must play. |
 | [All Truth Begins with the Soul Awakened in Love](messages/2018/06/2018-06-09-af-john-wesley.md) | 2018‑06‑09 | John Wesley, founder of Methodism and now an inhabitant of the Celestial Kingdom, speaks urgently about humanity's need to awaken from the illusions of the mind before it is too late. He teaches that the material mind cannot solve the great dilemmas of humanity, that all truth begins with Love, and that only the soul awakened in Divine Love can truly perceive God's Creation and become an instrument of change in the world. |
 | [The Value and Purpose of Your Soul](messages/2018/10/2018-10-29-af-paul-of-tarsus.md) | 2018‑10‑29 | Paul of Tarsus explains the distinction between the natural love already within every soul and the higher Divine Love that must be sought through prayer and longing. He teaches that while the natural love path leads to the purification and joy of the sixth sphere, only Divine Love opens the way to the Celestial Heavens and true at-onement with God, transforming the soul beyond its natural capacities into something Divine. He urges all to accept the invitation of this wondrous journey without restriction or limitation. |
+| [Speak Up for Truth and Change](messages/2018/11/2018-11-05-af-john-wesley.md) | 2018‑11‑05 | John Wesley, now an inhabitant of the Celestial Kingdom, reflects on the limitations of his earthly ministry and the failure of institutional Christianity to teach the higher truth of God's Love. He calls the gathering to stand up with tenacity and courage, declaring the truth of the soul and Divine Love to a world mired in intellectual doctrine and the pursuit of power. |

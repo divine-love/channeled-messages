@@ -1,7 +1,7 @@
 ---
 title: "Mind & Soul"
 description: "Messages exploring the relationship between the material mind and the soul — how the mind can assist or obstruct the soul's growth, the integration of mind and soul, and the soul's faculties of perception and knowing."
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
 # Mind & Soul
@@ -51,3 +51,4 @@ Messages exploring the relationship between the material mind and the soul — h
 | [Go Naked to God in Joy](messages/2018/10/2018-10-04-af-matthew.md) | 2018‑10‑04 | Matthew teaches that the mind is the greatest gatekeeper to the soul, and that what we feed our minds determines how freely the soul can reach God in prayer. He calls the circle to stoke the fires of their souls with the urgency of a parched soul seeking living waters, to shed the tattered cloaks of earthly distraction, and to go naked to God in bare, joyful, unencumbered longing. |
 | [The Integration of the Material Mind with the Soul Mind](messages/2018/10/2018-10-09-af-seretta-kem.md) | 2018‑10‑09 | Seretta Kem delivers a detailed teaching on how the transformation wrought by Divine Love extends far beyond the soul itself, touching every cell, every system, and every aspect of consciousness. He explains the process by which the soul mind and material mind are gradually integrated into a single unified consciousness, and assures the circle that this merging, though not accomplished in an instant, is the goal of their journey and is already beginning to unfold within each of them. |
 | [Listen to Your Soul, Not the Illusions of Your Mind](messages/2018/10/2018-10-25-af-augustine.md) | 2018‑10‑25 | Augustine teaches that many of the conditions troubling the circle are not of the soul but of the mind — patterns implanted by others and the world that masquerade as truth. He calls each soul to draw a firm line against darkness and self-hatred, to reject the illusions of the mind with the strength of free will, and to trust the awakening soul's truer perception of reality, knowing that God's Love will overshadow the darkness with light for all who long for this with their whole being. |
+| [The Struggle of the Material Mind to Be in Harmony With Love](messages/2018/11/2018-11-06-af-augustine.md) | 2018‑11‑06 | Augustine teaches on the struggle between the material mind and the soul, urging the gathering to harmonize their thinking with the loving wisdom of their awakened souls. He addresses the habits of judgment, personal offence, and the desire to control others, calling each soul to the discipline of walking in love with every breath. |

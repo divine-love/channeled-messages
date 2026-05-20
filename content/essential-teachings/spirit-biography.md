@@ -1,7 +1,7 @@
 ---
 title: "Spirit Biography"
 description: "Messages in which a spirit provides significant information about their own Earth life, identity, or experience in spirit. These messages are valuable both spiritually and historically, offering first-person testimony from spirits whose lives are part of the broader human and sacred record."
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
 # Spirit Biography
@@ -27,3 +27,4 @@ Messages in which a spirit provides significant information about their own Eart
 | [Walk in Harmony With God's Will](messages/2018/05/2018-05-09-af-alec-gaunt.md) | 2018‑05‑09 | Alec Gaunt teaches that knowing God's Will requires not effort and exertion but faith, peace, patience, and trust, and that life is a creative cooperation between human choice and God's Will rather than a preordained script. He draws on his own Earth life experience, confessing that he pushed too hard and passed into spirit sooner than he should have, urging those gathered to walk the fine line of balance between self-will and God's Will with greater patience and wisdom than he managed. |
 | [Change Comes One Soul at a Time](messages/2018/05/2018-05-10-af-gandhi.md) | 2018‑05‑10 | Gandhi responds to the group's contemplation of the world's darkness and inequities, teaching that true change in the world begins with the individual soul and its reconciliation with God. He draws on his own Earth life, speaking of how one step led to another as he followed God's guidance, and urges those gathered not to be overwhelmed by the complexity of the world's problems but to trust that their awakening souls will reveal the role they must play. |
 | [All Truth Begins with the Soul Awakened in Love](messages/2018/06/2018-06-09-af-john-wesley.md) | 2018‑06‑09 | John Wesley, founder of Methodism and now an inhabitant of the Celestial Kingdom, speaks urgently about humanity's need to awaken from the illusions of the mind before it is too late. He teaches that the material mind cannot solve the great dilemmas of humanity, that all truth begins with Love, and that only the soul awakened in Divine Love can truly perceive God's Creation and become an instrument of change in the world. |
+| [Speak Up for Truth and Change](messages/2018/11/2018-11-05-af-john-wesley.md) | 2018‑11‑05 | John Wesley, now an inhabitant of the Celestial Kingdom, reflects on the limitations of his earthly ministry and the failure of institutional Christianity to teach the higher truth of God's Love. He calls the gathering to stand up with tenacity and courage, declaring the truth of the soul and Divine Love to a world mired in intellectual doctrine and the pursuit of power. |
