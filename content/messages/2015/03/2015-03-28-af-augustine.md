@@ -57,7 +57,7 @@ excerpt: >
   earnestness to receive this Love within and indeed I found the power of
   this Love and I ascended through the spheres of spirit and entered into
   the Celestial Kingdom.
-collections: ["Letters from History", "Foundational Teachings"]
+collections: ["Letters from History"]
 door: >
   Once I entered spirit and learned of this Truth, I prayed earnestly to receive this Love and ascended into the Celestial Kingdom
 last_edited: 2026-04-23

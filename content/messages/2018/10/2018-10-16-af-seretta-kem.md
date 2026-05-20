@@ -55,7 +55,7 @@ excerpt: >
   What may come will be surprising and delightful.
 door: >
   An entire garden of gifts lays within your soul. As God brings His living waters in, the seeds germinate and the flora of your soul bears fruit that will nurture many others.
-collections: ["Foundational Teachings"]
+collections: []
 last_edited: 2026-05-05
 ---
 

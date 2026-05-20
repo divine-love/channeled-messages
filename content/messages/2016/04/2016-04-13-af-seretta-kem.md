@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   Seretta Kem acknowledges the many healing energies and practices present in the
   circle, but teaches that Divine Love — God's Essence poured into the soul

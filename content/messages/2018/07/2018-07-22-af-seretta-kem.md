@@ -52,7 +52,7 @@ language: en
 excerpt: >
   When the mind acquiesces to the wisdom of the soul, then you will know a great joy,
   a wonderful happiness in your life.
-collections: ["Mind & Soul", "Foundational Teachings"]
+collections: ["Mind & Soul"]
 door: >
   Are you willing to truly live this Love — not in half measure, not in three quarters measure, but in full measure?
 last_edited: 2026-04-30

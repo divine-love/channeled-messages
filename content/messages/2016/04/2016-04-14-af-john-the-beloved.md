@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   John the Beloved teaches on the power of intention, showing how a soul's
   sincere desire to seek the highest, serve others, embrace all they meet, and

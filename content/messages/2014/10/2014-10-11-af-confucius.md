@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   Confucius clarifies the difference between natural love and Divine Love, urging
   his listeners to open their souls to receive the Father's Divine Essence

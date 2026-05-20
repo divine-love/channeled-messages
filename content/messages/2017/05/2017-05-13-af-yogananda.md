@@ -10,7 +10,7 @@ location:
   region: CA
   country: United States of America
 gathering:
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   Yogananda speaks from his own sanctuary in Encinitas, confirming he inhabits
   the Celestial Kingdom and that his teachings, though expressed in his own

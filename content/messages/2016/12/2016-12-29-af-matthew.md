@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   Matthew speaks prophetically of changes coming in the new year for the circle
   and the world, urging them to release the illusions and mental constructs built

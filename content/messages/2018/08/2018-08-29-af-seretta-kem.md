@@ -54,7 +54,7 @@ excerpt: >
   Do not measure your progress but be attuned to your soul each day, with deep
   appreciation of the experience you have in the moment, in your relationship
   with your Heavenly Father.
-collections: ["Foundational Teachings"]
+collections: []
 door: >
   Do not measure your progress but be attuned to your soul each day, with deep appreciation of the experience you have in the moment
 last_edited: 2026-05-01

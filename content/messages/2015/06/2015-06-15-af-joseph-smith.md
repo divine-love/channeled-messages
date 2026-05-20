@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   Joseph Smith speaks from the Celestial Heavens, acknowledging that while angels
   did support his Earth life work in founding the Mormon Church, the institution
@@ -57,7 +57,7 @@ language: en
 excerpt: >
   The will of man usurps the Will of God. The imaginings and ideas of men create
   falsehoods and misinterpretations of the laws and Love of God.
-collections: ["Letters from History", "Foundational Teachings"]
+collections: ["Letters from History"]
 door: >
   The will of man usurps the Will of God. The imaginings and ideas of men create falsehoods and misinterpretations of the laws and Love of God
 last_edited: 2026-05-01

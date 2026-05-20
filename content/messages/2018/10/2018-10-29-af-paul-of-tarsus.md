@@ -56,7 +56,7 @@ excerpt: >
   for it, this nurturance, this Divine Elixir that is the Essence of God.
 door: >
   Jesus said "seek ye the kingdom and all things shall come to you." His words refer to the blessing of Divine Love — for this creates the kingdom within your soul.
-collections: ["Two Paths", "Foundational Teachings", "Letters from History"]
+collections: ["Two Paths", "Letters from History"]
 last_edited: 2026-05-05
 ---
 

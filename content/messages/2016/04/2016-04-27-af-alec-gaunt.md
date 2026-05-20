@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: "Teaching"
+message_type: ["Teaching"]
 description: >
   Alec Gaunt teaches that change is a fundamental law of the universe, and that
   the key to navigating it is not resistance but a willing, faith-filled

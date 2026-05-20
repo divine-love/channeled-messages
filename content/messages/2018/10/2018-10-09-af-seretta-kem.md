@@ -55,7 +55,7 @@ excerpt: >
   these living waters, to refresh the parched soul, to enliven all that is the soul.
 door: >
   As the soul and mind embrace in joyful recognition, they begin to merge until there is no sense of separation — only the singular consciousness of the soul mind and material mind as one.
-collections: ["Mind & Soul", "Foundational Teachings"]
+collections: ["Mind & Soul"]
 last_edited: 2026-05-05
 ---
 

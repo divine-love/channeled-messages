@@ -56,7 +56,7 @@ excerpt: >
   Even when you are sitting in your home doing idle things, you still send out
   this signal of light into the world. It is always with you, for it is truly
   a part of you.
-collections: ["Foundational Teachings"]
+collections: []
 door: >
   As you walk in the world a bell tolls with your presence, calling your brothers and sisters to prayer, stimulating that part of their souls that longs for God
 last_edited: 2026-05-01
