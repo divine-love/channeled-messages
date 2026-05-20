@@ -131,7 +131,7 @@ def format_date(d) -> str:
 def make_relative_path(md_path: Path) -> str:
     """Convert an absolute path to a relative docs link."""
     try:
-        return str(md_path.relative_to("content")).replace("\\", "/")
+        return "../" + str(md_path.relative_to("content")).replace("\\", "/")
     except ValueError:
         return str(md_path).replace("\\", "/")
 
