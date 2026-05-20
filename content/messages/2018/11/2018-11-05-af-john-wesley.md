@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-05-af-john-wesley
 title: "Speak Up for Truth and Change"
 date: 2018-11-05
@@ -26,15 +26,7 @@ secondary_subjects:
   - "Reformation of Religious Doctrine"
 people: []
 spirits: []
-keywords:
-  - "Methodism"
-  - "reformation"
-  - "church"
-  - "truth"
-  - "courage"
-  - "doctrine"
-  - "soul"
-  - "channel of love"
+keywords: ["Methodism", "reformation", "church", "truth", "courage", "doctrine", "soul", "channel of love"]
 questions:
   - "Why do so many churches fail to teach the deeper truth about the soul?"
   - "How do I find the courage to speak spiritual truth in a world that may not want to hear it?"

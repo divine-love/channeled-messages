@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-03-af-confucius
 title: "As You Pray Together You Are a Channel of Love for Many"
 date: 2018-11-03
@@ -24,15 +24,7 @@ secondary_subjects:
   - "Spiritual Empowerment & Encouragement"
 people: []
 spirits: []
-keywords:
-  - "prayer circle"
-  - "channel of love"
-  - "healing"
-  - "intercession"
-  - "purification"
-  - "grief"
-  - "awakening"
-  - "light"
+keywords: ["prayer circle", "channel of love", "healing", "intercession", "purification", "grief", "awakening", "light"]
 questions:
   - "Does praying with others create more spiritual power than praying alone?"
   - "Can my prayers actually reach and help people I love who are suffering?"

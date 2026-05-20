@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-03-af-matthew
 title: "Live the Truth of God's Love"
 date: 2018-11-03
@@ -25,15 +25,7 @@ secondary_subjects:
   - "Spiritual Courage & Perseverance"
 people: []
 spirits: []
-keywords:
-  - "lost souls"
-  - "soul potential"
-  - "spiritual deprivation"
-  - "channel of love"
-  - "light to the world"
-  - "salvation"
-  - "spiritual darkness"
-  - "awakening"
+keywords: ["lost souls", "soul potential", "spiritual deprivation", "channel of love", "light to the world", "salvation", "spiritual darkness", "awakening"]
 questions:
   - "How can I make a difference in a world with so much darkness?"
   - "What does it mean to live my spiritual truth every day?"

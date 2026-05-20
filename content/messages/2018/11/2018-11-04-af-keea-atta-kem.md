@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-04-af-keea-atta-kem
 title: "God's Love Will Nurture Your Soul"
 date: 2018-11-04
@@ -24,14 +24,7 @@ secondary_subjects:
   - "Prayer & Spiritual Practice"
 people: []
 spirits: []
-keywords:
-  - "nurture"
-  - "healing"
-  - "living waters"
-  - "peace"
-  - "soothing balm"
-  - "cleansing"
-  - "ocean of love"
+keywords: ["nurture", "healing", "living waters", "peace", "soothing balm", "cleansing", "ocean of love"]
 questions:
   - "How does God's Love heal the soul?"
   - "What does it feel like to receive God's Divine Love in prayer?"

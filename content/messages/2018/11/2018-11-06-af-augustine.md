@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-06-af-augustine
 title: "The Struggle of the Material Mind to Be in Harmony With Love"
 date: 2018-11-06
@@ -25,15 +25,7 @@ secondary_subjects:
   - "Emotional Healing & Inner Peace"
 people: []
 spirits: []
-keywords:
-  - "mind and soul"
-  - "judgment"
-  - "acceptance"
-  - "unconditional love"
-  - "discipline"
-  - "harmony"
-  - "taking things personally"
-  - "channel of love"
+keywords: ["mind and soul", "judgment", "acceptance", "unconditional love", "discipline", "harmony", "taking things personally", "channel of love"]
 questions:
   - "Why do I keep judging others even when I am trying to be more loving?"
   - "How do I stop taking things personally?"

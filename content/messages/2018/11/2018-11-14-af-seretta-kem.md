@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-14-af-seretta-kem
 title: "Open Your Minds and Souls to God's Guidance"
 date: 2018-11-14
@@ -26,15 +26,7 @@ secondary_subjects:
   - "Trust & Surrender to God"
 people: []
 spirits: []
-keywords:
-  - "node of light"
-  - "centre of light"
-  - "portal"
-  - "spiritual collaboration"
-  - "God's guidance"
-  - "channel of love"
-  - "humility"
-  - "surrender"
+keywords: ["node of light", "centre of light", "portal", "spiritual collaboration", "God's guidance", "channel of love", "humility", "surrender"]
 questions:
   - "How do I trust God's plan when I can't see the results of my efforts?"
   - "Does God guide us through our dreams and prayers?"

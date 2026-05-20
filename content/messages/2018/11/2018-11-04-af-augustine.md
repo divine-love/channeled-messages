@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2018-11-04-af-augustine
 title: "God Invites You to Awaken in His Love"
 date: 2018-11-04
@@ -26,14 +26,7 @@ secondary_subjects:
   - "Spiritual Gifts & Mediumship"
 people: []
 spirits: []
-keywords:
-  - "channel of love"
-  - "soul awakening"
-  - "fervent prayer"
-  - "salvation"
-  - "lost souls"
-  - "God's plan"
-  - "service"
+keywords: ["channel of love", "soul awakening", "fervent prayer", "salvation", "lost souls", "God's plan", "service"]
 questions:
   - "How do I know if God is calling me to serve Him?"
   - "What does it mean to be a channel of God's Love?"
