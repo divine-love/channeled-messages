@@ -83,4 +83,4 @@ Much can be accomplished in this way and much will unfold in the possibilities o
 
 God bless you my friends. I am happy to greet you and we will continue to work together. There is much that we in spirit wish to convey in this time that you share and that we share with you. Allow God's guidance to infuse your dreams, your prayers, your thoughts and do not restrict yourselves. Allow all to unfold in harmony.
 
-God bless you. I am Seretta Kem. I am with you, beloved friends. God bless you. 
+God bless you. I am Seretta Kem. I am with you, beloved friends. God bless you.
