@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-15-af-confucius
 title: "Have Faith That Your Soul Awakens"
 date: 2018-11-15

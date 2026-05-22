@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-04-af-augustine
 title: "God Invites You to Awaken in His Love"
 date: 2018-11-04

@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-05-af-john-wesley
 title: "Speak Up for Truth and Change"
 date: 2018-11-05

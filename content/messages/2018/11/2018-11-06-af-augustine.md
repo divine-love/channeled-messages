@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-06-af-augustine
 title: "The Struggle of the Material Mind to Be in Harmony With Love"
 date: 2018-11-06

@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-14-af-seretta-kem
 title: "Open Your Minds and Souls to God's Guidance"
 date: 2018-11-14

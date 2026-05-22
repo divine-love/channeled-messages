@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-14-af-yogananda
 title: "Yogananda Message from Oz"
 date: 2018-11-14

@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-14-af-lotus-blossom
 title: "Lotus Blossom Message from Oz"
 date: 2018-11-14

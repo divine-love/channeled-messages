@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-04-af-keea-atta-kem
 title: "God's Love Will Nurture Your Soul"
 date: 2018-11-04

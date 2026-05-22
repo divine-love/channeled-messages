@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-03-af-matthew
 title: "Live the Truth of God's Love"
 date: 2018-11-03
