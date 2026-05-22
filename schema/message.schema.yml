@@ -134,9 +134,13 @@ properties:
   spirits:
     type: array
     description: >
-      spirit_id values of other spirits mentioned besides the primary spirit author.
-      Must be lowercase kebab-case matching filenames in /spirits/<spirit_id>.yml.
-      Use spirit_id values (e.g., "john-the-beloved"), not display names (e.g., "John the Beloved").
+      spirit_id values of other spirits who appear in the message besides the primary spirit author.
+      This includes both spirits who deliver part of the message and spirits who are merely mentioned.
+      When multiple spirits deliver a single message in sequence, use spirit_id for the first spirit
+      to speak, and list all subsequent delivering spirits here in speaking order, followed by any
+      additional spirits who are only mentioned. Must be lowercase kebab-case matching filenames
+      in /spirits/<spirit_id>.yml. Use spirit_id values (e.g., "john-the-beloved"), not display
+      names (e.g., "John the Beloved"). Document the sequence of delivering spirits in the notes field.
     items:
       type: string
       pattern: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
