@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2015-09-14-af-keea-atta-kem
 title: "A Grateful Soul Is an Open Soul"
 date: 2015-09-14
@@ -10,8 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type:
-  - Guidance
+message_type: ["Guidance"]
 description: >
   Keea Atta Kem teaches that gratitude is a practical spiritual discipline that opens the soul, clears negative conditions, and allows God's Love and Light to flood consciousness. She encourages the group to walk through the world with a gracious, grateful attitude, becoming an infectious channel of Light to all they encounter.
 primary_subjects: "Gratitude & Appreciation"

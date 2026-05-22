@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2015-09-14-af-confucius
 title: "Embrace All the Children of the World in Love"
 date: 2015-09-14
@@ -10,8 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type:
-  - Guidance
+message_type: ["Guidance"]
 description: >
   Confucius speaks of God drawing together souls from many cultures, backgrounds, and spiritual traditions, urging the group to embrace all without judgment, fear, or preference. He teaches that differences between people are conditions of the material mind, while every soul equally longs for Love and is precious in God's eyes.
 primary_subjects: "Universal Love & Brotherhood"

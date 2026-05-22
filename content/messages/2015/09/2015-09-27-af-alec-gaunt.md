@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2015-09-27-af-alec-gaunt
 title: "Continue Steadfastly on the Path of Love"
 date: 2015-09-27
@@ -10,8 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type:
-  - Guidance
+message_type: ["Guidance"]
 description: >
   Alec Gaunt offers warm encouragement to the group, affirming they are walking in the right direction and urging them not to doubt their steps. He speaks of working behind the scenes alongside angels in a great celestial orchestra, helping each soul find its place in the healing of the world.
 primary_subjects: "Perseverance & Steadfastness"

@@ -1,4 +1,4 @@
----
+﻿---
 message_id: 2015-09-30-af-augustine
 title: "Continue to Open Your Arms and Build Circles of Light"
 date: 2015-09-30
@@ -10,8 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type:
-  - Guidance
+message_type: ["Guidance"]
 description: >
   Augustine urges the group to keep building their Circle of Light as a place of sanctuary and welcome, teaching that their example of love and peace in the world quietly draws seeking souls toward God. He speaks of the coming times when such circles will be a necessity, and calls them to embrace every opportunity to share the key of Divine Love prayer with those who long for something they cannot name.
 primary_subjects: "Circle of Light & Prayer Circles"

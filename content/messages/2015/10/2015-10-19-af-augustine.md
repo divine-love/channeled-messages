@@ -1,6 +1,6 @@
----
+﻿---
 message_id: 2015-10-19-af-augustine
-title: "These Are the Days to Learn How to Love"
+title: "Choose Well Your Next Steps"
 date: 2015-10-19
 spirit_name: Augustine
 spirit_id: augustine
@@ -9,39 +9,44 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: DLSF Board Meeting
 message_type: ["Guidance"]
 description: >
-  Augustine encourages a group of souls who have prayed together over many years
-  to trust one another, release their fears, and walk in Love. He assures them
-  that the barriers to Love are universal and can be overcome, and that looking
-  back they will see these as the days they truly learned to love — one another,
-  and all their brothers and sisters in the world.
-primary_subjects: "Spiritual Community & Fellowship"
-secondary_subjects: ["Self-Love & Acceptance", "Overcoming Fear & Doubt", "Walking the Divine Path"]
+  Augustine addresses a board meeting, urging those gathered to speak honestly from their souls rather than allowing the mind's hesitations to hold them back. He affirms that God will not override free will but that the soul will confirm the rightness of each step taken, and that every person present has a unique and necessary role in spreading the truths of God's Love.
+primary_subjects: "Discernment & Truth-Seeking"
+secondary_subjects:
+  - "God's Will & Surrender"
+  - "Free Will & Choice"
+  - "Soul Gifts & Purpose"
+  - "Walking the Divine Path"
 people: []
 spirits: []
-keywords: ["learning to love", "trust", "fellowship", "barriers to love", "commitment", "fear", "joy", "community", "shared journey", "human condition", "progress", "eternity", "love one another"]
+keywords: ["discernment", "free will", "soul guidance", "decision-making", "purpose", "role", "humility", "acting on guidance", "soul wisdom"]
 questions:
-  - "How do I truly learn to love others?"
-  - "What are the barriers to Love and how do I overcome them?"
-  - "How do I trust others in my spiritual community?"
-  - "How do I release my fears about relationships in spiritual community?"
-  - "How do years of praying together deepen our bonds?"
-  - "How do I walk in Love with those I find difficult?"
-  - "How do I step aside from the human condition to reach for something higher?"
+  - How do I make important decisions from my soul rather than my anxious mind?
+  - How does God guide us without overriding our free will?
+  - How do I know when it is time to act on spiritual guidance rather than continue waiting?
+  - What does it mean to find my unique role and purpose within a larger spiritual mission?
+  - How do I bring soul wisdom into practical group decision-making?
+  - How can I contribute to a shared spiritual mission without conflict or self-doubt?
+  - What does the joy or rightness I feel in a decision tell me spiritually?
 related_messages: []
 audio_url: ""
-canonical_url: "https://divinelovesanctuary.com/these-are-the-days-to-learn-how-to-love/"
-notes: ""
+canonical_url: ""
+notes: >
+  Delivered at a DLSF board meeting. Message is addressed to a specific group; questions reframed universally.
 essential_teachings: []
+collections: []
+language: en
+excerpt: >
+  You will know as you take each step forward what is the right thing to do, the right steps to take, for your souls will inform you and you will feel the joy of this, the rightness of this, the knowing of this.
 door: >
-  You are living in the very days that matter most, and learning to love is the work of these days
-last_edited: 2026-04-13
+  Augustine reminds a gathering of decision-makers that God will not dictate the path, but the soul will quietly confirm the rightness of each step taken in humility and love.
+last_edited: 2026-05-22
 ---
 
-The Path has been set. All that is required is for you to follow. Follow with your eyes open, your hearts ablaze with Love, the wisdom of your souls informing every step that you take. How can you walk together other than in Love and acknowledge the deep commitment that you all carry, the deep Love that you share that has been built over many years and your feelings of being a part of one another as you have prayed together many, many times basking in the Father's Love and Light? Trust one another, my beloveds. Release your fears and walk in Love, the Love that shines in your eyes as you gaze upon your brothers and sisters in Love and appreciation for the beauty that is within them as you share this common desire to serve God, to walk in Light, to be a channel of Love for others.
+It is your teacher Augustine. You have asked for guidance and we would encourage you to speak from your souls and your hearts to allow the wisdom of your souls to manifest with one another in loving and honest ways. Do not hold back from that which you think and know from this place of deep knowing and understanding. Your challenge is to step forward in this way; your challenge is to walk towards the Light and to not have weights upon your feet that are born from the mind.
 
-You are truly a part of one another and this shall never be severed but shall continue to grow as you walk on the Divine Path day by day, year by year. And as you go for all eternity upon this Path of Love you will look back upon these days and say, these are the days which we learned to love, to truly love one another and all our brothers and sisters in this world, for all are challenged in the same way in this world. The barriers to Love are universal, merely demarcated in degrees. You must overcome these inner conditions to release them, to be free and walk in joy and the true knowledge that your Heavenly Father guides you upon the Path, in service.
+Beloveds, you continue to step forward and respond from those times that you were together in prayer with the others and this is important. You have had time to digest and to ruminate upon the guidance given; now it is time to act upon this guidance. But God will not interfere with your free will. It is your choice, my beloveds, what you are to do. We will not tell you, do this and do that, but you will know as you take each step forward what is the right thing to do, the right steps to take, for your souls will inform you and you will feel the joy of this, the rightness of this, the knowing of this.
 
-You will find your way and you are finding your way, my beloveds. There is nothing to fear, only to rejoice in the sure knowledge that God's Hand surely rests upon you and guides you. Beloved souls, I am pleased with your progress and your willingness to step aside from that human condition and reach for something higher and more powerful in the Love and Light. I am very pleased and I love you, beloved, beautiful souls. Beloved and beautiful souls, God bless you. Your teacher Augustine continues to stand by your side and nurture you as you grow within your souls and find your way along this Path. Beloveds, God bless you. God bless you.
+Beloved souls, be humble and kind and generous. Be sure of your steps and prayerful in your actions and loving in all of this, my beloveds, and all will be well. There is no need for conflict. There is no need for you to feel that you are not a part of this, my beloveds, for each and every one of you has a role to play and a place within this great effort, the spreading of the truths of God's Love in the world. Each knows that they have this place, this role, this purpose. Do not doubt this but continue to walk in those steps that are unique and right for each one and know that God has His Hand upon each one of you, my beloveds. You are truly loved and the angels surround you in your efforts. Be at peace and know that you are loved and you will find your way, your path, your purpose as God guides you along this Path of service and the growing of your souls. God bless you. Your teacher Augustine has great love for each one of you. God bless you.
