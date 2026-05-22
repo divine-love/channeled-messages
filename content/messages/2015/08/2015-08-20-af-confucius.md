@@ -38,7 +38,11 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online."
+notes: >
+  Not publicly posted online. Some transcripts carry the date August 21
+  for this message; August 20 used as the primary date. A transcriber
+  note indicates that the group prayer referenced in the opening paragraph
+  was a Merkaba healing exercise.
 essential_teachings: []
 language: en
 excerpt: >
