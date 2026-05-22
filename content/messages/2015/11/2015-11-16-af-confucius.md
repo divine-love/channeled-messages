@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-11-16-af-confucius
 title: "Creating a Lattice of Light in the World"
 date: 2015-11-16
@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering:
-message_type: ["Guidance"]
+message_type: ["Guidance"]
 description: >
   Confucius reveals that a vast network of souls is being connected through prayer, forming a lattice of Light in the world through which God's blessings flow freely. He teaches that much of this service happens on levels the soul is not yet consciously aware of, and encourages the group to include all known members of this network in their prayers as God weaves each thread into a beautiful and important tapestry.
 primary_subjects: "Lattice of Light"
@@ -34,7 +34,8 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: ""
-essential_teachings: []
+essential_teachings:
+  - "The Lattice of Light is a vast network of souls being connected through prayer, through which God's blessings flow freely to all who are part of it. Every act of prayer and every journey in the world helps strengthen its threads. Much of this service happens on levels the soul is not yet consciously aware of."
 collections: []
 language: en
 excerpt: >
