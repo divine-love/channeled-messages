@@ -1,7 +1,7 @@
 ---
 title: "Divine Healing"
 description: "Messages that describe, demonstrate, or teach the mechanics of divine healing. Includes both accounts of healing events and instruction on how divine healing works — through prayer, soul purity, and the inflowing of God's Love."
-last_updated: 2026-05-20
+last_updated: 2026-05-22
 ---
 
 # Divine Healing
