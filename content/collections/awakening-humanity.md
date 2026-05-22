@@ -1,7 +1,7 @@
 ---
 title: "Awakening Humanity"
 description: "Messages concerning the broader spiritual awakening of humanity — the global shift in consciousness that the Divine Love teachings anticipate and call forth. Includes teachings on the role of prayer circles, light workers, and the awakening mission in the world."
-last_updated: 2026-05-20
+last_updated: 2026-05-22
 ---
 
 # Awakening Humanity
@@ -33,3 +33,4 @@ Messages concerning the broader spiritual awakening of humanity — the global s
 | [Live the Truth of God's Love](../messages/2018/11/2018-11-03-af-matthew.md) | 2018‑11‑03 | Matthew calls the prayer circle to recognise the vast spiritual deprivation of humanity and their own call to service, urging them to live the truth of God's Love with each breath and declare it boldly to a world of souls who do not even know they have a soul. |
 | [God Invites You to Awaken in His Love](../messages/2018/11/2018-11-04-af-augustine.md) | 2018‑11‑04 | Augustine encourages the gathering to pray fervently for the inflowing of Divine Love, assuring them that God has a great plan for the salvation of mankind and invites each soul to participate by opening themselves to His Love and stepping forward as a channel of truth, healing, and comfort in the world. |
 | [Speak Up for Truth and Change](../messages/2018/11/2018-11-05-af-john-wesley.md) | 2018‑11‑05 | John Wesley, now an inhabitant of the Celestial Kingdom, reflects on the limitations of his earthly ministry and the failure of institutional Christianity to teach the higher truth of God's Love. He calls the gathering to stand up with tenacity and courage, declaring the truth of the soul and Divine Love to a world mired in intellectual doctrine and the pursuit of power. |
+| [Divine Love Is the Link to Soul Awakening and Desire to Serve God](../messages/2018/11/2018-11-18-mc-mary.md) | 2018‑11‑18 | Mary encourages a prayer circle of seven to draw hope from the awakening of their own souls, reminding them that Divine Love is the key to healing their suffering and the link that will awaken them to serve God. She assures them that their radiant souls will naturally draw others to the truth, and calls them to continue walking home to God. |

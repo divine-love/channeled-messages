@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-20
+last_updated: 2026-05-22
 ---
 
 # Browse All Messages
@@ -278,4 +278,15 @@ last_updated: 2026-05-20
 | [Many Blessings Flow From a Circle of Light](messages/2018/11/2018-11-05-af-andrew.md) | Andrew | Al Fike | 2018‑11‑05 | When souls gather to pray, the blessings flow far beyond the room, touching the living, the departed, and the world they cannot see. |
 | [Speak Up for Truth and Change](messages/2018/11/2018-11-05-af-john-wesley.md) | John Wesley | Al Fike | 2018‑11‑05 | John Wesley reformed a church but never found the highest truth; now from the Celestial Kingdom he asks who will carry what he could not. |
 | [The Struggle of the Material Mind to Be in Harmony With Love](messages/2018/11/2018-11-06-af-augustine.md) | Augustine | Al Fike | 2018‑11‑06 | The soul already knows how to love; the lifelong work is teaching the mind to follow where the soul leads. |
+| [Lotus Blossom Message from Oz](messages/2018/11/2018-11-14-af-lotus-blossom.md) | Lotus Blossom | Al Fike | 2018‑11‑14 | The healing that begins in prayer does not stop when you sleep; spirits attend to you through the night. |
 | [Open Your Minds and Souls to God's Guidance](messages/2018/11/2018-11-14-af-seretta-kem.md) | Seretta Kem | Al Fike | 2018‑11‑14 | What looks like a modest gathering is, in God's hands, the planting of seeds whose fruit you may never see but others will taste. |
+| [Yogananda Message from Oz](messages/2018/11/2018-11-14-af-yogananda.md) | Yogananda | Al Fike | 2018‑11‑14 | All truth, from every tradition and every era, flows in one direction: toward God. |
+| [Have Faith That Your Soul Awakens](messages/2018/11/2018-11-15-af-confucius.md) | Confucius | Al Fike | 2018‑11‑15 | God does not wait for your mind to figure it out; He speaks first to the soul, and asks the mind to follow. |
+| [Blessings Come When You Pray Together](messages/2018/11/2018-11-15-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2018‑11‑15 | When souls gather to pray, spirits gather too, and the gifts within each soul are quietly, carefully drawn open. |
+| [How to Bring the Truth to New Souls](messages/2018/11/2018-11-18-af-michael.md) | Michael | Al Fike | 2018‑11‑18 | You do not need to convince anyone; you only need to show up in love, and let God do the rest. |
+| [Divine Love Is the Link to Soul Awakening and Desire to Serve God](messages/2018/11/2018-11-18-mc-mary.md) | Mary, Mother of Jesus | Maureen Cardoso | 2018‑11‑18 | You already hold the key to your own suffering; every prayer is another step on the long, beautiful walk home to God. |
+| [Natural Love versus Divine Love Soul Progression](messages/2018/11/2018-11-20-af-professor-salyards.md) | Professor Salyards | Al Fike | 2018‑11‑20 | The natural love soul wins truth through effort and intellect; the Divine Love soul receives it as a flower plucked in joy, no striving required. |
+| [Encouragement to Continue With Plans](messages/2018/11/2018-11-21-af-gandhi.md) | Gandhi | Al Fike | 2018‑11‑21 | You do not need to know the whole plan; you only need to stay close enough to God to hear the next step. |
+| [On the Value of Building Portals of Light](messages/2018/11/2018-11-21-af-james.md) | James | Al Fike | 2018‑11‑21 | You are one end of the bridge; spirits are the other, and your prayers are the cables that hold it all together. |
+| [Being a Channel of God's Love Requires Taming the Mind and Exemplifying the Soul](messages/2018/11/2018-11-21-af-yogananda.md) | Yogananda | Al Fike | 2018‑11‑21 | Prayer opens the soul, but only you can tame the mind that stands between the soul's light and the world that needs it. |
+| [Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens](messages/2018/11/2018-11-22-af-yogananda.md) | Yogananda | Al Fike | 2018‑11‑22 | Yogananda knew the bliss of meditation and the peace of the natural heavens, and says neither compares to one moment in God's Love. |
