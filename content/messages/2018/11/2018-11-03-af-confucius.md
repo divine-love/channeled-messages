@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2018-11-03-af-confucius
 title: "As You Pray Together You Are a Channel of Love for Many"
 date: 2018-11-03
