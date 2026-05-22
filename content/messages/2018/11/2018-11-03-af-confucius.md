@@ -43,10 +43,10 @@ excerpt: >
   You become a powerful channel of love and light in this world, that you pray
   together in this way.
 door: >
-  When souls gather to pray, they become more than individuals — a living channel
+  When souls gather to pray, they become more than individuals, a living channel
   through which God's healing flows outward to a grieving world.
 collections: []
-last_edited: 2026-05-08
+last_edited: 2026-05-20
 ---
 
 Beloved souls, God's healing and pure waters of love wash over you at this time, that you may be cleansed of all conditions that are not of the purity and light of God's Love. He holds you close to His Bosom, beloveds. He draws you into the awakening that will open your eyes to His Presence, that will help you to release those things that burden you, that assures you that you are loved.
