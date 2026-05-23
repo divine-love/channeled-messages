@@ -25,40 +25,43 @@ location:                              # REQUIRED object; city is required, regi
 
 gathering:                             # OPTIONAL. Name of retreat or event. Leave blank for regular prayer circles. e.g., "August 2015 Gibsons Retreat"
 
-message_type:                          # REQUIRED. One or more of: Blessing, Guidance, Teaching.
-  - Guidance
-  # - Blessing
-  # - Teaching
+message_type: ["Guidance"]             # REQUIRED. Exactly one of: Blessing, Guidance, Teaching.
 
-description: >                         # REQUIRED. 1–2 sentence curator summary (max ~600 chars).
+description: >                         # REQUIRED. 1-2 sentence curator summary (max ~600 chars).
   One or two sentences describing the heart of this message, its emphasis, and intended comfort or instruction.
 
-primary_subjects: Main Subject         # REQUIRED. Exactly one subject from your "Hierarchy of Subjects in the Messages".
+primary_subjects: Main Subject         # REQUIRED. Exactly one subject from subjects.yml at any level of the hierarchy.
 
-secondary_subjects:                    # OPTIONAL. Up to five subjects from any level of the hierarchy — top category or subcategory. Choose the most relevant regardless of level.
+secondary_subjects:                    # OPTIONAL. Up to five subjects from any level of the hierarchy.
   # - Another Subject
   # - Optional Second Subject
 
-people: []                             # OPTIONAL. Living people mentioned (exclude the medium). e.g., ["Barbara", "James Padgett"]
-spirits: []                            # OPTIONAL. spirit_id values of spirits mentioned besides the primary spirit author. Must match filenames in /spirits/ exactly. e.g., ["john-the-beloved", "mary"]
+people: []                             # OPTIONAL. Living people mentioned (exclude the medium). e.g., ["James Padgett"]
+spirits: []                            # OPTIONAL. spirit_id values of other spirits who appear in the message. e.g., ["john-the-beloved", "mary"]
 
-keywords: []                           # OPTIONAL. Free-form topical tags. e.g., ["fear", "trust", "protection"]
+keywords: []                           # OPTIONAL. Free-form topical tags in bracket format. e.g., ["fear", "trust", "protection"]
 
-questions: []                          # RECOMMENDED. Natural language questions this message answers, as a seeker might search for them. Include as many as relevant. e.g., ["How does Divine Love change the soul?", "Can any soul be redeemed?", "What is the difference between natural love and Divine Love?"]
+questions:                             # RECOMMENDED. Natural language questions a seeker might search for.
+  - "How does Divine Love change the soul?"
+  - "Can any soul be redeemed?"
 
-related_messages: []                   # OPTIONAL. IDs of closely related messages — always fully lowercase. e.g., ["2015-10-12-af-mary"]
+related_messages: []                   # OPTIONAL. Subject connections only — never date or proximity. Always fully lowercase. e.g., ["2015-10-12-af-mary"]
 
-audio_url:                             # OPTIONAL. Link to the audio recording (MP3/stream). e.g., "https://example.com/audio/ID.mp3"
-canonical_url:                         # OPTIONAL. Permanent external URL where the message is officially published.
+audio_url: ""                          # OPTIONAL. Link to audio recording (MP3/stream).
+canonical_url: ""                      # OPTIONAL. Permanent external URL where message is published. Leave blank if not publicly posted online.
 
-notes:                                 # OPTIONAL. Curator notes, context, or provenance.
+notes: ""                              # OPTIONAL. Curator notes, context, or provenance.
 
-significance:                          # OPTIONAL. Use sparingly. Values: "Key Teaching", "Prophetic", "Historical", "Healing", "Biographical", "Milestone"
+essential_teachings: []               # OPTIONAL. Use sparingly. Values: "Core Teaching", "Prophecy", "Historical", "Divine Healing", "Spirit Biography", "Milestone"
 
 language: en                           # REQUIRED. Language code (ISO 639-1). Default is "en" for English.
 
-excerpt:                               # OPTIONAL. Short pull quote or highlight for social sharing and teasers. Direct quote or curator-written. Aim for under 200 characters.
+excerpt: >                             # OPTIONAL. Short pull quote or highlight. Aim for under 200 characters.
+  Evocative pull quote from the message text.
 
-series: []                             # OPTIONAL. Thematic groupings for curated website collections. Leave empty until groupings are defined.
+door: >                                # OPTIONAL. Single sentence distilling the transformative insight. Max 300 characters. No em dashes.
+  The door sentence goes here.
+
+collections: []                        # OPTIONAL. Thematic collections. Values: "Mind & Soul", "Two Paths", "Awakening Humanity", "Healing Path", "Service & Mission", "Letters from History", "Jesus Speaks", "Prism of the Soul", "The Saints & Apostles Speak"
 
 last_edited: 2025-01-01               # Update to today's date whenever this record is modified (YYYY-MM-DD).
