@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-10-26-af-faith
 title: "Guidance about Our Choices in the Flow of God's Love"
 date: 2015-10-26

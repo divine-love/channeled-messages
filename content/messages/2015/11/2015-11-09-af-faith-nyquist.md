@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-11-09-af-faith
 title: "Persist in Your Faith in Bringing about Centers of Light in the World"
 date: 2015-11-09

@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-10-19-af-augustine
 title: "Choose Well Your Next Steps"
 date: 2015-10-19

@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-11-02-af-seretta-kem
 title: "Seretta Kem Speaks to a Beginners Group"
 date: 2015-11-02

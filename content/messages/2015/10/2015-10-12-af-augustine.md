@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-10-12-af-augustine
 title: "The Difference Between the Material Mind and the Soul Mind"
 date: 2015-10-12
