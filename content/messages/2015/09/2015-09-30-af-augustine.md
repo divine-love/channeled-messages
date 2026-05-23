@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-09-30-af-augustine
 title: "Continue to Open Your Arms and Build Circles of Light"
 date: 2015-09-30

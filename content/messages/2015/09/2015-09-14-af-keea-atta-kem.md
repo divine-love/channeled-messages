@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-09-14-af-keea-atta-kem
 title: "A Grateful Soul Is an Open Soul"
 date: 2015-09-14

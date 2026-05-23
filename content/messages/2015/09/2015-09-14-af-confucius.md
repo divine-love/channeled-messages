@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-09-14-af-confucius
 title: "Embrace All the Children of the World in Love"
 date: 2015-09-14

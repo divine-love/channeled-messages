@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-09-27-af-alec-gaunt
 title: "Continue Steadfastly on the Path of Love"
 date: 2015-09-27
