@@ -35,14 +35,15 @@ audio_url: ""
 canonical_url: ""
 notes: ""
 essential_teachings:
-  - "The Lattice of Light is a vast network of souls being connected through prayer, through which God's blessings flow freely to all who are part of it. Every act of prayer and every journey in the world helps strengthen its threads. Much of this service happens on levels the soul is not yet consciously aware of."
+  - "Core Teaching"
+  - "Key Teaching"
 collections: []
 language: en
 excerpt: >
   There is a great network of Light being formed in the world, my beloveds. Many souls are being connected in this Light, this lattice of Light and you, my beloveds, as you pray are being used to formulate and to maintain this Light in the world.
 door: >
   Confucius reveals that every prayer and journey strengthens a vast lattice of Light, as God quietly weaves each soul into a tapestry of connection and blessing that spans the world.
-last_edited: 2026-05-22
+last_edited: 2026-05-23
 ---
 
 It is Confucius, God bless you. There is a great network of Light being formed in the world, my beloveds. Many souls are being connected in this Light, this lattice of Light and you, my beloveds, as you pray are being used to formulate and to maintain this Light in the world. You assist in bringing greater connections that Love and blessings and Light may flow freely to those who are connected in this vast network blessed by God. And, it is important when you travel in the world you help to strengthen these bonds, this Light, and when you pray for others you also bring a stronger connection in your efforts.
