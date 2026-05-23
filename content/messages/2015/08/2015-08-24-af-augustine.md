@@ -1,4 +1,4 @@
-﻿---
+---
 message_id: 2015-08-24-af-augustine
 title: "Discernment and Soul Alignment after the Retreat"
 date: 2015-08-24
