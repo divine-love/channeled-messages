@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-22
+last_updated: 2026-05-23
 ---
 
 # Browse All Messages
@@ -160,14 +160,21 @@ last_updated: 2026-05-22
 | [Journey upon the Waters of Life Together](messages/2015/10/2015-10-05-af-moses.md) | Moses | Al Fike | 2015‑10‑05 | The journey is not meant to be walked alone. God sends companions for a reason |
 | [The Difference Between the Material Mind and the Soul Mind](messages/2015/10/2015-10-12-af-augustine.md) | Augustine | Al Fike | 2015‑10‑12 | Augustine distinguishes two forms of inner knowing: the material mind's analysis and the soul mind's direct comprehension of divine reality, which opens only when God's Love ignites the flame within. |
 | [Continue to Love](messages/2015/10/2015-10-12-af-john-the-beloved.md) | John the Beloved | Al Fike | 2015‑10‑12 | When everything else is uncertain, continuing to love is always the right next step |
-| [These Are the Days to Learn How to Love](messages/2015/10/2015-10-19-af-augustine.md) | Augustine | Al Fike | 2015‑10‑19 | You are living in the very days that matter most, and learning to love is the work of these days |
+| [Mary Is with You](messages/2015/10/2015-10-12-af-mary.md) | Mary | Al Fike | 2015‑10‑12 | Mary's presence is not ceremonial or occasional; she walks with each soul through difficulty and triumph alike, always nearby in prayer, in guidance, and in love. |
+| [These Are the Days to Learn How to Love](messages/2015/10/2015-10-19-af-augustine-2.md) | Augustine | Al Fike | 2015‑10‑19 | You are living in the very days that matter most, and learning to love is the work of these days |
+| [Choose Well Your Next Steps](messages/2015/10/2015-10-19-af-augustine.md) | Augustine | Al Fike | 2015‑10‑19 | Augustine reminds a gathering of decision-makers that God will not dictate the path, but the soul will quietly confirm the rightness of each step taken in humility and love. |
+| [You Create Circles of Light in the World](messages/2015/10/2015-10-19-af-jesus.md) | Jesus | Al Fike | 2015‑10‑19 | Jesus blesses the gathered workers, affirming that together they form a Circle of Light and individually they radiate waves of healing into a world crying out in pain and confusion. |
 | [You Are Becoming God's Instruments and Channels of Love](messages/2015/10/2015-10-19-af-john-the-beloved.md) | John the Beloved | Al Fike | 2015‑10‑19 | Becoming a channel of Love is not a destination. It is a continuous unfolding |
 | [The First Father Talks about Reincarnation and the Progression of Life](messages/2015/10/2015-10-26-af-aman.md) | Aman | Al Fike | 2015‑10‑26 | You incarnate once, and that one life sets the trajectory of an eternal journey |
+| [Guidance about Our Choices in the Flow of God's Love](messages/2015/10/2015-10-26-af-faith-nyquist.md) | Faith | Al Fike | 2015‑10‑26 | Faith teaches that judging another's beliefs is a function of the mind; what truly changes lives is the soul-to-soul current of love flowing freely through a life lived as a quiet example of grace. |
 | [So Many in the Unseen World Benefit from Your Prayers Together](messages/2015/10/2015-10-26-af-seretta-kem.md) | Seretta Kem | Al Fike | 2015‑10‑26 | Your prayers reach into the spirit world and bring healing to souls you will never meet in this life |
 | [Free Will Governs Your Path](messages/2015/11/2015-11-02-af-augustine.md) | Augustine | Al Fike | 2015‑11‑02 | Free will is not a burden. It is the dignity God gave you to choose Love |
 | [Release the Yoke of Error and Lack of Self Love](messages/2015/11/2015-11-02-af-john-the-beloved.md) | John the Beloved | Al Fike | 2015‑11‑02 | The yoke you are carrying was never meant for you. It can be laid down |
+| [Seretta Kem Speaks to a Beginners Group](messages/2015/11/2015-11-02-af-seretta-kem.md) | Seretta Kem | Al Fike | 2015‑11‑02 | Seretta Kem welcomes new seekers with the assurance that their soul's longing drew them to the Light long before the mind understood why, and that same longing will carry them forward for all eternity. |
+| [Persist in Your Faith in Bringing about Centers of Light in the World](messages/2015/11/2015-11-09-af-faith-nyquist.md) | Faith | Al Fike | 2015‑11‑09 | Faith prays for the group and then calls them to persist through every setback, assuring them that spirits are actively clearing the path and that God's Will cannot ultimately be thwarted. |
 | [Healing for This Precious World Is Required](messages/2015/11/2015-11-09-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2015‑11‑09 | The world is not beyond healing, but it needs souls willing to be instruments of that healing |
 | [Do Not Hide Away but Express Your Gifts in the World](messages/2015/11/2015-11-16-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2015‑11‑16 | Hiding your gifts is not humility. It is withholding blessings from those who need them |
+| [Creating a Lattice of Light in the World](messages/2015/11/2015-11-16-af-confucius.md) | Confucius | Al Fike | 2015‑11‑16 | Confucius reveals that every prayer and journey strengthens a vast lattice of Light, as God quietly weaves each soul into a tapestry of connection and blessing that spans the world. |
 | [It Shall Start in the West and Move Around the World](messages/2015/11/2015-11-23-af-jesus.md) | Jesus of Nazareth | Al Fike | 2015‑11‑23 | The awakening of humanity has already begun, and it started where you are standing |
 | [Prayer to Bring Freedom and Joy](messages/2015/11/2015-11-28-af-confucius.md) | Confucius | Al Fike | 2015‑11‑28 | Prayer is not an obligation. It is the most direct path to freedom and joy |
 | [Encouragement to Form Circles of Light](messages/2015/11/2015-11-28-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2015‑11‑28 | Every Circle of Light you form sends ripples of healing far beyond what you can see |
