@@ -1,5 +1,5 @@
 ---
-message_id: 2015-10-26-af-faith
+message_id: 2015-10-26-af-faith-nyquist
 title: "Guidance about Our Choices in the Flow of God's Love"
 date: 2015-10-26
 spirit_name: Faith
