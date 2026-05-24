@@ -53,7 +53,7 @@ language: en
 excerpt: >
   What you believe today about truth, about yourselves, about the world is a
   mixture of error and truth. As your soul expands in Love, so all changes.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You are indeed wading into that river and that river cleanses, pulls those things that are upon you, encrustations and error, away and dissolves these things in Love
 last_edited: 2026-05-01

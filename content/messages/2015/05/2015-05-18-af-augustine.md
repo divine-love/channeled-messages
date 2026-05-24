@@ -49,7 +49,7 @@ language: en
 excerpt: >
   Do you recognize your two selves, the one which is human and the one which is
   your soul?
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   Do you recognize your two selves, the one which is human and the one which is your soul?
 last_edited: 2026-04-30

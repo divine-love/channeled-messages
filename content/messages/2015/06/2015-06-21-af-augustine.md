@@ -39,6 +39,7 @@ notes: ""
 essential_teachings: []
 door: >
   What looks bruised and damaged to you may be exactly what God is healing from the inside
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

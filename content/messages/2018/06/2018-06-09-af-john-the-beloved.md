@@ -54,7 +54,7 @@ excerpt: >
   willing to receive this gift that I give and will continue to give in
   abundance until your souls truly know me? Even then, I shall continue to
   bless you."
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   'God places His Hand upon you and asks: Will you accept my Love? Even when your soul truly knows me, I shall continue to bless you'
 last_edited: 2026-04-23

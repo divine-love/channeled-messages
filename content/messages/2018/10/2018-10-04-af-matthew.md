@@ -52,7 +52,7 @@ excerpt: >
   encroaches upon it and be with God.
 door: >
   Release your cloaks, go naked to God, bare your souls. Be free of all that encroaches upon it and be with God.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 last_edited: 2026-05-01
 ---
 

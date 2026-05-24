@@ -43,7 +43,7 @@ excerpt: >
 door: >
   The retreat is over but the fellowship is not; you leave with brothers
   and sisters who will walk beside you for the rest of the journey.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-20
 ---
 

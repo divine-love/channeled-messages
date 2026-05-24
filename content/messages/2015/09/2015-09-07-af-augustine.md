@@ -41,6 +41,7 @@ notes: ""
 essential_teachings: []
 door: >
   The disorientation you feel is not confusion. It is your soul's eyes learning to see
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

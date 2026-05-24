@@ -48,7 +48,7 @@ language: en
 excerpt: >
   You are the first tender shoots of this spring that is dawning for mankind —
   you are awakening, my beloveds.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   You are the first tender shoots of a spring that is dawning for all of mankind
 last_edited: 2026-04-17

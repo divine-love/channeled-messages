@@ -40,6 +40,7 @@ notes: ""
 essential_teachings: []
 door: >
   Becoming a channel of Love is not a destination. It is a continuous unfolding
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

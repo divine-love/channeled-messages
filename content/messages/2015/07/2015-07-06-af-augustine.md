@@ -39,6 +39,7 @@ notes: >
 essential_teachings: []
 door: >
   Every soul who comes to you is sent. Receive them accordingly
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

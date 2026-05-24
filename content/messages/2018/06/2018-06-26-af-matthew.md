@@ -57,7 +57,7 @@ excerpt: >
   has challenged you, and rather than the old pattern there is love, compassion,
   and forgiveness - you have overcome a barrier to love and become stronger in
   Light.
-collections: ["Mind & Soul", "Healing Path"]
+collections: ["Mind & Soul", "Healing Path", "The Saints & Apostles Speak"]
 door: >
   You will know when you have passed the test. When you gaze upon one who has challenged you and find love, compassion, and forgiveness - you have become stronger in Light
 last_edited: 2026-04-23

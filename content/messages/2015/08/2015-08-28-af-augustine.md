@@ -39,6 +39,7 @@ notes: ""
 essential_teachings: []
 door: >
   Working together in Love creates something none of you could create alone
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

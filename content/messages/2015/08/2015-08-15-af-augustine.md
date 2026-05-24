@@ -44,6 +44,7 @@ notes: >
 essential_teachings: []
 door: >
   God is always opening new possibilities. Your only task is to remain open
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

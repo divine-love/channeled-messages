@@ -42,6 +42,7 @@ notes: >
 essential_teachings: []
 door: >
   What God prepares for a gathering of souls is far greater than what any one of them imagined
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

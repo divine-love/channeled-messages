@@ -51,6 +51,7 @@ door: >
   to follow where the soul leads.
 collections:
   - "Mind & Soul"
+  - "The Saints & Apostles Speak"
 last_edited: 2026-05-19
 ---
 

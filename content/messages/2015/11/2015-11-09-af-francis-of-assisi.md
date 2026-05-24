@@ -43,6 +43,7 @@ notes: >
 essential_teachings: []
 door: >
   The world is not beyond healing, but it needs souls willing to be instruments of that healing
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

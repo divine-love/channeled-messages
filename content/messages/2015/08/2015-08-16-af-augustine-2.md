@@ -51,7 +51,7 @@ excerpt: >
 door: >
   You already have the gifts; the only thing left is to decide how much of
   your life you are willing to give to using them.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-20
 ---
 

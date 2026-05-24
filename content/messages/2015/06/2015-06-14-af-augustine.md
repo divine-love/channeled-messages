@@ -36,6 +36,7 @@ notes: ""
 essential_teachings: []
 door: >
   The doors God opens are not always the ones you were expecting
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

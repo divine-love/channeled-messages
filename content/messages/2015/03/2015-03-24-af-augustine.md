@@ -56,7 +56,7 @@ excerpt: >
   and in time His Will is enacted. To have willing souls who are ignited by
   God's Love is a treasure in this world - for through them miracles may
   be manifested.
-collections: ["Letters from History"]
+collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   There is fate and yet there is no fate. God sees all and anticipates all - and in time, His Will is enacted
 last_edited: 2026-04-23

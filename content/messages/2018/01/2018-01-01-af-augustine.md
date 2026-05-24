@@ -51,7 +51,7 @@ excerpt: >
   Resist the temptation of adulation from those who recognize your Light. Humbly
   point to the Source of All and say: this is from whence all of my gifts come.
   It is for each child to petition God to receive these gifts of Love.
-collections: ["Service & Mission"]
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Resist the temptation of adulation. Humbly point every soul to God as the Source of all gifts
 last_edited: 2026-04-23

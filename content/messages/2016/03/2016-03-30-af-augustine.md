@@ -57,7 +57,7 @@ excerpt: >
   I taught error, and that error to some degrees still survives to this day
   within the church. I did not listen to God. I listened to my own mind and
   desire and fears, my own humanity.
-collections: ["Letters from History"]
+collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   True power is not control. It is the strength that comes from letting God flow through you unrestricted
 last_edited: 2026-04-23

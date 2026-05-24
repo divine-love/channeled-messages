@@ -45,7 +45,7 @@ excerpt: >
   the light of day, to be an integral part of your life. These things come from
   your souls - these desires, these gifts, these abilities and faculties that
   give deeper meaning to your lives.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   Those parts of you that have lain dormant for many years are now eager for the light of day. They come from your soul
 last_edited: 2026-04-23

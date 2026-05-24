@@ -56,7 +56,7 @@ excerpt: >
   your perceptions of yourself and the world.
 door: >
   Draw your line, beloved souls — your line against darkness and error, your line against self-hatred. I am a child of God and I shall live accordingly.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 last_edited: 2026-05-05
 ---
 

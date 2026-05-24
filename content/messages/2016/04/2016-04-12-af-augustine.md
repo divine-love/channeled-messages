@@ -50,7 +50,7 @@ language: en
 excerpt: >
   Just think how much freedom you will obtain by letting go — this is not
   relinquishing action, but releasing your mind's desire to control outcomes.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   Think how much freedom you will obtain by simply letting go
 last_edited: 2026-04-17

@@ -37,6 +37,7 @@ notes: ""
 essential_teachings: []
 door: >
   Freedom to choose is the very thing that makes love real
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-11
 ---
 

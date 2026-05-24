@@ -53,6 +53,7 @@ door: >
   that leads to God, and your shining on it gives others the same choice.
 collections:
   - "Awakening Humanity"
+  - "The Saints & Apostles Speak"
 last_edited: 2026-05-20
 ---
 

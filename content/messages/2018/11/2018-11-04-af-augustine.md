@@ -53,6 +53,7 @@ door: >
 collections:
   - "Awakening Humanity"
   - "Service & Mission"
+  - "The Saints & Apostles Speak"
 last_edited: 2026-05-19
 ---
 

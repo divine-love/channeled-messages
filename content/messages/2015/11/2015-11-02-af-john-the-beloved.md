@@ -41,6 +41,7 @@ notes: >
 essential_teachings: []
 door: >
   The yoke you are carrying was never meant for you. It can be laid down
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

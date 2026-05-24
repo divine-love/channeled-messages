@@ -42,6 +42,7 @@ notes: >
 essential_teachings: []
 collections:
   - "Service & Mission"
+  - "The Saints & Apostles Speak"
 language: en
 excerpt: >
   God will insulate you from the human condition if you are willing to be attuned to Him in ways that you have been attuned to God in these past days.

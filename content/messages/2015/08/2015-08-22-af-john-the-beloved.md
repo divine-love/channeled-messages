@@ -40,6 +40,7 @@ notes: ""
 essential_teachings: []
 door: >
   Prayer is not a petition to a distant God. It is communion with One who is already present
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

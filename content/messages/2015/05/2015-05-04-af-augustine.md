@@ -45,7 +45,7 @@ essential_teachings: []
 language: en
 excerpt: >
   Walk in the Light, my beloveds, and do not allow the negative conditions of this world to impinge upon this work that you have committed together to do.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   You must all be aware of each step that you take, each word that you speak, each feeling that you feel
 last_edited: 2026-04-30

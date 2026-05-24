@@ -47,7 +47,7 @@ excerpt: >
 door: >
   God has given you a gift tonight that will work while you sleep; come
   to prayer tomorrow ready to receive what He has prepared.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-20
 ---
 

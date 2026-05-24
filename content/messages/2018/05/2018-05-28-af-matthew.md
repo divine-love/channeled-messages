@@ -54,7 +54,7 @@ excerpt: >
   The innocent child knows its own soul. It is part of its consciousness, a
   natural flow of understanding. Then the world buries it. Your whole spiritual
   journey is simply learning to find it again.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The innocent child knows its own soul naturally. Then the world buries it. Your whole spiritual journey is simply learning to find it again
 last_edited: 2026-04-23

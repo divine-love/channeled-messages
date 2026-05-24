@@ -53,7 +53,7 @@ language: en
 excerpt: >
   Pray with faith and joy. For it is in this opening and joyful acknowledgment
   of God that the power required to heal your world will come.
-collections: ["Awakening Humanity"]
+collections: ["Awakening Humanity", "The Saints & Apostles Speak"]
 door: >
   Pray with faith and joy. For it is in this opening and joyful acknowledgment of God that the power required to heal your world will come
 last_edited: 2026-05-01

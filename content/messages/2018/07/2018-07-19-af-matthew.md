@@ -51,7 +51,7 @@ language: en
 excerpt: >
   The transition to the world of spirit will be celebrated — a changing of the conditions
   in which a soul lives and operates. It is nothing more than this.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The transition to the world of spirit will be celebrated — a changing of the conditions in which a soul lives and operates. It is nothing more than this
 last_edited: 2026-04-30

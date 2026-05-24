@@ -37,6 +37,7 @@ notes: ""
 essential_teachings: []
 door: >
   Your longing is already a prayer and God hears it before you find the words
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-11
 ---
 

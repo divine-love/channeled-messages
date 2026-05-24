@@ -41,6 +41,7 @@ notes: ""
 essential_teachings: []
 door: >
   Free will is not a burden. It is the dignity God gave you to choose Love
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

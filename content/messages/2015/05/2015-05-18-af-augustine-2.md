@@ -48,7 +48,7 @@ language: en
 excerpt: >
   Each soul has something unique to give to the world. Now is the time to discover
   that gift, to begin to express it, and to walk in the world with confidence.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   What do I have to give to others that is uniquely from me and my experience upon the Divine Path?
 last_edited: 2026-04-30

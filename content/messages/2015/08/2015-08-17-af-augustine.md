@@ -43,7 +43,7 @@ excerpt: >
 door: >
   The choice is already made within your soul; the work now is simply to
   uncover what is already there.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-20
 ---
 

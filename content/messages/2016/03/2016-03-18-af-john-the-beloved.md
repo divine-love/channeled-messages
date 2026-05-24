@@ -49,7 +49,7 @@ language: en
 excerpt: >
   You and God are bonded for all eternity, and you shall continue to serve Him in
   ever greater, deeper and more wondrous ways as you become closer to Him.
-collections: ["Service & Mission"]
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways
 last_edited: 2026-04-17

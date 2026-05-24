@@ -55,6 +55,7 @@ door: >
   voice instead.
 collections:
   - "Mind & Soul"
+  - "The Saints & Apostles Speak"
 last_edited: 2026-05-20
 ---
 

@@ -44,6 +44,7 @@ essential_teachings:
 collections:
   - "Mind & Soul"
   - "Two Paths"
+  - "The Saints & Apostles Speak"
 language: en
 excerpt: >
   The soul is imbued with many qualities and attributes which mostly lie dormant without being ignited and brought to life by God's Divine Essence. It is a knowing, a deep understanding that is not the result of deduction and analysis.

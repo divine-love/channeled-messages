@@ -43,6 +43,7 @@ notes: >
 essential_teachings: []
 door: >
   The fog that obscures your soul is not permanent. Love is already clearing it
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

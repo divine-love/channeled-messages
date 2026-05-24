@@ -41,6 +41,7 @@ essential_teachings: []
 collections:
   - "Service & Mission"
   - "Awakening Humanity"
+  - "The Saints & Apostles Speak"
 language: en
 excerpt: >
   You each hold the key that will save many souls from anguish and pain, darkness and suffering. Shout your joy, my beloveds, and say, I know what it is you long for.

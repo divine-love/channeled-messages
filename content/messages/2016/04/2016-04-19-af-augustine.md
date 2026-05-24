@@ -43,7 +43,7 @@ excerpt: >
   Remember the words we have spoken to you, beloveds — hidden within each lesson
   is a great door to growing your souls and making yourselves a clearer channel
   of Love in the world.
-collections: ["Service & Mission"]
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Hidden within each lesson is a great door to growing your souls
 last_edited: 2026-04-17

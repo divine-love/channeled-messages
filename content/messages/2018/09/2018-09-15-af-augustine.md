@@ -56,7 +56,7 @@ excerpt: >
   You are the innovators, beloveds, even though this truth is ancient. You are
   bringing to these scientifically-inclined individuals a greater science, the
   science of the soul.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You are the innovators, beloveds, even though this truth is ancient. You are bringing to these scientifically-inclined individuals a greater science, the science of the soul
 last_edited: 2026-05-01

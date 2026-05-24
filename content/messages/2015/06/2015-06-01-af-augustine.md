@@ -38,6 +38,7 @@ notes: ""
 essential_teachings: []
 door: >
   Surrender to God's Will is not defeat. It is the beginning of your true life
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-11
 ---
 

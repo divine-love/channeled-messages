@@ -41,6 +41,7 @@ notes: ""
 essential_teachings: []
 door: >
   The sweet yearning you feel is your soul showing you the way to Truth
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

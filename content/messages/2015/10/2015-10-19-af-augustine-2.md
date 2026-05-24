@@ -37,6 +37,7 @@ notes: ""
 essential_teachings: []
 door: >
   You are living in the very days that matter most, and learning to love is the work of these days
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

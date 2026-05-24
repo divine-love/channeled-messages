@@ -56,7 +56,7 @@ excerpt: >
   different Truth than what has been placed within your mind. You are the
   vanguards seeking to move forward into a new dawn of Love and Truth that
   God intends for this world.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You are scientists of the soul, discovering its mysteries. The vanguards of a new dawn of Love and Truth that God intends for this world
 last_edited: 2026-04-23

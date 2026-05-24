@@ -46,7 +46,7 @@ essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
  A thousand words, a million books will never truly bring this Truth as it is experienced by that deep Touch from God. One must feel Love to understand it.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   A thousand words and a million books will never bring this Truth as it is experienced by that deep Touch from God
 last_edited: 2026-04-23

@@ -55,7 +55,7 @@ excerpt: >
   Think of mixing colors. If the mind is red and the soul is yellow and you
   desire a beautiful sunset orange, you would mix predominantly yellow with red.
   It is not one or the other. It is a harmonious intermingling.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The goal is not soul or mind. It is a beautiful orange - predominantly soul, but with the mind mixed in to create something harmonious and whole
 last_edited: 2026-04-23

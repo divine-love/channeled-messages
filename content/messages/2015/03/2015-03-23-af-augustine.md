@@ -43,7 +43,7 @@ language: en
 excerpt: >
   They will fill this building and the hosannas will rise to God. Guidance
   will be given concerning this place when the time is right.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 door: >
   They will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right
 last_edited: 2026-04-23

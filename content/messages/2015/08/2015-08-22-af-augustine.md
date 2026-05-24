@@ -37,6 +37,7 @@ notes: ""
 essential_teachings: []
 door: >
   Sharing your inner changes with others is itself an act of Love and courage
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

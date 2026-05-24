@@ -38,6 +38,7 @@ notes: ""
 essential_teachings: []
 door: >
   When everything else is uncertain, continuing to love is always the right next step
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

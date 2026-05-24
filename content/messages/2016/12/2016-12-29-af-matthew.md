@@ -53,7 +53,7 @@ excerpt: >
   You live in a very special time — a time of further awakening of mankind, a
   time of healing this world, a time of bringing more truth and light and love.
   You have been asked to forge this path.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The reality you have built in your mind is not the only reality. Letting go of it is liberation, not loss
 last_edited: 2026-04-17

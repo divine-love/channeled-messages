@@ -40,6 +40,7 @@ notes: >
 essential_teachings: []
 door: >
   The door is already open. The only question is whether you will walk through it
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

@@ -48,6 +48,7 @@ door: >
   feels like thinking, and be honest; you will be surprised by what you find.
 collections:
   - "Mind & Soul"
+  - "The Saints & Apostles Speak"
 last_edited: 2026-05-20
 ---
 

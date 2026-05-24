@@ -51,7 +51,7 @@ excerpt: >
   A heart cold and unloving does not truly live. A heart filled with love,
   beaming Light and feeling connected to all creation, knows the deep joy that is
   unobtainable when there is no openness or acknowledgement of love.
-collections: ["Letters from History"]
+collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   Love is not something to find outside yourself. It is something God pours in when you simply ask
 last_edited: 2026-04-17

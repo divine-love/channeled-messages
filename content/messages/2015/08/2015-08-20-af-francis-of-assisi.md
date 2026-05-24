@@ -59,6 +59,7 @@ door: >
 collections:
   - "Letters from History"
   - "Awakening Humanity"
+  - "The Saints & Apostles Speak"
 last_edited: 2026-05-20
 ---
 

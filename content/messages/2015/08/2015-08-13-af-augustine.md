@@ -52,7 +52,7 @@ excerpt: >
 door: >
   God's preparation goes deeper than you know, right down to the cellular
   level; the work ahead has already begun within you.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-20
 ---
 

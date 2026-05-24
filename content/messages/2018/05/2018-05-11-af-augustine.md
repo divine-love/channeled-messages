@@ -49,7 +49,7 @@ excerpt: >
   This place is blessed by God. This refuge is meant for many to come and feel
   the peace, the beauty and to avail themselves of the Love of God in a setting
   that inspires and envelops all who come.
-collections: ["Service & Mission"]
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Open your doors. Let those who come feel the peace. In time they will carry this Light and create their own refuge wherever they are
 last_edited: 2026-04-23

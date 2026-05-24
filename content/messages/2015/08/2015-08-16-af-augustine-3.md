@@ -51,7 +51,7 @@ excerpt: >
 door: >
   God is not asking for everything at once; He is asking for one thing,
   done in love, with everything you have.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-20
 ---
 

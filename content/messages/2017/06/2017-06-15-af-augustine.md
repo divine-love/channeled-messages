@@ -57,7 +57,7 @@ excerpt: >
   With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot
   judge. I may embrace all goodness and Love, and this I will do as I walk upon
   this Divine Path.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot judge
 last_edited: 2026-04-23

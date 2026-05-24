@@ -40,6 +40,7 @@ notes: ""
 essential_teachings: []
 door: >
   The conditions holding you back are not permanent. They are ready to be released
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

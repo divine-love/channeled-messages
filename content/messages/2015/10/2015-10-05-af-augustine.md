@@ -35,6 +35,7 @@ notes: ""
 essential_teachings: []
 door: >
   The Light within you is precious. Treat it accordingly
+collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-04-13
 ---
 

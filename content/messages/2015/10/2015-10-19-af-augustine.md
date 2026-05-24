@@ -36,7 +36,7 @@ canonical_url: ""
 notes: >
   Delivered at a DLSF board meeting. Message is addressed to a specific group; questions reframed universally.
 essential_teachings: []
-collections: []
+collections: ["The Saints & Apostles Speak"]
 language: en
 excerpt: >
   You will know as you take each step forward what is the right thing to do, the right steps to take, for your souls will inform you and you will feel the joy of this, the rightness of this, the knowing of this.
