@@ -1,5 +1,5 @@
 ---
-message_id: 2015-10-26-af-faith-nyquist
+message_id: 2015-10-26-af-faith
 title: "Guidance about Our Choices in the Flow of God's Love"
 date: 2015-10-26
 spirit_name: Faith
@@ -23,15 +23,15 @@ people: []
 spirits: []
 keywords: ["non-judgment", "soul connection", "belief", "example", "prayer for others", "negative forces", "releasing will", "trust", "discipline", "channel of love"]
 questions:
-  - How do I stop judging people who believe differently from me?
-  - What does it mean to connect with someone soul to soul rather than mind to mind?
-  - How do I help someone I love who is struggling without trying to fix or correct them?
-  - What does it mean to teach through example rather than instruction?
-  - How do I pray effectively for people I am worried about?
-  - How does trusting God with those I love bring me peace?
-  - How do I guard against negative influences in my thoughts and interactions?
-  - What does releasing my will to God's Will actually look like in everyday life?
-  - Why does God ask us to pray for others rather than intervene directly ourselves?
+  - "How do I stop judging people who believe differently from me?"
+  - "What does it mean to connect with someone soul to soul rather than mind to mind?"
+  - "How do I help someone I love who is struggling without trying to fix or correct them?"
+  - "What does it mean to teach through example rather than instruction?"
+  - "How do I pray effectively for people I am worried about?"
+  - "How does trusting God with those I love bring me peace?"
+  - "How do I guard against negative influences in my thoughts and interactions?"
+  - "What does releasing my will to God's Will actually look like in everyday life?"
+  - "Why does God ask us to pray for others rather than intervene directly ourselves?"
 related_messages: []
 audio_url: ""
 canonical_url: ""
@@ -44,7 +44,7 @@ excerpt: >
   It is not for you to correct this, it is for you to show Truth within yourselves and who you are in the world, to be an example. It is for God to lead them into the Light.
 door: >
   Faith teaches that judging another's beliefs is a function of the mind; what truly changes lives is the soul-to-soul current of love flowing freely through a life lived as a quiet example of grace.
-last_edited: 2026-05-22
+last_edited: 2026-05-24
 ---
 
 Yes, every soul must take its unique journey, an enfoldment and an unfolding of his path and purpose upon their journey which is guided and touched by God as the soul becomes infused with the Father's Love and your Gifts emerge accordingly. As you begin to release your will to the Father's Will, so your worries and cares are absorbed in your faith and trust in your Heavenly Father. And so you see, my beloveds, how God guides you along your chosen path, and you begin to see what opportunities are placed before you and what precious souls you meet upon your path and what opportunities to be a channel of Love that come with these connections with others.

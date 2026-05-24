@@ -1,5 +1,5 @@
 ---
-message_id: 2015-11-09-af-faith-nyquist
+message_id: 2015-11-09-af-faith
 title: "Persist in Your Faith in Bringing about Centers of Light in the World"
 date: 2015-11-09
 spirit_name: Faith
@@ -23,27 +23,28 @@ people: []
 spirits: []
 keywords: ["Centers of Light", "perseverance", "obstacles", "God's Will", "material mind", "negotiation", "setbacks", "faith", "spirit assistance", "channels of love"]
 questions:
-  - How do I keep going when my efforts to do God's work face constant obstacles and setbacks?
-  - How does God's Will eventually prevail even through circuitous and difficult paths?
-  - How do I communicate spiritual truth to people who operate from a purely material mindset?
-  - Is it normal to face disappointment and difficulty when working for God's purposes?
-  - How do I know whether a difficult endeavour is genuinely God's Will?
-  - What does it mean for faith to be proportional to the power of what God can bring about?
-  - How do spirits in the Celestial Heavens help clear the way for God's work on Earth?
-  - How do I stay spiritually grounded while navigating difficult real-world negotiations?
+  - "How do I keep going when my efforts to do God's work face constant obstacles and setbacks?"
+  - "How does God's Will eventually prevail even through circuitous and difficult paths?"
+  - "How do I communicate spiritual truth to people who operate from a purely material mindset?"
+  - "Is it normal to face disappointment and difficulty when working for God's purposes?"
+  - "How do I know whether a difficult endeavour is genuinely God's Will?"
+  - "What does it mean for faith to be proportional to the power of what God can bring about?"
+  - "How do spirits in the Celestial Heavens help clear the way for God's work on Earth?"
+  - "How do I stay spiritually grounded while navigating difficult real-world negotiations?"
 related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Message opens with Faith praying directly to God on behalf of the group before addressing them. Personally addressed to a group engaged in a specific effort to establish or support a Center of Light at a distant location; questions reframed universally. Faith discloses that during her Earth life she struggled to be heard and acknowledged while doing God's work â€” see faith-nyquist.yml.
-essential_teachings: []
+  Message opens with Faith praying directly to God on behalf of the group before addressing them. Personally addressed to a group engaged in a specific effort to establish or support a Center of Light at a distant location; questions reframed universally. Faith discloses that during her Earth life she struggled to be heard and acknowledged while doing God's work — see faith-nyquist.yml.
+essential_teachings:
+  - "Spirit Biography"
 collections: []
 language: en
 excerpt: >
   It is often a difficult task and may take circuitous routes but God's Will will prevail, it will prevail, my beloveds, as long as you are willing to walk this road and to be steadfast in the Truth.
 door: >
   Faith prays for the group and then calls them to persist through every setback, assuring them that spirits are actively clearing the path and that God's Will cannot ultimately be thwarted.
-last_edited: 2026-05-22
+last_edited: 2026-05-24
 ---
 
 Dear God, may you bless these earnest souls who come together from far and wide that have Your Love burning within their souls and desire to be Your channels of Love in this world. Bless them, keep them under Your cloak of protection with Your Loving Hand upon each beautiful soul in this circle and may Your Peace that passes all understanding be with them as they traverse this world, as they deal with the conditions in this world and help them to shed all that which is not in harmony with Your Love.

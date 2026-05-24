@@ -23,13 +23,13 @@ people: []
 spirits: []
 keywords: ["discernment", "free will", "soul guidance", "decision-making", "purpose", "role", "humility", "acting on guidance", "soul wisdom"]
 questions:
-  - How do I make important decisions from my soul rather than my anxious mind?
-  - How does God guide us without overriding our free will?
-  - How do I know when it is time to act on spiritual guidance rather than continue waiting?
-  - What does it mean to find my unique role and purpose within a larger spiritual mission?
-  - How do I bring soul wisdom into practical group decision-making?
-  - How can I contribute to a shared spiritual mission without conflict or self-doubt?
-  - What does the joy or rightness I feel in a decision tell me spiritually?
+  - "How do I make important decisions from my soul rather than my anxious mind?"
+  - "How does God guide us without overriding our free will?"
+  - "How do I know when it is time to act on spiritual guidance rather than continue waiting?"
+  - "What does it mean to find my unique role and purpose within a larger spiritual mission?"
+  - "How do I bring soul wisdom into practical group decision-making?"
+  - "How can I contribute to a shared spiritual mission without conflict or self-doubt?"
+  - "What does the joy or rightness I feel in a decision tell me spiritually?"
 related_messages: []
 audio_url: ""
 canonical_url: ""
@@ -42,7 +42,7 @@ excerpt: >
   You will know as you take each step forward what is the right thing to do, the right steps to take, for your souls will inform you and you will feel the joy of this, the rightness of this, the knowing of this.
 door: >
   Augustine reminds a gathering of decision-makers that God will not dictate the path, but the soul will quietly confirm the rightness of each step taken in humility and love.
-last_edited: 2026-05-22
+last_edited: 2026-05-24
 ---
 
 It is your teacher Augustine. You have asked for guidance and we would encourage you to speak from your souls and your hearts to allow the wisdom of your souls to manifest with one another in loving and honest ways. Do not hold back from that which you think and know from this place of deep knowing and understanding. Your challenge is to step forward in this way; your challenge is to walk towards the Light and to not have weights upon your feet that are born from the mind.

@@ -24,14 +24,14 @@ people: []
 spirits: []
 keywords: ["gratitude", "open soul", "negativity", "Light", "channels of love", "grace", "choice", "soul perception", "joy"]
 questions:
-  - How does gratitude open the soul to God?
-  - Can practising gratitude actually change how I experience the world around me?
-  - How do I stop negative thoughts from taking hold in my mind?
-  - What is the connection between gratitude and spiritual growth?
-  - How does living with a grateful attitude affect the people around me?
-  - Is love really always a choice, even in difficult circumstances?
-  - How can I bring more Light into my daily life in simple, practical ways?
-  - What does it mean to walk through the world from a place of soul rather than mind?
+  - "How does gratitude open the soul to God?"
+  - "Can practising gratitude actually change how I experience the world around me?"
+  - "How do I stop negative thoughts from taking hold in my mind?"
+  - "What is the connection between gratitude and spiritual growth?"
+  - "How does living with a grateful attitude affect the people around me?"
+  - "Is love really always a choice, even in difficult circumstances?"
+  - "How can I bring more Light into my daily life in simple, practical ways?"
+  - "What does it mean to walk through the world from a place of soul rather than mind?"
 related_messages: []
 audio_url: ""
 canonical_url: ""
@@ -43,7 +43,7 @@ excerpt: >
   A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God.
 door: >
   Gratitude is not merely an attitude but a spiritual practice that clears the clouds of fear and error and lets the soul's Light into waking consciousness.
-last_edited: 2026-05-22
+last_edited: 2026-05-24
 ---
 
 A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God, you are closer to harmony and peace within yourselves. And when the blessing of God's Love clears away all the fear and the error, when you are in that place of gratitude and Love, when you find that deep peace within yourselves, the world changes around you, my beloveds, because you see the world differently, you know the world from a place of soul and Love and perception that comes from the soul.
