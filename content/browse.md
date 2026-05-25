@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 # Browse All Messages
@@ -149,6 +149,7 @@ last_updated: 2026-05-24
 | [Embrace All the Children of the World in Love](messages/2015/09/2015-09-14-af-confucius.md) | Confucius | Al Fike | 2015‑09‑14 | Confucius calls the group to see past every surface difference and recognise what is equal in all souls: the longing for Love and a place in God's Light. |
 | [A Grateful Soul Is an Open Soul](messages/2015/09/2015-09-14-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2015‑09‑14 | Gratitude is not merely an attitude but a spiritual practice that clears the clouds of fear and error and lets the soul's Light into waking consciousness. |
 | [You Are Now Strong Enough to Walk in This Harsh World without Fear](messages/2015/09/2015-09-21-af-andrew.md) | Andrew | Al Fike | 2015‑09‑21 | Andrew calls the soul strengthened by Divine Love to stop fearing the world's hostility and meet it instead with prayer, gratitude, and a blessing directed toward those who cause harm. |
+| [Continue to Seek the Truth and Express the Gifts of Your Soul](messages/2015/09/2015-09-21-af-confucius.md) | Confucius | Al Fike | 2015‑09‑21 | Every question your soul asks is already drawing the angels closer; keep asking and God will keep opening doors. |
 | [Each of You Has Been Given a Special Gift](messages/2015/09/2015-09-21-af-mary.md) | Mary | Al Fike | 2015‑09‑21 | Mary teaches that God has already placed unique gifts and purpose within every soul; all that is needed is the willingness to go within and let His Love reveal what is already there. |
 | [Continue Steadfastly on the Path of Love](messages/2015/09/2015-09-27-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2015‑09‑27 | Alec Gaunt assures the group that even when progress feels invisible, celestial friends are working behind the scenes to help each soul find its place in God's great plan of healing. |
 | [His Love Clears away the Shadows and the Mists, Allowing You to Know Your Own Souls](messages/2015/09/2015-09-27-af-augustine.md) | Augustine | Al Fike | 2015‑09‑27 | The fog that obscures your soul is not permanent. Love is already clearing it |

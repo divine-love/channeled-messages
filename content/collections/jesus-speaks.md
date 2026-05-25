@@ -1,7 +1,7 @@
 ---
 title: "Jesus Speaks"
 description: "Messages channelled directly from Jesus of Nazareth. Jesus is the foremost teacher in the Divine Love archive, speaking on prayer, the soul, at-onement, service, and the truth of God's Love as the heart of his original mission."
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 # Jesus Speaks
