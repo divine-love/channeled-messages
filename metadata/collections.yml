@@ -3,6 +3,40 @@
 # Each collection groups messages by theme and is used to generate
 # browse pages in content/collections/.
 # Generated pages are produced automatically by generate_collections.py.
+#
+# --- HOW TO CHOOSE ---
+# collections organise BROWSING. Ask: "Would a reader interested in this
+# theme want to find this message?" If yes, add it to the relevant
+# collection. A message can belong to more than one collection, but aim
+# for relevance — don't add a message to a collection just because the
+# theme is mentioned briefly.
+#
+# collections and essential_teachings serve different purposes and can
+# both apply to the same message. For example, a message from Jesus that
+# establishes foundational doctrine would go in the "Jesus Speaks"
+# collection AND carry a "Core Teaching" essential_teachings flag.
+#
+# Common contributor questions:
+# Q: What is the difference between "Awakening Humanity" and "Service & Mission"?
+# A: "Service & Mission" focuses on the individual caller — their gifts,
+#    calling, and role as a channel of love. "Awakening Humanity" focuses
+#    outward — the broader global shift in consciousness and the role of
+#    prayer circles and light workers in that shift. A message can belong
+#    to both if it addresses both scales.
+#
+# Q: Does every message from an apostle go in "The Saints & Apostles Speak"?
+# A: Yes, if the spirit is a biblical apostle or saint. Jesus has his own
+#    collection ("Jesus Speaks") and does not go in "The Saints & Apostles Speak."
+#
+# Q: What qualifies for "Letters from History"?
+# A: Historical figures outside the biblical canon — philosophers, rulers,
+#    mystics, scientists. Biblical figures (apostles, Moses, Mary) belong
+#    in other collections. If uncertain, check whether the spirit appears
+#    in the Bible; if yes, use another collection.
+#
+# Q: Can a message belong to more than one collection?
+# A: Yes. Two or three collections per message is reasonable. More than
+#    three is a signal the collections may be too broadly applied.
 
 collections:
 

@@ -5,6 +5,31 @@
 # Use sparingly — not every message requires an essential_teachings flag.
 # Generated pages are produced automatically by generate_essential_teachings.py
 # and placed in content/essential-teachings/.
+#
+# --- HOW TO CHOOSE ---
+# essential_teachings flags SIGNIFICANCE. Ask: "Is this message especially
+# important within the archive — foundational, prophetic, historically
+# notable, or personally revealing?" If yes, flag it. If a message is
+# simply on a theme covered elsewhere, use collections instead.
+#
+# essential_teachings and collections serve different purposes and can
+# both apply to the same message. For example, a message from Andrew
+# that discloses biographical detail about his Earth life would go in
+# "The Saints & Apostles Speak" collection AND carry a "Spirit Biography"
+# essential_teachings flag.
+#
+# Common contributor questions:
+# Q: Every message in "Two Paths" feels important — do they all get "Core Teaching"?
+# A: No. Reserve "Core Teaching" for messages foundational enough to direct
+#    a newcomer to first. Not every message on a theme deserves the flag.
+#
+# Q: Should every healing message get "Divine Healing"?
+# A: No. Flag only messages that teach the mechanics of divine healing —
+#    how it works, what enables it. Messages where healing is mentioned
+#    in passing belong in the "Healing Path" collection instead.
+#
+# Q: Can a message have more than one essential_teachings flag?
+# A: Yes, but use restraint. Two flags on one message should be rare.
 
 essential_teachings:
 
