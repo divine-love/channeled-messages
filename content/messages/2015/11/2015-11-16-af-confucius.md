@@ -34,17 +34,14 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: ""
-essential_teachings:
-  - "Core Teaching"
-collections:
-  - "Awakening Humanity"
-  - "Letters from History"
+essential_teachings: ["Core Teaching"]
+collections: ["Awakening Humanity", "Letters from History"]
 language: en
 excerpt: >
   There is a great network of Light being formed in the world, my beloveds. Many souls are being connected in this Light, this lattice of Light and you, my beloveds, as you pray are being used to formulate and to maintain this Light in the world.
 door: >
   Confucius reveals that every prayer and journey strengthens a vast lattice of Light, as God quietly weaves each soul into a tapestry of connection and blessing that spans the world.
-last_edited: 2026-05-24
+last_edited: 2026-05-25
 ---
 
 It is Confucius, God bless you. There is a great network of Light being formed in the world, my beloveds. Many souls are being connected in this Light, this lattice of Light and you, my beloveds, as you pray are being used to formulate and to maintain this Light in the world. You assist in bringing greater connections that Love and blessings and Light may flow freely to those who are connected in this vast network blessed by God. And, it is important when you travel in the world you help to strengthen these bonds, this Light, and when you pray for others you also bring a stronger connection in your efforts.

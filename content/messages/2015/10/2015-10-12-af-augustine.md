@@ -39,18 +39,14 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Delivered in response to a question asked before the message about the difference between the material mind and the soul mind.
-essential_teachings:
-  - "Core Teaching"
-collections:
-  - "Mind & Soul"
-  - "Two Paths"
-  - "The Saints & Apostles Speak"
+essential_teachings: ["Core Teaching"]
+collections: ["Mind & Soul", "Two Paths"]
 language: en
 excerpt: >
   The soul is imbued with many qualities and attributes which mostly lie dormant without being ignited and brought to life by God's Divine Essence. It is a knowing, a deep understanding that is not the result of deduction and analysis.
 door: >
   Augustine distinguishes two forms of inner knowing: the material mind's analysis and the soul mind's direct comprehension of divine reality, which opens only when God's Love ignites the flame within.
-last_edited: 2026-05-24
+last_edited: 2026-05-25
 ---
 
 It is Augustine. I have come to teach a lesson this night for a question was asked about the difference between the mind of the soul and the material mind. And, indeed, these are two distinct entities within one being, within all of you. Many of you are quite familiar and have developed to a great degree the consciousness of the material mind and all its attributes of the intellect and the perceptions of the senses and your mental perceptions of the world around you, making sense of your lives, of the world and functioning within these human conditions. And this is what is predominant in your beings and consciousness.

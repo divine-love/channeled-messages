@@ -40,15 +40,13 @@ canonical_url: ""
 notes: >
   Delivered at the close of the August 2015 Gibsons Retreat. Augustine opens by correcting a misperception expressed by the medium, who had said that a special spiritual dispensation given during the retreat had been withdrawn; Augustine clarifies the medium was feeling the effects of an undisciplined diet, not a withdrawal of blessing. Not publicly posted online.
 essential_teachings: []
-collections:
-  - "Service & Mission"
-  - "The Saints & Apostles Speak"
+collections: ["Service & Mission"]
 language: en
 excerpt: >
   God will insulate you from the human condition if you are willing to be attuned to Him in ways that you have been attuned to God in these past days.
 door: >
   The soul that learns to discern God's influence from the pull of the human condition becomes steady in any storm, a channel of Love the world desperately needs.
-last_edited: 2026-05-24
+last_edited: 2026-05-25
 ---
 
 It is your teacher Augustine here. I have heard this instrument say that the special dispensation given has now been removed. This is not correct. He is feeling the effects of his rather undisciplined diet and this is a lesson of discernment, my beloveds. For each of you needs to be more sensitive and wiser in your perceptions as to how God influences you and brings blessings to your lives. You will be challenged, my beloveds, as you go back to your lives in your respective cities and places of residence. The human condition is a powerful force in this world. It draws upon you, it influences you, it takes from you and rarely gives something valuable back. And, of course, you must all live in this world and cope with this condition that is not in harmony with God's Love and Laws. And you struggle with this, and you have been given an opportunity to be separated from these conditions, and you have been nourished and fed physically and spiritually, and you have known a fellowship that is beautiful and bright. And some of you feel a tinge of fear upon your return home, and I say to you that God will insulate you from the human condition if you are willing to be attuned to Him in ways that you have been attuned to God in these past days.

@@ -38,16 +38,13 @@ canonical_url: ""
 notes: >
   Message opens with "And it gives us great joy," suggesting the transcript may begin mid-sentence or mid-thought.
 essential_teachings: []
-collections:
-  - "Service & Mission"
-  - "Awakening Humanity"
-  - "The Saints & Apostles Speak"
+collections: ["Service & Mission", "Awakening Humanity"]
 language: en
 excerpt: >
   You each hold the key that will save many souls from anguish and pain, darkness and suffering. Shout your joy, my beloveds, and say, I know what it is you long for.
 door: >
   Augustine calls the group to keep their arms open to all who draw near, for the Circles of Light they are building will become necessary places of refuge in the difficult times ahead.
-last_edited: 2026-05-24
+last_edited: 2026-05-25
 ---
 
 And it gives us great joy when you embrace one another in Love, to open your arms and your hearts to those who come and want to join you in this loving prayer. And there will be many more, my beloveds, who seek the sanctuary of this Circle of Light. For this is what you build, my beloveds, a Circle of Light, a place of peace, a place of respite, a place where the soul is nurtured in the flow of our Heavenly Father's Love. Continue to open your arms, my beloveds, to accept and embrace those who draw close to you and invite them into this circle, for many, many souls seek respite and are seeking Truth and they know not from where this Truth may come, and you, my beloveds, must say, I know, I have a key for you, a key that is the Father's Love. I will teach you to pray for this. I will give you this Gift of knowledge and my love and support as you open yourselves to this benediction of Love and Light, healing and peace.

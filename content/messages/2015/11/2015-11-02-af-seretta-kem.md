@@ -23,14 +23,14 @@ people: []
 spirits: []
 keywords: ["soul longing", "beginners", "seekers", "drawn to the Light", "soul desire", "knowledge", "channel of love", "gifts", "journey", "truth"]
 questions:
-  - Why am I drawn to spiritual things even when I cannot explain it intellectually?
-  - What is the difference between the soul's longing and the mind's understanding in spiritual seeking?
-  - Does God draw us to prayer and community before we consciously understand why?
-  - What happens inside us when we first open to God's Love?
-  - How does knowledge of spiritual truth come to someone who is new to the path?
-  - Can I be a channel of love even if I am still a beginner on the spiritual path?
-  - How do I begin developing a relationship with God through prayer?
-  - Why does the soul's longing for God never fully go away, even as we grow spiritually?
+  - "Why am I drawn to spiritual things even when I cannot explain it intellectually?"
+  - "What is the difference between the soul's longing and the mind's understanding in spiritual seeking?"
+  - "Does God draw us to prayer and community before we consciously understand why?"
+  - "What happens inside us when we first open to God's Love?"
+  - "How does knowledge of spiritual truth come to someone who is new to the path?"
+  - "Can I be a channel of love even if I am still a beginner on the spiritual path?"
+  - "How do I begin developing a relationship with God through prayer?"
+  - "Why does the soul's longing for God never fully go away, even as we grow spiritually?"
 related_messages: []
 audio_url: ""
 canonical_url: ""
@@ -43,7 +43,7 @@ excerpt: >
   The soul is drawn and takes precedence with those who are willing to allow this, who feel their souls and feel themselves being lifted up by God to a place of Light.
 door: >
   Seretta Kem welcomes new seekers with the assurance that their soul's longing drew them to the Light long before the mind understood why, and that same longing will carry them forward for all eternity.
-last_edited: 2026-05-22
+last_edited: 2026-05-25
 ---
 
 Precious and beloved souls, I am Seretta Kem and I come to bring a blessing to you, my beloveds, to assist you upon your journeys. And you, my dear daughter, who journeys, God will use you in many ways upon this travel and you will be aware each day how you are being used and how the flow of Love will connect to many. And this is what is meant for all of you, my beloveds, to journey in the world and be a channel of Love affecting many souls who await, who await you to be that channel of Love awakening something within them, a deep desire.

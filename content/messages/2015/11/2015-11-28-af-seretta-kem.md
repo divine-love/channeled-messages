@@ -38,6 +38,7 @@ related_messages: ["2015-10-26-af-seretta-kem"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-merkaba/"
 essential_teachings: ["Divine Healing"]
+collections: ["Healing Path"]
 notes: >
   Message received after the prayer circle created a healing merkaba. Editor's
   note in source: 'This message came through after our prayer circle created a
@@ -45,7 +46,7 @@ notes: >
   Source: http://new-birth.net/healing_circle.htm
 door: >
   When souls join hands in prayer, they share not just intention but their very being
-last_edited: 2026-04-13
+last_edited: 2026-05-25
 ---
 
 Beautiful and beloved souls, welcome to this circle of Light.

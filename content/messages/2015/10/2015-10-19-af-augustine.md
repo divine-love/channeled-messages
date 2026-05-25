@@ -36,13 +36,13 @@ canonical_url: ""
 notes: >
   Delivered at a DLSF board meeting. Message is addressed to a specific group; questions reframed universally.
 essential_teachings: []
-collections: ["The Saints & Apostles Speak"]
+collections: []
 language: en
 excerpt: >
   You will know as you take each step forward what is the right thing to do, the right steps to take, for your souls will inform you and you will feel the joy of this, the rightness of this, the knowing of this.
 door: >
   Augustine reminds a gathering of decision-makers that God will not dictate the path, but the soul will quietly confirm the rightness of each step taken in humility and love.
-last_edited: 2026-05-24
+last_edited: 2026-05-25
 ---
 
 It is your teacher Augustine. You have asked for guidance and we would encourage you to speak from your souls and your hearts to allow the wisdom of your souls to manifest with one another in loving and honest ways. Do not hold back from that which you think and know from this place of deep knowing and understanding. Your challenge is to step forward in this way; your challenge is to walk towards the Light and to not have weights upon your feet that are born from the mind.

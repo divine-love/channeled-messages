@@ -24,9 +24,11 @@
 #    prayer circles and light workers in that shift. A message can belong
 #    to both if it addresses both scales.
 #
-# Q: Does every message from an apostle go in "The Saints & Apostles Speak"?
-# A: Yes, if the spirit is a biblical apostle or saint. Jesus has his own
-#    collection ("Jesus Speaks") and does not go in "The Saints & Apostles Speak."
+# Q: Does every message from a biblical figure go in "The Saints & Apostles Speak"?
+# A: Yes — this collection covers all biblical figures, not just the twelve apostles.
+#    Moses, Mary, and other Old and New Testament figures all belong here.
+#    Jesus has his own collection ("Jesus Speaks") and does not go in
+#    "The Saints & Apostles Speak."
 #
 # Q: What qualifies for "Letters from History"?
 # A: Historical figures outside the biblical canon — philosophers, rulers,
@@ -90,11 +92,11 @@ collections:
 
 - name: "The Saints & Apostles Speak"
   definition: >
-    Messages from the biblical apostles and saints speaking directly
-    from their perspective in spirit — Andrew, James, John the Beloved,
-    Peter, Matthew, Mark, Luke, Francis of Assisi, and others. These
-    spirits offer personal testimony, teaching, and encouragement
-    grounded in their own experience of Divine Love.
+    Messages from biblical figures speaking directly from their perspective
+    in spirit — including the apostles, saints, and other Old and New
+    Testament figures such as Moses and Mary. These spirits offer personal
+    testimony, teaching, and encouragement grounded in their own experience
+    of Divine Love. Jesus has his own collection and does not appear here.
 
 - name: "Two Paths"
   definition: >
