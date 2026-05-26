@@ -34,7 +34,8 @@ questions:
   - "Is there a connection between environmental destruction and spiritual imbalance?"
   - "How can I help others through difficult world changes while managing my own fears?"
   - "What does it mean to live in a world based on the currency of love?"
-related_messages: []
+related_messages:
+  - 2018-12-30-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/challenging-earth-changes-bring-greater-light-and-harmony-to-humanity/"
 notes: ""
@@ -64,7 +65,7 @@ You will see and experience and witness in your own life time, a miracle of the 
 
 Your physical discomforts and problems will be transformed by this light. Much of what you suffer now will be released and replaced by a body that is more in harmony with God's creation. A spirituality which will be deep and constant in your life, a sense of your relationship with God, will be more intense and love will flow. So though you may release much of your needs for the material, it will be replaced by these deep and beautiful blessings from God.
 
-Unfortunately, many will not accept this gift and release their hold upon their need for power and the material. These lost souls will not survive these changes in the world. This is why we are working so diligently with you, my friends, to put the word into the minds of as many as possible, that changes are coming, that God is peeling the bells that will awaken humankind and be given a choice to step towards light or transition to the world of spirit. These are serious matters, I know, and we have touched upon this many times. We continue to reiterate this call for greater light and for you to be strengthened and of greater faith so that you may indeed not only secure for yourself a life that is viable in a new world, but also to teach and show others the way to God.
+Unfortunately, many will not accept this gift and release their hold upon their need for power and the material. These lost souls will not survive these changes in the world. This is why we are working so diligently with you, my friends, to put the word into the minds of as many as possible, that changes are coming, that God is pealing the bells that will awaken humankind and be given a choice to step towards light or transition to the world of spirit. These are serious matters, I know, and we have touched upon this many times. We continue to reiterate this call for greater light and for you to be strengthened and of greater faith so that you may indeed not only secure for yourself a life that is viable in a new world, but also to teach and show others the way to God.
 
 Yes, much is given to you, my beloved friends. So much is given in love, to help to awaken your gifts, your soul. This is not only for your benefit but for the benefit of many others who will look towards you, beloved souls. Where much is given, much is expected. Do not assume that you may side step these difficult transitions in your world. Be aware that God will guide you, that God will protect you from the worst of these things, provided you are of great faith and trust. Understand that these things bring forth the awakening of humanity and the healing of your world.
 
