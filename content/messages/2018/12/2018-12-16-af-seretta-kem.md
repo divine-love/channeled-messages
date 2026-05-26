@@ -33,6 +33,7 @@ related_messages:
   - 2018-12-09-af-seretta-kem
   - 2015-11-16-af-confucius
   - 2018-12-16-af-confucius
+  - 2019-01-08-af-matthew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/online-circle-helping-to-build-the-lattice-of-light/"
 notes: >
