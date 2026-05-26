@@ -1,7 +1,7 @@
 ---
 title: "Prophecy"
 description: "Messages containing specific predictions about the world, humanity, or the Divine Love movement. Prophecies in the archive are given by Celestial spirits and concern future events, spiritual shifts, and the unfolding of God's plan for humanity."
-last_updated: 2026-05-25
+last_updated: 2026-05-26
 ---
 
 # Prophecy
@@ -28,3 +28,4 @@ Messages containing specific predictions about the world, humanity, or the Divin
 | [Many Gifts for the Circle of Seven](../messages/2018/01/2018-01-09-af-lotus-blossom.md) | 2018‑01‑09 | Lotus Blossom addresses a circle of seven beloved souls, promising that gifts of spiritual perception are coming to each one in unique ways. sight of auras, perception of spirits, inner hearing, and deep intuitive knowing. She urges them to allow these gifts to unfold naturally without forcing or formulating them through the mind, to support one another, and to trust that each moment lived in harmony with God is already an expression of His Will. |
 | [Who Will Bring the Truth to This World?](../messages/2018/01/2018-01-21-af-professor-salyards.md) | 2018‑01‑21 | Professor Salyards, a tireless worker in the development of Direct Voice mediumship, affirms the circle's progress and urges them to maintain their hopeful expectation of this gift. He speaks with urgency about humanity's need to awaken before the consequences of the human condition become irreversible, and assures them that even if Direct Voice is not achieved, they will bring Truth through other gifts - but that this gift is very much worth pursuing. |
 | [Become the Winds of Change](../messages/2018/03/2018-03-26-af-james.md) | 2018‑03‑26 | James urges those gathered to feel the winds of change already moving in the world and to open themselves to God's Touch so that they may become part of that change. He speaks of storms coming that will bring what is required to uplift humanity, calls each soul to put aside doubt and fear and step forward in innocent faith, and invites all to accept God's invitation to Light, awakening, and the realization of their deepest potentials. |
+| [Challenging Earth Changes Bring Greater Light and Harmony to Humanity](../messages/2018/11/2018-11-29-af-augustine.md) | 2018‑11‑29 | Augustine speaks plainly about the coming transformation of the Earth, warning that the structures of materialism humanity depends on for comfort will crumble as God's great plan for the healing and rebalancing of the world unfolds. He calls those gathered to build their faith and spiritual strength now so they may not only navigate what is coming but guide others through it, and assures them that in place of material loss will come a simpler life of deep peace, love, and harmony with God. |

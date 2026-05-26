@@ -1,7 +1,7 @@
 ---
 title: "Letters from History"
 description: "Messages from historical figures beyond the biblical canon — philosophers, rulers, mystics, scientists, and others speaking from their perspective in spirit about Divine Love, truth, and the soul's journey."
-last_updated: 2026-05-25
+last_updated: 2026-05-26
 ---
 
 # Letters from History
@@ -41,3 +41,4 @@ Messages from historical figures beyond the biblical canon — philosophers, rul
 | [Encouragement to Continue With Plans](../messages/2018/11/2018-11-21-af-gandhi.md) | 2018‑11‑21 | Gandhi encourages a group of souls on a prayer mission to remain open to God's guidance for travel and service, reminding them that Jesus himself travelled widely in his ministry. He assures them that their light grows stronger with each day and that the time will come when their humble, loving presence will turn heads and bring acknowledgement. |
 | [Being a Channel of God's Love Requires Taming the Mind and Exemplifying the Soul](../messages/2018/11/2018-11-21-af-yogananda.md) | 2018‑11‑21 | Yogananda teaches that becoming a true channel of God's Love requires integrating the light of the soul with the conditions of the mind, not waiting passively for prayer to do all the work. He calls the group to actively discipline their mental patterns, release judgment, and take responsibility for aligning their thoughts and expressions with love. |
 | [Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens](../messages/2018/11/2018-11-22-af-yogananda.md) | 2018‑11‑22 | Yogananda gives a first-person account of his journey through the spirit spheres after passing, describing how he progressed from the 4th sphere through to the Celestial Kingdom after releasing his deeply held Eastern religious beliefs. He describes the bliss of the Celestial Heavens as beyond anything experienced in earthly or natural love spheres, and commits to working with the group to bring truth to humanity. |
+| [The Power of Prayer](../messages/2018/11/2018-11-29-af-abdullah-latif.md) | 2018‑11‑29 | Abdullah Latif, a philosopher and mathematician from the Middle East now residing in the Celestial Kingdom, teaches that prayer is only as effective as the love, wisdom, and purity of intention behind it. He warns that prayers rooted in anger, fear, or the assumptions of the mind go no further than the breath, and calls those present to first come close to God and know their own souls before seeking to change the world through prayer. |

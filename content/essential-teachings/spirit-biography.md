@@ -1,7 +1,7 @@
 ---
 title: "Spirit Biography"
 description: "Messages in which a spirit provides significant information about their own Earth life, identity, or experience in spirit. These messages are valuable both spiritually and historically, offering first-person testimony from spirits whose lives are part of the broader human and sacred record."
-last_updated: 2026-05-25
+last_updated: 2026-05-26
 ---
 
 # Spirit Biography
@@ -33,3 +33,4 @@ Messages in which a spirit provides significant information about their own Eart
 | [All Truth Begins with the Soul Awakened in Love](../messages/2018/06/2018-06-09-af-john-wesley.md) | 2018‑06‑09 | John Wesley, founder of Methodism and now an inhabitant of the Celestial Kingdom, speaks urgently about humanity's need to awaken from the illusions of the mind before it is too late. He teaches that the material mind cannot solve the great dilemmas of humanity, that all truth begins with Love, and that only the soul awakened in Divine Love can truly perceive God's Creation and become an instrument of change in the world. |
 | [Speak Up for Truth and Change](../messages/2018/11/2018-11-05-af-john-wesley.md) | 2018‑11‑05 | John Wesley, now an inhabitant of the Celestial Kingdom, reflects on the limitations of his earthly ministry and the failure of institutional Christianity to teach the higher truth of God's Love. He calls the gathering to stand up with tenacity and courage, declaring the truth of the soul and Divine Love to a world mired in intellectual doctrine and the pursuit of power. |
 | [Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens](../messages/2018/11/2018-11-22-af-yogananda.md) | 2018‑11‑22 | Yogananda gives a first-person account of his journey through the spirit spheres after passing, describing how he progressed from the 4th sphere through to the Celestial Kingdom after releasing his deeply held Eastern religious beliefs. He describes the bliss of the Celestial Heavens as beyond anything experienced in earthly or natural love spheres, and commits to working with the group to bring truth to humanity. |
+| [Clarification on the Existence of Jesus](../messages/2018/11/2018-11-26-af-jesus.md) | 2018‑11‑26 | Jesus speaks directly about the widespread impersonation of his name in the spirit world, explaining that many well-meaning mediums are influenced by spirits who misrepresent themselves without realising it. He affirms his own existence as a Celestial spirit, teaches that only awakened soul faculties can discern true from false influence, confirms he will never return in the flesh, and identifies himself as the first soul to enter the Celestial Kingdom. |
