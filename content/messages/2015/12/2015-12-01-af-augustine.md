@@ -32,7 +32,8 @@ questions:
   - "How do I stay connected to God's guidance during times of upheaval and change?"
   - "What are the consequences of resisting God's transforming work in the world?"
   - "How do I take my spiritual life from occasional practice to daily discipline?"
-related_messages: []
+related_messages:
+  - 2019-01-04-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -43,7 +44,7 @@ excerpt: >
 door: >
   Augustine sounds an urgent note: the world is already changing, and only those who choose now to step fully into God's Love will be ready to walk through what is coming.
 collections: ["Awakening Humanity"]
-last_edited: 2026-05-25
+last_edited: 2026-05-26
 ---
 
 Bless you, your teacher Augustine is with you.
