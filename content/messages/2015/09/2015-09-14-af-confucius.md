@@ -42,7 +42,7 @@ language: en
 excerpt: >
   Every soul longs for Love, every soul must be given this opportunity to be in prayer together, to receive this Love and you must do so as God's channels of Love, not judging but embracing.
 door: >
-  Confucius calls the group to see past every surface difference and recognise what is equal in all souls: the longing for Love and a place in God's Light.
+  Every soul longs for the same thing. The differences are only in the mind.
 last_edited: 2026-05-25
 ---
 

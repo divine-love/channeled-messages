@@ -40,7 +40,7 @@ language: en
 excerpt: >
   No hurt, no pain, no dilemma, no question is insurmountable with this Love. Its healing qualities, its ability to bring Truth, its connection with God's Great Soul will bring all that you require.
 door: >
-  Faith strips prayer back to its essence: no complex explanations, no analysis, just the simple act of longing for God, which opens a vast ocean of Love available to every soul without exception.
+  No explanation needed. Just longing. Just prayer. Just an ocean of Love waiting for you.
 collections: []
 last_edited: 2026-05-25
 ---

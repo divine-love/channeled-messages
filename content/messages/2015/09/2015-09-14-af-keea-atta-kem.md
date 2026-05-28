@@ -42,7 +42,7 @@ language: en
 excerpt: >
   A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God.
 door: >
-  Gratitude is not merely an attitude but a spiritual practice that clears the clouds of fear and error and lets the soul's Light into waking consciousness.
+  A grateful soul is an open soul. It is that simple.
 last_edited: 2026-05-25
 ---
 

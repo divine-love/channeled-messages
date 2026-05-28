@@ -45,7 +45,7 @@ language: en
 excerpt: >
   God will insulate you from the human condition if you are willing to be attuned to Him in ways that you have been attuned to God in these past days.
 door: >
-  The soul that learns to discern God's influence from the pull of the human condition becomes steady in any storm, a channel of Love the world desperately needs.
+  Discern God's voice from the human condition and no storm will unsettle you.
 last_edited: 2026-05-25
 ---
 

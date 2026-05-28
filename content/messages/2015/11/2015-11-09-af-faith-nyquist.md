@@ -42,7 +42,7 @@ language: en
 excerpt: >
   It is often a difficult task and may take circuitous routes but God's Will will prevail, it will prevail, my beloveds, as long as you are willing to walk this road and to be steadfast in the Truth.
 door: >
-  Faith prays for the group and then calls them to persist through every setback, assuring them that spirits are actively clearing the path and that God's Will cannot ultimately be thwarted.
+  God's Will cannot be thwarted. Keep going.
 last_edited: 2026-05-25
 ---
 

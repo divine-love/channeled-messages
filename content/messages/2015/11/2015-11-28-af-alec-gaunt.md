@@ -38,7 +38,7 @@ language: en
 excerpt: >
   How different the world would be if all the peoples of the world were able to trust in love, give in love, share your thoughts, your efforts, your desires, your Light, your gifts, the beauty of your souls.
 door: >
-  Alec Gaunt offers a simple vision of what the world is meant to become: every soul acknowledging every other in their beauty and uniqueness, walking together as channels of love.
+  What if every soul acknowledged every other in their beauty? That is what the world is meant to be.
 collections: []
 last_edited: 2026-05-25
 ---

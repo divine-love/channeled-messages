@@ -41,7 +41,7 @@ language: en
 excerpt: >
   The wisdom that I possessed when I was on Earth is certainly not the wisdom I possess now. True wisdom comes from the faculties of the soul ignited by God's Love.
 door: >
-  Solomon returns not to boast of his legendary wisdom but to correct it, teaching that the deepest knowing comes not from the sharpest mind but from a soul opened by Divine Love.
+  The wisest man who ever lived has come to tell you his wisdom was wrong.
 collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-25
 ---

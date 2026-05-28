@@ -43,7 +43,7 @@ language: en
 excerpt: >
   It is not for you to correct this, it is for you to show Truth within yourselves and who you are in the world, to be an example. It is for God to lead them into the Light.
 door: >
-  Faith teaches that judging another's beliefs is a function of the mind; what truly changes lives is the soul-to-soul current of love flowing freely through a life lived as a quiet example of grace.
+  Belief is of the mind. Love is of the soul. Only one of them changes anything.
 last_edited: 2026-05-25
 ---
 

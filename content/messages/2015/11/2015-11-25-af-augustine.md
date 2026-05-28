@@ -40,7 +40,7 @@ language: en
 excerpt: >
   When you find resistance, when it is difficult and convoluted and complex, you must wait, continue to pray and put your good intentions towards these efforts.
 door: >
-  Augustine teaches that resistance is not a sign to abandon God's work but to pray more deeply, for no opposition can ultimately withstand love that is patient, persistent, and rooted in God's Will.
+  When the door stays shut, pray harder. God's Will cannot ultimately be blocked.
 collections: ["Service & Mission"]
 last_edited: 2026-05-25
 ---

@@ -43,7 +43,7 @@ language: en
 excerpt: >
   You each hold the key that will save many souls from anguish and pain, darkness and suffering. Shout your joy, my beloveds, and say, I know what it is you long for.
 door: >
-  Augustine calls the group to keep their arms open to all who draw near, for the Circles of Light they are building will become necessary places of refuge in the difficult times ahead.
+  Keep your arms open. The world is going to need these places of refuge.
 last_edited: 2026-05-25
 ---
 

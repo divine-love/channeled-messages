@@ -41,7 +41,7 @@ language: en
 excerpt: >
   Each of you has a great purpose — and when you discover this and it blossoms within you, you will find a deep fulfillment and joy in the manifestation of this purposeful blessing in the world.
 door: >
-  Augustine asks each soul to stop turning away from the treasure within and let God reveal what they were placed on Earth to do.
+  God placed your purpose within you before you were born. It is still there, waiting.
 collections: ["Prism of the Soul"]
 last_edited: 2026-05-25
 ---

@@ -39,7 +39,7 @@ language: en
 excerpt: >
   You cannot see the events forthcoming, but we are able to see what is coming over the horizon — and it is not helpful to give you all of this information, for it would influence your choices in ways not in harmony with God's Plan.
 door: >
-  Augustine explains that God and the angels withhold foreknowledge not out of secrecy but out of love, knowing that too much information would distort the very choices that must be freely made.
+  God withholds the future not to hide it, but to keep your choices free.
 collections: []
 last_edited: 2026-05-25
 ---

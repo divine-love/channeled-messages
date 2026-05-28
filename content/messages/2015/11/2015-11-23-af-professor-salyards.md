@@ -41,7 +41,7 @@ language: en
 excerpt: >
   True wisdom and an ability to understand the Truth can only be had through the soul — the mind of the soul must become truly a part of you and your consciousness.
 door: >
-  Professor Salyards steps forward to second Solomon's testimony: the soul's vision, opened by Divine Love, sees what no intellect can reach and makes a teacher of anyone willing to pray for it.
+  Solomon said it first. Salyards confirms it: the soul sees what the intellect can never reach.
 collections: []
 last_edited: 2026-05-25
 ---

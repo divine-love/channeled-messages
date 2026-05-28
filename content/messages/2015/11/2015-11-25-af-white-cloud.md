@@ -41,7 +41,7 @@ language: en
 excerpt: >
   Words do not do this; Love does this. You must love and put love into everything. The Love of God must permeate your lives, your beings, all that you are and all that you do.
 door: >
-  White Cloud calls the gathered souls to be warriors of Light — not through words or argument but through a life so saturated with God's Love that it shifts souls simply by its presence.
+  Not words. Not arguments. A life so full of love that souls shift simply by standing near you.
 collections: []
 last_edited: 2026-05-25
 ---

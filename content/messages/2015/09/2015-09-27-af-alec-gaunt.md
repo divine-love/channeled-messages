@@ -38,7 +38,7 @@ language: en
 excerpt: >
   Your friend Alec is ever with you, encouraging, guiding, influencing, and working behind the scenes, helping in this great orchestra of the dance of the souls.
 door: >
-  Alec Gaunt assures the group that even when progress feels invisible, celestial friends are working behind the scenes to help each soul find its place in God's great plan of healing.
+  You cannot see the work being done behind the scenes. But it is being done.
 last_edited: 2026-05-25
 ---
 

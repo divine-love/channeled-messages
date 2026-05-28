@@ -45,7 +45,7 @@ language: en
 excerpt: >
   The soul is imbued with many qualities and attributes which mostly lie dormant without being ignited and brought to life by God's Divine Essence. It is a knowing, a deep understanding that is not the result of deduction and analysis.
 door: >
-  Augustine distinguishes two forms of inner knowing: the material mind's analysis and the soul mind's direct comprehension of divine reality, which opens only when God's Love ignites the flame within.
+  The mind analyses. The soul knows. Only one of these can comprehend God.
 last_edited: 2026-05-25
 ---
 

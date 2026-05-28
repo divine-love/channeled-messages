@@ -42,7 +42,7 @@ language: en
 excerpt: >
   The soul is drawn and takes precedence with those who are willing to allow this, who feel their souls and feel themselves being lifted up by God to a place of Light.
 door: >
-  Seretta Kem welcomes new seekers with the assurance that their soul's longing drew them to the Light long before the mind understood why, and that same longing will carry them forward for all eternity.
+  Your soul found this Light before your mind knew what it was looking for.
 last_edited: 2026-05-25
 ---
 
