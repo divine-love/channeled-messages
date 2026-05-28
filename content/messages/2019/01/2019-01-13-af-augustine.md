@@ -38,7 +38,7 @@ language: en
 excerpt: >
   Though you may not see the overt outcomes of your efforts, though you may feel that you are not at all effective, you are continuing to work in this great venture for the salvation of mankind.
 door: >
-  Augustine offers the quiet reassurance every soul worker needs: you are already part of God's plan, even in the moments when you cannot see a single result of your efforts.
+  You cannot see the results of your efforts. That does not mean the work is not being done.
 collections: []
 last_edited: 2026-05-26
 ---

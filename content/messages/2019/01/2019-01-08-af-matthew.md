@@ -40,7 +40,7 @@ language: en
 excerpt: >
   We utilise these machines and ways of communicating in order to build this great network amongst you and amongst many. Continue to feed this bond of love, to think of one another, pray for one another.
 door: >
-  Matthew reveals that the internet itself can be a thread in the Lattice of Light, and that every online prayer circle is weaving souls together across the world in God's great net of love.
+  The internet can be a thread in the Lattice of Light. Your online prayers are already having their effect.
 collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-26
 ---

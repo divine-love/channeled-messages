@@ -44,7 +44,7 @@ language: en
 excerpt: >
   Those who will lead humanity out of this darkness will have the power and blessings of the Father's Love within them, for this is a higher road, a powerful perspective, and a way of being that is the result of the transformation that comes with Divine Love.
 door: >
-  Augustine names the fork in the road every soul faces and makes clear what lies beyond the less-travelled path: a depth of knowing, a power of love, and a capacity to heal the world that the mind alone can never reach.
+  Two roads. One leads to the perfection of the mind. The other leads to God.
 collections: ["Two Paths"]
 last_edited: 2026-05-27
 ---

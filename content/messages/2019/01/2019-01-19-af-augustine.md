@@ -40,7 +40,7 @@ language: en
 excerpt: >
   All those who are willing to step beyond their safe and regimented lives to exert themselves, inspired and guided by the Will of God, will be blessed mightily and be provided for in every way.
 door: >
-  Augustine names this group's specific calling: to pray for and travel to Portals of Light around the world, trusting that every practical need of that work will be provided by God.
+  Pray for the Portals of Light. Travel to them. God will provide everything else.
 collections: ["Service & Mission"]
 last_edited: 2026-05-26
 ---

@@ -38,7 +38,7 @@ language: en
 excerpt: >
   There is a great group of us scientists in the spirit world who are eager to help humanity to bring greater truth and understanding that may bring greater harmony to your world.
 door: >
-  Einstein arrives not as a legend but as a colleague, eager to work alongside this circle and bring through whatever truth may help humanity find its way to harmony.
+  The scientist who mapped the universe has come to map something larger: the path from truth to harmony.
 collections: ["Letters from History"]
 last_edited: 2026-05-27
 ---

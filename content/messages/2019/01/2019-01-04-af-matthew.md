@@ -44,7 +44,7 @@ language: en
 excerpt: >
   A soul unexpressed in the world is a sad state of affairs. A soul needs expression. A soul needs to be active and awake so that God may indeed shine through that soul in all love and light.
 door: >
-  Matthew names what years of prayer have been building toward: the moment when the lion-hearted soul finally steps out the door and meets the world it was made to serve.
+  Years of prayer have been building toward this: the moment you step out the door and meet the world.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
 last_edited: 2026-05-26
 ---

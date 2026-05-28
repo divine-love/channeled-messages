@@ -38,7 +38,7 @@ language: en
 excerpt: >
   You may not exchange words, but in your efforts as you walk, many things will flow and touch the souls who you encounter in your life. Your presence, your light can do this and be a blessing for many.
 door: >
-  Augustine reveals that the most ordinary moment in an ordinary day is already an opportunity to bless a soul, simply by walking through it with love.
+  Everyone you walk past today can be blessed. No words required.
 collections: ["Service & Mission"]
 last_edited: 2026-05-26
 ---

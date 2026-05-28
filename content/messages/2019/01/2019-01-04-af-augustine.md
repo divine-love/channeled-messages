@@ -44,7 +44,7 @@ language: en
 excerpt: >
   Beneath the superficial is something tremendous and beautiful that is beginning to germinate within this place. What will come of this will surprise all of you.
 door: >
-  Augustine sees what those gathered cannot yet see: a small, humble church is the seed of something that will one day spread light across the world.
+  A small church. Humble participants. And beneath it, something tremendous already germinating.
 collections: ["Service & Mission", "Awakening Humanity"]
 last_edited: 2026-05-26
 ---

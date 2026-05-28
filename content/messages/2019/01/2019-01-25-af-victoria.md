@@ -38,7 +38,7 @@ language: en
 excerpt: >
   To do so in this way, having these beautiful and bright angelic spirits with you in your circle, is exciting indeed and something that is rare upon your Earth.
 door: >
-  A queen who once sat in darkened séance rooms now speaks from the light, marvelling at what this circle has achieved and urging them to keep going.
+  She sat in séance rooms once. This is nothing like those rooms.
 collections: ["Letters from History"]
 last_edited: 2026-05-27
 ---
