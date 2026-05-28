@@ -34,7 +34,7 @@ questions:
   - "How does tolerance and acceptance allow God's Love to flow between souls?"
   - "What is the role of peacemakers in God's plan for the world?"
   - "How will the world be healed through interconnected circles of Light?"
-related_messages: ["2015-10-26-af-seretta-kem"]
+related_messages: ["2015-10-26-af-seretta-kem", "2019-01-26-af-sri-yarisupta"]
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/healing-merkaba/"
 essential_teachings: ["Divine Healing"]
@@ -46,7 +46,7 @@ notes: >
   Source: http://new-birth.net/healing_circle.htm
 door: >
   When souls join hands in prayer, they share not just intention but their very being
-last_edited: 2026-05-25
+last_edited: 2026-04-13
 ---
 
 Beautiful and beloved souls, welcome to this circle of Light.
