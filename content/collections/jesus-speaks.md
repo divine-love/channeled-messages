@@ -1,7 +1,7 @@
 ---
 title: "Jesus Speaks"
 description: "Messages channelled directly from Jesus of Nazareth. Jesus is the foremost teacher in the Divine Love archive, speaking on prayer, the soul, at-onement, service, and the truth of God's Love as the heart of his original mission."
-last_updated: 2026-05-26
+last_updated: 2026-05-28
 ---
 
 # Jesus Speaks
@@ -39,3 +39,4 @@ Messages channelled directly from Jesus of Nazareth. Jesus is the foremost teach
 | [You Are Channels of Light and Love](../messages/2018/09/2018-09-12-af-jesus.md) | 2018‑09‑12 | Jesus blesses a gathering in Phoenix, affirming that each soul present walks in light and has a great capacity to teach and be the truth. He calls them to carry their light into the world as his disciples, to walk with heads high and hearts open, and to reach out to one another for strength and assurance as they walk the Path Divine together, with Jesus carrying the lantern ahead of them. |
 | [I Am with You As You Do the Father's Work](../messages/2018/09/2018-09-22-af-jesus.md) | 2018‑09‑22 | Jesus offers a brief and intimate assurance that he walks beside those who teach the truth of the Father's Love, whispering guidance, blessing those present, and helping to find words that can break through the barriers of minds filled with inaccuracy and distortion, reaching the souls that long for this gift beneath. |
 | [Clarification on the Existence of Jesus](../messages/2018/11/2018-11-26-af-jesus.md) | 2018‑11‑26 | Jesus speaks directly about the widespread impersonation of his name in the spirit world, explaining that many well-meaning mediums are influenced by spirits who misrepresent themselves without realising it. He affirms his own existence as a Celestial spirit, teaches that only awakened soul faculties can discern true from false influence, confirms he will never return in the flesh, and identifies himself as the first soul to enter the Celestial Kingdom. |
+| [We Are Joyed You Come to Serve](../messages/2019/01/2019-01-25-af-jesus.md) | 2019‑01‑25 | Jesus blesses a group who have come together in a spirit of service, expressing joy that willing servants of light and truth are few in the world but that this group has chosen to be among them. He assures them of his close presence and the protection and harmony of God's Love as they go forward in their work. |

@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-26
+last_updated: 2026-05-28
 ---
 
 # Browse All Messages
@@ -391,3 +391,9 @@ last_updated: 2026-05-26
 | [Let This Lattice of Light Strengthen and Grow](messages/2019/01/2019-01-15-af-andrew.md) | Andrew | Al Fike | 2019‑01‑15 | Andrew assures every soul in the room, however new or humble, that they are already a thread in God's great tapestry of light -- and that their prayers are already having their effect. |
 | [Walk in the World as a Channel of Light](messages/2019/01/2019-01-15-af-augustine.md) | Augustine | Al Fike | 2019‑01‑15 | Augustine reveals that the most ordinary moment in an ordinary day is already an opportunity to bless a soul, simply by walking through it with love. |
 | [Guidance about Our Purpose and Needs](messages/2019/01/2019-01-19-af-augustine.md) | Augustine | Al Fike | 2019‑01‑19 | Augustine names this group's specific calling: to pray for and travel to Portals of Light around the world, trusting that every practical need of that work will be provided by God. |
+| [Be Open and Receptive to What We May Give to Each One of You](messages/2019/01/2019-01-20-af-martha.md) | Martha | Al Fike | 2019‑01‑20 | Martha makes a personal promise to each soul in the room: watch and listen this week, for something meant only for you is already on its way. |
+| [Divine Love Path and Natural Love Path](messages/2019/01/2019-01-21-af-augustine.md) | Augustine | Al Fike | 2019‑01‑21 | Augustine names the fork in the road every soul faces and makes clear what lies beyond the less-travelled path: a depth of knowing, a power of love, and a capacity to heal the world that the mind alone can never reach. |
+| [Many Scientists in Spirit Are Working to Forge Greater Communications between Worlds](messages/2019/01/2019-01-25-af-albert-einstein.md) | Albert Einstein | Al Fike | 2019‑01‑25 | Einstein arrives not as a legend but as a colleague, eager to work alongside this circle and bring through whatever truth may help humanity find its way to harmony. |
+| [Feel the Joy of Communing](messages/2019/01/2019-01-25-af-goldie.md) | Goldie | Al Fike | 2019‑01‑25 | After Jesus, Victoria, and Einstein, Goldie arrives last and simply loves everyone, promising to show up in dreams and prayers with joyful abandon. |
+| [We Are Joyed You Come to Serve](messages/2019/01/2019-01-25-af-jesus.md) | Jesus | Al Fike | 2019‑01‑25 | Jesus names what is rare and precious in any age: a soul that comes not to receive but to serve, and blesses it with everything Heaven has to give. |
+| [Continue Your Efforts](messages/2019/01/2019-01-25-af-victoria.md) | Victoria | Al Fike | 2019‑01‑25 | A queen who once sat in darkened séance rooms now speaks from the light, marvelling at what this circle has achieved and urging them to keep going. |
