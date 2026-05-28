@@ -28,7 +28,8 @@ questions:
   - "How does the quality of a prayer circle open possibilities for higher spirit communication?"
   - "Can scientists who were not religious in their Earth lives still work for God's purposes in spirit?"
   - "What kinds of truths might spirits with scientific knowledge bring to help the world?"
-related_messages: []
+related_messages:
+  - 2019-01-28-af-albert-einstein
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/many-scientists-in-spirit-are-working-to-forge-greater-communications-between-worlds/"
 notes: >
@@ -40,7 +41,7 @@ excerpt: >
 door: >
   The scientist who mapped the universe has come to map something larger: the path from truth to harmony.
 collections: ["Letters from History"]
-last_edited: 2026-05-27
+last_edited: 2026-05-28
 ---
 
 Bless you my friends. I am Albert Einstein. I too am involved in this work to forge deeper communications between the world of spirit and the physical world. For your world is in great need of our support and our wisdom, and so there is a great effort to bring what we can through to your side of life and to do so with wisdom and with clarity and precision. And so we will be working with you in times to come, to bring what we can that will be helpful and important to deal with the coming changes in the world.

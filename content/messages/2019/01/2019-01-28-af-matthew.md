@@ -32,6 +32,7 @@ questions:
   - "Is one soul mate often more spiritually developed than the other?"
 related_messages:
   - 2019-01-27-af-jesus
+  - 2019-01-29-af-mary-magdalene
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/what-is-the-possibility-of-soul-mates-meeting-on-earth/"
 notes: >
