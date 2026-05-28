@@ -19,6 +19,7 @@ secondary_subjects:
   - "Faith & Trust"
   - "Circle of Light & Prayer Circles"
   - "God's Will & Surrender"
+  - "Law of Attraction"
 people: []
 spirits: []
 keywords: ["Portals of Light", "purpose", "intention", "material resources", "Law of Attraction", "prayer", "healing", "fervency", "travel", "world healing"]
@@ -30,7 +31,8 @@ questions:
   - "How does God bring the right people together to support His work in the world?"
   - "What does it mean to step beyond a safe and regimented life in service to God?"
   - "How does dedicating my life to God's service ensure that all my needs are met?"
-related_messages: []
+related_messages:
+  - 2019-01-26-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/guidance-about-our-purpose-and-needs/"
 notes: >

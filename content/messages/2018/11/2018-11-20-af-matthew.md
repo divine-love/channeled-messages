@@ -19,6 +19,7 @@ secondary_subjects:
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
   - "Spirit Guides & Angels"
+  - "Law of Communication & Rapport"
 people: []
 spirits: []
 keywords: ["rest", "prayer", "rhythm", "integration", "healing", "portal of light", "soul growth", "rapport", "attunement", "conscious awakening"]
@@ -43,7 +44,7 @@ excerpt: >
 door: >
   Stop. Rest. Pray. It is the most productive thing you can do right now.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-26
+last_edited: 2026-05-27
 ---
 
 May I suggest an agenda for tomorrow? Since the two of you have indeed had a powerful healing and treatment, I would suggest that you take a day to absorb and integrate this blessing from the dear soul. I would further suggest that you take time to pray three times tomorrow and if this day is restful in between these sessions then you are assured to receive some of the messages that you are anticipating. To take time for this work and these efforts will bring the fruits of your labours.

@@ -19,6 +19,7 @@ secondary_subjects:
   - "Future of Humanity"
   - "Perseverance & Steadfastness"
   - "Faith & Trust"
+  - "Law of Free Will"
 people: []
 spirits: []
 keywords: ["Centre of Light", "church", "commitment", "shelter", "world changes", "germinating", "outreach", "service", "Law of Free Will", "God's plan"]
