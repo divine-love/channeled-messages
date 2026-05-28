@@ -41,7 +41,7 @@ language: en
 excerpt: >
   God awaits your choice, beloved souls. With the beginning of each day you must ask yourselves: what will I choose this day? How will I conduct myself? Am I willing to be close to God?
 door: >
-  Augustine reduces the entire spiritual path to its simplest act: a choice, made again each morning, to step toward Light rather than be swept back into the human condition.
+  Every morning God waits. What will you choose today?
 collections: ["Two Paths"]
 last_edited: 2026-05-26
 ---

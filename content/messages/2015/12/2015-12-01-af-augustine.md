@@ -42,7 +42,7 @@ language: en
 excerpt: >
   The time for a casual commitment towards this is done. The time for a strong, steady, consistent, passionate commitment to this Path and these Truths is required at this time.
 door: >
-  Augustine sounds an urgent note: the world is already changing, and only those who choose now to step fully into God's Love will be ready to walk through what is coming.
+  The time for casual commitment is over. The world is already changing.
 collections: ["Awakening Humanity"]
 last_edited: 2026-05-26
 ---

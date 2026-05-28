@@ -45,7 +45,7 @@ language: en
 excerpt: >
   The mind of the soul absorbs truth. It does not work diligently to construct complex concepts and ideas of what it considers reality. Instead, the mind of the soul absorbs truth as a blessing that comes as you receive more of the Father's Love.
 door: >
-  Augustine reveals why spiritual seekers so often talk past one another: the mind builds its own truth while the soul simply receives it, and only prayer opens that deeper channel.
+  The mind builds its own truth. The soul simply receives it. Only prayer opens the deeper channel.
 collections: ["Mind & Soul", "Two Paths"]
 last_edited: 2026-05-26
 ---

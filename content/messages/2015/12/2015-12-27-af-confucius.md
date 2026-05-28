@@ -40,7 +40,7 @@ language: en
 excerpt: >
   Rather than being nervous about each step you take, you will glide along your path in serenity, deep peace and a strength that shall not detract you from your purpose.
 door: >
-  Confucius sees the flower that has long been budding finally beginning to bloom, and calls each soul to step joyously into the awakening already underway.
+  The flower has been budding for so long. Now it is beginning to bloom.
 collections: ["Letters from History", "Mind & Soul"]
 last_edited: 2026-05-25
 ---

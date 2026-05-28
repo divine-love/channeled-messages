@@ -44,7 +44,7 @@ language: en
 excerpt: >
   The year that comes is going to be a challenging year, my friends. There will be many blessings indeed, but there will be challenges — conditions and outbreaks in the world that will challenge you all.
 door: >
-  Seretta Kem sees the darkness rising and names it clearly, then points beyond it: great awakenings are coming, and your light will be part of what makes them possible.
+  The darkness is rising to the surface to be healed. Your light will be part of what makes that possible.
 collections: ["Awakening Humanity"]
 last_edited: 2026-05-26
 ---

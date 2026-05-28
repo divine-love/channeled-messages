@@ -41,7 +41,7 @@ language: en
 excerpt: >
   Each day is a precious gift from God. Each day brings another possibility of increased light within your souls and increased service and love and truth.
 door: >
-  Yogananda arrives drawn by love and offers a simple reframe: every ordinary day, even a quiet one of prayer, is already full of God's work if you stay open.
+  Every ordinary day is full of God's work. You just have to stay open.
 collections: ["Letters from History"]
 last_edited: 2026-05-26
 ---

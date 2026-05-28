@@ -41,7 +41,7 @@ language: en
 excerpt: >
   All you need do is but ask, my friends. Ask for our assistance and you shall receive what you require. You are not alone, never alone.
 door: >
-  Michael arrives as a stranger to this group but not to God's work, and offers one invitation: ask, open, receive the Love that has no limit and the gifts that come with it.
+  Ask. Open. Receive. That is all.
 collections: []
 last_edited: 2026-05-26
 ---

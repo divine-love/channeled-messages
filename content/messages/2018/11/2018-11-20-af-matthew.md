@@ -41,7 +41,7 @@ language: en
 excerpt: >
   Give over your time to allow the workings of the angels and the blessings of God to assist you in your soul growth — this flow is easily recognized, it is not complicated, it merely needs your attention.
 door: >
-  Matthew asks two busy souls to stop, rest, and pray, reminding them that the most productive thing they can do in this rare season is simply be still with God.
+  Stop. Rest. Pray. It is the most productive thing you can do right now.
 collections: ["The Saints & Apostles Speak"]
 last_edited: 2026-05-26
 ---

@@ -40,7 +40,7 @@ language: en
 excerpt: >
   You will find yourself in situations and conditions that you have not dreamed of to this time but are coming — opening doors that God may use you in powerful ways as your souls come into greater alignment.
 door: >
-  Confucius calls the group to prepare not by planning but by praying, trusting that the momentum of a single humble step will carry them into work they cannot yet imagine.
+  One humble step. Then another. The momentum builds and the doors you cannot yet imagine will open.
 collections: ["Letters from History", "Awakening Humanity"]
 last_edited: 2026-05-26
 ---

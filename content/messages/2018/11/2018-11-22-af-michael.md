@@ -44,7 +44,7 @@ language: en
 excerpt: >
   It does not start with words. It starts with a prayer. It starts with a desire for change, for healing, for peace within.
 door: >
-  Michael, who struggled greatly before finding God, speaks the simple truth he wishes someone had told him: prayer is where the revolution of the soul begins.
+  Prayer is not preparation for the revolution of the soul. It is the revolution.
 collections: ["Mind & Soul", "Two Paths"]
 last_edited: 2026-05-26
 ---

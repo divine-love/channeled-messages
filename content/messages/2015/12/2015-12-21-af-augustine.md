@@ -38,7 +38,7 @@ language: en
 excerpt: >
   Jesus came to bring this message of Love and you, my children, have understood this message. Bring it to the world in your actions, your thoughts, your prayers, your speech.
 door: >
-  Augustine calls the Christmas season what it truly is: a moment when the world's heart softens and every channel of love is urgently needed.
+  The world's heart softens at Christmas. Step in.
 collections: []
 last_edited: 2026-05-25
 ---

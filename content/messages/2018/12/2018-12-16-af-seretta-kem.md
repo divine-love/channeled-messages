@@ -43,7 +43,7 @@ language: en
 excerpt: >
   This Lattice of Light built upon the love bonds and prayers that you continue to express is important. It will help to bring many blessings to souls that you do not know of but are indeed receptive to these ministrations.
 door: >
-  Seretta Kem shows the online prayer circle something it cannot see: every prayer is a thread, and together they are weaving a net of love that will one day encircle the world.
+  Every prayer you send into this online circle is a thread. Together they will encircle the world.
 collections: ["Healing Path"]
 last_edited: 2026-05-26
 ---

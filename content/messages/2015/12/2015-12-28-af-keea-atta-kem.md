@@ -40,7 +40,7 @@ language: en
 excerpt: >
   In your souls is such a mighty river of Love waiting to burst forth, waiting for you to allow this great, wondrous Gift and channel to manifest in this world where so many hunger and thirst.
 door: >
-  Keea Atta Kem sees a mighty river dammed by judgment and division, and calls the group to let it go so the Love already within them can finally flood the world.
+  There is a mighty river in your soul. Let go of the judgment that is holding back the flood.
 collections: ["Prism of the Soul"]
 last_edited: 2026-05-25
 ---

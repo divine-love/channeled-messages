@@ -39,7 +39,7 @@ language: en
 excerpt: >
   Many doors will open for you, doors that you had not anticipated will be surprising — and the Love will shine so that others may see, and that you may see your true selves.
 door: >
-  Alec Gaunt looks into the coming year with clear eyes: surprising doors, real challenges, and deeper communion with God than ever before.
+  Surprises, challenges, and deeper communion with God. The year ahead has all three.
 collections: []
 last_edited: 2026-05-25
 ---

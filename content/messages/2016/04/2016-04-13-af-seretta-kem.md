@@ -55,7 +55,7 @@ excerpt: >
   enter your soul it must be given by God through your longing and prayers.
 collections: ["Healing Path"]
 door: >
-  There is only one blessing that cannot be given from one person to another. It must come directly from God
+  One blessing cannot be passed from person to person. It must come directly from God.
 last_edited: 2026-05-25
 ---
 

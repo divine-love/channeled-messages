@@ -43,7 +43,7 @@ language: en
 excerpt: >
   If you pray in anger and fear, concern and indignation, your prayers only go as high as your breath. You must pray with love. Seek the Wisdom of God within your hearts.
 door: >
-  Abdullah Latif cuts to the heart of ineffective prayer: you cannot change the world from outside what you have not yet changed within.
+  You cannot change the world from outside what you have not yet changed within.
 collections: ["Letters from History"]
 last_edited: 2026-05-26
 ---

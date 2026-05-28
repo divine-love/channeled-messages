@@ -44,7 +44,7 @@ language: en
 excerpt: >
   You are pioneers, my beloved friends. You are testing the waters, attempting to come to that place that is in greater harmony with God — the birthing of your soul, the dawning of a new reality.
 door: >
-  Augustine maps the fog humanity lives in and names what lies beyond it: a soul-birthed reality so different, and yet so natural, that once it dawns you will wonder how you lived without it.
+  You live in a fog of the mind's own making. Beyond it is a reality the soul has always known.
 collections: ["Mind & Soul", "Two Paths"]
 last_edited: 2026-05-26
 ---

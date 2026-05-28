@@ -40,7 +40,7 @@ language: en
 excerpt: >
   More petals of the great flower of your soul spread forth showing ever greater beauty and symmetry that is your soul, a flower unique and perfect.
 door: >
-  Seretta Kem tends God's garden and names what is happening to each soul: petal by petal, chamber by chamber, a perfect flower slowly coming to light.
+  Petal by petal, chamber by chamber, the flower of your soul is coming to light.
 collections: ["Healing Path"]
 last_edited: 2026-05-26
 ---

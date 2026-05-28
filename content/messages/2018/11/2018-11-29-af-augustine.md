@@ -44,7 +44,7 @@ language: en
 excerpt: >
   In time, harmony will be struck. You will see and experience and witness in your own lifetime a miracle of the transformation of your world into greater light and harmony.
 door: >
-  Augustine looks unflinchingly at what is coming and offers not fear but preparation: God is already peeling the bells that will wake humanity, and those walking in His Love will find their way.
+  The bells are already pealing. Those walking in God's Love will find their way through.
 collections: ["Awakening Humanity"]
 last_edited: 2026-05-26
 ---

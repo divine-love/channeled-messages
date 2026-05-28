@@ -42,7 +42,7 @@ language: en
 excerpt: >
   It is your mind that restricts this, my beloveds — much of that is based in fear and ignorance and a wilful desire that all things should comply with your thinking.
 door: >
-  Alec Gaunt names what holds love back: not lack of faith, but the mind's fear and wilfulness, quietly closing doors that the soul longs to walk through.
+  Fear and wilfulness are the locks. Love is the key. Your soul has always known this.
 collections: []
 last_edited: 2026-05-25
 ---
