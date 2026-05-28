@@ -1,7 +1,7 @@
 ---
 title: "Two Paths"
 description: "Messages contrasting the natural love path and the Divine Love path — the two ways a soul may progress after physical life. Clarifies the distinction between natural love (which leads to the soul spheres) and Divine Love (which leads to the Celestial Heavens and at-onement with God)."
-last_updated: 2026-05-26
+last_updated: 2026-05-28
 ---
 
 # Two Paths
@@ -28,3 +28,4 @@ Messages contrasting the natural love path and the Divine Love path — the two 
 | [All Truth Comes from the Soul](../messages/2018/11/2018-11-28-af-augustine.md) | 2018‑11‑28 | Augustine addresses the group after a lively and controversial discussion, teaching that the spirit world is filled with spirits who have constructed their own realities through the power of thought and believe they have found complete truth. He distinguishes between the material mind's speculative grasp of truth and the soul mind's direct absorption of truth as a blessing of Divine Love, urging the group to test all ideas against the knowing of the soul rather than the constructs of the mind. |
 | [All Truth Comes from the Soul: Part 2](../messages/2018/12/2018-12-02-af-augustine.md) | 2018‑12‑02 | Augustine continues his teaching on truth and the soul mind, examining how humanity's scientific and materialist framework constructs reality through the mind in ways that are fundamentally unstable and subject to manipulation. He calls those gathered to trust the slow birthing of their soul faculties, assuring them that a blending of the material mind and soul mind will come, bringing an authority and depth of perception that will draw others toward truth. |
 | [God Awaits Your Choice](../messages/2018/12/2018-12-17-af-augustine.md) | 2018‑12‑17 | Augustine calls each soul to recognise that every day begins with a choice: to walk toward Light, harmony, and God's Love, or to be drawn back into the conditions of the human mind. He teaches that for those who feel too weak to choose well, the answer is simply to pray and ask God and the angels for strength, and that in receiving that strength the choice becomes clear, joyful, and free of confusion. |
+| [Divine Love Path and Natural Love Path](../messages/2019/01/2019-01-21-af-augustine.md) | 2019‑01‑21 | Augustine contrasts the Divine Love path with the natural love path, teaching that while God blesses all souls regardless of their choices, only those who receive the Father's Love will awaken the deeper faculties and potentials of the soul that are needed to lead humanity out of its current darkness. He calls those present to continue praying for this gift, trusting that their awakened souls will become powerful instruments of healing and change in the world. |

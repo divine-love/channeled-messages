@@ -1,7 +1,7 @@
 ---
 title: "The Saints & Apostles Speak"
 description: "Messages from the biblical apostles and saints speaking directly from their perspective in spirit — Andrew, James, John the Beloved, Peter, Matthew, Mark, Luke, Francis of Assisi, and others. These spirits offer personal testimony, teaching, and encouragement grounded in their own experience of Divine Love."
-last_updated: 2026-05-26
+last_updated: 2026-05-28
 ---
 
 # The Saints & Apostles Speak
@@ -182,3 +182,4 @@ Messages from the biblical apostles and saints speaking directly from their pers
 | [Matthew's Message of Reassurance to the Group](../messages/2019/01/2019-01-08-af-matthew.md) | 2019‑01‑08 | Matthew addresses an online Circle of Light, affirming that their internet connections are being used by spirit to build the Lattice of Light among souls across the world. He encourages them to trust their souls over their minds, to pray through confusion and tension, and assures them that as God's Love reconciles the duality between mind and soul, each person's unique role in the coming year will become clear. |
 | [The Fate of This World Rests Upon Each Soul's Choice](../messages/2019/01/2019-01-13-af-andrew.md) | 2019‑01‑13 | Andrew teaches that the fate of the world rests on each individual soul's choice to awaken and come to God, as it is only through the inflowing of Divine Love that a soul can truly know itself and its creative potential. He calls those gathered to begin the journey toward at-onement now, assuring them that God's Love is available to every soul without exception, no matter their past or present condition. |
 | [Let This Lattice of Light Strengthen and Grow](../messages/2019/01/2019-01-15-af-andrew.md) | 2019‑01‑15 | Andrew speaks to a prayer group of souls at various stages of their journey, affirming that each is already connected by a cord of light woven into the global net of God's love. He teaches that every sincere prayer and moment of fellowship strengthens the Lattice of Light, and that God is actively weaving His children into a tapestry of love that will bring healing and harmony to the world. |
+| [Be Open and Receptive to What We May Give to Each One of You](../messages/2019/01/2019-01-20-af-martha.md) | 2019‑01‑20 | Martha promises each person in the gathering that within the coming week they will receive a personal sign, vision, message, or understanding suited to their unique gifts and way of receiving. She encourages them to stay open and receptive in prayer, dreams, and daily life, and to share what they receive when they next come together. |
