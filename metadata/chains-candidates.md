@@ -115,6 +115,7 @@ more reliable.
 | `divine-love-healing` | Divine Love is the greatest healing force, surpassing all others | Many healing energies exist -> Divine Love is distinct: it must come directly from God, cannot be passed person to person -> it transforms every cell, energy, and aspect of mind -> human effort and free will are necessary partners | Divine Healing; Healing Path |
 | `judgment-to-love` | Judgment is incompatible with Love; the soul learns to choose Love instead | Judgment of others reveals our own soul state -> beneath judgment lies hidden hurt -> the antidote is conscious choice, not suppression -> as the soul grows in Love, compassion and forgiveness come reflexively | Compassion & Empathy; Self-Love & Acceptance |
 | `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) -> these are unique to each soul and must be experienced to be understood -> Divine Love opens the chambers and refines each faculty | Soul Faculties, Perception & Knowing; Prism of the Soul |
+| `healing-channel` | How a person becomes a channel for God's healing in the world | Healing flows from God, not the healer -> the impulse to heal must begin in the soul, not the mind -> mental constructs and divided purpose lower resonance and draw lesser influences (Law of Attraction) -> singleness of purpose and surrender make one a clear channel -> even a few such souls change the world | Channels & Instruments of God; Service & Mission; Healing Path |
 
 ---
 
@@ -217,6 +218,17 @@ more reliable.
 ### 2019-02-01-af-josephus — Faculties of the Soul — 2019-02-01
 - `soul-faculties` **[Foundation]** — Josephus catalogues the soul's faculties (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, higher love) and teaches that Divine Love opens the soul's chambers and refines each. Anchors the new `soul-faculties` thread.
 - `mind-vs-soul` **[Elaboration]** — Frames the dual consciousness (material mind vs. soul mind) and insists the soul's faculties must be experienced, not merely understood by the mind. Deepens the mind-vs-soul argument rather than founding or capping it.
+
+---
+
+### 2015-01-08-af-jesus — Encouragement from Jesus — 2015-01-08 [not publicly posted]
+- `healing-channel` **[Elaboration]** — Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible second witness for the holding-pen `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - holding for now.
+
+---
+
+### 2016-01-04-af-seretta-kem — On Being a Comforter in This World — 2016-01-04 [not publicly posted]
+- `healing-channel` **[Foundation]** — Healing begins in the soul not the mind; dogmatic mental constructs lower the group's resonance and, via the Law of Attraction, draw lesser influences; singleness of purpose makes a clear channel. Anchors the new `healing-channel` thread. Distinct from `divine-love-healing` (what Divine Love healing IS) - this thread is HOW a person becomes a channel for it.
+- `mind-vs-soul` **[Elaboration]** — Applies the soul-not-mind distinction to the motivation and intention behind service.
 
 ---
 
