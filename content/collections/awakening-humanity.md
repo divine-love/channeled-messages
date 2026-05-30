@@ -1,7 +1,7 @@
 ---
 title: "Awakening Humanity"
 description: "Messages concerning the broader spiritual awakening of humanity — the global shift in consciousness that the Divine Love teachings anticipate and call forth. Includes teachings on the role of prayer circles, light workers, and the awakening mission in the world."
-last_updated: 2026-05-28
+last_updated: 2026-05-30
 ---
 
 # Awakening Humanity

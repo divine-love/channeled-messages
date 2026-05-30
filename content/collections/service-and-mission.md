@@ -1,7 +1,7 @@
 ---
 title: "Service & Mission"
 description: "Messages about service, mediumship, and the mission of those called to carry Divine Love to the world. Covers the development of gifts, the challenges of being a channel of love, and the calling to awaken others."
-last_updated: 2026-05-28
+last_updated: 2026-05-30
 ---
 
 # Service & Mission

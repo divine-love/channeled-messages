@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-28
+last_updated: 2026-05-30
 ---
 
 # Browse All Messages
@@ -418,3 +418,4 @@ last_updated: 2026-05-28
 | [How Can We Discern Truth When Messages from Different Mediums Contradict Each Other?](messages/2019/01/2019-01-30-af-jesus.md) | Jesus | Al Fike | 2019‑01‑30 | Jesus gives the only reliable compass for navigating a world full of contradictory messages: go to God, and ask the spirit of truth within your own soul. |
 | [Thank You for Your Efforts in Prayer](messages/2019/01/2019-01-30-af-matthew.md) | Matthew | Al Fike | 2019‑01‑30 | The answers are already inside you. The questions just haven't caught up with the soul yet. |
 | [Jesus Assigns Spirit Guides](messages/2019/01/2019-01-30-af-seretta-kem.md) | Seretta Kem | Al Fike | 2019‑01‑30 | Jesus answers to God, not to expectation. The humble instrument who asks for nothing specific will always find an angel present. |
+| [Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East](messages/2019/01/2019-01-31-af-yogananda.md) | Yogananda | Al Fike | 2019‑01‑31 | There are no past lives. There are only souls who came very close, whose stories felt like your own. |

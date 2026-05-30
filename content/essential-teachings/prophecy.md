@@ -1,7 +1,7 @@
 ---
 title: "Prophecy"
 description: "Messages containing specific predictions about the world, humanity, or the Divine Love movement. Prophecies in the archive are given by Celestial spirits and concern future events, spiritual shifts, and the unfolding of God's plan for humanity."
-last_updated: 2026-05-28
+last_updated: 2026-05-30
 ---
 
 # Prophecy

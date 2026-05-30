@@ -1,7 +1,7 @@
 ---
 title: "Two Paths"
 description: "Messages contrasting the natural love path and the Divine Love path — the two ways a soul may progress after physical life. Clarifies the distinction between natural love (which leads to the soul spheres) and Divine Love (which leads to the Celestial Heavens and at-onement with God)."
-last_updated: 2026-05-28
+last_updated: 2026-05-30
 ---
 
 # Two Paths
@@ -30,3 +30,4 @@ Messages contrasting the natural love path and the Divine Love path — the two 
 | [God Awaits Your Choice](../messages/2018/12/2018-12-17-af-augustine.md) | 2018‑12‑17 | Augustine calls each soul to recognise that every day begins with a choice: to walk toward Light, harmony, and God's Love, or to be drawn back into the conditions of the human mind. He teaches that for those who feel too weak to choose well, the answer is simply to pray and ask God and the angels for strength, and that in receiving that strength the choice becomes clear, joyful, and free of confusion. |
 | [Divine Love Path and Natural Love Path](../messages/2019/01/2019-01-21-af-augustine.md) | 2019‑01‑21 | Augustine contrasts the Divine Love path with the natural love path, teaching that while God blesses all souls regardless of their choices, only those who receive the Father's Love will awaken the deeper faculties and potentials of the soul that are needed to lead humanity out of its current darkness. He calls those present to continue praying for this gift, trusting that their awakened souls will become powerful instruments of healing and change in the world. |
 | [How Diverse Beliefs Can Be Unified](../messages/2019/01/2019-01-26-af-augustine.md) | 2019‑01‑26 | Augustine responds to a question about how the world's diverse and conflicting perspectives can ever come into harmony. He teaches that the coming changes will dissolve the old anchors of mind-based truth and spiritual ideology, creating an opening for the soul to be recognised and for God's Love to bring a new awakening in which differences of belief give way to the soul's deeper knowing. |
+| [Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East](../messages/2019/01/2019-01-31-af-yogananda.md) | 2019‑01‑31 | Yogananda explains why so many people believe in reincarnation, tracing the experience to the Law of Attraction: spiritually sensitive souls draw spirits of like belief into such close rapport that the mortal feels they have been that spirit personality. He then recounts his own journey from a lifetime of yogic pursuit and deep belief in reincarnation to his meeting with Jesus in spirit, his reception of Divine Love, and his entry into the Celestial Heavens - testifying that the Divine Love path is far easier than the long and arduous natural love road. |
