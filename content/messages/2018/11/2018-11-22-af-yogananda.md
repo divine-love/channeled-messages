@@ -38,7 +38,8 @@ questions:
   - "Can great spiritual teachers from other religions reach at-onement with God?"
   - "What did Yogananda teach and how did it relate to Divine Love?"
   - "Is heaven different from what Eastern religions describe?"
-related_messages: []
+related_messages:
+  - 2019-01-31-af-yogananda
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/yogananda-describes-his-journey-through-the-spheres-towards-the-celestial-heavens/"
 notes: ""
@@ -54,7 +55,7 @@ door: >
 collections:
   - "Two Paths"
   - "Letters from History"
-last_edited: 2026-05-20
+last_edited: 2026-05-30
 ---
 
 I am Yogananda and I wish to tell you of my experience transitioning into the spirit world and my journey towards the Celestial Heavens. When I passed into spirit, I carried with me many ideas and thoughts that originated from the Eastern religions. I nurtured and revered these thoughts in my mind, though within my heart. I tenderly loved God and felt His Love for me and yet it was difficult for me to release these thoughts and conditions that were engrained within me from childhood. So, upon my passing I came to the 4th sphere and found many wonderments, experiences within that sphere that satisfied the edicts of my mind and my religious ideas. Yet, I knew within me there was another longing, the longing of my heart, to go beyond these mental concepts to something that I knew was deeper and closer to God. So, I too had to battle between the ideas of my mind and the desires of my soul.
