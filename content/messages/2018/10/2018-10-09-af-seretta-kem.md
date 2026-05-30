@@ -45,6 +45,7 @@ related_messages:
   - 2018-08-27-af-augustine
   - 2018-09-22-af-luke
   - 2018-10-04-af-matthew
+  - 2019-02-01-af-josephus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-integration-of-the-material-mind-with-the-soul-mind/"
 notes: ""
@@ -56,7 +57,7 @@ excerpt: >
 door: >
   As the soul and mind embrace in joyful recognition, they begin to merge until there is no sense of separation — only the singular consciousness of the soul mind and material mind as one.
 collections: ["Mind & Soul"]
-last_edited: 2026-05-05
+last_edited: 2026-05-30
 ---
 
 The transformation of the soul does not end with changes within the structure of the soul. This transformation begins in the soul with the power of God's Essence opening the soul, awakening the soul in so many ways, enlivening all the chambers and facets of the soul, bringing the faculties of the soul into alignment with your consciousness as it awakens and becomes active. Your capacity to see the world, to love the world, increases exponentially with this gift of Love. The power of this light placed within your soul expands and touches you on every level, every part of you. Every aspect of your existence is changed by this gift. As it grows in power, so the influence increases, touching every cell in your body, every system of your spirit body, every part of your physical mind and the mind of your consciousness is infused with the consciousness of the soul.

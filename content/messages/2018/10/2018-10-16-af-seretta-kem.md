@@ -45,6 +45,7 @@ related_messages:
   - 2018-08-28-af-seretta-kem
   - 2018-10-09-af-seretta-kem
   - 2015-06-24-af-augustine
+  - 2019-02-01-af-josephus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/a-kaleidoscope-of-light/"
 notes: ""
@@ -56,7 +57,7 @@ excerpt: >
 door: >
   An entire garden of gifts lays within your soul. As God brings His living waters in, the seeds germinate and the flora of your soul bears fruit that will nurture many others.
 collections: []
-last_edited: 2026-05-05
+last_edited: 2026-05-30
 ---
 
 You have asked me to speak of the gifts of the soul and I shall do so this day, which is a gift to your soul. A soul that is unawakened by God's Divine Love has many chambers within it that are dry and inactive, like some fruit that has been mummified. Though the potential exists within it, there is no life within that may activate these various chambers in the soul. Within each of these chambers are seeds, God's gifts to your soul beloveds. These gifts are unique. Though they may be similar to another's, how they are combined within your soul is unique and how they may be expressed through your unique individual self is determined by your beautiful soul. So as God brings His loving waters into your soul, bringing life, your soul awakens and is able to function because the needed energies within the soul are present. These seeds within germinate and grow, clusters of seeds together bringing different aspects of your soul alive. This does not happen all at once, the chambers are in-filled gradually and awakened in this way. So, what comes apparent to your consciousness is determined by what the Divine Love accesses within you and touches you. Some places are difficult to reach in the beginning, but still the potential lies within it and eventually all comes to life.
