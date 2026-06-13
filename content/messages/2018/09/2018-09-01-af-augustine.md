@@ -45,6 +45,7 @@ related_messages:
   - 2018-09-01-af-seretta-kem
   - 2018-08-27-af-augustine
   - 2016-08-16-af-james
+  - 2016-01-18-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-awakening-of-your-souls-brings-the-message-of-truth-to-humanity/"
 notes: >
@@ -59,7 +60,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   As you walk in the world a bell tolls with your presence, calling your brothers and sisters to prayer, stimulating that part of their souls that longs for God
-last_edited: 2026-05-01
+last_edited: 2026-06-13
 ---
 
 It is your teacher, Augustine. As our beloved brother and Master speaks, you must all go out into the world to teach this truth and live this truth. For humanity is at the crucial hour to awaken, to come to its senses so that harmony may come to this world, peace may come to this world, love may be the currency of this world. Though every soul may struggle with its inner conditions and be fearful and ignorant and full of error, there is a light, the light within each soul that compels each one to seek God. As you walk in the world a bell tolls with your presence, a bell that says, "Awaken brothers and sisters to this Truth that God loves you, that you may receive His blessings of Love, that your souls and hearts may come to a deep awakening and knowing of this Truth".

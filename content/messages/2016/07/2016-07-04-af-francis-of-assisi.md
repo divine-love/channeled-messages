@@ -55,7 +55,7 @@ excerpt: >
 collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   Love is not something to find outside yourself. It is something God pours in when you simply ask
-last_edited: 2026-04-17
+last_edited: 2026-06-13
 ---
 
 …I am Francis, Francis of Assisi and I have come to speak to you of Love, since this is why you gather, to receive and to know and to express in your lives this great gift of Love. For Love is the great unifying force in the universe. Love is the essence of God's existence. Love is what brings harmony into all your world and all worlds. And for those who seek spiritually, this one great truth must come into their consciousness in order to progress within their souls, whether that be of the natural love or the Divine Love. It is important and crucial that one acknowledges the power of love, the currency of love, the necessity of love. For a heart cold and unloving does not truly live. A heart filled with love, beaming Light and feeling connected to all creation knows the deep joy that is unobtainable when there is no openness or acknowledgement of love.

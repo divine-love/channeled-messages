@@ -6,7 +6,7 @@ description: >
   for building a Thompson-style chain-reference layer once the archive is
   caught up through 2026. This file is NOT generated and NOT a schema. It is
   a hand-kept log. Nothing here is final; everything is a candidate.
-last_updated: 2026-05-30
+last_updated: 2026-06-13
 status: working notes only — do not generate from this file
 ---
 
@@ -116,6 +116,8 @@ more reliable.
 | `judgment-to-love` | Judgment is incompatible with Love; the soul learns to choose Love instead | Judgment of others reveals our own soul state -> beneath judgment lies hidden hurt -> the antidote is conscious choice, not suppression -> as the soul grows in Love, compassion and forgiveness come reflexively | Compassion & Empathy; Self-Love & Acceptance |
 | `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) -> these are unique to each soul and must be experienced to be understood -> Divine Love opens the chambers and refines each faculty | Soul Faculties, Perception & Knowing; Prism of the Soul |
 | `healing-channel` | How a person becomes a channel for God's healing in the world | Healing flows from God, not the healer -> the impulse to heal must begin in the soul, not the mind -> mental constructs and divided purpose lower resonance and draw lesser influences (Law of Attraction) -> singleness of purpose and surrender make one a clear channel -> even a few such souls change the world | Channels & Instruments of God; Service & Mission; Healing Path |
+| `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell -> this reaches other souls wordlessly and ignites their longing for God -> the stronger the Love within, the further it resonates -> this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
+| `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path -> the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing -> God orchestrates through circuitous routes across generations -> the willing soul ignited by Divine Love is the treasure through which His Will manifests -> the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
 
 ---
 
@@ -133,7 +135,7 @@ more reliable.
 - `redemption-universal` **[Testimony]** — Judas, the archetypal betrayer, testifies to his own redemption through Divine Love as living proof that no soul is beyond reach. Likely an early and powerful link; confirm chronological place once full set is in.
 
 ### 2015-03-24-af-augustine — There Is Fate and Yet There Is No Fate — 2015-03-24 [back-search]
-- (holding — candidate `free-will-and-gods-plan` thread; fate vs. free will vs. God's Will. Not minting yet; want a second message before opening the thread.)
+- `free-will-and-gods-plan` **[Foundation]** — Augustine lays the premise: there is fate and yet no fate. God sees and anticipates all and holds an intended outcome, but human free will buffets the path, so events unfold through circuitous routes over generations; the laws of free will and cause-and-effect must be obeyed. The willing soul ignited by Divine Love is the treasure through which God's Will is manifested directly, cutting through accumulated darkness. Anchors the thread at its doctrinal root.
 
 ### 2015-03-27-af-andrew — Every Human Soul Is Damaged by the Earth Condition — 2015-03-27 [back-search]
 - `two-paths` **[Foundation]** — Establishes that every soul carries wounds requiring purification, and that expiation is required on both paths but the Divine path accomplishes it swiftly. Sits at or near the head of the two-paths thread.
@@ -208,6 +210,19 @@ more reliable.
 - `divine-love-without-knowing` **[Foundation]** — Establishes the core claim: the mind need not understand the mechanics for the soul to long for God and receive the gift; souls of all beliefs already receive it.
 - `mind-vs-soul` **[Elaboration]** — The mind can restrict and constrict the inflowing of Love; the soul receives on its own accord.
 
+### 2016-01-16-af-jesus — Blessed Are You Who Seek to Be a Channel of Love — 2016-01-16
+- (no chain advanced — service benediction. Wordless-presence-as-service theme noted; shares it with 2019-01-15-af-augustine. Hold for a third witness that builds an argument.)
+
+### 2016-01-18-af-confucius — How the Gift of Love Can Touch a Soul and Change the World — 2016-01-18
+- `bell-toll-instrumentality` **[Elaboration]** — Confucius deepens the mechanism: the Love within a soul is an active agent that ignites longing in others unawares; the stronger the Love, the more resonant the bell toll, and this silent instrumentality is named the single greatest gift and the agent that will change the world.
+- `free-will-and-gods-plan` **[Elaboration]** — "You are given the gift of free will... but this is your destiny." Applies Augustine's premise to the individual's inner struggle: the soul determines the timing, but alignment with God's Will is the destiny free will exists to choose; resistance burns away as the soul gains ascendency. Pairs with the Augustine foundation.
+
+### 2015-11-30-af-andrew — The Work Begins and You Are Ready — 2015-11-30
+- `bell-toll-instrumentality` **[Foundation]** — Andrew introduces the bell-toll image: God's Touch flowing through awakened souls reaches many like a bell toll awakening, with the gathered souls holding the rope that rings it. Anchors the thread.
+
+### 2018-09-01-af-augustine — The Awakening of Your Souls Brings the Message of Truth to Humanity — 2018-09-01 [back-search]
+- `bell-toll-instrumentality` **[Capstone]** — Augustine states the fullest form: every Divine-Love-bearing soul sends out a signal of light like a tolling bell even in idle silence at home; it is inseparable from the soul. (Already tagged Core Teaching; provisional Capstone role - confirm against full text when building.)
+
 ---
 
 ### 2018-10-16-af-seretta-kem — A Kaleidoscope of Light — 2018-10-16 [back-search]
@@ -222,7 +237,7 @@ more reliable.
 ---
 
 ### 2015-01-08-af-jesus — Encouragement from Jesus — 2015-01-08 [not publicly posted]
-- `healing-channel` **[Elaboration]** — Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible second witness for the holding-pen `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - holding for now.
+- `healing-channel` **[Elaboration]** — Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible additional witness for the now-minted `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - confirm role against full text before adding.
 
 ---
 
@@ -237,8 +252,6 @@ more reliable.
 Threads suggested by a single message so far. Mint a slug once a second
 message gives them an argument to trace.
 
-- `free-will-and-gods-plan` — fate, free will, and God's Will / orchestration.
-  Seen: 2015-03-24-af-augustine.
 - `the-fall` — the original state of humanity and the fall from grace.
   Seen: 2016-05-29-af-aman. Pairs with `reincarnation-progression`.
 - Pentecost / readiness to receive — seen: 2017-05-11-af-jesus.
@@ -257,6 +270,13 @@ message gives them an argument to trace.
   teaching messages that move through several distinct ideas (e.g. the
   Augustine "All Truth Comes from the Soul" pieces). Note these as we find
   them so we know which messages break the whole-message-unit assumption.
+  - 2015-03-24-af-augustine ("There Is Fate and Yet There Is No Fate")
+    moves through several distinct ideas: fate/free will, the laws of
+    cause-and-effect, angelic orchestration through circuitous routes, the
+    willing soul as treasure, and the invitation to lost souls. Anchored in
+    `free-will-and-gods-plan` as Foundation, but its bell-toll-adjacent and
+    "seek ye the Heavenly Father" material may belong to other threads at a
+    sub-message level.
 - Watch for places where chronological order and logical/argument order
   diverge. Working hypothesis: they usually agree. Divergences are interesting
   and worth flagging. (Note: `two-paths` already shows the fullest statement

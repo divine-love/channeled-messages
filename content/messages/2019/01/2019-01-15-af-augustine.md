@@ -29,7 +29,8 @@ questions:
   - "How do I keep love and compassion flowing through me to everyone I encounter?"
   - "How does gathering together with other believers carry a power I may not fully understand?"
   - "What does it mean to allow my inner light to glow brighter each day?"
-related_messages: []
+related_messages:
+  - 2016-01-16-af-jesus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/walk-in-the-world-as-a-channel-of-light/"
 notes: ""
@@ -40,7 +41,7 @@ excerpt: >
 door: >
   Everyone you walk past today can be blessed. No words required.
 collections: ["Service & Mission"]
-last_edited: 2026-05-26
+last_edited: 2026-06-13
 ---
 
 Beloveds, I am your teacher Augustine. God will continue to gather you together, beloved souls. He continues to envelop you and press you to His bosom so that you know that you are not alone, that you are indeed part of this great family of God's children.

@@ -13,14 +13,10 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Josephus, a philosopher and teacher of the Jewish faith now in the Celestial
-  Kingdom, delivers a structured teaching on the faculties of the soul -
-  faculties distinct from the material mind and awakened by Divine Love. He
-  describes the soul as having chambers opened by God's Essence, each holding a
-  gift: the emerging awareness of God, the perception of spirits, the knowing of
-  Truth, the sense of God's Will, healing, creativity, original thought, the
-  moral compass, and the higher capacity to love. He teaches that these are
-  unique to each soul, must be experienced to be understood, and are refined and
-  transformed when ignited by Divine Love.
+  Kingdom, delivers a structured teaching on the faculties of the soul, distinct
+  from the material mind and held in chambers that God's Essence opens. He teaches
+  that these faculties are unique to each soul, must be experienced rather than
+  understood by the mind, and are refined and transformed when ignited by Divine Love.
 primary_subjects: "Soul Faculties, Perception & Knowing"
 secondary_subjects:
   - "Soul Awakening"
@@ -62,7 +58,7 @@ door: >
   You are using only half of what you are. The other half is a soul full of
   sealed chambers, and Divine Love is the light that opens them.
 collections: ["Prism of the Soul", "Letters from History"]
-last_edited: 2026-05-30
+last_edited: 2026-06-13
 ---
 
 May His Love find a great inflowing into your soul. My name is Josephus, I have not spoken through this instrument before but I have been asked to speak about the faculties of the soul. I was a philosopher and teacher of the Jewish faith and helped to formulate the scriptures of this religion. Now I reside within the Celestial Kingdom. I have followed the teachings of the Messiah of Israel, our beloved Jesus.
