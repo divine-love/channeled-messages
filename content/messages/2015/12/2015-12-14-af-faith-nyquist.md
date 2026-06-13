@@ -39,6 +39,7 @@ questions:
 related_messages:
   - 2015-12-14-af-augustine
   - 2015-09-27-af-faith-nyquist
+  - 2016-01-09-af-faith-nyquist
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-emerging-growth-of-your-souls/"
 notes: >

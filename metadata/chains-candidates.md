@@ -242,6 +242,12 @@ message gives them an argument to trace.
 - `the-fall` — the original state of humanity and the fall from grace.
   Seen: 2016-05-29-af-aman. Pairs with `reincarnation-progression`.
 - Pentecost / readiness to receive — seen: 2017-05-11-af-jesus.
+- `currency-of-love` — love as the true currency / medium of exchange
+  between souls; bridges language, culture, and belief. Seen:
+  2016-01-11-af-matthew. Also surfaces in 2016-07-04-af-francis-of-assisi
+  ("Love Is the True Currency of Life") and 2015-07-25-af-john-the-beloved.
+  Image/motif more than a developed argument so far — hold until a message
+  builds an argument from it rather than invoking it.
 
 ---
 

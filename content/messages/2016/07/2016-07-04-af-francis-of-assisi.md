@@ -40,6 +40,7 @@ questions:
 related_messages:
   - 2015-11-09-af-francis-of-assisi
   - 2016-05-11-af-jesus
+  - 2016-01-11-af-matthew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/love-is-the-true-currency-of-life/"
 notes: >
