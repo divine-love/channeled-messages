@@ -230,6 +230,8 @@ last_updated: 2026-06-17
 | [Open Wide Your Souls](messages/2016/02/2016-02-15-af-confucius.md) | Confucius | Al Fike | 2016‑02‑15 | On the coldest night, the warmth you are looking for is not in the room. It is waiting inside your own soul. |
 | [You Struggle but You Do Make Progress](messages/2016/02/2016-02-29-af-confucius.md) | Confucius | Al Fike | 2016‑02‑29 | The painful welling-up you are trying to push back down is not a setback. It is the cleansing itself. |
 | [Fighting Back the Darkness of the Earth Conditions](messages/2016/02/2016-02-29-af-luke.md) | Luke | Al Fike | 2016‑02‑29 | Why is the Light so close one day and gone the next? Luke says the weather you are feeling is not your own. |
+| [God's Little Surprises](messages/2016/03/2016-03-06-af-goldie.md) | Goldie | Al Fike | 2016‑03‑06 | The people who arrive in your life unannounced may be the ones God planned for all along. |
+| [A Greeting](messages/2016/03/2016-03-06-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑03‑06 | The burdens you are ready to set down are the very things that have kept you from going where you are needed. |
 | [Talk on Service to God](messages/2016/03/2016-03-18-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑18 | You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways |
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | Al Fike | 2016‑03‑21 | You are the first tender shoots of a spring that is dawning for all of mankind |
 | [Talk on Service](messages/2016/03/2016-03-26-af-andrew.md) | Andrew | Al Fike | 2016‑03‑26 | There is a deep recognition within you that you are meant to love and to be a channel of Love |
