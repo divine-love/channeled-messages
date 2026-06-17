@@ -118,6 +118,7 @@ more reliable.
 | `healing-channel` | How a person becomes a channel for God's healing in the world | Healing flows from God, not the healer -> the impulse to heal must begin in the soul, not the mind -> mental constructs and divided purpose lower resonance and draw lesser influences (Law of Attraction) -> singleness of purpose and surrender make one a clear channel -> even a few such souls change the world | Channels & Instruments of God; Service & Mission; Healing Path |
 | `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell -> this reaches other souls wordlessly and ignites their longing for God -> the stronger the Love within, the further it resonates -> this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
 | `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path -> the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing -> God orchestrates through circuitous routes across generations -> the willing soul ignited by Divine Love is the treasure through which His Will manifests -> the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
+| `prayer-soul-longing` | True prayer is the longing of the soul, not the recitation of the mind | Prayer is the foundation and anchor of the Divine Love path -> but words alone are not prayer; the sincere longing of the soul is what prayer essentially is -> repetition without feeling elicits no real response -> it is soul-longing that activates God's answer (the Law of Activation) -> as Divine Love accumulates, prayer becomes easier and the conscious knowing of God deepens | Prayer & Devotion; Law of Activation; Receiving the Divine Love through Prayer |
 
 ---
 
@@ -223,6 +224,15 @@ more reliable.
 ### 2018-09-01-af-augustine — The Awakening of Your Souls Brings the Message of Truth to Humanity — 2018-09-01 [back-search]
 - `bell-toll-instrumentality` **[Capstone]** — Augustine states the fullest form: every Divine-Love-bearing soul sends out a signal of light like a tolling bell even in idle silence at home; it is inseparable from the soul. (Already tagged Core Teaching; provisional Capstone role - confirm against full text when building.)
 
+### 2015-11-28-af-faith-nyquist — The Power of Prayer to Bring Change and Healing — 2015-11-28
+- `prayer-soul-longing` **[Foundation]** — Faith establishes that sincere prayer and soul-longing for God's Love brings real change in both the material and spirit worlds; strips prayer to its essence ("just longing, just prayer"). Anchors the thread.
+
+### 2016-01-23-af-augustine — The Power of Prayer — 2016-01-23
+- `prayer-soul-longing` **[Elaboration]** — Augustine draws the central distinction: prayer is the anchor and foundation of the Path Divine, but "not a prayer that is a recitation from your minds, but prayer that is a longing from your soul"; it is the longing that elicits God's response.
+
+### 2018-07-30-af-keea-atta-kem — Prayer — 2018-07-30
+- `prayer-soul-longing` **[Capstone]** — Keea Atta Kem gives the fullest treatment: prayer is the language of the soul and an act of faith opening a thread of light to God; names the Law of Activation as the mechanism ("It is prayer that brings the response from God enacting His Law of Activation"); repetition without feeling yields no real response. Ties the soul-longing argument to a named spiritual law. (Tagged Core Teaching.)
+
 ---
 
 ### 2018-10-16-af-seretta-kem — A Kaleidoscope of Light — 2018-10-16 [back-search]
@@ -277,6 +287,13 @@ message gives them an argument to trace.
     `free-will-and-gods-plan` as Foundation, but its bell-toll-adjacent and
     "seek ye the Heavenly Father" material may belong to other threads at a
     sub-message level.
+- Possible future collection "The Life of Prayer" (or "Foundations of
+  Prayer"): several messages teach prayer itself as the foundation/anchor of
+  the Divine Love path, but none of the nine current collections is a clean
+  home. Charter candidates: 2016-01-23-af-augustine ("The Power of Prayer"),
+  2018-07-30-af-keea-atta-kem ("Prayer"), 2015-11-28-af-faith-nyquist ("The
+  Power of Prayer to Bring Change and Healing"). Watch for more; mint a
+  collection if they accumulate.
 - Watch for places where chronological order and logical/argument order
   diverge. Working hypothesis: they usually agree. Divergences are interesting
   and worth flagging. (Note: `two-paths` already shows the fullest statement
