@@ -1,7 +1,7 @@
 ---
 title: "Letters from History"
 description: "Messages from historical figures beyond the biblical canon — philosophers, rulers, mystics, scientists, and others speaking from their perspective in spirit about Divine Love, truth, and the soul's journey."
-last_updated: 2026-06-13
+last_updated: 2026-06-17
 ---
 
 # Letters from History
