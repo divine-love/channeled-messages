@@ -356,6 +356,7 @@ The following conventions have been established through the curation process and
 - **Clear typos** (e.g., "yolk" for "yoke", "froth" for "forth"): fix silently.
 - **Grammar errors**: flag but do not auto-fix without permission.
 - **Transcriber insertions** — words or phrases added by the transcriber for clarity should be wrapped in **square brackets** `[]`, not parentheses. Example: `He walked with them [after the resurrection] for forty days.`
+- **Redacted personal names** — where a personal name has been blanked out of the message body (appearing in the source as a run of x's, underscores, dashes, or similar), replace the blank with the token `[name-removed]`. This keeps redactions unambiguous and consistent with the square-bracket editorial convention. Example: `My dear [name-removed], I love you so dearly.`
 
 ### Notes Field
 

@@ -39,6 +39,7 @@ questions:
   - "Where does the natural love path lead compared to the Divine Love path?"
   - "What gifts and truths are already waiting within my soul?"
 related_messages:
+  - 2016-03-10-af-augustine
   - 2016-07-10-af-augustine
   - 2016-05-02-af-andrew
 audio_url: ""
@@ -52,7 +53,7 @@ collections: ["Mind & Soul", "Two Paths", "The Saints & Apostles Speak"]
 essential_teachings: ["Core Teaching"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-16
+last_edited: 2026-06-17
 ---
 
 It is Augustine here. May your souls know that deep touch of the Heavenly Father redeeming your souls, bringing your souls into alignment with Truth and Love, purity and grace so that you may be a clear channel of Love in this world. Some of you feel the stirrings of your souls and you feel a deep desire to be a part of the work that is manifesting around this world, to bring greater Light and enlightenment to many souls as the world shifts and changes. This is affected by the breath of God upon it and His Will to bring all into harmony and alignment, peace and a wholesomeness that will affirm life and bring the opportunity for life for all of God's creatures and harmony amongst mankind.

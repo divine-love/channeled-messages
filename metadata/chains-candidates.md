@@ -277,6 +277,12 @@ more reliable.
 ### 2016-02-29-af-luke — Fighting Back the Darkness of the Earth Conditions — 2016-02-29 [not publicly posted]
 - `soul-expiation` **[Elaboration]** — Luke names the internal target of cleansing: "the accumulation and detritus of a life" - conditions not in harmony with God's Love - which prayer neutralizes as part of the soul's salvation toward at-onement. Touches the expiation thread, though the message's spine is the external earth-conditions argument (held separately).
 
+### 2016-03-10-af-augustine — Struggle of Soul and Mind — 2016-03-10 [not publicly posted]
+- `mind-vs-soul` **[Elaboration]** — Augustine adds the practical decision-making dimension: facing a choice, the mind races through many plans and outcomes, but the seeker must go to the soul and ask there - choosing knowing over believing, seeing over creating a reality, peace over agitation. A soul-led step feels like gaining understanding, not losing control. Part of the tight Augustine mind/soul cluster with 2016-01-24 and 2016-02-15.
+
+### 2016-03-10-af-confucius — Struggle of Mind — 2016-03-10 [not publicly posted]
+- `mind-vs-soul` **[Elaboration]** — Confucius adds the free-will/willfulness angle: the mind's powers (free will, creative thought) burden the world when exerted without love; the soul must take precedence and inform the mind. Resolves not by rejecting the self but by strengthening the soul in Love through prayer. Companion to the same-day Augustine "Struggle of Soul and Mind."
+
 ---
 
 # Holding pen (candidate threads not yet minted)
@@ -301,9 +307,11 @@ message gives them an argument to trace.
   others and becoming a channel of Love; one cannot extend compassion
   outward while suppressing or condemning the self. Seen:
   2016-02-29-af-confucius (woven into the judgment-to-love argument there);
-  2016-03-07-af-augustine ("to love yourselves, to love all around you,"
-  again woven into a larger teaching). Two sightings, both as sub-point.
-  Watch for a message that makes self-love its own central argument, then mint.
+  2016-03-07-af-augustine ("to love yourselves, to love all around you");
+  2016-03-10-af-confucius ("you should not love yourselves and acknowledge
+  every aspect of who you are"). Three sightings, all as sub-point within a
+  larger teaching. Watch for a message that makes self-love its own central
+  argument, then mint.
 - `sensitive-souls-redemptive` — the sensitive soul who feels the cruelty
   of the world acutely and struggles to be in it is the saving grace of this
   world: such souls progress swiftly in spirit, refuse the darkness of
