@@ -300,9 +300,16 @@ message gives them an argument to trace.
 - `self-love-foundation` — loving oneself is the prerequisite for loving
   others and becoming a channel of Love; one cannot extend compassion
   outward while suppressing or condemning the self. Seen:
-  2016-02-29-af-confucius (woven into the judgment-to-love argument there).
-  Watch for a message that makes self-love its own central argument rather
-  than a sub-point, then mint.
+  2016-02-29-af-confucius (woven into the judgment-to-love argument there);
+  2016-03-07-af-augustine ("to love yourselves, to love all around you,"
+  again woven into a larger teaching). Two sightings, both as sub-point.
+  Watch for a message that makes self-love its own central argument, then mint.
+- `sensitive-souls-redemptive` — the sensitive soul who feels the cruelty
+  of the world acutely and struggles to be in it is the saving grace of this
+  world: such souls progress swiftly in spirit, refuse the darkness of
+  judgement and fear, and serve as the redemptive example whose very presence
+  turns heads and sows seeds of Love. Seen: 2016-03-07-af-augustine. Hold for
+  a second witness that builds the argument.
 - `earth-conditions-and-prayer` — the thoughts and actions of mankind
   generate a darkness-field, like weather, that buffets every soul and
   accounts for why one feels close to God one day and burdened the next;
