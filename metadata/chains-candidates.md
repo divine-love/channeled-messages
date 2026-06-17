@@ -253,7 +253,8 @@ more reliable.
 
 ---
 
-### 2015-01-08-af-jesus — Encouragement from Jesus — 2015-01-08 [not publicly posted]
+### 2016-01-08-af-jesus — Encouragement from Jesus — 2015-01-08 [not publicly posted]
+- NOTE: file has a date/id mismatch - message_id is 2016-01-08-af-jesus but the date field reads 2015-01-08. Needs human resolution of the true date received. Chain ordering at build time depends on which is correct.
 - `healing-channel` **[Elaboration]** — Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible additional witness for the now-minted `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - confirm role against full text before adding.
 
 ---
@@ -310,6 +311,15 @@ message gives them an argument to trace.
   2016-02-29-af-luke. Strong, developed argument; hold for a second witness
   that makes the world-conditions-as-field + prayer-as-neutralizer case
   central before minting.
+- `vanguards-of-change` — the circle is commissioned as the leading edge
+  ("vanguards") of a Divine-Love-driven transformation of the world, which
+  requires releasing material attachments to become free, mobile channels of
+  Love joining others in a reverberating, wave-upon-wave change. Seen:
+  2016-03-06-af-jesus and 2016-01-08-af-jesus (the latter currently logged
+  loosely under `healing-channel` as commissioning-not-mechanism). If minted,
+  consider moving that 2015 entry out of `healing-channel` into this thread.
+  Hold for confirmation that this is its own argument distinct from the
+  healing-channel mechanism.
 
 ---
 
