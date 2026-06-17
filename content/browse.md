@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-06-13
+last_updated: 2026-06-17
 ---
 
 # Browse All Messages
@@ -219,6 +219,7 @@ last_updated: 2026-06-13
 | [Blessed Are You Who Seek to Be a Channel of Love](messages/2016/01/2016-01-16-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑01‑16 | The most powerful thing you will do today needs no words at all. |
 | [How the Gift of Love Can Touch a Soul and Change the World](messages/2016/01/2016-01-18-af-confucius.md) | Confucius | Al Fike | 2016‑01‑18 | You may never say a word. The Love in your soul rings like a bell, and souls you will never meet turn toward the sound. |
 | [Mary Will Be with You in Your Prayers](messages/2016/01/2016-01-18-af-mary.md) | Mary | Al Fike | 2016‑01‑18 | When you go to comfort another, you do not go alone. Mary and a host of angels go with you. |
+| [The Power of Prayer](messages/2016/01/2016-01-23-af-augustine.md) | Augustine | Al Fike | 2016‑01‑23 | God does not answer the words. He answers the longing underneath them. |
 | [You Struggle But You Make Progress](messages/2016/02/2016-02-29-af-confucius.md) | Confucius | Al Fike | 2016‑02‑29 | The struggle is not a sign that something is wrong. It is proof that something is growing |
 | [Talk on Service to God](messages/2016/03/2016-03-18-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑18 | You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways |
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | Al Fike | 2016‑03‑21 | You are the first tender shoots of a spring that is dawning for all of mankind |
