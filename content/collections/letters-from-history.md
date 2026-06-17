@@ -1,7 +1,7 @@
 ---
 title: "Letters from History"
 description: "Messages from historical figures beyond the biblical canon — philosophers, rulers, mystics, scientists, and others speaking from their perspective in spirit about Divine Love, truth, and the soul's journey."
-last_updated: 2026-05-30
+last_updated: 2026-06-13
 ---
 
 # Letters from History
@@ -50,3 +50,4 @@ Messages from historical figures beyond the biblical canon — philosophers, rul
 | [How Can We Help Approach Scientists?](../messages/2019/01/2019-01-28-af-albert-einstein.md) | 2019‑01‑28 | Einstein explains why spirits are so eager to work with this circle, noting that opportunities for communication with receptive mortals are rare. He reveals that those gathered will be guided to serve as intermediaries — connecting spirits in the higher realms with specific souls who have the potential to bring important scientific and spiritual truths to the world, as part of God's overarching plan. |
 | [Divine Love Is Yours for the Asking](../messages/2019/01/2019-01-28-af-yogananda.md) | 2019‑01‑28 | Yogananda reflects on the loss of deep spiritual understanding in his homeland of India as material Western thinking spreads, expressing sorrow that the world is turning away from closeness to spirit. He then invites those gathered to drink deeply from the fountainhead of God's Love, which he did not fully understand in his Earth life but now knows, and affirms that this gift is available to all who come with innocence and sincere desire. |
 | [Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East](../messages/2019/01/2019-01-31-af-yogananda.md) | 2019‑01‑31 | Yogananda explains why so many people believe in reincarnation, tracing the experience to the Law of Attraction: spiritually sensitive souls draw spirits of like belief into such close rapport that the mortal feels they have been that spirit personality. He then recounts his own journey from a lifetime of yogic pursuit and deep belief in reincarnation to his meeting with Jesus in spirit, his reception of Divine Love, and his entry into the Celestial Heavens - testifying that the Divine Love path is far easier than the long and arduous natural love road. |
+| [Faculties of the Soul](../messages/2019/02/2019-02-01-af-josephus.md) | 2019‑02‑01 | Josephus, a philosopher and teacher of the Jewish faith now in the Celestial Kingdom, delivers a structured teaching on the faculties of the soul, distinct from the material mind and held in chambers that God's Essence opens. He teaches that these faculties are unique to each soul, must be experienced rather than understood by the mind, and are refined and transformed when ignited by Divine Love. |

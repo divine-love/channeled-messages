@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-05-30
+last_updated: 2026-06-13
 ---
 
 # Browse All Messages
@@ -22,6 +22,7 @@ last_updated: 2026-05-30
 | [Cleansing of Your Soul Brings Understanding, Perception and Wisdom](messages/2015/01/2015-01-05-af-andrew.md) | Andrew | Al Fike | 2015‑01‑05 | The pain of cleansing is the price of a wisdom that cannot be learned any other way |
 | [The Desires of Your Soul to Be in the Light](messages/2015/01/2015-01-05-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2015‑01‑05 | The deepest desire of your soul is already pointed toward God |
 | [You Are Deeply Needed](messages/2015/01/2015-01-05-xx-jesus.md) | Jesus | Anonymous | 2015‑01‑05 | You are not incidental to God's plan. You are needed |
+| [Encouragement from Jesus](messages/2016/01/2016-01-08-af-jesus.md) | Jesus | Al Fike | 2015‑01‑08 | Your soul already knows what is coming. The joy you feel is the anticipation of a door God has not yet opened. |
 | [They Will Fill This Building](messages/2015/03/2015-03-23-af-augustine.md) | Augustine | Al Fike | 2015‑03‑23 | They will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right |
 | [Trust God to Lead You to Solid Ground](messages/2015/03/2015-03-23-af-goldie.md) | Goldie | Al Fike | 2015‑03‑23 | Why do you walk from one piece of ice to another in a swift river? Trust God to lead you to solid ground |
 | [Your Purpose in This Gathering Is to Teach the Prayer Practice](messages/2015/03/2015-03-23-af-john-the-beloved.md) | John the Beloved | Al Fike | 2015‑03‑23 | Your purpose in this gathering is to teach the prayer practice. This is but a small portion of what is to come |
@@ -209,6 +210,15 @@ last_updated: 2026-05-30
 | [The Time Comes for You to Express These Gifts](messages/2015/12/2015-12-28-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2015‑12‑28 | There is a mighty river in your soul. Let go of the judgment that is holding back the flood. |
 | [Look Forward to New Opportunities in the Coming Year](messages/2015/12/2015-12-30-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2015‑12‑30 | Surprises, challenges, and deeper communion with God. The year ahead has all three. |
 | [Accepting the New Awarenesses of an Opening Soul](messages/2016/01/2016-01-04-af-confucius.md) | Confucius | Al Fike | 2016‑01‑04 | There may be nothing between your mind and your soul - a merging of consciousness |
+| [On Being a Comforter in This World](messages/2016/01/2016-01-04-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑01‑04 | Your longing to heal the world is real. But ask where it begins - in the mind that wants to plan it, or the soul that simply loves. |
+| [You Are Gardeners in God's Beautiful Garden](messages/2016/01/2016-01-09-af-augustine.md) | Augustine | Al Fike | 2016‑01‑09 | What you think of as tending a small garden, God sees as the beginning of a paradise. |
+| [Your Beautiful Souls Are Eager](messages/2016/01/2016-01-09-af-confucius.md) | Confucius | Al Fike | 2016‑01‑09 | The gifts you are waiting to discover are already inside you, already eager to be found. |
+| [The Simple Journey Awaits](messages/2016/01/2016-01-09-af-faith-nyquist.md) | Faith | Al Fike | 2016‑01‑09 | The work of God needs no grand structures. It needs only your willingness to let go and reach. |
+| [The Year Ahead](messages/2016/01/2016-01-11-af-matthew.md) | Matthew | Al Fike | 2016‑01‑11 | This year you will do the things you fear you cannot do, carried by a Love that asks no passport and speaks every language. |
+| [The Path You Walk Together](messages/2016/01/2016-01-13-af-andrew.md) | Andrew | Al Fike | 2016‑01‑13 | Stop asking how and when and where. Feel the Love move through you, and act. That is the only signal you need. |
+| [Blessed Are You Who Seek to Be a Channel of Love](messages/2016/01/2016-01-16-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑01‑16 | The most powerful thing you will do today needs no words at all. |
+| [How the Gift of Love Can Touch a Soul and Change the World](messages/2016/01/2016-01-18-af-confucius.md) | Confucius | Al Fike | 2016‑01‑18 | You may never say a word. The Love in your soul rings like a bell, and souls you will never meet turn toward the sound. |
+| [Mary Will Be with You in Your Prayers](messages/2016/01/2016-01-18-af-mary.md) | Mary | Al Fike | 2016‑01‑18 | When you go to comfort another, you do not go alone. Mary and a host of angels go with you. |
 | [You Struggle But You Make Progress](messages/2016/02/2016-02-29-af-confucius.md) | Confucius | Al Fike | 2016‑02‑29 | The struggle is not a sign that something is wrong. It is proof that something is growing |
 | [Talk on Service to God](messages/2016/03/2016-03-18-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑18 | You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways |
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | Al Fike | 2016‑03‑21 | You are the first tender shoots of a spring that is dawning for all of mankind |
@@ -418,4 +428,6 @@ last_updated: 2026-05-30
 | [How Can We Discern Truth When Messages from Different Mediums Contradict Each Other?](messages/2019/01/2019-01-30-af-jesus.md) | Jesus | Al Fike | 2019‑01‑30 | Jesus gives the only reliable compass for navigating a world full of contradictory messages: go to God, and ask the spirit of truth within your own soul. |
 | [Thank You for Your Efforts in Prayer](messages/2019/01/2019-01-30-af-matthew.md) | Matthew | Al Fike | 2019‑01‑30 | The answers are already inside you. The questions just haven't caught up with the soul yet. |
 | [Jesus Assigns Spirit Guides](messages/2019/01/2019-01-30-af-seretta-kem.md) | Seretta Kem | Al Fike | 2019‑01‑30 | Jesus answers to God, not to expectation. The humble instrument who asks for nothing specific will always find an angel present. |
+| [How Can a Person Receive Divine Love Without Knowing About It?](messages/2019/01/2019-01-31-af-augustine.md) | Augustine | Al Fike | 2019‑01‑31 | You do not have to understand the gift to receive it. The soul knows how to long for God even when the mind has never heard His name. |
 | [Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East](messages/2019/01/2019-01-31-af-yogananda.md) | Yogananda | Al Fike | 2019‑01‑31 | There are no past lives. There are only souls who came very close, whose stories felt like your own. |
+| [Faculties of the Soul](messages/2019/02/2019-02-01-af-josephus.md) | Josephus | Al Fike | 2019‑02‑01 | You are using only half of what you are. The other half is a soul full of sealed chambers, and Divine Love is the light that opens them. |
