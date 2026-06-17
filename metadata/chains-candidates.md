@@ -273,6 +273,9 @@ more reliable.
 - `soul-expiation` **[Elaboration]** — Confucius reframes the painful "welling up from your souls" as the cleansing itself: releasing the burdens to God is real progress toward lasting joy. Frames the surfacing of buried pain as forward motion, not setback.
 - `judgment-to-love` **[Elaboration]** — Judgement, anger, and fear are the human conditions that pull a soul from the Light; the way through is self-love, which opens compassion for others. Adds the self-love foundation beneath the judgment-to-love argument.
 
+### 2016-02-29-af-luke — Fighting Back the Darkness of the Earth Conditions — 2016-02-29 [not publicly posted]
+- `soul-expiation` **[Elaboration]** — Luke names the internal target of cleansing: "the accumulation and detritus of a life" - conditions not in harmony with God's Love - which prayer neutralizes as part of the soul's salvation toward at-onement. Touches the expiation thread, though the message's spine is the external earth-conditions argument (held separately).
+
 ---
 
 # Holding pen (candidate threads not yet minted)
@@ -299,6 +302,14 @@ message gives them an argument to trace.
   2016-02-29-af-confucius (woven into the judgment-to-love argument there).
   Watch for a message that makes self-love its own central argument rather
   than a sub-point, then mint.
+- `earth-conditions-and-prayer` — the thoughts and actions of mankind
+  generate a darkness-field, like weather, that buffets every soul and
+  accounts for why one feels close to God one day and burdened the next;
+  daily prayer neutralizes these conditions both within and around the soul,
+  and the seeker must "fight" as a warrior of Light. Seen:
+  2016-02-29-af-luke. Strong, developed argument; hold for a second witness
+  that makes the world-conditions-as-field + prayer-as-neutralizer case
+  central before minting.
 
 ---
 
