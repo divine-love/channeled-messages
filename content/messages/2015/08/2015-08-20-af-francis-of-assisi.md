@@ -38,7 +38,8 @@ questions:
   - "How do I stop my mind from ruling my actions and let my soul lead?"
   - "What does it mean to be naked in the Light of God's Love?"
   - "How does love for creation connect to love for God?"
-related_messages: []
+related_messages:
+  - 2016-01-28-af-francis-of-assisi
 audio_url: ""
 canonical_url: ""
 notes: >

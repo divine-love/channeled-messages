@@ -39,6 +39,7 @@ questions:
   - "How do my prayers benefit other people, even those I only love from afar?"
 related_messages:
   - 2016-07-10-af-augustine
+  - 2016-01-24-af-augustine
 audio_url: ""
 canonical_url: ""
 language: en

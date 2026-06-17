@@ -224,11 +224,18 @@ more reliable.
 ### 2018-09-01-af-augustine — The Awakening of Your Souls Brings the Message of Truth to Humanity — 2018-09-01 [back-search]
 - `bell-toll-instrumentality` **[Capstone]** — Augustine states the fullest form: every Divine-Love-bearing soul sends out a signal of light like a tolling bell even in idle silence at home; it is inseparable from the soul. (Already tagged Core Teaching; provisional Capstone role - confirm against full text when building.)
 
+### 2016-01-28-af-francis-of-assisi — How I Became a Channel of Love in the World — 2016-01-28
+- `bell-toll-instrumentality` **[Testimony]** — Francis offers his own Earth life as evidence for the mechanism: as a soul seeks God's Love it brings a special Light into the world that "rings the bell and the bell tolls and the souls have a flicker of awakening and respond." First-person witness that the awakened soul awakens others, from one who lived it.
+
 ### 2015-11-28-af-faith-nyquist — The Power of Prayer to Bring Change and Healing — 2015-11-28
 - `prayer-soul-longing` **[Foundation]** — Faith establishes that sincere prayer and soul-longing for God's Love brings real change in both the material and spirit worlds; strips prayer to its essence ("just longing, just prayer"). Anchors the thread.
 
 ### 2016-01-23-af-augustine — The Power of Prayer — 2016-01-23
 - `prayer-soul-longing` **[Elaboration]** — Augustine draws the central distinction: prayer is the anchor and foundation of the Path Divine, but "not a prayer that is a recitation from your minds, but prayer that is a longing from your soul"; it is the longing that elicits God's response.
+
+### 2016-01-24-af-augustine — Lesson on Soul-Desire — 2016-01-24
+- `prayer-soul-longing` **[Elaboration]** — Augustine refines the chain on a specific point: the desires of the soul and the mind often differ, and this mismatch is what derails prayer (a soul may long for God's Love while the mind feels unworthy; the mind may think it receives where the soul does not truly desire). The remedy is to plumb the soul's true desire and make it the focus of prayer.
+- `mind-vs-soul` **[Elaboration]** — Frames the material mind as the chief obstacle - its clutter, fear, and sense of unworthiness obscuring the soul's true desire - and calls for disciplining the mind so the soul can commune directly with God.
 
 ### 2018-07-30-af-keea-atta-kem — Prayer — 2018-07-30
 - `prayer-soul-longing` **[Capstone]** — Keea Atta Kem gives the fullest treatment: prayer is the language of the soul and an act of faith opening a thread of light to God; names the Law of Activation as the mechanism ("It is prayer that brings the response from God enacting His Law of Activation"); repetition without feeling yields no real response. Ties the soul-longing argument to a named spiritual law. (Tagged Core Teaching.)
@@ -255,6 +262,17 @@ more reliable.
 - `healing-channel` **[Foundation]** — Healing begins in the soul not the mind; dogmatic mental constructs lower the group's resonance and, via the Law of Attraction, draw lesser influences; singleness of purpose makes a clear channel. Anchors the new `healing-channel` thread. Distinct from `divine-love-healing` (what Divine Love healing IS) - this thread is HOW a person becomes a channel for it.
 - `mind-vs-soul` **[Elaboration]** — Applies the soul-not-mind distinction to the motivation and intention behind service.
 
+### 2016-02-10-af-confucius — Remember to Nourish Your Soul — 2016-02-10 [not publicly posted]
+- `healing-channel` **[Elaboration]** — Confucius gives the working method: pray for God to touch the soul through you, acting in resonance and harmony with the flow of Love, and nourish your own soul foremost as the precondition for clear channelhood. Distinguishes the soul's emanation of love from the many other energies and emanations of body and spirit body - the soul-aligned flow is what makes healing powerful.
+
+### 2016-02-15-af-augustine — Forge That Path to Your Souls and Thereby to God — 2016-02-15 [not publicly posted]
+- `mind-vs-soul` **[Elaboration]** — Augustine sharpens the contrast: the mind is well-trodden, revered, and nurtured while the soul lies cloistered and encrusted; the mind's interpretations of God and self are distorted, but the soul enlivened by Divine Love perceives truths the mind cannot reach. To forge a path to the soul is to forge a path to God.
+- `two-paths` **[Elaboration]** — Lays out the choice directly: the natural love path brings a real but lesser closeness to God, while the Divine Love path brings a fulfillment the natural love cannot equal. "I wish for you to know these distinctions." Pre-dates the Andrew capstone (2016-05-02); chronology and argument agree.
+
+### 2016-02-29-af-confucius — You Struggle but You Do Make Progress — 2016-02-29 [not publicly posted]
+- `soul-expiation` **[Elaboration]** — Confucius reframes the painful "welling up from your souls" as the cleansing itself: releasing the burdens to God is real progress toward lasting joy. Frames the surfacing of buried pain as forward motion, not setback.
+- `judgment-to-love` **[Elaboration]** — Judgement, anger, and fear are the human conditions that pull a soul from the Light; the way through is self-love, which opens compassion for others. Adds the self-love foundation beneath the judgment-to-love argument.
+
 ---
 
 # Holding pen (candidate threads not yet minted)
@@ -271,6 +289,16 @@ message gives them an argument to trace.
   ("Love Is the True Currency of Life") and 2015-07-25-af-john-the-beloved.
   Image/motif more than a developed argument so far — hold until a message
   builds an argument from it rather than invoking it.
+- `guidance-as-seed` — God's Will/guidance arrives not as a dramatic sign
+  but as a seed of a thought or small inkling that grows as Love nurtures
+  it; the soul must honour and act on these quiet droplets. Seen:
+  2016-02-02-af-jesus. Hold for a second witness that builds the argument.
+- `self-love-foundation` — loving oneself is the prerequisite for loving
+  others and becoming a channel of Love; one cannot extend compassion
+  outward while suppressing or condemning the self. Seen:
+  2016-02-29-af-confucius (woven into the judgment-to-love argument there).
+  Watch for a message that makes self-love its own central argument rather
+  than a sub-point, then mint.
 
 ---
 

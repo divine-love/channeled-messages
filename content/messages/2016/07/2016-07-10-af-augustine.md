@@ -46,6 +46,8 @@ related_messages:
   - 2015-12-14-af-augustine
   - 2016-01-04-af-confucius
   - 2016-01-23-af-augustine
+  - 2016-01-24-af-augustine
+  - 2016-02-15-af-augustine
   - 2016-06-13-af-james
   - 2016-07-09-af-confucius
 audio_url: ""

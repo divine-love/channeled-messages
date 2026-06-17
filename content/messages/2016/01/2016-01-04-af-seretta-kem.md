@@ -43,6 +43,7 @@ questions:
   - "What does it mean to live as a comforter with every breath?"
 related_messages:
   - 2015-03-29-af-seretta-kem
+  - 2016-02-10-af-confucius
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -56,7 +57,7 @@ door: >
   Your longing to heal the world is real. But ask where it begins - in the mind
   that wants to plan it, or the soul that simply loves.
 collections: ["Service & Mission", "Healing Path"]
-last_edited: 2026-05-30
+last_edited: 2026-06-16
 ---
 
 I am Seretta Kem and I come to guide you upon those questions and efforts that you have made to bring healing to this world. I would ask you to consider, my beloveds, what motivates you when you come together in this way to bring healing to the world? Is it your minds or is it your souls? Undoubtedly your answer would be both and the motivation to bring healing to the world is a desire that originates from your soul. It is a longing and a yearning to bring comfort to many. It is a reflection of the Father's Love within you.
