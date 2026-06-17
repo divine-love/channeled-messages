@@ -229,6 +229,7 @@ last_updated: 2026-06-17
 | [Forge That Path to Your Souls and Thereby to God](messages/2016/02/2016-02-15-af-augustine.md) | Augustine | Al Fike | 2016‑02‑15 | You know your own mind better than you know your own soul. Augustine says that is exactly backwards. |
 | [Open Wide Your Souls](messages/2016/02/2016-02-15-af-confucius.md) | Confucius | Al Fike | 2016‑02‑15 | On the coldest night, the warmth you are looking for is not in the room. It is waiting inside your own soul. |
 | [You Struggle but You Do Make Progress](messages/2016/02/2016-02-29-af-confucius.md) | Confucius | Al Fike | 2016‑02‑29 | The painful welling-up you are trying to push back down is not a setback. It is the cleansing itself. |
+| [Fighting Back the Darkness of the Earth Conditions](messages/2016/02/2016-02-29-af-luke.md) | Luke | Al Fike | 2016‑02‑29 | Why is the Light so close one day and gone the next? Luke says the weather you are feeling is not your own. |
 | [Talk on Service to God](messages/2016/03/2016-03-18-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑18 | You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways |
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | Al Fike | 2016‑03‑21 | You are the first tender shoots of a spring that is dawning for all of mankind |
 | [Talk on Service](messages/2016/03/2016-03-26-af-andrew.md) | Andrew | Al Fike | 2016‑03‑26 | There is a deep recognition within you that you are meant to love and to be a channel of Love |
