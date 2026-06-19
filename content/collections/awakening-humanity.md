@@ -1,7 +1,7 @@
 ---
 title: "Awakening Humanity"
 description: "Messages concerning the broader spiritual awakening of humanity — the global shift in consciousness that the Divine Love teachings anticipate and call forth. Includes teachings on the role of prayer circles, light workers, and the awakening mission in the world."
-last_updated: 2026-06-17
+last_updated: 2026-06-19
 ---
 
 # Awakening Humanity
@@ -61,3 +61,4 @@ Messages concerning the broader spiritual awakening of humanity — the global s
 | [Mankind Has the Power to Create Its Own Reality](../messages/2019/01/2019-01-27-af-abdullah-latif.md) | 2019‑01‑27 | Abdullah Latif teaches that the world's darkness and suffering is not God's creation but the cumulative result of humanity's free choices, each thought and action piling dark energy upon the Earth. He calls those gathered to have compassion for themselves as they struggle to hold light in an environment hostile to it, assuring them that thousands of spirits watch their efforts with admiration and hope. |
 | [Questions Regarding Earth Changes](../messages/2019/01/2019-01-28-af-augustine.md) | 2019‑01‑28 | Augustine addresses the group's desire for clear predictions about world events, honestly explaining why specific prophecy is difficult: the conditions of the world are erratic, the veil between the worlds distorts what is conveyed, and time itself is experienced differently in spirit. He calls those gathered to trust their inner compass, make plans without fear when guidance is clear, and be assured that God's plan for the salvation of mankind will not fail. |
 | [God Needs Us to Bring Truth](../messages/2019/01/2019-01-29-af-matthew.md) | 2019‑01‑29 | Matthew calls those gathered to continue their journey of soul awakening, reminding them that God needs willing souls who have been transformed by His Love to serve as beacons for others in a world where most sleep in ignorance of their own true nature. He assures them they are not walking alone and that God will heal their wounds, strip away their cloaks of pain, and provide all that is needed to persist and serve. |
+| [The Impediments of Soul Awakening](../messages/2023/02/2023-02-10-af-augustine.md) | 2023‑02‑10 | Augustine teaches that humanity has been desensitized from childhood, its intuitive and emotional capacities trained away beneath intellect, distraction, and social conditioning, leaving people unable to feel their way to God. He corrects the notion that one must first cleanse all conditions before receiving God's Love: rather, prayer and longing draw in the Essence, which then strengthens the soul to face its buried feelings and clear the channel between mind and soul. |
