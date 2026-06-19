@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-06-17
+last_updated: 2026-06-19
 ---
 
 # Browse All Messages
@@ -236,6 +236,10 @@ last_updated: 2026-06-17
 | [Greetings from Victor Summers](messages/2016/03/2016-03-07-af-victor-summers.md) | Victor Summers | Al Fike | 2016‑03‑07 | The doubt that troubled his ministry on Earth did not end him. From the doorstep of Heaven, he warns you not to repeat it. |
 | [Struggle of Soul and Mind](messages/2016/03/2016-03-10-af-augustine.md) | Augustine | Al Fike | 2016‑03‑10 | When you face a choice, your mind offers a hundred plans. Augustine says the answer is in the one place you keep overlooking. |
 | [Struggle of Mind](messages/2016/03/2016-03-10-af-confucius.md) | Confucius | Al Fike | 2016‑03‑10 | You gather hoping to change the world. Confucius gently corrects you: you are not the one who changes it. |
+| [Encrustations of the Soul](messages/2016/03/2016-03-11-af-luke.md) | Luke | Al Fike | 2016‑03‑11 | The pain you carry is not proof that you are sinful. It is only the mark of having lived in this world, and it can fall away. |
+| [A Door Has Opened for You](messages/2016/03/2016-03-12-af-faith-nyquist.md) | Faith | Al Fike | 2016‑03‑12 | A door has opened. You cannot see the plan behind it, but your part is only to walk through in joy. |
+| [Even Material Work Can Be a Channel of Love](messages/2016/03/2016-03-12-af-james.md) | James | Al Fike | 2016‑03‑12 | You think being a channel of Love means prayer and ministry. James says the broom in your hand counts too. |
+| [God's Touch in the World](messages/2016/03/2016-03-12-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑12 | Your prayers are sending ripples to souls you will never meet. You feel nothing happen, and yet it is the most powerful thing you do. |
 | [Talk on Service to God](messages/2016/03/2016-03-18-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑18 | You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways |
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | Al Fike | 2016‑03‑21 | You are the first tender shoots of a spring that is dawning for all of mankind |
 | [Talk on Service](messages/2016/03/2016-03-26-af-andrew.md) | Andrew | Al Fike | 2016‑03‑26 | There is a deep recognition within you that you are meant to love and to be a channel of Love |
@@ -447,3 +451,4 @@ last_updated: 2026-06-17
 | [How Can a Person Receive Divine Love Without Knowing About It?](messages/2019/01/2019-01-31-af-augustine.md) | Augustine | Al Fike | 2019‑01‑31 | You do not have to understand the gift to receive it. The soul knows how to long for God even when the mind has never heard His name. |
 | [Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East](messages/2019/01/2019-01-31-af-yogananda.md) | Yogananda | Al Fike | 2019‑01‑31 | There are no past lives. There are only souls who came very close, whose stories felt like your own. |
 | [Faculties of the Soul](messages/2019/02/2019-02-01-af-josephus.md) | Josephus | Al Fike | 2019‑02‑01 | You are using only half of what you are. The other half is a soul full of sealed chambers, and Divine Love is the light that opens them. |
+| [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |

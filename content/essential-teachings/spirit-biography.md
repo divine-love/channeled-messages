@@ -1,7 +1,7 @@
 ---
 title: "Spirit Biography"
 description: "Messages in which a spirit provides significant information about their own Earth life, identity, or experience in spirit. These messages are valuable both spiritually and historically, offering first-person testimony from spirits whose lives are part of the broader human and sacred record."
-last_updated: 2026-06-17
+last_updated: 2026-06-19
 ---
 
 # Spirit Biography
