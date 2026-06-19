@@ -240,6 +240,8 @@ last_updated: 2026-06-19
 | [A Door Has Opened for You](messages/2016/03/2016-03-12-af-faith-nyquist.md) | Faith | Al Fike | 2016‑03‑12 | A door has opened. You cannot see the plan behind it, but your part is only to walk through in joy. |
 | [Even Material Work Can Be a Channel of Love](messages/2016/03/2016-03-12-af-james.md) | James | Al Fike | 2016‑03‑12 | You think being a channel of Love means prayer and ministry. James says the broom in your hand counts too. |
 | [God's Touch in the World](messages/2016/03/2016-03-12-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑12 | Your prayers are sending ripples to souls you will never meet. You feel nothing happen, and yet it is the most powerful thing you do. |
+| [Keep the Flame Burning](messages/2016/03/2016-03-13-af-faith-nyquist.md) | Faith | Al Fike | 2016‑03‑13 | No one may ever thank you or even notice. God sees the flame you keep burning, and that is the whole point. |
+| [Talk on Children](messages/2016/03/2016-03-14-af-mary.md) | Mary | Al Fike | 2016‑03‑14 | The purpose of life is so simple that we miss it: to discover who you are, to love, and to know God. |
 | [Talk on Service to God](messages/2016/03/2016-03-18-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑03‑18 | You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways |
 | [The Awakening of Humanity](messages/2016/03/2016-03-21-af-augustine.md) | Augustine | Al Fike | 2016‑03‑21 | You are the first tender shoots of a spring that is dawning for all of mankind |
 | [Talk on Service](messages/2016/03/2016-03-26-af-andrew.md) | Andrew | Al Fike | 2016‑03‑26 | There is a deep recognition within you that you are meant to love and to be a channel of Love |
