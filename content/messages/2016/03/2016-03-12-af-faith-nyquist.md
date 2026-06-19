@@ -34,7 +34,8 @@ questions:
   - "Why does prayer matter so much, even when I cannot see its effect?"
   - "How does being a channel of Love plant seeds for the future?"
   - "How do I know when to walk through a door that has opened for me?"
-related_messages: []
+related_messages:
+  - 2016-03-13-af-faith-nyquist
 audio_url: ""
 canonical_url: ""
 language: en

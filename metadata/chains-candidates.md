@@ -350,6 +350,12 @@ message gives them an argument to trace.
   blessing. What matters is the love, attitude, and intention brought to the
   task, not whether the task looks "spiritual." Seen: 2016-03-12-af-james.
   Hold for a second witness that builds the argument.
+- `purpose-of-life` — the simple, developed teaching that the purpose of life
+  is to discover who you truly are, to love and be loved, to receive God's Love,
+  and to progress toward at-onement with Him; stated as something so simple most
+  people miss it. Seen: 2016-03-14-af-mary (states it crisply but does not build
+  the argument). Mint when a message genuinely develops the argument rather than
+  asserting it. Search-level home meanwhile: subject "Purpose & Meaning of Life."
 
 ---
 
@@ -380,7 +386,20 @@ message gives them an argument to trace.
   argument agree there. Good early confirmation.)
 - `mind-vs-soul` already has two Chrysalis candidates (2018-06-18, 2018-10-09).
   When building, decide whether both belong or one supersedes the other.
+- Possible `free-will-and-gods-plan` connection to watch: 2016-03-13-af-faith-nyquist
+  ("Keep the Flame Burning") echoes the thread's "circuitous route" image
+  ("God's Will will manifest. It may take a circuitous route but it will be done").
+  Connection is suggestive but vague (an encouragement echo, not a development of
+  the argument). Not logged as a member; revisit if stronger circuitous-route /
+  God's-Will-despite-resistance witnesses appear, and replace or confirm then.
 - At hundreds of chains, this file will need a real registry/tooling pass.
   Revisit structure before it gets unwieldy.
+- Watch for a "children / the young" theme. It reads as collection-shaped (a
+  recurring topic to browse) rather than chain-shaped (a built argument). First
+  sighting: 2016-03-14-af-mary ("Talk on Children"). If it accumulates to
+  several messages, propose a tenth collection (e.g. "Children & the Young")
+  rather than forcing one now - expanding past the controlled set of nine
+  collections is a deliberate taxonomy decision to raise explicitly with the
+  curator.
 - Back-search [back-search] entries need full-text confirmation of their roles
   before chains are finalised.
