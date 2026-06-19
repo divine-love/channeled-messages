@@ -42,6 +42,7 @@ questions:
   - "What does the Bible mean when it says do not quench the Spirit?"
   - "How do I know if a communication I am receiving is truly from a Celestial angel?"
 related_messages:
+  - 2016-03-27-af-seretta-kem
   - 2016-12-06-af-seretta-kem
   - 2018-08-28-af-seretta-kem
   - 2018-01-21-af-professor-salyards
@@ -57,7 +58,7 @@ excerpt: >
 collections: []
 door: >
   Do not measure your progress but be attuned to your soul each day, with deep appreciation of the experience you have in the moment
-last_edited: 2026-05-01
+last_edited: 2026-06-19
 ---
 
 There is much to impart to you regarding what you call Divine Love mediumship. So I will continue upon my discourse. It is been often said amongst you mortals, that you have a long way to go in regards to your journey to God and your awakening of the soul. I say that all mortals and spirits and even Celestial angels, have a long way to go to God. For the soul, gifted with the Father's Divine Love, is on an eternal journey to at-onement with God. Though you may measure this journey upon the earth, the awakening of your soul in your earthly life, although in the space of eternity it is not that much further than we in the Celestial Heavens. So I would suggest to you, beloved souls, do not measure your progress, but be attuned to your soul each day. Have deep appreciation of the experience that you have in the moment, in your relationship with your Heavenly Father, in your relationship with yourself. Yes each day is a day of progression, a moving forward in light, of learning, growing, experiencing and living. When you start each day with prayer, you begin the journey of that day well.

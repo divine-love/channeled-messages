@@ -6,7 +6,7 @@ description: >
   for building a Thompson-style chain-reference layer once the archive is
   caught up through 2026. This file is NOT generated and NOT a schema. It is
   a hand-kept log. Nothing here is final; everything is a candidate.
-last_updated: 2026-06-13
+last_updated: 2026-06-19
 status: working notes only — do not generate from this file
 ---
 
@@ -291,6 +291,29 @@ more reliable.
 ### 2016-03-12-af-john-the-beloved — God's Touch in the World — 2016-03-12 [not publicly posted]
 - `bell-toll-instrumentality` **[Elaboration]** — John teaches that prayers and loving intentions cause ripples that touch souls the pray-er will never know of: "this is how change happens, true change happens by touching the souls of your brothers and sisters as God's channels." The same radiating-instrument mechanism as the bell toll, framed through prayer and Circles of Light. Names it the seeker's "greatest resource."
 
+### 2016-03-16-af-jesus — The Resonance of Love Amongst You — 2016-03-16 [not publicly posted]
+- `bell-toll-instrumentality` **[Chrysalis]** — Jesus opens the transformed vista the thread builds toward: once the soul sheds its conditions there is "no resistance, no fear, no concern for self, merely a passion, a passion so hot" to be "God's purveyor of Love, and in so doing this becoming the instrument of change in the world," continuing "for all eternity." Adds the loving-across-difference entry point the thread lacked - greet the soul not the surface, a channel of Love opens, the bond creates a Light, and God weaves the connections into a tapestry that changes the world soul to soul. Companion to the John the Beloved ripples teaching (2016-03-12). (Logged as Chrysalis on the judgment that this is the vista, not the mechanism; downgrade to Elaboration if it reads as the latter.)
+- `mind-vs-soul` **[Elaboration]** — Applies the distinction twice: in relationship, surface differences "are of the mind, yet the soul resonates with love," so one greets the soul beneath the foreign appearance; and in discernment, "the fantasies of your minds projecting how you will do God's Work will be replaced by a sure knowledge of your souls."
+- `free-will-and-gods-plan` **[Elaboration]** — Second clear witness for the circuitous-route motif flagged in Open Questions: "none of you are lost upon a circuitous road but each walks his road, guided by God and you shall accomplish what your heart desires." Reassurance about the individual's path rather than a development of the cross-generational orchestration argument, so a light link; confirm role against the thread's spine when building.
+
+### 2016-03-17-af-alec-gaunt — You Must Be the Examples — 2016-03-17 [not publicly posted]
+- `bell-toll-instrumentality` **[Elaboration]** — The most powerful tool for reaching others is not argument but exposing them to the experience of Divine Love and being the example oneself: "You must be the examples... at least half of that teaching is through your example." Truth is conveyed delicately, soul to soul, "in a way that will reach the soul of that individual." The teach-by-radiating-Love mechanism rather than by mental persuasion.
+- `mind-vs-soul` **[Elaboration]** — Sets the soul-flow method against mind-structure: rather than "creating a structure within your mind which in its way restricts and contains the Will of God," one conveys "the wisdom that is inherent within this flow that comes from your souls." Names the daily work of strengthening "that channel of information that comes from your soul to your mind."
+- `soul-expiation` **[Reframe]** — Recasts the felt slowness of soul awakening: even when the mind cannot reach soul-awareness, "this does not mean that your soul is dormant or not growing, or that the encrustations are not falling away." The vivid double-ended image - inner Light pressing out, prayer loosening the debris from within a clogged channel until "a great geyser of Light" breaks through. Reassurance that hidden progress is real, distinct from the thread's other Reframes (cause of conditions, 2016-03-11; difficult times as progress, 2018-07-14).
+- `free-will-and-gods-plan` **[Elaboration]** — "You cannot devise a plan to save the world. This is not possible for any human being or even any angel. It is God's plan." The willing soul serves by surrendering ego and ambition into the flow of God's Will; Alec offers his own Earth-life ambition as the cautionary case. Companion to his fuller biographical treatment (2018-05-09).
+
+### 2016-03-18-af-john-the-beloved — Talk on Service to God — 2016-03-18
+- `free-will-and-gods-plan` **[Elaboration]** — Adds the pre-incarnation choice to the thread: "you have chosen this... Each one of you has incarnated into this world for this purpose. You chose this," paired with the willful-self-release move - "you continue to release that willful part of yourself and you continue to allow the knowing of the soul to eclipse the ideas of the mind." Frames alignment with God's Will as the joyful fulfilment of a choice the soul already made, not a surrender imposed from outside.
+- `bell-toll-instrumentality` **[Elaboration]** — The subtle-instrumentality humility: "God uses you in ways that you do not even know... it may be very subtle as God uses you to touch others, to touch their souls," and as the channel clears, "you will find intense responses to your presence... many will be drawn to you." Carries the "chain of Love... a very long chain" image of blessing passing soul to soul. Companion to the John 2016-03-12 ripples teaching.
+
+### 2016-03-25-af-augustine — Importance of Prayer — 2016-03-25 [not publicly posted]
+- `prayer-soul-longing` **[Elaboration]** — Augustine affirms that sincerity is what counts: "each sincere prayer given to God will strike the mark and obtain a response from your Heavenly Father," offered "in earnest longing and clear intention." Sits between his own central distinction (2016-01-23, prayer as longing not recitation) and the Keea Atta Kem capstone (2018-07-30); confirms the soul-longing argument and ties prayer to clarifying the soul's purpose and growing the Light each time the circle gathers.
+- NOTE (portal watch): contains the archive's earliest portal-language sighting so far - the circle's prayer called "this channel, this portal of Light in the world." Informal and metaphorical, well before the developed Portals-of-Light doctrine (James 2018-11-21; Seretta Kem 2019-01-26). Not a chain member; flag for the eventual portals thread to trace where the term first appears and how it hardens into the technical mechanism.
+- NOTE (collection watch): a fourth charter candidate for the possible "Life of Prayer" collection in Open Questions, alongside 2016-01-23-af-augustine, 2018-07-30-af-keea-atta-kem, and 2015-11-28-af-faith-nyquist.
+
+### 2016-03-27-af-seretta-kem — Mediumship, Communication and Rapport — 2016-03-27 [not publicly posted]
+- `mind-vs-soul` **[Elaboration]** — Seretta Kem gives the communication mechanism: a truth held wordlessly in the soul must travel up into the material mind, where it is "filtered and distorted by those conditions within the mind" - the encrustations, biases, and fears narrow the passage, so what arrives is incomplete, not so much error as a partial picture. "The truths of the mind are transient and often illusionary but the truth of the soul is solid and can be relied upon." As the soul grows the channel clears, until "the mind capitulates and allows this greater, deeper consciousness to inhabit all aspects of the mortal." Applies the mind-soul distinction specifically to how knowing crosses from soul to consciousness; adjacent to the integration end-state the thread's Chrysalis candidates describe (2018-06-18, 2018-10-09), but framed through the communication channel rather than the merging itself.
+
 ### 2023-02-10-af-augustine — The Impediments of Soul Awakening — 2023-02-10 [not publicly posted]
 - `soul-expiation` **[Objection-removed]** — Augustine corrects a key misconception: "It is not as others have said that they must first cleanse all of these conditions before they are able to know their soul or receive the great gift of God's Love. Rather, the contrary is true." Prayer and longing draw in the Essence first, which then strengthens the soul to clear its conditions. Removes the worthiness/purify-first barrier that blocks the expiation process.
 - `earth-conditions-and-prayer` **[Elaboration]** — Develops the thread minted from the 2016-02-29 Luke foundation: humanity is desensitized from childhood and absorbs the world's conditions; one must come awake to these rather than absorb them, neutralize them with light, and the Earth itself is changing to force humanity awake. Shifts the emphasis from Luke's "weather-field that buffets" to the awakening/re-sensitization needed to meet it.
@@ -324,11 +347,13 @@ message gives them an argument to trace.
   2016-03-10-af-confucius ("you should not love yourselves and acknowledge
   every aspect of who you are"); 2016-03-11-af-luke ("you must have compassion
   for yourselves and know that you are not to blame for your condition");
-  2016-03-12-af-john-the-beloved ("your capacity to love yourselves").
-  Five sightings, all woven into a larger teaching rather than standing as the
-  central argument; the Luke sighting is the strongest, framing self-compassion
-  as the correct stance toward one's own cleansing. Watch for a message that
-  makes self-love its own central argument, then mint.
+  2016-03-12-af-john-the-beloved ("your capacity to love yourselves");
+  2016-03-16-af-seretta-kem ("to love yourselves fully with great joy and true
+  knowledge that you are loved").
+  Six sightings, all woven into a larger teaching or offered as warm affirmation
+  rather than standing as the central argument; the Luke sighting is the strongest,
+  framing self-compassion as the correct stance toward one's own cleansing. Watch
+  for a message that makes self-love its own central argument, then mint.
 - `sensitive-souls-redemptive` — the sensitive soul who feels the cruelty
   of the world acutely and struggles to be in it is the saving grace of this
   world: such souls progress swiftly in spirit, refuse the darkness of
@@ -349,7 +374,11 @@ message gives them an argument to trace.
   preparing a place) done in love equally enacts God's Will and becomes a
   blessing. What matters is the love, attitude, and intention brought to the
   task, not whether the task looks "spiritual." Seen: 2016-03-12-af-james.
-  Hold for a second witness that builds the argument.
+  Second sighting: 2016-03-16-af-jesus ("It matters not the task, my beloveds,
+  but the love that goes into that task"). Both state the principle rather than
+  build an argument from it; the Jesus sighting frames it as the opening premise
+  of a commissioning into service. Watch for a message that develops the
+  argument, then mint.
 - `purpose-of-life` — the simple, developed teaching that the purpose of life
   is to discover who you truly are, to love and be loved, to receive God's Love,
   and to progress toward at-onement with Him; stated as something so simple most
@@ -403,3 +432,10 @@ message gives them an argument to trace.
   curator.
 - Back-search [back-search] entries need full-text confirmation of their roles
   before chains are finalised.
+- `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
+  on Good Friday") gestures at the thread's territory - "the distortions that
+  have gone through the centuries creating great myths and errors" about Jesus'
+  message - but only invokes it; the message corrects no specific doctrine, and
+  its actual spine is carry-the-message service and pushing back darkness. Too
+  light to log as a member. Revisit only if it would help bracket the thread's
+  Good-Friday / death-of-Jesus framing when building.
