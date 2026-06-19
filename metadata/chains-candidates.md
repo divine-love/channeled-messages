@@ -119,6 +119,7 @@ more reliable.
 | `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell -> this reaches other souls wordlessly and ignites their longing for God -> the stronger the Love within, the further it resonates -> this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
 | `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path -> the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing -> God orchestrates through circuitous routes across generations -> the willing soul ignited by Divine Love is the treasure through which His Will manifests -> the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
 | `prayer-soul-longing` | True prayer is the longing of the soul, not the recitation of the mind | Prayer is the foundation and anchor of the Divine Love path -> but words alone are not prayer; the sincere longing of the soul is what prayer essentially is -> repetition without feeling elicits no real response -> it is soul-longing that activates God's answer (the Law of Activation) -> as Divine Love accumulates, prayer becomes easier and the conscious knowing of God deepens | Prayer & Devotion; Law of Activation; Receiving the Divine Love through Prayer |
+| `earth-conditions-and-prayer` | The conditions of the world act on every soul, and prayer is how they are met and neutralized | The thoughts and actions of mankind generate a darkness-field, like weather, that buffets every soul and desensitizes humanity to God -> this accounts for why one feels close to God one day and burdened the next -> the seeker must come awake to these conditions rather than absorb them -> daily prayer neutralizes them both within and around the soul, drawing in Divine Love -> the Earth itself is changing to force humanity awake | Darkness vs Light; Prayer & Devotion; Humanity's Spiritual Condition & Awakening |
 
 ---
 
@@ -275,13 +276,25 @@ more reliable.
 - `judgment-to-love` **[Elaboration]** — Judgement, anger, and fear are the human conditions that pull a soul from the Light; the way through is self-love, which opens compassion for others. Adds the self-love foundation beneath the judgment-to-love argument.
 
 ### 2016-02-29-af-luke — Fighting Back the Darkness of the Earth Conditions — 2016-02-29 [not publicly posted]
-- `soul-expiation` **[Elaboration]** — Luke names the internal target of cleansing: "the accumulation and detritus of a life" - conditions not in harmony with God's Love - which prayer neutralizes as part of the soul's salvation toward at-onement. Touches the expiation thread, though the message's spine is the external earth-conditions argument (held separately).
+- `earth-conditions-and-prayer` **[Foundation]** — Luke anchors the thread: the thoughts and actions of mankind generate a darkness-field that, like weather, comes in waves and buffets every soul, accounting for why one feels close to God one day and burdened the next; daily prayer neutralizes these conditions both within and around the soul, and the seeker must "fight" as a warrior of Light.
+- `soul-expiation` **[Elaboration]** — Luke names the internal target of cleansing: "the accumulation and detritus of a life" - conditions not in harmony with God's Love - which prayer neutralizes as part of the soul's salvation toward at-onement. Touches the expiation thread, though the message's spine is the external earth-conditions argument.
 
 ### 2016-03-10-af-augustine — Struggle of Soul and Mind — 2016-03-10 [not publicly posted]
 - `mind-vs-soul` **[Elaboration]** — Augustine adds the practical decision-making dimension: facing a choice, the mind races through many plans and outcomes, but the seeker must go to the soul and ask there - choosing knowing over believing, seeing over creating a reality, peace over agitation. A soul-led step feels like gaining understanding, not losing control. Part of the tight Augustine mind/soul cluster with 2016-01-24 and 2016-02-15.
 
 ### 2016-03-10-af-confucius — Struggle of Mind — 2016-03-10 [not publicly posted]
 - `mind-vs-soul` **[Elaboration]** — Confucius adds the free-will/willfulness angle: the mind's powers (free will, creative thought) burden the world when exerted without love; the soul must take precedence and inform the mind. Resolves not by rejecting the self but by strengthening the soul in Love through prayer. Companion to the same-day Augustine "Struggle of Soul and Mind."
+
+### 2016-03-11-af-luke — Encrustations of the Soul — 2016-03-11 [not publicly posted]
+- `soul-expiation` **[Reframe]** — Luke recasts the source of the soul's encrustations: they are NOT the mark of sin or depravity but simply the residue of having lived in this world, so the seeker is "in a way a victim," not to blame, and should meet their own cleansing with compassion. Distinct from the thread's other Reframe (2018-07-14, which recasts difficult times as greatest progress); this one reframes the cause of the conditions. Also gives the vivid mechanism: inner Light presses against the hardened shell, Divine Love raises the pressure, the cracks widen, the encrustations burst away.
+
+### 2016-03-12-af-john-the-beloved — God's Touch in the World — 2016-03-12 [not publicly posted]
+- `bell-toll-instrumentality` **[Elaboration]** — John teaches that prayers and loving intentions cause ripples that touch souls the pray-er will never know of: "this is how change happens, true change happens by touching the souls of your brothers and sisters as God's channels." The same radiating-instrument mechanism as the bell toll, framed through prayer and Circles of Light. Names it the seeker's "greatest resource."
+
+### 2023-02-10-af-augustine — The Impediments of Soul Awakening — 2023-02-10 [not publicly posted]
+- `soul-expiation` **[Objection-removed]** — Augustine corrects a key misconception: "It is not as others have said that they must first cleanse all of these conditions before they are able to know their soul or receive the great gift of God's Love. Rather, the contrary is true." Prayer and longing draw in the Essence first, which then strengthens the soul to clear its conditions. Removes the worthiness/purify-first barrier that blocks the expiation process.
+- `earth-conditions-and-prayer` **[Elaboration]** — Develops the thread minted from the 2016-02-29 Luke foundation: humanity is desensitized from childhood and absorbs the world's conditions; one must come awake to these rather than absorb them, neutralize them with light, and the Earth itself is changing to force humanity awake. Shifts the emphasis from Luke's "weather-field that buffets" to the awakening/re-sensitization needed to meet it.
+- `mind-vs-soul` **[Elaboration]** — The surface/material mind is a barrier of control over the underlying feelings and the soul; awakening means penetrating that barrier to "clear the channel between the mind and the soul." Adds the desensitization/re-sensitization dimension to the mind-soul argument.
 
 ---
 
@@ -309,32 +322,34 @@ message gives them an argument to trace.
   2016-02-29-af-confucius (woven into the judgment-to-love argument there);
   2016-03-07-af-augustine ("to love yourselves, to love all around you");
   2016-03-10-af-confucius ("you should not love yourselves and acknowledge
-  every aspect of who you are"). Three sightings, all as sub-point within a
-  larger teaching. Watch for a message that makes self-love its own central
-  argument, then mint.
+  every aspect of who you are"); 2016-03-11-af-luke ("you must have compassion
+  for yourselves and know that you are not to blame for your condition");
+  2016-03-12-af-john-the-beloved ("your capacity to love yourselves").
+  Five sightings, all woven into a larger teaching rather than standing as the
+  central argument; the Luke sighting is the strongest, framing self-compassion
+  as the correct stance toward one's own cleansing. Watch for a message that
+  makes self-love its own central argument, then mint.
 - `sensitive-souls-redemptive` — the sensitive soul who feels the cruelty
   of the world acutely and struggles to be in it is the saving grace of this
   world: such souls progress swiftly in spirit, refuse the darkness of
   judgement and fear, and serve as the redemptive example whose very presence
   turns heads and sows seeds of Love. Seen: 2016-03-07-af-augustine. Hold for
   a second witness that builds the argument.
-- `earth-conditions-and-prayer` — the thoughts and actions of mankind
-  generate a darkness-field, like weather, that buffets every soul and
-  accounts for why one feels close to God one day and burdened the next;
-  daily prayer neutralizes these conditions both within and around the soul,
-  and the seeker must "fight" as a warrior of Light. Seen:
-  2016-02-29-af-luke. Strong, developed argument; hold for a second witness
-  that makes the world-conditions-as-field + prayer-as-neutralizer case
-  central before minting.
 - `vanguards-of-change` — the circle is commissioned as the leading edge
   ("vanguards") of a Divine-Love-driven transformation of the world, which
   requires releasing material attachments to become free, mobile channels of
   Love joining others in a reverberating, wave-upon-wave change. Seen:
   2016-03-06-af-jesus and 2016-01-08-af-jesus (the latter currently logged
   loosely under `healing-channel` as commissioning-not-mechanism). If minted,
-  consider moving that 2015 entry out of `healing-channel` into this thread.
-  Hold for confirmation that this is its own argument distinct from the
+  consider moving that 2016-01-08 entry out of `healing-channel` into this
+  thread. Hold for confirmation that this is its own argument distinct from the
   healing-channel mechanism.
+- `channel-of-love-in-the-material` — being a channel of Love is not limited
+  to overtly spiritual acts; material and mundane work (cleaning, fixing,
+  preparing a place) done in love equally enacts God's Will and becomes a
+  blessing. What matters is the love, attitude, and intention brought to the
+  task, not whether the task looks "spiritual." Seen: 2016-03-12-af-james.
+  Hold for a second witness that builds the argument.
 
 ---
 
