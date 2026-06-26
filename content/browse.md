@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 ---
 
 # Browse All Messages
@@ -458,5 +458,10 @@ last_updated: 2026-06-19
 | [Jesus Assigns Spirit Guides](messages/2019/01/2019-01-30-af-seretta-kem.md) | Seretta Kem | Al Fike | 2019‑01‑30 | Jesus answers to God, not to expectation. The humble instrument who asks for nothing specific will always find an angel present. |
 | [How Can a Person Receive Divine Love Without Knowing About It?](messages/2019/01/2019-01-31-af-augustine.md) | Augustine | Al Fike | 2019‑01‑31 | You do not have to understand the gift to receive it. The soul knows how to long for God even when the mind has never heard His name. |
 | [Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East](messages/2019/01/2019-01-31-af-yogananda.md) | Yogananda | Al Fike | 2019‑01‑31 | There are no past lives. There are only souls who came very close, whose stories felt like your own. |
+| [Come Together Again With Your Questions](messages/2019/02/2019-02-01-af-confucius.md) | Confucius | Al Fike | 2019‑02‑01 | You think you may be lost. Confucius answers: no, you have gained the world of God, and the portal is opening wide. |
 | [Faculties of the Soul](messages/2019/02/2019-02-01-af-josephus.md) | Josephus | Al Fike | 2019‑02‑01 | You are using only half of what you are. The other half is a soul full of sealed chambers, and Divine Love is the light that opens them. |
+| [We Lift You Up](messages/2019/02/2019-02-02-af-andrew.md) | Andrew | Al Fike | 2019‑02‑02 | There is a place where Love saturates the very air. The angels are lifting you toward it right now. |
+| [The Door of Truth Is Opened With God's Love](messages/2019/02/2019-02-03-af-andrew.md) | Andrew | Al Fike | 2019‑02‑03 | You keep waiting for your purpose to arrive like a thunderclap. It is arriving the slow way, one awakening at a time. |
+| [Blessings and Healings](messages/2019/02/2019-02-03-af-confucius.md) | Confucius | Al Fike | 2019‑02‑03 | The same Touch that heals the body settles the soul into peace. Confucius brings both at once. |
+| [The Light Must Overcome the Darkness](messages/2019/02/2019-02-04-af-jesus.md) | Jesus | Al Fike | 2019‑02‑04 | Two currents run through the world, and the darker one is winning. Jesus says the antidote is already in your hands. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |
