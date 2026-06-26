@@ -18,12 +18,12 @@ description: >
   religious beliefs. He describes the bliss of the Celestial Heavens as
   beyond anything experienced in earthly or natural love spheres, and
   commits to working with the group to bring truth to humanity.
-primary_subjects: "Celestial Heavens & Progression"
+primary_subjects: "Celestial Heavens & At-onement"
 secondary_subjects:
-  - "Soul Spheres & Natural Love Progression"
-  - "Natural Love Path vs. Divine Love Path"
-  - "At-onement with God"
-  - "Truth & Spiritual Knowledge"
+  - "Soul Spheres & Progression"
+  - "Natural Love Path vs Divine Love Path"
+  - "At-onement"
+  - "Discernment & Truth-Seeking"
 people: []
 spirits: []
 keywords: ["spheres", "4th sphere", "5th sphere", "6th sphere", "7th sphere", "Celestial Kingdom", "progression", "Eastern religion", "at-onement", "bliss"]
@@ -55,7 +55,7 @@ door: >
 collections:
   - "Two Paths"
   - "Letters from History"
-last_edited: 2026-05-30
+last_edited: 2026-06-26
 ---
 
 I am Yogananda and I wish to tell you of my experience transitioning into the spirit world and my journey towards the Celestial Heavens. When I passed into spirit, I carried with me many ideas and thoughts that originated from the Eastern religions. I nurtured and revered these thoughts in my mind, though within my heart. I tenderly loved God and felt His Love for me and yet it was difficult for me to release these thoughts and conditions that were engrained within me from childhood. So, upon my passing I came to the 4th sphere and found many wonderments, experiences within that sphere that satisfied the edicts of my mind and my religious ideas. Yet, I knew within me there was another longing, the longing of my heart, to go beyond these mental concepts to something that I knew was deeper and closer to God. So, I too had to battle between the ideas of my mind and the desires of my soul.

@@ -15,10 +15,10 @@ description: >
   Abdullah Latif, a philosopher and mathematician from the Middle East now residing in the Celestial Kingdom, teaches that prayer is only as effective as the love, wisdom, and purity of intention behind it. He warns that prayers rooted in anger, fear, or the assumptions of the mind go no further than the breath, and calls those present to first come close to God and know their own souls before seeking to change the world through prayer.
 primary_subjects: "Prayer & Devotion"
 secondary_subjects:
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Discernment & Truth-Seeking"
-  - "Free Will & Choice"
-  - "World Service & God's Plan"
+  - "Law of Free Will"
+  - "Divine Plan & Timing"
 people: []
 spirits: []
 keywords: ["prayer", "intercession", "intention", "purity", "love", "wisdom", "free will", "world healing", "agent of change", "soul knowing"]
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   You cannot change the world from outside what you have not yet changed within.
 collections: ["Letters from History"]
-last_edited: 2026-06-25
+last_edited: 2026-06-26
 ---
 
 I am Abdullah and I am an inhabitant of the Celestial Kingdom and I once lived in that part of the world from which you come beloved daughter. I wish to tell you that God is everywhere. His blessings are available to every soul who seeks these blessings, but God cannot contravene the gift of free will and thus you cannot expect God to orchestrate every part of your life and the lives of those around you, nor the lives of those in various countries of your world. This cannot happen. This contravenes the laws that God has set into motion from the very beginning of time. But you may ask for intervention and you may pray that blessings may come to those you pray for and this can change the events of the world.

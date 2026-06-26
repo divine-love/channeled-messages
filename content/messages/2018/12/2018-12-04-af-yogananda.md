@@ -16,9 +16,9 @@ description: >
 primary_subjects: "Spiritual Discipline & Daily Living"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
-  - "Non-Judgment & Acceptance"
+  - "Releasing Judgment"
   - "Prayer & Devotion"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
 people: []
 spirits: []
 keywords: ["daily service", "intention", "openness", "judgment", "each day", "channel of love", "humble service", "prayer", "opportunity", "light"]
@@ -43,7 +43,7 @@ excerpt: >
 door: >
   Every ordinary day is full of God's work. You just have to stay open.
 collections: ["Letters from History"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I am Yogananda. You have drawn me to you with your conversations, speaking of me in loving terms. How can I resist your call? I see that you have increased your lights, my friends and your prayers and good works together. You have seen how God has guided you through these days together. His Will has been done as you have navigated through each day, desiring to be used as a channel of love, bringing light, peace, truth to those whom you speak and share some time together.

@@ -15,9 +15,9 @@ description: >
   Seretta Kem gives a detailed teaching on Portals of Light — what they are, how they are established, who builds them, and what they accomplish. He explains that portals are mechanisms of concentrated blessing built by a team of spirits with God's sanction, that they cannot be constructed by human effort alone but are conferred in response to sincere prayer and commitment, and that Jesus ignited the foundation of each portal known to this group as a gift.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Mediumship & Spirit Communication"
+  - "Mediumship & Developing as an Instrument"
   - "Prayer & Devotion"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
   - "Spirit Guides & Angels"
   - "Law of Communication & Rapport"
 people: []
@@ -47,7 +47,7 @@ excerpt: >
 door: >
   You cannot build it. You can only pray for it. And Jesus has already laid the foundation.
 collections: ["Healing Path"]
-last_edited: 2026-06-25
+last_edited: 2026-06-26
 ---
 
 I am Seretta Kem and so we begin. First, I would like to discuss the importance of acknowledging and realizing the power of the Law of Communication and Rapport. You have been encouraged when one sits in a circle such as this that you direct your love towards the instrument who is being used. This is important, for we are building power, the power that allows us to make a close rapport with this instrument and with all of you. This is accomplished through your prayers, your love, the conditions that you bring within the circle. You carry a responsibility, beloved souls, to be in a condition that is in harmony with love and light, with God, with we who are your friends. That the desire of your soul continues to grow and expand in these directions of closeness with God, of receiving the gift of His Love, of opening the way for we to come close, to control your thoughts, to bring them to a heightened elevation, to awaken the gifts of your soul, to feel and know the longings of your heart.

@@ -24,7 +24,7 @@ secondary_subjects:
   - "Law of Activation"
   - "Soul Awakening"
   - "Faith & Trust"
-  - "Sharing the Truth of Divine Love"
+  - "Teaching & Sharing the Message"
 people: []
 spirits: []
 keywords: ["prayer", "heartfelt prayer", "language of the soul", "Law of Activation", "longing", "faith", "soul connection", "God's presence", "Divine Love", "thread of light", "soul longing", "distraction", "barriers", "teaching prayer", "example"]
@@ -57,7 +57,7 @@ excerpt: >
 collections: []
 door: >
   Prayer is your vehicle. Prayer opens the door. Prayer is the language of the soul
-last_edited: 2026-04-30
+last_edited: 2026-06-26
 ---
 
 I wish to speak upon the subject of prayer for prayer is the mainstay of those who walk this Divine Path. It is the vehicle that brings the blessings and the touch from God to your souls. It is the outpouring of your heart and your soul to God in earnest longing and desire to be at-one with your Creator.

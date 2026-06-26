@@ -13,10 +13,10 @@ gathering:
 message_type: ["Teaching"]
 description: >
   As the year turns, Seretta Kem speaks plainly of the challenging times ahead, describing a world whose darkness is being forced to the surface and whose fabric continues to be torn by inhumanity, ignorance, and the will of man at war with the Will of God. He calls those gathered to meet these changes not with despair but with prayer and soul-listening, assuring them that great awakenings are coming and that their unique roles in God's plan of healing will become overt and powerful.
-primary_subjects: "Future of Humanity"
+primary_subjects: "Redemption of Humanity"
 secondary_subjects:
   - "Prayer & Devotion"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
   - "Perseverance & Steadfastness"
   - "Soul Awakening"
 people: []
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   The darkness is rising to the surface to be healed. Your light will be part of what makes that possible.
 collections: ["Awakening Humanity"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 Yes, the conditions of your world are changing and for some of you, you feel the dampening of what one would expect to be joyous spirits in celebration of the Master's birth. Yet, so many now do not feel any joy or recognition of this time of acknowledgment and this saddens us to see that the world continues to be blinded and willfully removed from their own spiritual nature.

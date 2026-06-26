@@ -15,9 +15,9 @@ description: >
   White Cloud honours the many souls drawn to a long-established Circle of Light and calls those present to be warriors of Light in the world, expressing God's Love through every avenue and gift available to them. He teaches that words alone do not move souls — only Love permeating every action can stop the tide of darkness and bring healing and truth to a yearning humanity.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Walking the Divine Path"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
   - "Circle of Light & Prayer Circles"
 people: ["Barbara"]
 spirits: []
@@ -43,7 +43,7 @@ excerpt: >
 door: >
   Not words. Not arguments. A life so full of love that souls shift simply by standing near you.
 collections: []
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 I am White Cloud and I've come to acknowledge the efforts that you have made to bring many beautiful souls into our midst both here in the flesh and in spirit. There are many beautiful spirits from many different cultures and places within the spirit realms that have been drawn here to the Light seeking truth, seeking answers, and much Light has been brought to this place, this refuge that has been indeed, a beacon of Light for many, many years.

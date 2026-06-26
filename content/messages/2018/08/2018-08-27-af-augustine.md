@@ -19,7 +19,7 @@ description: >
   remain open to the reality that today's understandings will not be tomorrow's,
   and to trust that as the Father's Love flows in, the river of God's Essence will
   dissolve error and bring soul and mind into ever-deepening alignment with truth.
-primary_subjects: "Soul Mind versus Material Mind"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Soul Awakening"
@@ -56,7 +56,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You are indeed wading into that river and that river cleanses, pulls those things that are upon you, encrustations and error, away and dissolves these things in Love
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 It is your teacher Augustine. Again, you come into this Circle of Light and again God touches your souls. God's desire is that you know the truth, beloveds. Not the truth of your minds, not the perceptions and assumptions that come with the mind's understandings but the blessing and knowings that come with the soul awakened in the Father's Love. This is different beloveds, from your normal experience and understanding of spirituality. So much you have gained through your experiences and readings, ideas and discussions in your lives, collecting these things within your mind, formulating from that place ideas of truth. The challenge, beloved souls, is to compare the perceptions of the mind with the knowings of the soul. This, my beloved and beautiful souls, is not easy in your world for this world is infused with many thoughts, many spirits and many energetic conditions that will influence your thinking and your perceptions. In this way it is difficult to discern between these two realities, soul and mind, the material world and your fledgling relationship with God knowing the world of His Creation.

@@ -13,11 +13,11 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine calls each soul to recognise that every day begins with a choice: to walk toward Light, harmony, and God's Love, or to be drawn back into the conditions of the human mind. He teaches that for those who feel too weak to choose well, the answer is simply to pray and ask God and the angels for strength, and that in receiving that strength the choice becomes clear, joyful, and free of confusion.
-primary_subjects: "Free Will & Choice"
+primary_subjects: "Law of Free Will"
 secondary_subjects:
   - "Walking the Divine Path"
   - "Spiritual Discipline & Daily Living"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Overcoming Fear & Doubt"
 people: []
 spirits: []
@@ -43,7 +43,7 @@ excerpt: >
 door: >
   Every morning God waits. What will you choose today?
 collections: ["Two Paths"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 God awaits your choice, beloveds. God awaits the choice of all humanity, that your brothers and sisters, that you, may choose light and harmony, peace and love over the conditions that you now find yourself within in this world, a world that is burdened, a world that is suffering, a world that continues to be subjected to the choices of mankind that bring further darkness and deprivation. God awaits your choice, beloved souls.

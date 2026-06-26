@@ -17,7 +17,7 @@ description: >
   prayer. He calls the circle to stoke the fires of their souls with the urgency
   of a parched soul seeking living waters, to shed the tattered cloaks of earthly
   distraction, and to go naked to God in bare, joyful, unencumbered longing.
-primary_subjects: "Soul Mind versus Material Mind"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Prayer & Devotion"
   - "Receiving the Divine Love through Prayer"
@@ -53,7 +53,7 @@ excerpt: >
 door: >
   Release your cloaks, go naked to God, bare your souls. Be free of all that encroaches upon it and be with God.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 God bless you. I am Matthew. Just as you have exercised your bodies, so you must exercise your souls to do what is necessary in order to be receptive and open to God. The greatest gatekeeper to your soul is your mind. This allows your soul to express itself to God in an overt and conscious way. This you know full well my beloved friends, although it is easier for you to think of the soul and the mind as separate, they are a part of you in the oneness of you. But the functioning of the components within your oneness, your being, is dependent upon many elements of choice. In relationship to your soul and your material mind the greatest determinant is what you feed your mind. When your minds are obstructed with many thoughts, especially those thoughts that are of judgment and other lower conditions, then you restrict access to your own soul. The soul is always prayerful my beloveds, but for that prayer, that longing to burst forth and reach God, you must allow it to do so through your minds, your consciousness. Thus, we encourage you to pray, to elevate your thoughts, to be in harmony with your spiritual selves. The time that you have together is ideal for this and we wish for you to take full advantage to exercise in every way, harmony, love and to be at peace and joy. In this way the mind is not so distracted by the earthly conditions.

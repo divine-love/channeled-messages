@@ -13,10 +13,10 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Einstein explains why spirits are so eager to work with this circle, noting that opportunities for communication with receptive mortals are rare. He reveals that those gathered will be guided to serve as intermediaries — connecting spirits in the higher realms with specific souls who have the potential to bring important scientific and spiritual truths to the world, as part of God's overarching plan.
-primary_subjects: "World Service & God's Plan"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
-  - "Mediumship & Spirit Communication"
-  - "Lattice of Light"
+  - "Mediumship & Developing as an Instrument"
+  - "Lattice of Light & Global Prayer Network"
   - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: ["augustine"]
@@ -40,7 +40,7 @@ excerpt: >
 door: >
   Einstein is not looking for famous channels. He is looking for friends who can introduce him to the right souls.
 collections: ["Letters from History"]
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 My friends, I am Albert Einstein, and you may ask, why we are so interested in you. And I ask you, how many opportunities are there in your world to communicate with mortals? Very few indeed. So, we work with what materials we have, my friends. I will tell you that you will feel guided to many souls that we will encourage you to connect and befriend. These souls will have the potential to bring forth information that we so very much desire to give to the world. Yes, you may not be the direct conduits for these valuable pieces of truth and information to help your world in this way. You will be the intermediaries that will connect us with the precious souls that await.

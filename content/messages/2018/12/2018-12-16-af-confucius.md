@@ -13,12 +13,12 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Confucius urges the group to prepare earnestly for the times ahead, when doors will open for each soul to express their gifts in service to a world in deep need. He teaches that each humble step taken in desire to serve builds momentum, and that revelations, visions, and soul knowings will come as God's Love deepens, leading each person into opportunities they could not have imagined.
-primary_subjects: "World Service & God's Plan"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
   - "Soul Awakening"
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Perseverance & Steadfastness"
-  - "Future of Humanity"
+  - "Redemption of Humanity"
 people: []
 spirits: []
 keywords: ["preparation", "times coming", "gifts", "soul alignment", "momentum", "revelations", "visions", "transformation", "doors opening", "channels of love"]
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   One humble step. Then another. The momentum builds and the doors you cannot yet imagine will open.
 collections: ["Letters from History", "Awakening Humanity"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 Welcome, brothers and sisters. I am Confucius. We have work to do, do we not, beloved souls? For the world is in deep need and God has great blessings to bestow upon this world. But he needs His channels of Love, His beautiful souls, children who are a part of His Grace and Love, so that this may flow into the world and bring healing, soothe the pain, and vanish the darkness in your world.

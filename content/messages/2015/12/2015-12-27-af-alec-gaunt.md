@@ -13,10 +13,10 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Alec Gaunt encourages the group to embrace and pray for all who serve as God's instruments of Light in the world, regardless of whether their beliefs align with those of the circle. He teaches that the soul's expression always matters more than the mind's understanding, and calls those gathered to release the fear and willfulness that restrict love from flowing freely through them into the world.
-primary_subjects: "Non-Judgment & Acceptance"
+primary_subjects: "Releasing Judgment"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Mind vs Soul Conflict"
   - "Soul Awakening"
   - "Interfaith & Universal Truth"
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   Fear and wilfulness are the locks. Love is the key. Your soul has always known this.
 collections: []
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 I'm so pleased to see you come together in this way for prayer and I want to assure you that an angel is with those precious souls you are praying for. Indeed, your support of the soul who has suffered much, but has overcome much and has dedicated his life to help others in their suffering, in their struggles and who is in need of your prayers and your support, your love, we will bring blessings to him.

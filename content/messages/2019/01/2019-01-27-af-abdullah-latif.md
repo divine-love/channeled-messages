@@ -13,11 +13,11 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Abdullah Latif teaches that the world's darkness and suffering is not God's creation but the cumulative result of humanity's free choices, each thought and action piling dark energy upon the Earth. He calls those gathered to have compassion for themselves as they struggle to hold light in an environment hostile to it, assuring them that thousands of spirits watch their efforts with admiration and hope.
-primary_subjects: "Future of Humanity"
+primary_subjects: "Redemption of Humanity"
 secondary_subjects:
-  - "Free Will & Choice"
-  - "God's Will & Surrender"
-  - "World Service & God's Plan"
+  - "Law of Free Will"
+  - "Surrender to God's Will"
+  - "Divine Plan & Timing"
   - "Law of Attraction"
   - "Perseverance & Steadfastness"
 people: []
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   God created a perfect world. Humanity created this one. The difference is free will, and the remedy is the same.
 collections: ["Letters from History", "Awakening Humanity"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 I am Abdullah Latif. I was once a philosopher, a mathematician, and had a high rank within the realm in which I lived on Earth.

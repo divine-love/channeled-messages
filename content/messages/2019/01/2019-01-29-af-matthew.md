@@ -16,7 +16,7 @@ description: >
 primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
   - "Receiving the Divine Love through Prayer"
   - "Perseverance & Steadfastness"
 people: []
@@ -40,7 +40,7 @@ excerpt: >
 door: >
   God is not waiting for the gifted or the perfect. He is waiting for the willing.
 collections: ["The Saints & Apostles Speak", "Awakening Humanity"]
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 God bless you, I am Matthew. God needs you, beloveds. He needs your prayers. He needs your willingness to step forward in Light, to grow in His Love, to awaken in His Love. For God has a plan for the transformation of your world, to bring into reality a greater Truth, a greater Light that will transform the very nature of humanity and bring deeper Truth to your world. God needs those who are willing to step forward and be transformed by His Love, to walk in this Truth and Light, to express this Truth in their lives, to allow the power of Love to transform their souls so that they may be a shining example, a beacon, for those who will come to that place where God will invite each soul to experience this highest gift of Love. To have those who are in the flesh that have experienced this transformation, this process that brings the awakened soul will that comfort many and guide many to the New Birth, the blessed Touch, the powerful transformation and healing of the soul.

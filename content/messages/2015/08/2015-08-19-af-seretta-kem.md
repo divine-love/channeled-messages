@@ -17,11 +17,11 @@ description: >
   deep bonds and open pathways for soul-to-soul communication. He urges the
   group to redouble their prayers for Divine Love as the key to unlocking the
   magnificent abilities that lie dormant within each soul.
-primary_subjects: "Angels, Spirit Guides & Celestial Helpers"
+primary_subjects: "Spirit Guides & Angels"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Soul Faculties, Perception & Knowing"
-  - "Spiritual Gifts & Mediumship"
+  - "Nature of the Soul"
+  - "Mediumship & Developing as an Instrument"
   - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
@@ -56,7 +56,7 @@ door: >
   your souls that you cannot see but will one day fully understand.
 collections:
   - "Healing Path"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 I am Seretta Kem and I am from Egypt. I lived in this world approximately 4000 years ago. I lived at the time when Egypt was a great nation and we had a beautiful culture, and much is not truly known of how we lived and how we thought, for we did indeed revere the Creator and now I revere the Creator in a different way, through my soul. I love my God who truly loves me and loves all of you deeply, endlessly and completely.

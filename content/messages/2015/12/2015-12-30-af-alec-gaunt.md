@@ -13,11 +13,11 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Alec Gaunt looks ahead to the new year, encouraging the group that surprising doors will open and challenges will arise, but that both are gifts for soul growth. He teaches that God does not send adversity but that the conditions of the world bring inevitable challenges through which the soul learns, and that the year ahead holds deep communion with God, greater clarity of purpose, and a fuller revelation of each soul's true self.
-primary_subjects: "Spiritual Growth & Progression"
+primary_subjects: "Soul Transformation & Development"
 secondary_subjects:
   - "Perseverance & Steadfastness"
-  - "God's Will & Surrender"
-  - "Soul Gifts & Purpose"
+  - "Surrender to God's Will"
+  - "Unique Soul Gifts"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -41,7 +41,7 @@ excerpt: >
 door: >
   Surprises, challenges, and deeper communion with God. The year ahead has all three.
 collections: []
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 Yes, you have accomplished much in this past year and you've taken new steps forward, made efforts to bring in many souls within your grasp to teach this Truth of God's Love where you might and wherever you go, and the coming year will bring many more opportunities, my friends, and challenges and blessings and it is for you at this time to redouble your efforts to pray for God's Love, to prepare yourselves for what is to come, for God will need you more than ever, my beloveds. There is so much work awaiting you and many doors will open for you, doors that you had not anticipated will be surprising and some you will be delighted with and others you will be very challenged by, but all will be opened by God for a reason, for each one of you continues to grow within your souls, each one of you requires these experiences, these opportunities to grow in your souls.

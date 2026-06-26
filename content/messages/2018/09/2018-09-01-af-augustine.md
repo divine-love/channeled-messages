@@ -19,7 +19,7 @@ description: >
   that God's Touch upon them is a magnetism that draws others naturally, and that
   as the soul awakens the natural outcomes are service, love, truth, compassion,
   humility, and wisdom.
-primary_subjects: "Sharing the Truth of Divine Love"
+primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
   - "Soul Awakening"
   - "Preparation for Earth Mission"
@@ -60,7 +60,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   As you walk in the world a bell tolls with your presence, calling your brothers and sisters to prayer, stimulating that part of their souls that longs for God
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 It is your teacher, Augustine. As our beloved brother and Master speaks, you must all go out into the world to teach this truth and live this truth. For humanity is at the crucial hour to awaken, to come to its senses so that harmony may come to this world, peace may come to this world, love may be the currency of this world. Though every soul may struggle with its inner conditions and be fearful and ignorant and full of error, there is a light, the light within each soul that compels each one to seek God. As you walk in the world a bell tolls with your presence, a bell that says, "Awaken brothers and sisters to this Truth that God loves you, that you may receive His blessings of Love, that your souls and hearts may come to a deep awakening and knowing of this Truth".

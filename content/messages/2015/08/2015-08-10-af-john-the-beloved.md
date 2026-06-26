@@ -20,9 +20,9 @@ description: >
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Soul Awakening & Spiritual Growth"
+  - "Soul Awakening"
   - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Friendship & Fellowship"
+  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["gathering", "retreat", "fellowship", "soul awakening", "waves of love", "healing", "purpose", "channel of love"]
@@ -51,7 +51,7 @@ door: >
   God has a purpose waiting for each one of them.
 collections:
   - "The Saints & Apostles Speak"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 Beloved souls, I am John. Soon you will be coming together and gathering the souls under the wings of Love and care, and you each have a purpose in this, a role to play, something to give to your brothers and sisters who long for Love and who walk the Divine Path seeking understanding, a confirmation that they are indeed walking the Path Divine seeking the Father's Love. And it is for each of you, my beloveds, the strong and beautiful souls that you are to affirm for your brothers and sisters that you are all indeed walking upon this Path together, that though you may reside in distant places the bonds of Love that you create with this wonderful gathering will draw the precious souls together in prayer, in thought, and in deeds. For God has much for each of you to do and each who come within this larger circle. There is purpose, there is a plan and within this circle each soul will be ignited in awareness at what their place is within this flow of Love in the world, to know God's Will, which is to heal this world to bring greater Love, greater Light, balance and harmony to this precious planet, His wondrous creation. And you, my beloved souls, shall play your part and shall know what you must do to fulfill God's purpose for you.

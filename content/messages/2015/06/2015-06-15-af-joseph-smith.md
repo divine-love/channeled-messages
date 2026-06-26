@@ -23,7 +23,7 @@ description: >
 primary_subjects: "Religious Error & Reformation"
 secondary_subjects:
   - "Interfaith & Universal Truth"
-  - "Shared Purpose"
+  - "Supporting One Another"
   - "Testimony of God's Love"
   - "Spirit Testimony & Personal Story"
 people: []
@@ -60,7 +60,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   The will of man usurps the Will of God. The imaginings and ideas of men create falsehoods and misinterpretations of the laws and Love of God
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 I am Smith, Joseph Smith, and I was talked about not too long ago amongst you and the great Mormon faith which I founded and I wish to make some commentary upon your conversation. I am now in the Celestial Heavens. I have adopted the truth of Divine Love and though I had glimpses of this Truth while on Earth, I did not fully understand the workings of this Love, the importance of this Love. And yes the angels did indeed come to support me and influence me in my work in creating this great church. But now I see that this church and its workings have become too infected by the human condition. It is indeed a great machine desirous of consuming all of humanity in what it perceives to be the truth. And its workings are complex and its understandings unfortunately contain more error than truth.

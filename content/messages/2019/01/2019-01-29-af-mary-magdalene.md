@@ -15,8 +15,8 @@ description: >
   Mary Magdalene arrives to confirm the message recently received from Jesus, affirming that she was never his soulmate, wife, or lover — but a devoted follower and minister who loved him in innocence and gratitude. She discloses that she is now an inhabitant of the Celestial Kingdom and continues to follow his teachings with great joy.
 primary_subjects: "Soul Mates & Sacred Union"
 secondary_subjects:
-  - "Errors in Religion & Theology"
-  - "Historical Figures & Letters from History"
+  - "Religious Error & Reformation"
+  - "Historical Context & Spiritual Legacy"
 people: []
 spirits: ["jesus"]
 keywords: ["Mary Magdalene", "Jesus", "soulmate myth", "follower", "ministry", "Celestial Kingdom", "confirmation", "truth", "dispelling myths"]
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   She came to set the record straight. Two thousand years of myth, and the answer is simply: she was a grateful student.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 God bless you, I am Mary Magdalene. I have come to confirm the message that has been received recently regarding my relationship with the Master. My love for him is great. My respect and acknowledgement of his beautiful soul, this beautiful man who brought the Truth of God's Love to mankind. I was close to Jesus during his time and ministry upon the world. He changed my life by his message and by directing my gaze toward God. For this, I am ever grateful for his efforts and his blessings of attentions upon me to teach me this truth. But I was never his soulmate, merely a follower, one who indeed who was close at times, one who ministered to his needs as he journeyed upon the Earth. In my own way, I gave to this beautiful man whose soul was bright and luminous in Love and Truth, but I was never his wife nor his lover nor anything but one who loved in innocence and gratitude, he who taught Truth and brought salvation to mankind in his message of Love.

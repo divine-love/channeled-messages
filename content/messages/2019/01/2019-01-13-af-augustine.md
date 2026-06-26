@@ -13,9 +13,9 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine reassures a West Vancouver gathering that each person present is woven into God's plan, even when they cannot see the results of their efforts. He speaks of the medium's work on other planes during sleep states, helping to build the Lattice of Light around the world, and calls all present to release future-focused planning and instead walk each day in the flow of God's Love.
-primary_subjects: "God's Will & Surrender"
+primary_subjects: "Surrender to God's Will"
 secondary_subjects:
-  - "Lattice of Light"
+  - "Lattice of Light & Global Prayer Network"
   - "Perseverance & Steadfastness"
   - "Faith & Trust"
   - "Service, Ministry & Being a Channel of Love"
@@ -40,7 +40,7 @@ excerpt: >
 door: >
   You cannot see the results of your efforts. That does not mean the work is not being done.
 collections: []
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I am your teacher Augustine. How good it is to be speaking through this instrument in this place where I have spoken many times to my beloved brothers and sisters who are a part of this wondrous journey of Divine Love. There are changes coming for each one of you, my beloveds. There are surprises and opportunities opening and you must not set your sights to the future with too much anticipation and planning with your mindful ideas. Rather, to be within the flow of God's Love, to walk upon His path of Love, to follow His guidance of Love and allow whatever is to unfold to do so in harmony, in timing that is of God. Walk each day reaching ever closer to the Fountainhead of God's Love and the future will indeed take care of itself as God continues to incorporate each of you into His plans, His efforts to bring greater Light to this world.

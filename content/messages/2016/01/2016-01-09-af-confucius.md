@@ -22,7 +22,7 @@ secondary_subjects:
   - "Spiritual Community & Fellowship"
   - "Service & Mission"
   - "Surrender & Trust in God"
-  - "Spiritual Encouragement & Affirmation"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["gifts", "unique gifts", "God's will", "guidance", "channel of love", "eagerness", "new era", "service", "instruments of light", "purpose", "celebration", "souls"]
@@ -48,7 +48,7 @@ door: >
 collections: ["Service & Mission", "Prism of the Soul"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 (Chuckles) Hmmm….  My beautiful birds, precious souls, indeed you celebrate the beginning of a new era in your lives and your service to God, my beloveds, and your minds, your eyes, your souls are open to something new and beautiful. And in the flow of this service, my beloveds, you will walk through many thresholds, opportunities, and understandings that will be fresh and new in greater Love and understanding. Your souls are eager, my beloveds, your souls are eager and we are joyed at your eagerness and your love for one another. For in the power of this Love, in the desires of your souls, in your willingness to follow God's Will, you will accomplish much in this world together and singly as God's channels of Love, creating great, great blessings of Light and Love in this world.

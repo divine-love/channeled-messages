@@ -19,11 +19,11 @@ description: >
   by humanity's imbalance with creation, assuring the gathering that
   those who are close to God will be guided safely through what is coming
   and will be needed to help many others.
-primary_subjects: "Natural Love Path vs. Divine Love Path"
+primary_subjects: "Natural Love Path vs Divine Love Path"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Prophecy & Visions of the Future"
-  - "Soul Awakening & Spiritual Growth"
+  - "Earth Changes & Prophecy"
+  - "Soul Awakening"
   - "Humanity's Spiritual Condition & Awakening"
   - "Service, Ministry & Being a Channel of Love"
 people: []
@@ -57,7 +57,7 @@ collections:
   - "Two Paths"
   - "Awakening Humanity"
   - "The Saints & Apostles Speak"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 God bless you, my beloved souls, it is Augustine, your teacher, and I promised you some commentary on the changes in the world and the changes within your souls, so I shall begin.

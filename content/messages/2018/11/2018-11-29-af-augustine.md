@@ -13,12 +13,12 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Augustine speaks plainly about the coming transformation of the Earth, warning that the structures of materialism humanity depends on for comfort will crumble as God's great plan for the healing and rebalancing of the world unfolds. He calls those gathered to build their faith and spiritual strength now so they may not only navigate what is coming but guide others through it, and assures them that in place of material loss will come a simpler life of deep peace, love, and harmony with God.
-primary_subjects: "Future of Humanity"
+primary_subjects: "Redemption of Humanity"
 secondary_subjects:
   - "Walking the Divine Path"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
   - "Perseverance & Steadfastness"
-  - "Environmental Stewardship"
+  - "Reverence for the Earth"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   The bells are already pealing. Those walking in God's Love will find their way through.
 collections: ["Awakening Humanity"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I am Augustine. You know no true adversity, beloveds. Your life is well insulated from true adversity. You want for nothing. You have all that you required to be in God's grace. You are comfortable in your lives. Though there are imperfections, some difficulties and some challenges, compared to many in your world you live a life that is ideal. At times, we who are in charge of your progression and work and soul awakening worry that when true adversity comes your way, that you are strong enough to withhold against the onslaught of the chaotic world in which you live.

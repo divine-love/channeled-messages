@@ -18,7 +18,7 @@ secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Service, Ministry & Being a Channel of Love"
   - "Circle of Light & Prayer Circles"
-  - "Spiritual Growth & Progression"
+  - "Soul Transformation & Development"
 people: []
 spirits: []
 keywords: ["soul longing", "beginners", "seekers", "drawn to the Light", "soul desire", "knowledge", "channel of love", "gifts", "journey", "truth"]
@@ -43,7 +43,7 @@ excerpt: >
   The soul is drawn and takes precedence with those who are willing to allow this, who feel their souls and feel themselves being lifted up by God to a place of Light.
 door: >
   Your soul found this Light before your mind knew what it was looking for.
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 Precious and beloved souls, I am Seretta Kem and I come to bring a blessing to you, my beloveds, to assist you upon your journeys. And you, my dear daughter, who journeys, God will use you in many ways upon this travel and you will be aware each day how you are being used and how the flow of Love will connect to many. And this is what is meant for all of you, my beloveds, to journey in the world and be a channel of Love affecting many souls who await, who await you to be that channel of Love awakening something within them, a deep desire.

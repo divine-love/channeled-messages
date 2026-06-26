@@ -16,12 +16,12 @@ description: >
   spirits are working to develop the soul gifts of those present through
   their gathering together in prayer, and encouraging them in their prayerful
   mission ahead.
-primary_subjects: "Soul Awakening & Spiritual Growth"
+primary_subjects: "Soul Awakening"
 secondary_subjects:
-  - "Spiritual Gifts & Mediumship"
+  - "Mediumship & Developing as an Instrument"
   - "Circle of Light & Prayer Circles"
   - "Receiving the Divine Love through Prayer"
-  - "Spiritual Friendship & Fellowship"
+  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["soul gifts", "awakening", "prayer", "fellowship", "blessing", "spiritual development"]
@@ -47,7 +47,7 @@ door: >
   When souls gather to pray, spirits gather too, and the gifts within each
   soul are quietly, carefully drawn open.
 collections: []
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 Yes, we bring you together so that you may work together and also that we may accomplish further developments of your souls' awakenings. We may work with you to help you to further open and understand the potentials of your soul. So it is together we may help to encourage one another in this awakening, that each indeed is gifted with insights and abilities and even through your physical make-up and chemistry that we may blend and help to develop various gifts within you.

@@ -13,10 +13,10 @@ gathering:
 message_type: ["Teaching"]
 description: >
   John the Beloved delivers a detailed teaching on what the soul does during sleep, explaining that the spirit body travels, serves, meets other souls, and learns while the material mind rests. He takes questions from those gathered on topics including spirit clinics and educational places, setting intentions before sleep, the limitations of the silver cord, planning future events, resolving conflicts, cross-timezone meetings, and soul condition awareness in the sleep state.
-primary_subjects: "Mediumship & Spirit Communication"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Soul Awakening"
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Spirit Guides & Angels"
   - "Service, Ministry & Being a Channel of Love"
 people: []
@@ -47,7 +47,7 @@ excerpt: >
 door: >
   You think sleep is rest. John the Beloved knows better: your soul has been busy all night.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 God bless you, I am John the Beloved. Yes, you wonder about the flight of your souls as you sleep at night. Where do you go? Who do you talk to? Do you have purpose and mission during these times of sleep? God utilizes His instruments in many ways. When you are in this state of sleep, the mind is more relaxed and able to release its control, therefore there are more possibilities, flexibility in the movement of the soul in your world and in ours. For the veil between the two is very thin indeed.

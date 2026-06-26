@@ -13,13 +13,13 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Augustine responds to a question about how the world's diverse and conflicting perspectives can ever come into harmony. He teaches that the coming changes will dissolve the old anchors of mind-based truth and spiritual ideology, creating an opening for the soul to be recognised and for God's Love to bring a new awakening in which differences of belief give way to the soul's deeper knowing.
-primary_subjects: "Future of Humanity"
+primary_subjects: "Redemption of Humanity"
 secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Natural Love Path vs Divine Love Path"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Soul Awakening"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
 people: []
 spirits: ["sri-yarisupta"]
 keywords: ["diverse beliefs", "unity", "world changes", "fear", "judgment", "soul awakening", "mind-based truth", "new world", "great plan", "disorientation"]
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   The world's disagreements are a function of the mind. When the changes come, it is the soul that will know how to respond.
 collections: ["Awakening Humanity", "Two Paths"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 May God bless you. I am Augustine, your teacher. This dear and beloved soul is a member of the Celestial Kingdom and a wonderful teacher and healer and we are pleased that he has come to help clarify your questions.

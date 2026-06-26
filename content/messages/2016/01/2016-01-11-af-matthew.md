@@ -17,7 +17,7 @@ description: >
   He urges the circle to embrace all without prejudice, to make love the currency
   of their lives and the focus of their mission, and to pray often in preparation,
   promising that what flows from their efforts will astonish them.
-primary_subjects: "Prophecy & Visions of the Future"
+primary_subjects: "Earth Changes & Prophecy"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
   - "Preparation for Earth Mission"
@@ -49,7 +49,7 @@ door: >
 collections: ["Service & Mission", "Awakening Humanity"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 God bless you, beloved souls, I am Matthew and I have come to speak with you about the year that is to come as you mark the passing of each year and this becomes a milestone for what you have accomplished within your own lives and within your own souls, the growth and expansion of the Father's Love and you look ahead for what might be in service, in growth, in changes within your life. And I tell you, my beloveds, there is much change ahead for each one of you, many shifts within your beings, for many of you are on the verge of awakenings, openings, shiftings and understanding much deeper, more fully in your awareness of God's Truth within you, as the love continues to flow abundantly within your souls, my beloveds. Indeed your eyes begin to open, you begin to bloom in the warmth of God's beautiful Love.

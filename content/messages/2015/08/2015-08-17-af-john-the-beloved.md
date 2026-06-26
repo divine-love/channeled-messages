@@ -18,9 +18,9 @@ description: >
   condition into the Divine Presence.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Angels, Spirit Guides & Celestial Helpers"
+  - "Spirit Guides & Angels"
   - "Circle of Light & Prayer Circles"
-  - "God's Love, Care & Provision"
+  - "God's Mercy & Unconditional Love"
 people: []
 spirits: []
 keywords: ["living waters", "inflowing", "angels", "light", "benediction", "stillness", "Divine Presence"]
@@ -43,7 +43,7 @@ door: >
   asked of you is to drink deeply and not pull away.
 collections:
   - "The Saints & Apostles Speak"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 God bless you, gracious and beloved souls, I am John the Beloved.

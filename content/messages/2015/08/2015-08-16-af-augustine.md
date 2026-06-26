@@ -17,11 +17,11 @@ description: >
   between what originates in the mind and what comes from the soul. He
   encourages boldness, laughter, and mutual trust, reminding them that even
   seemingly ordinary thoughts often contain seeds of genuine guidance.
-primary_subjects: "Mind, Soul & Their Relationship"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
-  - "Soul Faculties, Perception & Knowing"
+  - "Nature of the Soul"
   - "Spiritual Discipline & Daily Living"
-  - "Spiritual Friendship & Fellowship"
+  - "Spiritual Community & Fellowship"
   - "Divine Will, Guidance & Orchestration"
 people: []
 spirits: []
@@ -49,7 +49,7 @@ door: >
 collections:
   - "Mind & Soul"
   - "The Saints & Apostles Speak"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 Good morning, it is your teacher Augustine. Today I wish for you to perform an exercise. When you speak your mind I want you to indicate, and to be honest, whether you feel this is a guidance that comes from your soul, or a thought that is of your mind. And I do not want you to feel or to judge that any of these words and thoughts that you speak are not of value. But if you list upon paper a synopsis of your thoughts; one paper shall have what is believed to be guidance and one will be what is believed to be of your thinking that originates from you alone. And I know this may feel a bit terrifying, but it is a good exercise so that you will come to recognize what truly is guidance and what truly is speculation. And I tell you, you will be surprised at what comes. You will feel within your hearts what is important and you will know that God is indeed influencing each one of you and very often the thoughts of your mind have within them the seeds of guidance and it is our hope that you will see what is indeed the seed and what is indeed the interpretation.

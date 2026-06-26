@@ -18,12 +18,12 @@ description: >
   holds them in the human condition will fall away, and their consciousness
   will shift from mind to soul, where all questions are answered and all
   fear is resolved.
-primary_subjects: "Soul Awakening & Spiritual Growth"
+primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Mind, Soul & Their Relationship"
+  - "Mind vs Soul Conflict"
   - "Healing Through Prayer"
-  - "At-onement with God"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["soul", "stillness", "God's will", "communion", "healing", "peace", "consciousness", "human condition"]
@@ -51,7 +51,7 @@ door: >
   is to go there again and again until it becomes home.
 collections:
   - "Mind & Soul"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 God bless you, I am Keea Atta Kem. Yes, my beloveds, when you walk the Earth you can bring change and Love but you must be with God in this, you must follow His Will and put aside your will, for your will impedes the Love, it is part of the human condition that impedes the Love. And the only way you can know God's Will is to be centered within your soul, to understand His desires. The power of His Love is to be within that place that is your soul and many of you struggle to reside there, to know this place well and to know God's Will, His still voice guiding you, His warm Touch healing you and loving you. And as you go again and again to that sacred and beautiful place within you, you cause, with your efforts and God's Touch, a deep and abiding shift within you, a releasing of all of your wounds, and all that is in error, and all that holds you tightly in the confines of your mind and your pain. It will fall away, it will fall away, my beloveds, because it must, because of the power of God's Love to transform you and heal you, because God wants you to be free and to be in joy.

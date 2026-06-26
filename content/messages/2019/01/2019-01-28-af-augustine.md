@@ -13,12 +13,12 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Augustine addresses the group's desire for clear predictions about world events, honestly explaining why specific prophecy is difficult: the conditions of the world are erratic, the veil between the worlds distorts what is conveyed, and time itself is experienced differently in spirit. He calls those gathered to trust their inner compass, make plans without fear when guidance is clear, and be assured that God's plan for the salvation of mankind will not fail.
-primary_subjects: "Future of Humanity"
+primary_subjects: "Redemption of Humanity"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
-  - "Mediumship & Spirit Communication"
+  - "Mediumship & Developing as an Instrument"
   - "Faith & Trust"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Perseverance & Steadfastness"
 people: []
 spirits: []
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   Augustine admits what few guides will: even from the highest vantage, the future is not a fixed map. Trust your compass. Walk in the light. God's plan will not fail.
 collections: ["Awakening Humanity"]
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 It is your teacher Augustine. May the Father's Love continue to pour into your souls in ever greater abundance igniting the gifts and perceptions within so that you may be able to discern Truth at all times, know God's Will and guidance at all times, be in the flow of God's Will at all times. This is our desire for you, beloved souls, to know from that place deep within you all aspects and guided invitations and knowings that will inform your day as you seek to be the Father's instruments of Love in your world.

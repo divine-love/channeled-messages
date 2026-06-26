@@ -17,8 +17,8 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Soul Awakening"
   - "Natural Love Path vs Divine Love Path"
-  - "Outreach & Sharing the Truth"
-  - "World Service & God's Plan"
+  - "Teaching & Sharing the Message"
+  - "Divine Plan & Timing"
   - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   Prayer is not preparation for the revolution of the soul. It is the revolution.
 collections: ["Mind & Soul", "Two Paths"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 God bless you, I am Michael. Yes, we are coming closer to that time where the circle of light may be activated and those souls who are drawn may be inspired by your words and prayers, by your love and acceptance. It is important that you stress prayer and prayer for the Father's Love to heal and replenish the soul. So few in your world know about their soul, understand this great jewel of your being that is truly yourselves, and to understand this is the most important truth you may learn. How God has created you, these beautiful aspects of your own being. Though for many, the mind is revered, is seen as the most powerful part of each human being, and in this world it is true for man has made it true. Humanity has created such reverence of the mind and that part of you that is more of God has been ignored. With this great focus upon the mind, much disharmony, sin, error, lack of love has proliferated in your world.

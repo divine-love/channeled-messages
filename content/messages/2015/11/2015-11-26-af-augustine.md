@@ -15,8 +15,8 @@ description: >
   Augustine explains why celestial spirits do not reveal the full scope of what lies ahead, teaching that foreknowledge would distort rather than assist the free flow of human choices in harmony with God's Plan. He calls the group to stay grounded in daily prayer, love, and patience, trusting that God carries them and will reveal what is needed at the right moment.
 primary_subjects: "Faith & Trust"
 secondary_subjects:
-  - "God's Will & Surrender"
-  - "Free Will & Choice"
+  - "Surrender to God's Will"
+  - "Law of Free Will"
   - "Discernment & Truth-Seeking"
   - "Perseverance & Steadfastness"
 people: []
@@ -41,7 +41,7 @@ excerpt: >
 door: >
   God withholds the future not to hide it, but to keep your choices free.
 collections: []
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 God bless you. When the time comes you will know what to do, my children. You cannot see the events forthcoming, but we are able to see what is indeed coming over the horizon and it is not helpful for us to give you all of this information because it would influence your thinking and decisions in ways that are not in harmony with the flow of God's Plan and Will for you. For with your limited perceptions you are not able to make those choices which would be of the most benefit and assistance towards the goals of bringing greater Light and Truth to mankind.

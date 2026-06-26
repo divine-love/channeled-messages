@@ -18,7 +18,7 @@ secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Soul Awakening"
   - "Service, Ministry & Being a Channel of Love"
-  - "Mediumship & Spirit Communication"
+  - "Mediumship & Developing as an Instrument"
 people: []
 spirits: ["james-padgett"]
 keywords: ["wisdom", "soul faculties", "truth", "intellect", "teaching", "credibility", "Padgett messages", "prayer", "soul perception", "vision"]
@@ -43,7 +43,7 @@ excerpt: >
 door: >
   Solomon said it first. Salyards confirms it: the soul sees what the intellect can never reach.
 collections: []
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 I am Professor Salyards and some of you know me through the writings of James Padgett for I did many essays through him regarding the Truth of God's Love as I took my journey of discovery and prayer towards God and His Great Soul, and I wish to confirm what Solomon has shared with you.

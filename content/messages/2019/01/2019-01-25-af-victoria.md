@@ -13,11 +13,11 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Queen Victoria, speaking from the world of spirit, expresses the excitement felt by many spirits at the quality of light and communication being achieved in this circle. She reflects on her own Earth life interest in spirit communication, contrasting the lower calibre of circles she encountered then with the high angelic presence here, and urges the group to continue their work as a rare and desperately needed light for a world full of lost souls.
-primary_subjects: "Mediumship & Spirit Communication"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
   - "Circle of Light & Prayer Circles"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
 people: []
 spirits: []
 keywords: ["spirit communication", "Queen Victoria", "séances", "angelic spirits", "rare gift", "lost souls", "world of spirit", "high calibre", "direct voice", "hope"]
@@ -40,7 +40,7 @@ excerpt: >
 door: >
   She sat in séance rooms once. This is nothing like those rooms.
 collections: ["Letters from History"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 Beloved souls, I am Victoria, once the Queen of England. My beloved friends, you have no idea how many spirits are interested in your work and what you may accomplish through your efforts of communication. To do so in this way, having these beautiful and bright angelic spirits with you in your circle is exciting indeed and something that is rare upon your Earth. In my day on Earth, I understood the possibilities of spirit communication. Though I did indeed come to be a part of certain circles, these circles were not of the high calibre and light that you proliferate here. And so, this excites many of us in the world of spirit who see the possibilities and potentials that may come with your efforts and your gifts to bring the wisdom of the world of spirit forward to the peoples of your Earth.

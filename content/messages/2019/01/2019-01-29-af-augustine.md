@@ -13,13 +13,13 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Augustine responds to a question about whether every soul has a purpose, teaching that God has imbued each soul with gifts, abilities, and an invitation to fulfil a unique role in His plan. He assures those gathered that their purpose is already within them, drawing them forward naturally like gravity, and that God has arranged every experience of their lives to prepare them for its full expression in Love.
-primary_subjects: "Soul Gifts & Purpose"
+primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Soul Awakening"
-  - "World Service & God's Plan"
-  - "Free Will & Choice"
-  - "At-onement with God"
+  - "Divine Plan & Timing"
+  - "Law of Free Will"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["purpose", "soul gifts", "God's plan", "free will", "destiny", "fulfillment", "harmonious expression", "ballet of love", "universe", "awakening"]
@@ -47,7 +47,7 @@ excerpt: >
 door: >
   Your purpose is not something you figure out. It is something already pulling you, like gravity toward the sea.
 collections: ["Prism of the Soul"]
-last_edited: 2026-06-25
+last_edited: 2026-06-26
 ---
 
 God bless you, it is your teacher Augustine. You have asked an important question, beloved daughter, and have done so with clear and beautiful words as is your gift. Yes, every soul has a purpose, something that God has entrusted that soul to accomplish in their earthly existence to bring greater light to this world. Thus, every soul has particular gifts and abilities and potentials that may be expressed in your world. Along with this invitation from God to express His beautiful creation that is a soul in and along a certain path, God also has imbued each soul with free will. So the invitation may be proffered and is within that soul deep and well-embedded. This does not mean that the soul will listen, that the individual may heed this call and walk a particular path that will lead to the expression of this gift and this invitation. So, many do not fulfil their purpose in your world. Yet, every soul is invited to do so by God, given the abilities and gifts to fulfil this purpose. In response to fulfilling what God has asked them to do in the world, there is a great joy and fulfillment within themselves. This gift ignites a true sense of self, a true sense of the possibilities and potential of the soul.

@@ -16,7 +16,7 @@ description: >
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Walking the Divine Path"
-  - "Future of Humanity"
+  - "Redemption of Humanity"
   - "Perseverance & Steadfastness"
   - "Prayer & Devotion"
 people: []
@@ -40,7 +40,7 @@ excerpt: >
 door: >
   The world's heart softens at Christmas. Step in.
 collections: []
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 It is your teacher, Augustine. And you come upon a time of peace and goodwill in your world, celebrating the birth of the Master and this is a time where you, my children, may be channels of Love in great measure as many souls are receptive and open and feeling the power of this condition of Love and Light in the world. Continue to be that channel of Love, beloveds, that beautiful channel of Love, to walk in the Light. Continue in your prayers and efforts to reach ever higher to that place close to God in the flow of His Love, beloved souls.

@@ -17,12 +17,12 @@ description: >
   during an upcoming gathering. He assures them that great preparation
   has been made upon each soul down to the cellular level, and encourages
   them to use their time together openly, lovingly, and purposefully.
-primary_subjects: "Spiritual Gifts & Mediumship"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
   - "Circle of Light & Prayer Circles"
   - "Receiving the Divine Love through Prayer"
-  - "Spiritual Friendship & Fellowship"
+  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["mediumship", "preparation", "support", "gifts", "gathering", "cellular", "transformation", "prayer"]
@@ -53,7 +53,7 @@ door: >
   God's preparation goes deeper than you know, right down to the cellular
   level; the work ahead has already begun within you.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 It is Augustine here.

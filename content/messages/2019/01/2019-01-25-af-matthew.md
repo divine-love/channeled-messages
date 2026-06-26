@@ -13,12 +13,12 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Matthew welcomes the gathering and invites those present to consider what questions their souls are truly seeking answers to, teaching that intention and free will shape what can come through in spirit communication. He encourages the group to seek the highest truth together, promising that as they harmonise in prayer and openness, truth will flow in ways that bring unity, clarity, and deep joy.
-primary_subjects: "Mediumship & Spirit Communication"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Prayer & Devotion"
   - "Soul Awakening"
-  - "Free Will & Choice"
+  - "Law of Free Will"
 people: []
 spirits: []
 keywords: ["intention", "questions", "soul truth", "free will", "spirit communication", "harmony", "clarity", "unity", "channel for truth", "seeking"]
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   What does your soul actually want to know? That is the question that determines everything.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 Beloved souls, this is Matthew. I welcome you, dear daughter (L), to this circle and all of you who are intent on coming together in prayer, communing with God, receiving His Divine Love, and with a desire to receive the wisdom and blessings that may come with our communication with you.

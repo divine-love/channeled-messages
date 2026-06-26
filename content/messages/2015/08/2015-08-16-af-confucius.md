@@ -17,11 +17,11 @@ description: >
   discuss their questions together first, consolidate what is most important,
   and bring only the most essential forward, acknowledging the limitations
   of what may come through any instrument.
-primary_subjects: "Spiritual Gifts & Mediumship"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
-  - "Soul Awakening & Spiritual Growth"
-  - "Spiritual Friendship & Fellowship"
+  - "Soul Awakening"
+  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["amendment", "questions", "mediumship", "limitations", "discernment", "circle", "wisdom"]
@@ -48,7 +48,7 @@ door: >
   Even heaven works within limits; wisdom is knowing which question matters
   most and asking only that one.
 collections: []
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 Beloveds, 'tis Confucius, I wish to amend this guidance somewhat for this instrument has not received in its entirety what is meant. For if you were to each put forward five questions, we would be answering questions till the day is done. Formulate these questions, my beloveds, and discuss amongst yourselves what is important and bring this forward, for I believe that many of your questions will be similar.

@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Sri Yarisupta clarifies a question about his name, explaining that Sri Yarigupta is his formal name while Sri Yarisupta is a childhood familiar name he chose to use as a sign of friendship. He teaches that names are not particularly important in the spirit realms where souls know one another by their presence, and graciously excuses any confusion arising from the medium's difficulty with unfamiliar names.
-primary_subjects: "Mediumship & Spirit Communication"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Spirit Guides & Angels"
 people: []
@@ -36,7 +36,7 @@ excerpt: >
 door: >
   In the realms of light, names dissolve. What remains is simply the presence of a friend.
 collections: []
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 Sri Yarigupta is my formal name. Sri Yarisupta is a familiar name given to me as a child and I use this familiar name because I felt that you are my friends. I understand your confusions and indeed my language at the time of my birth was a difficult language to understand especially by you who live in this very different world. You are welcome to use either rendition of my name whenever you wish but know that I am your friend and that in the realms in which I live these delineations are irrelevant, that we know each other by our presence.

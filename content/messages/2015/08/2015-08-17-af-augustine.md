@@ -18,9 +18,9 @@ description: >
   sharing, whether lost or knowing, and assures them that help will come.
 primary_subjects: "Divine Will, Guidance & Orchestration"
 secondary_subjects:
-  - "Soul Awakening & Spiritual Growth"
-  - "Spiritual Courage & Perseverance"
-  - "Spiritual Friendship & Fellowship"
+  - "Soul Awakening"
+  - "Perseverance & Steadfastness"
+  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["choice", "soul purpose", "honesty", "lost", "knowing", "help", "retreat"]
@@ -44,7 +44,7 @@ door: >
   The choice is already made within your soul; the work now is simply to
   uncover what is already there.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 Your teacher Augustine here. What will you do, my beloveds? The choice is yours. What are you willing to do? The choice is yours. And that choice rests within your souls. That answer rests within your souls. And in fact, you have already made that choice. It is for you to uncover — your purpose, that gift that lies within.

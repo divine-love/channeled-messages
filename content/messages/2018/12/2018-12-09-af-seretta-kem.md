@@ -13,12 +13,12 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Seretta Kem celebrates the group's ongoing travels and efforts to weave together the lattice of Light, describing it as God's great blanket of connection enveloping all souls. He teaches that each day of prayer and service draws angels closer and builds momentum within the soul, until resistance falls away and the soul's unique gifts unfold petal by petal like a perfect flower.
-primary_subjects: "Lattice of Light"
+primary_subjects: "Lattice of Light & Global Prayer Network"
 secondary_subjects:
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Soul Awakening"
   - "Service, Ministry & Being a Channel of Love"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
 people: []
 spirits: []
 keywords: ["lattice of light", "soul gifts", "flower of the soul", "momentum", "awakening", "soul chambers", "destiny", "prayer and service", "connection", "world healing"]
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   Petal by petal, chamber by chamber, the flower of your soul is coming to light.
 collections: ["Healing Path"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 This is Seretta Kem. Yes, you have all been engaged in many travels and activities, prayers, communications, efforts to continue to weave together this great lattice of light in your world. And we have been guiding you upon this path, this effort to bring many together with a sense of connection and family, of love and acknowledgment for none need be alone or feel that they are struggling alone in your world in this climate of harshness and inability to love. My children, beloved friends, beloved souls, all are part of God's great blanket enveloping you all, this blanket of light pulling you together bringing comfort and strength in your connections and love of one another.

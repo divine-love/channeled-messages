@@ -17,9 +17,9 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Soul Awakening"
-  - "Mediumship & Spirit Communication"
+  - "Mediumship & Developing as an Instrument"
   - "Natural Love Path vs Divine Love Path"
-  - "Humility & Innocence"
+  - "Humility"
 people: []
 spirits: []
 keywords: ["truth", "soul mind", "material mind", "spirit world", "thought forms", "discernment", "humility", "speculative mind", "soul knowing", "living waters"]
@@ -47,7 +47,7 @@ excerpt: >
 door: >
   The mind builds its own truth. The soul simply receives it. Only prayer opens the deeper channel.
 collections: ["Mind & Soul", "Two Paths"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I see that you have had a lively discussion this morning. One rather controversial in nature. One that has ruffled the feathers of a few, maybe even caused the clouds to collide to make thunder ( laughter). My dearly beloved brothers and sisters, you must realize that the multitude of spirits in the spirit world is vast and complex. Within that complexity are a great deal of perspectives and what you would call realities because the mind is a powerful tool that is expressed more readily within the world of spirit creating these realities in which many spirits abide by and live within, and believe that they have found truth. Indeed, they have found a truth that they have created of themselves and made a world real and substantial through their own creation.

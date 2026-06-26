@@ -21,10 +21,10 @@ description: >
   than falling into an abyss, and all else falls into harmony.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
-  - "Discerning & Following God's Will"
+  - "Divine Will, Guidance & Orchestration"
   - "Soul Awakening"
   - "Faith & Trust"
-  - "Inner Peace & Stillness"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["mind versus soul", "inner conflict", "tension", "decision", "guidance", "knowing versus believing", "act of faith", "peace", "stillness", "soul awareness", "God's will", "beacon", "surrender", "discernment"]
@@ -54,7 +54,7 @@ collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-17
+last_edited: 2026-06-26
 ---
 
 My dear, beloved souls, you struggle so between your souls and your minds. Your soul is with God, each of you, my beloveds. Your soul is with God, and your minds are often with mankind and the conditions of humanity and this causes a struggle within you.

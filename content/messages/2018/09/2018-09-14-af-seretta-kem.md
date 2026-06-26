@@ -18,7 +18,7 @@ description: >
   purpose. He assures them that seeds, bridges, and conditions are being laid
   in ways they cannot yet see, and that as their souls grow stronger, the work
   will begin in earnest.
-primary_subjects: "Sharing the Truth of Divine Love"
+primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
   - "Preparation for Earth Mission"
   - "Interfaith & Universal Truth"
@@ -55,7 +55,7 @@ excerpt: >
 collections: []
 door: >
   You are the emissaries of truth, spoken not in words but in light and love
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 So you have learned much today. You have met many people. You've walked the halls and sat in these seminars as you call them. You have learned much and yet you have not seen evidence of the encouragement of the soul, rather you see how the minds of men have explored and utilized the natural phenomena that is available to humanity. This is an important work that they do to convince humanity of a very simple fact that life carries on. Yet in your dark world so many cannot even step beyond their disbelief of this truth. So many are mired in the material condition and cannot contemplate the very thought of death. They have great fear and misunderstanding. So these beautiful souls, they work and they make great effort to help those who are stuck within their scepticism.

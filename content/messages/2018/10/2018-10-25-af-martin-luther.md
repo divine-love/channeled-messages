@@ -21,7 +21,7 @@ description: >
 primary_subjects: "Compassion & Empathy"
 secondary_subjects:
   - "Self-Love & Acceptance"
-  - "Sharing the Truth of Divine Love"
+  - "Teaching & Sharing the Message"
   - "Soul Awakening"
   - "Walking the Divine Path"
 people: []
@@ -56,7 +56,7 @@ excerpt: >
 door: >
   When you gaze upon another with eyes of love, compassion often accompanies your interaction. It is a signal that God is working through you — for this gift of compassion is the Hand of God reaching through you to others.
 collections: []
-last_edited: 2026-05-05
+last_edited: 2026-06-26
 ---
 
 God bless you beloved Souls and guten morgen. I come to speak about compassion. The ways of men in this world do not include compassion for others to any great extent. There is such a separation between each soul in your world. This separation comes from fear, comes from a desire to be safe and independent. Separation is sought after rather than connection with others. Where in this distance between each others there is a sense of personal power and control in one's life. To reveal one's self to another, to truly be honest, is something that is very difficult for those of you in your world and your culture. For it is often difficult even to reveal oneself to oneself, as one is inclined to wall off one's feelings, to separate again even within yourselves, to not truly be honest.

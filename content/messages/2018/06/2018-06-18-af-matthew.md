@@ -25,7 +25,7 @@ secondary_subjects:
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
   - "Knowing God"
-  - "Law of Attraction & Spiritual Laws"
+  - "Law of Attraction"
 people: []
 spirits: []
 keywords: ["two realities", "two minds", "soul mind", "material mind", "Law of Attraction", "scientists of the soul", "vanguards", "veil lifted", "frame of reference", "merging", "perception", "waves", "adventurers", "thought conditions", "new dawn"]
@@ -60,7 +60,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You are scientists of the soul, discovering its mysteries. The vanguards of a new dawn of Love and Truth that God intends for this world
-last_edited: 2026-05-30
+last_edited: 2026-06-26
 ---
 
 I am Matthew. We are not so concerned that you recognize us for who we are, merely that the words that we speak through this instrument may be heard and pondered upon, that you may know that we in the Celestial Kingdom make an effort to be with you in this world. This is made possible because there is a longing here to receive the Divine Love from God. Where there is that longing, that desire, we are able to come and be with you because you invoke the Law of Attraction and you invoke the Laws of Love. Thus this connection, this relationship that we share together in prayer, is made possible because you have made a choice to seek for the blessing of this Love, this Essence of God, to flow into your souls.

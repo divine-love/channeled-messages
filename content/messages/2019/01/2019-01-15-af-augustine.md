@@ -17,7 +17,7 @@ primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Walking the Divine Path"
   - "Soul Awakening"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -41,7 +41,7 @@ excerpt: >
 door: >
   Everyone you walk past today can be blessed. No words required.
 collections: ["Service & Mission"]
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 Beloveds, I am your teacher Augustine. God will continue to gather you together, beloved souls. He continues to envelop you and press you to His bosom so that you know that you are not alone, that you are indeed part of this great family of God's children.

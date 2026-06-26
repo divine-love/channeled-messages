@@ -18,12 +18,12 @@ description: >
   and material mind are gradually integrated into a single unified consciousness, and
   assures the circle that this merging, though not accomplished in an instant, is the
   goal of their journey and is already beginning to unfold within each of them.
-primary_subjects: "Soul Mind versus Material Mind"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
   - "Rebirth of the Soul (New Birth)"
-  - "At-onement with God"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["soul mind", "material mind", "integration", "fusion", "consciousness", "soul faculties", "transformation", "Divine Love", "awakening", "chambers of the soul", "oneness", "birthing", "progression", "at-onement", "living waters", "parched soul"]
@@ -57,7 +57,7 @@ excerpt: >
 door: >
   As the soul and mind embrace in joyful recognition, they begin to merge until there is no sense of separation — only the singular consciousness of the soul mind and material mind as one.
 collections: ["Mind & Soul"]
-last_edited: 2026-05-30
+last_edited: 2026-06-26
 ---
 
 The transformation of the soul does not end with changes within the structure of the soul. This transformation begins in the soul with the power of God's Essence opening the soul, awakening the soul in so many ways, enlivening all the chambers and facets of the soul, bringing the faculties of the soul into alignment with your consciousness as it awakens and becomes active. Your capacity to see the world, to love the world, increases exponentially with this gift of Love. The power of this light placed within your soul expands and touches you on every level, every part of you. Every aspect of your existence is changed by this gift. As it grows in power, so the influence increases, touching every cell in your body, every system of your spirit body, every part of your physical mind and the mind of your consciousness is infused with the consciousness of the soul.

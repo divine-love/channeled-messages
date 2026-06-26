@@ -13,10 +13,10 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Albert Einstein introduces himself as part of a group of scientists in the spirit world working to forge deeper communication between spirit and the physical world, bringing greater truth and understanding to help humanity navigate the coming changes. He encourages those present that their presence and intentions have opened a threshold of communication and that he hopes to work with them in times to come.
-primary_subjects: "Mediumship & Spirit Communication"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
-  - "World Service & God's Plan"
-  - "Future of Humanity"
+  - "Divine Plan & Timing"
+  - "Redemption of Humanity"
   - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: []
@@ -41,7 +41,7 @@ excerpt: >
 door: >
   The scientist who mapped the universe has come to map something larger: the path from truth to harmony.
 collections: ["Letters from History"]
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 Bless you my friends. I am Albert Einstein. I too am involved in this work to forge deeper communications between the world of spirit and the physical world. For your world is in great need of our support and our wisdom, and so there is a great effort to bring what we can through to your side of life and to do so with wisdom and with clarity and precision. And so we will be working with you in times to come, to bring what we can that will be helpful and important to deal with the coming changes in the world.

@@ -20,7 +20,7 @@ description: >
   unshakable confidence, and joyful service.
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects:
-  - "Mind vs Soul"
+  - "Mind vs Soul Conflict"
   - "Soul Awakening"
   - "Walking the Divine Path"
   - "Spiritual Community & Fellowship"
@@ -50,7 +50,7 @@ door: >
 collections: ["Service & Mission", "Mind & Soul"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 Thank you for the appreciation of my picture. I must say I look a little different now in the world of spirit. I think you would approve of my appearance, for the Love within my soul has changed me a great deal, and the joy that I feel with this Gift of the Father's Love radiates through every part of my being.

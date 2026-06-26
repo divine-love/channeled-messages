@@ -15,9 +15,9 @@ description: >
   Augustine addresses a board meeting, urging those gathered to speak honestly from their souls rather than allowing the mind's hesitations to hold them back. He affirms that God will not override free will but that the soul will confirm the rightness of each step taken, and that every person present has a unique and necessary role in spreading the truths of God's Love.
 primary_subjects: "Discernment & Truth-Seeking"
 secondary_subjects:
-  - "God's Will & Surrender"
-  - "Free Will & Choice"
-  - "Soul Gifts & Purpose"
+  - "Surrender to God's Will"
+  - "Law of Free Will"
+  - "Unique Soul Gifts"
   - "Walking the Divine Path"
 people: []
 spirits: []
@@ -42,7 +42,7 @@ excerpt: >
   You will know as you take each step forward what is the right thing to do, the right steps to take, for your souls will inform you and you will feel the joy of this, the rightness of this, the knowing of this.
 door: >
   God will not tell you what to do. But your soul will confirm when you have chosen rightly.
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 It is your teacher Augustine. You have asked for guidance and we would encourage you to speak from your souls and your hearts to allow the wisdom of your souls to manifest with one another in loving and honest ways. Do not hold back from that which you think and know from this place of deep knowing and understanding. Your challenge is to step forward in this way; your challenge is to walk towards the Light and to not have weights upon your feet that are born from the mind.

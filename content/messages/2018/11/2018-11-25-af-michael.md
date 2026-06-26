@@ -17,7 +17,7 @@ primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Circle of Light & Prayer Circles"
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Spirit Guides & Angels"
 people: []
 spirits: []
@@ -43,7 +43,7 @@ excerpt: >
 door: >
   Ask. Open. Receive. That is all.
 collections: []
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 Welcome to this circle of light. I have called you together. My name is Michael and I have been working with this dear soul and her mate and though she is not entirely aware of my presence, we know each other well. I am an inhabitant of the Celestial Kingdom. I have taken the journey of which these beloved brothers speak of and have come to that place where my soul, my being, has been transformed by love. It is the power of love, the power of God's Love, that is the greatest force for change in the universe. For it is the highest energy, the highest element available to mankind. When you open yourselves to this gift you will experience something far beyond that which you carry within you, all the potentials that are of the mind, of your natural state. For this transformative energy goes directly to the soul and infills the soul so that deep healing, deep changes and shifts take place.

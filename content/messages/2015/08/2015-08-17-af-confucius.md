@@ -20,9 +20,9 @@ description: >
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Soul Awakening & Spiritual Growth"
-  - "God's Love, Care & Provision"
-  - "Nature & God's Creation"
+  - "Soul Awakening"
+  - "God's Mercy & Unconditional Love"
+  - "Nature, Environment & God's Creation"
 people: []
 spirits: []
 keywords: ["seeds of love", "sowing", "presence", "channel of love", "nature", "whales", "perception", "gifts", "open"]
@@ -54,7 +54,7 @@ door: >
   see yet which ones will bloom.
 collections:
   - "Service & Mission"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 Precious and beloved souls, I am Confucius and I come to greet you this morning with my love and to give you some guidance.

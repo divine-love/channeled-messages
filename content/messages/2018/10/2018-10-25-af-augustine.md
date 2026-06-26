@@ -19,7 +19,7 @@ description: >
   will, and to trust the awakening soul's truer perception of reality, knowing
   that God's Love will overshadow the darkness with light for all who long for
   this with their whole being.
-primary_subjects: "Soul Mind versus Material Mind"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Self-Love & Acceptance"
   - "Cleansing & Expiation"
@@ -57,7 +57,7 @@ excerpt: >
 door: >
   Draw your line, beloved souls — your line against darkness and error, your line against self-hatred. I am a child of God and I shall live accordingly.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-05-05
+last_edited: 2026-06-26
 ---
 
 There are deep changes happening within your souls, my beloveds. As the Father's Love continues to be infused into your soul, so there are corresponding shifts, healings and awakenings that bring change to your consciousness, your being. You must accept and embrace these changes, to be curious about them, to desire them not just from your mind but from that aching part of your soul, that part that longs so deeply, so powerfully for redemption and healings from all conditions that are not of love. With every step forward that you take, it is crucial that you do so with a longing heart, a deep desire to move forward and to release all conditions that are not in harmony with the love that continues to grow within you.

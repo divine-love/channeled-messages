@@ -13,12 +13,12 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Seretta Kem adds to a prior teaching on mediumship, addressing the mistaken belief that Jesus can be summoned to speak on demand and that any individual can claim him as their exclusive guide. He teaches that Jesus assigns guides from the Celestial Kingdom to work with mortals, that this is done in accordance with God's Will, and that humility and openness — rather than expectation — are the conditions for genuine angelic communication.
-primary_subjects: "Mediumship & Spirit Communication"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
-  - "Errors in Religion & Theology"
+  - "Religious Error & Reformation"
   - "Spirit Guides & Angels"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
 people: []
 spirits: ["jesus"]
 keywords: ["Jesus", "spirit guides", "mediumship", "false claims", "assignment", "humility", "Celestial Kingdom", "soul mind", "conduit", "expectation"]
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   Jesus answers to God, not to expectation. The humble instrument who asks for nothing specific will always find an angel present.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-28
+last_edited: 2026-06-26
 ---
 
 This is Seretta Kem and I wish to add to the beloved Master's talk on mediumship. There are those in the world who believe that Jesus will come and speak through them at their beck and call and that they insist that the Master is the only one whom they indicate must speak. They do not realize that he is at God's beck and call and moves in that flow of God's Will and does not answer to any mortal or spirit but answers to God, as do all of us within the Celestial Kingdom.

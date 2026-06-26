@@ -18,10 +18,10 @@ description: >
   recognition of their effort to come together.
 primary_subjects: "Healing Through Prayer"
 secondary_subjects:
-  - "Angels, Spirit Guides & Celestial Helpers"
-  - "Soul Awakening & Spiritual Growth"
-  - "God's Love, Care & Provision"
-  - "Spiritual Comfort & Encouragement"
+  - "Spirit Guides & Angels"
+  - "Soul Awakening"
+  - "God's Mercy & Unconditional Love"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["healing", "blessing", "permanent", "barriers", "soul progression", "retreat", "unique gift", "channel of love"]
@@ -45,7 +45,7 @@ door: >
   The effort to gather was itself an act of love, and God answered it with
   a healing uniquely suited to each soul present.
 collections: []
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 It is Seretta Kem. You have each been given a blessing of healing and have been touched by God in a way which will remove certain barriers to your soul's progression. This blessing and healing will have a permanent effect upon your being. It is a gift given for your efforts to come together. A special gift. And for each it is unique, and suited for your particular progression upon the Divine Path and will have its unique effects upon your being.

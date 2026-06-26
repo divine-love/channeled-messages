@@ -15,7 +15,7 @@ description: >
   Matthew calls those gathered to move from years of prayerful preparation into active expression in the world, teaching that each challenge God puts before them is a gift that awakens gifts and strengths they did not know they possessed. He acknowledges the desire for peace and comfort but urges them to meet the world with the heart of a lion — strong, forceful, gentle, and wise — so that the soul may be fully expressed and God may shine through it.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Faith & Trust"
   - "Walking the Divine Path"
   - "Perseverance & Steadfastness"
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   Years of prayer have been building toward this: the moment you step out the door and meet the world.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 As you continue to venture out into the world in a deep desire to serve God, so God continues to open doors and blessings, often unexpected, sometimes unwanted, but nonetheless opportunities to serve and bring greater light, not only to those you serve, but to yourself. As you meet the challenges that God puts before you, as you are strong enough to put aside your reluctance and that sense and need for comfort and peace in your daily life, instead to be replaced by the heart of the lion. The lion that brings love, strong and forceful, gentle and wise, there is the opportunity to scatter the darkness and bring light and truth to humanity.

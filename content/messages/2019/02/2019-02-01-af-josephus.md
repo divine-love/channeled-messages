@@ -17,7 +17,7 @@ description: >
   from the material mind and held in chambers that God's Essence opens. He teaches
   that these faculties are unique to each soul, must be experienced rather than
   understood by the mind, and are refined and transformed when ignited by Divine Love.
-primary_subjects: "Soul Faculties, Perception & Knowing"
+primary_subjects: "Nature of the Soul"
 secondary_subjects:
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
@@ -58,7 +58,7 @@ door: >
   You are using only half of what you are. The other half is a soul full of
   sealed chambers, and Divine Love is the light that opens them.
 collections: ["Prism of the Soul", "Letters from History"]
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 May His Love find a great inflowing into your soul. My name is Josephus, I have not spoken through this instrument before but I have been asked to speak about the faculties of the soul. I was a philosopher and teacher of the Jewish faith and helped to formulate the scriptures of this religion. Now I reside within the Celestial Kingdom. I have followed the teachings of the Messiah of Israel, our beloved Jesus.

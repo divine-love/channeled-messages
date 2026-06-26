@@ -20,10 +20,10 @@ description: >
   with God.
 primary_subjects: "Death, Transition & the Afterlife"
 secondary_subjects:
-  - "Soul Progression through the Spirit Spheres"
-  - "At-onement with God"
-  - "Soul Growth & Transformation through Divine Love"
-  - "Fear & Anxiety"
+  - "Soul Spheres & Progression"
+  - "At-onement"
+  - "Soul Transformation & Development"
+  - "Overcoming Fear & Doubt"
 people: []
 spirits: []
 keywords: ["death", "transition", "spirit world", "fear of death", "afterlife", "soul progression", "spirit spheres", "at-onement", "eternal life", "Divine Love", "soul faculties", "awakening", "release", "joy", "peace", "mind versus soul"]
@@ -54,7 +54,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The transition to the world of spirit will be celebrated — a changing of the conditions in which a soul lives and operates. It is nothing more than this
-last_edited: 2026-04-30
+last_edited: 2026-06-26
 ---
 
 God bless you, I am Matthew. There will come a time in the existence of the Earth where death will not be feared but accepted as a normal part of the progression of life by all peoples in your world and there will not be a fear of death, a loathing of death, and the feeling that it is the end of all. Instead, the transition to the world of spirit will be celebrated, a changing of the conditions in which a soul lives and operates, which is the truth. It is nothing more than this. There may not be a great distance between those who pass and those who love that soul from this earth plane. It will be a smooth and seamless progression in life, seen with joy and wisdom rather than fear and ignorance.

@@ -18,9 +18,9 @@ description: >
   the night.
 primary_subjects: "Healing Through Prayer"
 secondary_subjects:
-  - "Angels, Spirit Guides & Celestial Helpers"
-  - "God's Love, Care & Provision"
-  - "Spiritual Comfort & Encouragement"
+  - "Spirit Guides & Angels"
+  - "God's Mercy & Unconditional Love"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["healing", "prayer before sleep", "spirit healing", "physical healing"]
@@ -45,7 +45,7 @@ door: >
   The healing that begins in prayer does not stop when you sleep; spirits
   attend to you through the night.
 collections: []
-last_edited: 2026-06-25
+last_edited: 2026-06-26
 ---
 
 I will bring healing and the elements you require for your healing. Say your prayers as you bed down for the night and ask that the healing continues in your bodies and I will attend to you, one of many who will attend to your healing and health.

@@ -23,7 +23,7 @@ secondary_subjects:
   - "Preparation for Earth Mission"
   - "Spiritual Community & Fellowship"
   - "Self-Love & Acceptance"
-  - "Sharing the Truth of Divine Love"
+  - "Teaching & Sharing the Message"
 people: []
 spirits: []
 keywords: ["preparation", "unique gifts", "retreat", "inspiration", "testimony", "voice", "Divine Path", "self-love", "true self", "channel of love", "bond of love", "soul discovery", "confidence", "treasure"]
@@ -51,7 +51,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   What do I have to give to others that is uniquely from me and my experience upon the Divine Path?
-last_edited: 2026-04-30
+last_edited: 2026-06-26
 ---
 
 Each of you is being prepared, and in this preparation, and as you continue to beseech your Heavenly Father to receive His Love in these coming months before you gather the souls together, you will each be able to give those whom you have gathered a gift, a gift that is uniquely from you to them, a gift of inspiration, of clarity, of truth all in the flow of God's Love. When you are in your prayers and when you come together think of this, my beloveds, what do I have to give to the others that is uniquely from me and my experience upon the Divine Path? What are my gifts? What is my voice to express God's Truth in loving and profound ways? And how can I demonstrate to others my journey, my walk upon this Path that will give comfort and Love and acceptance to those whom I am embracing as they come together under one roof?

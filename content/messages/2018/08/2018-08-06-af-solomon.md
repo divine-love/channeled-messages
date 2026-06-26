@@ -18,7 +18,7 @@ description: >
   He calls this soul to discipline the mind's restless craving, go to God with
   the innocence of a child, and trust that all answers, all wisdom, and all
   understanding will be delivered in God's time.
-primary_subjects: "Soul Mind versus Material Mind"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Faith & Trust"
   - "Discernment & Truth-Seeking"
@@ -54,7 +54,7 @@ excerpt: >
 collections: ["Mind & Soul"]
 door: >
   Give yourself up to your faith and trust in God and all things shall be delivered unto you, all answers, all knowings, all seeings, all understanding
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 I am Solomon and I have come to speak to you my son ( R………..), for you are in need of my guidance and indeed, I do guide you in your life.

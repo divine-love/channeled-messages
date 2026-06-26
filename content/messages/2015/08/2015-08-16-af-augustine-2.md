@@ -18,12 +18,12 @@ description: >
   He encourages them to distinguish God's Will from their own, assuring
   them that their individual gifts and common goals will surprise them when
   shared openly.
-primary_subjects: "Spiritual Gifts & Mediumship"
+primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
   - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Friendship & Fellowship"
-  - "Soul Awakening & Spiritual Growth"
+  - "Spiritual Community & Fellowship"
+  - "Soul Awakening"
 people: []
 spirits: []
 keywords: ["gifts", "application", "God's will", "commitment", "service", "discernment", "retreat", "potential"]
@@ -52,7 +52,7 @@ door: >
   You already have the gifts; the only thing left is to decide how much of
   your life you are willing to give to using them.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 It is your teacher Augustine. God bless you, my students. To share in this way, in your own personal way, not only reflects your own personality, but reflects your approach to your spiritual life and your life in general, and I think each have learned much of the others through this sharing. It is not so much the words that you speak but the feelings that you carry, the intentions that you have, the thoughts that roll around within your minds which then encounters the wisdom of your souls.

@@ -23,7 +23,7 @@ secondary_subjects:
   - "Preparation for Earth Mission"
   - "Collective Awakening & Redemption"
   - "Faith & Trust"
-  - "Shared Purpose"
+  - "Supporting One Another"
 people: []
 spirits: []
 keywords: ["earth changes", "climate change", "warming", "ice melting", "core shifts", "cataclysm", "transition", "channel of love", "teachers of truth", "consciousness shift", "preparation", "God's will", "opportunities", "interesting times", "imbalance", "greed"]
@@ -55,7 +55,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You do indeed live in interesting times, a great shift of consciousness in the world. Very few will know what this means — and you will convey this knowledge and bring comfort to many
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 Alec here, God bless you my friends and may your souls be full to the brim of God's Love. You have been discussing changes in the Earth and I am sad to say that these changes will continue to accelerate. The climate within this world will change dramatically as you have already witnessed. The Earth will become warmer and this will set off chain reactions which will melt the ice and cause further warming and greater disruptions. And the very core of the Earth is shifting and changing and this will cause further disruptions. You will have much to deal with in the future and I do not say this to cause fear and anxiety within you, for as you maintain your connection with your Creator you will be protected and guided through all of these obstructions and cataclysms and problems.

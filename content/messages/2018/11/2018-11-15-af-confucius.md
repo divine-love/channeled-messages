@@ -17,11 +17,11 @@ description: >
   clear the obstructions between mind and soul, walk in faith without
   requiring clear understanding of what comes next, and trust that God
   has perfectly orchestrated every step of their journey toward awakening.
-primary_subjects: "Mind, Soul & Their Relationship"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
-  - "Faith, Trust & Surrender"
+  - "Faith & Trust"
   - "Divine Will, Guidance & Orchestration"
-  - "Soul Awakening & Spiritual Growth"
+  - "Soul Awakening"
   - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: []
@@ -53,7 +53,7 @@ door: >
   soul, and asks the mind to follow.
 collections:
   - "Mind & Soul"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 I am Confucius and I am happy to see you together in prayer, in a desire to increase your service to humanity and to God. You carry within you, beloved, beloved brothers, a great strength, the strength of the Divine Love burning its fires in your souls. You must utilize this strength in whatever efforts you do on behalf of God to bring this Truth to humanity. You must truly know your soul, the composition of your soul, the light of your soul, the capacities of your soul to know truth and to be in alignment with your Creator. When this understanding is well-established within your consciousness and is expressed in all of your efforts, then the work truly begins, beloved brothers, the work truly unfolds in the harmony and timing and plan of God.

@@ -16,8 +16,8 @@ description: >
 primary_subjects: "Spiritual Discipline & Daily Living"
 secondary_subjects:
   - "Perseverance & Steadfastness"
-  - "Free Will & Choice"
-  - "Future of Humanity"
+  - "Law of Free Will"
+  - "Redemption of Humanity"
   - "Walking the Divine Path"
   - "Overcoming Fear & Doubt"
 people: []
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   The time for casual commitment is over. The world is already changing.
 collections: ["Awakening Humanity"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 Bless you, your teacher Augustine is with you.

@@ -18,13 +18,13 @@ description: >
   and capacity, the Divine Love soul operates at an entirely different
   frequency, receiving truth as a gift from God rather than through
   intellectual effort, with no limit to its expansion.
-primary_subjects: "Natural Love Path vs. Divine Love Path"
+primary_subjects: "Natural Love Path vs Divine Love Path"
 secondary_subjects:
-  - "Soul Faculties, Perception & Knowing"
-  - "Celestial Heavens & Progression"
-  - "Soul Spheres & Natural Love Progression"
-  - "Truth & Spiritual Knowledge"
-  - "Mind, Soul & Their Relationship"
+  - "Nature of the Soul"
+  - "Celestial Heavens & At-onement"
+  - "Soul Spheres & Progression"
+  - "Discernment & Truth-Seeking"
+  - "Mind vs Soul Conflict"
 people: []
 spirits: []
 keywords: ["natural love", "divine love", "soul progression", "sixth sphere", "soul faculties", "truth", "Celestial Kingdom", "soul mind"]
@@ -58,7 +58,7 @@ door: >
   Love soul receives it as a flower plucked in joy, no striving required.
 collections:
   - "Two Paths"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 I have come to answer a somewhat complicated question that you have had regarding the expansion of the soul that is fully developed in the natural love compared to the soul developed with the Divine Love. Since I have been studying this subject, I have been asked to give you some points of interest and details regarding this issue. The soul untransformed by the Divine Love still carries with it certain capacities and abilities. In this, the mind of the soul is present and may convey certain information to the mind, the material mind, that is, the mind of the spirit. If you think of the soul mind as a receiver of information like a radio and the frequencies which may be available to the mind of the soul merely purified by the natural love, these frequencies are somewhat limited and may only go as far as the development of that soul and therefore, is unable to receive the higher truths that the soul enhanced by the Divine Love may receive. Its frequencies then are in the lower range of what is possible.

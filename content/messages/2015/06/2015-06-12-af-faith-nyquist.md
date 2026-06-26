@@ -21,7 +21,7 @@ description: >
 primary_subjects: "Faith & Trust"
 secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
-  - "Judgment & Self-Judgment"
+  - "Releasing Judgment"
   - "Spiritual Empowerment & Encouragement"
 people: []
 spirits: []
@@ -55,7 +55,7 @@ excerpt: >
 collections: []
 door: >
   Even through the maze and forest of these human conditions, God will work and bring His Will and purpose
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 So I see you have hit another roadblock and you are surprised with what has transpired, but I tell you, you will be surprised at the outcomes of what has transpired. Do not give up hope or your desire to be a channel of Light in that place. For God's Will is and will manifest there. And it is true that the present minister has very little to give towards this outcome and this Light. Of all that have gone before him, he is the least of them and it saddens us in spirit to see him supported as he is in a hollow ministry, with no true purpose, without God's guidance and touch. And yet here before you sits a man with great desire to do God's Will and be a channel of His Love in this place.

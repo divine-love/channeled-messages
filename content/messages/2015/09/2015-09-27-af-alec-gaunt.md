@@ -17,7 +17,7 @@ primary_subjects: "Perseverance & Steadfastness"
 secondary_subjects:
   - "Spirit Guides & Angels"
   - "Walking the Divine Path"
-  - "World Service & God's Plan"
+  - "Divine Plan & Timing"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -39,7 +39,7 @@ excerpt: >
   Your friend Alec is ever with you, encouraging, guiding, influencing, and working behind the scenes, helping in this great orchestra of the dance of the souls.
 door: >
   You cannot see the work being done behind the scenes. But it is being done.
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 Alec here, wishing to say a few words of encouragement. You are all walking the Path and heading in the directions that are intended, and keeping close to you the Truth of God's Love. Do not doubt this, but continue to be sure of your steps and confirm within you what is the right direction, for God will indeed help you to see that you are heading in the direction intended, towards Light, towards the Truth, towards service, growth, Love.

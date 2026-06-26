@@ -17,12 +17,12 @@ description: >
   waiting passively for prayer to do all the work. He calls the group to
   actively discipline their mental patterns, release judgment, and take
   responsibility for aligning their thoughts and expressions with love.
-primary_subjects: "Mind, Soul & Their Relationship"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Spiritual Discipline & Daily Living"
-  - "Judgment, Acceptance & Unconditional Love"
+  - "Releasing Judgment"
   - "Service, Ministry & Being a Channel of Love"
-  - "Soul Awakening & Spiritual Growth"
+  - "Soul Awakening"
 people: []
 spirits: []
 keywords: ["mind", "soul", "judgment", "discipline", "alignment", "channel of love", "light", "transformation", "direct voice"]
@@ -56,7 +56,7 @@ door: >
 collections:
   - "Mind & Soul"
   - "Letters from History"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 I am Yogananda. I promise I would come and I am here. And I have been with you for the morning and I find you all quite amusing, how so much of your conversation is so mundane and yet you carry such a bright soul. Yes, this is the way of your world. The mind continues to play out those issues and ideas that are not relevant to a mature soul. Yet, with this gift of Divine Love, your souls grow and mature and are resplendant in wisdom and love. I find this rather ironic but it is as it is. It is how you are in the world my dear brothers and how all who live in your world continue to sustain the illusions, the incomplete understandings, the desires and the ideas of the material plane.

@@ -13,12 +13,12 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine confirms that praying for Portals of Light across the world is a specific and crucial aspect of this group's purpose, describing these portals as mechanisms through which God channels healing and love to many. He reassures those concerned about material resources that as their souls grow and their work deepens, every practical need will be provided for, and that many beautiful souls of like mind will be drawn to them through the Law of Attraction.
-primary_subjects: "World Service & God's Plan"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
   - "Prayer & Devotion"
   - "Faith & Trust"
   - "Circle of Light & Prayer Circles"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Law of Attraction"
 people: []
 spirits: []
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   Pray for the Portals of Light. Travel to them. God will provide everything else.
 collections: ["Service & Mission"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 God bless you, it is your teacher Augustine. It is good that you pray for these Portals of Light, beloved souls. Just as the dear soul (M) has been guided to pray, so we guide you and whoever is willing to pray for the empowerment of these portals, to bring light to this world. These mechanisms of light, channels from God to bring healing and love and blessings to many are important. They are crucial in these vast plans to heal your world and all within it. And so, when you have an opportunity to be present in a place where one of these portals exist, it is important that you focus your prayers for the highest, to seek to be an instrument that sustains these places.

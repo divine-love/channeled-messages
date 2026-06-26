@@ -18,12 +18,12 @@ description: >
   dampened by the human condition. He reminds them that God's Living Waters
   of Love fuel this flame and that each carries a unique and powerful gift
   for the world.
-primary_subjects: "Soul Awakening & Spiritual Growth"
+primary_subjects: "Soul Awakening"
 secondary_subjects:
-  - "Faith, Trust & Surrender"
-  - "Spiritual Courage & Perseverance"
+  - "Faith & Trust"
+  - "Perseverance & Steadfastness"
   - "Service, Ministry & Being a Channel of Love"
-  - "Mind, Soul & Their Relationship"
+  - "Mind vs Soul Conflict"
 people: []
 spirits: []
 keywords: ["flame of truth", "doubt", "faith", "living waters", "gifts", "men", "responsibility", "soul"]
@@ -52,7 +52,7 @@ door: >
   You carry a flame in your soul that God has been stoking for years; doubt
   is the only water that can put it out.
 collections: []
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 I am Confucius, and I carry the burden of the men [laughter].

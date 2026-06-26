@@ -16,11 +16,11 @@ description: >
   Retreat gathering — Confucius, Mary, John the Beloved, Peter, Goldie, and
   Jesus — each offering their love, support, and encouragement to carry the
   truth of Divine Love boldly into the world.
-primary_subjects: "Angels, Spirit Guides & Celestial Helpers"
+primary_subjects: "Spirit Guides & Angels"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Spiritual Friendship & Fellowship"
-  - "Joy & Spiritual Happiness"
+  - "Spiritual Community & Fellowship"
+  - "Beauty & Spiritual Joy"
   - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: ["mary", "john-the-beloved", "peter", "goldie", "jesus"]
@@ -51,7 +51,7 @@ door: >
 collections:
   - "The Saints & Apostles Speak"
   - "Jesus Speaks"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 I am Confucius, I bring my Love. Precious, precious souls. Continue to walk together and many will walk with you….. many, many await you upon the Path. God bless you.

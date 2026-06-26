@@ -19,9 +19,9 @@ description: >
   that God does the work of touching souls.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
-  - "Truth & Spiritual Knowledge"
-  - "Spiritual Courage & Perseverance"
-  - "Soul Awakening & Spiritual Growth"
+  - "Discernment & Truth-Seeking"
+  - "Perseverance & Steadfastness"
+  - "Soul Awakening"
   - "Humanity's Spiritual Condition & Awakening"
 people: []
 spirits: []
@@ -54,7 +54,7 @@ door: >
   and let God do the rest.
 collections:
   - "Service & Mission"
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 God bless you my friends, my name is Michael and I am guiding the two dear souls whom you will meet. I am an inhabitant of the Celestial Kingdom, another angel amongst many who work with you all on earth. You have been invited in earnest to speak to those dear souls who will gather and be a part of your Circle of Light. We are busy arranging and urging others to come to be a part of this circle and we are very pleased that you have taken up this call.

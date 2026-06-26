@@ -21,9 +21,9 @@ description: >
 primary_subjects: "Soul Awakening & Development"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Soul Mind versus Material Mind"
-  - "Healing Path & Soul Expiation"
-  - "At-onement with God"
+  - "Mind vs Soul Conflict"
+  - "Cleansing & Expiation"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["soul awakening", "Divine Love", "accumulation", "drop by drop", "cleansing", "soul conditions", "material mind", "harmonization", "soul voice", "yearning", "prayer", "grace", "union with God", "soul gifts", "earthbound spirits"]
@@ -54,7 +54,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You see with the eyes of your soul-love, you speak with the words of your soul-love, you touch with the gentleness of your soul in love
-last_edited: 2026-04-30
+last_edited: 2026-06-26
 ---
 
 My beloved students, I am Augustine. I wish to talk about the awakening soul. By receiving the great gift of Divine Love upon your souls the condition of your soul changes, a cleansing happens. Those conditions that once enveloped and were stuck upon your soul begin to dislodge and lift off. This then, this space in the soul is replaced by the Love of God and remains forever more. As one continues to come to prayer yearning at a soul level, offering a heartfelt invitation for this extraordinary healing gift of God's Love to enter into their souls, an accumulation happens. With this accumulation, drop by drop, the soul begins to awaken.

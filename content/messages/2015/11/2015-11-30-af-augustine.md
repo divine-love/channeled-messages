@@ -13,12 +13,12 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine urges each soul to ask God to reveal the unique purpose He placed within them, teaching that this discovery brings the deepest joy and a life that falls into harmony. He reassures those who feel fear about what that purpose might require, promising that walking in God's Will brings not devastation but peace, strength, and a love beyond what the mind can currently imagine.
-primary_subjects: "Soul Gifts & Purpose"
+primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Overcoming Fear & Doubt"
   - "Soul Awakening"
-  - "At-onement with God"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["purpose", "unique gifts", "legacy", "soul discovery", "fear", "joy", "at-onement", "God's Will", "holy communion", "salvation of mankind"]
@@ -45,7 +45,7 @@ excerpt: >
 door: >
   God placed your purpose within you before you were born. It is still there, waiting.
 collections: ["Prism of the Soul"]
-last_edited: 2026-06-25
+last_edited: 2026-06-26
 ---
 
 God bless you, your teacher Augustine is with you in your morning prayers in your small gathering of Love.

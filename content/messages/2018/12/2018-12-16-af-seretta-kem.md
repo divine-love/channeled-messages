@@ -13,12 +13,12 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Seretta Kem affirms that the growing online prayer circle is making a real impact on the conditions of the world, actively building the Lattice of Light through the love bonds and prayers of its participants. He encourages the group to consciously include the Lattice of Light in their prayers, asking to be part of its construction, and assures them that the interlacing light connecting each soul will strengthen their gifts and sustain them through the difficult times ahead.
-primary_subjects: "Lattice of Light"
+primary_subjects: "Lattice of Light & Global Prayer Network"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
   - "Prayer & Devotion"
-  - "World Service & God's Plan"
-  - "Soul Gifts & Purpose"
+  - "Divine Plan & Timing"
+  - "Unique Soul Gifts"
 people: []
 spirits: ["confucius"]
 keywords: ["lattice of light", "online circle", "prayer", "love bonds", "net of love", "world conditions", "preparation", "strength", "interlacing light", "construction"]
@@ -45,7 +45,7 @@ excerpt: >
 door: >
   Every prayer you send into this online circle is a thread. Together they will encircle the world.
 collections: ["Healing Path"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I am Seretta Kem and I wish to tell you that your efforts here are having an impact upon the conditions of your world. For as you continue to pray together in this way and your prayer sessions grow in numbers and strength, you are helping to build the Lattice of Light in the world. This Lattice of Light built upon the love bonds and prayers that you continue to express is important. It will help to bring many blessings to souls that you do not know of but are indeed receptive to these ministrations and flows of energies and love.

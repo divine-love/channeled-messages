@@ -18,7 +18,7 @@ secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Soul Awakening"
   - "Natural Love Path vs Divine Love Path"
-  - "Eternal Progression"
+  - "Soul Spheres & Progression"
 people: []
 spirits: []
 keywords: ["wisdom", "intellect", "soul knowledge", "truth", "soul faculties", "redemption", "rebirth", "Celestial Angel", "creation", "discovery"]
@@ -43,7 +43,7 @@ excerpt: >
 door: >
   The wisest man who ever lived has come to tell you his wisdom was wrong.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 I was known as Solomon the wise and I have come to speak to you about wisdom.

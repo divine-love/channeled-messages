@@ -21,8 +21,8 @@ description: >
   with, as the science of the soul exceeds even the greatest science of the mind.
 primary_subjects: "Discernment & Truth-Seeking"
 secondary_subjects:
-  - "Soul Mind versus Material Mind"
-  - "Sharing the Truth of Divine Love"
+  - "Mind vs Soul Conflict"
+  - "Teaching & Sharing the Message"
   - "Preparation for Earth Mission"
   - "Religious Error & Reformation"
 people: []
@@ -59,7 +59,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You are the innovators, beloveds, even though this truth is ancient. You are bringing to these scientifically-inclined individuals a greater science, the science of the soul
-last_edited: 2026-05-01
+last_edited: 2026-06-26
 ---
 
 You have observed these many souls, gifted as they are, with their perspectives and understandings of the spirit world. It is interesting to note that much of their perspective comes from the mind and that they see things, their reality, their perception of truth, from the mind and the minds of those spirits who are with them. In this way, they present a powerful filter of truth. These mental perspectives allow them a measure of truth and understanding, but cannot fathom the deeper truths of God. They are not capable. For the mind is limited, though their words indicate that it is unlimited. From your earthly perspective, it may seem as such. But in truth, the mind's capacity to understand truth can only go so far. Even that of the spirit mind can only go so far. It is the soul that must be engaged, awakened, imbued with the Father's Love. In this way, there is no limit to understanding, to experiencing the truth of God's creation.

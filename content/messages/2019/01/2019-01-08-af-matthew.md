@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Matthew addresses an online Circle of Light, affirming that their internet connections are being used by spirit to build the Lattice of Light among souls across the world. He encourages them to trust their souls over their minds, to pray through confusion and tension, and assures them that as God's Love reconciles the duality between mind and soul, each person's unique role in the coming year will become clear.
-primary_subjects: "Lattice of Light"
+primary_subjects: "Lattice of Light & Global Prayer Network"
 secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Faith & Trust"
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   The internet can be a thread in the Lattice of Light. Your online prayers are already having their effect.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I am Matthew. It is good to see that you are reaching out to one another, seeking connection and coming to build the love bond that is so important, that has its own power and ability to intersperse the light amongst you in this great network and net of light that is being built in your world. Yes, we utilise these machines (internet) and ways of communicating in order to build this great network amongst you and amongst many. It is important that you continue to feed this bond of love, to think of one another, pray for one another and allow the light to flow amongst you so that you will strengthen this Lattice of Light in the world.

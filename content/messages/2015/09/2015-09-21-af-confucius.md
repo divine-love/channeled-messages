@@ -18,12 +18,12 @@ description: >
   continue seeking Truth through prayer, reading inspiring passages, and
   walking in the flow of God's Love, assuring them that this pursuit
   brings all they require.
-primary_subjects: "Soul Awakening & Spiritual Growth"
+primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Truth & Spiritual Knowledge"
-  - "Spiritual Gifts & Mediumship"
-  - "Spiritual Comfort & Encouragement"
+  - "Discernment & Truth-Seeking"
+  - "Mediumship & Developing as an Instrument"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["truth", "curiosity", "healing gift", "seeking", "questions", "angels", "Light", "channel of love"]
@@ -51,7 +51,7 @@ door: >
   Every question your soul asks is already drawing the angels closer;
   keep asking and God will keep opening doors.
 collections: []
-last_edited: 2026-06-17
+last_edited: 2026-06-26
 ---
 
 ...beautiful circle, my beloved, beautiful soul. Feel the Love here, my beloved. Know that God will guide you further and that spark that you feel deep within you shall grow to a mighty flame, my daughter, a mighty flame. Come to know God and His Love for you, my beloved, and this shall open the doors to greater life and deeper purpose in this world. Beloved daughter, God is with you and touches your soul and brings His Love to you, bringing great Light. You are beautiful and truly loved, precious soul, truly loved. And your deep curiosity, my daughter, springs from your soul. Beloved [name-removed], continue to question and to pray and to seek your answers, for God does not hold back the Truth. He opens doors for you to understand the Truth of His creation, the intricacies of life, the power of His Love. It comes as you yearn from your soul and it comes as you forge your bond with your Creator in Love, in Love, always in Love, beloved soul, God bless you. I am Confucius and I guide you, beloved soul, upon your Path, God bless you. Yes, the Gift of healing, continue in this way and I will support you in your healing Gift, beloved soul. God bless you.

@@ -16,9 +16,9 @@ description: >
 primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Mind vs Soul Conflict"
-  - "God's Will & Surrender"
+  - "Surrender to God's Will"
   - "Perseverance & Steadfastness"
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
 people: []
 spirits: []
 keywords: ["awakening", "soul mind", "inner peace", "knowing", "doubt", "serenity", "dawning", "blossoming", "shackles", "soul ascendency"]
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   The flower has been budding for so long. Now it is beginning to bloom.
 collections: ["Letters from History", "Mind & Soul"]
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 Beloved children, it is Confucius. I have been with the dear soul and the soul that is transitioning into spirit and healing has been given to all those present. Something new is coming for you, my children, and I know that you feel this within your hearts, a newness, an opening, a coming to a new place of understanding within you where the mind will no longer doubt but be open to God's Touch and guidance and acceptance and love for yourselves and for all those around you, a deep inner peace and a knowing that comes from your souls, bringing you a calmness within. And rather than being nervous about each step you take, you will glide along your path in serenity, deep peace and a strength that shall not detract you from your purpose. This is a Gift that God has given you, my beloveds, for the time fast approaches when you will need this strength, this inner peace, this knowing and this Love to accomplish what must be done in this world, to be in the flow of God's Will.

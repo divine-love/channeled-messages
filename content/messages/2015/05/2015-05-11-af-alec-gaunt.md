@@ -23,7 +23,7 @@ secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
   - "Spiritual Community & Fellowship"
   - "Law of Activation"
-  - "Shared Purpose"
+  - "Supporting One Another"
 people: []
 spirits: []
 keywords: ["network of light", "Lattice of Light", "global prayer", "God's plan", "salvation of mankind", "loyalty", "prayer", "angels", "protection", "soul growth", "incremental growth", "gifts", "faculties", "channel of love", "timing"]
@@ -53,7 +53,7 @@ excerpt: >
 collections: []
 door: >
   As one steps forward, you all step forward
-last_edited: 2026-04-30
+last_edited: 2026-06-26
 ---
 
 I am so happy to see you all here, my friends, my family and each precious soul who comes to pray for the Divine Love. And so many of you have been loyal and consistent and I have been with you so very, very often as you have faced life's challenges, as you have gone upon your individual roads seeking truth and seeking your Heavenly Father receiving God's Love within your souls. And you have grown, all of you, in whatever space of time you have taken upon this road, the love has changed you, has influenced your thinking, and your choices, and the road that you have taken. And we in spirit come to assist you and we are with you often as you face whatever lies upon your path, and we pray for you and help to bring Light to surround you and protection to guard you against the negative forces in this world.

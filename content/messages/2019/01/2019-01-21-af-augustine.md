@@ -17,9 +17,9 @@ primary_subjects: "Natural Love Path vs Divine Love Path"
 secondary_subjects:
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
-  - "Free Will & Choice"
-  - "World Service & God's Plan"
-  - "At-onement with God"
+  - "Law of Free Will"
+  - "Divine Plan & Timing"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["natural love path", "Divine Love path", "two paths", "soul awakening", "free will", "human condition", "transformation", "birthright", "at-onement", "living waters"]
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   Two roads. One leads to the perfection of the mind. The other leads to God.
 collections: ["Two Paths"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 God bless you, I am your teacher Augustine. God's mantle of peace has descended upon you, beloveds. Like the wings of doves spreading out, enveloping you in Light, so you are uplifted and blessed with the Grace of God upon you. The great peace that passes all understanding is with you, beloved souls. When you sense this presence of peace, know that God is near and that you are indeed enveloped in the Light of God's Presence. In this beautiful Light, open your souls, open your souls, beloveds, and drink deep of these living waters, for the Holy Spirit comes to convey God's Love and awaits your thirst for this blessing.

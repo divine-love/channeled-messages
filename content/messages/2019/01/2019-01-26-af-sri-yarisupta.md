@@ -13,12 +13,12 @@ gathering:
 message_type: ["Teaching"]
 description: >
   Sri Yarisupta answers a question about healing energies, teaching that the universe contains a vast rainbow of healing gifts and that attempting to define, narrow, or ritualise them limits what God can bring through an open channel. He affirms that every soul has some degree of healing gift, and that receiving the Divine Love widens and deepens all healing capacities beyond what the mind can currently imagine.
-primary_subjects: "God's Healing Power"
+primary_subjects: "Healing Through Prayer"
 secondary_subjects:
-  - "Soul Gifts & Purpose"
+  - "Unique Soul Gifts"
   - "Receiving the Divine Love through Prayer"
   - "Service, Ministry & Being a Channel of Love"
-  - "Divine Healing"
+  - "Divine Love Healing"
 people: []
 spirits: []
 keywords: ["healing", "healing energies", "channel of healing", "Divine Love healing", "colours", "open channel", "soul gifts", "alignment", "rainbow of blessings", "healing arts"]
@@ -46,7 +46,7 @@ excerpt: >
 door: >
   Stop defining it. Open the channel. Let God bring whatever colour of healing the soul before you needs.
 collections: ["Healing Path"]
-last_edited: 2026-05-27
+last_edited: 2026-06-26
 ---
 
 May the light shine upon each of you and upon your world. I am Sri Yarisupta and I've come to answer your question beloved daughter. There are many healing energies in the universe and every physical object in the universe has a light an energy about it. That light of the earth and all that emanates from this earth is the healing force that you refer to in your healing practice. This one energy, this one gift from God is one of many many. You are well aware of the colors and feelings that come from God's gift of healing as you pray to be used as a channel of healing for another. It is best to be open and receptive to whatever God intends to give in this exchange. To narrow your focus upon one thing, one practice, one element, one color may be helpful but is not necessary.

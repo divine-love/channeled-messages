@@ -20,7 +20,7 @@ description: >
 primary_subjects: "Divine Love & Relationship with God"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "God's Healing Power"
+  - "Healing Through Prayer"
   - "Prayer & Devotion"
   - "Service, Ministry & Being a Channel of Love"
 people: []
@@ -56,7 +56,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   One blessing cannot be passed from person to person. It must come directly from God.
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 I am Seretta Kem and I am an inhabitant of the Celestial Kingdom where we are close to God and know His Love well. We know His Love and we have our lives within His Love, and our souls ever expand and grow in His Love. And I see amongst this Circle of Light those who use the healing of the Earth, the energies of this Earth, which is often called the magnetic forces of healing, to help others. And I see many of you do various exercises within your bodies to increase the energy flows of your body and your spirit, and yes, there are many elements of energy, many different types of energy that can be utilized for your well-being. And great blessings from God and His healing can be given through your desires and prayers for another and for yourselves.

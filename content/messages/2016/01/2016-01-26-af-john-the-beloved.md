@@ -20,7 +20,7 @@ description: >
   purpose brings the deepest joy any soul can know.
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
-  - "Discerning & Following God's Will"
+  - "Divine Will, Guidance & Orchestration"
   - "Unique Soul Gifts"
   - "Surrender to God's Will"
   - "Spirit Guides & Angels"
@@ -50,7 +50,7 @@ collections: ["Service & Mission"]
 essential_teachings: []
 notes: >
   John the Beloved names Jesus as leading the way. Not publicly posted online.
-last_edited: 2026-06-13
+last_edited: 2026-06-26
 ---
 
 God bless you, I am John, known as John the Beloved.

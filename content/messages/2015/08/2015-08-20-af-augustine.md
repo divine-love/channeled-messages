@@ -19,10 +19,10 @@ description: >
   inflowing of the Father's Love.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Angels, Spirit Guides & Celestial Helpers"
+  - "Spirit Guides & Angels"
   - "Circle of Light & Prayer Circles"
-  - "God's Love, Care & Provision"
-  - "Spiritual Comfort & Encouragement"
+  - "God's Mercy & Unconditional Love"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["gift", "prayer", "sleep", "night", "angels", "communion", "deep prayer", "abundance", "tomorrow"]
@@ -48,7 +48,7 @@ door: >
   God has given you a gift tonight that will work while you sleep; come
   to prayer tomorrow ready to receive what He has prepared.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-20
+last_edited: 2026-06-26
 ---
 
 It is your teacher Augustine. You have each received the Gift of the Father's Love within your souls and you have each received a Gift that you will take with you that will enhance your experience upon the morrow in your prayers. It will bring you some help and support for you to reach a deeper place within your souls. And we wish for you to go to your beds in peace and to feel the joy of your Father's Love for you. As you sleep in your beds, this Gift will work its blessing upon you. Come together tomorrow with deep expectations of the blessing of the Father's Love in great abundance. For if you indeed allow this Gift to work its blessing you will all be lifted very high beyond these conditions of the world, beyond the conditions within you to a place of deep communion and Love.

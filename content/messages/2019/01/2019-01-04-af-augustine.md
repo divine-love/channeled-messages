@@ -13,10 +13,10 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine addresses a group making a commitment to nurture a small church as a Centre of Light, revealing that beneath its humble surface something tremendous is germinating. He teaches that this place of light will become a shelter for many during the great changes ahead, and that this small step of commitment will ignite a chain of doors, gifts, and outreach that will spread around the world in ways none present can yet imagine.
-primary_subjects: "World Service & God's Plan"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Future of Humanity"
+  - "Redemption of Humanity"
   - "Perseverance & Steadfastness"
   - "Faith & Trust"
   - "Law of Free Will"
@@ -47,7 +47,7 @@ excerpt: >
 door: >
   A small church. Humble participants. And beneath it, something tremendous already germinating.
 collections: ["Service & Mission", "Awakening Humanity"]
-last_edited: 2026-05-26
+last_edited: 2026-06-26
 ---
 
 I am your teacher Augustine. The pace of change in your world is quickening, beloved souls and the pace of change within your own lives is following suit, quickening as well. Many blessings are coming to you, each one of you, in order to bolster your efforts to serve humanity and to adjust to the coming times, the shifts and changes that are manifesting in your world.

@@ -16,8 +16,8 @@ description: >
 primary_subjects: "Perseverance & Steadfastness"
 secondary_subjects:
   - "Faith & Trust"
-  - "God's Will & Surrender"
-  - "World Service & God's Plan"
+  - "Surrender to God's Will"
+  - "Divine Plan & Timing"
   - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
@@ -43,7 +43,7 @@ excerpt: >
   It is often a difficult task and may take circuitous routes but God's Will will prevail, it will prevail, my beloveds, as long as you are willing to walk this road and to be steadfast in the Truth.
 door: >
   God's Will cannot be thwarted. Keep going.
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 Dear God, may you bless these earnest souls who come together from far and wide that have Your Love burning within their souls and desire to be Your channels of Love in this world. Bless them, keep them under Your cloak of protection with Your Loving Hand upon each beautiful soul in this circle and may Your Peace that passes all understanding be with them as they traverse this world, as they deal with the conditions in this world and help them to shed all that which is not in harmony with Your Love.

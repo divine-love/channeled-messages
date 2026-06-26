@@ -15,8 +15,8 @@ description: >
   Augustine responds to a request for guidance on establishing Centres of Light, teaching that resistance and complexity are signs to wait and pray rather than force, and that negative forces will always attempt to oppose where Light is being planted. He urges patience, love, and persistent prayer as the tools that will ultimately clear every obstacle and bring God's Will to fruition.
 primary_subjects: "Perseverance & Steadfastness"
 secondary_subjects:
-  - "God's Will & Surrender"
-  - "Spiritual Warfare & Dark Forces"
+  - "Surrender to God's Will"
+  - "Spiritual Warfare & Opposition"
   - "Circle of Light & Prayer Circles"
   - "Faith & Trust"
 people: []
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   When the door stays shut, pray harder. God's Will cannot ultimately be blocked.
 collections: ["Service & Mission"]
-last_edited: 2026-05-25
+last_edited: 2026-06-26
 ---
 
 My students, I am Augustine, your teacher. You have asked for guidance regarding creating Centres of Light in the world. It is important to note that the doors will open to each of these places in harmony and when you find resistance, when it is difficult and convoluted and complex you must wait, continue to pray and to put your good intentions towards these efforts and do what is required to continue your connection and your Light within that place. And yes, there will be resistance to many of these efforts, for the negative forces of this world are continually trying to put out the Light and where there is fear and resistance there is an opening for this negativity, and you must persevere my students. Continue in your prayers, express your truth but above all, be loving and respectful and sensitive. For who can fight and oppose those who are loving and those who are strong in their Love and those who are willing to lay down their fears and their anger and take up the torch of Truth and Love?

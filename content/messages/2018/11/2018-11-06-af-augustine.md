@@ -17,12 +17,12 @@ description: >
   their awakened souls. He addresses the habits of judgment, personal offence,
   and the desire to control others, calling each soul to the discipline of
   walking in love with every breath.
-primary_subjects: "Mind, Soul & Their Relationship"
+primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
-  - "Judgment, Acceptance & Unconditional Love"
+  - "Releasing Judgment"
   - "Spiritual Discipline & Daily Living"
-  - "Soul Awakening & Spiritual Growth"
-  - "Emotional Healing & Inner Peace"
+  - "Soul Awakening"
+  - "Soul Healing & Emotional Restoration"
 people: []
 spirits: []
 keywords: ["mind and soul", "judgment", "acceptance", "unconditional love", "discipline", "harmony", "taking things personally", "channel of love"]
@@ -52,7 +52,7 @@ door: >
 collections:
   - "Mind & Soul"
   - "The Saints & Apostles Speak"
-last_edited: 2026-05-19
+last_edited: 2026-06-26
 ---
 
 I am Augustine. You pray my beloveds to accept and appreciate the differences of those around you, to walk humbly in the world and yet often instead you take umbrage with these differences and take personally criticisms and perspectives that are not in harmony with your own. How are you to be an example of the Father's blessed Love if you are in a state of judgment, if you cannot accept with humility and unconditional love the differences of another? As long as you seek the acceptance of another, which from the other side of this coin you seek to have others behave in the acceptable manner of your perspective, then you will not truly forge bonds of love and acceptance amongst you. Give each person their time and place in the world, expressing who they are from that place, their own perspectives, their own view of the world. Do so by honouring them, not that which is of error and clearly of error, but to see that each is upon a path of learning, understanding, healing, and bringing greater love into their beings. Do your angel friends judge you my beloveds? For we see everything, even those thoughts you do not share. They are very transparent to us.
