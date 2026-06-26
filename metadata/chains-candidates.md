@@ -267,6 +267,13 @@ more reliable.
 - `mind-vs-soul` **[Elaboration]** — States the hierarchy directly as a truth to be taught: "You must teach that the Truth of the soul is greater than the truth of the mind, that the power of Love is greater than the power of the will of humanity," and frames transformation as the soul finding "predominance over your minds." Adds the teaching-imperative dimension - the mind/soul distinction as something the seeker must actively convey to others.
 - NOTE (holding-pen candidate, `two-currents-cosmology`): opens with a distinct macro framing - "two powerful currents in this world, one that flows towards darkness and one that flows towards light," with darkness presently the stronger, fuelled by greed and the misplaced search for safety in material things, and the seekers carrying "a powerful antidote to the darkness." Related to but distinct from `earth-conditions-and-prayer` (which is the darkness-field buffeting the individual soul); this is the macro contest of currents and the collective movement that overcomes it. Watch for other two-currents / light-overcoming-darkness statements (cf. the Jesus 2018-05-28 "association of souls coalescing to push back darkness" and Seretta Kem 2018-10-24 "nodes of darkness surrounded and neutralized") and mint if the framing recurs with development.
 
+### 2019-02-05-af-keea-atta-kem — Feeling the Love — 2019-02-05
+- `divine-love-without-knowing` **[Elaboration]** — Adds the felt-experience dimension to the thread the Augustine Foundation (2019-01-31) frames in terms of understanding: one may receive the gift without consciously *feeling* it, not only without comprehending it. "For those who do not feel the inflowing of the Divine Love within their souls, this does not mean that they are not receiving this Love, for indeed they are." Names the mechanism - the soul's sincere yearning brings the Holy Spirit's response, "the law in action, the Law of Love" - and promises that those who cannot yet feel it will in time be given "some powerful experience, some form of awakening" that confirms the Truth. Distinct contribution: shifts the thread from "received without knowing" to "received without feeling," and supplies the reassurance pastorally.
+- `mind-vs-soul` **[Elaboration]** — Years of living through "the faculties of your material mind" dull sensitivity to a gift that is known "in a way of knowing that goes beyond the mind"; the soul receives regardless of the mind's recognition. Companion to the Augustine 2019-01-31 mind-soul note.
+
+### 2019-02-06-af-francis — Your Prayers May Change the Conditions of the World — 2019-02-06
+- NOTE (holding-pen candidate, `prayer-changes-world-conditions`): central claim is intercessory - "Prayer is powerful... Prayer can change conditions. Prayer can change the behavior of those who violate and are in ignorance and error," so that "the minds of those in darkness may be changed" and "blessings will pour upon this world." Distinct from `prayer-soul-longing` (the nature of true prayer) and from `earth-conditions-and-prayer` (prayer defending the individual soul against the world's darkness-field): this is prayer reaching outward to change the world and other people. Strong statement of the argument but mostly asserts rather than develops it. Co-witnesses seeded in the holding pen.
+
 ---
 
 ### 2016-01-08-af-jesus — Encouragement from Jesus — 2015-01-08 [not publicly posted]
@@ -432,6 +439,26 @@ message gives them an argument to trace.
   light-overcoming-darkness framing recurs with genuine development rather than
   restatement. Overlaps `bell-toll-instrumentality` (the spreading mechanism)
   but is framed at the level of world-cosmology, not the individual instrument.
+- `prayer-changes-world-conditions` — the intercessory teaching that prayer
+  reaches outward to change the conditions of the world and even the behaviour
+  of those living in ignorance and error, softening hardened hearts and pouring
+  blessings on people and places the pray-er cannot reach directly. Distinct
+  from `prayer-soul-longing` (what true prayer essentially is) and from
+  `earth-conditions-and-prayer` (prayer defending the individual soul against
+  the world's darkness-field): this thread is prayer as an outward force for
+  change in the world and in other souls. Sightings: 2019-02-06-af-francis
+  ("Prayer can change conditions. Prayer can change the behavior of those who
+  violate and are in ignorance and error"); 2015-11-28-af-faith-nyquist (sincere
+  prayer "brings a change in the world, a change into the conditions of this
+  world and into the world of spirit" - currently logged as the prayer-soul-longing
+  Foundation, but it also carries this distinct world-changing claim);
+  2018-11-29-af-abdullah-latif ("Prayer is powerful. Prayer can bring change.
+  Prayer can bring solutions. Prayer can heal"); 2015-12-21-af-peter ("just because
+  you reside in one part of your planet does not mean that through your collective
+  efforts you may not influence the conditions in anyplace in this world"). Mint
+  when a message develops the mechanism (how intercessory prayer acts on another
+  soul or condition) rather than asserting the power. Search-level home meanwhile:
+  subject "Prayer & Devotion."
 
 ---
 

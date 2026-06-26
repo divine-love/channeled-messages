@@ -33,7 +33,8 @@ questions:
   - "What does it mean to pray with wisdom rather than just good intentions?"
   - "Why must I first change within myself before my prayers can truly benefit others?"
   - "How does Divine Love transform the quality and power of my prayer?"
-related_messages: []
+related_messages:
+  - 2019-02-06-af-francis
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-power-of-prayer/"
 notes: >
@@ -45,7 +46,7 @@ excerpt: >
 door: >
   You cannot change the world from outside what you have not yet changed within.
 collections: ["Letters from History"]
-last_edited: 2026-05-26
+last_edited: 2026-06-25
 ---
 
 I am Abdullah and I am an inhabitant of the Celestial Kingdom and I once lived in that part of the world from which you come beloved daughter. I wish to tell you that God is everywhere. His blessings are available to every soul who seeks these blessings, but God cannot contravene the gift of free will and thus you cannot expect God to orchestrate every part of your life and the lives of those around you, nor the lives of those in various countries of your world. This cannot happen. This contravenes the laws that God has set into motion from the very beginning of time. But you may ask for intervention and you may pray that blessings may come to those you pray for and this can change the events of the world.

@@ -31,7 +31,8 @@ questions:
   - "How does God's Love heal me as I receive it through prayer?"
   - "What does the Bible mean when it says God's Love casts out all fear?"
   - "Is there really enough of God's Love for every soul equally?"
-related_messages: []
+related_messages:
+  - 2019-02-06-af-francis
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -42,7 +43,7 @@ excerpt: >
 door: >
   No explanation needed. Just longing. Just prayer. Just an ocean of Love waiting for you.
 collections: []
-last_edited: 2026-05-25
+last_edited: 2026-06-25
 ---
 
 Friends, I am Faith and I am so happy to see so many beautiful souls gathered in one place in prayer, to see the Light that is generated from your prayers and your longings from the soul. It reaches far into the world of spirit, it reaches far into your world. To have this singleness of purpose, this great longing to bring God's Love and all its power and glory into yourselves in this way brings a change in the world, a change into the conditions of this world and into the world of spirit. It is a powerful thing which has many blessings and benefits not only to you, my beloveds, but to this world and all those connected to you and all those in this world. So much can be accomplished through prayer, through reaching your Heavenly Father, through beseeching your Heavenly Father to receive His essence within your souls.

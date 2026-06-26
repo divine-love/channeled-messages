@@ -15,9 +15,9 @@ description: >
   Confucius brings a healing gift to the circle, a blessing to both the physical and the spiritual, that they may feel God's Touch and know the peace of His presence. He assures them they are given all they require to continue their spiritual progress, that God's Love flourishes within their souls, and that many angels attend to their needs and carry them through the conditions of this world in Light.
 primary_subjects: "Healing Through Prayer"
 secondary_subjects:
-  - "God's Love, Care & Provision"
-  - "Spiritual Comfort & Encouragement"
-  - "Angels, Spirit Guides & Celestial Helpers"
+  - "God's Mercy & Unconditional Love"
+  - "Reassurance & Strength"
+  - "Spirit Guides & Angels"
 people: []
 spirits: []
 keywords: ["healing", "blessing", "physical healing", "spiritual healing", "peace", "God's presence", "upliftment", "angels", "counsel of truth", "God's touch"]
