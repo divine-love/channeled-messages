@@ -32,7 +32,7 @@ questions:
   - "What does the Bible mean when it says God's Love casts out all fear?"
   - "Is there really enough of God's Love for every soul equally?"
 related_messages:
-  - 2019-02-06-af-francis
+  - 2019-02-06-af-francis-of-assisi
 audio_url: ""
 canonical_url: ""
 notes: ""

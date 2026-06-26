@@ -1,5 +1,5 @@
 ---
-message_id: 2019-02-06-af-francis
+message_id: 2019-02-06-af-francis-of-assisi
 title: "Your Prayers May Change the Conditions of the World"
 date: 2019-02-06
 spirit_name: Francis of Assisi

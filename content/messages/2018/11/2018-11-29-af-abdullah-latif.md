@@ -34,7 +34,7 @@ questions:
   - "Why must I first change within myself before my prayers can truly benefit others?"
   - "How does Divine Love transform the quality and power of my prayer?"
 related_messages:
-  - 2019-02-06-af-francis
+  - 2019-02-06-af-francis-of-assisi
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-power-of-prayer/"
 notes: >
