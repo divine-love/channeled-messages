@@ -201,6 +201,10 @@ more reliable.
 ### 2019-01-27-af-jesus — Jesus Incarnated as a Complete Soul and Has No Other Half or Soulmate — 2019-01-27
 - `who-jesus-was` **[Foundation]** — Jesus states he incarnated as a complete, singular soul by prior agreement with God, with no soulmate. Sets the premise the thread depends on.
 
+### 2019-01-29-af-augustine — Does Every Soul Have a Purpose? — 2019-01-29
+- `soul-purpose-emergence` **[Foundation]** — Augustine gives the thread its doctrinal root: every soul is entrusted by God with a unique purpose and the gifts to fulfil it, offered as an invitation that free will may or may not heed, so many never fulfil it. Crucially, the purpose is not grasped by the mind or revealed all at once - "you continue upon your path of life and are drawn and choose certain expressions... which essentially is a reflection of your gifts," the soul "naturally gravitating to that place when it is ready," drawn by "the gravity of delight within your soul." Anchors the emergence argument; pairs with the free-will premise of `free-will-and-gods-plan` without being reducible to it (this thread is about how the unique purpose surfaces, not whether free will and God's plan conflict). Core Teaching.
+- `free-will-and-gods-plan` **[Elaboration]** — Restates the free-will premise in the register of personal calling: the invitation is "deep and well-embedded" but "this does not mean that the soul will listen," and God "has seeded many souls with this invitation to fulfil their purpose" within the plan for the salvation of mankind. Confirms the thread rather than founding it.
+
 ### 2019-01-29-af-mary-magdalene — Mary Magdalene Is Not Jesus' Soulmate — 2019-01-29
 - `who-jesus-was` **[Objection-removed]** — Mary Magdalene directly confirms she was never his soulmate, wife, or lover, removing the most common popular counter-claim. Follows the Jesus message chronologically and logically.
 
@@ -251,6 +255,17 @@ more reliable.
 ### 2019-02-01-af-josephus — Faculties of the Soul — 2019-02-01
 - `soul-faculties` **[Foundation]** — Josephus catalogues the soul's faculties (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, higher love) and teaches that Divine Love opens the soul's chambers and refines each. Anchors the new `soul-faculties` thread.
 - `mind-vs-soul` **[Elaboration]** — Frames the dual consciousness (material mind vs. soul mind) and insists the soul's faculties must be experienced, not merely understood by the mind. Deepens the mind-vs-soul argument rather than founding or capping it.
+
+### 2019-02-01-af-confucius — Come Together Again With Your Questions — 2019-02-01
+- NOTE (portal watch): closes with "This portal opens wide. Many gifts are coming." The term is now in active, developed use - days after the Seretta Kem portals teaching (2019-01-26) that gives portals their technical meaning - in contrast to the loose 2016 sighting (2016-03-25-af-augustine). Otherwise a light message: mostly personal reassurance to the circle host and a call to gather again. Not a chain member; logged only as a portal-watch datapoint.
+
+### 2019-02-03-af-andrew — The Door of Truth Is Opened With God's Love — 2019-02-03
+- `soul-purpose-emergence` **[Elaboration]** — Companion to the Augustine Foundation (2019-01-29), restated days later: true self and true purpose come not as a sudden revelation "but comes with the slow awakening and expression of your soul within your lives until you find yourself walking upon a path that is truly in harmony with God's Will." Adds the framing of gifts "yearning to be awakened" for service and counsels "humility and patience" while the purpose surfaces. Confirms the emergence argument rather than advancing it.
+
+### 2019-02-04-af-jesus — The Light Must Overcome the Darkness — 2019-02-04
+- `bell-toll-instrumentality` **[Elaboration]** — The subtle-spreading mechanism in macro form: "God establishes beachheads of Light in a darkened world," and as the seeker empowers them, "these nodes of Light expand and grow. It is subtle... and it touches many, many more than you are aware of," for "God uses you more than you know." Same radiating instrumentality as the bell toll, scaled up to the collective contest against darkness. Strong witness; pairs with the John 2016-03-12 ripples and Augustine 2016-03-25 subtle-instrumentality entries.
+- `mind-vs-soul` **[Elaboration]** — States the hierarchy directly as a truth to be taught: "You must teach that the Truth of the soul is greater than the truth of the mind, that the power of Love is greater than the power of the will of humanity," and frames transformation as the soul finding "predominance over your minds." Adds the teaching-imperative dimension - the mind/soul distinction as something the seeker must actively convey to others.
+- NOTE (holding-pen candidate, `two-currents-cosmology`): opens with a distinct macro framing - "two powerful currents in this world, one that flows towards darkness and one that flows towards light," with darkness presently the stronger, fuelled by greed and the misplaced search for safety in material things, and the seekers carrying "a powerful antidote to the darkness." Related to but distinct from `earth-conditions-and-prayer` (which is the darkness-field buffeting the individual soul); this is the macro contest of currents and the collective movement that overcomes it. Watch for other two-currents / light-overcoming-darkness statements (cf. the Jesus 2018-05-28 "association of souls coalescing to push back darkness" and Seretta Kem 2018-10-24 "nodes of darkness surrounded and neutralized") and mint if the framing recurs with development.
 
 ---
 
@@ -385,6 +400,38 @@ message gives them an argument to trace.
   people miss it. Seen: 2016-03-14-af-mary (states it crisply but does not build
   the argument). Mint when a message genuinely develops the argument rather than
   asserting it. Search-level home meanwhile: subject "Purpose & Meaning of Life."
+- `soul-purpose-emergence` — distinct from `purpose-of-life` (life's general
+  meaning) and from `free-will-and-gods-plan` (whether free will and God's plan
+  conflict). This would be the specific teaching that each soul carries a unique,
+  God-bestowed purpose and set of gifts, and that one's true self and purpose are
+  not handed over in a single revelation but emerge slowly through the soul's
+  awakening, until one finds oneself already walking a path in harmony with God's
+  Will. Strongest statement so far: 2019-01-29-af-augustine ("it does not come as
+  a revelation... your soul naturally gravitating to that place when it is ready";
+  the gravity-toward-the-sea image). Companion sighting: 2019-02-03-af-andrew
+  ("it does not come as a revelation, but comes with the slow awakening and
+  expression of your soul... until you find yourself walking upon a path that is
+  truly in harmony with God's Will"). Augustine 2015-11-30 is an earlier witness
+  (unique gifts, God-bestowed purpose, the fear of how it changes one's life).
+  Mint when building, with the Augustine 2019-01-29 message as Foundation
+  (now logged in the per-message log above; companion sighting Andrew
+  2019-02-03; earlier witness Augustine 2015-11-30).
+- `two-currents-cosmology` — the macro framing of the world as a contest between
+  two currents or streams, one toward darkness and one toward light, with the
+  collective movement of awakened souls as the means by which Light overcomes
+  the darkness. Distinct from `earth-conditions-and-prayer` (the darkness-field
+  buffeting the individual soul, met by daily prayer): this thread is the
+  large-scale contest and the coalescing movement that wins it. Sightings:
+  2019-02-04-af-jesus ("two powerful currents... beachheads of Light... nodes
+  of Light expand and grow"; the seeker carries "a powerful antidote to the
+  darkness"); 2018-05-28-af-jesus ("association of souls... coalescing into a
+  beautiful movement that shall push back the darkness"); 2018-10-24-af-seretta-kem
+  ("nodes of deep darkness... surrounded and neutralized by your efforts");
+  2015-08-24-af-augustine (Love must prevail and spread to create Circles of
+  Light against the negative forces of the world). Mint if the two-currents /
+  light-overcoming-darkness framing recurs with genuine development rather than
+  restatement. Overlaps `bell-toll-instrumentality` (the spreading mechanism)
+  but is framed at the level of world-cosmology, not the individual instrument.
 
 ---
 

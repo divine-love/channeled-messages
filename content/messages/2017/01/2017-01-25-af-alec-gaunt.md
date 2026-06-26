@@ -39,6 +39,7 @@ related_messages:
   - 2015-05-27-af-alec-gaunt
   - 2015-09-30-af-alec-gaunt
   - 2016-04-27-af-alec-gaunt
+  - 2019-02-02-af-andrew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/building-a-foundation-of-spiritual-growth-and-development/"
 notes: >
@@ -54,7 +55,7 @@ excerpt: >
 collections: []
 door: >
   The greatest fulfillment your soul can experience is simply to be with God
-last_edited: 2026-04-23
+last_edited: 2026-06-25
 ---
 
 I am Alec and I have come to this church many times over the many years I have had an association here. I have come in the flesh. I have come in spirit. I have worked with many of you who are here. I come to serve God in love, in my desire to support you in your spiritual development. Beloved souls, do you not feel these living waters pouring over you, this blessing of God's Love, washing over you, through you, carrying you to another place in light? Beloved souls open yourselves to this blessing. Allow God to lift you up and bring you to that place of peace, and joy, comfort, healing and love. So many in your world do not know how to refresh themselves in this way, to reach out to God in prayer and supplication, in openness and humility, to seek this nourishment from the Creator, to carry this light wherever they go. Beloved souls this is available to each and every one of you and to each and everyone in this world if they but take the time and make their prayers be known to God and open themselves to that touch, that step in faith that says, "I am with you. I love you. Dear God be with me that I might feel your love. Be with me that your peace may rest as a mantle upon me. Be with me so that I know I am never alone, that you are with me always."

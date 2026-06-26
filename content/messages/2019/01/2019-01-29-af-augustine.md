@@ -33,7 +33,9 @@ questions:
   - "What does it mean that my purpose was given to me before I incarnated?"
   - "How do I know when I am getting closer to expressing my true purpose?"
   - "Is my purpose something I can figure out with my mind or does it reveal itself through the soul?"
-related_messages: []
+related_messages:
+  - 2015-11-30-af-augustine
+  - 2019-02-03-af-andrew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/does-every-soul-have-a-purpose/"
 notes: >
@@ -45,7 +47,7 @@ excerpt: >
 door: >
   Your purpose is not something you figure out. It is something already pulling you, like gravity toward the sea.
 collections: ["Prism of the Soul"]
-last_edited: 2026-05-28
+last_edited: 2026-06-25
 ---
 
 God bless you, it is your teacher Augustine. You have asked an important question, beloved daughter, and have done so with clear and beautiful words as is your gift. Yes, every soul has a purpose, something that God has entrusted that soul to accomplish in their earthly existence to bring greater light to this world. Thus, every soul has particular gifts and abilities and potentials that may be expressed in your world. Along with this invitation from God to express His beautiful creation that is a soul in and along a certain path, God also has imbued each soul with free will. So the invitation may be proffered and is within that soul deep and well-embedded. This does not mean that the soul will listen, that the individual may heed this call and walk a particular path that will lead to the expression of this gift and this invitation. So, many do not fulfil their purpose in your world. Yet, every soul is invited to do so by God, given the abilities and gifts to fulfil this purpose. In response to fulfilling what God has asked them to do in the world, there is a great joy and fulfillment within themselves. This gift ignites a true sense of self, a true sense of the possibilities and potential of the soul.

@@ -30,7 +30,8 @@ questions:
   - "How do spirit healers work with us?"
   - "Is physical healing available through prayer?"
   - "Are spirit guides with us even when we are not aware of them?"
-related_messages: []
+related_messages:
+  - 2019-02-03-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/lotus-blossom-message-from-oz/"
 notes: >
@@ -44,7 +45,7 @@ door: >
   The healing that begins in prayer does not stop when you sleep; spirits
   attend to you through the night.
 collections: []
-last_edited: 2026-05-20
+last_edited: 2026-06-25
 ---
 
 I will bring healing and the elements you require for your healing. Say your prayers as you bed down for the night and ask that the healing continues in your bodies and I will attend to you, one of many who will attend to your healing and health.

@@ -35,6 +35,7 @@ questions:
   - "Can a portal be temporarily established as well as permanently?"
 related_messages:
   - 2019-01-19-af-augustine
+  - 2019-02-01-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/establishing-portals/"
 notes: >
@@ -46,7 +47,7 @@ excerpt: >
 door: >
   You cannot build it. You can only pray for it. And Jesus has already laid the foundation.
 collections: ["Healing Path"]
-last_edited: 2026-05-27
+last_edited: 2026-06-25
 ---
 
 I am Seretta Kem and so we begin. First, I would like to discuss the importance of acknowledging and realizing the power of the Law of Communication and Rapport. You have been encouraged when one sits in a circle such as this that you direct your love towards the instrument who is being used. This is important, for we are building power, the power that allows us to make a close rapport with this instrument and with all of you. This is accomplished through your prayers, your love, the conditions that you bring within the circle. You carry a responsibility, beloved souls, to be in a condition that is in harmony with love and light, with God, with we who are your friends. That the desire of your soul continues to grow and expand in these directions of closeness with God, of receiving the gift of His Love, of opening the way for we to come close, to control your thoughts, to bring them to a heightened elevation, to awaken the gifts of your soul, to feel and know the longings of your heart.

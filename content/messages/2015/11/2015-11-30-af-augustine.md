@@ -31,7 +31,9 @@ questions:
   - "What legacy am I here to leave, and how do I find out?"
   - "What does it mean to know yourself from a deep place of communion with God?"
   - "How does the fear of fully becoming who I truly am hold back my soul?"
-related_messages: []
+related_messages: 
+  - 2019-01-29-af-augustine
+  - 2019-02-03-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -43,7 +45,7 @@ excerpt: >
 door: >
   God placed your purpose within you before you were born. It is still there, waiting.
 collections: ["Prism of the Soul"]
-last_edited: 2026-05-25
+last_edited: 2026-06-25
 ---
 
 God bless you, your teacher Augustine is with you in your morning prayers in your small gathering of Love.
