@@ -41,6 +41,7 @@ related_messages:
   - 2015-11-28-af-seretta-kem
   - 2015-10-26-af-seretta-kem
   - 2015-12-07-af-john-the-beloved
+  - 2016-03-30-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-greatest-healing-energy-of-all-is-gods-divine-love/"
 notes: >
@@ -56,7 +57,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   One blessing cannot be passed from person to person. It must come directly from God.
-last_edited: 2026-06-26
+last_edited: 2026-06-29
 ---
 
 I am Seretta Kem and I am an inhabitant of the Celestial Kingdom where we are close to God and know His Love well. We know His Love and we have our lives within His Love, and our souls ever expand and grow in His Love. And I see amongst this Circle of Light those who use the healing of the Earth, the energies of this Earth, which is often called the magnetic forces of healing, to help others. And I see many of you do various exercises within your bodies to increase the energy flows of your body and your spirit, and yes, there are many elements of energy, many different types of energy that can be utilized for your well-being. And great blessings from God and His healing can be given through your desires and prayers for another and for yourselves.

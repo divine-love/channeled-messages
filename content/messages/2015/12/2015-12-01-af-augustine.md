@@ -34,6 +34,7 @@ questions:
   - "How do I take my spiritual life from occasional practice to daily discipline?"
 related_messages:
   - 2019-01-04-af-augustine
+  - 2016-03-28-af-joseph
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -44,7 +45,7 @@ excerpt: >
 door: >
   The time for casual commitment is over. The world is already changing.
 collections: ["Awakening Humanity"]
-last_edited: 2026-06-26
+last_edited: 2026-06-29
 ---
 
 Bless you, your teacher Augustine is with you.

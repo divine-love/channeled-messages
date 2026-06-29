@@ -11,6 +11,7 @@ description: "Beginning in 2001, an anonymous author began receiving communicati
 relevance: "Referenced directly in the Divine Love messages when Al Fike read a message from Matthew contained in this book, which prompted Matthew to come through and deliver the message 2016-12-29-af-matthew."
 related_messages:
   - 2016-12-29-af-matthew
+  - 2016-03-31-af-judas
 related_spirits:
   - judas
 url_free: "https://new-birth.net/conversations-with-judas-of-kerioth/communications-from-judas-kerioth/"
