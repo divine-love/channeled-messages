@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-06-26
+last_updated: 2026-06-29
 ---
 
 # Browse All Messages
@@ -252,8 +252,14 @@ last_updated: 2026-06-26
 | [Talk on Service](messages/2016/03/2016-03-26-af-andrew.md) | Andrew | Al Fike | 2016‑03‑26 | There is a deep recognition within you that you are meant to love and to be a channel of Love |
 | [Springtime](messages/2016/03/2016-03-26-af-goldie.md) | Goldie | Al Fike | 2016‑03‑26 | The same force pushing green shoots through the cold ground is at work in you. |
 | [Mediumship, Communication and Rapport](messages/2016/03/2016-03-27-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑03‑27 | What your soul knows wordlessly must squeeze up through a narrow, cluttered channel to reach your mind. This is why no message arrives whole. |
+| [The Power of Commitment](messages/2016/03/2016-03-28-af-joseph.md) | Joseph | Al Fike | 2016‑03‑28 | Your mind keeps complicating what your soul already accepts. Even the father of Jesus could not commit until he stopped. |
 | [The Gift of Life](messages/2016/03/2016-03-29-af-james.md) | James | Al Fike | 2016‑03‑29 | To know your soul and to know who you truly are is the greatest of all gifts to yourself |
+| [Welcome New Friends](messages/2016/03/2016-03-30-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑03‑30 | That stirring you cannot name is your soul. The mind will tell you to doubt it. Listen anyway. |
 | [A Lesson on the Power of Humility](messages/2016/03/2016-03-30-af-augustine.md) | Augustine | Al Fike | 2016‑03‑30 | True power is not control. It is the strength that comes from letting God flow through you unrestricted |
+| [Greetings to Beginners in Circle](messages/2016/03/2016-03-30-af-confucius.md) | Confucius | Al Fike | 2016‑03‑30 | Something is pulling at your soul. Follow it, and a whole new world opens. |
+| [Humility at WHC](messages/2016/03/2016-03-30-af-faith-nyquist.md) | Faith | Al Fike | 2016‑03‑30 | You think you need a strategy for the hard room. Faith says walk in with love and watch the walls come down. |
+| [The Purpose of Divine Love](messages/2016/03/2016-03-31-af-judas.md) | Judas | Al Fike | 2016‑03‑31 | God offered His own Essence to the first souls. They were content, and said no. The offer has been standing open ever since. |
+| [Encouragement from Mary](messages/2016/03/2016-03-31-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑03‑31 | God will not push you. He whispers. The question is whether you have grown quiet enough to hear. |
 | [In Knowing and Growing Your Soul, You Will Find Your True Self](messages/2016/04/2016-04-04-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑04‑04 | You are a gift to the world. As you truly love yourselves, oh what wonders your Heavenly Father may manifest through you |
 | [The Prism of Our Souls](messages/2016/04/2016-04-04-af-keea-atta-kem.md) | Keea atta Kem | Al Fike | 2016‑04‑04 | The light within your soul refracts through the prism of God's Love, each colour a unique gift |
 | [Talk on Compassion and Service](messages/2016/04/2016-04-05-af-gandhi.md) | Mahatma Gandhi | Al Fike | 2016‑04‑05 | Everyone hungers for love. Prepare a feast for the starving soul |
@@ -467,4 +473,5 @@ last_updated: 2026-06-26
 | [The Light Must Overcome the Darkness](messages/2019/02/2019-02-04-af-jesus.md) | Jesus | Al Fike | 2019‑02‑04 | Two currents run through the world, and the darker one is winning. Jesus says the antidote is already in your hands. |
 | [Feeling the Love](messages/2019/02/2019-02-05-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2019‑02‑05 | You pray and feel nothing, and wonder if anything is happening. Keea Atta Kem says the not-feeling is no measure of the gift. |
 | [Your Prayers May Change the Conditions of the World](messages/2019/02/2019-02-06-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2019‑02‑06 | You cannot reach the hearts hardened against love. Francis says your prayers can go where you cannot. |
+| [Choosing Light Over Darkness](messages/2019/02/2019-02-10-af-augustine.md) | Augustine | Al Fike | 2019‑02‑10 | Every choice you make is being absorbed by your soul. You are building the place where you will wake up next. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |
