@@ -1,13 +1,13 @@
 ---
-title: "Candidate Thought-Chains — Working Notes"
+title: "Thought-Chains — Per-Message Log"
 description: >
-  A working document for noticing and recording candidate thematic chains
-  (thought-chains / "paths") across the Divine Love messages, in preparation
-  for building a Thompson-style chain-reference layer once the archive is
-  caught up through 2026. This file is NOT generated and NOT a schema. It is
-  a hand-kept log. Nothing here is final; everything is a candidate.
-last_updated: 2026-06-19
+  The append-only, chronological record of which candidate thought-chains each
+  Divine Love message joins, and the role it plays. Companion to
+  chains-threads.md, which holds the thread registry, holding pen, and open
+  questions. This file is NOT generated and NOT a schema. Nothing here is final.
+last_updated: 2026-06-29
 status: working notes only — do not generate from this file
+companion: chains-threads.md
 ---
 
 # Candidate Thought-Chains — Working Notes
@@ -73,53 +73,27 @@ that chain's argument:
 
 A message may carry different roles in different chains.
 
-## How to read this file
-
-- **Theme Registry** is the scannable index of every candidate chain, each
-  with a stable slug, a one-line description, and the argument it traces.
-  Check here before minting a new thread to avoid duplicates.
-- **Per-Message Log** is the append-only evidence, in processing order. Each
-  entry records which candidate chain(s) a message joined and the role it
-  played.
-- Slugs are stable IDs. Once minted, a thread keeps its slug. When chains are
-  eventually built, slugs become chain filenames and the migration is
-  mechanical.
-
-A note on expected scale: chains are anticipated for essentially every subject
-in the hierarchy, and likely for many collections and keyword topics as well.
-Expect hundreds of threads. Mint slugs disciplined and check the registry
-before adding new ones.
-
-A note on this early seeding: entries drawn from a back-search of the Core
-Teaching essential-teachings set are marked [back-search]. They are logged
-from message descriptions, not always from full readings, so their roles are
-PROVISIONAL and should be confirmed against the full text when chains are
-built. Entries from messages processed together in session are unmarked and
-more reliable.
-
 ---
 
-# Theme Registry
+## How to read this file
 
-| Slug | Theme | Argument it traces | Related subject / collection |
-|---|---|---|---|
-| `reincarnation-progression` | Reincarnation is not real; the soul progresses through the spirit planes instead | Reincarnation belief explained and corrected -> the soul incarnates once -> it progresses through many planes after death -> Divine Love accelerates that journey to the Celestial Heavens | Soul Spheres & Progression; Two Paths |
-| `redemption-universal` | No soul is beyond redemption | Hell is not eternal -> the dark spheres are a condition, not a sentence -> any soul there can still turn toward God -> Divine Love is available even there -> therefore no soul is beyond redemption | God's Mercy & Unconditional Love; The Hells & Dark Spheres |
-| `mind-vs-soul` | The soul, not the mind, is the seat of truth and the receiver of Divine Love | The mind and soul are distinct faculties -> the mind constructs and can obstruct -> the soul knows and receives directly -> truth and Divine Love come through the soul, not intellectual effort -> the two minds are ultimately integrated into one consciousness | Mind vs Soul Conflict; Mind & Soul |
-| `divine-love-without-knowing` | Divine Love can be received without conscious knowledge of it | Conscious understanding is not required -> the soul can long for God on its own -> souls of all beliefs already receive it, often faintly -> the seed may open more fully later, even in spirit | Receiving the Divine Love through Prayer; Interfaith & Universal Truth |
-| `who-jesus-was` | Correcting the record on Jesus' nature and relationships | Jesus incarnated as a complete soul -> he has no soulmate -> Mary Magdalene was a devoted follower, not his soulmate -> traditional doctrines about him require correction | Jesus Speaks; Religious Error & Reformation |
-| `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification -> two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) -> Divine Love reaches the Celestial Heavens where natural love cannot -> the choice is open to all | Two Paths; Natural Love Path vs. Divine Love Path |
-| `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions -> these block the inflowing of Love -> expiation alternates joy and the surfacing of buried pain -> Divine Love washes through and cleanses where effort alone cannot -> the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
-| `religious-error` | Established religious doctrines have obscured the simple truth of Divine Love | Inherited doctrines are human constructs, not absolute truth -> the Vicarious Atonement is false -> organised religion lets human will usurp God's -> no written word is final -> truth comes through the soul, personally | Religious Error & Reformation; Letters from History |
-| `death-transition` | Death is not an ending but a seamless transition to an eternal journey | Fear of death arises from the mind's reliance on the senses -> death is merely transition -> the soul continues through the spheres -> Divine Love expands every faculty without limit toward at-onement | Soul Spheres & Progression; The Hells & Dark Spheres |
-| `divine-love-healing` | Divine Love is the greatest healing force, surpassing all others | Many healing energies exist -> Divine Love is distinct: it must come directly from God, cannot be passed person to person -> it transforms every cell, energy, and aspect of mind -> human effort and free will are necessary partners | Divine Healing; Healing Path |
-| `judgment-to-love` | Judgment is incompatible with Love; the soul learns to choose Love instead | Judgment of others reveals our own soul state -> beneath judgment lies hidden hurt -> the antidote is conscious choice, not suppression -> as the soul grows in Love, compassion and forgiveness come reflexively | Compassion & Empathy; Self-Love & Acceptance |
-| `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) -> these are unique to each soul and must be experienced to be understood -> Divine Love opens the chambers and refines each faculty | Soul Faculties, Perception & Knowing; Prism of the Soul |
-| `healing-channel` | How a person becomes a channel for God's healing in the world | Healing flows from God, not the healer -> the impulse to heal must begin in the soul, not the mind -> mental constructs and divided purpose lower resonance and draw lesser influences (Law of Attraction) -> singleness of purpose and surrender make one a clear channel -> even a few such souls change the world | Channels & Instruments of God; Service & Mission; Healing Path |
-| `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell -> this reaches other souls wordlessly and ignites their longing for God -> the stronger the Love within, the further it resonates -> this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
-| `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path -> the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing -> God orchestrates through circuitous routes across generations -> the willing soul ignited by Divine Love is the treasure through which His Will manifests -> the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
-| `prayer-soul-longing` | True prayer is the longing of the soul, not the recitation of the mind | Prayer is the foundation and anchor of the Divine Love path -> but words alone are not prayer; the sincere longing of the soul is what prayer essentially is -> repetition without feeling elicits no real response -> it is soul-longing that activates God's answer (the Law of Activation) -> as Divine Love accumulates, prayer becomes easier and the conscious knowing of God deepens | Prayer & Devotion; Law of Activation; Receiving the Divine Love through Prayer |
-| `earth-conditions-and-prayer` | The conditions of the world act on every soul, and prayer is how they are met and neutralized | The thoughts and actions of mankind generate a darkness-field, like weather, that buffets every soul and desensitizes humanity to God -> this accounts for why one feels close to God one day and burdened the next -> the seeker must come awake to these conditions rather than absorb them -> daily prayer neutralizes them both within and around the soul, drawing in Divine Love -> the Earth itself is changing to force humanity awake | Darkness vs Light; Prayer & Devotion; Humanity's Spiritual Condition & Awakening |
+This is the **Per-Message Log**: append-only evidence in processing order. Each
+entry records which candidate chain(s) a message joined and the role it played.
+Entries are placed in chronological position by message date, not in the order
+they were processed.
+
+For the thread registry (the scannable index of every candidate chain), the
+holding pen (candidates not yet minted), and open questions, see the companion
+file **chains-threads.md**. Check the registry there before minting a new
+thread, to avoid duplicates.
+
+Link-role vocabulary (Foundation, Elaboration, Objection-removed, Reframe,
+Testimony, Chrysalis, Capstone) is defined in chains-threads.md.
+
+Entries marked [back-search] were logged from message descriptions during an
+early back-search of the Core Teaching set, not always from full readings; their
+roles are PROVISIONAL and should be confirmed against the full text when chains
+are built.
 
 ---
 
@@ -279,6 +253,23 @@ more reliable.
 - `earth-conditions-and-prayer` **[Elaboration]** — Light touch: "all of humanity carries a certain amount of darkness within them because the dark conditions of this Earth impinge upon the soul," and prayer for Divine Love "heals the damage of your life" and the places "that are not of light." Same conditions-impinge / heal-with-Love mechanism, though the message's spine is the afterlife-condition teaching rather than the daily-prayer-as-defense argument.
 - NOTE (watch): contains the teaching that it is "easier to grow in this world" than in spirit, because Earth offers many energetic experiences and opportunities while a spirit plane reinforces one's existing condition. This sits in tension with Yogananda 2019-01-31, who argues growth is generally easier and swifter in spirit once one understands the laws. Both may be reconcilable (Yogananda speaks of progression once awakened to Divine Love; Augustine of the breadth of opportunity on Earth), but flag the apparent tension for a possible `where-growth-happens` thread or an Objection-removed pairing when building.
 
+### 2019-02-12-af-osho-bhagwan — God's Love Is the True Way to Liberation — 2019-02-12
+- `two-paths` **[Testimony]** — A second testimony to complement Yogananda's, from the opposite vantage. Where Yogananda testifies from the Celestial Kingdom looking back (2018-11-22), Osho testifies from inside the climb: a guru who taught the natural road - liberation of the passions, awakening of human potential - who has "not entered into the Celestial Spheres" but whose "soul yearns for the gift of Love that comes from the Creator." He names the natural path's real but partial reach ("liberation of these things is only one part of that journey"; "my mission, though partially successful, was never complete") and confirms the higher road from below: "I now recognize the power of love that is the true passion of the soul." Strengthens the thread by witnessing the natural-love path as genuinely traversed yet incomplete, in real time, rather than from the summit. Distinct value: shows a soul still on the natural road actively turning toward Divine Love.
+- NOTE: closes with a discernment detail worth keeping - the instrument's "mind was not so happy" to channel this spirit "but his soul allowed this." A datapoint on the instrument's own mind-soul dynamic in mediumship, echoing the mediumship-as-rapport material (cf. Seretta Kem 2016-03-27); not a chain member in itself.
+
+### 2019-02-15-af-matthew — The Experience of Pentecost — 2019-02-15
+- `pentecost` **[Testimony; candidate thread not yet minted]** — Eyewitness account supplying the experiential side of the candidate the Jesus 2017-05-11 message frames doctrinally. Asked to describe the Pentecost, Matthew - one of those present - says "it came suddenly... in great light and heat and we thought that the building in which we resided was afire with this great gift and energy, although it was a fire that did not burn. It was a fire that healed and changed us." Then draws the teaching point: seekers "yearn for this instantaneous healing and awakening, instead of the incremental and sometimes difficult journey of cleansing" they have chosen. Pairs with Jesus 2017-05-11 (Foundation); together they give the two modes of awakening, sudden vs gradual, with both witness and doctrine.
+- `soul-expiation` **[Elaboration]** — Frames the seeker's chosen road as the incremental cleansing the expiation thread describes: "you continue to slough off these burdens," climbing "at a steady pace upward," and notes the burdens shed now are ones that would otherwise have been carried into spirit ("Into spirit, you would have gone, carrying these terrible loads of pain"). Adds the contrast that the gradual cleansing road is itself a mercy, sparing the soul a heavier load later.
+- NOTE: Core Teaching. The "listen to the beating of your souls... this is the soul yearning for God" passage restates prayer-as-soul-longing (cf. `prayer-soul-longing` thread) but as counsel rather than developed argument; not logged as a member.
+
+### 2019-02-16-mc-seretta-kem — Process of Expiation — 2019-02-16 [medium: Maureen Cardoso]
+- `soul-expiation` **[Testimony]** — The role the thread was missing. Where every other entry describes or reframes the mechanism, this one witnesses a single expiation from the inside, start to finish, through one soul's recent experience (related with her consent, third-person and unnamed): the inflowing Love brings warmth and joy, then loosens a condition ready to heal, surfacing buried emotion and pain; God and the angels feel most absent at exactly the moment they are closest ("it is the time when we observe you and we are very close... yet it may be a difficult sensation to feel us"); the soul withdraws to isolate; the angels call her into prayer with two others, and "using the power of the three souls together yearning for God" the release comes, felt "as though an ice block was being extracted from her solar plexus," followed by a flood of tears and "an overwhelming sense of peace," leaving a soul-chamber that "now holds love, joy and peace... for eternity." Confirms the thread's whole arc experientially and adds the angels-closest-when-felt-absent paradox and the power of communal prayer to precipitate release. Delivered through a different medium (Maureen Cardoso), a useful cross-instrument corroboration of the same doctrine taught by Seretta Kem through Al Fike (2018-07-14).
+- NOTE: the published text is bracketed by the medium's own notes stressing that the tangible "ice block" experience is an example, not a standard - expiation is unique to each soul and moved through intuitively. Worth preserving when the chain is built so the Testimony is not read as a prescriptive template.
+
+### 2019-02-18-af-augustine — Be Receptive to God and the Celestial Angels — 2019-02-18
+- `mind-vs-soul` **[Elaboration]** — Applies the distinction to perception of the spirit world: to know the Celestial angels assigned to each earnest soul, one must "put aside your preconceptions, your mental expectations and barriers, and allow our presence to be felt and known by the senses that are not of the mind and the physical but of the soul and the heart." Insights then come "not from the mental faculties but from the faculties of the soul." Adds the soul-as-organ-of-perception facet specifically to sensing spiritual presence; the same soul-over-mind perception the thread develops elsewhere (cf. Andrew 2018-03-02, Seretta Kem 2019-01-30), here turned toward receptivity to the angels rather than toward judgment or knowing truth.
+- NOTE: also states the angel-assigned-to-each-earnest-soul teaching and the uniqueness of each soul's path ("you cannot say to another, 'this is how it is'"), echoing Seretta Kem 2019-01-30 on Jesus assigning guides; a search-level connection on Spirit Guides & Angels rather than a distinct chain contribution.
+
 ---
 
 ### 2016-01-08-af-jesus — Encouragement from Jesus — 2015-01-08 [not publicly posted]
@@ -359,182 +350,3 @@ more reliable.
 - `mind-vs-soul` **[Elaboration]** — The surface/material mind is a barrier of control over the underlying feelings and the soul; awakening means penetrating that barrier to "clear the channel between the mind and the soul." Adds the desensitization/re-sensitization dimension to the mind-soul argument.
 
 ---
-
-# Holding pen (candidate threads not yet minted)
-
-Threads suggested by a single message so far. Mint a slug once a second
-message gives them an argument to trace.
-
-- `the-fall` — the original state of humanity and the fall from grace.
-  Seen: 2016-05-29-af-aman (original state and fall narrative);
-  2016-03-31-af-judas (the clearest "offered and declined" statement - God
-  offered the first parents His Essence as a choice and they rejected it,
-  content as they were, so it was withdrawn until Jesus). Pairs with
-  `reincarnation-progression`. Now close to mintable: Aman supplies the
-  original-state/fall narrative and Judas the explicit gift-offered-and-refused
-  mechanism. Mint when building, likely with Judas 2016-03-31 as Foundation for
-  the "fall as refusal of the gift" framing and Aman as the original-state
-  witness.
-- Pentecost / readiness to receive — seen: 2017-05-11-af-jesus.
-- `currency-of-love` — love as the true currency / medium of exchange
-  between souls; bridges language, culture, and belief. Seen:
-  2016-01-11-af-matthew. Also surfaces in 2016-07-04-af-francis-of-assisi
-  ("Love Is the True Currency of Life") and 2015-07-25-af-john-the-beloved.
-  Image/motif more than a developed argument so far — hold until a message
-  builds an argument from it rather than invoking it.
-- `guidance-as-seed` — God's Will/guidance arrives not as a dramatic sign
-  but as a seed of a thought or small inkling that grows as Love nurtures
-  it; the soul must honour and act on these quiet droplets. Seen:
-  2016-02-02-af-jesus. Hold for a second witness that builds the argument.
-- `self-love-foundation` — loving oneself is the prerequisite for loving
-  others and becoming a channel of Love; one cannot extend compassion
-  outward while suppressing or condemning the self. Seen:
-  2016-02-29-af-confucius (woven into the judgment-to-love argument there);
-  2016-03-07-af-augustine ("to love yourselves, to love all around you");
-  2016-03-10-af-confucius ("you should not love yourselves and acknowledge
-  every aspect of who you are"); 2016-03-11-af-luke ("you must have compassion
-  for yourselves and know that you are not to blame for your condition");
-  2016-03-12-af-john-the-beloved ("your capacity to love yourselves");
-  2016-03-16-af-seretta-kem ("to love yourselves fully with great joy and true
-  knowledge that you are loved").
-  Six sightings, all woven into a larger teaching or offered as warm affirmation
-  rather than standing as the central argument; the Luke sighting is the strongest,
-  framing self-compassion as the correct stance toward one's own cleansing. Watch
-  for a message that makes self-love its own central argument, then mint.
-- `sensitive-souls-redemptive` — the sensitive soul who feels the cruelty
-  of the world acutely and struggles to be in it is the saving grace of this
-  world: such souls progress swiftly in spirit, refuse the darkness of
-  judgement and fear, and serve as the redemptive example whose very presence
-  turns heads and sows seeds of Love. Seen: 2016-03-07-af-augustine. Hold for
-  a second witness that builds the argument.
-- `vanguards-of-change` — the circle is commissioned as the leading edge
-  ("vanguards") of a Divine-Love-driven transformation of the world, which
-  requires releasing material attachments to become free, mobile channels of
-  Love joining others in a reverberating, wave-upon-wave change. Seen:
-  2016-03-06-af-jesus and 2016-01-08-af-jesus (the latter currently logged
-  loosely under `healing-channel` as commissioning-not-mechanism). If minted,
-  consider moving that 2016-01-08 entry out of `healing-channel` into this
-  thread. Hold for confirmation that this is its own argument distinct from the
-  healing-channel mechanism.
-- `channel-of-love-in-the-material` — being a channel of Love is not limited
-  to overtly spiritual acts; material and mundane work (cleaning, fixing,
-  preparing a place) done in love equally enacts God's Will and becomes a
-  blessing. What matters is the love, attitude, and intention brought to the
-  task, not whether the task looks "spiritual." Seen: 2016-03-12-af-james.
-  Second sighting: 2016-03-16-af-jesus ("It matters not the task, my beloveds,
-  but the love that goes into that task"). Both state the principle rather than
-  build an argument from it; the Jesus sighting frames it as the opening premise
-  of a commissioning into service. Watch for a message that develops the
-  argument, then mint.
-- `purpose-of-life` — the simple, developed teaching that the purpose of life
-  is to discover who you truly are, to love and be loved, to receive God's Love,
-  and to progress toward at-onement with Him; stated as something so simple most
-  people miss it. Seen: 2016-03-14-af-mary (states it crisply but does not build
-  the argument). Mint when a message genuinely develops the argument rather than
-  asserting it. Search-level home meanwhile: subject "Purpose & Meaning of Life."
-- `soul-purpose-emergence` — distinct from `purpose-of-life` (life's general
-  meaning) and from `free-will-and-gods-plan` (whether free will and God's plan
-  conflict). This would be the specific teaching that each soul carries a unique,
-  God-bestowed purpose and set of gifts, and that one's true self and purpose are
-  not handed over in a single revelation but emerge slowly through the soul's
-  awakening, until one finds oneself already walking a path in harmony with God's
-  Will. Strongest statement so far: 2019-01-29-af-augustine ("it does not come as
-  a revelation... your soul naturally gravitating to that place when it is ready";
-  the gravity-toward-the-sea image). Companion sighting: 2019-02-03-af-andrew
-  ("it does not come as a revelation, but comes with the slow awakening and
-  expression of your soul... until you find yourself walking upon a path that is
-  truly in harmony with God's Will"). Augustine 2015-11-30 is an earlier witness
-  (unique gifts, God-bestowed purpose, the fear of how it changes one's life).
-  Mint when building, with the Augustine 2019-01-29 message as Foundation
-  (now logged in the per-message log above; companion sighting Andrew
-  2019-02-03; earlier witness Augustine 2015-11-30).
-- `two-currents-cosmology` — the macro framing of the world as a contest between
-  two currents or streams, one toward darkness and one toward light, with the
-  collective movement of awakened souls as the means by which Light overcomes
-  the darkness. Distinct from `earth-conditions-and-prayer` (the darkness-field
-  buffeting the individual soul, met by daily prayer): this thread is the
-  large-scale contest and the coalescing movement that wins it. Sightings:
-  2019-02-04-af-jesus ("two powerful currents... beachheads of Light... nodes
-  of Light expand and grow"; the seeker carries "a powerful antidote to the
-  darkness"); 2018-05-28-af-jesus ("association of souls... coalescing into a
-  beautiful movement that shall push back the darkness"); 2018-10-24-af-seretta-kem
-  ("nodes of deep darkness... surrounded and neutralized by your efforts");
-  2015-08-24-af-augustine (Love must prevail and spread to create Circles of
-  Light against the negative forces of the world). Mint if the two-currents /
-  light-overcoming-darkness framing recurs with genuine development rather than
-  restatement. Overlaps `bell-toll-instrumentality` (the spreading mechanism)
-  but is framed at the level of world-cosmology, not the individual instrument.
-- `prayer-changes-world-conditions` — the intercessory teaching that prayer
-  reaches outward to change the conditions of the world and even the behaviour
-  of those living in ignorance and error, softening hardened hearts and pouring
-  blessings on people and places the pray-er cannot reach directly. Distinct
-  from `prayer-soul-longing` (what true prayer essentially is) and from
-  `earth-conditions-and-prayer` (prayer defending the individual soul against
-  the world's darkness-field): this thread is prayer as an outward force for
-  change in the world and in other souls. Sightings: 2019-02-06-af-francis
-  ("Prayer can change conditions. Prayer can change the behavior of those who
-  violate and are in ignorance and error"); 2015-11-28-af-faith-nyquist (sincere
-  prayer "brings a change in the world, a change into the conditions of this
-  world and into the world of spirit" - currently logged as the prayer-soul-longing
-  Foundation, but it also carries this distinct world-changing claim);
-  2018-11-29-af-abdullah-latif ("Prayer is powerful. Prayer can bring change.
-  Prayer can bring solutions. Prayer can heal"); 2015-12-21-af-peter ("just because
-  you reside in one part of your planet does not mean that through your collective
-  efforts you may not influence the conditions in anyplace in this world"). Mint
-  when a message develops the mechanism (how intercessory prayer acts on another
-  soul or condition) rather than asserting the power. Search-level home meanwhile:
-  subject "Prayer & Devotion."
-
----
-
-# Open questions to revisit when building begins
-
-- Some chains will likely need sub-message anchoring after all, for long
-  teaching messages that move through several distinct ideas (e.g. the
-  Augustine "All Truth Comes from the Soul" pieces). Note these as we find
-  them so we know which messages break the whole-message-unit assumption.
-  - 2015-03-24-af-augustine ("There Is Fate and Yet There Is No Fate")
-    moves through several distinct ideas: fate/free will, the laws of
-    cause-and-effect, angelic orchestration through circuitous routes, the
-    willing soul as treasure, and the invitation to lost souls. Anchored in
-    `free-will-and-gods-plan` as Foundation, but its bell-toll-adjacent and
-    "seek ye the Heavenly Father" material may belong to other threads at a
-    sub-message level.
-- Possible future collection "The Life of Prayer" (or "Foundations of
-  Prayer"): several messages teach prayer itself as the foundation/anchor of
-  the Divine Love path, but none of the nine current collections is a clean
-  home. Charter candidates: 2016-01-23-af-augustine ("The Power of Prayer"),
-  2018-07-30-af-keea-atta-kem ("Prayer"), 2015-11-28-af-faith-nyquist ("The
-  Power of Prayer to Bring Change and Healing"). Watch for more; mint a
-  collection if they accumulate.
-- Watch for places where chronological order and logical/argument order
-  diverge. Working hypothesis: they usually agree. Divergences are interesting
-  and worth flagging. (Note: `two-paths` already shows the fullest statement
-  (2016-05-02) arriving AFTER its foundation (2015-03-27) — chronology and
-  argument agree there. Good early confirmation.)
-- `mind-vs-soul` already has two Chrysalis candidates (2018-06-18, 2018-10-09).
-  When building, decide whether both belong or one supersedes the other.
-- Possible `free-will-and-gods-plan` connection to watch: 2016-03-13-af-faith-nyquist
-  ("Keep the Flame Burning") echoes the thread's "circuitous route" image
-  ("God's Will will manifest. It may take a circuitous route but it will be done").
-  Connection is suggestive but vague (an encouragement echo, not a development of
-  the argument). Not logged as a member; revisit if stronger circuitous-route /
-  God's-Will-despite-resistance witnesses appear, and replace or confirm then.
-- At hundreds of chains, this file will need a real registry/tooling pass.
-  Revisit structure before it gets unwieldy.
-- Watch for a "children / the young" theme. It reads as collection-shaped (a
-  recurring topic to browse) rather than chain-shaped (a built argument). First
-  sighting: 2016-03-14-af-mary ("Talk on Children"). If it accumulates to
-  several messages, propose a tenth collection (e.g. "Children & the Young")
-  rather than forcing one now - expanding past the controlled set of nine
-  collections is a deliberate taxonomy decision to raise explicitly with the
-  curator.
-- Back-search [back-search] entries need full-text confirmation of their roles
-  before chains are finalised.
-- `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
-  on Good Friday") gestures at the thread's territory - "the distortions that
-  have gone through the centuries creating great myths and errors" about Jesus'
-  message - but only invokes it; the message corrects no specific doctrine, and
-  its actual spine is carry-the-message service and pushing back darkness. Too
-  light to log as a member. Revisit only if it would help bracket the thread's
-  Good-Friday / death-of-Jesus framing when building.
