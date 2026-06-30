@@ -48,6 +48,7 @@ questions:
 related_messages:
   - 2015-10-26-af-aman
   - 2018-11-22-af-yogananda
+  - 2019-02-12-af-osho-bhagwan
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/reincarnation-and-the-perception-of-it-proliferated-by-many-yogis-and-gurus-of-the-east/"
 notes: ""
@@ -61,7 +62,7 @@ door: >
   There are no past lives. There are only souls who came very close, whose
   stories felt like your own.
 collections: ["Two Paths", "Letters from History"]
-last_edited: 2026-05-30
+last_edited: 2026-06-29
 ---
 
 God bless you beloved souls. I am Yogananda. The question was asked regarding how does one know about past lives and confer this knowledge in their present life? As you well know, there is no such mechanism as reincarnation. So why do many individuals believe and have had some experience to make them believe that reincarnation exists?

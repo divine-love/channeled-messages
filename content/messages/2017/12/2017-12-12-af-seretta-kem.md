@@ -48,6 +48,7 @@ related_messages:
   - 2015-11-28-af-seretta-kem
   - 2017-09-12-af-martin-luther
   - 2019-02-05-af-keea-atta-kem
+  - 2019-02-16-mc-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/on-soul-expiation/"
 notes: >
@@ -63,7 +64,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   There is always a crack in the armor. God always finds a way through
-last_edited: 2026-06-25
+last_edited: 2026-06-29
 ---
 
 I am Seretta Kem. You have had an interesting conversation regarding the conditions of your souls and how your souls may be improved by the healing of those conditions that are not in harmony with the Father's Love and Light within. Yes, encrustations of the soul hold in the Love and, at times, does not allow the Love to enter the soul. There are always cracks and fissures upon the surface of the soul allowing in this Light so that it is not a complete sealing off of the soul from God. Because of these conditions or encrustations, the yearnings of the soul and the soul's ability to connect with God is muffled and distorted and finds a difficult route, a circuitous route to God. With expiation, which is simply the release of these conditions through a number of means including the physical, there will be an opening up passages for the Father's Love to more readily enter into the soul. As you continue to release these conditions, you are more receptive to the Light of God's Love and the Light of God's influence upon you.

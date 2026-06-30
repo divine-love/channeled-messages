@@ -33,6 +33,7 @@ questions:
   - "How does humility in mediumship differ from expectation or insistence?"
 related_messages:
   - 2018-11-26-af-jesus
+  - 2019-02-18-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/jesus-assigns-spirit-guides/"
 notes: >
@@ -44,7 +45,7 @@ excerpt: >
 door: >
   Jesus answers to God, not to expectation. The humble instrument who asks for nothing specific will always find an angel present.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-06-29
 ---
 
 This is Seretta Kem and I wish to add to the beloved Master's talk on mediumship. There are those in the world who believe that Jesus will come and speak through them at their beck and call and that they insist that the Master is the only one whom they indicate must speak. They do not realize that he is at God's beck and call and moves in that flow of God's Will and does not answer to any mortal or spirit but answers to God, as do all of us within the Celestial Kingdom.

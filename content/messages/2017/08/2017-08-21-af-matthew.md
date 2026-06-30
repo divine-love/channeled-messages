@@ -38,6 +38,7 @@ related_messages:
   - 2016-12-29-af-matthew
   - 2016-07-10-af-augustine
   - 2017-04-10-af-james
+  - 2019-02-15-af-matthew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/soul-can-know-gods-love/"
 notes: >
@@ -49,7 +50,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   A thousand words and a million books will never bring this Truth as it is experienced by that deep Touch from God
-last_edited: 2026-04-23
+last_edited: 2026-06-29
 ---
 
 May the Grace of God, which is His Love, envelop and bless you within your souls, beloveds. I am Matthew. I have come to extrapolate upon the reading that you have been speaking of. I have come to speak about the feelings of the soul. For the minds of men find it difficult to speak of feelings, suggesting that a mind cannot feel, rather it perceives a Truth as thoughts. This is untrue when it comes to the understandings of the soul, for a soul can feel its understanding, its comprehension of a Truth. For when a soul understands a Truth, all aspects of that soul are engaged. Thus comes a feeling, with a perception, an awareness, an openness to a Truth from God.

@@ -43,6 +43,7 @@ related_messages:
   - 2017-12-12-af-seretta-kem
   - 2016-04-13-af-seretta-kem
   - 2017-01-23-af-alec-gaunt
+  - 2019-02-16-mc-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/soul-expiation-through-pursuit-of-truth-release-of-error/"
 notes: >
@@ -60,7 +61,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   When you look back upon your lives, you will feel as much gratitude for the difficult times as for the times of joy. It is in the difficult times that the greatest progress is made
-last_edited: 2026-04-23
+last_edited: 2026-06-29
 ---
 
 I was very pleased to be able to speak to you through the instrument who sits in this circle, the dear soul who has a deep desire to serve God and utilize her gifts for the benefit of others.

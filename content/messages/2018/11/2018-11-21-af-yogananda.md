@@ -37,7 +37,8 @@ questions:
   - "What happened at Pentecost and can that kind of transformation happen today?"
   - "How do I know if my spiritual growth is genuine or just a facade?"
   - "Why do spiritual leaders need to be especially careful about their thoughts and words?"
-related_messages: []
+related_messages:
+  - 2019-02-12-af-osho-bhagwan
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/being-a-channel-of-gods-love-requires-taming-the-mind-and-exemplifying-the-soul/"
 notes: >
@@ -56,7 +57,7 @@ door: >
 collections:
   - "Mind & Soul"
   - "Letters from History"
-last_edited: 2026-06-26
+last_edited: 2026-06-29
 ---
 
 I am Yogananda. I promise I would come and I am here. And I have been with you for the morning and I find you all quite amusing, how so much of your conversation is so mundane and yet you carry such a bright soul. Yes, this is the way of your world. The mind continues to play out those issues and ideas that are not relevant to a mature soul. Yet, with this gift of Divine Love, your souls grow and mature and are resplendant in wisdom and love. I find this rather ironic but it is as it is. It is how you are in the world my dear brothers and how all who live in your world continue to sustain the illusions, the incomplete understandings, the desires and the ideas of the material plane.

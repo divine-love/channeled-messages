@@ -39,9 +39,10 @@ questions:
   - "Why is humanity so trapped in mental conditions that block the soul?"
   - "What does it mean to be in the world but not of the world in practical terms?"
 related_messages:
-  - 2018-06-09-af-matthew
   - 2014-12-01-af-john-the-beloved
   - 2018-01-29-af-john-the-beloved
+  - 2018-06-09-af-matthew
+  - 2019-02-18-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/seek-to-know-god-through-love/"
 notes: >
@@ -57,7 +58,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   'God places His Hand upon you and asks: Will you accept my Love? Even when your soul truly knows me, I shall continue to bless you'
-last_edited: 2026-04-23
+last_edited: 2026-06-29
 ---
 
 May the touch of God's Love enter your souls and awaken the longings and desires deep within you for God. For His longing is to be close to you and for you to know that you are loved, and for you to receive the blessing of His Love within you. Just as the bees seek the nectar of the flowers, so your souls long for the sweet nectar of God's Love to sustain and enrich your souls. For those of you of earth, it is hard to truly know your own souls, for you are engaged in a world that values thoughts and aspects of the mind over the wisdom and desires of the soul. The atmosphere of this world is thick with the thoughts of humanity. This reality that humanity has created with their thoughts and deeds, aspirations and desires, that are not of soul, but of mind.
