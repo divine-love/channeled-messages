@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-06-29
+last_updated: 2026-06-30
 ---
 
 # Browse All Messages
@@ -474,4 +474,9 @@ last_updated: 2026-06-29
 | [Feeling the Love](messages/2019/02/2019-02-05-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2019‑02‑05 | You pray and feel nothing, and wonder if anything is happening. Keea Atta Kem says the not-feeling is no measure of the gift. |
 | [Your Prayers May Change the Conditions of the World](messages/2019/02/2019-02-06-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2019‑02‑06 | You cannot reach the hearts hardened against love. Francis says your prayers can go where you cannot. |
 | [Choosing Light Over Darkness](messages/2019/02/2019-02-10-af-augustine.md) | Augustine | Al Fike | 2019‑02‑10 | Every choice you make is being absorbed by your soul. You are building the place where you will wake up next. |
+| [God's Love Is the True Way to Liberation](messages/2019/02/2019-02-12-af-osho-bhagwan.md) | Osho Bhagwan | Al Fike | 2019‑02‑12 | A guru who spent his life teaching liberation now says he missed the real one. Love was the passion he was looking for all along. |
+| [The Experience of Pentecost](messages/2019/02/2019-02-15-af-matthew.md) | Matthew | Al Fike | 2019‑02‑15 | You keep praying for the fire to fall all at once. Matthew was there when it did, and still tells you to trust the slow climb. |
+| [Process of Expiation](messages/2019/02/2019-02-16-mc-seretta-kem.md) | Seretta Kem | Maureen Cardoso | 2019‑02‑16 | When God feels furthest away, the angels are standing closest. They are not absent. They are letting the wound come up so it can leave. |
+| [Be a Channel of Love](messages/2019/02/2019-02-18-af-andrew.md) | Andrew | Al Fike | 2019‑02‑18 | You will never see most of the good you do. Andrew says do it anyway, for it lands in souls you will never know you touched. |
+| [Be Receptive to God and the Celestial Angels](messages/2019/02/2019-02-18-af-augustine.md) | Augustine | Al Fike | 2019‑02‑18 | The angels are already with you. You miss them because you keep listening with your mind instead of your soul. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |

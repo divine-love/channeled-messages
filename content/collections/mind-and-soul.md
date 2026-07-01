@@ -1,7 +1,7 @@
 ---
 title: "Mind & Soul"
 description: "Messages exploring the relationship between the material mind and the soul — how the mind can assist or obstruct the soul's growth, the integration of mind and soul, and the soul's faculties of perception and knowing."
-last_updated: 2026-06-29
+last_updated: 2026-06-30
 ---
 
 # Mind & Soul
