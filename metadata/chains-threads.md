@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-06-29
+last_updated: 2026-07-01
 status: working notes only — do not generate from this file
 companion: chains-log.md
 ---
@@ -261,6 +261,23 @@ message gives them an argument to trace.
   when a message develops the mechanism (how intercessory prayer acts on another
   soul or condition) rather than asserting the power. Search-level home meanwhile:
   subject "Prayer & Devotion."
+- `free-will-and-self-responsibility` — **(high-priority candidate — strong anchor
+  in hand, awaiting a second confirming message to mint)** — the individual's own
+  free will as the pivot of their healing, distinct from `free-will-and-gods-plan`
+  (God's orchestration of His plan across generations through willing souls). The
+  argument: God honours free will absolutely and will not override it even to
+  relieve self-created pain; prayers for relief go unanswered while the mind
+  keeps feeding the very condition prayed about; and real change must come as a
+  deep desire from the soul, not a correction from the mind. Rests on a named law
+  ("There is a law that says you must be responsible for yourself"). Seen:
+  2019-02-22-af-augustine — a full, developed statement of the whole argument, and
+  a strong candidate for Foundation when the thread is minted. Overlaps
+  `soul-expiation` (change-from-the-soul; cf. 2023-02-10-af-augustine "you need not
+  cleanse everything first") and `mind-vs-soul` at a search level without being
+  reducible to either. Mint as soon as a second message develops the "prayer for
+  change fails while the mind keeps choosing the condition / responsibility-for-self
+  law" argument, with Augustine 2019-02-22 as the presumptive Foundation.
+  Search-level home meanwhile: subject "Law of Free Will."
 
 ---
 
