@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-06-30
+last_updated: 2026-07-01
 ---
 
 # Browse All Messages
@@ -479,4 +479,8 @@ last_updated: 2026-06-30
 | [Process of Expiation](messages/2019/02/2019-02-16-mc-seretta-kem.md) | Seretta Kem | Maureen Cardoso | 2019‑02‑16 | When God feels furthest away, the angels are standing closest. They are not absent. They are letting the wound come up so it can leave. |
 | [Be a Channel of Love](messages/2019/02/2019-02-18-af-andrew.md) | Andrew | Al Fike | 2019‑02‑18 | You will never see most of the good you do. Andrew says do it anyway, for it lands in souls you will never know you touched. |
 | [Be Receptive to God and the Celestial Angels](messages/2019/02/2019-02-18-af-augustine.md) | Augustine | Al Fike | 2019‑02‑18 | The angels are already with you. You miss them because you keep listening with your mind instead of your soul. |
+| [It Is Your Destiny to Bring Your Gifts Forward for Mankind](messages/2019/02/2019-02-21-af-elijah.md) | Elijah | Al Fike | 2019‑02‑21 | God asks nothing grand of you today. Only that you listen for the small inclination rising in your soul, and act on it. |
+| [Great Blessings Await Those Who Follow the Divine Love Path](messages/2019/02/2019-02-21-af-jesus.md) | Jesus of Nazareth | Al Fike | 2019‑02‑21 | Take my hand, Jesus says, and the road itself becomes the blessing. |
+| [The Power to Change Needs Your Conscious Understanding of the Power of Free Will](messages/2019/02/2019-02-22-af-augustine.md) | Augustine | Al Fike | 2019‑02‑22 | You pray to be freed from the very thing you keep feeding. God is waiting for you to stop. |
+| [Bring Joy to All that You Do](messages/2019/02/2019-02-22-af-goldie.md) | Goldie | Al Fike | 2019‑02‑22 | You call it a test. Goldie calls it a gift. The difference is where you look for the joy. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |
