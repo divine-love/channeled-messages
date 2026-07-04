@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-01
+last_updated: 2026-07-03
 status: working notes only — do not generate from this file
 companion: chains-log.md
 ---
@@ -121,6 +121,7 @@ before adding new ones.
 | `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path -> the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing -> God orchestrates through circuitous routes across generations -> the willing soul ignited by Divine Love is the treasure through which His Will manifests -> the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
 | `prayer-soul-longing` | True prayer is the longing of the soul, not the recitation of the mind | Prayer is the foundation and anchor of the Divine Love path -> but words alone are not prayer; the sincere longing of the soul is what prayer essentially is -> repetition without feeling elicits no real response -> it is soul-longing that activates God's answer (the Law of Activation) -> as Divine Love accumulates, prayer becomes easier and the conscious knowing of God deepens | Prayer & Devotion; Law of Activation; Receiving the Divine Love through Prayer |
 | `earth-conditions-and-prayer` | The conditions of the world act on every soul, and prayer is how they are met and neutralized | The thoughts and actions of mankind generate a darkness-field, like weather, that buffets every soul and desensitizes humanity to God -> this accounts for why one feels close to God one day and burdened the next -> the seeker must come awake to these conditions rather than absorb them -> daily prayer neutralizes them both within and around the soul, drawing in Divine Love -> the Earth itself is changing to force humanity awake | Darkness vs Light; Prayer & Devotion; Humanity's Spiritual Condition & Awakening |
+| `divine-love-mediumship` | How spirit communication works and what makes it clear and trustworthy | The basic laws of communication are the same for all -> but clarity, quality, and safety of reception depend on the soul's development in Divine Love, not the ambitions or gifts of the mind -> a true instrument is prepared over years into a finely tuned, clear channel -> messages centred on ego, or not on God's Love and the flowering of the soul, are not from Celestial angels (discernment) -> and this capacity is not confined to designated mediums: every soul accompanied by angels has some avenue of communication that grows as it stays open and awakens in love | Mediumship & Developing as an Instrument; Discernment & Truth-Seeking; Spirit Guides & Angels |
 
 ---
 
@@ -298,6 +299,18 @@ message gives them an argument to trace.
 ---
 
 # Open questions to revisit when building begins
+
+- `divine-love-mediumship` was minted 2026-07-03 with six witnesses, all now
+  logged: 2016-03-27-af-seretta-kem (Foundation), 2016-12-06-af-seretta-kem
+  (Elaboration), 2018-08-29-af-seretta-kem (Elaboration), 2019-01-26-af-andrew
+  (Elaboration), 2019-01-30-af-jesus (Testimony), 2019-02-27-af-andrew
+  (Elaboration). The four earlier witnesses were back-filled with roles confirmed
+  against full text; the two Seretta Kem and one Andrew entries carry the
+  mechanism and universality strands, and Jesus 2019-01-30 anchors the Testimony.
+  Open question: confirm whether 2016-03-27 or 2016-12-06 is the better Foundation
+  when both full texts are weighed together at build time; 2016-03-27 currently
+  holds it as the earliest developed statement of the mechanism, with 2016-12-06
+  as the fuller laws-and-conditions Elaboration immediately after.
 
 - Some chains will likely need sub-message anchoring after all, for long
   teaching messages that move through several distinct ideas (e.g. the
