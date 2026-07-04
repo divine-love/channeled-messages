@@ -1,7 +1,7 @@
 ---
 title: "The Saints & Apostles Speak"
 description: "Messages from the biblical apostles and saints speaking directly from their perspective in spirit — Andrew, James, John the Beloved, Peter, Matthew, Mark, Luke, Francis of Assisi, and others. These spirits offer personal testimony, teaching, and encouragement grounded in their own experience of Divine Love."
-last_updated: 2026-07-01
+last_updated: 2026-07-04
 ---
 
 # The Saints & Apostles Speak
