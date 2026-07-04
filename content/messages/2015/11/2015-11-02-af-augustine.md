@@ -37,6 +37,7 @@ questions:
 related_messages: 
   - 2019-02-10-af-augustine
   - 2019-02-22-af-augustine
+  - 2019-02-22-af-keea-atta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-governs-your-path/"
 notes: ""
@@ -44,7 +45,7 @@ essential_teachings: []
 door: >
   Free will is not a burden. It is the dignity God gave you to choose Love
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-01
+last_edited: 2026-07-03
 ---
 
 Every day is a choice, my beloveds, every day is a choice. And at times you choose a path that leads to pain and at other times you choose a path that leads to Light. And as you grow in your souls and your soul's discernments you will be able to choose wisely with every choice for God gives you free will and you are to utilize this Gift to bring change and Light within your lives and your selves, to exercise your desire, the yearnings of your souls, the thoughts of your minds, the actions of your beings. It is a choice and when you are in alignment with God's Will, that choice becomes easier and simpler and less cluttered with your own fear and judgments, and it allows you to release your hold upon another and that human desire to want others to follow a certain path and way, which is of your perception and desire. But each soul has their own unique journey in life and lessons to be learned, and in order to grow in your soul you must venture forth into life exercising your free will, walking along your life's path and experiencing the consequences of your actions, which, as I have said, at times bring Light and at times not.

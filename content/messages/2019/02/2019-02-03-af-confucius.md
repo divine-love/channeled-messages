@@ -30,6 +30,7 @@ questions:
   - "How does God's Touch uplift me each day?"
 related_messages:
   - 2018-11-14-af-lotus-blossom
+  - 2019-02-23-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/blessings-and-healings/"
 notes: ""
@@ -40,7 +41,7 @@ excerpt: >
 door: >
   The same Touch that heals the body settles the soul into peace. Confucius brings both at once.
 collections: ["Healing Path"]
-last_edited: 2026-06-25
+last_edited: 2026-07-03
 ---
 
 Blessings of love to you, beloveds. I am Confucius and I bring to you a healing gift, a blessing to your physical and spiritual that you may feel the upliftment, the gift of God's Touch upon you, that you may know this beloved and precious peace that is God's presence in your life, that you are given all that you require to continue in your spiritual progress, that you may indeed know the great Love of God flourishing within your souls uplifting you with each day, bringing the counsel of Truth within your minds and the knowledge of Truth within your souls.

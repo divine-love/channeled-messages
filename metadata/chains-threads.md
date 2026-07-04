@@ -278,6 +278,22 @@ message gives them an argument to trace.
   change fails while the mind keeps choosing the condition / responsibility-for-self
   law" argument, with Augustine 2019-02-22 as the presumptive Foundation.
   Search-level home meanwhile: subject "Law of Free Will."
+- `challenges-as-blessings` — the teaching that every difficulty, test, and
+  struggle is itself a blessing that strengthens the soul and deepens its
+  relationship with God, rather than an obstacle to endure. Distinct from
+  `free-will-and-self-responsibility` (which is about the will's role in
+  self-created suffering): here the emphasis is that hardship, whatever its
+  source, is redeemed into soul-growth by God's design. Recurrent across the
+  archive at a search level: Augustine 2015-11-02 ("this is the challenge of
+  life... lessons to be learned"), Confucius 2016-02-29 (struggle but progress),
+  Solomon 2018-08-06 ("life is a test"), and now Keea Atta Kem 2019-02-22 ("all
+  conspire to bring many insights and lessons, strengthening your soul... every
+  challenge is a blessing"). No single message yet builds the argument as a
+  developed path rather than a warm assertion, so not minted; several assertions
+  do not yet make a chain. Watch for a message that advances the argument with a
+  distinct facet (why hardship strengthens rather than merely that it does), which
+  would anchor a Foundation. Search-level home meanwhile: subject "Soul Growth
+  through Challenges."
 
 ---
 
