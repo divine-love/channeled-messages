@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ---
 
 # Browse All Messages
@@ -488,4 +488,10 @@ last_updated: 2026-07-04
 | [Each Uses Their Gifts to Help Each Other Heal](messages/2019/02/2019-02-24-af-andrew.md) | Andrew | Al Fike | 2019‑02‑24 | The wound you have walled off is not yours to heal alone. God brought these others to you so what you cannot see, they can. |
 | [Mary Brings Comfort for the Journey](messages/2019/02/2019-02-24-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2019‑02‑24 | The thing that holds you down is not as fixed as it feels. It falls away by the measure of your faith. |
 | [Mediumship of Al and Ability to Communicate for All](messages/2019/02/2019-02-27-af-andrew.md) | Andrew | Al Fike | 2019‑02‑27 | The clear voice speaking through one prepared soul is not the only channel. Every soul has its own, if it will stay open. |
+| [Seek the Counsel of Your Soul](messages/2019/03/2019-03-03-mc-keea-atta-kem.md) | Keea Atta Kem | Maureen Cardoso | 2019‑03‑03 | The pain is not the enemy. It is your soul asking you to look at something you have been unwilling to see. |
+| [A Bridge Is Set Before You](messages/2019/03/2019-03-04-af-augustine.md) | Augustine | Al Fike | 2019‑03‑04 | A bridge is set before you. God will not push you across it, and he will not stop waiting. |
+| [The Highest Gift of All Is the Blessing of God's Love](messages/2019/03/2019-03-08-af-andrew.md) | Andrew | Al Fike | 2019‑03‑08 | The winds of earth cannot topple a soul that is grounded in light. The only question is whether you will reach out. |
+| [Blessings From God Are With You](messages/2019/03/2019-03-08-af-augustine.md) | Augustine | Al Fike | 2019‑03‑08 | The warmth in the room is not the room. It is the flame you carry, and God is asking you to feed it. |
+| [There Is a Power to This Gift of Insight](messages/2019/03/2019-03-13-af-stephen.md) | Stephen | Al Fike | 2019‑03‑13 | The dreams you are tempted to dismiss are God preparing you. When the time to act comes, you will already know. |
+| [Love Is My Message](messages/2019/03/2019-03-14-af-jesus.md) | Jesus of Nazareth | Al Fike | 2019‑03‑14 | Do not pray to him. He is your brother, not your God. What he wants is for you to love the way he loved. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |
