@@ -33,7 +33,8 @@ questions:
   - "How do I stay strong and at peace when the world feels chaotic and unpredictable?"
   - "What does God's plan for the salvation of mankind mean for those living through the changes?"
   - "How do I know when apprehension about a plan is genuine guidance rather than fear?"
-related_messages: []
+related_messages:
+  - 2019-03-13-af-stephen
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/questions-regarding-earth-changes/"
 notes: ""
@@ -44,7 +45,7 @@ excerpt: >
 door: >
   Augustine admits what few guides will: even from the highest vantage, the future is not a fixed map. Trust your compass. Walk in the light. God's plan will not fail.
 collections: ["Awakening Humanity"]
-last_edited: 2026-06-26
+last_edited: 2026-07-04
 ---
 
 It is your teacher Augustine. May the Father's Love continue to pour into your souls in ever greater abundance igniting the gifts and perceptions within so that you may be able to discern Truth at all times, know God's Will and guidance at all times, be in the flow of God's Will at all times. This is our desire for you, beloved souls, to know from that place deep within you all aspects and guided invitations and knowings that will inform your day as you seek to be the Father's instruments of Love in your world.

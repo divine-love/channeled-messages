@@ -34,7 +34,8 @@ questions:
   - "How does God's Love transform my consciousness over time?"
   - "Is there a kind of understanding that goes beyond analysis and deduction?"
   - "What does it mean for the soul to grow toward at-onement with God?"
-related_messages: []
+related_messages: 
+  - 2019-03-08-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -46,7 +47,7 @@ excerpt: >
   The soul is imbued with many qualities and attributes which mostly lie dormant without being ignited and brought to life by God's Divine Essence. It is a knowing, a deep understanding that is not the result of deduction and analysis.
 door: >
   The mind analyses. The soul knows. Only one of these can comprehend God.
-last_edited: 2026-06-26
+last_edited: 2026-07-04
 ---
 
 It is Augustine. I have come to teach a lesson this night for a question was asked about the difference between the mind of the soul and the material mind. And, indeed, these are two distinct entities within one being, within all of you. Many of you are quite familiar and have developed to a great degree the consciousness of the material mind and all its attributes of the intellect and the perceptions of the senses and your mental perceptions of the world around you, making sense of your lives, of the world and functioning within these human conditions. And this is what is predominant in your beings and consciousness.

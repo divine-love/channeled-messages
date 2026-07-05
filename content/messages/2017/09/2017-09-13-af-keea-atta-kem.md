@@ -50,6 +50,7 @@ related_messages:
   - 2017-09-12-af-confucius
   - 2017-09-12-af-martin-luther
   - 2019-02-21-af-elijah
+  - 2019-03-13-af-stephen
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/make-love-guiding-truth-earth-changes/"
 notes: >
@@ -63,7 +64,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
-last_edited: 2026-07-01
+last_edited: 2026-07-04
 ---
 
 I am Keea Atta Kem. I have come to speak to you of the changes in this world, the changes that have already happened and the changes that are going to happen. At present those changes within the world are not particularly noticed except when they bring some heartache to those people who are directly affected as the weather changes.

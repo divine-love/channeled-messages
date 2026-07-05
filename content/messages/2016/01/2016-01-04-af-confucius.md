@@ -39,10 +39,11 @@ questions:
   - "How do I walk as God's instrument of change in a dark world?"
   - "What does it mean to have the mind of the soul?"
 related_messages:
-  - 2015-12-27-af-augustine
-  - 2015-12-14-af-augustine
-  - 2015-08-03-af-confucius
   - 2015-06-24-af-confucius
+  - 2015-08-03-af-confucius
+  - 2015-12-14-af-augustine
+  - 2015-12-27-af-augustine
+  - 2019-03-03-mc-keea-atta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/accepting-the-new-awarenesses-of-an-opening-soul/"
 notes: ""
@@ -54,7 +55,7 @@ excerpt: >
 collections: ["Mind & Soul"]
 door: >
   There may be nothing between your mind and your soul - a merging of consciousness
-last_edited: 2026-04-17
+last_edited: 2026-07-04
 ---
 
 Every moment, every effort you make is an opportunity to learn and to grow within your souls, and your sincere desire to increase the channel of healing and Love in this world is beautiful to behold, my beloveds.
