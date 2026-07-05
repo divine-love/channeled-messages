@@ -37,8 +37,9 @@ questions:
   - "How does God's Love enhance the gifts I already have?"
   - "What does it mean to heal in resonance and harmony with God's Love?"
 related_messages:
-  - 2016-01-04-af-seretta-kem
   - 2015-03-29-af-seretta-kem
+  - 2016-01-04-af-seretta-kem
+  - 2019-02-24-af-confucius
 audio_url: ""
 canonical_url: ""
 language: en
@@ -51,7 +52,7 @@ collections: ["Healing Path"]
 essential_teachings: ["Divine Healing"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-16
+last_edited: 2026-07-05
 ---
 
 May the Father's Love flow into your souls in great abundance, my beloved souls. Each one of you have many gifts, great potentials within your souls which can be ignited by this Divine Essence, the Father's Love. And it touches you within your soul, it touches you and soothes you, and brings deep peace and joy, and you feel the presence of the Heavenly Father within your midst as you pray for this Love. As you do your healing work, my daughters, remember to pray for God to touch that soul through you, to be in harmony with this great flow of Love which comes from the Creator. And with this simple prayer and intention you will find that deep healing can occur as you are in resonance and harmony with the Father's Love and you receive this Gift within your soul, great openings and awakenings will ensue with this blessing, this Touch from God.
