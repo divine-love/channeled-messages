@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-05
+last_updated: 2026-07-06
 ---
 
 # Browse All Messages
@@ -497,6 +497,7 @@ last_updated: 2026-07-05
 | [Love Is My Message](messages/2019/03/2019-03-14-af-jesus.md) | Jesus of Nazareth | Al Fike | 2019‑03‑14 | Do not pray to him. He is your brother, not your God. What he wants is for you to love the way he loved. |
 | [Gather Your Brethren Into the Light](messages/2019/03/2019-03-14-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2019‑03‑14 | Seek to serve God in love, and all else falls into place. Start by gathering the ones in pain. |
 | [Divine Love Brings Your Soul Nourishment Needed to Awaken](messages/2019/03/2019-03-29-af-mark.md) | Mark | Al Fike | 2019‑03‑29 | You live inside a mystery you have never explored: your own soul. Divine Love is what brings it to life. |
+| [Personal for Jeanne followed by an Encouraging Message for All](messages/2019/04/2019-04-03-af-augustine.md) | Augustine | Al Fike | 2019‑04‑03 | What you have become so far is a child barely aware of its surroundings. The awakening has only begun. |
 | [Birthday Prayer for Jeanne and Encouragement to All](messages/2019/04/2019-04-03-af-jesus.md) | Jesus of Nazareth | Al Fike | 2019‑04‑03 | You are not a sheep in a flock. God gave you a path that is yours alone. Walk it. |
 | [The Gift of Divine Love Is the Greatest Truth You May Know](messages/2019/04/2019-04-03-af-joseph.md) | Joseph | Al Fike | 2019‑04‑03 | The father of Jesus did not understand his son on Earth. He does now, and he has come to tell you what he missed. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |
