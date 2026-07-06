@@ -1,7 +1,7 @@
 ---
 title: "Core Teaching"
 description: "Messages that establish or clarify core doctrine, vision, or mission of the Divine Love path. These are the messages that form the theological and spiritual foundation of the archive — teachings a newcomer would be directed to first, and that curators return to when seeking clarity on the path's central truths."
-last_updated: 2026-07-05
+last_updated: 2026-07-06
 ---
 
 # Core Teaching
