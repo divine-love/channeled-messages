@@ -39,9 +39,10 @@ questions:
   - "How do I allow my gifts to awaken naturally rather than forcing them?"
   - "What does it mean to be a willing and knowledgeable instrument of God?"
 related_messages:
-  - 2018-09-01-af-augustine
-  - 2018-07-30-mc-augustine
   - 2015-05-18-af-augustine-2
+  - 2018-07-30-mc-augustine 
+  - 2018-09-01-af-augustine
+  - 2019-04-03-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/awaken-your-gifts-through-love/"
 notes: ""
@@ -54,7 +55,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Allow these gifts that God has given you and will ignite within your soul to expand and be expressed and come awake within you
-last_edited: 2026-05-01
+last_edited: 2026-07-05
 ---
 
 Tis your teacher, Augustine. You have each received deep healings in your time together, healings that will help you in your work to come. Healings that will strengthen your bodies, will open gifts and will give insight and wisdom for the coming years where God will use you as His channels. There is much work to do, my beloveds. There are many opportunities awaiting each one of you. In your areas where you live, and beyond that, great Circles of Light will start to spread out into this world. Each servant of God, a channel of love, will be a part of this ever expanding Light that will come from God, to heal your world, to bring great change to the minds and souls of humanity. Those who are so lost will find some hope and truth and love.

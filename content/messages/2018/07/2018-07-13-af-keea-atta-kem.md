@@ -39,9 +39,10 @@ questions:
   - "What does it feel like when my gifts are unfolding in the right flow?"
   - "What does the Bible mean when it says every good and perfect gift comes from above?"
 related_messages:
-  - 2018-01-09-af-lotus-blossom
   - 2016-04-04-af-keea-atta-kem
   - 2017-01-16-af-keea-atta-kem
+  - 2018-01-09-af-lotus-blossom
+  - 2019-04-03-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/awakening-of-your-gifts-requires-gods-love-faith-and-timing/"
 notes: ""
@@ -55,7 +56,7 @@ excerpt: >
 collections: ["Prism of the Soul"]
 door: >
   You only see the tip of the iceberg. As you pray together, you activate blessings going out to many others whose souls are longing - though their minds may not know it
-last_edited: 2026-04-23
+last_edited: 2026-07-05
 ---
 
 How wonderful it is to see the light that you share amongst you, the love that you have for one another, and how as you build this light together, you build a greater light in this world. As you collect more souls into this circle you build a greater light, a beautiful light that God is able to use to bring a flow of light to others in this world. So yes, you benefit from each other and the efforts that you make to give and to love, to pray together, to work together. This light continues to build amongst those of you who seek to serve God, to draw His blessings through you to those who are connected to you, to those who you see on a daily basis and those who are strangers, but still there is some connection, some touch that comes from the soul.
