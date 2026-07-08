@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-06
+last_updated: 2026-07-08
 status: working notes only — do not generate from this file
 companion: chains-log.md
 ---
@@ -136,12 +136,16 @@ before adding new ones.
 | `sensitive-souls-redemptive` | The sensitive soul is the saving grace of this world | The sensitive soul feels the cruelty of the world acutely and struggles to be in it -> sensitivity is a sign of soul growth, not vulnerability -> the Love within the growing soul is its protection (thoughts attract like energies by law) -> such souls refuse the darkness of judgment and fear, progress swiftly, and stand as the redemptive example whose presence sows seeds of Love | Compassion & Empathy; Redemption of Humanity |
 | `challenges-as-blessings` | Every difficulty is a blessing that strengthens the soul | Hardship, whatever its source, is redeemed into soul-growth by God's design -> every struggle, test, and challenge brings insights and lessons that strengthen the soul -> the strengthened soul becomes a more powerful channel of Love -> so the challenge is met with trust rather than resentment | Soul Growth through Challenges |
 | `self-love-foundation` | Loving oneself is the prerequisite for loving others | One cannot extend compassion outward while suppressing or condemning the self -> the seeker is not to blame for their condition and should meet their own cleansing with compassion -> self-love opens the capacity to love others fully -> and the soul that loves itself becomes a clear channel of Love to the world | Self-Love & Acceptance; Compassion & Empathy |
+| `incremental-journey` | Growth in Divine Love is inherently incremental | The soul's growth advances in leaps, then trickles, impeded by world and self yet lifted by God -> the oscillation (two steps forward, one back) comes from the mind's fear-driven retreat to the familiar -> yet each forward effort reinforces truth -> and each step of the gradual awakening is swift in the measure of eternity | Personal Transformation Journey; Perseverance & Steadfastness |
 
 ---
 
-## Minted 2026-07-06 — witness rosters
+## Recently minted — witness rosters
 
-Four threads minted this date at the curator's direction. Anchors marked;
+Threads minted from the holding pen at the curator's direction
+(`earth-changes`, `sensitive-souls-redemptive`, `challenges-as-blessings`,
+and `self-love-foundation` on 2026-07-06; `incremental-journey` on
+2026-07-08). Anchors marked;
 back-search roles are provisional pending full text. Per-message log entries
 exist for the anchor-level witnesses; roster-only names await log migration
 as they are processed or back-searched in full.
@@ -156,6 +160,32 @@ as they are processed or back-searched in full.
   readying of souls) and from `earth-conditions-and-prayer` (the man-made
   darkness-field acting on the individual soul): this thread is the Earth's
   own changes and their purpose.
+- `sensitive-souls-redemptive` — 2016-03-07-af-augustine (Foundation, anchor)
+  and 2017-01-16-af-keea-atta-kem (Objection-removed: sensitivity is a sign
+  of growth, not vulnerability). Both logged.
+- `challenges-as-blessings` — minted on the witness roster rather than a
+  developed anchor; the anchor is still awaited (a message that builds WHY
+  hardship strengthens the soul rather than asserting that it does).
+  Witnesses: 2015-06-15-af-faith-nyquist, 2015-11-02-af-augustine,
+  2016-02-29-af-confucius, 2017-01-25-af-alec-gaunt, 2017-03-27-af-james,
+  2018-08-06-af-solomon, 2019-02-22-af-keea-atta-kem.
+- `self-love-foundation` — minted on the witness roster; anchor awaited (a
+  message making self-love its own central argument; Luke is the likeliest
+  voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
+  2016-03-10-af-confucius, 2016-03-11-af-luke (strongest),
+  2016-03-12-af-john-the-beloved, 2016-03-16-af-seretta-kem,
+  2018-06-24-af-luke.
+- `incremental-journey` — (minted 2026-07-08) witnesses in hand:
+  2015-03-23-af-john-the-beloved ("each step of the gradual awakening is
+  swift in the measure of eternity"), 2015-03-28-af-augustine (the blessing
+  of Divine Love is incremental, each prayer brings the soul closer),
+  2015-05-03-af-confucius (Foundation, presumptive anchor: growth advances
+  in leaps, then trickles, impeded by world and self yet lifted by God),
+  2019-04-04-af-matthew (Elaboration: the oscillation explained by the
+  mind's fear-driven retreat to the familiar, each forward effort
+  reinforcing truth). Overlaps `pentecost` (sudden vs gradual as the
+  awakening-modes question) and `soul-expiation`; this thread is the
+  why-increments question.
 
 ---
 
@@ -172,16 +202,6 @@ message gives them an argument to trace.
   aspect of mind, with human effort and free will as necessary partners).
   Re-mint when a second message develops the argument. Search-level home
   meanwhile: Divine Healing; Healing Path.
-- `incremental-journey` — the teaching that growth in Divine Love is
-  inherently incremental, and why God works by increments rather than all at
-  once. Sightings: 2015-03-23-af-john-the-beloved ("each step of the gradual
-  awakening is swift in the measure of eternity"); 2015-03-28-af-augustine
-  (the blessing of Divine Love is incremental, each prayer brings the soul
-  closer); 2015-05-03-af-confucius (growth advances in leaps, then trickles,
-  impeded by world and self yet lifted by God). Overlaps `pentecost` (sudden
-  vs gradual as the awakening-modes question) and `soul-expiation`; keep
-  distinct as the why-increments question. Mint when a message develops why
-  God works incrementally rather than merely that He does.
 - `the-fall` — the original state of humanity and the fall from grace.
   Seen: 2016-05-29-af-aman (original state and fall narrative);
   2016-03-31-af-judas (the clearest "offered and declined" statement - God
@@ -205,8 +225,8 @@ message gives them an argument to trace.
   the doctrinal framing (Jesus) and the experiential witness (Matthew). Mint when
   building, likely with Jesus 2017-05-11 as Foundation and Matthew 2019-02-15 as
   Testimony. Overlaps `soul-expiation` (the incremental cleansing road), the new-birth
-  material (no thread minted; watch), and the new `incremental-journey` pen
-  candidate; keep distinct as the awakening-modes question.
+  material (no thread minted; watch), and the `incremental-journey`
+  thread; keep distinct as the awakening-modes question.
 - `currency-of-love` — love as the true currency / medium of exchange
   between souls; bridges language, culture, and belief. Seen:
   2016-01-11-af-matthew. Also surfaces in 2016-07-04-af-francis-of-assisi

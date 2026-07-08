@@ -40,10 +40,11 @@ questions:
   - "Why did Jesus need to withdraw and pray so often?"
   - "How do I take the leap of faith toward living from my soul?"
 related_messages:
-  - 2018-05-17-af-augustine
-  - 2018-05-28-af-matthew
   - 2016-07-10-af-augustine
   - 2017-04-10-af-james
+  - 2018-05-17-af-augustine
+  - 2018-05-28-af-matthew
+  - 2019-04-04-af-matthew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/transitioning-from-mind-to-soul/"
 notes: >
@@ -58,7 +59,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The soul is stronger. The soul knows. And the soul needs to forge ahead - to realize its purpose in this life, and to serve God in Love
-last_edited: 2026-04-23
+last_edited: 2026-07-08
 ---
 
 A question has been asked and I am happy to respond with the intention of bringing clarity. The world is a very complicated and layered place filled with many thoughts, feelings, ideas, intentions, desires and emotions of all sorts. When you come to soul awakening, there is a greater sensitivity and awareness of these conditions in the world and how they press upon you when you are vulnerable and confused. You may feel many emotions swirling about within you and you ask, "where do these feelings come from, where does this confusion come from?" In many regards it is the mind's interpretation of the soul's longings that may cause confusion. The misinterpretation of the longing soul that seeks to be with God, affects the mind in many ways. The mind interprets, transforms those feelings of the soul, the thoughts of the soul, and formulates it into ideas and feelings that conform with the condition of the material mind. Thus the material mind tries to make sense of the world and of your inner world in ways that are not necessarily in harmony or truthful to the conditions of the soul, the understandings of the soul. Thus conflict arises along with discomfort and confusion, because as you transition from the ways of the mind, the material mind, towards the ways of the soul, this in-between place is a place where these two conditions collide and cause a measure of chaos.

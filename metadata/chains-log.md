@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-06
+last_updated: 2026-07-08
 status: working notes only — do not generate from this file
 companion: chains-threads.md
 ---
@@ -129,6 +129,7 @@ are built.
 
 ### 2015-03-28-af-augustine — The Journey of Divine Love Takes Time but Brings Great Benefits — 2015-03-28 [back-search]
 - `religious-error` **[Testimony]** — Augustine, former bishop of Hippo, acknowledges spreading erroneous beliefs in his Earth life; his correction-from-within-spirit is testimony for the religious-error thread.
+- NOTE (sighting, `incremental-journey`, added 2026-07-08 on minting): the blessing of Divine Love is incremental, each prayer bringing the soul closer; witness in the Foundation section beneath the Confucius anchor (2015-05-03).
 
 ### 2015-03-29-af-seretta-kem — The Greatest of All Types of Healing Is Divine Love Healing — 2015-03-29 [back-search]
 - `divine-love-healing` **[Foundation]** — Establishes Divine Love as the greatest healing, distinct from all transferable energies, transforming every cell while requiring human partnership. Likely head of this thread. (2026-07-06: thread returned to the holding pen — minted prematurely on this single witness; slug reserved, role stands for re-mint when a second developing message appears.)
@@ -360,6 +361,11 @@ are built.
 ### 2019-04-03-af-joseph — The Gift of Divine Love Is the Greatest Truth You May Know — 2019-04-03
 - NOTE (sighting, not a member): Joseph proclaims the supremacy of the Divine Love gift - "no matter how long is your journey to God, this gift is the greatest truth you may know," and in receiving it "all other blessings come, all doors are opened." Pairs this with the dormant-soul-awakened image ("your soul for the most part lies dormant without this gift... this gift to flow and open the many chambers of your souls"), a `soul-faculties` touch at a search level. A powerful proclamation and testimony (Joseph's Earth-life failure to understand his son's mission) rather than an argument advancing a specific thread with a new facet, so logged as a sighting. The two-paths and divine-love-supremacy themes are asserted, not built. Also carries `who-jesus-was` adjacent material (Jesus as Messiah "not just for the Jews but for all of humanity," who "opened the doors to this gift") at a search level.
 
+### 2019-04-04-af-matthew — Awaken! — 2019-04-04
+- `mind-vs-soul` **[Elaboration]** — adds the resistance-and-retreat dynamic the thread lacks: the seeker mistrusts the soul's "newfound freedom," tests the higher perspectives "constantly" against the old earthly conditions, fears the shifts underway, and hurries "to the comfort of your old ways, clinging, reinforcing, embracing what is old and familiar." Names the contest directly - the mind's stubbornness, fear, and anger are "not a part of love but a part of fear" - and the treasures of the soul surface only "if the tyranny of the mind does not overpower the gentleness yet persistence of the soul." Closes on the integration end-state ("the mind and the soul are one and in harmony together"), restating the vista the thread's Chrysalis entries open; the distinct contribution is why integration is slow: the mind's fear-driven retreat.
+- `incremental-journey` **[Elaboration]** — (upgraded from sighting on minting, 2026-07-08) the development that carried the thread out of the holding pen: "you take two steps forward and one back. You try something new and then retreat to the old. But each time you make that effort, beloved souls, you reinforce truth." Supplies the mechanism of the oscillation (fear-driven retreat to the familiar) and the claim that each forward effort reinforces truth.
+- NOTE: light `soul-faculties` adjacency ("treasures, gifts, perceptions that will come to your consciousness"; the opening "faculties of the soul bring depth and truth and perspective") and a `bell-toll-instrumentality` echo ("how else may change come into this world but with the change of each soul awakened in love"), both asserted rather than developed; search-level.
+
 ### 2016-01-08-af-jesus — Encouragement from Jesus — 2016-01-08 [not publicly posted]
 - `healing-channel` **[Elaboration]** — Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible additional witness for the now-minted `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - confirm role against full text before adding.
 
@@ -547,5 +553,18 @@ are built.
 
 ### 2019-01-30-af-seretta-kem — Jesus Assigns Spirit Guides — 2019-01-30 [back-search]
 - `divine-love-mediumship` **[Objection-removed]** — clears the belief that Jesus can be summoned on demand or claimed as any individual's exclusive guide: Jesus assigns guides from the Celestial Kingdom in accordance with God's Will, and humility and openness rather than expectation are the conditions of genuine angelic communication. (The log already cites this message in the 2019-02-18-af-augustine NOTE; it now has an entry of its own.)
+
+---
+
+
+## Back-search additions — 2026-07-08 (on minting `incremental-journey`)
+
+> Roles provisional; from index descriptions, confirm at full text.
+
+### 2015-03-23-af-john-the-beloved — Be Patient with Your Progress — 2015-03-23 [back-search]
+- NOTE (sighting, `incremental-journey`): "each step of the gradual awakening is swift in the measure of eternity" — the eternity-perspective reframe of the incremental pace, in blessing form. Witness in the Foundation section.
+
+### 2015-05-03-af-confucius — Spiritual Growth Comes in Leaps, Then Trickles — 2015-05-03 [back-search]
+- `incremental-journey` **[Foundation]** — presumptive section anchor for the newly minted thread: the soul's growth advances in leaps, then trickles, impeded by the world and the self yet always lifted by God. The earliest developed statement of the incremental pattern in hand.
 
 ---
