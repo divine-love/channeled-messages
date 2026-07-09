@@ -200,8 +200,11 @@ message gives them an argument to trace.
   2015-03-29-af-seretta-kem (the developed statement: must come directly from
   God, cannot be passed person to person, transforms every cell, energy, and
   aspect of mind, with human effort and free will as necessary partners).
-  Re-mint when a second message develops the argument. Search-level home
-  meanwhile: Divine Healing; Healing Path.
+  Re-mint when a second message develops the argument. Likely second
+  witnesses to check, linked from the Foundation's own related_messages:
+  2016-04-13-af-seretta-kem, 2017-12-12-af-seretta-kem,
+  2018-07-14-af-seretta-kem. Search-level home meanwhile: Divine Healing;
+  Healing Path.
 - `the-fall` — the original state of humanity and the fall from grace.
   Seen: 2016-05-29-af-aman (original state and fall narrative);
   2016-03-31-af-judas (the clearest "offered and declined" statement - God
@@ -226,7 +229,9 @@ message gives them an argument to trace.
   building, likely with Jesus 2017-05-11 as Foundation and Matthew 2019-02-15 as
   Testimony. Overlaps `soul-expiation` (the incremental cleansing road), the new-birth
   material (no thread minted; watch), and the `incremental-journey`
-  thread; keep distinct as the awakening-modes question.
+  thread; keep distinct as the awakening-modes question. Further sighting:
+  2019-01-28-af-matthew-2 (references the Pentecost conditions directly;
+  sudden vs gradual framed as a matter of yearning intensity; logged).
 - `currency-of-love` — love as the true currency / medium of exchange
   between souls; bridges language, culture, and belief. Seen:
   2016-01-11-af-matthew. Also surfaces in 2016-07-04-af-francis-of-assisi

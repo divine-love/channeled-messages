@@ -8,16 +8,23 @@ Also performs additional checks not covered by JSON Schema, such as:
   - related_messages IDs reference existing message files
   - last_edited is a valid date
   - title is wrapped in quotes (cannot be checked by schema, flagged as warning only)
+  - primary_subjects and secondary_subjects match names defined in
+    metadata/subjects.yml (the single source of truth for the vocabulary)
+  - subjects.yml itself contains no duplicate names
+
+After validation, prints a SUBJECT USAGE CENSUS: every subject in
+subjects.yml with the number of messages using it, so unpopulated
+subjects and drift trends are visible on every push.
 
 Run locally:  python .github/scripts/validate_messages.py
 Run in CI:    automatically triggered by GitHub Actions on push/pull_request
 """
 
-import os
 import sys
 import yaml
 import jsonschema
 import datetime
+from collections import Counter
 from pathlib import Path
 
 # ── Paths ────────────────────────────────────────────────────────────────────
@@ -26,6 +33,7 @@ SCHEMA_PATH = ROOT / "schema" / "message.schema.yml"
 MESSAGES_DIR = ROOT / "content" / "messages"
 SPIRITS_DIR = ROOT / "spirits"
 MEDIUMS_DIR = ROOT / "mediums"
+SUBJECTS_PATH = ROOT / "metadata" / "subjects.yml"          # NEW
 
 # ── Colours for terminal output ───────────────────────────────────────────────
 RED = "\033[91m"
@@ -33,8 +41,6 @@ YELLOW = "\033[93m"
 GREEN = "\033[92m"
 RESET = "\033[0m"
 
-
-import datetime
 
 def convert_dates(data):
     """Recursively convert date objects to ISO string format for JSON Schema validation."""
@@ -81,7 +87,52 @@ def get_all_message_ids():
     return ids
 
 
-def validate_file(path, schema, spirit_ids, medium_ids, all_message_ids):
+# ── NEW: subject vocabulary ───────────────────────────────────────────────────
+def get_valid_subjects():
+    """
+    Read metadata/subjects.yml (the single source of truth) and return
+    (ordered_names, duplicate_names). Names include every top-level
+    category and every subcategory, in file order.
+    """
+    with open(SUBJECTS_PATH, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f.read())
+    names = []
+    for cat in data.get("main_categories", []):
+        names.append(cat["name"])
+        for sub in cat.get("subcategories", []) or []:
+            names.append(sub["name"])
+    duplicates = sorted({n for n, c in Counter(names).items() if c > 1})
+    return names, duplicates
+
+
+def extract_subjects(data):
+    """Return the list of subject values used by one message's front matter."""
+    used = []
+    primary = data.get("primary_subjects")
+    if isinstance(primary, str) and primary.strip():
+        used.append(primary.strip())
+    secondary = data.get("secondary_subjects") or []
+    if isinstance(secondary, list):
+        used.extend(s.strip() for s in secondary if isinstance(s, str) and s.strip())
+    return used
+
+
+def build_subject_census(subject_names):
+    """Count how many messages use each subject (primary or secondary)."""
+    census = Counter({name: 0 for name in subject_names})
+    for path in MESSAGES_DIR.rglob("*.md"):
+        data = load_yaml(path)
+        if not data:
+            continue
+        # Count each subject once per message even if repeated in the file
+        for s in set(extract_subjects(data)):
+            if s in census:
+                census[s] += 1
+    return census
+# ──────────────────────────────────────────────────────────────────────────────
+
+
+def validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_subjects):
     errors = []
     warnings = []
 
@@ -132,6 +183,11 @@ def validate_file(path, schema, spirit_ids, medium_ids, all_message_ids):
     if message_id and message_id != message_id.lower():
         errors.append(f"message_id '{message_id}' must be fully lowercase")
 
+    # ── NEW: subject vocabulary cross-reference ──────────────────────────────
+    for s in extract_subjects(data):
+        if s not in valid_subjects:
+            errors.append(f"subject '{s}' is not defined in metadata/subjects.yml")
+
     return errors, warnings
 
 
@@ -142,6 +198,15 @@ def main():
     except Exception as e:
         print(f"{RED}Could not load schema: {e}{RESET}")
         sys.exit(1)
+
+    # ── NEW: load subject vocabulary ─────────────────────────────────────────
+    print(f"Loading subject vocabulary from {SUBJECTS_PATH.relative_to(ROOT)}...")
+    try:
+        subject_names, duplicate_subjects = get_valid_subjects()
+    except Exception as e:
+        print(f"{RED}Could not load subjects.yml: {e}{RESET}")
+        sys.exit(1)
+    valid_subjects = set(subject_names)
 
     spirit_ids = get_spirit_ids()
     medium_ids = get_medium_ids()
@@ -160,9 +225,17 @@ def main():
     total_warnings = 0
     files_with_issues = 0
 
+    # ── NEW: duplicate names inside subjects.yml are themselves an error ─────
+    if duplicate_subjects:
+        print(f"  metadata/subjects.yml")
+        for d in duplicate_subjects:
+            print(f"    {RED}ERROR{RESET}   subject name '{d}' is defined more than once")
+            total_errors += 1
+        print()
+
     for path in message_files:
         rel = path.relative_to(ROOT)
-        errors, warnings = validate_file(path, schema, spirit_ids, medium_ids, all_message_ids)
+        errors, warnings = validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_subjects)
 
         if errors or warnings:
             files_with_issues += 1
@@ -174,6 +247,21 @@ def main():
                 print(f"    {YELLOW}WARNING{RESET} {w}")
                 total_warnings += 1
             print()
+
+    # ── NEW: subject usage census ─────────────────────────────────────────────
+    census = build_subject_census(subject_names)
+    used = [(n, c) for n, c in census.items() if c > 0]
+    unused = [n for n, c in census.items() if c == 0]
+    print("─" * 60)
+    print("SUBJECT USAGE CENSUS")
+    print(f"  {len(used)} of {len(subject_names)} subjects in use across {len(message_files)} message(s)\n")
+    for name, count in sorted(used, key=lambda x: (-x[1], x[0])):
+        print(f"  {count:4d}  {name}")
+    if unused:
+        print(f"\n  Not yet used ({len(unused)}) - expected while the archive backlog is being processed:")
+        for name in unused:
+            print(f"     -  {name}")
+    print()
 
     # ── Summary ───────────────────────────────────────────────────────────────
     print("─" * 60)
