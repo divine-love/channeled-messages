@@ -1,7 +1,7 @@
 ---
 title: "Prism of the Soul"
 description: "Messages exploring the nature, faculties, and gifts of the soul — its capacity for Divine Love, its unique expression, its senses, and the gifts that emerge as it is awakened and transformed."
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
 # Prism of the Soul

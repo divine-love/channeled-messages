@@ -1,7 +1,7 @@
 ---
 title: "Healing Path"
 description: "Messages about healing in all its dimensions — physical, emotional, and spiritual. Includes teachings on how Divine Love heals, the mechanics of spirit healing, and the restoration of the soul and body through prayer and God's Love."
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
 # Healing Path
