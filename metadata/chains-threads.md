@@ -174,7 +174,9 @@ as they are processed or back-searched in full.
   voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
   2016-03-10-af-confucius, 2016-03-11-af-luke (strongest),
   2016-03-12-af-john-the-beloved, 2016-03-16-af-seretta-kem,
-  2018-06-24-af-luke.
+  2018-06-24-af-luke, 2019-04-05-af-augustine (Elaboration, logged:
+  self-acceptance stated as the logic that makes judgment of others
+  impossible; a possible anchor, decide at build).
 - `incremental-journey` — (minted 2026-07-08) witnesses in hand:
   2015-03-23-af-john-the-beloved ("each step of the gradual awakening is
   swift in the measure of eternity"), 2015-03-28-af-augustine (the blessing
