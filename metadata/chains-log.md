@@ -117,6 +117,12 @@ are built.
 
 ---
 
+### 1963-12-26-ds-mary — Jesus' Birth and Youth — 1963-12-26
+- `who-jesus-was` **[Foundation]** — (full reading, 2026-07-08) the earliest message in the archive and now the earliest in any chain: Mary's firsthand correction of the birth and divinity record. "Most of what the New Testament says about me is untrue": no virgin birth, Jesus "born exactly like other babies," Joseph a young husband rather than the aged figure of tradition, eight flesh-and-blood children. Establishes the thread's central premise from the source: Messiahship was attained, not innate — God's Love "permeated his soul... made him, in time, His real, only begotten son." Also carries the family-thought-him-insane testimony and the not-a-blood-sacrifice correction, and the note that his natural love absorbed the young man's turn toward marriage, anticipating the complete-soul teaching (2019-01-27). Foundation-section member; the anchor choice is now a three-way build decision (1963 Mary, 2018-11-26 Jesus, 2019-01-27 Jesus).
+- `two-paths` **[Testimony]** — the natural/Divine distinction witnessed in two lives: "Jeshu's love for his family was a natural love, purified. It later became Divine through prayer"; and Mary's own love for her son "deepened into the Divine Love" only after his death, giving her what her natural love could not supply at the cross. Lived evidence of the two loves and the crossing between them, from the paradigm case and his mother.
+- `religious-error` **[Elaboration]** — doctrinal correction from an eyewitness rather than a reformer, a shape the thread did not yet hold: the virgin-birth narrative untrue, the decrepit-Joseph portrait invented, and the crucifixion "not as a blood sacrifice as most Gentiles believe" but the sacrifice of a life to carry out a mission of preaching God's Love. The corrected-atonement facet stands directly beside the thread's registry argument.
+- NOTE: a `divine-love-mediumship` adjacency (communication given only with approval from Jesus; the Padgett-to-Samuels continuity of instruction) and a `prayer-soul-longing` sighting (the Love came as Jesus was turned "to think of God and long for God's Presence; to pray"). Search-level.
+
 ### 2014-10-11-af-judas — Every Soul Can Receive the Divine Love and Be Transformed by It — 2014-10-11
 - `redemption-universal` **[Testimony]** — Judas, the archetypal betrayer, testifies to his own redemption through Divine Love as living proof that no soul is beyond reach. Likely an early and powerful link; confirm chronological place once full set is in.
 

@@ -344,6 +344,13 @@ message gives them an argument to trace.
 
 # Open questions to revisit when building begins
 
+- `who-jesus-was` now holds three Foundation-section members spanning 56 years:
+  1963-12-26-ds-mary (the attained-Messiahship and birth-record correction),
+  2018-11-26-af-jesus (existence and impersonation), and 2019-01-27-af-jesus
+  (complete soul, no soulmate). Choose the section anchor at build; the 1963
+  Mary message is also the earliest message in the archive, so whichever
+  anchor is chosen, the chain now opens the archive's full 1963-2023 span.
+
 - `divine-love-mediumship` was minted 2026-07-03 with six witnesses, all now
   logged: 2016-03-27-af-seretta-kem (Foundation), 2016-12-06-af-seretta-kem
   (Elaboration), 2018-08-29-af-seretta-kem (Elaboration), 2019-01-26-af-andrew
