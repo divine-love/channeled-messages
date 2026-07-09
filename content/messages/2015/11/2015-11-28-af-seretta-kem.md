@@ -19,7 +19,7 @@ description: >
   them that God will open door after door as they travel the world connecting
   with other circles of Light in God's great plan to bring healing and harmony to
   the Earth.
-primary_subjects: "Physical & Miraculous Healing"
+primary_subjects: "Healing Through Prayer"
 secondary_subjects: ["Interfaith & Universal Truth", "Lattice of Light & Global Prayer Network", "Circle of Light & Prayer Circles", "Global Spiritual Work"]
 people: []
 spirits: []
@@ -46,7 +46,7 @@ notes: >
   Source: http://new-birth.net/healing_circle.htm
 door: >
   When souls join hands in prayer, they share not just intention but their very being
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 Beautiful and beloved souls, welcome to this circle of Light.

@@ -18,7 +18,7 @@ description: >
   need to control the paths of loved ones, accepting them with Love and prayer
   while walking in peace and faith.
 primary_subjects: "Overcoming Fear & Doubt"
-secondary_subjects: ["Praying for Children & Loved Ones", "Faith & Trust", "God's Mercy & Unconditional Love"]
+secondary_subjects: ["Children & Future Generations", "Faith & Trust", "God's Mercy & Unconditional Love"]
 people: []
 spirits: []
 keywords: ["fear", "light", "joy", "protection", "faith", "trust", "loved ones", "prayer", "acceptance", "channel of love", "healing", "peace", "earth changes", "God's hand"]
@@ -39,7 +39,7 @@ essential_teachings: []
 door: >
   When everything else is uncertain, continuing to love is always the right next step
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 I am John. There is nothing to fear, my beloveds. What comes before you is only Light, what awaits you is joy. Though the Earth may change, your lives may change and the conditions of humanity may press upon you, my beloveds, there is nothing to fear, for God has His Hand firmly upon you and His Protection is powerfully with you, my beloveds. And it is for you, my beloveds, to not allow these conditions of the world to hamper you upon your Path, but to walk in good faith and trust in the Will of God, and know that you walk in Light. And ask your Heavenly Father, when you feel besieged by the conditions of this world and those around you who struggle, ask Him to guide you to be a channel of Love and healing for those around you, to be strong in Light, and faith and Love. For in this way you bring healing and harmony, peace and joy. And for those who turn away from this Light, you cannot control their decisions, you must love them and accept their path and say a prayer that they may walk upon their path to a place of Light and true understanding.

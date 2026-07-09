@@ -19,7 +19,7 @@ description: >
   instead allow the deep knowing of the soul to be their anchor, as God's Love
   gradually clears away the shadows and mists to reveal their true purpose.
 primary_subjects: "Self-Love & Acceptance"
-secondary_subjects: ["Mind vs Soul Conflict", "Individual Soul Calling", "Knowing God"]
+secondary_subjects: ["Mind vs Soul Conflict", "Divine Purpose", "Knowing God"]
 people: []
 spirits: ["faith-nyquist"]
 keywords: ["shadows", "mists", "soul awareness", "self-knowledge", "clarity", "guidance", "purpose", "free will", "soul wisdom", "alignment", "obstructions", "inner knowing", "salvation", "God's Love"]
@@ -44,7 +44,7 @@ essential_teachings: []
 door: >
   The fog that obscures your soul is not permanent. Love is already clearing it
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 It is Augustine, my beloveds, God bless you. Yes, you will be guided and fully engaged in the work, my beloveds, as our dear friend Faith has instructed. As you clear away the obstructions within you and learn to truly love and acknowledge yourselves as the true and beautiful souls that you are, as this awareness dawns within you fully and completely, you will be more easily guided, the insights will come in deeper and clearer ways, the guidance will lead you and show you the way towards the fulfillment of your purpose and part in the salvation of mankind. For each of you has an important role to play and through your life experiences, perspectives and gifts you will contribute important pieces to this puzzle, this picture, this plan that is of God's making.

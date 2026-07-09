@@ -18,7 +18,7 @@ description: >
   that place of deep peace and holy communion with God, where every question is
   answered and every fear resolved.
 primary_subjects: "Mind vs Soul Conflict"
-secondary_subjects: ["Soul Healing", "Knowing God", "Prayer & Devotion", "Soul Awakening"]
+secondary_subjects: ["Soul Healing & Emotional Restoration", "Knowing God", "Prayer & Devotion", "Soul Awakening"]
 people: []
 spirits: []
 keywords: ["soul consciousness", "material mind", "God's will", "sacred place", "holy communion", "peace", "healing", "wounds", "fear", "wisdom", "alignment", "still voice", "soul awareness", "transformation"]
@@ -41,7 +41,7 @@ notes: ""
 essential_teachings: []
 door: >
   Your soul already knows what your mind is still arguing about
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 God bless you, I am Keea atta Kem. Yes, my beloveds, when you walk the Earth you can bring change and Love but you must be with God in this, you must follow His Will and put aside your will, for your will impedes the Love, it is part of the human condition that impedes the Love. And the only way you can know God's Will is to be centered within your soul, to understand His desires. The power of His Love is to be within that place that is your soul and many of you struggle to reside there, to know this place well and to know God's Will, His still voice guiding you, His warm Touch healing you and loving you. And as you go again and again to that sacred and beautiful place within you, you cause, with your efforts and God's Touch, a deep and abiding shift within you, a releasing of all of your wounds, and all that is in error, and all that holds you tightly in the confines of your mind and your pain. It will fall away, it will fall away, my beloveds, because it must, because of the power of God's Love to transform you and heal you, because God wants you to be free and to be in joy.

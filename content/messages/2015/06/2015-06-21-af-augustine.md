@@ -16,7 +16,7 @@ description: >
   spread within. He calls for compassion toward those acting from places of pain
   and confusion, reminding his listeners that healing is gradual and incremental,
   and that God's Love is the only true restorer of the soul.
-primary_subjects: "Soul Healing"
+primary_subjects: "Soul Healing & Emotional Restoration"
 secondary_subjects: ["Receiving the Divine Love through Prayer", "Earthly Challenges & Human Condition"]
 people: []
 spirits: []
@@ -40,7 +40,7 @@ essential_teachings: []
 door: >
   What looks bruised and damaged to you may be exactly what God is healing from the inside
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 My dear students, it is your teacher Augustine. I wish to present a lesson to you, beloved students, and this lesson will be given in the form of a metaphor. Every soul is given the gift of life and if one thinks of this gift as an apple and this apple is bruised, as many souls are bruised by the conditions of this world, and rather than going to your Heavenly Father for healing of this bruised part, one nurtures this bruise and holds dear this pain that comes from the hurtful conditions of this world, and in holding on, the bruise within the apple spreads and the corruption spreads within, and there is further bruising, and further commiserating, and holding on dearly to these conditions and feelings of pain until the entire apple is corrupted and life becomes a thing different from what is meant to be, as this apple becomes something that once was fresh and beautiful and now withered. So, my beloveds, when you pray for the Father's Love you add more life and healing to who you are, healing those bruised parts within, making right those difficult and hurting places.

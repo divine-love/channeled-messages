@@ -18,7 +18,7 @@ description: >
   faith and soul Light and are now walking as God's instruments, agents of
   change, and channels of Love — part of a chain of Light that flows through them
   and touches many souls.
-primary_subjects: "Becoming a Channel of Love"
+primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects: ["Unique Soul Gifts", "Faith & Trust", "God's Mercy & Unconditional Love", "Discipleship", "Lattice of Light & Global Prayer Network"]
 people: []
 spirits: []
@@ -41,7 +41,7 @@ essential_teachings: []
 door: >
   Becoming a channel of Love is not a destination. It is a continuous unfolding
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 I am John and I love you. You are enfolded by your Heavenly Father, my beloveds. He carries you in this world and He lifts you above the conditions of this world to that place of Light and communion. He lights your way and He meets your every need, my beloveds, and all because you are willing to be open to Him, all because you are prayerful and longing for His Love. And this is given in abundance, this is given in a mighty flow that cascades upon you and over you, through you and within you; it cascades in mighty rivers and waters of Love sweeping you away upon the Path Divine, ever closer to His fountainhead of Love; it carries you and you are upheld.

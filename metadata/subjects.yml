@@ -79,11 +79,6 @@ main_categories:
       and capacities as Divine Love flows in. The soul moves from dormancy to
       active awareness, beginning to perceive and know in ways the mind alone
       cannot.
-  - name: Soul Healing & Emotional Restoration
-    definition: >
-      The healing of deep emotional and spiritual wounds through Divine Love.
-      Covers grief, trauma, buried pain, and the restoration of the soul to
-      wholeness and harmony.
   - name: Personal Transformation Journey
     definition: >
       The broader arc of an individual's spiritual life, the tests, growth,
@@ -127,6 +122,10 @@ main_categories:
       The practice of releasing control and self-will into God's hands,
       trusting His timing, plan, and guidance rather than forcing outcomes
       through human effort and planning.
+      Distinct from Surrender to God's Will, under Divine Will, Guidance &
+      Orchestration, which concerns the orientation of one's path within
+      God's plan; this subject is the daily practice and discipline of
+      letting go.
   - name: Joyful Living
     definition: >
       The teaching that joy is a spiritual practice and a sign of soul
@@ -232,6 +231,14 @@ main_categories:
       of Light, Chain of Light, or Sphere of Light. This network facilitates
       God's blessings to humanity and is a central feature of God's plan
       for the world's redemption.
+  - name: Portals of Light
+    definition: >
+      Concentrated mechanisms of blessing built and maintained by spirit
+      with God's sanction, through which Light and Divine blessings flow
+      into the world. Distinct from Circles of Light (human prayer
+      gatherings) and from the Lattice of Light (the connected network of
+      praying souls); a portal is a constructed conduit rather than a
+      gathering or a network.
   - name: Unity in Diversity
     definition: >
       The teaching that souls from different backgrounds, cultures, and
@@ -247,6 +254,11 @@ main_categories:
       The blessing and purpose of physical places set apart for prayer and
       Divine Love, homes, retreat centres, and gathering spaces blessed
       by God as refuges of Light.
+  - name: Children & Future Generations
+    definition: >
+      The spiritual nature and care of children and the young, prayer for
+      children and loved ones, and the carrying of the Divine Love teachings
+      to future generations.
 
 - name: Divine Will, Guidance & Orchestration
   definition: >
@@ -259,6 +271,9 @@ main_categories:
       The conscious choice to release personal agenda and allow God's Will
       to direct one's path, distinguished from passivity by its active
       quality of trust and engagement.
+      Distinct from Surrender & Trust in God, under Spiritual Discipline &
+      Daily Living, which is the daily practice of releasing control; this
+      subject is the deeper orientation of one's path within God's plan.
   - name: Divine Plan & Timing
     definition: >
       The teaching that God has a plan for each soul and for humanity, and
@@ -300,6 +315,9 @@ main_categories:
     definition: >
       The inner work of releasing the fears and doubts that hold souls back
       from stepping into their calling and trusting God's plan for their lives.
+      Distinct from Overcoming Inadequacy & Doubt, under Spiritual
+      Empowerment & Encouragement, which concerns feelings of unworthiness;
+      this subject is the fear that blocks stepping into one's calling.
 
 - name: Service, Ministry & Being a Channel of Love
   definition: >
@@ -329,7 +347,8 @@ main_categories:
   definition: >
     Messages specifically focused on healing, of the soul, the emotions,
     and the conditions inherited from the human condition, through Divine
-    Love and its transforming power.
+    Love and its transforming power. Covers grief, trauma, buried pain, and
+    the restoration of the soul to wholeness and harmony.
   subcategories:
   - name: Divine Love Healing
     definition: >
@@ -422,11 +441,9 @@ main_categories:
 - name: Spiritual Identity & Destiny
   definition: >
     Messages on who each soul truly is, its unique gifts, its divine
-    purpose, and its eternal destiny in God's great plan.
+    purpose, and its eternal destiny in God's great plan. See also
+    Unique Soul Gifts, under Preparation for Earth Mission.
   subcategories:
-  - name: Unique Soul Gifts
-    definition: >
-      See Preparation for Earth Mission > Unique Soul Gifts.
   - name: Divine Purpose
     definition: >
       The teaching that every soul has a specific purpose in God's plan,
@@ -466,13 +483,23 @@ main_categories:
 - name: Interdimensional & Spirit Communication
   definition: >
     Messages on the nature of the spirit world, its planes, its inhabitants,
-    and the conditions of communication between spirit and material planes.
+    and the conditions of communication between spirit and material planes. See also Mediumship & Developing as
+    an Instrument, under Preparation for Earth Mission.
   subcategories:
+  - name: Death & Transition to Spirit
+    definition: >
+      The nature of physical death and the soul's passing into the world of
+      spirit: what the transition is like, the welcome and care that await
+      the arriving soul, and the continuity of life, love, and identity
+      beyond the veil. Distinct from Grief & Loss, which addresses the
+      mourner's experience of bereavement.
   - name: Soul Spheres & Progression
     definition: >
       The planes of the spirit world through which souls on the natural
       love path progress after death, ascending through increasing harmony
-      toward the sixth sphere, beyond which only Divine Love can carry them.
+      toward the sixth sphere, beyond which only Divine Love can carry them. Includes the correction that souls
+      do not reincarnate into new earthly lives but progress onward
+      through the spheres.
   - name: Celestial Heavens & At-onement
     definition: >
       The highest spirit planes, inhabited by souls who have received
@@ -488,9 +515,6 @@ main_categories:
       The Celestial and other spirits who accompany, guide, protect, and
       assist souls on Earth, including the angels sent by God to answer
       prayer and facilitate His blessings.
-  - name: Mediumship & Developing as an Instrument
-    definition: >
-      See Preparation for Earth Mission > Mediumship & Developing as an
       Instrument.
   - name: Spirit Testimony & Personal Story
     definition: >
@@ -565,24 +589,26 @@ main_categories:
       clearly, and convey blessings of greater depth and quality. The
       strength of communication is directly proportional to the spiritual
       conditions created by those present.
+  - name: Laws of Creation
+    definition: >
+      The laws by which God governs the created order, including the natural
+      world, whose observance brings harmony and whose violation by humanity
+      brings imbalance and consequence to the Earth. Distinct from the
+      relational laws such as the Law of Attraction and the Law of
+      Compensation, which govern the conditions and progress of souls.
 
 - name: Historical Context & Spiritual Legacy
   definition: >
     Messages in which historical figures speak from their perspective in
     spirit, or in which the history and legacy of the Divine Love teachings
-    is addressed.
+    is addressed. See also Spirit Testimony & Personal
+    Story, under Interdimensional & Spirit Communication, and Religious
+    Error & Reformation, under Teaching, Testimony & Instruction.
   subcategories:
-  - name: Spirit Testimony & Personal Story
-    definition: >
-      See Teaching, Testimony & Instruction > Spirit Testimony & Personal
-      Story.
   - name: Life of Jesus
     definition: >
       Messages touching on the historical life, mission, and teachings of
       Jesus, particularly the Truth of Divine Love as his central message.
-  - name: Religious Error & Reformation
-    definition: >
-      See Teaching, Testimony & Instruction > Religious Error & Reformation.
   - name: Padgett Messages & Legacy
     definition: >
       References to the foundational channelled messages received by James
@@ -608,6 +634,10 @@ main_categories:
     definition: >
       Addressing the common experience of feeling unworthy, too broken,
       or too far from God to receive His Love or fulfil a purpose.
+      Distinct from Overcoming Fear & Doubt, under Preparation for Earth
+      Mission, which concerns the fears that block the calling; this subject
+      is the feeling of being unworthy or too broken to receive God's Love
+      or fulfil a purpose.
 
 - name: Creation and Incarnation
   definition: >
@@ -620,6 +650,14 @@ main_categories:
       Teachings on what the soul is, its origin, its faculties, its
       relationship to the mind and body, and its capacity to know God
       and receive Divine Love.
+  - name: Faculties of the Soul
+    definition: >
+      The soul's own capacities of perception, knowing, intuition, and
+      expression, often described as chambers or potentials that lie dormant
+      until awakened and nourished by Divine Love. Distinct from Soul
+      Awakening (the process by which these faculties come to consciousness)
+      and from Unique Soul Gifts (the individual endowments expressed
+      through them).
   - name: Purpose of Physical Life
     definition: >
       The teaching that the Earth life is a unique and precious opportunity

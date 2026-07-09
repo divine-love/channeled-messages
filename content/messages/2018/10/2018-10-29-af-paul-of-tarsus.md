@@ -21,7 +21,7 @@ description: >
   wondrous journey without restriction or limitation.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Two Paths"
+  - "Natural Love Path vs Divine Love Path"
   - "At-onement"
   - "Circle of Light & Prayer Circles"
   - "Soul Awakening"
@@ -57,7 +57,7 @@ excerpt: >
 door: >
   Jesus said "seek ye the kingdom and all things shall come to you." His words refer to the blessing of Divine Love — for this creates the kingdom within your soul.
 collections: ["Two Paths", "Letters from History", "The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 I am Paul, Paul of Tarsus, Paul of the bible. I've come to speak to you about the value and purpose of your soul. When you pray together in a circle such as this you bring your spiritual energies and intentions into the circle. Depending upon your beliefs and your desires, you bring in certain energies, influences and blessings to you.

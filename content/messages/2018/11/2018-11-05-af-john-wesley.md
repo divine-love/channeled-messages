@@ -22,7 +22,7 @@ primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Perseverance & Steadfastness"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Religious Error & Reformation"
 people: []
 spirits: []
@@ -57,7 +57,7 @@ collections:
   - "Letters from History"
   - "Awakening Humanity"
   - "Service & Mission"
-last_edited: 2026-07-05
+last_edited: 2026-07-08
 ---
 
 I am John Wesley and I am happy that this individual has accepted my presence and is able to speak the words which I wish to convey. I am now an inhabitant of the Celestial Kingdom and in order to do so, many of my attitudes and ideas had to be changed and reconstructed within the Truth of Divine Love. This happens to many of us who pass into spirit. We must rethink everything because the spiritual planes are so different, and the options and possibilities of life are widened substantially in these higher planes of existence.

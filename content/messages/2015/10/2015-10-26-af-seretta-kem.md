@@ -19,7 +19,7 @@ description: >
   more souls than they can see, both in the flesh and in spirit, and that the
   celestials are like midwives supporting the rebirthing of their souls in Love.
 primary_subjects: "Circle of Light & Prayer Circles"
-secondary_subjects: ["Interdimensional & Spirit Communication", "Material Plane & Dark Spheres", "Lattice of Light & Global Prayer Network", "Teaching from Celestial Spirits"]
+secondary_subjects: ["Interdimensional & Spirit Communication", "The Hells & Dark Spheres", "Lattice of Light & Global Prayer Network", "Teaching, Testimony & Instruction"]
 people: []
 spirits: []
 keywords: ["prayer circle", "unseen world", "spirits", "concentric circles", "celestial spirits", "lower spheres", "service", "Light", "midwife", "rebirth", "thousands of spirits", "spirit world", "observed", "darkness to light"]
@@ -42,7 +42,7 @@ notes: >
 essential_teachings: []
 door: >
   Your prayers reach into the spirit world and bring healing to souls you will never meet in this life
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 Seretta Kem here. I wish to tell you of the importance of sitting in a circle as you are in prayer from the perspective of spirit, for when you sit as you do for the highest, to receive the angels of the Celestial Heavens, you bring into your midst a condition and a Light that is not often seen on this Earth plane. It is a great Light that attracts many spirits who are closer to the Earth plane than they are to the higher spheres of Light and spirit. So you perform a great service, my beloveds, even when you are a small circle as this, you perform a great service to many spirits who vastly outnumber the numbers that you are in the flesh and they come to listen, to observe, and they too are taught by the Celestials as they sit around you in many concentric circles which go on for quite a distance, thousands of spirits, my beloveds, are watching and listening, taking in the teachings of Love. And I know that you are not particularly aware of this aspect of your efforts and it is not necessary for you to be so aware, yet I wish to tell you this fact in order to encourage you and to reassure you that what you do in prayer for the Divine Love has many layers and levels of service and repercussions and blessings in your world and in our world. And we seek to encourage many to do so, to come together in a circle of prayer and Love and Light, so that they may reach many souls, whether they be in the flesh or in spirit, they are a soul nonetheless, and you do a great service in praying together and seeking earnestly for God's great Love, His Gift for you. And in receiving this Gift and praying together you become an example for those who observe you in spirit.

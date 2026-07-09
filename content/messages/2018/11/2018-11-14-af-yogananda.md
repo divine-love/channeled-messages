@@ -20,7 +20,7 @@ description: >
 primary_subjects: "Discernment & Truth-Seeking"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Spiritual Community & Fellowship"
   - "God's Mercy & Unconditional Love"
 people: []
@@ -49,7 +49,7 @@ door: >
   toward God.
 collections:
   - "Letters from History"
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 My friends I am Yogananda, I am happy to be with you and to share in conversation, to bring what drops of wisdom, understanding that I may share as we pray together in this sacred circle. Yes, I will come again very soon and speak to you on some things which you may have some interest in to understand a little further my efforts while on earth. Understand my motivations to assist you my friends in your efforts to bring truth, all flows in this direction towards God. All truth comes with the intention of the soul to be in greater light, understanding, and love. So, we work together, hand in hand for this great effort to bring truth to humanity, to walk in the light, to listen to God's guiding force and will to bring healing and harmony to humanity. So, we will continue to learn and grow together in truth and love. I am your humble servant Yogananda. I am glad to be your friend and humble teacher. God bless you beloved, beloved souls. I will share with you the wisdom of my soul, the truth that I have come to know in my relationship with the Creator of all.

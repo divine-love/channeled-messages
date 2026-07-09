@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Keea Atta Kem teaches that gratitude is a practical spiritual discipline that opens the soul, clears negative conditions, and allows God's Love and Light to flood consciousness. She encourages the group to walk through the world with a gracious, grateful attitude, becoming an infectious channel of Light to all they encounter.
-primary_subjects: "Gratitude & Appreciation"
+primary_subjects: "Joyful Living"
 secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Soul Awakening"
@@ -43,7 +43,7 @@ excerpt: >
   A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God.
 door: >
   A grateful soul is an open soul. It is that simple.
-last_edited: 2026-05-25
+last_edited: 2026-07-08
 ---
 
 A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God, you are closer to harmony and peace within yourselves. And when the blessing of God's Love clears away all the fear and the error, when you are in that place of gratitude and Love, when you find that deep peace within yourselves, the world changes around you, my beloveds, because you see the world differently, you know the world from a place of soul and Love and perception that comes from the soul.

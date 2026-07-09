@@ -24,7 +24,7 @@ secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Earth Changes & Prophecy"
   - "Soul Awakening"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: []
@@ -57,7 +57,7 @@ collections:
   - "Two Paths"
   - "Awakening Humanity"
   - "The Saints & Apostles Speak"
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 God bless you, my beloved souls, it is Augustine, your teacher, and I promised you some commentary on the changes in the world and the changes within your souls, so I shall begin.

@@ -19,7 +19,7 @@ description: >
   has begun — one filled with rapidly opening gifts, new perceptions, and many
   souls awaiting their presence.
 primary_subjects: "Spiritual Community & Fellowship"
-secondary_subjects: ["Soul Awakening", "Unique Soul Gifts", "Shared Purpose"]
+secondary_subjects: ["Soul Awakening", "Unique Soul Gifts", "Supporting One Another"]
 people: []
 spirits: []
 keywords: ["fellowship", "bonds", "distance", "soul connection", "communication", "unity", "new phase", "gifts opening", "soul perception", "truth", "love", "journey", "together", "brothers and sisters"]
@@ -40,7 +40,7 @@ essential_teachings: []
 door: >
   Working together in Love creates something none of you could create alone
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 My beloveds, precious students of Truth, you have been given a great deal of guidance as you have been together. Each day another piece of the puzzle and we have given you a clear picture of what you must do.

@@ -22,7 +22,7 @@ description: >
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Self-Love & Acceptance"
   - "Soul Healing & Emotional Restoration"
 people: []
@@ -50,7 +50,7 @@ collections: ["Awakening Humanity", "Service & Mission", "The Saints & Apostles 
 essential_teachings: []
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-17
+last_edited: 2026-07-08
 ---
 
 God bless you. Yes, your dear brother has made great progress in the world of spirit and this is often so for these gentle souls who find it so difficult to be in the world. When they do enter the world of spirit their progression is swift for this is more to their liking and in harmony with their being. These are sensitivities that each of you carry, my beloveds and I know you struggle, you find the world a difficult place, but we in spirit and God's Touch upon you make it easier does it not? It allows you to cope and to progress in this world. And as you deal with these difficult conditions you become stronger and the channel of Love becomes clearer as you beseech God to carry you forth through the darkness into Light.

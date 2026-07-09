@@ -22,7 +22,7 @@ secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Perseverance & Steadfastness"
   - "Soul Awakening"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
 people: []
 spirits: []
 keywords: ["truth", "simplicity", "authenticity", "outreach", "humility", "patience", "soul", "channel of love"]
@@ -54,7 +54,7 @@ door: >
   and let God do the rest.
 collections:
   - "Service & Mission"
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 God bless you my friends, my name is Michael and I am guiding the two dear souls whom you will meet. I am an inhabitant of the Celestial Kingdom, another angel amongst many who work with you all on earth. You have been invited in earnest to speak to those dear souls who will gather and be a part of your Circle of Light. We are busy arranging and urging others to come to be a part of this circle and we are very pleased that you have taken up this call.

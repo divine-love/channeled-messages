@@ -19,7 +19,7 @@ description: >
 primary_subjects: "Service, Ministry & Being a Channel of Love"
 secondary_subjects:
   - "Soul Awakening"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Discernment & Truth-Seeking"
   - "Prayer & Devotion"
   - "Perseverance & Steadfastness"
@@ -53,7 +53,7 @@ collections:
   - "Awakening Humanity"
   - "Service & Mission"
   - "The Saints & Apostles Speak"
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 I am Matthew. Yes, you see with your material eyes and know with your material mind many of the inequities and darkness within the world. But I tell you what you see is merely a shadow of what is your world. Millions upon millions of souls are lost in your world, beloveds, and are unable to grasp the Truth that God loves them, that their souls may come to know God. They do not even know that they have a soul. They do not understand what a soul is, the capacities and beauty of the soul, this most holy of gifts given to humanity, to all your brothers and sisters in this world and the next. This great blessing filled with so much potential and ability to come to know God is almost universally ignored by many in your cultures. The pursuit of the material, the fear of not having enough, the desire for ever more of the material benefits of this world become the focus of most. This leads to a great detriment of the soul. A terrible longing is within each soul, beloveds. A longing to be released from the constrictions of the mind that they may come to know their true purpose and ability to be with God. The darkness continues, the ignorance and the accumulation of so many lost souls in your world who are unable to grasp these simple truths that you know and practice.

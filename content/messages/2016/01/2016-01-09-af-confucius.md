@@ -20,7 +20,7 @@ description: >
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Spiritual Community & Fellowship"
-  - "Service & Mission"
+  - "Service, Ministry & Being a Channel of Love"
   - "Surrender & Trust in God"
   - "Reassurance & Strength"
 people: []
@@ -48,7 +48,7 @@ door: >
 collections: ["Service & Mission", "Prism of the Soul"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 (Chuckles) Hmmm….  My beautiful birds, precious souls, indeed you celebrate the beginning of a new era in your lives and your service to God, my beloveds, and your minds, your eyes, your souls are open to something new and beautiful. And in the flow of this service, my beloveds, you will walk through many thresholds, opportunities, and understandings that will be fresh and new in greater Love and understanding. Your souls are eager, my beloveds, your souls are eager and we are joyed at your eagerness and your love for one another. For in the power of this Love, in the desires of your souls, in your willingness to follow God's Will, you will accomplish much in this world together and singly as God's channels of Love, creating great, great blessings of Light and Love in this world.

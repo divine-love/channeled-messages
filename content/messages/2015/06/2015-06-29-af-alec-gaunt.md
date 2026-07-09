@@ -17,7 +17,7 @@ description: >
   assures them that this release is not done out of desperation but joyful
   anticipation, and that once freed they will be used in miraculous ways as true
   disciples of the Master.
-primary_subjects: "Soul Healing"
+primary_subjects: "Soul Healing & Emotional Restoration"
 secondary_subjects: ["Preparation for Earth Mission", "Letting Go of Wounds"]
 people: []
 spirits: ["jesus"]
@@ -43,7 +43,7 @@ notes: >
 essential_teachings: []
 door: >
   God cannot fully use you until you are willing to let Him heal the places you are still protecting
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 God bless you my friends.

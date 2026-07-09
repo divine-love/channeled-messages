@@ -22,7 +22,7 @@ secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Soul Awakening"
   - "Divine Will, Guidance & Orchestration"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Mediumship & Developing as an Instrument"
 people: []
 spirits: []
@@ -55,7 +55,7 @@ collections:
   - "Awakening Humanity"
   - "Service & Mission"
   - "The Saints & Apostles Speak"
-last_edited: 2026-07-04
+last_edited: 2026-07-08
 ---
 
 I am Augustine. God is gathering many souls, in many different ways, in prayers, in conversation, in mutual efforts to bring the Divine Love, the Truth of the Divine Love to your world and this will expand, beloved souls. This will only expand as you continue to make these efforts, as you continue to open your souls to this great gift of Divine Love. Beloveds, there is a great plan that God has for the salvation of mankind. You may all be a part of this plan if you so choose, if you are open within your souls and have a clear desire to serve for the benefit of mankind and for the opening of the Truth of God's Love for humanity.

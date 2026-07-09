@@ -17,8 +17,8 @@ description: >
   receives more in return, and calls each person to take up the flame of Love and
   carry it boldly into the world, touching even those in darkness with compassion
   rather than condemnation.
-primary_subjects: "Serving Others in Love"
-secondary_subjects: ["Self-Love & Acceptance", "Humility", "Service, Ministry & Being a Channel of Love", "Unity in Diversity"]
+primary_subjects: "Service, Ministry & Being a Channel of Love"
+secondary_subjects: ["Self-Love & Acceptance", "Humility", "Unity in Diversity"]
 people: []
 spirits: []
 keywords: ["judgment", "love", "diversity", "empty basket", "filled soul", "channel of love", "darkness", "compassion", "touch", "healing", "God's laws", "choice", "flame", "replenishment"]
@@ -45,7 +45,7 @@ notes: >
 essential_teachings: []
 door: >
   You cannot give what you do not have. Fill yourself with Love before you try to fill others
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 God bless you, beloved souls, I am Martin Luther and I come to be with you this day to assure you that you all have within your souls a drop of the Father's Love, a touch of His Light. You have received this in your prayers together.

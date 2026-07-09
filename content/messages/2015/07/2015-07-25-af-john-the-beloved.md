@@ -19,8 +19,7 @@ description: >
   teach others the way through the coming tumult to peace and stability.
 primary_subjects: "Earth Changes & Prophecy"
 secondary_subjects:
-  - "Humanity's Spiritual Condition & Awakening"
-  - "Awakening Humanity"
+  - "Collective Awakening & Redemption"
   - "Service, Ministry & Being a Channel of Love"
   - "Receiving the Divine Love through Prayer"
 people: []
@@ -53,7 +52,7 @@ door: >
 collections:
   - "Awakening Humanity"
   - "The Saints & Apostles Speak"
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 This is John. God's Breath is blowing upon your world, my beloveds. His touch touches everything and His Breath blows upon the mountaintops and into the valleys, the streams and the lakes, the oceans, the creatures of the world, all of creation in this world, my beloveds, is touched by God. At this time there is great change to come from His touch. There is great change, and the world will change, beloveds. The world will change and you must be strong enough and aligned enough with the Will of God in His Love to be a part of that change in every way, to allow yourselves to be transformed by His Love, to allow your bodies to be touched by this special blessing that is transformative in this Earth, to allow your spirits to reflect the Light within your souls and, to allow your minds to be receptive to the knowledge that God is giving you within your souls through His Love.

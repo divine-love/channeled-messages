@@ -18,7 +18,7 @@ description: >
   eternal progression through the spirit spheres, teaching that Divine Love expands every
   faculty and gift of the soul without limit, propelling it toward ever-deeper at-onement
   with God.
-primary_subjects: "Death, Transition & the Afterlife"
+primary_subjects: "Death & Transition to Spirit"
 secondary_subjects:
   - "Soul Spheres & Progression"
   - "At-onement"
@@ -55,7 +55,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The transition to the world of spirit will be celebrated — a changing of the conditions in which a soul lives and operates. It is nothing more than this
-last_edited: 2026-06-29
+last_edited: 2026-07-08
 ---
 
 God bless you, I am Matthew. There will come a time in the existence of the Earth where death will not be feared but accepted as a normal part of the progression of life by all peoples in your world and there will not be a fear of death, a loathing of death, and the feeling that it is the end of all. Instead, the transition to the world of spirit will be celebrated, a changing of the conditions in which a soul lives and operates, which is the truth. It is nothing more than this. There may not be a great distance between those who pass and those who love that soul from this earth plane. It will be a smooth and seamless progression in life, seen with joy and wisdom rather than fear and ignorance.

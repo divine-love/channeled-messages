@@ -19,7 +19,7 @@ description: >
   as beacons of Light. He calls each one to embrace God's Will completely and
   walk as a Lighted Path through darkening times.
 primary_subjects: "Preparation for Earth Mission"
-secondary_subjects: ["Earth Changes & Prophecy", "Faith & Trust", "Service, Ministry & Being a Channel of Love", "Physical & Miraculous Healing"]
+secondary_subjects: ["Earth Changes & Prophecy", "Faith & Trust", "Service, Ministry & Being a Channel of Love", "Divine Love Healing"]
 people: []
 spirits: []
 keywords: ["winds of change", "world changes", "service", "channel of love", "faith", "healing", "physical body", "soul over body", "God's will", "protection", "angels", "beacon", "lost souls", "teaching"]
@@ -44,7 +44,7 @@ notes: >
 essential_teachings: []
 door: >
   The world's need for souls in service is urgent, and you already have what it takes
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 It is Seretta Kem. Though this instrument is in pain, we are still able to communicate, for when Love envelopes you, the material conditions dissipate and the physical is not important at this time. This is a good lesson, my beloveds, how the physical body can be influenced by the Love of the soul and the touch of the angels and God's healing upon all aspects of your being.

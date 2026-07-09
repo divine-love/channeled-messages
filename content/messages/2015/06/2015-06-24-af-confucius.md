@@ -17,7 +17,7 @@ description: >
   listen for God's still voice and to walk in the Light with the strength to
   express their gift as a channel of the Father's Love.
 primary_subjects: "Spiritual Identity & Destiny"
-secondary_subjects: ["Receiving the Divine Love through Prayer", "Individual Soul Calling"]
+secondary_subjects: ["Receiving the Divine Love through Prayer", "Divine Purpose"]
 people: []
 spirits: []
 keywords: ["purpose", "soul gift", "uniqueness", "calling", "Divine Love", "guidance", "still voice", "prayer", "light", "potential", "service", "acknowledgment"]
@@ -37,7 +37,7 @@ notes: ""
 essential_teachings: []
 door: >
   Your unique purpose is not something you have to invent. It is something you have to discover
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 I am Confucius, and I greet you with love, my beloveds.

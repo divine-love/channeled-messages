@@ -19,7 +19,7 @@ description: >
   burdens, and provide all resources needed if they step forward in faith and
   love.
 primary_subjects: "Circle of Light & Prayer Circles"
-secondary_subjects: ["Individual Soul Calling", "Spiritual Identity & Destiny", "Faith & Trust", "Serving Others in Love"]
+secondary_subjects: ["Divine Purpose", "Spiritual Identity & Destiny", "Faith & Trust", "Service, Ministry & Being a Channel of Love"]
 people: []
 spirits: []
 keywords: ["circles of light", "purpose", "unique path", "faith", "stepping forward", "miracles", "simplicity of truth", "humility", "integrity", "God's timing", "soul gifts", "channel of love", "truth", "guidance"]
@@ -45,7 +45,7 @@ notes: >
 essential_teachings: []
 door: >
   Every city, every town, every home can become a point of Light in the world
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 Beloved brothers and sisters upon the Path Divine, I am Confucius and I come to tell you that the angels weep in joy at your efforts and your willingness to love one another, to bring this Light to the world. And you have each journeyed far, journeyed far within yourselves and shall continue on this journey for all eternity to come to know yourselves in the Grace of our Father's Love.

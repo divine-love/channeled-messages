@@ -25,7 +25,6 @@ secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Law of Attraction"
   - "Prayer & Devotion"
-  - "Service & Mission"
 people: []
 spirits: []
 keywords: ["healing", "comforter", "channel of Love", "healing group", "intention", "soul vs mind", "spirit influence", "singleness of purpose", "prayer", "God's Will", "bowl for healing", "service", "group prayer"]
@@ -57,7 +56,7 @@ door: >
   Your longing to heal the world is real. But ask where it begins - in the mind
   that wants to plan it, or the soul that simply loves.
 collections: ["Service & Mission", "Healing Path"]
-last_edited: 2026-06-26
+last_edited: 2026-07-08
 ---
 
 I am Seretta Kem and I come to guide you upon those questions and efforts that you have made to bring healing to this world. I would ask you to consider, my beloveds, what motivates you when you come together in this way to bring healing to the world? Is it your minds or is it your souls? Undoubtedly your answer would be both and the motivation to bring healing to the world is a desire that originates from your soul. It is a longing and a yearning to bring comfort to many. It is a reflection of the Father's Love within you.

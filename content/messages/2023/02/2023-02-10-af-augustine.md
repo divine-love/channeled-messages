@@ -23,7 +23,7 @@ primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Cleansing & Expiation"
   - "Mind vs Soul Conflict"
-  - "Humanity's Spiritual Condition & Awakening"
+  - "Collective Awakening & Redemption"
   - "Soul Healing & Emotional Restoration"
 people: []
 spirits: []
@@ -54,7 +54,7 @@ essential_teachings: ["Core Teaching"]
 notes: >
   Received aboard a Caribbean cruise during the Eastern US and Caribbean Soul
   Awakening Tour. Not publicly posted online.
-last_edited: 2026-06-18
+last_edited: 2026-07-08
 ---
 
 May God bless you, beloved students. I am your teacher, Augustine. I come to speak about the sensitivities that humanity carries in the world. In your western world, as you call it, your children are educated to the point where many of their intuitive capacities and sensitivities are trained away. They do not feel as they did as young children. They become immune to the feelings and perceptions that come with a sensitized soul living in the material world. Instead, this is overshadowed by intellect and discipline. Often, through their experiences as children interacting with one another, they desensitize each other with their actions.

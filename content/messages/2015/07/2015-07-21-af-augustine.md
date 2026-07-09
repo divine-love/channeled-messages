@@ -17,7 +17,7 @@ description: >
   sincere openness and loving desire will receive unique gifts, revelatory
   awarenesses, and a dawning Light that will change them irrevocably.
 primary_subjects: "Preparation for Earth Mission"
-secondary_subjects: ["Soul Healing", "Surrender & Trust in God"]
+secondary_subjects: ["Soul Healing & Emotional Restoration", "Surrender & Trust in God"]
 people: []
 spirits: []
 keywords: ["retreat", "gathering", "preparation", "door", "threshold", "liberation", "soul encrustations", "release", "openness", "God's orchestration", "gifts", "awareness", "faith", "transformation"]
@@ -41,7 +41,7 @@ essential_teachings: []
 door: >
   The door is already open. The only question is whether you will walk through it
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-07-08
 ---
 
 It is your teacher Augustine here. God bless you, my beloved students. Your coming gathering has great import. You are all aware of this and you want to be a part of whatever it is that is meant to come from this and you will be, my beloveds, you will be. But now is a time of preparation, of prayer, of releasing those old ways that cling to you, the encrustations of your soul that are cracking and peeling and falling away. And at times you feel the emotional stress of this, the discomfort of this, but I tell you all of these emotions and discomforts are well worth the pain that you feel, for in the end you will come to that place of liberation that our Master speaks of, and in this much is possible, great works will be accomplished as you struggle for this elevated place above the conditions of this world and in the conditions of harmony with our Heavenly Father.

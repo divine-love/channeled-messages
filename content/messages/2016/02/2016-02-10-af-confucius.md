@@ -18,7 +18,7 @@ description: >
   exist, the emanation of love from the soul is the most powerful, and that the
   healer must nourish their own soul foremost, keeping prayer and longing for God
   at the forefront so that all gifts, learnings, and healing fall into harmony.
-primary_subjects: "Divine Healing & Wholeness"
+primary_subjects: "Divine Love Healing"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
   - "Receiving the Divine Love through Prayer"
@@ -52,7 +52,7 @@ collections: ["Healing Path"]
 essential_teachings: ["Divine Healing"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-07-05
+last_edited: 2026-07-08
 ---
 
 May the Father's Love flow into your souls in great abundance, my beloved souls. Each one of you have many gifts, great potentials within your souls which can be ignited by this Divine Essence, the Father's Love. And it touches you within your soul, it touches you and soothes you, and brings deep peace and joy, and you feel the presence of the Heavenly Father within your midst as you pray for this Love. As you do your healing work, my daughters, remember to pray for God to touch that soul through you, to be in harmony with this great flow of Love which comes from the Creator. And with this simple prayer and intention you will find that deep healing can occur as you are in resonance and harmony with the Father's Love and you receive this Gift within your soul, great openings and awakenings will ensue with this blessing, this Touch from God.
