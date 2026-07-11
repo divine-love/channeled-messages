@@ -5,6 +5,8 @@ All contributors should follow these conventions to ensure consistency, searchab
 
 This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
+Last updated: 2026-07-08
+
 ---
 
 
@@ -103,6 +105,7 @@ Each message has a unique id using this format:
 
  - `{medium_initials}` = the first letter of the medium's first and last name, **always lowercase**.
    Example: Al Fike → `af`
+   Known mediums: Al Fike → `af`; Maureen Cardoso → `mc`; Dr. Daniel Samuels → `ds`.
  - **Anonymous mediums** — when a medium wished to remain unnamed, use `xx` as the medium initials.
    Example: `2015-01-05-xx-jesus`
  - `{spirit_id}` = the spirit's unique identifier, corresponding to the name in the spirit file. Naming pattern is the spirit's full name with **each space replaced by a hyphen (-)**.
@@ -199,7 +202,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | Field | Type | Description | Example |
 |-------|------|------------|----------|
 | **message_id** | string | Unique identifier formatted `YYYY-MM-DD-{medium_initials}-{spirit_id}{-2\|-3...}`. Braces show the pattern only, do **not** include them in real IDs. `{medium_initials}` are the first and last initials of the medium, always lowercase (e.g., Al Fike → `af`). `{spirit_id}` matches spirit file name (e.g., `john-the-beloved`). If multiple messages share the same date/medium/spirit, append `-2`, `-3`, etc. **IDs are always fully lowercase.** | `2015-11-30-af-jesus-2` |
-| **title** | string | The given title of the message. Always wrap in double quotes. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. | `"You Are My Disciples"` |
+| **title** | string | The given title of the message. Always wrap in double quotes. If none exists, create one (concise and meaningful) and append an asterisk (*) to show it was added later. Use title case and Canadian English spelling. Correct clear typos in titles silently; note grammatical corrections in the `notes` field. | `"You Are My Disciples"` |
 | **date** | string (YYYY-MM-DD) | The date the message was received, always using ISO format. | `2015-11-30` |
 | **spirit_id** | string | The name of the spirit author chosen from the spirits list (e.g., `john-the-beloved`). Always lowercase; must match the spirit's filename exactly. | `john-the-beloved` |
 | **spirit_name** | string | The full name of the spirit author, written in normal capitalization (e.g., "John the Beloved"). | `John the Beloved` |
@@ -207,25 +210,25 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **location.city** | string | The city or locality where the message was received. | `Gibsons` |
 | **location.region** | string | The state, province, or region. Optional; leave blank if not applicable. | `BC` |
 | **location.country** | string | The country where the message was received. Optional. | `Canada` |
-| **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for regular prayer circles. Use a consistent name for all messages from the same event. | `"August 2015 Gibsons Retreat"` |
-| **message_type** | array of strings | Exactly one of: **Blessing, Guidance, Teaching**. Choose the single label that best describes the message. | `["Teaching"]` |
-| **description** | string (block scalar) | A short (1-2 sentence) summary describing the purpose or insight of the message. Use YAML block scalar format (`>`) to prevent long lines. | `description: >`<br>`  Encouragement to release fear and trust God's protection.` |
-| **primary_subjects** | string | The single most relevant subject drawn from any level of the subject hierarchy — top category or subcategory. Represents the central theme of the message. | `"Free Will & Human Error"` |
-| **secondary_subjects** | array of strings (up to 5) | Up to five additional subjects drawn from any level of the subject hierarchy — top category or subcategory. Choose the most relevant subjects regardless of hierarchy level. | `["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]` |
-| **people** | array of strings | Names of living human beings mentioned (excluding the medium). | `["James Padgett", "Helen Padgett"]` |
+| **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for regular prayer circles. Use a consistent name for all messages from the same event. DLSF Board Meetings use the consistent name `"DLSF Board Meeting"`. | `"August 2015 Gibsons Retreat"` |
+| **message_type** | array of strings | Exactly one of: **Blessing, Guidance, Teaching**. Choose the single label that best describes the message. `Teaching` is reserved for structured doctrinal lessons; `Blessing` is purely affirming and prayerful with no instructional content; any directive content makes it `Guidance`. When in doubt between Blessing and Guidance, choose Guidance. | `["Teaching"]` |
+| **description** | string (block scalar) | A short (1-2 sentence) summary describing the purpose or insight of the message. Maximum 600 characters (enforced by the schema). Use YAML block scalar format (`>`) to prevent long lines. | `description: >`<br>`  Encouragement to release fear and trust God's protection.` |
+| **primary_subjects** | string | The single most relevant subject drawn from any level of the subject hierarchy — top category or subcategory. Represents the central theme of the message. Must be a name defined in `metadata/subjects.yml`. | `"Free Will & Human Error"` |
+| **secondary_subjects** | array of strings (up to 5) | Up to five additional subjects drawn from any level of the subject hierarchy — top category or subcategory. Choose the most relevant subjects regardless of hierarchy level. Each must be a name defined in `metadata/subjects.yml`. | `["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]` |
+| **people** | array of strings | Names of living human beings mentioned (excluding the medium). Deceased historical figures who have a spirit file belong in `spirits[]`, not here — James Padgett always goes in `spirits[]`. | `["James Padgett", "Helen Padgett"]` |
 | **spirits** | array of strings | `spirit_id` values of other spirits mentioned besides the primary spirit author. Must match filenames in `/spirits/` exactly — always lowercase kebab-case. Using `spirit_id` rather than display names ensures consistent searchability across the archive. | `["john-the-beloved", "mary"]` |
 | **keywords** | array of strings | Free-form topical tags or short phrases to improve search and categorization. | `["trust", "peace", "faith", "guidance"]` |
 | **questions** | array of strings | Natural language questions this message addresses, written as a seeker might type them into a search engine. Include as many as are relevant — the more specific, the better for discoverability. | `["How does Divine Love change the soul?", "Can any soul be redeemed?"]` |
-| **related_messages** | array of strings | Message IDs of other texts connected by subject only — never by date proximity, same retreat, or same location. Use full ID format — **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-26-af-augustine"]` |
+| **related_messages** | array of strings | Message IDs of other texts connected by subject only — never by date proximity, same retreat, or same location. Listed chronologically by message date, earliest first. Use full ID format — **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-30-af-augustine"]` |
 | **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
-| **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
+| **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none, and add "Not publicly posted online." to the `notes` field. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
 | **notes** | string | Optional free-text field for contextual notes. Leave blank (`notes: ""`) if none. Use YAML block scalar format (`>`) when content is present. | `notes: ""` or `notes: >`<br>`  Message received during evening circle.` |
 | **essential_teachings** | array of strings | Optional flags marking a message as particularly important. Values: `Core Teaching`, `Prophecy`, `Historical`, `Divine Healing`, `Spirit Biography`, `Milestone`. Use sparingly. See Section 4a for definitions. | `["Core Teaching"]` |
 | **language** | string | Language code (ISO 639-1). Always include. Defaults to `en` for English. Required for multilingual site rendering. | `en` |
-| **excerpt** | string (block scalar) | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Aim for under 200 characters. Use YAML block scalar format (`>`) for longer excerpts. | `excerpt: >`<br>`  Drink deep these Living waters and open yourselves wide.` |
-| **door** | string (block scalar) | A single sentence distilling the transformative insight hidden within the message — the curator's invitation to enter. Written in the curator's voice or very close to the spirit's words. One strong sentence, under 300 characters. Used to generate `content/browse.md`. | `door: >`<br>`  The soul that walks in God's light becomes a lantern for every soul it passes.` |
+| **excerpt** | string (block scalar) | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Under 200 characters (enforced by the schema). Use YAML block scalar format (`>`) for longer excerpts. | `excerpt: >`<br>`  Drink deep these Living waters and open yourselves wide.` |
+| **door** | string (block scalar) | A single sentence distilling the transformative insight hidden within the message — the curator's invitation to enter. Written in the curator's voice or very close to the spirit's words. One strong sentence, under 300 characters (enforced by the schema). Used to generate `content/browse.md`. See "The Door" in Section 6 for the style standard. | `door: >`<br>`  The soul that walks in God's light becomes a lantern for every soul it passes.` |
 | **collections** | array of strings | Optional thematic collections this message belongs to. Used to generate `content/collections/` pages. Leave empty if not yet assigned. Valid values listed in Section 4b. | `["Jesus Speaks", "Healing Path"]` |
-| **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Helps track which translation files may need updating after source edits. | `2025-06-01` |
+| **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Update whenever the file is touched, using the actual current date. Helps track which translation files may need updating after source edits. | `2025-06-01` |
 
 ---
 
@@ -255,10 +258,10 @@ The `collections` field assigns a message to one or more thematic collections. C
 | `Awakening Humanity` | Messages concerning the spiritual awakening of humanity. |
 | `Healing Path` | Messages about healing — physical, emotional, and spiritual. |
 | `Service & Mission` | Messages about service, mediumship, and the mission of Divine Love. |
-| `Letters from History` | Messages from historical figures beyond the biblical canon. |
-| `Jesus Speaks` | Messages from Jesus of Nazareth. |
+| `Letters from History` | Messages from historical figures **outside the biblical canon only** (e.g., Confucius, Einstein, Gandhi, Yogananda). |
+| `Jesus Speaks` | Messages from Jesus of Nazareth. All Jesus messages include this collection; Jesus does not appear in The Saints & Apostles Speak. |
 | `Prism of the Soul` | Messages exploring the nature and faculties of the soul. |
-| `The Saints & Apostles Speak` | Messages from the biblical apostles and saints — Andrew, James, John the Beloved, Peter, Matthew, Mark, Luke, Francis of Assisi, and others. |
+| `The Saints & Apostles Speak` | **All** biblical figures speaking from spirit — apostles, saints, and Old and New Testament figures (Andrew, James, John the Beloved, Peter, Matthew, Mark, Luke, Francis of Assisi, Augustine, Moses, Mary, Martha, Joseph, and others). Every message delivered by a biblical figure must include this collection. Jesus is the sole exception, having his own collection. |
 
 ---
 
@@ -355,8 +358,14 @@ The following conventions have been established through the curation process and
 - **Spacing artifacts** (double spaces, space before punctuation): fix silently.
 - **Clear typos** (e.g., "yolk" for "yoke", "froth" for "forth"): fix silently.
 - **Grammar errors**: flag but do not auto-fix without permission.
+- **Sentence fragments and missing punctuation**: flag and confirm with the curator before fixing.
+- **Truncated recordings** — messages that open or close mid-sentence (recording started late or stopped early) preserve the leading or trailing ellipsis as published; do not fabricate a sentence start or ending. Note the truncation in the `notes` field.
 - **Transcriber insertions** — words or phrases added by the transcriber for clarity should be wrapped in **square brackets** `[]`, not parentheses. Example: `He walked with them [after the resurrection] for forty days.`
+- **Transcriber uncertainty** — uncertain readings keep their question mark inside square brackets (e.g., `[Sri ?]`, `[rejection?]`) until the curator confirms the reading is definite.
 - **Redacted personal names** — where a personal name has been blanked out of the message body (appearing in the source as a run of x's, underscores, dashes, or similar), replace the blank with the token `[name-removed]`. This keeps redactions unambiguous and consistent with the square-bracket editorial convention. Example: `My dear [name-removed], I love you so dearly.`
+- **Personal names in the body** — names that appear in the published text of a message are preserved exactly as published. The `[name-removed]` token applies only to unpublished transcripts and to names already blanked out of the source; it is never used to redact a name that the public source prints openly.
+- **Personal sections** — portions of a message addressed to one individual are bracketed as `[Personal to Name] ... [End Personal]`.
+- **Standard spellings and terms** — "at-onement" is always hyphenated with a lowercase a (except at the start of a sentence); "earth plane" (never "earth plain"); "Law of Attraction" and other named spiritual Laws are capitalized; "Keea Atta Kem" is always three capitalized words.
 
 ### Notes Field
 
@@ -366,15 +375,24 @@ The `notes` field should only record curatorially significant information such a
 - Connections to other messages or events
 - Incomplete transcriptions or missing portions
 
-Routine typo corrections do not need to be noted.
+Additional rules:
+- Routine typo corrections do not need to be noted.
+- Never reference message order ("first message", "second message") — messages are not catalogued in chronological order.
+- No forward-looking statements.
+- **Medium's editorial notes** — when a published message is bracketed by the medium's own framing (their words, not channeled text), keep it out of the message body and preserve it **verbatim, in quotes**, in the `notes` field.
 
 ### Questions Field
 
 Questions should be written as a real seeker would type them into a search engine at 2am. Aim for:
 - Natural, human phrasing ("Why do I keep failing?" not "What causes repeated spiritual failure?")
-- Universally applicable — not specific to people or events in the message
+- Universally applicable — not specific to people or events in the message; if an event happened only to a specific group, reframe the question universally
 - A mix of spiritual, emotional, and practical angles
 - Questions born from fear, doubt, grief, or confusion are particularly valuable
+- Include Biblical-perspective questions where the message touches Biblical language or concepts (e.g., "What does the Bible mean when it says...?")
+
+### Subjects
+
+`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly — the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. If a needed subject does not exist, propose it to the curator first; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. When a named spiritual Law appears in a message body, add it as a secondary subject.
 
 ### Spirit Names in Keywords
 
@@ -382,9 +400,21 @@ Do **not** include the channeling spirit's name in the `keywords` field — they
 
 Exception: the word "faith" is always treated as a concept keyword, never removed as a spirit name reference, unless the message is specifically by or about Faith Nyquist.
 
+### Multiple Delivering Spirits
+
+When more than one spirit delivers a single message in sequence, `spirit_id` (and therefore the `message_id`) belong to the **first spirit to speak**. All subsequent delivering spirits are listed in `spirits[]` in speaking order, followed by any spirits who are only mentioned. Document the sequence clearly in the `notes` field (e.g., "Two spirits spoke in sequence: Augustine delivered the opening portion, followed by Jesus."). This convention applies whether two or twenty spirits contribute.
+
 ### Related Messages
 
-`related_messages` should reflect **subject connections only** — not date proximity, same retreat, or same location. Two messages received on the same day are only linked if their content is thematically connected.
+`related_messages` should reflect **subject connections only** — not date proximity, same retreat, or same location. Two messages received on the same day are only linked if their content is thematically connected. Links are used sparingly and must be specific. List entries chronologically by message date, earliest first. **Always update both ends of a link** — when adding a link in one file, add the reciprocal link to the other file, inserted in its correct chronological position.
+
+### The Door
+
+The `door` is a single sentence distilling the transformative insight hidden within the message — the curator's invitation to enter. Short, pointed, evocative: a reframe, a paradox, an image, or a direct challenge. No narration or framing ("X teaches that..." or "Y calls the group to..."). No em dashes. Under 300 characters. Examples of the standard:
+
+- The wisest man who ever lived has come to tell you his wisdom was wrong.
+- Every morning God waits. What will you choose today?
+- God is not waiting for the gifted or the perfect. He is waiting for the willing.
 
 ### Em Dashes
 
@@ -449,6 +479,7 @@ location:
 | More than one `message_type` value | Each message has exactly one type | `["Teaching"]`, not `["Teaching", "Guidance"]` |
 | Using old field names | Fields have been renamed | `collections` not `series`; `essential_teachings` not `significance` |
 | Using old `essential_teachings` values | Values have been renamed | `"Core Teaching"` not `"Key Teaching"`; `"Prophecy"` not `"Prophetic"`; `"Divine Healing"` not `"Healing"`; `"Spirit Biography"` not `"Biographical"` |
+| Invented subject names | Subjects must exist in `metadata/subjects.yml` | Check the vocabulary; propose additions to the curator |
 
 
 ## 8. Contributor Checklist
@@ -459,16 +490,18 @@ Before committing a new message:
  - ✅ The **spirit_id** matches a filename in the `/spirits/` folder exactly
  - ✅ The **title**, **date**, **spirit_id**, and **medium** are filled in
  - ✅ Exactly one **message_type** and one **primary_subjects** are present
+ - ✅ Every value in **primary_subjects** and **secondary_subjects** exists in `metadata/subjects.yml`
  - ✅ **Optional fields are present but left blank if unknown** (e.g., `audio_url: ""` or `spirits: []`) — do not omit them entirely, as validators expect all fields to be present
  - ✅ All IDs in **related_messages** are lowercase and match existing `message_id` values exactly
- - ✅ **related_messages** contains subject connections only — not date proximity, retreat, or location connections
+ - ✅ **related_messages** contains subject connections only — not date proximity, retreat, or location connections — listed chronologically (earliest first), with reciprocal links added to the other files
  - ✅ All entries in **spirits** use `spirit_id` values (lowercase kebab-case) matching filenames in `/spirits/`
+ - ✅ Biblical-figure messages include `"The Saints & Apostles Speak"` in **collections** (Jesus excepted — his messages use `"Jesus Speaks"`)
  - ✅ At least one **question** is included in the `questions` field to aid search discoverability
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
- - ✅ A short **description** is included
+ - ✅ A short **description** is included (600 characters or fewer)
  - ✅ **language** is set (default `en`)
- - ✅ **excerpt** is filled in with an evocative pull quote or curator highlight
- - ✅ **door** is filled in with a single sentence distilling the transformative insight
+ - ✅ **excerpt** is filled in with an evocative pull quote or curator highlight (under 200 characters)
+ - ✅ **door** is filled in with a single sentence distilling the transformative insight (under 300 characters)
  - ✅ **collections** is present (leave as `[]` if not yet assigned)
  - ✅ **essential_teachings** is present (leave as `[]` if none applies)
  - ✅ The file is saved as `.md` under the correct year/month folder
@@ -493,10 +526,9 @@ Each translation should be saved as **its own Markdown** (`.md`) file in the sam
 
 ```yaml
 ---
-language: pt-br
-translation_of: 2015-11-23-af-jesus
 message_id: 2015-11-23-af-jesus
-title: Você São Meus Discípulos
+translation_of: 2015-11-23-af-jesus
+title: "Vocês São Meus Discípulos"
 date: 2015-11-23
 spirit_id: jesus
 spirit_name: Jesus
@@ -510,11 +542,12 @@ message_type: ["Teaching"]
 description: >
   Uma mensagem encorajando os discípulos a caminharem com confiança
   na luz de Deus.
-primary_subjects: Amor Divino & Relacionamento com Deus
+primary_subjects: "Divine Love & Relationship with God"
 secondary_subjects: []
 people: []
 spirits: []
 keywords: ["discipulado", "serviço", "luz", "amor divino"]
+questions: []
 related_messages: []
 audio_url: ""
 canonical_url: ""
@@ -527,8 +560,6 @@ door: >
   A alma que caminha na luz de Deus torna-se uma lanterna para cada alma que passa.
 collections: []
 last_edited: 2025-06-01
-translations:
-  available: [pt-br]
 ---
 <translated message text here>
 
@@ -541,9 +572,18 @@ Translation files should:
  - Retain the **same metadata structure and fields** as the original source file.
  - Include `translation_of` linking back to the source `message_id`.
  - Use the same `message_id` value as the source for cross-referencing.
+ - Set `language` to the translation's language code (once, near the bottom of the front matter as in the originals).
+ - **Keep controlled-vocabulary fields in English exactly as defined** — `message_type`, `primary_subjects`, `secondary_subjects`, `essential_teachings`, and `collections` are validated against the English vocabularies and are not translated. Free-text fields (title, description, keywords, questions, excerpt, door, notes) are translated.
  - Be reviewed for fidelity to the original meaning before committing.
  - Include a translator's note or credit at the end if desired.
  - Update `last_edited` if the translation is revised after the source message changes.
+
+The **original** message file records which translations exist, so generators can link out to them:
+
+```yaml
+translations:
+  available: [pt-br]
+```
 
 ## 10. Licensing
 
