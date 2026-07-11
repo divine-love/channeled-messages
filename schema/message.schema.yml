@@ -5,7 +5,9 @@ type: object
 comment: >
   JSON Schema (draft-07) for message .yml files in /messages/YYYY/.
   The message text/body itself is stored OUTSIDE the YAML front matter (in the Markdown or after the YAML fence).
-  This schema validates only the metadata fields.
+  This schema validates only the metadata fields. Editorial conventions for the
+  message body itself (typo handling, redactions, personal names, transcriber
+  insertions) are documented in schema.md, section 6.
 
 required:
   - message_id
@@ -108,14 +110,16 @@ properties:
     description: >
       The single most relevant subject from any level of the subject hierarchy
       (top category or subcategory). Choose the most specific and relevant subject
-      regardless of its level in the hierarchy.
+      regardless of its level in the hierarchy. Must be a name defined in
+      metadata/subjects.yml (enforced by validator).
 
   secondary_subjects:
     type: array
     description: >
       Up to five additional subjects from any level of the subject hierarchy
       (top category or subcategory). Choose the most relevant subjects regardless
-      of hierarchy level.
+      of hierarchy level. Each must be a name defined in metadata/subjects.yml
+      (enforced by validator).
     items:
       type: string
     uniqueItems: true
@@ -223,6 +227,29 @@ properties:
       - fr
       - pt-br
 
+  translation_of:
+    type: string
+    description: >
+      Translation files only: the message_id of the original source message this
+      file translates. Omit entirely in original messages. See schema.md,
+      section 9 (Translations).
+    pattern: '^\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z]*(?:-[a-z][a-z]*)*(?:-(?:[2-9]|[1-9]\d+))?$'
+
+  translations:
+    type: object
+    description: >
+      Original messages only: records which translations of this message exist.
+      See schema.md, section 9 (Translations).
+    properties:
+      available:
+        type: array
+        description: Language codes (ISO 639-1) of available translation files.
+        items:
+          type: string
+        uniqueItems: true
+        default: []
+    additionalProperties: false
+
   excerpt:
     type: [string, "null"]
     description: >
@@ -230,7 +257,8 @@ properties:
       homepage teasers, and search result snippets. May be a direct quote from
       the message text or a curator-written highlight — curator's choice.
       Should be more evocative and compelling than the description field.
-      Aim for 1–2 sentences, under 200 characters where possible.
+      Aim for 1–2 sentences, under 200 characters.
+    maxLength: 200
 
   door:
     type: [string, "null"]
