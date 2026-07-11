@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-08
+last_updated: 2026-07-11
 status: working notes only — do not generate from this file
 companion: chains-threads.md
 ---
@@ -242,6 +242,7 @@ are built.
 ### 2019-01-31-af-yogananda — Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East — 2019-01-31
 - `reincarnation-progression` **[Objection-removed]** — Explains WHY people believe in reincarnation (Law of Attraction drawing like-believing spirits into close rapport), clearing the experiential evidence that seems to support it. Pairs with Aman's foundation.
 - `mind-vs-soul` **[Elaboration]** — Reinforces that the soul knows truth where the mind perpetuates error.
+- `religious-error` **[Testimony]** — (role added 2026-07-08) Yogananda on his own tradition's perpetuated error: taught reincarnation from a young age as part of his culture, believed and reinforced it through his spiritual pursuits, and corrects it now from spirit. Extends the thread's reformer arc beyond Christianity for the first time.
 
 ### 2019-01-31-af-augustine — How Can a Person Receive Divine Love Without Knowing About It? — 2019-01-31
 - `divine-love-without-knowing` **[Foundation]** — Establishes the core claim: the mind need not understand the mechanics for the soul to long for God and receive the gift; souls of all beliefs already receive it.
@@ -382,6 +383,13 @@ are built.
 - `judgment-to-love` **[Elaboration]** — the intra-community facet the thread did not yet hold: schisms among those living the Divine Love come from differing approaches, not error ("this does not mean that your brothers and sisters are wrong or misdirected"); the stronger in love must be the example; rejection is met with greater love because it "is a cry for love"; release the judgments and stress the commonalities. Applies the thread's argument inside the fellowship rather than toward the world.
 - `self-love-foundation` **[Elaboration]** — the mechanism stated as logic: "Come to understand yourself above all, to accept yourself above all... In this way, how can you judge another when you are being of love and acceptance, joy and light?" Self-acceptance rendering judgment of others impossible; arguably the developing witness the roster has awaited, though it stands as one movement within a larger message. Possible section anchor; decide at build.
 - NOTE: the closing turns to the expression of unique soul gifts (subject-level, Unique Soul Gifts); search-level, not a distinct chain contribution.
+
+### 2019-04-06-af-yogananda — Your Gifts Are Opening — 2019-04-06
+- `religious-error` **[Testimony]** — the correction as an ongoing project rather than a retrospective confession: "there are many things missing within this prescribed way to God that I have put forth on paper. I desire to rectify the error... and to bring the Truth of Divine Love in these teachings." Yogananda plans to correct his own published books through a new writing rapport, for the many who follow his path "yet they miss the greatest Truth." With his 2019-01-31 reincarnation correction, the thread's Eastern voice now holds both the confession and the repair.
+- `divine-love-mediumship` **[Elaboration]** — the development-protocol facet: the steps of establishing rapport (dedicated time, prayer, thinking of the spirit, openness, practice: "like any venture in the beginning, it may not be perfect... but with practice and effort we will have a good working relationship"); the tools (pen and paper or a recording device); and the invitation principle ("There is no pressure to begin. There is merely an invitation... I do not wish to impinge upon my brother's free will"). A Celestial recruiting a new instrument on the record, beside Jesus designating channels (2019-01-30).
+- NOTE (portal watch): a sitter asks whether the guest house needs a portal; "There is no need for a portal beloved soul... There is a great energy here." Portals are now assumed fixtures in the circle's vocabulary, and the reply gives the eventual thread a boundary: rapport and communication do not require one.
+- NOTE (sighting, `incremental-journey`): "Every great thing that is of light and beauty takes time, takes effort, persistence and love" — the incremental principle applied to the mission and its fruits rather than the soul's growth; witness-level.
+- NOTE (2026-07-11, curator confirmation): the writing collaboration this message initiates did materialize and later produced a book of Yogananda's messages; the message is flagged Historical. Strengthens the `religious-error` Testimony above: the announced repair project was carried out.
 
 ### 2016-01-08-af-jesus — Encouragement from Jesus — 2016-01-08 [not publicly posted]
 - `healing-channel` **[Elaboration]** — Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible additional witness for the now-minted `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - confirm role against full text before adding.
