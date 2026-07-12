@@ -54,7 +54,7 @@ excerpt: >
 door: >
   The gifts are already in you. It is your mind, demanding to understand them first, that keeps them hidden.
 collections: ["Prism of the Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-07-11
+last_edited: 2026-07-11 
 ---
 
 Dear souls, I am your teacher Augustine. How the influence of the Celestial Angels is infecting you all, is it not? There is a touch of the Divine infiltrating the Earth, bringing Light and Truth, and using many instruments to bring this forward in the world. What empowers this, beloved souls? What empowers the possibilities of the angels high up in the Celestial Heavens to touch, to be with, to speak to mortals on Earth? It is the power of God’s Love within your souls.
