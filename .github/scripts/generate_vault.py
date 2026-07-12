@@ -1,0 +1,306 @@
+#!/usr/bin/env python3
+"""
+generate_vault.py — build a derived Obsidian vault from the archive.
+
+The repository stays canonical; this emits a disposable, regenerable vault
+in ./obsidian-vault/ (add that folder to .gitignore). Never edit the vault
+by hand — rerun this script after commits instead.
+
+What it builds:
+  Messages/<year>/<message_id>.md   one note per message:
+      - front matter tags (nested): spirit/, type/, subject/<parent>/<child>,
+        keyword/, collection/, essential/, chain/, mentions/
+      - title alias so wikilinks display the human title
+      - door callout, description, "Questions this message answers"
+        (full-text searchable), related-message wikilinks, chain wikilinks,
+        then the full message text
+  Chains/<slug>.md                  one hub per minted thread: theme,
+      argument, members grouped in role-section order (Foundation first),
+      chronological within each section, anchors marked (anchor)
+  Subjects/<name>.md, Spirits/<id>.md, Collections/<name>.md
+      category hub pages listing member messages (filter these out of the
+      graph with  -path:"Subjects"  etc. if the hubs dominate)
+  Ask the Archive.md                every question in the archive, grouped
+      by top-level subject category, each linking to its answering message
+  Home.md                           dashboard with counts and entry points
+
+Run from the repo root:
+    python .github/scripts/generate_vault.py
+Then open ./obsidian-vault/ as a vault in Obsidian.
+
+Search behaviour: Obsidian's search matches question text inside notes, so
+a seeker typing words from a real question ("responsible for people who
+reject") lands on the message that answers it. The Ask the Archive index
+gives the same corpus as a browsable FAQ.
+"""
+
+import re
+import sys
+import shutil
+import yaml
+from pathlib import Path
+from collections import defaultdict
+
+ROOT = Path(".")
+MESSAGES_DIR = ROOT / "content" / "messages"
+SUBJECTS_PATH = ROOT / "metadata" / "subjects.yml"
+CHAINS_LOG = ROOT / "metadata" / "chains-log.md"
+CHAINS_THREADS = ROOT / "metadata" / "chains-threads.md"
+VAULT = ROOT / "obsidian-vault"
+
+ROLE_ORDER = ["Foundation", "Elaboration", "Objection-removed", "Reframe",
+              "Testimony", "Chrysalis", "Capstone"]
+
+
+def slug(text):
+    """Tag-safe slug: lowercase, & -> and, spaces -> hyphens."""
+    t = text.lower().replace("&", "and")
+    t = re.sub(r"[^a-z0-9]+", "-", t)
+    return t.strip("-")
+
+
+def load_front_matter(path):
+    raw = path.read_text(encoding="utf-8")
+    if not raw.startswith("---"):
+        return None, None
+    end = raw.find("\n---", 3)
+    if end == -1:
+        return None, None
+    fm = yaml.safe_load(raw[3:end])
+    body = raw[end + 4:].lstrip("\n")
+    return fm, body
+
+
+def load_subject_hierarchy():
+    """Return {subject_name: parent_name_or_None}."""
+    data = yaml.safe_load(SUBJECTS_PATH.read_text(encoding="utf-8"))
+    parents = {}
+    for cat in data.get("main_categories", []):
+        parents[cat["name"]] = None
+        for sub in cat.get("subcategories", []) or []:
+            parents[sub["name"]] = cat["name"]
+    return parents
+
+
+def subject_tag(name, parents):
+    parent = parents.get(name)
+    if parent and parent != name:
+        return f"subject/{slug(parent)}/{slug(name)}"
+    return f"subject/{slug(name)}"
+
+
+def parse_chain_registry():
+    """From chains-threads.md registry table: {slug: (theme, argument)}."""
+    reg = {}
+    if not CHAINS_THREADS.exists():
+        return reg
+    for line in CHAINS_THREADS.read_text(encoding="utf-8").splitlines():
+        if line.startswith("| `"):
+            cells = [c.strip() for c in line.strip("|").split("|")]
+            if len(cells) >= 3:
+                reg[cells[0].strip("`")] = (cells[1], cells[2])
+    return reg
+
+
+def parse_chain_memberships():
+    """
+    From chains-log.md member lines: {message_id: [(slug, role, is_anchor)]}.
+    Only bold member lines (- `slug` **[Role...]**) count; NOTEs/sightings
+    are intentionally excluded from the graph.
+    """
+    members = defaultdict(list)
+    if not CHAINS_LOG.exists():
+        return members
+    current_id = None
+    for line in CHAINS_LOG.read_text(encoding="utf-8").splitlines():
+        h = re.match(r"### (\S+) — .+ — \d{4}-\d{2}-\d{2}", line)
+        if h:
+            current_id = h.group(1)
+            continue
+        m = re.match(r"- `([a-z0-9-]+)` \*\*\[([^\]]+)\]\*\*(.*)", line)
+        if m and current_id:
+            chain_slug = m.group(1)
+            role = m.group(2).split()[0].split(";")[0].split(",")[0]
+            role = role.replace("—", "").strip() or "Elaboration"
+            anchor = "presumptive anchor" in (m.group(2) + m.group(3)).lower() \
+                     or "presumptive section anchor" in (m.group(2) + m.group(3)).lower()
+            members[current_id].append((chain_slug, role, anchor))
+    return members
+
+
+def wiki(msg_id, titles):
+    title = titles.get(msg_id)
+    return f"[[{msg_id}|{title}]]" if title else f"[[{msg_id}]]"
+
+
+def main():
+    if not MESSAGES_DIR.exists():
+        print("Run from the repository root (content/messages not found).")
+        sys.exit(1)
+
+    parents = load_subject_hierarchy()
+    registry = parse_chain_registry()
+    memberships = parse_chain_memberships()
+
+    # Pass 1: load all messages
+    messages = {}
+    for path in sorted(MESSAGES_DIR.rglob("*.md")):
+        if path.name.count(".") > 1:      # translation files like *.pt-br.md
+            continue
+        fm, body = load_front_matter(path)
+        if not fm or "message_id" not in fm:
+            continue
+        if fm.get("translation_of"):
+            continue
+        messages[fm["message_id"]] = (fm, body)
+    titles = {mid: fm.get("title", mid).strip() for mid, (fm, _) in messages.items()}
+
+    if VAULT.exists():
+        shutil.rmtree(VAULT)
+    (VAULT / "Messages").mkdir(parents=True)
+    for d in ["Chains", "Subjects", "Spirits", "Collections"]:
+        (VAULT / d).mkdir()
+
+    by_subject = defaultdict(list)
+    by_spirit = defaultdict(list)
+    by_collection = defaultdict(list)
+    questions_by_category = defaultdict(list)
+    chain_members = defaultdict(list)     # slug -> [(role, anchor, msg_id, date)]
+
+    # Pass 2: write message notes
+    for mid, (fm, body) in sorted(messages.items()):
+        date = str(fm.get("date", ""))
+        spirit = fm.get("spirit_name") or fm.get("spirit_id", "")
+        subjects = [fm.get("primary_subjects")] if fm.get("primary_subjects") else []
+        subjects += [s for s in (fm.get("secondary_subjects") or []) if s]
+        tags = [f"spirit/{slug(fm.get('spirit_id', ''))}"]
+        for t in fm.get("message_type") or []:
+            tags.append(f"type/{slug(t)}")
+        for s in subjects:
+            tags.append(subject_tag(s, parents))
+        for k in fm.get("keywords") or []:
+            tags.append(f"keyword/{slug(k)}")
+        for c in fm.get("collections") or []:
+            tags.append(f"collection/{slug(c)}")
+        for e in fm.get("essential_teachings") or []:
+            tags.append(f"essential/{slug(e)}")
+        for sp in fm.get("spirits") or []:
+            tags.append(f"mentions/{sp}")
+        for chain_slug, role, anchor in memberships.get(mid, []):
+            tags.append(f"chain/{chain_slug}")
+            chain_members[chain_slug].append((role, anchor, mid, date))
+
+        lines = ["---",
+                 "tags:"] + [f"  - {t}" for t in dict.fromkeys(tags)] + [
+                 f'aliases: ["{titles[mid].replace(chr(34), chr(39))}"]',
+                 f"date: {date}",
+                 "---",
+                 "",
+                 f"# {titles[mid]}",
+                 "",
+                 f"**Spirit:** [[Spirits/{fm.get('spirit_id','')}|{spirit}]] · "
+                 f"**Medium:** {fm.get('medium','')} · **Date:** {date}",
+                 ""]
+        door = (fm.get("door") or "").strip()
+        if door:
+            lines += ["> [!quote] The Door", f"> {door}", ""]
+        desc = (fm.get("description") or "").strip()
+        if desc:
+            lines += [desc, ""]
+        qs = fm.get("questions") or []
+        if qs:
+            lines += ["## Questions this message answers", ""]
+            lines += [f"- {q}" for q in qs] + [""]
+            top = parents.get(subjects[0]) or subjects[0] if subjects else "General"
+            for q in qs:
+                questions_by_category[top].append((q, mid))
+        rel = fm.get("related_messages") or []
+        if rel:
+            lines += ["## Related messages", ""]
+            lines += [f"- {wiki(r, titles)}" for r in rel] + [""]
+        mem = memberships.get(mid, [])
+        if mem:
+            lines += ["## Chains", ""]
+            for chain_slug, role, anchor in mem:
+                mark = " **(anchor)**" if anchor else ""
+                lines += [f"- [[Chains/{chain_slug}]] — {role}{mark}"]
+            lines += [""]
+        lines += ["---", "", body.strip(), ""]
+
+        year = date[:4] or "undated"
+        (VAULT / "Messages" / year).mkdir(exist_ok=True)
+        (VAULT / "Messages" / year / f"{mid}.md").write_text("\n".join(lines), encoding="utf-8")
+
+        for s in subjects:
+            by_subject[s].append((date, mid))
+        by_spirit[fm.get("spirit_id", "unknown")].append((date, mid))
+        for c in fm.get("collections") or []:
+            by_collection[c].append((date, mid))
+
+    # Chain hubs
+    for chain_slug, mem in sorted(chain_members.items()):
+        theme, argument = registry.get(chain_slug, ("", ""))
+        lines = [f"# Chain: {chain_slug.replace('-', ' ').title()}", ""]
+        if theme:
+            lines += [f"> {theme}", ""]
+        if argument:
+            lines += [f"**The argument it traces:** {argument}", ""]
+        by_role = defaultdict(list)
+        for role, anchor, mid, date in mem:
+            by_role[role].append((date, anchor, mid))
+        ordered = [r for r in ROLE_ORDER if r in by_role] + \
+                  [r for r in sorted(by_role) if r not in ROLE_ORDER]
+        for role in ordered:
+            lines += [f"## {role}", ""]
+            for date, anchor, mid in sorted(by_role[role]):
+                mark = " **(anchor)**" if anchor else ""
+                lines += [f"- {date} — {wiki(mid, titles)}{mark}"]
+            lines += [""]
+        (VAULT / "Chains" / f"{chain_slug}.md").write_text("\n".join(lines), encoding="utf-8")
+
+    # Category hubs
+    def write_hub(folder, name, items, heading):
+        lines = [f"# {heading}", ""]
+        lines += [f"- {d} — {wiki(m, titles)}" for d, m in sorted(items)] + [""]
+        (VAULT / folder / f"{slug(name)}.md").write_text("\n".join(lines), encoding="utf-8")
+
+    for s, items in by_subject.items():
+        write_hub("Subjects", s, items, f"Subject: {s}")
+    for sp, items in by_spirit.items():
+        write_hub("Spirits", sp, items, f"Spirit: {sp}")
+    for c, items in by_collection.items():
+        write_hub("Collections", c, items, f"Collection: {c}")
+
+    # Ask the Archive
+    lines = ["# Ask the Archive", "",
+             "Every question the archive answers, grouped by subject area.",
+             "Type any part of your question into Obsidian's search to find",
+             "the message that answers it.", ""]
+    total_q = 0
+    for cat in sorted(questions_by_category):
+        lines += [f"## {cat}", ""]
+        for q, mid in sorted(set(questions_by_category[cat])):
+            lines += [f"- {q} → {wiki(mid, titles)}"]
+            total_q += 1
+        lines += [""]
+    (VAULT / "Ask the Archive.md").write_text("\n".join(lines), encoding="utf-8")
+
+    # Home
+    home = [
+        "# Divine Love Messages Archive", "",
+        f"- **{len(messages)}** messages · **{len(chain_members)}** chains · "
+        f"**{len(by_subject)}** subjects in use · **{total_q}** questions answered", "",
+        "## Start here",
+        "- [[Ask the Archive]] — search any question",
+        "- Browse the `Chains/` folder for the argument threads",
+        "- Open the graph view; filter with `-path:\"Subjects\"` if hubs dominate", "",
+    ]
+    (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
+
+    print(f"Vault built: {len(messages)} messages, {len(chain_members)} chain hubs, "
+          f"{len(by_subject)} subject hubs, {total_q} questions indexed.")
+    print(f"Open {VAULT.resolve()} as a vault in Obsidian.")
+
+
+if __name__ == "__main__":
+    main()
