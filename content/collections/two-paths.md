@@ -1,7 +1,7 @@
 ---
 title: "Two Paths"
 description: "Messages contrasting the natural love path and the Divine Love path — the two ways a soul may progress after physical life. Clarifies the distinction between natural love (which leads to the soul spheres) and Divine Love (which leads to the Celestial Heavens and at-onement with God)."
-last_updated: 2026-07-09
+last_updated: 2026-07-12
 ---
 
 # Two Paths
