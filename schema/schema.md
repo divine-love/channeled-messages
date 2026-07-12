@@ -225,7 +225,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **notes** | string | Optional free-text field for contextual notes. Leave blank (`notes: ""`) if none. Use YAML block scalar format (`>`) when content is present. | `notes: ""` or `notes: >`<br>`  Message received during evening circle.` |
 | **essential_teachings** | array of strings | Optional flags marking a message as particularly important. Values: `Core Teaching`, `Prophecy`, `Historical`, `Divine Healing`, `Spirit Biography`, `Milestone`. Use sparingly. See Section 4a for definitions. | `["Core Teaching"]` |
 | **language** | string | Language code (ISO 639-1). Always include. Defaults to `en` for English. Required for multilingual site rendering. | `en` |
-| **excerpt** | string (block scalar) | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Under 200 characters (enforced by the schema). Use YAML block scalar format (`>`) for longer excerpts. | `excerpt: >`<br>`  Drink deep these Living waters and open yourselves wide.` |
+| **excerpt** | string (block scalar) | A short, punchy pull quote or highlight for social sharing, homepage teasers, and search snippets. May be a direct quote from the message or curator-written. More evocative than `description`. Aim for under 200 characters; 300 maximum (enforced by the schema). Use YAML block scalar format (`>`) for longer excerpts. | `excerpt: >`<br>`  Drink deep these Living waters and open yourselves wide.` |
 | **door** | string (block scalar) | A single sentence distilling the transformative insight hidden within the message — the curator's invitation to enter. Written in the curator's voice or very close to the spirit's words. One strong sentence, under 300 characters (enforced by the schema). Used to generate `content/browse.md`. See "The Door" in Section 6 for the style standard. | `door: >`<br>`  The soul that walks in God's light becomes a lantern for every soul it passes.` |
 | **collections** | array of strings | Optional thematic collections this message belongs to. Used to generate `content/collections/` pages. Leave empty if not yet assigned. Valid values listed in Section 4b. | `["Jesus Speaks", "Healing Path"]` |
 | **last_edited** | string (YYYY-MM-DD) | The date this record was last modified. Update whenever the file is touched, using the actual current date. Helps track which translation files may need updating after source edits. | `2025-06-01` |
@@ -500,7 +500,7 @@ Before committing a new message:
  - ✅ YAML validates without syntax errors (`yaml-validator` or VSCode plugin)
  - ✅ A short **description** is included (600 characters or fewer)
  - ✅ **language** is set (default `en`)
- - ✅ **excerpt** is filled in with an evocative pull quote or curator highlight (under 200 characters)
+ - ✅ **excerpt** is filled in with an evocative pull quote or curator highlight (aim for under 200 characters; 300 maximum)
  - ✅ **door** is filled in with a single sentence distilling the transformative insight (under 300 characters)
  - ✅ **collections** is present (leave as `[]` if not yet assigned)
  - ✅ **essential_teachings** is present (leave as `[]` if none applies)
