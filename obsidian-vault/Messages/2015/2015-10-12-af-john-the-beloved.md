@@ -1,0 +1,54 @@
+---
+tags:
+  - spirit/john-the-beloved
+  - type/guidance
+  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
+  - subject/spiritual-community-and-fellowship/children-and-future-generations
+  - subject/spiritual-discipline-and-daily-living/faith-and-trust
+  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
+  - keyword/fear
+  - keyword/light
+  - keyword/joy
+  - keyword/protection
+  - keyword/faith
+  - keyword/trust
+  - keyword/loved-ones
+  - keyword/prayer
+  - keyword/acceptance
+  - keyword/channel-of-love
+  - keyword/healing
+  - keyword/peace
+  - keyword/earth-changes
+  - keyword/god-s-hand
+  - collection/the-saints-and-apostles-speak
+aliases: ["Continue to Love"]
+date: 2015-10-12
+---
+
+# Continue to Love
+
+**Spirit:** [[Spirits/john-the-beloved|John the Beloved]] · **Medium:** Al Fike · **Date:** 2015-10-12
+
+> [!quote] The Door
+> When everything else is uncertain, continuing to love is always the right next step
+
+John the Beloved assures the gathered souls that there is nothing to fear — God's Hand is firmly upon them and only Light and joy await. He calls them to trust in God's Will, pray for those around them who struggle, and release the need to control the paths of loved ones, accepting them with Love and prayer while walking in peace and faith.
+
+## Questions this message answers
+
+- How do I stop being afraid of what is coming in the world?
+- How do I trust God when the world feels chaotic and frightening?
+- How do I help loved ones who are struggling or in pain?
+- How do I accept that I cannot control the spiritual path of those I love?
+- How do I pray for someone who has turned away from the Light?
+- How do I walk in peace when those around me are suffering?
+- Does God protect those who walk in His Love?
+- How do I be a channel of healing for those around me?
+
+---
+
+I am John. There is nothing to fear, my beloveds. What comes before you is only Light, what awaits you is joy. Though the Earth may change, your lives may change and the conditions of humanity may press upon you, my beloveds, there is nothing to fear, for God has His Hand firmly upon you and His Protection is powerfully with you, my beloveds. And it is for you, my beloveds, to not allow these conditions of the world to hamper you upon your Path, but to walk in good faith and trust in the Will of God, and know that you walk in Light. And ask your Heavenly Father, when you feel besieged by the conditions of this world and those around you who struggle, ask Him to guide you to be a channel of Love and healing for those around you, to be strong in Light, and faith and Love. For in this way you bring healing and harmony, peace and joy. And for those who turn away from this Light, you cannot control their decisions, you must love them and accept their path and say a prayer that they may walk upon their path to a place of Light and true understanding.
+
+I know this is difficult when you see your loved ones in pain and you want to change this condition, to envelop them and show them the Light. And you do in your prayers, my beloveds, you do and this is important and powerful to send your prayers to the Heavenly Father. For it is in His Great Wisdom and Touch and Love that those around you will find their way. It is prayer, my beloveds, and Love and acceptance. Do not judge, do not be afraid but walk in peace and know that all of God's children are Loved by Him and will, in time, embrace all upon their journeys.
+
+God bless you, beloveds, I am John and I love you and I am with you as you navigate this world, as you say your prayers and find that deep peace within yourselves. It comes when you are with God. God bless you, beloveds, God bless you.

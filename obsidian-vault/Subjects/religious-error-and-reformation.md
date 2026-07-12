@@ -1,0 +1,17 @@
+# Subject: Religious Error & Reformation
+
+- 2015-06-15 — [[2015-06-15-af-joseph-smith|The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations]]
+- 2016-03-25 — [[2016-03-25-af-mary|Message on Good Friday]]
+- 2016-03-30 — [[2016-03-30-af-augustine|A Lesson on the Power of Humility]]
+- 2016-04-02 — [[2016-04-02-af-jesus|Jesus' Ministry and the Teachings of Divine Love]]
+- 2016-04-12 — [[2016-04-12-af-moses|Lesson on the Falsity of the Vicarious Atonement and the Unsure Nature of Written Truth]]
+- 2018-09-15 — [[2018-09-15-af-augustine|Augustine Comments on the Perspective of Many Who Attended the AREI Conference]]
+- 2018-11-05 — [[2018-11-05-af-john-wesley|Speak Up for Truth and Change]]
+- 2018-11-26 — [[2018-11-26-af-jesus|Clarification on the Existence of Jesus]]
+- 2019-01-27 — [[2019-01-27-af-jesus|Jesus Incarnated as a Complete Soul and Has No Other Half or Soulmate]]
+- 2019-01-29 — [[2019-01-29-af-mary-magdalene|Mary Magdalene Is Not Jesus' Soulmate]]
+- 2019-01-30 — [[2019-01-30-af-jesus|How Can We Discern Truth When Messages from Different Mediums Contradict Each Other?]]
+- 2019-01-30 — [[2019-01-30-af-seretta-kem|Jesus Assigns Spirit Guides]]
+- 2019-01-31 — [[2019-01-31-af-yogananda|Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East]]
+- 2019-03-14 — [[2019-03-14-af-jesus|Love Is My Message]]
+- 2019-04-06 — [[2019-04-06-af-yogananda|Your Gifts Are Opening]]

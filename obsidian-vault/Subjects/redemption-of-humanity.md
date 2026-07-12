@@ -1,0 +1,17 @@
+# Subject: Redemption of Humanity
+
+- 2015-08-20 — [[2015-08-20-af-mary|The Change That Is Coming Will Start with the Children]]
+- 2015-09-30 — [[2015-09-30-af-augustine|Continue to Open Your Arms and Build Circles of Light]]
+- 2015-12-01 — [[2015-12-01-af-augustine|The Time for Casual Commitment Is Over]]
+- 2015-12-21 — [[2015-12-21-af-augustine|Be a Channel of Love in a Changing World]]
+- 2015-12-28 — [[2015-12-28-af-keea-atta-kem|The Time Comes for You to Express These Gifts]]
+- 2018-11-29 — [[2018-11-29-af-augustine|Challenging Earth Changes Bring Greater Light and Harmony to Humanity]]
+- 2018-12-02 — [[2018-12-02-af-augustine|All Truth Comes from the Soul: Part 2]]
+- 2018-12-16 — [[2018-12-16-af-confucius|Prepare for the Times That Are Coming]]
+- 2018-12-30 — [[2018-12-30-af-seretta-kem|Meet the Coming Changes in the World with Prayer]]
+- 2019-01-04 — [[2019-01-04-af-augustine|Nurturing This Centre of Light Will Open Many Doors in the Future]]
+- 2019-01-25 — [[2019-01-25-af-albert-einstein|Many Scientists in Spirit Are Working to Forge Greater Communications between Worlds]]
+- 2019-01-26 — [[2019-01-26-af-augustine|How Diverse Beliefs Can Be Unified]]
+- 2019-01-27 — [[2019-01-27-af-abdullah-latif|Mankind Has the Power to Create Its Own Reality]]
+- 2019-01-28 — [[2019-01-28-af-augustine|Questions Regarding Earth Changes]]
+- 2019-03-14 — [[2019-03-14-af-mary|Gather Your Brethren Into the Light]]

@@ -1,0 +1,57 @@
+---
+tags:
+  - spirit/faith-nyquist
+  - type/guidance
+  - subject/spiritual-discipline-and-daily-living/humility
+  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
+  - subject/service-ministry-and-being-a-channel-of-love
+  - subject/spiritual-discipline-and-daily-living/releasing-judgment
+  - subject/spiritual-discipline-and-daily-living/faith-and-trust
+  - keyword/humility
+  - keyword/love-melts-barriers
+  - keyword/the-simple-way
+  - keyword/resistance
+  - keyword/suspicion
+  - keyword/fear
+  - keyword/release-judgment
+  - keyword/trust-god-s-will
+  - keyword/channel-of-change
+  - keyword/healing
+  - keyword/walking-a-different-road
+  - keyword/faith
+  - keyword/whc
+aliases: ["Humility at WHC"]
+date: 2016-03-30
+---
+
+# Humility at WHC
+
+**Spirit:** [[Spirits/faith-nyquist|Faith]] · **Medium:** Al Fike · **Date:** 2016-03-30
+
+> [!quote] The Door
+> You think you need a strategy for the hard room. Faith says walk in with love and watch the walls come down.
+
+Faith counsels the circle to be humble, loving, gracious, and gentle when they go to her old home, for this simple loving way is more powerful than anything and will melt resistance, suspicion, and fear. She urges them to release all judgments and fears, to stop speculating and formulating, and simply to allow God to use them, trusting His Will to bring a powerful channel of change, love, and healing to a place in great need.
+
+## Questions this message answers
+
+- Why is humility more powerful than force when entering a difficult situation?
+- How does approaching people with love melt resistance and suspicion?
+- How do I let go of my own fears and speculation and just trust God?
+- What does it mean to allow God to use me in simple and powerful ways?
+- How do I bring change to a place that is resistant or in need of healing?
+- Why is the simple, loving path stronger than strategy or argument?
+- How do I release judgment when walking into a place full of fear and suspicion?
+
+## Related messages
+
+- [[2016-06-27-af-brother-mandus|You Will Fulfill Your Mandate to Be a Channel of Love at My Home]]
+- [[2018-05-11-af-augustine|This Is a Place of Refuge]]
+
+---
+
+God bless you, this is Faith.
+
+So now you see how important it is to be humble and loving when you go to my old home - to embrace, to accept, to be gracious and gentle, for this is the most powerful way to be within those hallowed halls and it will bring results, openings and will melt the resistance and the suspicion and the fears. The simple way, this loving path is more powerful than anything. Love will melt the barriers. Release all of your judgments and your fears. Just allow God to use you in simple and powerful ways. All will be well. You need not speculate or formulate or have your own suspicions and fears, but trust in God's Will, and this will bring a powerful channel for change and love and healing to this place so in need.
+
+Thank you, my friends, for continuing to have faith, for allowing yourselves to be guided and to walk this road so different from what the vast majority of humanity follow. It is a powerful Light that you generate as you walk in this way in the world. And it will continue to have wondrous consequences and effects. You will see how things will unfold in surprising ways. God bless you, your friend Faith ever with you and has a deep and abiding love for each one of you. God bless you, beloved souls.

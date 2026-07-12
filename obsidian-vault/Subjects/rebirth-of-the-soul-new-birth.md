@@ -1,0 +1,17 @@
+# Subject: Rebirth of the Soul (New Birth)
+
+- 2014-10-11 — [[2014-10-11-af-judas|Every Soul Can Receive the Divine Love and Be Transformed by It]]
+- 2015-01-05 — [[2015-01-05-af-andrew|Cleansing of Your Soul Brings Understanding, Perception and Wisdom]]
+- 2015-06-12 — [[2015-06-12-af-moses|Do Not Stand in the Way of Your Own True and Perfect Healing]]
+- 2015-06-14 — [[2015-06-14-af-jesus|Walk with Me upon the Path of Love]]
+- 2015-06-24 — [[2015-06-24-af-augustine|Seeking the Divine Love Will Bring Many Rewards]]
+- 2015-09-07 — [[2015-09-07-af-augustine|Like a Newborn, the Eyes of Your Soul Begin to Open Bringing Shifts and Changes of Perception]]
+- 2015-11-02 — [[2015-11-02-af-john-the-beloved|Release the Yoke of Error and Lack of Self Love]]
+- 2016-04-02 — [[2016-04-02-af-jesus|Jesus' Ministry and the Teachings of Divine Love]]
+- 2016-05-02 — [[2016-05-02-af-andrew|Two Paths Towards Love and Purification]]
+- 2016-05-29 — [[2016-05-29-af-aman|Aman Speaks of the Original State of Humanity and the Fall from Grace]]
+- 2017-05-11 — [[2017-05-11-af-jesus|Jesus Speaks of the Pentecost]]
+- 2017-09-12 — [[2017-09-12-af-martin-luther|Understanding the Laws of Love and the Regeneration of Our Souls]]
+- 2018-07-14 — [[2018-07-14-af-seretta-kem|Soul Expiation Through Pursuit of Truth, Release of Error]]
+- 2018-10-09 — [[2018-10-09-af-seretta-kem|The Integration of the Material Mind with the Soul Mind]]
+- 2019-02-15 — [[2019-02-15-af-matthew|The Experience of Pentecost]]
