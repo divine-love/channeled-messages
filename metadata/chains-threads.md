@@ -137,6 +137,7 @@ before adding new ones.
 | `challenges-as-blessings` | Every difficulty is a blessing that strengthens the soul | Hardship, whatever its source, is redeemed into soul-growth by God's design -> every struggle, test, and challenge brings insights and lessons that strengthen the soul -> the strengthened soul becomes a more powerful channel of Love -> so the challenge is met with trust rather than resentment | Soul Growth through Challenges |
 | `self-love-foundation` | Loving oneself is the prerequisite for loving others | One cannot extend compassion outward while suppressing or condemning the self -> the seeker is not to blame for their condition and should meet their own cleansing with compassion -> self-love opens the capacity to love others fully -> and the soul that loves itself becomes a clear channel of Love to the world | Self-Love & Acceptance; Compassion & Empathy |
 | `incremental-journey` | Growth in Divine Love is inherently incremental | The soul's growth advances in leaps, then trickles, impeded by world and self yet lifted by God -> the oscillation (two steps forward, one back) comes from the mind's fear-driven retreat to the familiar -> yet each forward effort reinforces truth -> and each step of the gradual awakening is swift in the measure of eternity | Personal Transformation Journey; Perseverance & Steadfastness |
+| `free-will-and-self-responsibility` | Your healing waits on your own will | God honours free will absolutely and will not override it even to relieve self-created pain -> prayers for relief go unanswered while the mind keeps feeding the very condition prayed about -> real change must come as a deep desire from the soul, not a correction from the mind -> and the same law releases you from responsibility for the choices of others, for each soul answers for what it chooses | Law of Free Will |
 
 ---
 
@@ -145,7 +146,7 @@ before adding new ones.
 Threads minted from the holding pen at the curator's direction
 (`earth-changes`, `sensitive-souls-redemptive`, `challenges-as-blessings`,
 and `self-love-foundation` on 2026-07-06; `incremental-journey` on
-2026-07-08). Anchors marked;
+2026-07-08; `free-will-and-self-responsibility` on 2026-07-11). Anchors marked;
 back-search roles are provisional pending full text. Per-message log entries
 exist for the anchor-level witnesses; roster-only names await log migration
 as they are processed or back-searched in full.
@@ -188,6 +189,17 @@ as they are processed or back-searched in full.
   reinforcing truth). Overlaps `pentecost` (sudden vs gradual as the
   awakening-modes question) and `soul-expiation`; this thread is the
   why-increments question.
+- `free-will-and-self-responsibility` — (minted 2026-07-11 per the pen's own
+  standing instruction, on the arrival of the second confirming message)
+  witnesses in hand: 2019-02-22-af-augustine (Foundation, presumptive anchor:
+  the full argument and the named law, "There is a law that says you must be
+  responsible for yourself"), 2016-04-04-af-augustine (Elaboration: the
+  corollary — those who "stubbornly hold on to what they carry" where healing
+  is offered are choosing, and the servant carries no responsibility for
+  their choice, "for each soul is responsible for what they choose, just as
+  you are responsible for what you choose"). Distinct from
+  `free-will-and-gods-plan` (God's orchestration through willing souls);
+  overlaps `soul-expiation` and `mind-vs-soul` at a search level.
 
 ---
 
@@ -207,6 +219,18 @@ message gives them an argument to trace.
   2016-04-13-af-seretta-kem, 2017-12-12-af-seretta-kem,
   2018-07-14-af-seretta-kem. Search-level home meanwhile: Divine Healing;
   Healing Path.
+- `provision-for-service` — God's provision for God-guided work. The
+  argument: when a mission is guided by God, all that is required is
+  provided on every level, including the monetary -> worry, guilt, and
+  conflict are barriers the servant raises, not conditions God imposes ->
+  provision meets requirements, not indulgence (humility, balance,
+  integrity) -> harmony is the mark of God's Hand upon the work. Developed
+  statement: 2016-04-04-af-augustine (presumptive Foundation if minted;
+  logged). Sightings: 2015-08-20-af-faith-nyquist ("God will provide the
+  means, the buildings, the finances"), 2015-11-09-af-faith-nyquist (God's
+  Will prevails through setbacks), 2016-01-08-af-jesus (doors open in His
+  perfect timing). Mint when a second message develops the argument rather
+  than asserting the provision.
 - `the-fall` — the original state of humanity and the fall from grace.
   Seen: 2016-05-29-af-aman (original state and fall narrative);
   2016-03-31-af-judas (the clearest "offered and declined" statement - God
@@ -326,23 +350,6 @@ message gives them an argument to trace.
   when a message develops the mechanism (how intercessory prayer acts on another
   soul or condition) rather than asserting the power. Search-level home meanwhile:
   subject "Prayer & Devotion."
-- `free-will-and-self-responsibility` — **(high-priority candidate — strong anchor
-  in hand, awaiting a second confirming message to mint)** — the individual's own
-  free will as the pivot of their healing, distinct from `free-will-and-gods-plan`
-  (God's orchestration of His plan across generations through willing souls). The
-  argument: God honours free will absolutely and will not override it even to
-  relieve self-created pain; prayers for relief go unanswered while the mind
-  keeps feeding the very condition prayed about; and real change must come as a
-  deep desire from the soul, not a correction from the mind. Rests on a named law
-  ("There is a law that says you must be responsible for yourself"). Seen:
-  2019-02-22-af-augustine — a full, developed statement of the whole argument, and
-  a strong candidate for Foundation when the thread is minted. Overlaps
-  `soul-expiation` (change-from-the-soul; cf. 2023-02-10-af-augustine "you need not
-  cleanse everything first") and `mind-vs-soul` at a search level without being
-  reducible to either. Mint as soon as a second message develops the "prayer for
-  change fails while the mind keeps choosing the condition / responsibility-for-self
-  law" argument, with Augustine 2019-02-22 as the presumptive Foundation.
-  Search-level home meanwhile: subject "Law of Free Will."
 
 ---
 

@@ -35,7 +35,8 @@ questions:
   - "How do I pray for clarity about what God wants me to do?"
   - "What does it mean to follow God's Will as the central commitment of a life?"
   - "How does the Holy Spirit touch the soul in prayer?"
-related_messages: []
+related_messages:
+  - 2016-04-04-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -57,7 +58,7 @@ door: >
   souls are ready to flood in.
 collections:
   - "Service & Mission"
-last_edited: 2026-07-08
+last_edited: 2026-07-12
 ---
 
 Beloveds, I am Faith and I come to speak to you on the subject of creating Centres of Light in the world. I walked this Earth not too long ago and I did my Father's bidding. My life was dedicated to following the Father's Will in this world and He took me on a great and beautiful journey of Love. I did not however understand as you do the power of God's Love, though I knew of God's Love and I was within His care and Light.
