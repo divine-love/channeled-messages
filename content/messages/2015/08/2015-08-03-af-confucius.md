@@ -33,14 +33,16 @@ questions:
   - "How does receiving Divine Love change who I am?"
   - "How do I become a channel of healing and truth?"
   - "What is the simple requirement for the spiritual journey?"
-related_messages: ["2015-06-24-af-confucius"]
+related_messages:
+  - 2015-06-24-af-confucius
+  - 2019-04-07-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/many-gifts-lie-within/"
 notes: ""
 essential_teachings: []
 door: >
   The gifts you have been given are already within you, waiting to be recognised
-last_edited: 2026-04-13
+last_edited: 2026-07-11
 ---
 
 God bless you, my beloveds, it is Confucius. The Light of God's Grace is upon you, my beloveds, your prayers have brought this. Feel the longing within your souls. Feel it touch God's Soul, the response of Light which pours down upon you, my beloveds. You bask in this Light. Allow yourselves to be open and to drink in this blessing. You are surrounded by angels, beloved beloved souls, and these angels pray with you as you discover your true soul's longings, as you put aside that part of you which hides from God and steps into the Light with eyes open and feelings of gratitude, refreshed by this beautiful touch from God.

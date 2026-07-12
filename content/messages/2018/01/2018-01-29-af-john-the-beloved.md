@@ -37,9 +37,10 @@ questions:
   - "Is my soul truly unique or are we all the same before God?"
   - "How does expressing my unique gifts serve God and others?"
 related_messages:
+  - 2015-08-03-af-confucius
   - 2016-04-04-af-keea-atta-kem
   - 2016-08-16-af-james
-  - 2015-08-03-af-confucius
+  - 2019-04-07-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/gods-love-awakens-the-gifts-of-the-soul/"
 notes: ""
@@ -52,7 +53,7 @@ excerpt: >
 collections: ["Prism of the Soul", "The Saints & Apostles Speak"]
 door: >
   God has planted a whole universe within you. It takes only one prayer to begin bringing it alive
-last_edited: 2026-04-23
+last_edited: 2026-07-11
 ---
 
 I am John the Beloved. Within each of you are many worlds my beloveds, many layers of your being, all intricate and beautifully created by God. Within, there are many aspects of your expression, from the complexities of your minds to the wonderment of your souls, the firmament of your bodies created by countless cells all working together to create your physical self, the firmament of your soul which within possesses many aspects and gifts and beautiful expressions. For within your soul, God has planted many seeds of great variety and beauty awaiting that time when they germinate and come to fruition. Within you, my beloveds, is a beautiful garden made from the gifts that God has planted within you, creating a unique and beautiful soul. That soul is you, my beloveds. That soul is God's Creation unique to each individual. What brings the soul alive is the Light of God's Love, His Gift, His Essence poured into you, igniting all the potentials of your soul, germinating all of these wondrous gifts coming to bloom, bearing fruit. So, my beloved, beautiful souls, each of you has within you a whole universe of possibilities and potentials, gifts, a flower garden of wondrous hues and textures, unique in beauty, combinations of flowers unique to each one. It is for you in your lives, not only here but in the world of spirit, to discover all the unique qualities that you possess my beloved souls, all the unique gifts that reside within you, all these beautiful, beautiful aspects of yourselves just waiting, yearning for its life to burst forth bringing to you many surprises, many possibilities. With the gifts of your soul you may express yourselves in life. With these creative impulses comes a desire for expression.

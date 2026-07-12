@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-08
+last_updated: 2026-07-11
 status: working notes only — do not generate from this file
 companion: chains-log.md
 ---
@@ -287,7 +287,9 @@ message gives them an argument to trace.
   2019-02-03; earlier witness Augustine 2015-11-30). Earlier witnesses now in
   hand from the 2026-07-06 back-search: 2015-08-17-af-peter (a developed
   early statement, logged with a provisional Foundation role) and
-  2015-09-21-af-mary (sighting).
+  2015-09-21-af-mary (sighting); and 2019-04-07-af-augustine (sighting,
+  logged: the mind blocks awareness of the gifts, which become self-evident
+  as the soul awakens).
 - `two-currents-cosmology` — the macro framing of the world as a contest between
   two currents or streams, one toward darkness and one toward light, with the
   collective movement of awakened souls as the means by which Light overcomes
