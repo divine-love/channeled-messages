@@ -1,7 +1,7 @@
 ---
 title: "Prism of the Soul"
 description: "Messages exploring the nature, faculties, and gifts of the soul — its capacity for Divine Love, its unique expression, its senses, and the gifts that emerge as it is awakened and transformed."
-last_updated: 2026-07-09
+last_updated: 2026-07-12
 ---
 
 # Prism of the Soul
@@ -21,3 +21,4 @@ Messages exploring the nature, faculties, and gifts of the soul — its capacity
 | [Awakening of Your Gifts Requires God's Love, Faith and Timing](../messages/2018/07/2018-07-13-af-keea-atta-kem.md) | 2018‑07‑13 | Keea atta Kem teaches that as souls gather and build light together, God is able to use this collective energy to bring blessings to those connected to them - including souls who long without knowing it. She cautions against the mind's eagerness and ambition interfering with soul gift development, teaching that gifts must unfold in harmony with God's timing and Will, and that the feeling of harmony within is the reliable guide for knowing when one is in the right flow. |
 | [Does Every Soul Have a Purpose?](../messages/2019/01/2019-01-29-af-augustine.md) | 2019‑01‑29 | Augustine responds to a question about whether every soul has a purpose, teaching that God has imbued each soul with gifts, abilities, and an invitation to fulfil a unique role in His plan. He assures those gathered that their purpose is already within them, drawing them forward naturally like gravity, and that God has arranged every experience of their lives to prepare them for its full expression in Love. |
 | [Faculties of the Soul](../messages/2019/02/2019-02-01-af-josephus.md) | 2019‑02‑01 | Josephus, a philosopher and teacher of the Jewish faith now in the Celestial Kingdom, delivers a structured teaching on the faculties of the soul, distinct from the material mind and held in chambers that God's Essence opens. He teaches that these faculties are unique to each soul, must be experienced rather than understood by the mind, and are refined and transformed when ignited by Divine Love. |
+| [Walking God's Path of Divine Love Will Bring You Upon A Different Road](../messages/2019/04/2019-04-07-af-augustine.md) | 2019‑04‑07 | Augustine teaches that the power of God's Love within human souls is what enables the Celestial Angels to reach and speak to mortals, and that every member of the circle carries a myriad of hidden gifts the material mind blocks from awareness through its fear, its demand for control, and its pressure to walk as others walk. He calls those gathered to step forward in faith without full understanding, releasing the shackle that says worthiness requires perfection, and promises that as the soul awakens these gifts become self-evident and will be used by God in surprising ways. |
