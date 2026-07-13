@@ -158,12 +158,14 @@ def main():
     if VAULT.exists():
         shutil.rmtree(VAULT)
     (VAULT / "Messages").mkdir(parents=True)
-    for d in ["Chains", "Subjects", "Spirits", "Collections"]:
+    for d in ["Chains", "Subjects", "Spirits", "Collections", "Mediums", "Essential Teachings"]:
         (VAULT / d).mkdir()
 
     by_subject = defaultdict(list)
     by_spirit = defaultdict(list)
     by_collection = defaultdict(list)
+    by_medium = defaultdict(list)
+    by_et = defaultdict(list)
     questions_by_category = defaultdict(list)
     chain_members = defaultdict(list)     # slug -> [(role, anchor, msg_id, date)]
 
@@ -190,7 +192,7 @@ def main():
                  f'aliases: [{q(titles[mid])}]',
                  f"date: {date}",
                  f"spirit: {q('[[Spirits/' + fm.get('spirit_id','') + '|' + (fm.get('spirit_name') or fm.get('spirit_id','')) + ']]')}",
-                 f"medium: {q(fm.get('medium',''))}",
+                 f"medium: {q('[[Mediums/' + slug(fm.get('medium','')) + '|' + fm.get('medium','') + ']]')}",
                  f"location: {q(loc_str)}"]
         if fm.get("gathering"):
             props.append(f"gathering: {q(fm['gathering'])}")
@@ -213,7 +215,7 @@ def main():
         ets = fm.get("essential_teachings") or []
         if ets:
             props.append("essential_teachings:")
-            props += [f"  - {q(e)}" for e in ets]
+            props += [f"  - {q('[[Essential Teachings/' + slug(e) + '|' + e + ']]')}" for e in ets]
         mem_props = memberships.get(mid, [])
         if mem_props:
             props.append("chains:")
@@ -266,6 +268,9 @@ def main():
         by_spirit[fm.get("spirit_id", "unknown")].append((date, mid))
         for c in fm.get("collections") or []:
             by_collection[c].append((date, mid))
+        by_medium[fm.get("medium", "Unknown")].append((date, mid))
+        for e in ets:
+            by_et[e].append((date, mid))
 
     # Chain hubs
     for chain_slug, mem in sorted(chain_members.items()):
@@ -300,6 +305,10 @@ def main():
         write_hub("Spirits", sp, items, f"Spirit: {sp}")
     for c, items in by_collection.items():
         write_hub("Collections", c, items, f"Collection: {c}")
+    for mname, items in by_medium.items():
+        write_hub("Mediums", mname, items, f"Medium: {mname}")
+    for e, items in by_et.items():
+        write_hub("Essential Teachings", e, items, f"Essential Teaching: {e}")
 
     # Ask the Archive
     lines = ["# Ask the Archive", "",
