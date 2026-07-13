@@ -3,7 +3,7 @@ message_id: 2016-03-30-af-augustine
 aliases: ["A Lesson on the Power of Humility"]
 date: 2016-03-30
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/humility|Humility]]"
@@ -32,8 +32,8 @@ collections:
   - "[[Collections/letters-from-history|Letters from History]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 canonical_url: "https://divinelovesanctuary.com/lesson-power-humility/"
 ---
 

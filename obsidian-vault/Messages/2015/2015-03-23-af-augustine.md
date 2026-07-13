@@ -3,7 +3,7 @@ message_id: 2015-03-23-af-augustine
 aliases: ["They Will Fill This Building"]
 date: 2015-03-23
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Blessing"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
@@ -23,7 +23,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 ---
 
 # They Will Fill This Building

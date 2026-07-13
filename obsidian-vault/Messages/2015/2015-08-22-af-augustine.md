@@ -3,7 +3,7 @@ message_id: 2015-08-22-af-augustine
 aliases: ["Augustine Advises a Retreat Group to Talk about Their Inner Soul Changes"]
 date: 2015-08-22
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

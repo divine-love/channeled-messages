@@ -3,7 +3,7 @@ message_id: 2019-04-07-af-augustine
 aliases: ["Walking God's Path of Divine Love Will Bring You Upon A Different Road"]
 date: 2019-04-07
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"

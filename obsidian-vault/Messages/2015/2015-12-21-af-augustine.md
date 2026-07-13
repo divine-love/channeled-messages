@@ -3,7 +3,7 @@ message_id: 2015-12-21-af-augustine
 aliases: ["Be a Channel of Love in a Changing World"]
 date: 2015-12-21
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

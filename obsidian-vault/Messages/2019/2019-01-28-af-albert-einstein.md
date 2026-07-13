@@ -3,7 +3,7 @@ message_id: 2019-01-28-af-albert-einstein
 aliases: ["How Can We Help Approach Scientists?"]
 date: 2019-01-28
 spirit: "[[Spirits/albert-einstein|Albert Einstein]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"

@@ -3,7 +3,7 @@ message_id: 2015-07-06-af-alec-gaunt
 aliases: ["The World Is Changing"]
 date: 2015-07-06
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"

@@ -3,7 +3,7 @@ message_id: 2016-03-07-af-victor-summers
 aliases: ["Greetings from Victor Summers"]
 date: 2016-03-07
 spirit: "[[Spirits/victor-summers|Victor Summers]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, Washington, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"

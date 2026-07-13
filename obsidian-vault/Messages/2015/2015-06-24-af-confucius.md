@@ -3,7 +3,7 @@ message_id: 2015-06-24-af-confucius
 aliases: ["Every Soul Has a Purpose and Gift to Bring into the World"]
 date: 2015-06-24
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"

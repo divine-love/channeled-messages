@@ -3,7 +3,7 @@ message_id: 2015-08-22-af-john-the-beloved
 aliases: ["John Gives a Prayer for Greater Enlightenment"]
 date: 2015-08-22
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Blessing"

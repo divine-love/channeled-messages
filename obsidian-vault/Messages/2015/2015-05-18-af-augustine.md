@@ -3,7 +3,7 @@ message_id: 2015-05-18-af-augustine
 aliases: ["Recognizing Your Two Selves, the Soul and the Material Mind"]
 date: 2015-05-18
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

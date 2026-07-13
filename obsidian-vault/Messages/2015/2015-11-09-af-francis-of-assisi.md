@@ -3,7 +3,7 @@ message_id: 2015-11-09-af-francis-of-assisi
 aliases: ["Healing for This Precious World Is Required"]
 date: 2015-11-09
 spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/nature-environment-and-god-s-creation|Nature, Environment & God's Creation]]"

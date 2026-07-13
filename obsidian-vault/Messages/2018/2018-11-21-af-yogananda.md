@@ -3,7 +3,7 @@ message_id: 2018-11-21-af-yogananda
 aliases: ["Being a Channel of God's Love Requires Taming the Mind and Exemplifying the Soul"]
 date: 2018-11-21
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

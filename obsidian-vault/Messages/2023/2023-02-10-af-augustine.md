@@ -3,7 +3,7 @@ message_id: 2023-02-10-af-augustine
 aliases: ["The Impediments of Soul Awakening"]
 date: 2023-02-10
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: ""
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
@@ -33,7 +33,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/soul-expiation]]"
   - "[[Chains/earth-conditions-and-prayer]]"

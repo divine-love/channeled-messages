@@ -3,7 +3,7 @@ message_id: 2016-03-16-af-seretta-kem
 aliases: ["You Are Truly Beautiful Souls"]
 date: 2016-03-16
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, WA, USA"
 message_type: "Guidance"
 primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"

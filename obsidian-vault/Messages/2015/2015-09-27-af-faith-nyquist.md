@@ -3,7 +3,7 @@ message_id: 2015-09-27-af-faith-nyquist
 aliases: ["The Wondrous Expressions of Your Soul and Life's Challenges"]
 date: 2015-09-27
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-s-true-nature|Soul's True Nature]]"

@@ -3,7 +3,7 @@ message_id: 2016-03-30-af-confucius
 aliases: ["Greetings to Beginners in Circle"]
 date: 2016-03-30
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/at-onement|At-onement]]"

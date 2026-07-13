@@ -3,7 +3,7 @@ message_id: 2018-07-18-af-confucius
 aliases: ["You Walk the Path of Love"]
 date: 2018-07-18
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"

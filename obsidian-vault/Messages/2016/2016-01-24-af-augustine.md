@@ -3,7 +3,7 @@ message_id: 2016-01-24-af-augustine
 aliases: ["Lesson on Soul-Desire"]
 date: 2016-01-24
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Hawaii, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

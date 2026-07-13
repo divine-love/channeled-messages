@@ -3,7 +3,7 @@ message_id: 2015-08-17-af-seretta-kem
 aliases: ["A Special Blessing to Those at the Gibsons Retreat"]
 date: 2015-08-17
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Blessing"

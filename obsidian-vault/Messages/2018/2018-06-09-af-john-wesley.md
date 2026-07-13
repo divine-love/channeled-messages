@@ -3,7 +3,7 @@ message_id: 2018-06-09-af-john-wesley
 aliases: ["All Truth Begins with the Soul Awakened in Love"]
 date: 2018-06-09
 spirit: "[[Spirits/john-wesley|John Wesley]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
@@ -32,9 +32,9 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Historical"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/historical|Historical]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 canonical_url: "https://divinelovesanctuary.com/all-truth-begins-with-the-soul-awakened-in-love/"
 ---
 

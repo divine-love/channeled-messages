@@ -3,7 +3,7 @@ message_id: 2019-02-24-af-confucius
 aliases: ["We Use You to Teach Many Souls the Truth"]
 date: 2019-02-24
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Homosassa Springs, Florida, United States"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

@@ -3,7 +3,7 @@ message_id: 2017-12-18-af-martin-luther
 aliases: ["The Responsibility of Acting in Love Lies with You"]
 date: 2017-12-18
 spirit: "[[Spirits/martin-luther|Martin Luther]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"

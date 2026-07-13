@@ -3,7 +3,7 @@ message_id: 2015-08-24-af-seretta-kem
 aliases: ["Material Manifestations Will Come in Time"]
 date: 2015-08-24
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"

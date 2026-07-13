@@ -3,7 +3,7 @@ message_id: 2015-08-03-af-augustine
 aliases: ["Release Those Conditions Within You That Hold You Back"]
 date: 2015-08-03
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/letting-go-of-wounds|Letting Go of Wounds]]"

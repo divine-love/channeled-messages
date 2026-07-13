@@ -3,7 +3,7 @@ message_id: 2017-01-25-af-alec-gaunt
 aliases: ["Building a Foundation of Spiritual Growth and Development"]
 date: 2017-01-25
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Burnaby, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

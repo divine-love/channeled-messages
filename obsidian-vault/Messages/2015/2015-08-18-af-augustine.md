@@ -3,7 +3,7 @@ message_id: 2015-08-18-af-augustine
 aliases: ["The Road Less Traveled: Guidance for the Journey"]
 date: 2015-08-18
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"
@@ -27,7 +27,7 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 ---
 
 # The Road Less Traveled: Guidance for the Journey

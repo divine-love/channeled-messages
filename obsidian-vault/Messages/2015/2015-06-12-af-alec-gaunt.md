@@ -3,7 +3,7 @@ message_id: 2015-06-12-af-alec-gaunt
 aliases: ["Understand and Follow the Will of God"]
 date: 2015-06-12
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"

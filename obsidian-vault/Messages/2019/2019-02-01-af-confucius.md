@@ -3,7 +3,7 @@ message_id: 2019-02-01-af-confucius
 aliases: ["Come Together Again With Your Questions"]
 date: 2019-02-01
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"

@@ -3,7 +3,7 @@ message_id: 2018-11-04-af-keea-atta-kem
 aliases: ["God's Love Will Nurture Your Soul"]
 date: 2018-11-04
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Burnaby, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

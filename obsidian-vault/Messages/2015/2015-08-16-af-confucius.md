@@ -3,7 +3,7 @@ message_id: 2015-08-16-af-confucius
 aliases: ["Amendment to Augustine's Guidance"]
 date: 2015-08-16
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

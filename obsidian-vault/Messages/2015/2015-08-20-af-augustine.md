@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-augustine
 aliases: ["Augustine Suggests That a Gift Given in Group Prayer Will Benefit Those Praying the Next Day"]
 date: 2015-08-20
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

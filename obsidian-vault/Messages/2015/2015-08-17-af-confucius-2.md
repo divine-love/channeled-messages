@@ -3,7 +3,7 @@ message_id: 2015-08-17-af-confucius-2
 aliases: ["The Angels Come to Bless a Retreat Gathering in Gibsons"]
 date: 2015-08-17
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Blessing"

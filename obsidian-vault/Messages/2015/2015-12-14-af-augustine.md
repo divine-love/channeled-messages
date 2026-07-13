@@ -3,7 +3,7 @@ message_id: 2015-12-14-af-augustine
 aliases: ["Free Will versus God's Will"]
 date: 2015-12-14
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
@@ -33,7 +33,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/free-will-and-gods-plan]]"
   - "[[Chains/mind-vs-soul]]"

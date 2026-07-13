@@ -3,7 +3,7 @@ message_id: 2015-03-29-af-seretta-kem
 aliases: ["The Greatest of All Types of Healing Is Divine Love Healing"]
 date: 2015-03-29
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
@@ -30,8 +30,8 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/divine-love-healing]]"
 ---

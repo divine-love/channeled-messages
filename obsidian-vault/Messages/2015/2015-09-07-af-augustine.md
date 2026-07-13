@@ -3,7 +3,7 @@ message_id: 2015-09-07-af-augustine
 aliases: ["Like a Newborn, the Eyes of Your Soul Begin to Open Bringing Shifts and Changes of Perception"]
 date: 2015-09-07
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"

@@ -3,7 +3,7 @@ message_id: 2018-11-03-af-matthew
 aliases: ["Live the Truth of God's Love"]
 date: 2018-11-03
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

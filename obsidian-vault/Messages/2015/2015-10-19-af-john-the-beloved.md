@@ -3,7 +3,7 @@ message_id: 2015-10-19-af-john-the-beloved
 aliases: ["You Are Becoming God's Instruments and Channels of Love"]
 date: 2015-10-19
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

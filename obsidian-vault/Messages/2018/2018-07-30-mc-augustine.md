@@ -3,7 +3,7 @@ message_id: 2018-07-30-mc-augustine
 aliases: ["The Awakening Soul"]
 date: 2018-07-30
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Maureen Cardoso"
+medium: "[[Mediums/maureen-cardoso|Maureen Cardoso]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

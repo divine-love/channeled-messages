@@ -3,7 +3,7 @@ message_id: 2017-09-12-af-augustine
 aliases: ["Release of Limitations"]
 date: 2017-09-12
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"

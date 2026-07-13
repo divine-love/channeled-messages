@@ -3,7 +3,7 @@ message_id: 2015-09-07-af-confucius
 aliases: ["Take Time to Come to Firmer Ground"]
 date: 2015-09-07
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"

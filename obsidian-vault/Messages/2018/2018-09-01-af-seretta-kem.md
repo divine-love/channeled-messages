@@ -3,7 +3,7 @@ message_id: 2018-09-01-af-seretta-kem
 aliases: ["You Are Ready to Step Forward"]
 date: 2018-09-01
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2018 Gibsons Mediumship Retreat"
 message_type: "Guidance"
@@ -33,7 +33,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/preparation-to-be-a-rock]]"
 canonical_url: "https://divinelovesanctuary.com/you-are-ready-to-step-forward/"

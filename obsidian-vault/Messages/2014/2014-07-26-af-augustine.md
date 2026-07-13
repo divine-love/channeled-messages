@@ -3,7 +3,7 @@ message_id: 2014-07-26-af-augustine
 aliases: ["Free Will Makes for a Free Wheeling World. Nothing Is Guaranteed."]
 date: 2014-07-26
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"

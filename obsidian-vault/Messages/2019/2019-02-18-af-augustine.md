@@ -3,7 +3,7 @@ message_id: 2019-02-18-af-augustine
 aliases: ["Be Receptive to God and the Celestial Angels"]
 date: 2019-02-18
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Cruise Ship, Florida, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"

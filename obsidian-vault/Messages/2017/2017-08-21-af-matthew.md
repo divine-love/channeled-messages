@@ -3,7 +3,7 @@ message_id: 2017-08-21-af-matthew
 aliases: ["Only the Soul Can Know God's Love"]
 date: 2017-08-21
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
@@ -30,7 +30,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/mind-vs-soul]]"
   - "[[Chains/divine-love-without-knowing]]"

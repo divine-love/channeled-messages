@@ -3,7 +3,7 @@ message_id: 2016-06-27-af-brother-mandus
 aliases: ["You Will Fulfill Your Mandate to Be a Channel of Love at My Home"]
 date: 2016-06-27
 spirit: "[[Spirits/brother-mandus|Brother Mandus]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
@@ -31,8 +31,8 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Spirit Biography"
-  - "Historical"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
+  - "[[Essential Teachings/historical|Historical]]"
 canonical_url: "https://divinelovesanctuary.com/you-will-fulfill-your-mandate-to-be-a-channel-of-love-at-my-home/"
 ---
 

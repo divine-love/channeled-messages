@@ -3,7 +3,7 @@ message_id: 2016-01-09-af-augustine
 aliases: ["You Are Gardeners in God's Beautiful Garden"]
 date: 2016-01-09
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"

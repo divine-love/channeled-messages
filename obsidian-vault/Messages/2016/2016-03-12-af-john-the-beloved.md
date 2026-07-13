@@ -3,7 +3,7 @@ message_id: 2016-03-12-af-john-the-beloved
 aliases: ["God's Touch in the World"]
 date: 2016-03-12
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, Washington, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

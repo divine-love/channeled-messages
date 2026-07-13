@@ -3,7 +3,7 @@ message_id: 2015-10-05-af-augustine
 aliases: ["Cherish This Light"]
 date: 2015-10-05
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

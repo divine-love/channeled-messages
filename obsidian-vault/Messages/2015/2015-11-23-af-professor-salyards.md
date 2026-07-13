@@ -3,7 +3,7 @@ message_id: 2015-11-23-af-professor-salyards
 aliases: ["Professor Salyards Affirms the Truth Spoken by King Solomon"]
 date: 2015-11-23
 spirit: "[[Spirits/professor-salyards|Professor Salyards]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"

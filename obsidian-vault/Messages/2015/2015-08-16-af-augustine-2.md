@@ -3,7 +3,7 @@ message_id: 2015-08-16-af-augustine-2
 aliases: ["Application of Your Spiritual Gifts Is Required"]
 date: 2015-08-16
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

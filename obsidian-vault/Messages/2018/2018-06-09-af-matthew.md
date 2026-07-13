@@ -3,7 +3,7 @@ message_id: 2018-06-09-af-matthew
 aliases: ["The Soul Longs for the Touch of God"]
 date: 2018-06-09
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

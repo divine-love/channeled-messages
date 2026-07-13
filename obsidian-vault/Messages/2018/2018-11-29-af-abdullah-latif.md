@@ -3,7 +3,7 @@ message_id: 2018-11-29-af-abdullah-latif
 aliases: ["The Power of Prayer"]
 date: 2018-11-29
 spirit: "[[Spirits/abdullah-latif|Abdullah Latif]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
@@ -26,7 +26,7 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/the-power-of-prayer/"
 ---
 

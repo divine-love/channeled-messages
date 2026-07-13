@@ -3,7 +3,7 @@ message_id: 2017-09-12-af-martin-luther
 aliases: ["Understanding the Laws of Love and the Regeneration of Our Souls"]
 date: 2017-09-12
 spirit: "[[Spirits/martin-luther|Martin Luther]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/two-paths|Two Paths]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/understanding-the-laws-of-love-and-the-regeneration-of-our-souls/"
 ---
 

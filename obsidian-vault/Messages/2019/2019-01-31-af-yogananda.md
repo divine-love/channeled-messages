@@ -3,7 +3,7 @@ message_id: 2019-01-31-af-yogananda
 aliases: ["Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East"]
 date: 2019-01-31
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/law-of-attraction|Law of Attraction]]"
@@ -35,8 +35,8 @@ collections:
   - "[[Collections/two-paths|Two Paths]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/reincarnation-progression]]"
   - "[[Chains/mind-vs-soul]]"

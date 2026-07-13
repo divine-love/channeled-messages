@@ -3,7 +3,7 @@ message_id: 2015-05-03-af-confucius
 aliases: ["The Ups and the Downs of the Journey"]
 date: 2015-05-03
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"

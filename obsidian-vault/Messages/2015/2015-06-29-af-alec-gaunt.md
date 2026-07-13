@@ -3,7 +3,7 @@ message_id: 2015-06-29-af-alec-gaunt
 aliases: ["Release the Pains of Your Soul, for God Needs You to Be Strong and Clear"]
 date: 2015-06-29
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"

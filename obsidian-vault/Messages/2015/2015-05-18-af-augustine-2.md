@@ -3,7 +3,7 @@ message_id: 2015-05-18-af-augustine-2
 aliases: ["Each of You Is Being Prepared"]
 date: 2015-05-18
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"

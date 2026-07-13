@@ -3,7 +3,7 @@ message_id: 2018-11-05-af-john-wesley
 aliases: ["Speak Up for Truth and Change"]
 date: 2018-11-05
 spirit: "[[Spirits/john-wesley|John Wesley]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
@@ -26,8 +26,8 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/service-and-mission|Service & Mission]]"
 essential_teachings:
-  - "Historical"
-  - "Spirit Biography"
+  - "[[Essential Teachings/historical|Historical]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/religious-error]]"
 canonical_url: "https://divinelovesanctuary.com/speak-up-for-truth-and-change/"

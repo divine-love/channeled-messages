@@ -3,7 +3,7 @@ message_id: 2015-07-21-af-augustine
 aliases: ["A Door Opens: Will You Enter through Its Threshold?"]
 date: 2015-07-21
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

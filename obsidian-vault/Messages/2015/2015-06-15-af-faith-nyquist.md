@@ -3,7 +3,7 @@ message_id: 2015-06-15-af-faith-nyquist
 aliases: ["Walk in the Light and Be the Beacon of Light despite the Daily Challenges"]
 date: 2015-06-15
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"

@@ -3,7 +3,7 @@ message_id: 2018-08-13-af-seretta-kem
 aliases: ["Growing the Light Within Your Souls Is the Greatest Service to God"]
 date: 2018-08-13
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
@@ -32,7 +32,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/bell-toll-instrumentality]]"
   - "[[Chains/earth-changes]]"

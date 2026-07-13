@@ -3,7 +3,7 @@ message_id: 2018-08-20-af-augustine
 aliases: ["Commentary on Earth Changes"]
 date: 2018-08-20
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
@@ -36,7 +36,7 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/commentary-on-earth-changes/"
 ---
 

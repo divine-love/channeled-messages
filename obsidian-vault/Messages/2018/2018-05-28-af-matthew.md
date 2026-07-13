@@ -3,7 +3,7 @@ message_id: 2018-05-28-af-matthew
 aliases: ["Receiving the Love of God Brings Both Pain and Joy"]
 date: 2018-05-28
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/receiving-the-love-of-god-brings-both-pain-and-joy/"
 ---
 

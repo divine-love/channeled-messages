@@ -3,7 +3,7 @@ message_id: 2019-01-30-af-matthew
 aliases: ["Thank You for Your Efforts in Prayer"]
 date: 2019-01-30
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"

@@ -3,7 +3,7 @@ message_id: 2018-08-13-af-confucius
 aliases: ["Confucius Blesses Us"]
 date: 2018-08-13
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"

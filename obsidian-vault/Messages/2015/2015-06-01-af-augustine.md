@@ -3,7 +3,7 @@ message_id: 2015-06-01-af-augustine
 aliases: ["Complying to the Will of God"]
 date: 2015-06-01
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"

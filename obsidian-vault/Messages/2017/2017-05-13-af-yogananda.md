@@ -3,7 +3,7 @@ message_id: 2017-05-13-af-yogananda
 aliases: ["Accept the Diversity that God Created"]
 date: 2017-05-13
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Encinitas, CA, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
@@ -29,9 +29,9 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
-  - "Historical"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
+  - "[[Essential Teachings/historical|Historical]]"
 canonical_url: "https://divinelovesanctuary.com/accept-diversity-god-created/"
 ---
 

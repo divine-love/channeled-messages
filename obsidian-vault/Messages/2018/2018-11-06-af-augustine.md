@@ -3,7 +3,7 @@ message_id: 2018-11-06-af-augustine
 aliases: ["The Struggle of the Material Mind to Be in Harmony With Love"]
 date: 2018-11-06
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

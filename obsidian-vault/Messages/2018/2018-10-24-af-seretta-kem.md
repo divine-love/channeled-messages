@@ -3,7 +3,7 @@ message_id: 2018-10-24-af-seretta-kem
 aliases: ["Seretta Kem Talks of the Service that May Come"]
 date: 2018-10-24
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
@@ -33,7 +33,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/preparation-to-be-a-rock]]"
 canonical_url: "https://divinelovesanctuary.com/seretta-kem-talks-of-the-service-that-may-come/"

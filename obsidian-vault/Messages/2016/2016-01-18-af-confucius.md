@@ -3,7 +3,7 @@ message_id: 2016-01-18-af-confucius
 aliases: ["How the Gift of Love Can Touch a Soul and Change the World"]
 date: 2016-01-18
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Hawaii, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

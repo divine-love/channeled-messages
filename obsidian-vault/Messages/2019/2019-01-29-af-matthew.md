@@ -3,7 +3,7 @@ message_id: 2019-01-29-af-matthew
 aliases: ["God Needs Us to Bring Truth"]
 date: 2019-01-29
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

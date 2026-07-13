@@ -3,7 +3,7 @@ message_id: 2019-01-08-af-matthew
 aliases: ["Matthew's Message of Reassurance to the Group"]
 date: 2019-01-08
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Fitzroy Falls, NSW, Australia"
 message_type: "Guidance"
 primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"

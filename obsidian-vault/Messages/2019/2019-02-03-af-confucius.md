@@ -3,7 +3,7 @@ message_id: 2019-02-03-af-confucius
 aliases: ["Blessings and Healings"]
 date: 2019-02-03
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"

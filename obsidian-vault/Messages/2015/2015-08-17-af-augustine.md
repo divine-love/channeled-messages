@@ -3,7 +3,7 @@ message_id: 2015-08-17-af-augustine
 aliases: ["What Will You Do...The Choice Is Yours to Make"]
 date: 2015-08-17
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

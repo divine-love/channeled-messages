@@ -3,7 +3,7 @@ message_id: 2015-11-23-af-solomon
 aliases: ["King Solomon Talks about How to Obtain True Wisdom"]
 date: 2015-11-23
 spirit: "[[Spirits/solomon|Solomon]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
@@ -26,7 +26,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 ---
 
 # King Solomon Talks about How to Obtain True Wisdom

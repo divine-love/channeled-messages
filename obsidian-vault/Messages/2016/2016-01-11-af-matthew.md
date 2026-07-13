@@ -3,7 +3,7 @@ message_id: 2016-01-11-af-matthew
 aliases: ["The Year Ahead"]
 date: 2016-01-11
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"

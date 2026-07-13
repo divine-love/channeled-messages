@@ -3,7 +3,7 @@ message_id: 2015-09-27-af-alec-gaunt
 aliases: ["Continue Steadfastly on the Path of Love"]
 date: 2015-09-27
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"

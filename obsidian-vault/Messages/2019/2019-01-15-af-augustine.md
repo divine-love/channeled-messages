@@ -3,7 +3,7 @@ message_id: 2019-01-15-af-augustine
 aliases: ["Walk in the World as a Channel of Light"]
 date: 2019-01-15
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

@@ -3,7 +3,7 @@ message_id: 2016-04-04-af-keea-atta-kem
 aliases: ["The Prism of Our Souls"]
 date: 2016-04-04
 spirit: "[[Spirits/keea-atta-kem|Keea atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
@@ -30,7 +30,7 @@ keywords:
 collections:
   - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/the-prism-of-our-souls/"
 ---
 

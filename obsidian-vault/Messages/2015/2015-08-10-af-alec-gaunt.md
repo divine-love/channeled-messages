@@ -3,7 +3,7 @@ message_id: 2015-08-10-af-alec-gaunt
 aliases: ["Allow God to Manifest His Love in All That You Do"]
 date: 2015-08-10
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"

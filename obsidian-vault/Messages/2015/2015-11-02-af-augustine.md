@@ -3,7 +3,7 @@ message_id: 2015-11-02-af-augustine
 aliases: ["Free Will Governs Your Path"]
 date: 2015-11-02
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"

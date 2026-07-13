@@ -3,7 +3,7 @@ message_id: 2015-12-01-af-augustine
 aliases: ["The Time for Casual Commitment Is Over"]
 date: 2015-12-01
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
@@ -27,7 +27,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 ---
 
 # The Time for Casual Commitment Is Over

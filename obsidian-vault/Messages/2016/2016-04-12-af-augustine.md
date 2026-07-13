@@ -3,7 +3,7 @@ message_id: 2016-04-12-af-augustine
 aliases: ["Expectations of the Mind: On Releasing Control"]
 date: 2016-04-12
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/expectations-of-the-mind-on-releasing-control/"
 ---
 

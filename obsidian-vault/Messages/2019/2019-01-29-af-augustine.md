@@ -3,7 +3,7 @@ message_id: 2019-01-29-af-augustine
 aliases: ["Does Every Soul Have a Purpose?"]
 date: 2019-01-29
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
@@ -27,7 +27,7 @@ keywords:
 collections:
   - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/soul-purpose-emergence]]"
   - "[[Chains/free-will-and-gods-plan]]"

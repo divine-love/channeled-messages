@@ -3,7 +3,7 @@ message_id: 2018-11-14-af-yogananda
 aliases: ["Yogananda Message from Oz"]
 date: 2018-11-14
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Guidance"
 primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"

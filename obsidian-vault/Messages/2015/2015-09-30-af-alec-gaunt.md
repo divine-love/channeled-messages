@@ -3,7 +3,7 @@ message_id: 2015-09-30-af-alec-gaunt
 aliases: ["Go Within in Order to Know God's Will for You"]
 date: 2015-09-30
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

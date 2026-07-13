@@ -3,7 +3,7 @@ message_id: 2016-12-06-af-seretta-kem
 aliases: ["Talk on Mediumship: The Laws of Communication and Rapport"]
 date: 2016-12-06
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Hawaii, HI, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/divine-love-mediumship]]"
 canonical_url: "https://divinelovesanctuary.com/talk-mediumship-laws-communication-rapport/"

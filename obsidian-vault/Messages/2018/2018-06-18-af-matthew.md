@@ -3,7 +3,7 @@ message_id: 2018-06-18-af-matthew
 aliases: ["The Reality of the Soul Can Be Merged with the Mind"]
 date: 2018-06-18
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/mind-vs-soul]]"
 canonical_url: "https://divinelovesanctuary.com/the-reality-of-the-soul-can-be-merged-with-the-mind/"

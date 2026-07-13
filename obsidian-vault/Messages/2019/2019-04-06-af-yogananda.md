@@ -3,7 +3,7 @@ message_id: 2019-04-06-af-yogananda
 aliases: ["Your Gifts Are Opening"]
 date: 2019-04-06
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Historical"
+  - "[[Essential Teachings/historical|Historical]]"
 chains:
   - "[[Chains/religious-error]]"
   - "[[Chains/divine-love-mediumship]]"

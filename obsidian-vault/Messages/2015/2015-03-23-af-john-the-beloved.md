@@ -3,7 +3,7 @@ message_id: 2015-03-23-af-john-the-beloved
 aliases: ["Your Purpose in This Gathering Is to Teach the Prayer Practice"]
 date: 2015-03-23
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"

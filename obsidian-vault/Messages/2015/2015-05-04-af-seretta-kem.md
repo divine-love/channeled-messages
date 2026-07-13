@@ -3,7 +3,7 @@ message_id: 2015-05-04-af-seretta-kem
 aliases: ["Reaching for Greater Light and Service"]
 date: 2015-05-04
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"

@@ -3,7 +3,7 @@ message_id: 2017-06-15-af-augustine
 aliases: ["Lesson on Judgement"]
 date: 2017-06-15
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/judgment-to-love]]"
 canonical_url: "https://divinelovesanctuary.com/lesson-on-judgement/"

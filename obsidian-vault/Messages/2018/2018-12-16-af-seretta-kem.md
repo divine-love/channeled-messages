@@ -3,7 +3,7 @@ message_id: 2018-12-16-af-seretta-kem
 aliases: ["Online Circle Helping to Build the Lattice of Light"]
 date: 2018-12-16
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
@@ -26,7 +26,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Historical"
+  - "[[Essential Teachings/historical|Historical]]"
 mentions:
   - "[[Spirits/confucius]]"
 canonical_url: "https://divinelovesanctuary.com/online-circle-helping-to-build-the-lattice-of-light/"

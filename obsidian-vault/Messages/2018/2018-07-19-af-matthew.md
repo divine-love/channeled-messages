@@ -3,7 +3,7 @@ message_id: 2018-07-19-af-matthew
 aliases: ["Death Can Be a Joyful Transitioning to Spirit"]
 date: 2018-07-19
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/death-and-transition-to-spirit|Death & Transition to Spirit]]"
@@ -33,7 +33,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/death-transition]]"
 canonical_url: "https://divinelovesanctuary.com/death-can-be-a-joyful-transitioning-to-spirit/"

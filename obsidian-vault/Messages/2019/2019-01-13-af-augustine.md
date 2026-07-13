@@ -3,7 +3,7 @@ message_id: 2019-01-13-af-augustine
 aliases: ["You Are All Part of God's Plan"]
 date: 2019-01-13
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"

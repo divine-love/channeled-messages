@@ -3,7 +3,7 @@ message_id: 2015-12-07-af-augustine
 aliases: ["Carry This Light into the Darkened World"]
 date: 2015-12-07
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

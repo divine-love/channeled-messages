@@ -3,7 +3,7 @@ message_id: 2015-08-21-af-keea-atta-kem
 aliases: ["Return to Your Soul and Live From That Place of Stillness and Love"]
 date: 2015-08-21
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

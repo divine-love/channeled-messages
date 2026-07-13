@@ -3,7 +3,7 @@ message_id: 2019-01-28-af-augustine
 aliases: ["Questions Regarding Earth Changes"]
 date: 2019-01-28
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"

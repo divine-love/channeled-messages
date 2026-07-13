@@ -3,7 +3,7 @@ message_id: 2016-03-21-af-augustine
 aliases: ["The Awakening of Humanity"]
 date: 2016-03-21
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 canonical_url: "https://divinelovesanctuary.com/the-awakening-of-humanity/"
 ---
 

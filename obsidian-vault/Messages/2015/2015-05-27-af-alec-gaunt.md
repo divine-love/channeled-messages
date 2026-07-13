@@ -3,7 +3,7 @@ message_id: 2015-05-27-af-alec-gaunt
 aliases: ["After All Your Preparations It Is Time to Step Forward"]
 date: 2015-05-27
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

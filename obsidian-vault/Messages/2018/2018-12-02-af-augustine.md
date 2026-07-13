@@ -3,7 +3,7 @@ message_id: 2018-12-02-af-augustine
 aliases: ["All Truth Comes from the Soul: Part 2"]
 date: 2018-12-02
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
@@ -27,7 +27,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/two-paths|Two Paths]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/mind-vs-soul]]"
   - "[[Chains/soul-faculties]]"

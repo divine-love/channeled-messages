@@ -3,7 +3,7 @@ message_id: 2018-05-17-af-augustine
 aliases: ["60/40 Soul Mind Guidance"]
 date: 2018-05-17
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
@@ -31,7 +31,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/mind-vs-soul]]"
 canonical_url: "https://divinelovesanctuary.com/60-40-soul-mind-guidance/"

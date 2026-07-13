@@ -3,7 +3,7 @@ message_id: 2018-11-20-af-professor-salyards
 aliases: ["Natural Love versus Divine Love Soul Progression"]
 date: 2018-11-20
 spirit: "[[Spirits/professor-salyards|Professor Salyards]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
@@ -25,7 +25,7 @@ keywords:
 collections:
   - "[[Collections/two-paths|Two Paths]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/natural-love-versus-divine-love-soul-progression/"
 ---
 

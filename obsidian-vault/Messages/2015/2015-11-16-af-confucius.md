@@ -3,7 +3,7 @@ message_id: 2015-11-16-af-confucius
 aliases: ["Creating a Lattice of Light in the World"]
 date: 2015-11-16
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
@@ -27,7 +27,7 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 ---
 
 # Creating a Lattice of Light in the World

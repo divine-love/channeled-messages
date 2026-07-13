@@ -3,7 +3,7 @@ message_id: 2016-03-30-af-faith-nyquist
 aliases: ["Humility at WHC"]
 date: 2016-03-30
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/humility|Humility]]"

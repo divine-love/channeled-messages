@@ -3,7 +3,7 @@ message_id: 2016-01-04-af-seretta-kem
 aliases: ["On Being a Comforter in This World"]
 date: 2016-01-04
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

@@ -3,7 +3,7 @@ message_id: 2016-03-17-af-alec-gaunt
 aliases: ["You Must Be the Examples"]
 date: 2016-03-17
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, WA, USA"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

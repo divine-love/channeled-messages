@@ -3,7 +3,7 @@ message_id: 2017-12-12-af-seretta-kem
 aliases: ["On Soul Expiation"]
 date: 2017-12-12
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/on-soul-expiation/"
 ---
 

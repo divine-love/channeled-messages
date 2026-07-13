@@ -3,7 +3,7 @@ message_id: 2018-10-09-af-seretta-kem
 aliases: ["The Integration of the Material Mind with the Soul Mind"]
 date: 2018-10-09
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
@@ -32,7 +32,7 @@ keywords:
 collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/mind-vs-soul]]"
 canonical_url: "https://divinelovesanctuary.com/the-integration-of-the-material-mind-with-the-soul-mind/"

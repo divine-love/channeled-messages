@@ -3,7 +3,7 @@ message_id: 2018-11-22-af-yogananda
 aliases: ["Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens"]
 date: 2018-11-22
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/celestial-heavens-and-at-onement|Celestial Heavens & At-onement]]"
@@ -27,7 +27,7 @@ collections:
   - "[[Collections/two-paths|Two Paths]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/reincarnation-progression]]"
   - "[[Chains/two-paths]]"

@@ -3,7 +3,7 @@ message_id: 2019-03-03-mc-keea-atta-kem
 aliases: ["Seek the Counsel of Your Soul"]
 date: 2019-03-03
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Maureen Cardoso"
+medium: "[[Mediums/maureen-cardoso|Maureen Cardoso]]"
 location: "Abbotsford, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

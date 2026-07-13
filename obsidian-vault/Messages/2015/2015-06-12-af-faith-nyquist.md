@@ -3,7 +3,7 @@ message_id: 2015-06-12-af-faith-nyquist
 aliases: ["Do Not Lose Faith in God's Plan"]
 date: 2015-06-12
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/faith-and-trust|Faith & Trust]]"

@@ -3,7 +3,7 @@ message_id: 2018-07-31-af-confucius
 aliases: ["A Special Blessing Given"]
 date: 2018-07-31
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"

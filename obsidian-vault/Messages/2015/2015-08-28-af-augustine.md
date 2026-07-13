@@ -3,7 +3,7 @@ message_id: 2015-08-28-af-augustine
 aliases: ["Work Together in Love"]
 date: 2015-08-28
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"

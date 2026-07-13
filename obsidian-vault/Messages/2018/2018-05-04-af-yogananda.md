@@ -3,7 +3,7 @@ message_id: 2018-05-04-af-yogananda
 aliases: ["A Great Journey Awaits"]
 date: 2018-05-04
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Punaluu, HI, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

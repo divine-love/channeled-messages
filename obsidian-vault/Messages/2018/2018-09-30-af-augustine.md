@@ -3,7 +3,7 @@ message_id: 2018-09-30-af-augustine
 aliases: ["Time to Speak the Truth"]
 date: 2018-09-30
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
@@ -32,7 +32,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 mentions:
   - "[[Spirits/jesus]]"
 canonical_url: "https://divinelovesanctuary.com/time-to-speak-the-truth/"

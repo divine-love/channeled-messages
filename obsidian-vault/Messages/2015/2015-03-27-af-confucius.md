@@ -3,7 +3,7 @@ message_id: 2015-03-27-af-confucius
 aliases: ["You Are All Members of a Family"]
 date: 2015-03-27
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Blessing"
 primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"

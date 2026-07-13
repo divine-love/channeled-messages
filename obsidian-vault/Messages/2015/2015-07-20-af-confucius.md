@@ -3,7 +3,7 @@ message_id: 2015-07-20-af-confucius
 aliases: ["How Your Soul Is Changed by the Love"]
 date: 2015-07-20
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"

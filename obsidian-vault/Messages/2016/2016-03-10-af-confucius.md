@@ -3,7 +3,7 @@ message_id: 2016-03-10-af-confucius
 aliases: ["Struggle of Mind"]
 date: 2016-03-10
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, Washington, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

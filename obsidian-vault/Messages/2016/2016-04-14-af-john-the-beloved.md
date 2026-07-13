@@ -3,7 +3,7 @@ message_id: 2016-04-14-af-john-the-beloved
 aliases: ["Each Day Has the Potential to Bring Light Given the Right Intentions"]
 date: 2016-04-14
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Abbotsford, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

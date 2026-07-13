@@ -3,7 +3,7 @@ message_id: 2018-09-08-af-augustine
 aliases: ["The Hierarchy of Heaven"]
 date: 2018-09-08
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"

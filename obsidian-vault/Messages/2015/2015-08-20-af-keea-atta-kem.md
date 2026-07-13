@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-keea-atta-kem
 aliases: ["Keea Instructs a Group to Go to Their Souls and Live from That Place Rather Than the Material Mind"]
 date: 2015-08-20
 spirit: "[[Spirits/keea-atta-kem|Keea atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"

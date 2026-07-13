@@ -3,7 +3,7 @@ message_id: 2017-09-12-af-confucius
 aliases: ["The Time Approaches"]
 date: 2017-09-12
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
@@ -29,7 +29,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 canonical_url: "https://divinelovesanctuary.com/the-time-approaches/"
 ---
 

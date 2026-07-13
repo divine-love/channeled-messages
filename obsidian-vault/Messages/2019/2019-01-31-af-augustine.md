@@ -3,7 +3,7 @@ message_id: 2019-01-31-af-augustine
 aliases: ["How Can a Person Receive Divine Love Without Knowing About It?"]
 date: 2019-01-31
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
@@ -29,7 +29,7 @@ keywords:
 collections:
   - "[[Collections/two-paths|Two Paths]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/divine-love-without-knowing]]"
   - "[[Chains/mind-vs-soul]]"

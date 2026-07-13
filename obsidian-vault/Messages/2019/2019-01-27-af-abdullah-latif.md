@@ -3,7 +3,7 @@ message_id: 2019-01-27-af-abdullah-latif
 aliases: ["Mankind Has the Power to Create Its Own Reality"]
 date: 2019-01-27
 spirit: "[[Spirits/abdullah-latif|Abdullah Latif]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"

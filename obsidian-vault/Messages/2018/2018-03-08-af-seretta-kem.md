@@ -3,7 +3,7 @@ message_id: 2018-03-08-af-seretta-kem
 aliases: ["Knowing the Potentials of God's Love Is an Infinite Journey"]
 date: 2018-03-08
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Punaluu, HI, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

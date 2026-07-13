@@ -3,7 +3,7 @@ message_id: 2015-11-28-af-confucius
 aliases: ["Prayer to Bring Freedom and Joy"]
 date: 2015-11-28
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"

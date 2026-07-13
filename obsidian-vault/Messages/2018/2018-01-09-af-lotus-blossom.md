@@ -3,7 +3,7 @@ message_id: 2018-01-09-af-lotus-blossom
 aliases: ["Many Gifts for the Circle of Seven"]
 date: 2018-01-09
 spirit: "[[Spirits/lotus-blossom|Lotus Blossom]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Abbotsford, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
@@ -28,7 +28,7 @@ keywords:
   - "trust"
   - "peace"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 canonical_url: "https://divinelovesanctuary.com/many-gifts-for-the-circle-of-seven-2/"
 ---
 

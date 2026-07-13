@@ -3,7 +3,7 @@ message_id: 2015-06-14-af-augustine
 aliases: ["Embrace Those That Are Coming and Embrace the Flow of God's Love"]
 date: 2015-06-14
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"

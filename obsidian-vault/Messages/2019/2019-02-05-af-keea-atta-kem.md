@@ -3,7 +3,7 @@ message_id: 2019-02-05-af-keea-atta-kem
 aliases: ["Feeling the Love"]
 date: 2019-02-05
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
@@ -28,7 +28,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/divine-love-without-knowing]]"
   - "[[Chains/mind-vs-soul]]"

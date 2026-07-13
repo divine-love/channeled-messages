@@ -3,7 +3,7 @@ message_id: 2018-09-14-af-seretta-kem
 aliases: ["Awaken Others to the Purpose of Life"]
 date: 2018-09-14
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Phoenix, AZ, USA"
 message_type: "Guidance"
 primary_subject: "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"

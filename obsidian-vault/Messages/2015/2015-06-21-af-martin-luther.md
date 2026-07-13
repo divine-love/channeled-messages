@@ -3,7 +3,7 @@ message_id: 2015-06-21-af-martin-luther
 aliases: ["God's Will Is above Man's Will"]
 date: 2015-06-21
 spirit: "[[Spirits/martin-luther|Martin Luther]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"

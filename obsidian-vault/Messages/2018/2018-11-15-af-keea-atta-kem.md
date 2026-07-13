@@ -3,7 +3,7 @@ message_id: 2018-11-15-af-keea-atta-kem
 aliases: ["Blessings Come When You Pray Together"]
 date: 2018-11-15
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Blessing"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

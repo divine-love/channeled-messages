@@ -3,7 +3,7 @@ message_id: 2016-08-17-af-james-padgett
 aliases: ["The Minds of Men Hunger for the Reality that Words Create but the Soul Hungers for Love"]
 date: 2016-08-17
 spirit: "[[Spirits/james-padgett|James Padgett]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/discipleship|Discipleship]]"
@@ -33,8 +33,8 @@ collections:
   - "[[Collections/service-and-mission|Service & Mission]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 mentions:
   - "[[Spirits/jesus]]"
 canonical_url: "https://divinelovesanctuary.com/minds-men-hunger-reality-words-create-soul-hungers-love/"

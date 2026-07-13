@@ -3,7 +3,7 @@ message_id: 2016-02-15-af-augustine
 aliases: ["Forge That Path to Your Souls and Thereby to God"]
 date: 2016-02-15
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/two-paths|Two Paths]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/mind-vs-soul]]"
   - "[[Chains/two-paths]]"

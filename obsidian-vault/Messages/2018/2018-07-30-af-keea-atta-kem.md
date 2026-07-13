@@ -3,7 +3,7 @@ message_id: 2018-07-30-af-keea-atta-kem
 aliases: ["Prayer"]
 date: 2018-07-30
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
@@ -30,7 +30,7 @@ keywords:
   - "teaching prayer"
   - "example"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/prayer-soul-longing]]"
 canonical_url: "https://divinelovesanctuary.com/prayer/"

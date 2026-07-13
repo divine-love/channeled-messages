@@ -3,7 +3,7 @@ message_id: 2015-11-09-af-faith-nyquist
 aliases: ["Persist in Your Faith in Bringing about Centers of Light in the World"]
 date: 2015-11-09
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
@@ -24,7 +24,7 @@ keywords:
   - "spirit assistance"
   - "channels of love"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 ---
 
 # Persist in Your Faith in Bringing about Centers of Light in the World

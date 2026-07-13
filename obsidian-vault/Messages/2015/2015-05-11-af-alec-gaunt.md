@@ -3,7 +3,7 @@ message_id: 2015-05-11-af-alec-gaunt
 aliases: ["This Network of Light Is Part of God's Plan"]
 date: 2015-05-11
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"

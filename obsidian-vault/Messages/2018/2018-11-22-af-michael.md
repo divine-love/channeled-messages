@@ -3,7 +3,7 @@ message_id: 2018-11-22-af-michael
 aliases: ["Speak of Simple Truth"]
 date: 2018-11-22
 spirit: "[[Spirits/michael|Michael]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

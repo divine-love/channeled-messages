@@ -3,7 +3,7 @@ message_id: 2019-04-03-af-augustine
 aliases: ["Personal for Jeanne followed by an Encouraging Message for All"]
 date: 2019-04-03
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"

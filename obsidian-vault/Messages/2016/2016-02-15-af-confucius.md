@@ -3,7 +3,7 @@ message_id: 2016-02-15-af-confucius
 aliases: ["Open Wide Your Souls"]
 date: 2016-02-15
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

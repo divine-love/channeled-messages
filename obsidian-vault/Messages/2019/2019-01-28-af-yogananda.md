@@ -3,7 +3,7 @@ message_id: 2019-01-28-af-yogananda
 aliases: ["Divine Love Is Yours for the Asking"]
 date: 2019-01-28
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

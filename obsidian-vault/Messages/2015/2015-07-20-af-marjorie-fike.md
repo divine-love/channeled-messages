@@ -3,7 +3,7 @@ message_id: 2015-07-20-af-marjorie-fike
 aliases: ["A Grandmother's Love and Guidance from Spirit"]
 date: 2015-07-20
 spirit: "[[Spirits/marjorie-fike|Marjorie]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"

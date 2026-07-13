@@ -3,7 +3,7 @@ message_id: 2015-08-13-af-confucius
 aliases: ["Knowing God's Will Through Soul Awakening"]
 date: 2015-08-13
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

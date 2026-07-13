@@ -3,7 +3,7 @@ message_id: 2015-10-26-af-seretta-kem
 aliases: ["So Many in the Unseen World Benefit from Your Prayers Together"]
 date: 2015-10-26
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"

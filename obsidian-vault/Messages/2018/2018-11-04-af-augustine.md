@@ -3,7 +3,7 @@ message_id: 2018-11-04-af-augustine
 aliases: ["God Invites You to Awaken in His Love"]
 date: 2018-11-04
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Burnaby, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

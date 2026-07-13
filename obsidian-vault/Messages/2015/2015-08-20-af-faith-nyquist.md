@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-faith-nyquist
 aliases: ["Encouragement to Establish Centers of Light"]
 date: 2015-08-20
 spirit: "[[Spirits/faith-nyquist|Faith Nyquist]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"
@@ -25,7 +25,7 @@ keywords:
 collections:
   - "[[Collections/service-and-mission|Service & Mission]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 ---
 
 # Encouragement to Establish Centers of Light

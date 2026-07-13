@@ -3,7 +3,7 @@ message_id: 2016-01-23-af-augustine
 aliases: ["The Power of Prayer"]
 date: 2016-01-23
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Hawaii, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
@@ -29,7 +29,7 @@ keywords:
   - "outpouring"
   - "Path Divine"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/prayer-soul-longing]]"
 ---

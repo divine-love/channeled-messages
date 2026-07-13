@@ -3,7 +3,7 @@ message_id: 2019-01-29-af-mary-magdalene
 aliases: ["Mary Magdalene Is Not Jesus' Soulmate"]
 date: 2019-01-29
 spirit: "[[Spirits/mary-magdalene|Mary Magdalene]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-mates-and-sacred-union|Soul Mates & Sacred Union]]"
@@ -23,8 +23,8 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/who-jesus-was]]"
 mentions:

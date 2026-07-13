@@ -3,7 +3,7 @@ message_id: 2018-11-15-af-confucius
 aliases: ["Have Faith That Your Soul Awakens"]
 date: 2018-11-15
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

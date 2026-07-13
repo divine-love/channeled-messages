@@ -3,7 +3,7 @@ message_id: 2018-08-27-af-augustine
 aliases: ["Awakening Our Souls"]
 date: 2018-08-27
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2018 Gibsons Mediumship Retreat"
 message_type: "Teaching"
@@ -34,7 +34,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/awakening-our-souls/"
 ---
 

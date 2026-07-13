@@ -3,7 +3,7 @@ message_id: 2018-09-16-af-seretta-kem
 aliases: ["Be Discerning, Wise and True to God's Will"]
 date: 2018-09-16
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Phoenix, AZ, USA"
 message_type: "Guidance"
 primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"

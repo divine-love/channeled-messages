@@ -3,7 +3,7 @@ message_id: 2018-07-22-af-seretta-kem
 aliases: ["Release Mind Patterns"]
 date: 2018-07-22
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
@@ -34,7 +34,7 @@ keywords:
 collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/release-mind-patterns/"
 ---
 

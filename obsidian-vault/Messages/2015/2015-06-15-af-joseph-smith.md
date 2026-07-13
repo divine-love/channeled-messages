@@ -3,7 +3,7 @@ message_id: 2015-06-15-af-joseph-smith
 aliases: ["The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations"]
 date: 2015-06-15
 spirit: "[[Spirits/joseph-smith|Joseph Smith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
@@ -32,7 +32,7 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/religious-error]]"
 ---

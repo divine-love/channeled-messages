@@ -3,7 +3,7 @@ message_id: 2015-09-14-af-confucius
 aliases: ["Embrace All the Children of the World in Love"]
 date: 2015-09-14
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unity-in-diversity|Unity in Diversity]]"

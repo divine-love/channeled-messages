@@ -3,7 +3,7 @@ message_id: 2018-08-28-af-seretta-kem
 aliases: ["Elevate Your Gifts through Divine Love"]
 date: 2018-08-28
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2018 Gibsons Mediumship Retreat"
 message_type: "Teaching"
@@ -32,7 +32,7 @@ keywords:
   - "healer"
   - "chemist"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/elevate-your-gifts-through-divine-love/"
 ---
 

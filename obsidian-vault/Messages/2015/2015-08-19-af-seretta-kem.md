@@ -3,7 +3,7 @@ message_id: 2015-08-19-af-seretta-kem
 aliases: ["Some Comments on What the Angels Are Doing to Facilitate Our Soul Growth"]
 date: 2015-08-19
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"
@@ -25,7 +25,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 ---
 
 # Some Comments on What the Angels Are Doing to Facilitate Our Soul Growth

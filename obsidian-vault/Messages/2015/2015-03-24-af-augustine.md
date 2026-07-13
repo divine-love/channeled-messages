@@ -3,7 +3,7 @@ message_id: 2015-03-24-af-augustine
 aliases: ["There Is Fate and Yet There Is No Fate"]
 date: 2015-03-24
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
@@ -31,7 +31,7 @@ collections:
   - "[[Collections/letters-from-history|Letters from History]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/free-will-and-gods-plan]]"
 ---

@@ -3,7 +3,7 @@ message_id: 2015-08-13-af-augustine
 aliases: ["Preparation and Support for Al"]
 date: 2015-08-13
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"

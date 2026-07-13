@@ -3,7 +3,7 @@ message_id: 2019-01-26-af-augustine
 aliases: ["How Diverse Beliefs Can Be Unified"]
 date: 2019-01-26
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
@@ -28,7 +28,7 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/two-paths|Two Paths]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 mentions:
   - "[[Spirits/sri-yarisupta]]"
 canonical_url: "https://divinelovesanctuary.com/how-diverse-beliefs-can-be-unified/"

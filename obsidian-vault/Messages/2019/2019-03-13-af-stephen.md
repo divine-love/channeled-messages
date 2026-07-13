@@ -3,7 +3,7 @@ message_id: 2019-03-13-af-stephen
 aliases: ["There Is a Power to This Gift of Insight"]
 date: 2019-03-13
 spirit: "[[Spirits/stephen|Stephen]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Monroeville, Pennsylvania, United States"
 message_type: "Teaching"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
@@ -33,7 +33,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 chains:
   - "[[Chains/preparation-to-be-a-rock]]"
 canonical_url: "https://divinelovesanctuary.com/there-is-a-power-to-this-gift-of-insight/"

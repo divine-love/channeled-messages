@@ -3,7 +3,7 @@ message_id: 2016-07-04-af-francis-of-assisi
 aliases: ["Love Is the True Currency of Life"]
 date: 2016-07-04
 spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"

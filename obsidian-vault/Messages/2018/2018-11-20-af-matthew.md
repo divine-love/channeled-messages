@@ -3,7 +3,7 @@ message_id: 2018-11-20-af-matthew
 aliases: ["Rest and Pray to Replenish Yourself"]
 date: 2018-11-20
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"

@@ -3,7 +3,7 @@ message_id: 2016-02-29-af-confucius
 aliases: ["You Struggle but You Do Make Progress"]
 date: 2016-02-29
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"

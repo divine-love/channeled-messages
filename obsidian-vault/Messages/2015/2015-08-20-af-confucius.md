@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-confucius
 aliases: ["Circles of Light: Form Them Wherever You Go"]
 date: 2015-08-20
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"

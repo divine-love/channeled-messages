@@ -3,7 +3,7 @@ message_id: 2016-03-13-af-faith-nyquist
 aliases: ["Keep the Flame Burning"]
 date: 2016-03-13
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, Washington, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

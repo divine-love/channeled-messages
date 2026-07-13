@@ -3,7 +3,7 @@ message_id: 2019-02-10-af-augustine
 aliases: ["Choosing Light Over Darkness"]
 date: 2019-02-10
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Burnaby, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
@@ -29,7 +29,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/death-transition]]"
   - "[[Chains/earth-conditions-and-prayer]]"

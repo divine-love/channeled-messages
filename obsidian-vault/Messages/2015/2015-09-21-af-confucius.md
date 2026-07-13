@@ -3,7 +3,7 @@ message_id: 2015-09-21-af-confucius
 aliases: ["Continue to Seek the Truth and Express the Gifts of Your Soul"]
 date: 2015-09-21
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

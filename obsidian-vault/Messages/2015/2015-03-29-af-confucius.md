@@ -3,7 +3,7 @@ message_id: 2015-03-29-af-confucius
 aliases: ["Answering the Call to Gather in Love"]
 date: 2015-03-29
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

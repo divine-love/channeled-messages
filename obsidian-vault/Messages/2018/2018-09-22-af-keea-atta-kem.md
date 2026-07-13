@@ -3,7 +3,7 @@ message_id: 2018-09-22-af-keea-atta-kem
 aliases: ["Ask for the Angels' Help"]
 date: 2018-09-22
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"

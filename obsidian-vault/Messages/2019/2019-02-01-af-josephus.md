@@ -3,7 +3,7 @@ message_id: 2019-02-01-af-josephus
 aliases: ["Faculties of the Soul"]
 date: 2019-02-01
 spirit: "[[Spirits/josephus|Josephus]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
@@ -33,7 +33,7 @@ collections:
   - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/soul-faculties]]"
   - "[[Chains/mind-vs-soul]]"

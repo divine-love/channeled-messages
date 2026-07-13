@@ -3,7 +3,7 @@ message_id: 2017-09-13-af-keea-atta-kem
 aliases: ["Make Love Your Guiding Truth Through Earth Changes"]
 date: 2017-09-13
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
@@ -31,8 +31,8 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Prophecy"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 chains:
   - "[[Chains/preparation-to-be-a-rock]]"
   - "[[Chains/earth-changes]]"

@@ -3,7 +3,7 @@ message_id: 2015-11-28-af-faith-nyquist
 aliases: ["The Power of Prayer to Bring Change and Healing"]
 date: 2015-11-28
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"

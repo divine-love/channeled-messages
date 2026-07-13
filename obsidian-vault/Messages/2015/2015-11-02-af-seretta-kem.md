@@ -3,7 +3,7 @@ message_id: 2015-11-02-af-seretta-kem
 aliases: ["Seretta Kem Speaks to a Beginners Group"]
 date: 2015-11-02
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

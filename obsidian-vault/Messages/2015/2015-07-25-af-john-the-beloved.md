@@ -3,7 +3,7 @@ message_id: 2015-07-25-af-john-the-beloved
 aliases: ["The Winds of Change Blow Upon This World"]
 date: 2015-07-25
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
@@ -24,7 +24,7 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 ---
 
 # The Winds of Change Blow Upon This World

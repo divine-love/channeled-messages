@@ -3,7 +3,7 @@ message_id: 2018-11-18-af-michael
 aliases: ["How to Bring the Truth to New Souls"]
 date: 2018-11-18
 spirit: "[[Spirits/michael|Michael]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

@@ -3,7 +3,7 @@ message_id: 2016-12-02-af-white-cloud
 aliases: ["The World Needs Your Prayers"]
 date: 2016-12-02
 spirit: "[[Spirits/white-cloud|White Cloud]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Hawaii, HI, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"

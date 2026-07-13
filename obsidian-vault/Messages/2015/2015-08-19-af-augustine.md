@@ -3,7 +3,7 @@ message_id: 2015-08-19-af-augustine
 aliases: ["We Embark on a Journey to Change the World"]
 date: 2015-08-19
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"

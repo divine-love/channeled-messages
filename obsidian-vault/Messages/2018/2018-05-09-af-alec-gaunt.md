@@ -3,7 +3,7 @@ message_id: 2018-05-09-af-alec-gaunt
 aliases: ["Walk in Harmony With God's Will"]
 date: 2018-05-09
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
@@ -32,8 +32,8 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 canonical_url: "https://divinelovesanctuary.com/walk-in-harmony-with-gods-will/"
 ---
 

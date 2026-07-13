@@ -3,7 +3,7 @@ message_id: 2015-09-30-af-augustine
 aliases: ["Continue to Open Your Arms and Build Circles of Light"]
 date: 2015-09-30
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"

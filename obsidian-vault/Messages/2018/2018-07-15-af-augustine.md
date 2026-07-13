@@ -3,7 +3,7 @@ message_id: 2018-07-15-af-augustine
 aliases: ["Your Efforts Are Blessed Ten Times Over"]
 date: 2018-07-15
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"

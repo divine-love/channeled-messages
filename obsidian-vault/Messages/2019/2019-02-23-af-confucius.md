@@ -3,7 +3,7 @@ message_id: 2019-02-23-af-confucius
 aliases: ["May You Come to Know God's Blessings"]
 date: 2019-02-23
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: ""
 gathering: "Western Caribbean Cruise"
 message_type: "Blessing"

@@ -3,7 +3,7 @@ message_id: 2018-11-29-af-augustine
 aliases: ["Challenging Earth Changes Bring Greater Light and Harmony to Humanity"]
 date: 2018-11-29
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Teaching"
 primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
@@ -27,7 +27,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 canonical_url: "https://divinelovesanctuary.com/challenging-earth-changes-bring-greater-light-and-harmony-to-humanity/"
 ---
 

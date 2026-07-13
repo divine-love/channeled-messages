@@ -3,7 +3,7 @@ message_id: 2014-10-11-af-confucius
 aliases: ["You Will Never Feel the Pain of Being Alone When You Possess God's Love"]
 date: 2014-10-11
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

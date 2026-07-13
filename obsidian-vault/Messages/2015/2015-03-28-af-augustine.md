@@ -3,7 +3,7 @@ message_id: 2015-03-28-af-augustine
 aliases: ["The Journey of Divine Love Takes Time but Brings Great Benefits"]
 date: 2015-03-28
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, NY, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
@@ -30,8 +30,8 @@ collections:
   - "[[Collections/letters-from-history|Letters from History]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/religious-error]]"
 ---

@@ -3,7 +3,7 @@ message_id: 2015-12-07-af-john-the-beloved
 aliases: ["Drink Deep from the Living Waters"]
 date: 2015-12-07
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

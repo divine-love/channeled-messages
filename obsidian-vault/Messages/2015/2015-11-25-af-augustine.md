@@ -3,7 +3,7 @@ message_id: 2015-11-25-af-augustine
 aliases: ["Guidance and Reassurance Regarding Creating Centres of Light"]
 date: 2015-11-25
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"

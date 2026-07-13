@@ -3,7 +3,7 @@ message_id: 2019-01-25-af-albert-einstein
 aliases: ["Many Scientists in Spirit Are Working to Forge Greater Communications between Worlds"]
 date: 2019-01-25
 spirit: "[[Spirits/albert-einstein|Albert Einstein]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"

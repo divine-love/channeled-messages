@@ -3,7 +3,7 @@ message_id: 2015-11-02-af-john-the-beloved
 aliases: ["Release the Yoke of Error and Lack of Self Love"]
 date: 2015-11-02
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"

@@ -3,7 +3,7 @@ message_id: 2015-08-22-af-confucius
 aliases: ["Confucius Urges Group Participants to Start Circles of Light Where They Live"]
 date: 2015-08-22
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

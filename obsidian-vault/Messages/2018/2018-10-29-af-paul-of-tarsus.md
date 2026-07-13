@@ -3,7 +3,7 @@ message_id: 2018-10-29-af-paul-of-tarsus
 aliases: ["The Value and Purpose of Your Soul"]
 date: 2018-10-29
 spirit: "[[Spirits/paul-of-tarsus|Paul of Tarsus]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
@@ -33,7 +33,7 @@ collections:
   - "[[Collections/letters-from-history|Letters from History]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/the-value-and-purpose-of-your-soul/"
 ---
 

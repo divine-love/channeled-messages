@@ -3,7 +3,7 @@ message_id: 2019-02-22-af-augustine
 aliases: ["The Power to Change Needs Your Conscious Understanding of the Power of Free Will"]
 date: 2019-02-22
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: ""
 gathering: "Western Caribbean Cruise"
 message_type: "Teaching"
@@ -34,7 +34,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/free-will-and-self-responsibility]]"
 canonical_url: "https://divinelovesanctuary.com/the-power-to-change-needs-your-concious-understanding-of-the-power-of-free-will/"

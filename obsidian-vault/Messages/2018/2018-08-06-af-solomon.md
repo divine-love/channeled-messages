@@ -3,7 +3,7 @@ message_id: 2018-08-06-af-solomon
 aliases: ["Trust in the Wisdom of the Soul"]
 date: 2018-08-06
 spirit: "[[Spirits/solomon|Solomon]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

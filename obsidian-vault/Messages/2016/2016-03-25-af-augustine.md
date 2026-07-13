@@ -3,7 +3,7 @@ message_id: 2016-03-25-af-augustine
 aliases: ["Importance of Prayer"]
 date: 2016-03-25
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"

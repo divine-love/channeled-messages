@@ -3,7 +3,7 @@ message_id: 2015-12-30-af-alec-gaunt
 aliases: ["Look Forward to New Opportunities in the Coming Year"]
 date: 2015-12-30
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"

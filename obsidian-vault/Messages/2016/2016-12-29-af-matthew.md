@@ -3,7 +3,7 @@ message_id: 2016-12-29-af-matthew
 aliases: ["Time to Accept a New Way of Being"]
 date: 2016-12-29
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 canonical_url: "https://divinelovesanctuary.com/time-accept-new-way/"
 ---
 

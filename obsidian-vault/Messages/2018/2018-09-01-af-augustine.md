@@ -3,7 +3,7 @@ message_id: 2018-09-01-af-augustine
 aliases: ["The Awakening of Your Souls Brings the Message of Truth to Humanity"]
 date: 2018-09-01
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2018 Gibsons Mediumship Retreat"
 message_type: "Guidance"
@@ -33,7 +33,7 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/bell-toll-instrumentality]]"
 canonical_url: "https://divinelovesanctuary.com/the-awakening-of-your-souls-brings-the-message-of-truth-to-humanity/"

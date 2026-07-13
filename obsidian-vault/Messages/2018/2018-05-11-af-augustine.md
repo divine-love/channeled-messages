@@ -3,7 +3,7 @@ message_id: 2018-05-11-af-augustine
 aliases: ["This Is a Place of Refuge"]
 date: 2018-05-11
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"

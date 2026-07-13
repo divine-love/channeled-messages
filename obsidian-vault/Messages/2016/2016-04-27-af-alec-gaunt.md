@@ -3,7 +3,7 @@ message_id: 2016-04-27-af-alec-gaunt
 aliases: ["The Law of Change"]
 date: 2016-04-27
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/faith-and-trust|Faith & Trust]]"

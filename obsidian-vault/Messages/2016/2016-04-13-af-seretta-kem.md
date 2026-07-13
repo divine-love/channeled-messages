@@ -3,7 +3,7 @@ message_id: 2016-04-13-af-seretta-kem
 aliases: ["The Greatest Healing Energy of All Is God's Divine Love"]
 date: 2016-04-13
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Abbotsford, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"
@@ -30,7 +30,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 mentions:
   - "[[Spirits/jesus]]"
 canonical_url: "https://divinelovesanctuary.com/the-greatest-healing-energy-of-all-is-gods-divine-love/"

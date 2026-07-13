@@ -3,7 +3,7 @@ message_id: 2019-01-19-af-augustine
 aliases: ["Guidance about Our Purpose and Needs"]
 date: 2019-01-19
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"

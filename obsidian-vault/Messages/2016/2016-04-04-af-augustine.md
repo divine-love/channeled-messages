@@ -3,7 +3,7 @@ message_id: 2016-04-04-af-augustine
 aliases: ["God Provides for Those Who Serve*"]
 date: 2016-04-04
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/god-s-protection-and-care|God's Protection & Care]]"

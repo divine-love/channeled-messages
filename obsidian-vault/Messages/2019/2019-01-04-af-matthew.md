@@ -3,7 +3,7 @@ message_id: 2019-01-04-af-matthew
 aliases: ["Be an Instrument of God's Love as He Provides Opportunities to Step Forth in Light"]
 date: 2019-01-04
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

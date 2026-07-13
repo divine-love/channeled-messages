@@ -3,7 +3,7 @@ message_id: 2018-05-20-af-keea-atta-kem
 aliases: ["Make Arrangements to Come Together"]
 date: 2018-05-20
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"

@@ -3,7 +3,7 @@ message_id: 2015-08-16-af-augustine-3
 aliases: ["Bringing Forward the Gift of Yourselves in Service to God Will Bring Many Rewards"]
 date: 2015-08-16
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

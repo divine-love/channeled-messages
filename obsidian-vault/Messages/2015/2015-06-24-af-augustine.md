@@ -3,7 +3,7 @@ message_id: 2015-06-24-af-augustine
 aliases: ["Seeking the Divine Love Will Bring Many Rewards"]
 date: 2015-06-24
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

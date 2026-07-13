@@ -3,7 +3,7 @@ message_id: 2018-08-30-af-keea-atta-kem
 aliases: ["Circles of Light"]
 date: 2018-08-30
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2018 Gibsons Mediumship Retreat"
 message_type: "Teaching"
@@ -31,7 +31,7 @@ keywords:
   - "collective prayer"
   - "God's will"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/circles-of-light/"
 ---
 

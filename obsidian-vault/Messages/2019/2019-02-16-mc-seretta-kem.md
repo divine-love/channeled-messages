@@ -3,7 +3,7 @@ message_id: 2019-02-16-mc-seretta-kem
 aliases: ["Process of Expiation"]
 date: 2019-02-16
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Maureen Cardoso"
+medium: "[[Mediums/maureen-cardoso|Maureen Cardoso]]"
 location: "Abbotsford, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/soul-expiation]]"
 canonical_url: "https://divinelovesanctuary.com/process-of-expiation/"

@@ -3,7 +3,7 @@ message_id: 2015-06-29-af-confucius
 aliases: ["You Must Prepare Yourselves for What Is Coming"]
 date: 2015-06-29
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

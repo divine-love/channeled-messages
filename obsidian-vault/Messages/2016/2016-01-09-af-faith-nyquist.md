@@ -3,7 +3,7 @@ message_id: 2016-01-09-af-faith-nyquist
 aliases: ["The Simple Journey Awaits"]
 date: 2016-01-09
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"

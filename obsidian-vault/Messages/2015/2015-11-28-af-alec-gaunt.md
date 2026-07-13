@@ -3,7 +3,7 @@ message_id: 2015-11-28-af-alec-gaunt
 aliases: ["Walk in the World as Loving Channels to One Another"]
 date: 2015-11-28
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

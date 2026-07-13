@@ -3,7 +3,7 @@ message_id: 2014-12-01-af-john-the-beloved
 aliases: ["Express Your Yearnings to God"]
 date: 2014-12-01
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"

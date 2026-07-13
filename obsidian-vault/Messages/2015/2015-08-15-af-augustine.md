@@ -3,7 +3,7 @@ message_id: 2015-08-15-af-augustine
 aliases: ["Speaking to a Divine Love Retreat Group: Be Open to New Possibilities"]
 date: 2015-08-15
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

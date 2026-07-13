@@ -3,7 +3,7 @@ message_id: 2018-05-21-af-matthew
 aliases: ["Awaken to the Greater Love"]
 date: 2018-05-21
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Blessing"
 primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"

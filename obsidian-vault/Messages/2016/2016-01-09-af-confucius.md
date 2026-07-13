@@ -3,7 +3,7 @@ message_id: 2016-01-09-af-confucius
 aliases: ["Your Beautiful Souls Are Eager"]
 date: 2016-01-09
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"

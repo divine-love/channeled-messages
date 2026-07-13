@@ -3,7 +3,7 @@ message_id: 2018-08-29-af-seretta-kem
 aliases: ["What Brings Divine Love Mediumship"]
 date: 2018-08-29
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2018 Gibsons Mediumship Retreat"
 message_type: "Teaching"
@@ -30,7 +30,7 @@ keywords:
   - "conduit"
   - "gifts"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/divine-love-mediumship]]"
 canonical_url: "https://divinelovesanctuary.com/what-brings-divine-love-mediumship/"

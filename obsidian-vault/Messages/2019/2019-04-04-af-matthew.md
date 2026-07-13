@@ -3,7 +3,7 @@ message_id: 2019-04-04-af-matthew
 aliases: ["Awaken!"]
 date: 2019-04-04
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

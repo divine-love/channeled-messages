@@ -3,7 +3,7 @@ message_id: 2015-08-24-af-augustine
 aliases: ["Discernment and Soul Alignment after the Retreat"]
 date: 2015-08-24
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"

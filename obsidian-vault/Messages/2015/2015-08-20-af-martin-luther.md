@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-martin-luther
 aliases: ["Give to Others but Do Not Do so with an Empty Basket"]
 date: 2015-08-20
 spirit: "[[Spirits/martin-luther|Martin Luther]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

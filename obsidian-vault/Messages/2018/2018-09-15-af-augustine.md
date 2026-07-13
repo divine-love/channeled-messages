@@ -3,7 +3,7 @@ message_id: 2018-09-15-af-augustine
 aliases: ["Augustine Comments on the Perspective of Many Who Attended the AREI Conference"]
 date: 2018-09-15
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Phoenix, AZ, USA"
 message_type: "Teaching"
 primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"

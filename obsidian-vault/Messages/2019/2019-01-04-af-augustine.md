@@ -3,7 +3,7 @@ message_id: 2019-01-04-af-augustine
 aliases: ["Nurturing This Centre of Light Will Open Many Doors in the Future"]
 date: 2019-01-04
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"

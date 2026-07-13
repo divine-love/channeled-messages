@@ -3,7 +3,7 @@ message_id: 2015-07-06-af-augustine
 aliases: ["Guidance Concerning the Upcoming Retreat: Embrace All Who Are Coming"]
 date: 2015-07-06
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"

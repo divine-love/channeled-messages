@@ -3,7 +3,7 @@ message_id: 2018-11-25-af-michael
 aliases: ["An Invitation to a Beginners Group in Fitzroy Falls"]
 date: 2018-11-25
 spirit: "[[Spirits/michael|Michael]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Fitzroy Falls, NSW, Australia"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

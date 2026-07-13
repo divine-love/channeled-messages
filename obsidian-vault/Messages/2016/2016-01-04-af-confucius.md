@@ -3,7 +3,7 @@ message_id: 2016-01-04-af-confucius
 aliases: ["Accepting the New Awarenesses of an Opening Soul"]
 date: 2016-01-04
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/mind-and-soul|Mind & Soul]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 canonical_url: "https://divinelovesanctuary.com/accepting-the-new-awarenesses-of-an-opening-soul/"
 ---
 

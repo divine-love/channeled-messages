@@ -3,7 +3,7 @@ message_id: 2018-12-04-af-yogananda
 aliases: ["Each Day Brings Opportunities to Serve in Love"]
 date: 2018-12-04
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Bayview, NSW, Australia"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"

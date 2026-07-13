@@ -3,7 +3,7 @@ message_id: 2018-01-01-af-augustine
 aliases: ["Teach Each Soul to Go to God in Prayer"]
 date: 2018-01-01
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/discipleship|Discipleship]]"

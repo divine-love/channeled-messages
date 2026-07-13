@@ -3,7 +3,7 @@ message_id: 2018-06-26-af-matthew
 aliases: ["Release Judgment, Embrace Love"]
 date: 2018-06-26
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
@@ -33,7 +33,7 @@ collections:
   - "[[Collections/healing-path|Healing Path]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/judgment-to-love]]"
 canonical_url: "https://divinelovesanctuary.com/release-judgment-embrace-love/"

@@ -3,7 +3,7 @@ message_id: 2019-02-15-af-matthew
 aliases: ["The Experience of Pentecost"]
 date: 2019-02-15
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
@@ -28,8 +28,8 @@ keywords:
 collections:
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Core Teaching"
-  - "Spirit Biography"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/pentecost]]"
   - "[[Chains/soul-expiation]]"

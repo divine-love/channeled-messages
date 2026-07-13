@@ -3,7 +3,7 @@ message_id: 2015-08-17-af-confucius
 aliases: ["Sow Seeds of Love Upon Your Journey"]
 date: 2015-08-17
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"

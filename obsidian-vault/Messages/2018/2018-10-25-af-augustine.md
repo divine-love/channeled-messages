@@ -3,7 +3,7 @@ message_id: 2018-10-25-af-augustine
 aliases: ["Listen to Your Soul, Not the Illusions of Your Mind"]
 date: 2018-10-25
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

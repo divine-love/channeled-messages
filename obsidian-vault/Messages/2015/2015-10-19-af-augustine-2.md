@@ -3,7 +3,7 @@ message_id: 2015-10-19-af-augustine-2
 aliases: ["These Are the Days to Learn How to Love"]
 date: 2015-10-19
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"

@@ -3,7 +3,7 @@ message_id: 2018-12-30-af-seretta-kem
 aliases: ["Meet the Coming Changes in the World with Prayer"]
 date: 2018-12-30
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
@@ -26,7 +26,7 @@ keywords:
 collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
 essential_teachings:
-  - "Prophecy"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
 canonical_url: "https://divinelovesanctuary.com/meet-the-coming-changes-in-the-world-with-prayer/"
 ---
 

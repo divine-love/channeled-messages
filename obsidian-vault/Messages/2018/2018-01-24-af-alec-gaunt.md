@@ -3,7 +3,7 @@ message_id: 2018-01-24-af-alec-gaunt
 aliases: ["New Thresholds, New Life"]
 date: 2018-01-24
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"

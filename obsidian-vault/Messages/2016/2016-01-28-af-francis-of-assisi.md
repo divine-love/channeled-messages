@@ -3,7 +3,7 @@ message_id: 2016-01-28-af-francis-of-assisi
 aliases: ["How I Became a Channel of Love in the World"]
 date: 2016-01-28
 spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Hawaii, United States of America"
 message_type: "Teaching"
 primary_subject: "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/letters-from-history|Letters from History]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/bell-toll-instrumentality]]"
 mentions:

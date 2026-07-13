@@ -3,7 +3,7 @@ message_id: 2018-11-14-af-seretta-kem
 aliases: ["Open Your Minds and Souls to God's Guidance"]
 date: 2018-11-14
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Guidance"
 primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"

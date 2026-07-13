@@ -3,7 +3,7 @@ message_id: 2015-12-14-af-faith-nyquist
 aliases: ["The Emerging Growth of Your Souls"]
 date: 2015-12-14
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

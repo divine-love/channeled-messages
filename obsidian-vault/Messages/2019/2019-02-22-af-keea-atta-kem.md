@@ -3,7 +3,7 @@ message_id: 2019-02-22-af-keea-atta-kem
 aliases: ["Life Challenges Strengthen the Soul, Creating More Powerful Channels of Love"]
 date: 2019-02-22
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: ""
 gathering: "Western Caribbean Cruise"
 message_type: "Guidance"

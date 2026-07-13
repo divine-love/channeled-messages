@@ -3,7 +3,7 @@ message_id: 2018-01-21-af-professor-salyards
 aliases: ["Who Will Bring the Truth to This World?"]
 date: 2018-01-21
 spirit: "[[Spirits/professor-salyards|Professor Salyards]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/manifestations-and-direct-voice|Manifestations & Direct Voice]]"
@@ -26,8 +26,8 @@ keywords:
   - "development"
   - "hopeful expectation"
 essential_teachings:
-  - "Prophecy"
-  - "Historical"
+  - "[[Essential Teachings/prophecy|Prophecy]]"
+  - "[[Essential Teachings/historical|Historical]]"
 canonical_url: "https://divinelovesanctuary.com/who-will-bring-the-truth-to-this-world/"
 ---
 

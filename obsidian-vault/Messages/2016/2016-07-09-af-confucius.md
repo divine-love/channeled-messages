@@ -3,7 +3,7 @@ message_id: 2016-07-09-af-confucius
 aliases: ["The Awakened Soul"]
 date: 2016-07-09
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

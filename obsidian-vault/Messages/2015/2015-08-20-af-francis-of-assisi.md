@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-francis-of-assisi
 aliases: ["Release Your Old Ways and Allow God's Love to Bring New Understanding and Love"]
 date: 2015-08-20
 spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"
@@ -29,7 +29,7 @@ collections:
   - "[[Collections/awakening-humanity|Awakening Humanity]]"
   - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 ---
 
 # Release Your Old Ways and Allow God's Love to Bring New Understanding and Love

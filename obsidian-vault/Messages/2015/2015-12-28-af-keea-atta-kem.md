@@ -3,7 +3,7 @@ message_id: 2015-12-28-af-keea-atta-kem
 aliases: ["The Time Comes for You to Express These Gifts"]
 date: 2015-12-28
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"

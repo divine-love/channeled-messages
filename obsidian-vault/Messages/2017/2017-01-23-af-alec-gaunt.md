@@ -3,7 +3,7 @@ message_id: 2017-01-23-af-alec-gaunt
 aliases: ["Changes Within Your Soul Will Bring Many Rewards"]
 date: 2017-01-23
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"

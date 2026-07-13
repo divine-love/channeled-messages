@@ -3,7 +3,7 @@ message_id: 2018-07-14-af-seretta-kem
 aliases: ["Soul Expiation Through Pursuit of Truth, Release of Error"]
 date: 2018-07-14
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
@@ -30,7 +30,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/soul-expiation]]"
 canonical_url: "https://divinelovesanctuary.com/soul-expiation-through-pursuit-of-truth-release-of-error/"

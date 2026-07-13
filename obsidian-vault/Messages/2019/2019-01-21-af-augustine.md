@@ -3,7 +3,7 @@ message_id: 2019-01-21-af-augustine
 aliases: ["Divine Love Path and Natural Love Path"]
 date: 2019-01-21
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
@@ -27,7 +27,7 @@ keywords:
 collections:
   - "[[Collections/two-paths|Two Paths]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/two-paths]]"
 canonical_url: "https://divinelovesanctuary.com/divine-love-path-natural-love-path/"

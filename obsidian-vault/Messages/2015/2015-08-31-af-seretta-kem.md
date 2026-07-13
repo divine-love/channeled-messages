@@ -3,7 +3,7 @@ message_id: 2015-08-31-af-seretta-kem
 aliases: ["The World Is Changing and Needs Many Souls in Service to God's Will"]
 date: 2015-08-31
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"

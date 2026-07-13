@@ -3,7 +3,7 @@ message_id: 2017-10-25-af-yogananda
 aliases: ["Choice and Accepting the Will of God"]
 date: 2017-10-25
 spirit: "[[Spirits/yogananda|Yogananda]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
@@ -32,7 +32,7 @@ collections:
   - "[[Collections/service-and-mission|Service & Mission]]"
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 canonical_url: "https://divinelovesanctuary.com/choice-and-accepting-the-will-of-god/"
 ---
 

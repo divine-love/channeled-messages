@@ -3,7 +3,7 @@ message_id: 2015-08-17-af-john-the-beloved
 aliases: ["Drink Deep These Living Waters"]
 date: 2015-08-17
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Blessing"

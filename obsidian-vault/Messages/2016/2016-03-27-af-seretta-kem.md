@@ -3,7 +3,7 @@ message_id: 2016-03-27-af-seretta-kem
 aliases: ["Mediumship, Communication and Rapport"]
 date: 2016-03-27
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
@@ -31,7 +31,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 chains:
   - "[[Chains/divine-love-mediumship]]"
   - "[[Chains/mind-vs-soul]]"

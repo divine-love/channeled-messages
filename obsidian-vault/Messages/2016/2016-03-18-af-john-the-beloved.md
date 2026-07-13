@@ -3,7 +3,7 @@ message_id: 2016-03-18-af-john-the-beloved
 aliases: ["Talk on Service to God"]
 date: 2016-03-18
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, WA, USA"
 message_type: "Guidance"
 primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"

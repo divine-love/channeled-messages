@@ -3,7 +3,7 @@ message_id: 2015-09-14-af-keea-atta-kem
 aliases: ["A Grateful Soul Is an Open Soul"]
 date: 2015-09-14
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/joyful-living|Joyful Living]]"

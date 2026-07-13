@@ -3,7 +3,7 @@ message_id: 2019-02-12-af-osho-bhagwan
 aliases: ["God's Love Is the True Way to Liberation"]
 date: 2019-02-12
 spirit: "[[Spirits/osho-bhagwan|Osho Bhagwan]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
@@ -29,7 +29,7 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Spirit Biography"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 chains:
   - "[[Chains/two-paths]]"
 canonical_url: "https://divinelovesanctuary.com/gods-love-is-the-true-way-to-liberation/"

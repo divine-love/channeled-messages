@@ -3,7 +3,7 @@ message_id: 2018-10-04-af-matthew
 aliases: ["Go Naked to God in Joy"]
 date: 2018-10-04
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"

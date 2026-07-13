@@ -3,7 +3,7 @@ message_id: 2018-10-25-af-martin-luther
 aliases: ["Compassion as an Expression of Love for Self and Others"]
 date: 2018-10-25
 spirit: "[[Spirits/martin-luther|Martin Luther]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/compassion-and-empathy|Compassion & Empathy]]"

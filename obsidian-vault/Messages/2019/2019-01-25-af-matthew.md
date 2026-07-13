@@ -3,7 +3,7 @@ message_id: 2019-01-25-af-matthew
 aliases: ["What Is the Desire of Your Soul in Terms of Truth?"]
 date: 2019-01-25
 spirit: "[[Spirits/matthew|Matthew]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"

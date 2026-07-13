@@ -3,7 +3,7 @@ message_id: 2017-11-03-af-nikola-tesla
 aliases: ["Tesla Talks About the Power of Love"]
 date: 2017-11-03
 spirit: "[[Spirits/nikola-tesla|Nikola Tesla]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"
@@ -29,8 +29,8 @@ keywords:
 collections:
   - "[[Collections/letters-from-history|Letters from History]]"
 essential_teachings:
-  - "Spirit Biography"
-  - "Historical"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
+  - "[[Essential Teachings/historical|Historical]]"
 canonical_url: "https://divinelovesanctuary.com/tesla-talks-about-the-power-of-love/"
 ---
 

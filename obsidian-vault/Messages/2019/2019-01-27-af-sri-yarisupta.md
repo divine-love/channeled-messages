@@ -3,7 +3,7 @@ message_id: 2019-01-27-af-sri-yarisupta
 aliases: ["What's in a Name?"]
 date: 2019-01-27
 spirit: "[[Spirits/sri-yarisupta|Sri Yarisupta]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"

@@ -3,7 +3,7 @@ message_id: 2015-10-19-af-augustine
 aliases: ["Choose Well Your Next Steps"]
 date: 2015-10-19
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "DLSF Board Meeting"
 message_type: "Guidance"

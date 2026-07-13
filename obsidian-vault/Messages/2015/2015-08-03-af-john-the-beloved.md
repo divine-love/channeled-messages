@@ -3,7 +3,7 @@ message_id: 2015-08-03-af-john-the-beloved
 aliases: ["Follow the Sweet Yearnings of the Soul So That You May Know Truth"]
 date: 2015-08-03
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

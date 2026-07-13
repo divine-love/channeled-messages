@@ -3,7 +3,7 @@ message_id: 2018-11-14-af-lotus-blossom
 aliases: ["Lotus Blossom Message from Oz"]
 date: 2018-11-14
 spirit: "[[Spirits/lotus-blossom|Lotus Blossom]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Sydney, NSW, Australia"
 message_type: "Blessing"
 primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"

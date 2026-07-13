@@ -3,7 +3,7 @@ message_id: 2015-10-12-af-john-the-beloved
 aliases: ["Continue to Love"]
 date: 2015-10-12
 spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "West Vancouver, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"

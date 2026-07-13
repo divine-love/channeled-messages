@@ -3,7 +3,7 @@ message_id: 2018-12-17-af-augustine
 aliases: ["God Awaits Your Choice"]
 date: 2018-12-17
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/law-of-free-will|Law of Free Will]]"

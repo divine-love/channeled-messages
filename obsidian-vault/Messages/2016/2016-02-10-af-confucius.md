@@ -3,7 +3,7 @@ message_id: 2016-02-10-af-confucius
 aliases: ["Remember to Nourish Your Soul"]
 date: 2016-02-10
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Abbotsford, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/divine-love-healing|Divine Love Healing]]"
@@ -30,7 +30,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Divine Healing"
+  - "[[Essential Teachings/divine-healing|Divine Healing]]"
 chains:
   - "[[Chains/healing-channel]]"
 ---

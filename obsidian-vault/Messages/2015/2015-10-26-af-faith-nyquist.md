@@ -3,7 +3,7 @@ message_id: 2015-10-26-af-faith-nyquist
 aliases: ["Guidance about Our Choices in the Flow of God's Love"]
 date: 2015-10-26
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/releasing-judgment|Releasing Judgment]]"

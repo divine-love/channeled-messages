@@ -3,7 +3,7 @@ message_id: 2018-09-14-af-confucius
 aliases: ["We Will Be with You"]
 date: 2018-09-14
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Phoenix, AZ, USA"
 message_type: "Guidance"
 primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"

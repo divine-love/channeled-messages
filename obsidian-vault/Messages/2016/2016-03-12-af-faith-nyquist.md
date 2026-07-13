@@ -3,7 +3,7 @@ message_id: 2016-03-12-af-faith-nyquist
 aliases: ["A Door Has Opened for You"]
 date: 2016-03-12
 spirit: "[[Spirits/faith-nyquist|Faith]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Selah, Washington, United States of America"
 message_type: "Guidance"
 primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"

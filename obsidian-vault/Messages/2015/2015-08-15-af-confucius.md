@@ -3,7 +3,7 @@ message_id: 2015-08-15-af-confucius
 aliases: ["Confucius Addresses the Men in This Circle, Those Who He Is Charged With Guiding"]
 date: 2015-08-15
 spirit: "[[Spirits/confucius|Confucius]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Guidance"

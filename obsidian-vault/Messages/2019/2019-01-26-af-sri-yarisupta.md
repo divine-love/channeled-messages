@@ -3,7 +3,7 @@ message_id: 2019-01-26-af-sri-yarisupta
 aliases: ["Questions Answered about Divine Love Healing"]
 date: 2019-01-26
 spirit: "[[Spirits/sri-yarisupta|Sri Yarisupta]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
@@ -26,7 +26,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Divine Healing"
+  - "[[Essential Teachings/divine-healing|Divine Healing]]"
 canonical_url: "https://divinelovesanctuary.com/questions-answered-about-divine-love-healing/"
 ---
 

@@ -3,7 +3,7 @@ message_id: 2016-03-30-af-alec-gaunt
 aliases: ["Welcome New Friends"]
 date: 2016-03-30
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"

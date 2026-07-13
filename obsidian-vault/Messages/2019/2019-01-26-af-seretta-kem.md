@@ -3,7 +3,7 @@ message_id: 2019-01-26-af-seretta-kem
 aliases: ["Establishing Portals"]
 date: 2019-01-26
 spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
@@ -27,7 +27,7 @@ keywords:
 collections:
   - "[[Collections/healing-path|Healing Path]]"
 essential_teachings:
-  - "Core Teaching"
+  - "[[Essential Teachings/core-teaching|Core Teaching]]"
 mentions:
   - "[[Spirits/jesus]]"
 canonical_url: "https://divinelovesanctuary.com/establishing-portals/"

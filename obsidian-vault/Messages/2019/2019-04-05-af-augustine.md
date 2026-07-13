@@ -3,7 +3,7 @@ message_id: 2019-04-05-af-augustine
 aliases: ["Mediumship, Gifts, Being a Channel of Love"]
 date: 2019-04-05
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"

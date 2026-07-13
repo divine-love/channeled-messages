@@ -3,7 +3,7 @@ message_id: 2017-01-16-af-keea-atta-kem
 aliases: ["Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually"]
 date: 2017-01-16
 spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Teaching"
 primary_subject: "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"

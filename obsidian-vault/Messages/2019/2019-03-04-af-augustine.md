@@ -3,7 +3,7 @@ message_id: 2019-03-04-af-augustine
 aliases: ["A Bridge Is Set Before You"]
 date: 2019-03-04
 spirit: "[[Spirits/augustine|Augustine]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "New York, New York, United States"
 message_type: "Guidance"
 primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"

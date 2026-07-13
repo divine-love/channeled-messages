@@ -3,7 +3,7 @@ message_id: 2015-11-16-af-alec-gaunt
 aliases: ["Do Not Hide Away but Express Your Gifts in the World"]
 date: 2015-11-16
 spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 message_type: "Guidance"
 primary_subject: "[[Subjects/readiness-and-spiritual-maturity|Readiness & Spiritual Maturity]]"

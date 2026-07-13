@@ -3,7 +3,7 @@ message_id: 2015-08-20-af-james-padgett
 aliases: ["Express the Truth to Others: Padgett Talks of Why This Is So Important"]
 date: 2015-08-20
 spirit: "[[Spirits/james-padgett|James Padgett]]"
-medium: "Al Fike"
+medium: "[[Mediums/al-fike|Al Fike]]"
 location: "Gibsons, BC, Canada"
 gathering: "August 2015 Gibsons Retreat"
 message_type: "Teaching"
@@ -30,8 +30,8 @@ keywords:
   - "eternity"
   - "commitment"
 essential_teachings:
-  - "Historical"
-  - "Spirit Biography"
+  - "[[Essential Teachings/historical|Historical]]"
+  - "[[Essential Teachings/spirit-biography|Spirit Biography]]"
 mentions:
   - "[[Spirits/jesus]]"
 canonical_url: "https://divinelovesanctuary.com/express-the-truth-to-others-padgett-talks-of-why-this-is-so-important/"
