@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/preparation
-  - keyword/step-forward
-  - keyword/earth-changes
-  - keyword/transformation
-  - keyword/god-s-will
-  - keyword/crossroads
-  - keyword/light
-  - keyword/harmony
-  - keyword/peace
-  - keyword/resistance
-  - keyword/flow
-  - keyword/mission
-  - keyword/friendship
-  - keyword/guide
+message_id: 2015-05-27-af-alec-gaunt
 aliases: ["After All Your Preparations It Is Time to Step Forward"]
 date: 2015-05-27
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "preparation"
+  - "step forward"
+  - "earth changes"
+  - "transformation"
+  - "God's will"
+  - "crossroads"
+  - "light"
+  - "harmony"
+  - "peace"
+  - "resistance"
+  - "flow"
+  - "mission"
+  - "friendship"
+  - "guide"
+canonical_url: "https://divinelovesanctuary.com/after-all-your-preparations-it-is-time-to-step-forward/"
 ---
 
 # After All Your Preparations It Is Time to Step Forward

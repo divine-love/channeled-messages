@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-identity-and-destiny/soul-s-true-nature
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-discipline-and-daily-living/joyful-living
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - keyword/soul-expression
-  - keyword/challenges
-  - keyword/blessings
-  - keyword/disappointment
-  - keyword/expectations
-  - keyword/guidance
-  - keyword/channel-of-love
-  - keyword/daily-life
-  - keyword/prayer
-  - keyword/gifts
-  - keyword/mental-constructs
-  - keyword/freedom
-  - keyword/acceptance
-  - keyword/god-s-love
+message_id: 2015-09-27-af-faith-nyquist
 aliases: ["The Wondrous Expressions of Your Soul and Life's Challenges"]
 date: 2015-09-27
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-s-true-nature|Soul's True Nature]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/joyful-living|Joyful Living]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+keywords:
+  - "soul expression"
+  - "challenges"
+  - "blessings"
+  - "disappointment"
+  - "expectations"
+  - "guidance"
+  - "channel of love"
+  - "daily life"
+  - "prayer"
+  - "gifts"
+  - "mental constructs"
+  - "freedom"
+  - "acceptance"
+  - "God's love"
+canonical_url: "https://divinelovesanctuary.com/the-wondrous-expressions-of-your-soul-and-lifes-challenges/"
 ---
 
 # The Wondrous Expressions of Your Soul and Life's Challenges

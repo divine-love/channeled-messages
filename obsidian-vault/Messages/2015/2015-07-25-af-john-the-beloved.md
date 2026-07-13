@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/earth-changes-and-prophecy
-  - subject/collective-awakening-and-redemption
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/prophecy
-  - keyword/world-change
-  - keyword/climate
-  - keyword/rising-oceans
-  - keyword/god-s-breath
-  - keyword/manna-from-heaven
-  - keyword/tumult
-  - keyword/transformation
-  - collection/awakening-humanity
-  - collection/the-saints-and-apostles-speak
-  - essential/prophecy
+message_id: 2015-07-25-af-john-the-beloved
 aliases: ["The Winds of Change Blow Upon This World"]
 date: 2015-07-25
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+secondary_subjects:
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "prophecy"
+  - "world change"
+  - "climate"
+  - "rising oceans"
+  - "God's breath"
+  - "manna from heaven"
+  - "tumult"
+  - "transformation"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Prophecy"
 ---
 
 # The Winds of Change Blow Upon This World

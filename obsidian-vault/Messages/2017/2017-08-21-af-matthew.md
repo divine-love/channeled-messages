@@ -1,32 +1,40 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/spiritual-community-and-fellowship
-  - keyword/feelings-of-the-soul
-  - keyword/intellectual
-  - keyword/unique-experience
-  - keyword/dogma
-  - keyword/formula
-  - keyword/testimony
-  - keyword/touch-from-god
-  - keyword/openness
-  - keyword/joy
-  - keyword/expansion
-  - keyword/prayer
-  - keyword/communion
-  - keyword/soul-perception
-  - keyword/wonderment
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/mind-vs-soul
-  - chain/divine-love-without-knowing
+message_id: 2017-08-21-af-matthew
 aliases: ["Only the Soul Can Know God's Love"]
 date: 2017-08-21
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "feelings of the soul"
+  - "intellectual"
+  - "unique experience"
+  - "dogma"
+  - "formula"
+  - "testimony"
+  - "Touch from God"
+  - "openness"
+  - "joy"
+  - "expansion"
+  - "prayer"
+  - "communion"
+  - "soul perception"
+  - "wonderment"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/divine-love-without-knowing]]"
+canonical_url: "https://divinelovesanctuary.com/soul-can-know-gods-love/"
 ---
 
 # Only the Soul Can Know God's Love

@@ -1,30 +1,34 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/daily-challenges
-  - keyword/beacon-of-light
-  - keyword/faith
-  - keyword/peace
-  - keyword/worry
-  - keyword/fear
-  - keyword/judgment
-  - keyword/human-condition
-  - keyword/god-s-guidance
-  - keyword/soul-versus-mind
-  - keyword/choice
-  - keyword/strength
-  - keyword/flow-of-love
-  - keyword/harmony
-  - keyword/testing
-  - keyword/divine-path
+message_id: 2015-06-15-af-faith-nyquist
 aliases: ["Walk in the Light and Be the Beacon of Light despite the Daily Challenges"]
 date: 2015-06-15
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "daily challenges"
+  - "beacon of light"
+  - "faith"
+  - "peace"
+  - "worry"
+  - "fear"
+  - "judgment"
+  - "human condition"
+  - "God's guidance"
+  - "soul versus mind"
+  - "choice"
+  - "strength"
+  - "flow of love"
+  - "harmony"
+  - "testing"
+  - "divine path"
 ---
 
 # Walk in the Light and Be the Beacon of Light despite the Daily Challenges

@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/soul-healing-and-emotional-restoration
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition
-  - keyword/bruised-apple
-  - keyword/metaphor
-  - keyword/soul-healing
-  - keyword/pain
-  - keyword/corruption
-  - keyword/compassion
-  - keyword/divine-love
-  - keyword/restoration
-  - keyword/darkness-to-light
-  - keyword/error
-  - keyword/judgment
-  - keyword/incremental-healing
-  - keyword/prayer
-  - keyword/purity
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-06-21-af-augustine
 aliases: ["The Metaphor of the Bruised Apple"]
 date: 2015-06-21
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/earthly-challenges-and-human-condition|Earthly Challenges & Human Condition]]"
+keywords:
+  - "bruised apple"
+  - "metaphor"
+  - "soul healing"
+  - "pain"
+  - "corruption"
+  - "compassion"
+  - "Divine Love"
+  - "restoration"
+  - "darkness to light"
+  - "error"
+  - "judgment"
+  - "incremental healing"
+  - "prayer"
+  - "purity"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/the-metaphor-of-the-bruised-apple/"
 ---
 
 # The Metaphor of the Bruised Apple

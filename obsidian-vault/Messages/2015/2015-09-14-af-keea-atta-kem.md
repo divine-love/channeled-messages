@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/joyful-living
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-warfare-and-opposition/god-s-protection-and-care
-  - keyword/gratitude
-  - keyword/open-soul
-  - keyword/negativity
-  - keyword/light
-  - keyword/channels-of-love
-  - keyword/grace
-  - keyword/choice
-  - keyword/soul-perception
-  - keyword/joy
+message_id: 2015-09-14-af-keea-atta-kem
 aliases: ["A Grateful Soul Is an Open Soul"]
 date: 2015-09-14
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/joyful-living|Joyful Living]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/god-s-protection-and-care|God's Protection & Care]]"
+keywords:
+  - "gratitude"
+  - "open soul"
+  - "negativity"
+  - "Light"
+  - "channels of love"
+  - "grace"
+  - "choice"
+  - "soul perception"
+  - "joy"
 ---
 
 # A Grateful Soul Is an Open Soul

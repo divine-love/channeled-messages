@@ -1,27 +1,35 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/lattice-of-light
-  - keyword/online-circle
-  - keyword/prayer
-  - keyword/love-bonds
-  - keyword/net-of-love
-  - keyword/world-conditions
-  - keyword/preparation
-  - keyword/strength
-  - keyword/interlacing-light
-  - keyword/construction
-  - collection/healing-path
-  - essential/historical
-  - mentions/confucius
+message_id: 2018-12-16-af-seretta-kem
 aliases: ["Online Circle Helping to Build the Lattice of Light"]
 date: 2018-12-16
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "lattice of light"
+  - "online circle"
+  - "prayer"
+  - "love bonds"
+  - "net of love"
+  - "world conditions"
+  - "preparation"
+  - "strength"
+  - "interlacing light"
+  - "construction"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Historical"
+mentions:
+  - "[[Spirits/confucius]]"
+canonical_url: "https://divinelovesanctuary.com/online-circle-helping-to-build-the-lattice-of-light/"
 ---
 
 # Online Circle Helping to Build the Lattice of Light

@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/preparation-for-earth-mission
-  - keyword/soul-ascendency
-  - keyword/prayer
-  - keyword/human-condition
-  - keyword/change
-  - keyword/love
-  - keyword/judgment
-  - keyword/fear
-  - keyword/bias
-  - keyword/example
-  - keyword/service
-  - keyword/preparation
-  - keyword/growth
-  - keyword/consciousness
-  - keyword/harmony
+message_id: 2015-05-27-af-confucius
 aliases: ["Change Within Is Coming as Your Souls Grow in the Love"]
 date: 2015-05-27
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+keywords:
+  - "soul ascendency"
+  - "prayer"
+  - "human condition"
+  - "change"
+  - "love"
+  - "judgment"
+  - "fear"
+  - "bias"
+  - "example"
+  - "service"
+  - "preparation"
+  - "growth"
+  - "consciousness"
+  - "harmony"
+canonical_url: "https://divinelovesanctuary.com/change-within-is-coming-as-your-souls-grow-in-the-love/"
 ---
 
 # Change Within Is Coming as Your Souls Grow in the Love

@@ -1,31 +1,36 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-community-and-fellowship
-  - keyword/surrender
-  - keyword/letting-go
-  - keyword/humility
-  - keyword/soul-emerging
-  - keyword/mind
-  - keyword/willfulness
-  - keyword/god-s-will
-  - keyword/peace
-  - keyword/confidence
-  - keyword/service
-  - keyword/journey
-  - keyword/faith
-  - keyword/power-of-love
-  - keyword/change-agent
-  - keyword/redemption
-  - collection/service-and-mission
-  - collection/mind-and-soul
+message_id: 2016-01-09-af-faith-nyquist
 aliases: ["The Simple Journey Awaits"]
 date: 2016-01-09
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "surrender"
+  - "letting go"
+  - "humility"
+  - "soul emerging"
+  - "mind"
+  - "willfulness"
+  - "God's will"
+  - "peace"
+  - "confidence"
+  - "service"
+  - "journey"
+  - "faith"
+  - "power of love"
+  - "change agent"
+  - "redemption"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
 ---
 
 # The Simple Journey Awaits

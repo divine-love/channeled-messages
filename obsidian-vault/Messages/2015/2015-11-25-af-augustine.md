@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/spiritual-warfare-and-opposition
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/centres-of-light
-  - keyword/resistance
-  - keyword/negative-forces
-  - keyword/patience
-  - keyword/prayer
-  - keyword/god-s-will
-  - keyword/persistence
-  - keyword/obstacles
-  - keyword/world-service
-  - keyword/wisdom
-  - collection/service-and-mission
+message_id: 2015-11-25-af-augustine
 aliases: ["Guidance and Reassurance Regarding Creating Centres of Light"]
 date: 2015-11-25
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/spiritual-warfare-and-opposition|Spiritual Warfare & Opposition]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "Centres of Light"
+  - "resistance"
+  - "negative forces"
+  - "patience"
+  - "prayer"
+  - "God's Will"
+  - "persistence"
+  - "obstacles"
+  - "world service"
+  - "wisdom"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
 ---
 
 # Guidance and Reassurance Regarding Creating Centres of Light

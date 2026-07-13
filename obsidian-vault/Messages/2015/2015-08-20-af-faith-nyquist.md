@@ -1,24 +1,31 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/collective-awakening-and-redemption
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/centres-of-light
-  - keyword/refuge
-  - keyword/healing
-  - keyword/community
-  - keyword/god-s-provision
-  - keyword/open-to-all
-  - keyword/holy-spirit
-  - keyword/channel-of-love
-  - collection/service-and-mission
-  - essential/spirit-biography
+message_id: 2015-08-20-af-faith-nyquist
 aliases: ["Encouragement to Establish Centers of Light"]
 date: 2015-08-20
+spirit: "[[Spirits/faith-nyquist|Faith Nyquist]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "centres of light"
+  - "refuge"
+  - "healing"
+  - "community"
+  - "God's provision"
+  - "open to all"
+  - "Holy Spirit"
+  - "channel of love"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+essential_teachings:
+  - "Spirit Biography"
 ---
 
 # Encouragement to Establish Centers of Light

@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/earth-changes-and-prophecy
-  - subject/preparation-for-earth-mission
-  - subject/collective-awakening-and-redemption
-  - keyword/matthew
-  - keyword/change
-  - keyword/new-year
-  - keyword/illusion
-  - keyword/reality
-  - keyword/soul-awakening
-  - keyword/mind
-  - keyword/habits
-  - keyword/cleansing
-  - keyword/transition
-  - keyword/threshold
-  - keyword/truth
-  - keyword/light
-  - keyword/padgett-messages
-  - keyword/judas-of-kerioth
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/prophecy
+message_id: 2016-12-29-af-matthew
 aliases: ["Time to Accept a New Way of Being"]
 date: 2016-12-29
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+keywords:
+  - "Matthew"
+  - "change"
+  - "new year"
+  - "illusion"
+  - "reality"
+  - "soul awakening"
+  - "mind"
+  - "habits"
+  - "cleansing"
+  - "transition"
+  - "threshold"
+  - "truth"
+  - "light"
+  - "Padgett Messages"
+  - "Judas of Kerioth"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Prophecy"
+canonical_url: "https://divinelovesanctuary.com/time-accept-new-way/"
 ---
 
 # Time to Accept a New Way of Being

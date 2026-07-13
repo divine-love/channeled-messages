@@ -1,32 +1,38 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/gatekeeper
-  - keyword/mind
-  - keyword/soul
-  - keyword/prayer
-  - keyword/parched-soul
-  - keyword/living-waters
-  - keyword/holy-spirit
-  - keyword/naked-to-god
-  - keyword/cloaks
-  - keyword/distraction
-  - keyword/alignment
-  - keyword/earnestness
-  - keyword/stoke-the-fires
-  - keyword/encrustations
-  - keyword/awakening
-  - keyword/routines
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-10-04-af-matthew
 aliases: ["Go Naked to God in Joy"]
 date: 2018-10-04
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "gatekeeper"
+  - "mind"
+  - "soul"
+  - "prayer"
+  - "parched soul"
+  - "living waters"
+  - "Holy Spirit"
+  - "naked to God"
+  - "cloaks"
+  - "distraction"
+  - "alignment"
+  - "earnestness"
+  - "stoke the fires"
+  - "encrustations"
+  - "awakening"
+  - "routines"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/go-naked-to-god-in-joy/"
 ---
 
 # Go Naked to God in Joy

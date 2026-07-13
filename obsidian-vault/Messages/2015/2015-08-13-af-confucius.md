@@ -1,24 +1,29 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/creation-and-incarnation/nature-of-the-soul
-  - keyword/soul-wisdom
-  - keyword/god-s-will
-  - keyword/mind-and-soul
-  - keyword/awakening
-  - keyword/clarity
-  - keyword/purpose
-  - keyword/eagles
-  - keyword/birds
-  - keyword/reorganizing-the-intellect
-  - collection/mind-and-soul
+message_id: 2015-08-13-af-confucius
 aliases: ["Knowing God's Will Through Soul Awakening"]
 date: 2015-08-13
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
+keywords:
+  - "soul wisdom"
+  - "God's will"
+  - "mind and soul"
+  - "awakening"
+  - "clarity"
+  - "purpose"
+  - "eagles"
+  - "birds"
+  - "reorganizing the intellect"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
 ---
 
 # Knowing God's Will Through Soul Awakening

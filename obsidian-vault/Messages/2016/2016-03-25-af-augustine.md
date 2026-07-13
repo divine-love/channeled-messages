@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/prayer
-  - keyword/sincere-prayer
-  - keyword/group-prayer
-  - keyword/strike-the-mark
-  - keyword/guidance
-  - keyword/promptings
-  - keyword/circles-of-light
-  - keyword/centres-of-light
-  - keyword/portal-of-light
-  - keyword/soul-growth
-  - keyword/purpose
-  - keyword/intention
-  - collection/service-and-mission
-  - chain/prayer-soul-longing
+message_id: 2016-03-25-af-augustine
 aliases: ["Importance of Prayer"]
 date: 2016-03-25
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "prayer"
+  - "sincere prayer"
+  - "group prayer"
+  - "strike the mark"
+  - "guidance"
+  - "promptings"
+  - "circles of light"
+  - "centres of light"
+  - "portal of light"
+  - "soul growth"
+  - "purpose"
+  - "intention"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+chains:
+  - "[[Chains/prayer-soul-longing]]"
 ---
 
 # Importance of Prayer

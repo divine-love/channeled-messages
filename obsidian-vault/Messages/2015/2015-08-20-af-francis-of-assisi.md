@@ -1,28 +1,35 @@
 ---
-tags:
-  - spirit/francis-of-assisi
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/letting-go
-  - keyword/attachments
-  - keyword/walls
-  - keyword/poverty
-  - keyword/simplicity
-  - keyword/freedom
-  - keyword/gifts
-  - keyword/cloak
-  - keyword/innocence
-  - keyword/nature
-  - collection/letters-from-history
-  - collection/awakening-humanity
-  - collection/the-saints-and-apostles-speak
-  - essential/spirit-biography
+message_id: 2015-08-20-af-francis-of-assisi
 aliases: ["Release Your Old Ways and Allow God's Love to Bring New Understanding and Love"]
 date: 2015-08-20
+spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/faith-and-trust|Faith & Trust]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "letting go"
+  - "attachments"
+  - "walls"
+  - "poverty"
+  - "simplicity"
+  - "freedom"
+  - "gifts"
+  - "cloak"
+  - "innocence"
+  - "nature"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Spirit Biography"
 ---
 
 # Release Your Old Ways and Allow God's Love to Bring New Understanding and Love

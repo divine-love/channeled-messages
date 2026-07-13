@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - keyword/tip-of-the-iceberg
-  - keyword/gifts
-  - keyword/timing
-  - keyword/ambition
-  - keyword/mind-interference
-  - keyword/soul-development
-  - keyword/soul-longing
-  - keyword/law-of-response
-  - keyword/collective-light
-  - keyword/pitfalls
-  - keyword/harmony
-  - keyword/honing-gifts
-  - keyword/spiritual-progression
-  - keyword/caution
-  - collection/prism-of-the-soul
+message_id: 2018-07-13-af-keea-atta-kem
 aliases: ["Awakening of Your Gifts Requires God's Love, Faith and Timing"]
 date: 2018-07-13
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+keywords:
+  - "tip of the iceberg"
+  - "gifts"
+  - "timing"
+  - "ambition"
+  - "mind interference"
+  - "soul development"
+  - "soul longing"
+  - "law of response"
+  - "collective light"
+  - "pitfalls"
+  - "harmony"
+  - "honing gifts"
+  - "spiritual progression"
+  - "caution"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+canonical_url: "https://divinelovesanctuary.com/awakening-of-your-gifts-requires-gods-love-faith-and-timing/"
 ---
 
 # Awakening of Your Gifts Requires God's Love, Faith and Timing

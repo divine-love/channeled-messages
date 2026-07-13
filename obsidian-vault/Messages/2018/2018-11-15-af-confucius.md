@@ -1,22 +1,28 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/soul-and-mind
-  - keyword/faith
-  - keyword/awakening
-  - keyword/obstructions
-  - keyword/inspiration
-  - keyword/god-s-plan
-  - keyword/soul-gifts
-  - collection/mind-and-soul
+message_id: 2018-11-15-af-confucius
 aliases: ["Have Faith That Your Soul Awakens"]
 date: 2018-11-15
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "soul and mind"
+  - "faith"
+  - "awakening"
+  - "obstructions"
+  - "inspiration"
+  - "God's plan"
+  - "soul gifts"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+canonical_url: "https://divinelovesanctuary.com/have-faith-that-your-soul-awakens/"
 ---
 
 # Have Faith That Your Soul Awakens

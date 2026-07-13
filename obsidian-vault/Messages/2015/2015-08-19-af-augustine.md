@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/collective-awakening-and-redemption
-  - keyword/change-the-world
-  - keyword/portal-of-light
-  - keyword/network-of-light
-  - keyword/healing
-  - keyword/multiply
-  - keyword/living-waters
-  - keyword/journey
-  - keyword/firmament
-  - collection/awakening-humanity
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-19-af-augustine
 aliases: ["We Embark on a Journey to Change the World"]
 date: 2015-08-19
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+keywords:
+  - "change the world"
+  - "portal of light"
+  - "network of light"
+  - "healing"
+  - "multiply"
+  - "living waters"
+  - "journey"
+  - "firmament"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # We Embark on a Journey to Change the World

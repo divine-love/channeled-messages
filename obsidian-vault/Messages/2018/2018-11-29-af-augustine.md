@@ -1,27 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/nature-environment-and-god-s-creation/reverence-for-the-earth
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/earth-changes
-  - keyword/materialism
-  - keyword/transformation
-  - keyword/calamity
-  - keyword/new-world
-  - keyword/harmony
-  - keyword/detachment
-  - keyword/faith
-  - keyword/god-s-plan
-  - keyword/dawning-age
-  - collection/awakening-humanity
-  - essential/prophecy
+message_id: 2018-11-29-af-augustine
 aliases: ["Challenging Earth Changes Bring Greater Light and Harmony to Humanity"]
 date: 2018-11-29
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+secondary_subjects:
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/reverence-for-the-earth|Reverence for the Earth]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "earth changes"
+  - "materialism"
+  - "transformation"
+  - "calamity"
+  - "new world"
+  - "harmony"
+  - "detachment"
+  - "faith"
+  - "God's plan"
+  - "dawning age"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Prophecy"
+canonical_url: "https://divinelovesanctuary.com/challenging-earth-changes-bring-greater-light-and-harmony-to-humanity/"
 ---
 
 # Challenging Earth Changes Bring Greater Light and Harmony to Humanity

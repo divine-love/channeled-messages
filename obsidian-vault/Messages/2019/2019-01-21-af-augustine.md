@@ -1,28 +1,36 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/natural-love-path
-  - keyword/divine-love-path
-  - keyword/two-paths
-  - keyword/soul-awakening
-  - keyword/free-will
-  - keyword/human-condition
-  - keyword/transformation
-  - keyword/birthright
-  - keyword/at-onement
-  - keyword/living-waters
-  - collection/two-paths
-  - essential/core-teaching
-  - chain/two-paths
+message_id: 2019-01-21-af-augustine
 aliases: ["Divine Love Path and Natural Love Path"]
 date: 2019-01-21
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "natural love path"
+  - "Divine Love path"
+  - "two paths"
+  - "soul awakening"
+  - "free will"
+  - "human condition"
+  - "transformation"
+  - "birthright"
+  - "at-onement"
+  - "living waters"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/two-paths]]"
+canonical_url: "https://divinelovesanctuary.com/divine-love-path-natural-love-path/"
 ---
 
 # Divine Love Path and Natural Love Path

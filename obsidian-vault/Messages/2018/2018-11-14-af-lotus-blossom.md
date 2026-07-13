@@ -1,17 +1,22 @@
 ---
-tags:
-  - spirit/lotus-blossom
-  - type/blessing
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/healing
-  - keyword/prayer-before-sleep
-  - keyword/spirit-healing
-  - keyword/physical-healing
+message_id: 2018-11-14-af-lotus-blossom
 aliases: ["Lotus Blossom Message from Oz"]
 date: 2018-11-14
+spirit: "[[Spirits/lotus-blossom|Lotus Blossom]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Blessing"
+primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "healing"
+  - "prayer before sleep"
+  - "spirit healing"
+  - "physical healing"
+canonical_url: "https://divinelovesanctuary.com/lotus-blossom-message-from-oz/"
 ---
 
 # Lotus Blossom Message from Oz

@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-identity-and-destiny/soul-s-true-nature
-  - keyword/beautiful-souls
-  - keyword/self-love
-  - keyword/loving-yourself
-  - keyword/being-loved
-  - keyword/the-flock
-  - keyword/humility
-  - keyword/beautiful-light
-  - keyword/prayer-together
-  - keyword/joy
-  - collection/healing-path
-  - mentions/jesus
+message_id: 2016-03-16-af-seretta-kem
 aliases: ["You Are Truly Beautiful Souls"]
 date: 2016-03-16
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Selah, WA, USA"
+message_type: "Guidance"
+primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+secondary_subjects:
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/soul-s-true-nature|Soul's True Nature]]"
+keywords:
+  - "beautiful souls"
+  - "self-love"
+  - "loving yourself"
+  - "being loved"
+  - "the flock"
+  - "humility"
+  - "beautiful light"
+  - "prayer together"
+  - "joy"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+mentions:
+  - "[[Spirits/jesus]]"
 ---
 
 # You Are Truly Beautiful Souls

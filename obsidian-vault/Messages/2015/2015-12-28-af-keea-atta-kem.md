@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - keyword/gifts
-  - keyword/expression
-  - keyword/unity
-  - keyword/judgment
-  - keyword/threshold
-  - keyword/river-of-love
-  - keyword/spiritual-hunger
-  - keyword/readiness
-  - keyword/harmony
-  - keyword/channel-of-love
-  - collection/prism-of-the-soul
+message_id: 2015-12-28-af-keea-atta-kem
 aliases: ["The Time Comes for You to Express These Gifts"]
 date: 2015-12-28
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+keywords:
+  - "gifts"
+  - "expression"
+  - "unity"
+  - "judgment"
+  - "threshold"
+  - "river of love"
+  - "spiritual hunger"
+  - "readiness"
+  - "harmony"
+  - "channel of love"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
 ---
 
 # The Time Comes for You to Express These Gifts

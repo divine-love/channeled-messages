@@ -1,32 +1,40 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/60-40
-  - keyword/soul-dominance
-  - keyword/color-mixing
-  - keyword/orange
-  - keyword/yellow-and-red
-  - keyword/soul-consciousness
-  - keyword/mind-consciousness
-  - keyword/harmony
-  - keyword/marriage
-  - keyword/faculties-of-the-soul
-  - keyword/perception
-  - keyword/dimensions
-  - keyword/new-birth
-  - keyword/awakening
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/mind-vs-soul
+message_id: 2018-05-17-af-augustine
 aliases: ["60/40 Soul Mind Guidance"]
 date: 2018-05-17
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "60/40"
+  - "soul dominance"
+  - "color mixing"
+  - "orange"
+  - "yellow and red"
+  - "soul consciousness"
+  - "mind consciousness"
+  - "harmony"
+  - "marriage"
+  - "faculties of the soul"
+  - "perception"
+  - "dimensions"
+  - "new birth"
+  - "awakening"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/60-40-soul-mind-guidance/"
 ---
 
 # 60/40 Soul Mind Guidance

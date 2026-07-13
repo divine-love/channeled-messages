@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/god-s-will
-  - keyword/free-will
-  - keyword/surrender
-  - keyword/trust
-  - keyword/prayer
-  - keyword/fear
-  - keyword/ignorance
-  - keyword/channel-of-love
-  - keyword/divine-path
-  - keyword/light
-  - keyword/harmony
-  - keyword/angels
-  - keyword/choice
-  - keyword/obstructions
+message_id: 2015-06-12-af-alec-gaunt
 aliases: ["Understand and Follow the Will of God"]
 date: 2015-06-12
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "God's will"
+  - "free will"
+  - "surrender"
+  - "trust"
+  - "prayer"
+  - "fear"
+  - "ignorance"
+  - "channel of love"
+  - "Divine Path"
+  - "light"
+  - "harmony"
+  - "angels"
+  - "choice"
+  - "obstructions"
+canonical_url: "https://divinelovesanctuary.com/understand-follow-will-god/"
 ---
 
 # Understand and Follow the Will of God

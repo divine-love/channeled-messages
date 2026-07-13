@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/divine-will-guidance-and-orchestration
-  - subject/preparation-for-earth-mission
-  - subject/collective-awakening-and-redemption
-  - subject/celestial-governance-and-spiritual-law
-  - keyword/fate
-  - keyword/free-will
-  - keyword/cause-and-effect
-  - keyword/circuitous-routes
-  - keyword/orchestration
-  - keyword/willing-souls
-  - keyword/new-york
-  - keyword/new-chapter
-  - keyword/generations
-  - keyword/darkness
-  - keyword/injustice
-  - keyword/angels-busy
-  - keyword/manifestation
-  - keyword/redemption-of-mankind
-  - collection/letters-from-history
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/free-will-and-gods-plan
+message_id: 2015-03-24-af-augustine
 aliases: ["There Is Fate and Yet There Is No Fate"]
 date: 2015-03-24
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
+keywords:
+  - "fate"
+  - "free will"
+  - "cause and effect"
+  - "circuitous routes"
+  - "orchestration"
+  - "willing souls"
+  - "New York"
+  - "new chapter"
+  - "generations"
+  - "darkness"
+  - "injustice"
+  - "angels busy"
+  - "manifestation"
+  - "redemption of mankind"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/free-will-and-gods-plan]]"
 ---
 
 # There Is Fate and Yet There Is No Fate

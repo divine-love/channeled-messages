@@ -1,27 +1,32 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/god-s-will
-  - keyword/going-within
-  - keyword/soul-awareness
-  - keyword/still-voice
-  - keyword/mind
-  - keyword/depth
-  - keyword/communion
-  - keyword/truth
-  - keyword/gifts
-  - keyword/channel-of-love
-  - keyword/mental-illusions
-  - keyword/soul-perception
-  - keyword/effort
-  - keyword/risk
+message_id: 2015-09-30-af-alec-gaunt
 aliases: ["Go Within in Order to Know God's Will for You"]
 date: 2015-09-30
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "God's will"
+  - "going within"
+  - "soul awareness"
+  - "still voice"
+  - "mind"
+  - "depth"
+  - "communion"
+  - "Truth"
+  - "gifts"
+  - "channel of love"
+  - "mental illusions"
+  - "soul perception"
+  - "effort"
+  - "risk"
+canonical_url: "https://divinelovesanctuary.com/go-within-in-order-to-know-gods-will-for-you/"
 ---
 
 # Go Within in Order to Know God's Will for You

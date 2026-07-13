@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/soul-healing-and-emotional-restoration
-  - subject/preparation-for-earth-mission
-  - subject/soul-healing-and-emotional-restoration/letting-go-of-wounds
-  - keyword/soul-healing
-  - keyword/release
-  - keyword/inharmony
-  - keyword/transformation
-  - keyword/god-s-channels
-  - keyword/discipleship
-  - keyword/garden
-  - keyword/sanctuary
-  - keyword/earth-changes
-  - keyword/two-choices
-  - keyword/preparation
-  - keyword/angels
-  - keyword/healing-touch
-  - keyword/honesty
-  - mentions/jesus
+message_id: 2015-06-29-af-alec-gaunt
 aliases: ["Release the Pains of Your Soul, for God Needs You to Be Strong and Clear"]
 date: 2015-06-29
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/letting-go-of-wounds|Letting Go of Wounds]]"
+keywords:
+  - "soul healing"
+  - "release"
+  - "inharmony"
+  - "transformation"
+  - "God's channels"
+  - "discipleship"
+  - "garden"
+  - "sanctuary"
+  - "earth changes"
+  - "two choices"
+  - "preparation"
+  - "angels"
+  - "healing touch"
+  - "honesty"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/release-pains-soul-god-needs-strong-clear/"
 ---
 
 # Release the Pains of Your Soul, for God Needs You to Be Strong and Clear

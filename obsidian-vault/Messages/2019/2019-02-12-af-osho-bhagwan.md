@@ -1,30 +1,38 @@
 ---
-tags:
-  - spirit/osho-bhagwan
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/collective-awakening-and-redemption/awakening-mass-consciousness
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/guru
-  - keyword/liberation
-  - keyword/human-passions
-  - keyword/human-potential
-  - keyword/taming-the-passions
-  - keyword/true-self
-  - keyword/natural-love-path
-  - keyword/yearning-for-divine-love
-  - keyword/not-yet-celestial
-  - keyword/love-is-the-true-passion
-  - keyword/awakening-humanity
-  - keyword/incomplete-mission
-  - keyword/manna
-  - collection/letters-from-history
-  - essential/spirit-biography
-  - chain/two-paths
+message_id: 2019-02-12-af-osho-bhagwan
 aliases: ["God's Love Is the True Way to Liberation"]
 date: 2019-02-12
+spirit: "[[Spirits/osho-bhagwan|Osho Bhagwan]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+secondary_subjects:
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/awakening-mass-consciousness|Awakening Mass Consciousness]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "guru"
+  - "liberation"
+  - "human passions"
+  - "human potential"
+  - "taming the passions"
+  - "true self"
+  - "natural love path"
+  - "yearning for Divine Love"
+  - "not yet Celestial"
+  - "love is the true passion"
+  - "awakening humanity"
+  - "incomplete mission"
+  - "manna"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Spirit Biography"
+chains:
+  - "[[Chains/two-paths]]"
+canonical_url: "https://divinelovesanctuary.com/gods-love-is-the-true-way-to-liberation/"
 ---
 
 # God's Love Is the True Way to Liberation

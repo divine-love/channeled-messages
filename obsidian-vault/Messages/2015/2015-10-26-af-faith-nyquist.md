@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/non-judgment
-  - keyword/soul-connection
-  - keyword/belief
-  - keyword/example
-  - keyword/prayer-for-others
-  - keyword/negative-forces
-  - keyword/releasing-will
-  - keyword/trust
-  - keyword/discipline
-  - keyword/channel-of-love
-  - chain/mind-vs-soul
-  - chain/judgment-to-love
+message_id: 2015-10-26-af-faith-nyquist
 aliases: ["Guidance about Our Choices in the Flow of God's Love"]
 date: 2015-10-26
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/releasing-judgment|Releasing Judgment]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "non-judgment"
+  - "soul connection"
+  - "belief"
+  - "example"
+  - "prayer for others"
+  - "negative forces"
+  - "releasing will"
+  - "trust"
+  - "discipline"
+  - "channel of love"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/judgment-to-love]]"
 ---
 
 # Guidance about Our Choices in the Flow of God's Love

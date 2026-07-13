@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/lattice-of-light
-  - keyword/online-circle
-  - keyword/internet
-  - keyword/love-bond
-  - keyword/trust
-  - keyword/prayer
-  - keyword/soul-and-mind-reconciliation
-  - keyword/network
-  - keyword/composure
-  - keyword/god-s-will
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-01-08-af-matthew
 aliases: ["Matthew's Message of Reassurance to the Group"]
 date: 2019-01-08
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Fitzroy Falls, NSW, Australia"
+message_type: "Guidance"
+primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "lattice of light"
+  - "online circle"
+  - "internet"
+  - "love bond"
+  - "trust"
+  - "prayer"
+  - "soul and mind reconciliation"
+  - "network"
+  - "composure"
+  - "God's will"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/mathews-message-of-reassurance-to-the-group/"
 ---
 
 # Matthew's Message of Reassurance to the Group

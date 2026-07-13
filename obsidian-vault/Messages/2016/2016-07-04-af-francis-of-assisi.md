@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/francis-of-assisi
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development
-  - subject/nature-environment-and-god-s-creation/beauty-and-spiritual-joy
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/love
-  - keyword/currency-of-life
-  - keyword/unifying-force
-  - keyword/nature
-  - keyword/creatures
-  - keyword/forest
-  - keyword/at-onement
-  - keyword/holy-spirit
-  - keyword/transformation
-  - keyword/seeds
-  - keyword/gifts
-  - keyword/river-of-love
-  - keyword/natural-love
-  - keyword/divine-love
-  - keyword/beacon
-  - collection/letters-from-history
-  - collection/the-saints-and-apostles-speak
+message_id: 2016-07-04-af-francis-of-assisi
 aliases: ["Love Is the True Currency of Life"]
 date: 2016-07-04
+spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+  - "[[Subjects/beauty-and-spiritual-joy|Beauty & Spiritual Joy]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "love"
+  - "currency of life"
+  - "unifying force"
+  - "nature"
+  - "creatures"
+  - "forest"
+  - "at-onement"
+  - "Holy Spirit"
+  - "transformation"
+  - "seeds"
+  - "gifts"
+  - "river of love"
+  - "natural love"
+  - "Divine Love"
+  - "beacon"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/love-is-the-true-currency-of-life/"
 ---
 
 # Love Is the True Currency of Life

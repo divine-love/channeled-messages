@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/celestial-governance-and-spiritual-law/law-of-attraction
-  - keyword/portals-of-light
-  - keyword/purpose
-  - keyword/intention
-  - keyword/material-resources
-  - keyword/law-of-attraction
-  - keyword/prayer
-  - keyword/healing
-  - keyword/fervency
-  - keyword/travel
-  - keyword/world-healing
-  - collection/service-and-mission
+message_id: 2019-01-19-af-augustine
 aliases: ["Guidance about Our Purpose and Needs"]
 date: 2019-01-19
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/law-of-attraction|Law of Attraction]]"
+keywords:
+  - "Portals of Light"
+  - "purpose"
+  - "intention"
+  - "material resources"
+  - "Law of Attraction"
+  - "prayer"
+  - "healing"
+  - "fervency"
+  - "travel"
+  - "world healing"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/guidance-about-our-purpose-and-needs/"
 ---
 
 # Guidance about Our Purpose and Needs

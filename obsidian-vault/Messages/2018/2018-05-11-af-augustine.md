@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - keyword/refuge
-  - keyword/place-of-blessing
-  - keyword/open-doors
-  - keyword/threshold
-  - keyword/transformation
-  - keyword/healing
-  - keyword/redemption
-  - keyword/circles-of-light
-  - keyword/gathering-space
-  - keyword/solace
-  - keyword/peace
-  - keyword/marshal
-  - keyword/forces-of-change
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-05-11-af-augustine
 aliases: ["This Is a Place of Refuge"]
 date: 2018-05-11
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+keywords:
+  - "refuge"
+  - "place of blessing"
+  - "open doors"
+  - "threshold"
+  - "transformation"
+  - "healing"
+  - "redemption"
+  - "circles of light"
+  - "gathering space"
+  - "solace"
+  - "peace"
+  - "marshal"
+  - "forces of change"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/this-is-a-place-of-refuge/"
 ---
 
 # This Is a Place of Refuge

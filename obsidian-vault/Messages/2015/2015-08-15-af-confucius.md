@@ -1,22 +1,27 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - keyword/flame-of-truth
-  - keyword/doubt
-  - keyword/faith
-  - keyword/living-waters
-  - keyword/gifts
-  - keyword/men
-  - keyword/responsibility
-  - keyword/soul
+message_id: 2015-08-15-af-confucius
 aliases: ["Confucius Addresses the Men in This Circle, Those Who He Is Charged With Guiding"]
 date: 2015-08-15
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+keywords:
+  - "flame of truth"
+  - "doubt"
+  - "faith"
+  - "living waters"
+  - "gifts"
+  - "men"
+  - "responsibility"
+  - "soul"
 ---
 
 # Confucius Addresses the Men in This Circle, Those Who He Is Charged With Guiding

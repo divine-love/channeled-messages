@@ -1,26 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/road-less-traveled
-  - keyword/discipline
-  - keyword/soul-depth
-  - keyword/prayer
-  - keyword/priorities
-  - keyword/eternity
-  - keyword/choice
-  - keyword/light
-  - keyword/responsibility
-  - collection/awakening-humanity
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2015-08-18-af-augustine
 aliases: ["The Road Less Traveled: Guidance for the Journey"]
 date: 2015-08-18
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "road less traveled"
+  - "discipline"
+  - "soul depth"
+  - "prayer"
+  - "priorities"
+  - "eternity"
+  - "choice"
+  - "Light"
+  - "responsibility"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
 ---
 
 # The Road Less Traveled: Guidance for the Journey

@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/divine-love-healing
-  - keyword/winds-of-change
-  - keyword/world-changes
-  - keyword/service
-  - keyword/channel-of-love
-  - keyword/faith
-  - keyword/healing
-  - keyword/physical-body
-  - keyword/soul-over-body
-  - keyword/god-s-will
-  - keyword/protection
-  - keyword/angels
-  - keyword/beacon
-  - keyword/lost-souls
-  - keyword/teaching
+message_id: 2015-08-31-af-seretta-kem
 aliases: ["The World Is Changing and Needs Many Souls in Service to God's Will"]
 date: 2015-08-31
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/divine-love-healing|Divine Love Healing]]"
+keywords:
+  - "winds of change"
+  - "world changes"
+  - "service"
+  - "channel of love"
+  - "faith"
+  - "healing"
+  - "physical body"
+  - "soul over body"
+  - "God's will"
+  - "protection"
+  - "angels"
+  - "beacon"
+  - "lost souls"
+  - "teaching"
+canonical_url: "https://divinelovesanctuary.com/the-world-is-changing-and-needs-many-souls-in-service-to-gods-will/"
 ---
 
 # The World Is Changing and Needs Many Souls in Service to God's Will

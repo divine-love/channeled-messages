@@ -1,23 +1,29 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/soul
-  - keyword/stillness
-  - keyword/god-s-will
-  - keyword/communion
-  - keyword/healing
-  - keyword/peace
-  - keyword/consciousness
-  - keyword/human-condition
-  - collection/mind-and-soul
+message_id: 2015-08-21-af-keea-atta-kem
 aliases: ["Return to Your Soul and Live From That Place of Stillness and Love"]
 date: 2015-08-21
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "soul"
+  - "stillness"
+  - "God's will"
+  - "communion"
+  - "healing"
+  - "peace"
+  - "consciousness"
+  - "human condition"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
 ---
 
 # Return to Your Soul and Live From That Place of Stillness and Love

@@ -1,36 +1,43 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-community-and-fellowship/unity-in-diversity
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/discernment
-  - keyword/mark-of-truth
-  - keyword/kernel-of-truth
-  - keyword/false-messages
-  - keyword/celestial-communication
-  - keyword/soul-knowing
-  - keyword/test-the-spirits
-  - keyword/differences
-  - keyword/commonalities
-  - keyword/schisms
-  - keyword/rejection
-  - keyword/cry-for-love
-  - keyword/self-acceptance
-  - keyword/incremental
-  - keyword/patience
-  - keyword/unique-soul
-  - collection/the-saints-and-apostles-speak
-  - chain/divine-love-mediumship
-  - chain/incremental-journey
-  - chain/judgment-to-love
-  - chain/self-love-foundation
+message_id: 2019-04-05-af-augustine
 aliases: ["Mediumship, Gifts, Being a Channel of Love"]
 date: 2019-04-05
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/unity-in-diversity|Unity in Diversity]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "discernment"
+  - "mark of Truth"
+  - "kernel of truth"
+  - "false messages"
+  - "Celestial communication"
+  - "soul knowing"
+  - "test the spirits"
+  - "differences"
+  - "commonalities"
+  - "schisms"
+  - "rejection"
+  - "cry for love"
+  - "self-acceptance"
+  - "incremental"
+  - "patience"
+  - "unique soul"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/divine-love-mediumship]]"
+  - "[[Chains/incremental-journey]]"
+  - "[[Chains/judgment-to-love]]"
+  - "[[Chains/self-love-foundation]]"
+canonical_url: "https://divinelovesanctuary.com/mediumship-gifts-being-a-channel-of-love/"
 ---
 
 # Mediumship, Gifts, Being a Channel of Love

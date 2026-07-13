@@ -1,22 +1,26 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/truth
-  - keyword/curiosity
-  - keyword/healing-gift
-  - keyword/seeking
-  - keyword/questions
-  - keyword/angels
-  - keyword/light
-  - keyword/channel-of-love
+message_id: 2015-09-21-af-confucius
 aliases: ["Continue to Seek the Truth and Express the Gifts of Your Soul"]
 date: 2015-09-21
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "truth"
+  - "curiosity"
+  - "healing gift"
+  - "seeking"
+  - "questions"
+  - "angels"
+  - "Light"
+  - "channel of love"
 ---
 
 # Continue to Seek the Truth and Express the Gifts of Your Soul

@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/change
-  - keyword/law-of-change
-  - keyword/resistance
-  - keyword/acceptance
-  - keyword/transitions
-  - keyword/growth
-  - keyword/god-s-will
-  - keyword/security
-  - keyword/stability
-  - keyword/circles-of-light
-  - keyword/fear
-  - keyword/flow
-  - keyword/doors
-  - keyword/opportunity
+message_id: 2016-04-27-af-alec-gaunt
 aliases: ["The Law of Change"]
 date: 2016-04-27
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/faith-and-trust|Faith & Trust]]"
+secondary_subjects:
+  - "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "change"
+  - "law of change"
+  - "resistance"
+  - "acceptance"
+  - "transitions"
+  - "growth"
+  - "God's will"
+  - "security"
+  - "stability"
+  - "circles of light"
+  - "fear"
+  - "flow"
+  - "doors"
+  - "opportunity"
+canonical_url: "https://divinelovesanctuary.com/the-law-of-change/"
 ---
 
 # The Law of Change

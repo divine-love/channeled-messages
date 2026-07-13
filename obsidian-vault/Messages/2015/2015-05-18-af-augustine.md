@@ -1,30 +1,35 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living
-  - subject/earth-changes-and-prophecy
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - keyword/two-selves
-  - keyword/soul
-  - keyword/material-mind
-  - keyword/human-condition
-  - keyword/soul-consciousness
-  - keyword/divine-love
-  - keyword/earth-changes
-  - keyword/choice
-  - keyword/self-love
-  - keyword/channel-of-love
-  - keyword/preparation
-  - keyword/strength
-  - keyword/light
-  - keyword/transformation
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-05-18-af-augustine
 aliases: ["Recognizing Your Two Selves, the Soul and the Material Mind"]
 date: 2015-05-18
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+keywords:
+  - "two selves"
+  - "soul"
+  - "material mind"
+  - "human condition"
+  - "soul consciousness"
+  - "Divine Love"
+  - "earth changes"
+  - "choice"
+  - "self-love"
+  - "channel of love"
+  - "preparation"
+  - "strength"
+  - "light"
+  - "transformation"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Recognizing Your Two Selves, the Soul and the Material Mind

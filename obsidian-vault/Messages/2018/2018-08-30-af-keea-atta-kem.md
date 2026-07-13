@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/interdimensional-and-spirit-communication
-  - keyword/circle-of-light
-  - keyword/portal-of-light
-  - keyword/angels
-  - keyword/prayer
-  - keyword/spirit-world
-  - keyword/healing-chemistry
-  - keyword/sitters
-  - keyword/medium
-  - keyword/trance-mediumship
-  - keyword/spirit-spheres
-  - keyword/divine-love
-  - keyword/intentions
-  - keyword/blessings
-  - keyword/unity
-  - keyword/collective-prayer
-  - keyword/god-s-will
-  - essential/core-teaching
+message_id: 2018-08-30-af-keea-atta-kem
 aliases: ["Circles of Light"]
 date: 2018-08-30
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2018 Gibsons Mediumship Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"
+keywords:
+  - "circle of light"
+  - "portal of light"
+  - "angels"
+  - "prayer"
+  - "spirit world"
+  - "healing chemistry"
+  - "sitters"
+  - "medium"
+  - "trance mediumship"
+  - "spirit spheres"
+  - "Divine Love"
+  - "intentions"
+  - "blessings"
+  - "unity"
+  - "collective prayer"
+  - "God's will"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/circles-of-light/"
 ---
 
 # Circles of Light

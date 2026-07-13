@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/foreknowledge
-  - keyword/god-s-plan
-  - keyword/faith
-  - keyword/patience
-  - keyword/perception
-  - keyword/prayer
-  - keyword/wisdom
-  - keyword/soul-growth
-  - keyword/guidance
-  - keyword/humility
+message_id: 2015-11-26-af-augustine
 aliases: ["You Cannot See the Events Coming but Have Faith That God Will Use You"]
 date: 2015-11-26
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/faith-and-trust|Faith & Trust]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "foreknowledge"
+  - "God's Plan"
+  - "faith"
+  - "patience"
+  - "perception"
+  - "prayer"
+  - "wisdom"
+  - "soul growth"
+  - "guidance"
+  - "humility"
 ---
 
 # You Cannot See the Events Coming but Have Faith That God Will Use You

@@ -1,33 +1,41 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/celestial-governance-and-spiritual-law/law-of-attraction
-  - keyword/two-realities
-  - keyword/two-minds
-  - keyword/soul-mind
-  - keyword/material-mind
-  - keyword/law-of-attraction
-  - keyword/scientists-of-the-soul
-  - keyword/vanguards
-  - keyword/veil-lifted
-  - keyword/frame-of-reference
-  - keyword/merging
-  - keyword/perception
-  - keyword/waves
-  - keyword/adventurers
-  - keyword/thought-conditions
-  - keyword/new-dawn
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/mind-vs-soul
+message_id: 2018-06-18-af-matthew
 aliases: ["The Reality of the Soul Can Be Merged with the Mind"]
 date: 2018-06-18
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/law-of-attraction|Law of Attraction]]"
+keywords:
+  - "two realities"
+  - "two minds"
+  - "soul mind"
+  - "material mind"
+  - "Law of Attraction"
+  - "scientists of the soul"
+  - "vanguards"
+  - "veil lifted"
+  - "frame of reference"
+  - "merging"
+  - "perception"
+  - "waves"
+  - "adventurers"
+  - "thought conditions"
+  - "new dawn"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/the-reality-of-the-soul-can-be-merged-with-the-mind/"
 ---
 
 # The Reality of the Soul Can Be Merged with the Mind

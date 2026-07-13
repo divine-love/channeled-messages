@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/infinite-journey
-  - keyword/at-onement
-  - keyword/unbreakable-connection
-  - keyword/celestial-kingdom
-  - keyword/unfolding
-  - keyword/wisdom
-  - keyword/mysteries
-  - keyword/purpose
-  - keyword/gifts
-  - keyword/healing-the-world
-  - keyword/new-souls
-  - keyword/welcome
-  - collection/healing-path
+message_id: 2018-03-08-af-seretta-kem
 aliases: ["Knowing the Potentials of God's Love Is an Infinite Journey"]
 date: 2018-03-08
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Punaluu, HI, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "infinite journey"
+  - "at-onement"
+  - "unbreakable connection"
+  - "Celestial Kingdom"
+  - "unfolding"
+  - "wisdom"
+  - "mysteries"
+  - "purpose"
+  - "gifts"
+  - "healing the world"
+  - "new souls"
+  - "welcome"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/knowing-the-potentials-of-gods-love-is-an-infinite-journey/"
 ---
 
 # Knowing the Potentials of God's Love Is an Infinite Journey

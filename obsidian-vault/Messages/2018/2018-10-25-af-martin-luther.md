@@ -1,30 +1,35 @@
 ---
-tags:
-  - spirit/martin-luther
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/compassion-and-empathy
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/compassion
-  - keyword/self-compassion
-  - keyword/humility
-  - keyword/fear
-  - keyword/separation
-  - keyword/connection
-  - keyword/channel-of-love
-  - keyword/soul
-  - keyword/awakening
-  - keyword/elixir
-  - keyword/disarming
-  - keyword/strength
-  - keyword/rainbow
-  - keyword/god-s-hand
-  - keyword/honesty
-  - keyword/vulnerability
+message_id: 2018-10-25-af-martin-luther
 aliases: ["Compassion as an Expression of Love for Self and Others"]
 date: 2018-10-25
+spirit: "[[Spirits/martin-luther|Martin Luther]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/compassion-and-empathy|Compassion & Empathy]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "compassion"
+  - "self-compassion"
+  - "humility"
+  - "fear"
+  - "separation"
+  - "connection"
+  - "channel of love"
+  - "soul"
+  - "awakening"
+  - "elixir"
+  - "disarming"
+  - "strength"
+  - "rainbow"
+  - "God's hand"
+  - "honesty"
+  - "vulnerability"
+canonical_url: "https://divinelovesanctuary.com/compassion-as-an-expression-of-love-for-self-and-others/"
 ---
 
 # Compassion as an Expression of Love for Self and Others

@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/collective-awakening-and-redemption
-  - subject/divine-will-guidance-and-orchestration
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/god-s-touch
-  - keyword/prayer
-  - keyword/ripples
-  - keyword/instruments-of-god
-  - keyword/channel-of-love
-  - keyword/loving-intention
-  - keyword/circle-of-light
-  - keyword/world-change
-  - keyword/flame-of-love
-  - keyword/guidance
-  - keyword/longing
-  - keyword/no-turning-back
-  - keyword/touching-souls
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
-  - chain/bell-toll-instrumentality
+message_id: 2016-03-12-af-john-the-beloved
 aliases: ["God's Touch in the World"]
 date: 2016-03-12
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "God's touch"
+  - "prayer"
+  - "ripples"
+  - "instruments of God"
+  - "channel of love"
+  - "loving intention"
+  - "Circle of Light"
+  - "world change"
+  - "flame of love"
+  - "guidance"
+  - "longing"
+  - "no turning back"
+  - "touching souls"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/bell-toll-instrumentality]]"
 ---
 
 # God's Touch in the World

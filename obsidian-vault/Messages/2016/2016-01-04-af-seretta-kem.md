@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/divine-love-healing
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/celestial-governance-and-spiritual-law/law-of-attraction
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/healing
-  - keyword/comforter
-  - keyword/channel-of-love
-  - keyword/healing-group
-  - keyword/intention
-  - keyword/soul-vs-mind
-  - keyword/spirit-influence
-  - keyword/singleness-of-purpose
-  - keyword/prayer
-  - keyword/god-s-will
-  - keyword/bowl-for-healing
-  - keyword/service
-  - keyword/group-prayer
-  - collection/service-and-mission
-  - collection/healing-path
-  - chain/healing-channel
-  - chain/mind-vs-soul
+message_id: 2016-01-04-af-seretta-kem
 aliases: ["On Being a Comforter in This World"]
 date: 2016-01-04
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/divine-love-healing|Divine Love Healing]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/law-of-attraction|Law of Attraction]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "healing"
+  - "comforter"
+  - "channel of Love"
+  - "healing group"
+  - "intention"
+  - "soul vs mind"
+  - "spirit influence"
+  - "singleness of purpose"
+  - "prayer"
+  - "God's Will"
+  - "bowl for healing"
+  - "service"
+  - "group prayer"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/healing-path|Healing Path]]"
+chains:
+  - "[[Chains/healing-channel]]"
+  - "[[Chains/mind-vs-soul]]"
 ---
 
 # On Being a Comforter in This World

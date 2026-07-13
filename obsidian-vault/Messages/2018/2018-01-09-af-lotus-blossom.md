@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/lotus-blossom
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-community-and-fellowship
-  - subject/preparation-for-earth-mission
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/circle-of-seven
-  - keyword/gifts
-  - keyword/sight
-  - keyword/aura
-  - keyword/spiritual-perception
-  - keyword/intuition
-  - keyword/hearing-angels
-  - keyword/soul-faculties
-  - keyword/flowers
-  - keyword/budding
-  - keyword/awakening
-  - keyword/signs-and-miracles
-  - keyword/trust
-  - keyword/peace
-  - essential/prophecy
+message_id: 2018-01-09-af-lotus-blossom
 aliases: ["Many Gifts for the Circle of Seven"]
 date: 2018-01-09
+spirit: "[[Spirits/lotus-blossom|Lotus Blossom]]"
+medium: "Al Fike"
+location: "Abbotsford, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "circle of seven"
+  - "gifts"
+  - "sight"
+  - "aura"
+  - "spiritual perception"
+  - "intuition"
+  - "hearing angels"
+  - "soul faculties"
+  - "flowers"
+  - "budding"
+  - "awakening"
+  - "signs and miracles"
+  - "trust"
+  - "peace"
+essential_teachings:
+  - "Prophecy"
+canonical_url: "https://divinelovesanctuary.com/many-gifts-for-the-circle-of-seven-2/"
 ---
 
 # Many Gifts for the Circle of Seven

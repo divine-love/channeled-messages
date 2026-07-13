@@ -1,28 +1,35 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/blessing
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/enlightenment
-  - keyword/soul-gifts
-  - keyword/blessing
-  - keyword/prayer
-  - keyword/at-onement
-  - keyword/consciousness
-  - keyword/faith
-  - keyword/channel-of-love
-  - keyword/healing
-  - keyword/world
-  - keyword/grace
-  - keyword/angels
-  - keyword/opening
-  - keyword/new-beginning
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-22-af-john-the-beloved
 aliases: ["John Gives a Prayer for Greater Enlightenment"]
 date: 2015-08-22
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Blessing"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "enlightenment"
+  - "soul gifts"
+  - "blessing"
+  - "prayer"
+  - "at-onement"
+  - "consciousness"
+  - "faith"
+  - "channel of love"
+  - "healing"
+  - "world"
+  - "grace"
+  - "angels"
+  - "opening"
+  - "new beginning"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/john-gives-a-prayer-for-greater-enlightenment/"
 ---
 
 # John Gives a Prayer for Greater Enlightenment

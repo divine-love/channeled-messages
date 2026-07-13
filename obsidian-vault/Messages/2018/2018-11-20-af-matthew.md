@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/celestial-governance-and-spiritual-law/law-of-communication-and-rapport
-  - keyword/rest
-  - keyword/prayer
-  - keyword/rhythm
-  - keyword/integration
-  - keyword/healing
-  - keyword/portal-of-light
-  - keyword/soul-growth
-  - keyword/rapport
-  - keyword/attunement
-  - keyword/conscious-awakening
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-11-20-af-matthew
 aliases: ["Rest and Pray to Replenish Yourself"]
 date: 2018-11-20
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/law-of-communication-and-rapport|Law of Communication & Rapport]]"
+keywords:
+  - "rest"
+  - "prayer"
+  - "rhythm"
+  - "integration"
+  - "healing"
+  - "portal of light"
+  - "soul growth"
+  - "rapport"
+  - "attunement"
+  - "conscious awakening"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/rest-and-pray-to-replenish-yourself/"
 ---
 
 # Rest and Pray to Replenish Yourself

@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/soul-healing-and-emotional-restoration/letting-go-of-wounds
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/release
-  - keyword/conditions
-  - keyword/holding-back
-  - keyword/prayer
-  - keyword/preparation
-  - keyword/gathering
-  - keyword/channel-of-love
-  - keyword/harmony
-  - keyword/god-s-love
-  - keyword/freedom
-  - keyword/struggle
-  - keyword/threshold
-  - keyword/joy
-  - keyword/prayerful-attitude
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-03-af-augustine
 aliases: ["Release Those Conditions Within You That Hold You Back"]
 date: 2015-08-03
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/letting-go-of-wounds|Letting Go of Wounds]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "release"
+  - "conditions"
+  - "holding back"
+  - "prayer"
+  - "preparation"
+  - "gathering"
+  - "channel of love"
+  - "harmony"
+  - "God's Love"
+  - "freedom"
+  - "struggle"
+  - "threshold"
+  - "joy"
+  - "prayerful attitude"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/release-conditions-within-hold-back/"
 ---
 
 # Release Those Conditions Within You That Hold You Back

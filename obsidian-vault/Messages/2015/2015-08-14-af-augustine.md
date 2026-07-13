@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/creation-and-incarnation/nature-of-the-soul
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/soul-mind
-  - keyword/soul-consciousness
-  - keyword/soul-perceptions
-  - keyword/freedom
-  - keyword/mind
-  - keyword/awakening
-  - keyword/clarity
-  - keyword/channel-of-love
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2015-08-14-af-augustine
 aliases: ["Freedom Through the Activation of the Soul Mind"]
 date: 2015-08-14
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "soul mind"
+  - "soul consciousness"
+  - "soul perceptions"
+  - "freedom"
+  - "mind"
+  - "awakening"
+  - "clarity"
+  - "channel of love"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
 ---
 
 # Freedom Through the Activation of the Soul Mind

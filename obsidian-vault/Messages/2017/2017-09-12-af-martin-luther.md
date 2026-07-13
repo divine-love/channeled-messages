@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/martin-luther
-  - type/teaching
-  - subject/celestial-governance-and-spiritual-law
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/laws-of-god
-  - keyword/limitations
-  - keyword/ordered-universe
-  - keyword/law-of-divine-love
-  - keyword/natural-love
-  - keyword/purification
-  - keyword/personal-responsibility
-  - keyword/soul-regeneration
-  - keyword/cycles
-  - keyword/at-onement
-  - keyword/spoon-feeding
-  - keyword/harmony
-  - keyword/choices
-  - keyword/awakening
-  - keyword/wisdom
-  - collection/mind-and-soul
-  - collection/two-paths
-  - essential/core-teaching
+message_id: 2017-09-12-af-martin-luther
 aliases: ["Understanding the Laws of Love and the Regeneration of Our Souls"]
 date: 2017-09-12
+spirit: "[[Spirits/martin-luther|Martin Luther]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
+secondary_subjects:
+  - "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "laws of God"
+  - "limitations"
+  - "ordered universe"
+  - "Law of Divine Love"
+  - "natural love"
+  - "purification"
+  - "personal responsibility"
+  - "soul regeneration"
+  - "cycles"
+  - "at-onement"
+  - "spoon feeding"
+  - "harmony"
+  - "choices"
+  - "awakening"
+  - "wisdom"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/understanding-the-laws-of-love-and-the-regeneration-of-our-souls/"
 ---
 
 # Understanding the Laws of Love and the Regeneration of Our Souls

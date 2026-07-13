@@ -1,27 +1,31 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/faith
-  - keyword/god-s-plan
-  - keyword/obstacles
-  - keyword/roadblock
-  - keyword/ministry
-  - keyword/stewardship
-  - keyword/god-s-will
-  - keyword/hope
-  - keyword/prayer
-  - keyword/compassion
-  - keyword/human-condition
-  - keyword/channel-of-light
-  - keyword/perseverance
-  - keyword/trust
+message_id: 2015-06-12-af-faith-nyquist
 aliases: ["Do Not Lose Faith in God's Plan"]
 date: 2015-06-12
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/faith-and-trust|Faith & Trust]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "faith"
+  - "God's plan"
+  - "obstacles"
+  - "roadblock"
+  - "ministry"
+  - "stewardship"
+  - "God's will"
+  - "hope"
+  - "prayer"
+  - "compassion"
+  - "human condition"
+  - "channel of light"
+  - "perseverance"
+  - "trust"
 ---
 
 # Do Not Lose Faith in God's Plan

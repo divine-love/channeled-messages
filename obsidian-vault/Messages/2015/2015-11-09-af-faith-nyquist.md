@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/centers-of-light
-  - keyword/perseverance
-  - keyword/obstacles
-  - keyword/god-s-will
-  - keyword/material-mind
-  - keyword/negotiation
-  - keyword/setbacks
-  - keyword/faith
-  - keyword/spirit-assistance
-  - keyword/channels-of-love
-  - essential/spirit-biography
+message_id: 2015-11-09-af-faith-nyquist
 aliases: ["Persist in Your Faith in Bringing about Centers of Light in the World"]
 date: 2015-11-09
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+secondary_subjects:
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "Centers of Light"
+  - "perseverance"
+  - "obstacles"
+  - "God's Will"
+  - "material mind"
+  - "negotiation"
+  - "setbacks"
+  - "faith"
+  - "spirit assistance"
+  - "channels of love"
+essential_teachings:
+  - "Spirit Biography"
 ---
 
 # Persist in Your Faith in Bringing about Centers of Light in the World

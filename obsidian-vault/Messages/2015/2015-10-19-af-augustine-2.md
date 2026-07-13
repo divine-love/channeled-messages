@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/learning-to-love
-  - keyword/trust
-  - keyword/fellowship
-  - keyword/barriers-to-love
-  - keyword/commitment
-  - keyword/fear
-  - keyword/joy
-  - keyword/community
-  - keyword/shared-journey
-  - keyword/human-condition
-  - keyword/progress
-  - keyword/eternity
-  - keyword/love-one-another
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-10-19-af-augustine-2
 aliases: ["These Are the Days to Learn How to Love"]
 date: 2015-10-19
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "learning to love"
+  - "trust"
+  - "fellowship"
+  - "barriers to love"
+  - "commitment"
+  - "fear"
+  - "joy"
+  - "community"
+  - "shared journey"
+  - "human condition"
+  - "progress"
+  - "eternity"
+  - "love one another"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/these-are-the-days-to-learn-how-to-love/"
 ---
 
 # These Are the Days to Learn How to Love

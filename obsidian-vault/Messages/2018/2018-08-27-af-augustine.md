@@ -1,33 +1,41 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/spiritual-discipline-and-daily-living/compassion-and-empathy
-  - keyword/truth
-  - keyword/illusion
-  - keyword/mind-versus-soul
-  - keyword/soul-perception
-  - keyword/error
-  - keyword/human-condition
-  - keyword/awakening
-  - keyword/divine-love
-  - keyword/cleansing
-  - keyword/river-of-love
-  - keyword/compassion
-  - keyword/patience
-  - keyword/encrustations
-  - keyword/soul-gifts
-  - keyword/humility
-  - keyword/to-be-in-the-world-but-not-of-it
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2018-08-27-af-augustine
 aliases: ["Awakening Our Souls"]
 date: 2018-08-27
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2018 Gibsons Mediumship Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/compassion-and-empathy|Compassion & Empathy]]"
+keywords:
+  - "truth"
+  - "illusion"
+  - "mind versus soul"
+  - "soul perception"
+  - "error"
+  - "human condition"
+  - "awakening"
+  - "Divine Love"
+  - "cleansing"
+  - "river of love"
+  - "compassion"
+  - "patience"
+  - "encrustations"
+  - "soul gifts"
+  - "humility"
+  - "to be in the world but not of it"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/awakening-our-souls/"
 ---
 
 # Awakening Our Souls

@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/channel-of-light
-  - keyword/presence
-  - keyword/wordless-service
-  - keyword/soul-ignition
-  - keyword/daily-life
-  - keyword/intention
-  - keyword/love-and-compassion
-  - keyword/light
-  - keyword/faith
-  - keyword/god-s-instruments
-  - collection/service-and-mission
+message_id: 2019-01-15-af-augustine
 aliases: ["Walk in the World as a Channel of Light"]
 date: 2019-01-15
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "channel of light"
+  - "presence"
+  - "wordless service"
+  - "soul ignition"
+  - "daily life"
+  - "intention"
+  - "love and compassion"
+  - "light"
+  - "faith"
+  - "God's instruments"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/walk-in-the-world-as-a-channel-of-light/"
 ---
 
 # Walk in the World as a Channel of Light

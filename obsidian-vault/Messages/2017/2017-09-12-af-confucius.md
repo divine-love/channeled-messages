@@ -1,29 +1,36 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/celestial-governance-and-spiritual-law
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/time-approaches
-  - keyword/many-angels
-  - keyword/doors-opening
-  - keyword/celestial-kingdom
-  - keyword/instruments
-  - keyword/gifts
-  - keyword/guidance
-  - keyword/lost-souls
-  - keyword/light
-  - keyword/truth
-  - keyword/mission
-  - keyword/prophecy
-  - keyword/prayer
-  - keyword/soul-longing
-  - collection/awakening-humanity
-  - essential/prophecy
+message_id: 2017-09-12-af-confucius
 aliases: ["The Time Approaches"]
 date: 2017-09-12
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "time approaches"
+  - "many angels"
+  - "doors opening"
+  - "Celestial Kingdom"
+  - "instruments"
+  - "gifts"
+  - "guidance"
+  - "lost souls"
+  - "Light"
+  - "Truth"
+  - "mission"
+  - "prophecy"
+  - "prayer"
+  - "soul longing"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Prophecy"
+canonical_url: "https://divinelovesanctuary.com/the-time-approaches/"
 ---
 
 # The Time Approaches

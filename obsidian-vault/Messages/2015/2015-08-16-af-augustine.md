@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/creation-and-incarnation/nature-of-the-soul
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-community-and-fellowship
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/discernment
-  - keyword/soul-guidance
-  - keyword/mind
-  - keyword/exercise
-  - keyword/wisdom
-  - keyword/clarity
-  - keyword/retreat
-  - keyword/laughter
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-16-af-augustine
 aliases: ["Augustine Asks Participants to Consider the Differences Between Our Thoughts and Soul Perceptions"]
 date: 2015-08-16
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "discernment"
+  - "soul guidance"
+  - "mind"
+  - "exercise"
+  - "wisdom"
+  - "clarity"
+  - "retreat"
+  - "laughter"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Augustine Asks Participants to Consider the Differences Between Our Thoughts and Soul Perceptions

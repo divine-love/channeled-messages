@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/divine-love-and-relationship-with-god/god-s-nature-and-essence
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - keyword/hierarchy-of-heaven
-  - keyword/angels
-  - keyword/non-human-angels
-  - keyword/angelic-forces
-  - keyword/celestial-angels
-  - keyword/creation
-  - keyword/soul-faculties
-  - keyword/truth-incremental
-  - keyword/simplicity
-  - keyword/soul-growth
-  - keyword/comprehension
-  - keyword/universe
-  - keyword/curiosity-of-mind
-  - keyword/elements-of-creation
-  - keyword/soul-perception
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-09-08-af-augustine
 aliases: ["The Hierarchy of Heaven"]
 date: 2018-09-08
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/god-s-nature-and-essence|God's Nature & Essence]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+keywords:
+  - "hierarchy of heaven"
+  - "angels"
+  - "non-human angels"
+  - "angelic forces"
+  - "Celestial Angels"
+  - "creation"
+  - "soul faculties"
+  - "truth incremental"
+  - "simplicity"
+  - "soul growth"
+  - "comprehension"
+  - "universe"
+  - "curiosity of mind"
+  - "elements of creation"
+  - "soul perception"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/the-hierarchy-of-heaven/"
 ---
 
 # The Hierarchy of Heaven

@@ -1,29 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - keyword/material-mind
-  - keyword/soul-mind
-  - keyword/reality
-  - keyword/illusion
-  - keyword/materialism
-  - keyword/science
-  - keyword/soul-faculties
-  - keyword/fusion
-  - keyword/pioneers
-  - keyword/truth
-  - collection/mind-and-soul
-  - collection/two-paths
-  - essential/core-teaching
-  - chain/mind-vs-soul
-  - chain/soul-faculties
+message_id: 2018-12-02-af-augustine
 aliases: ["All Truth Comes from the Soul: Part 2"]
 date: 2018-12-02
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+keywords:
+  - "material mind"
+  - "soul mind"
+  - "reality"
+  - "illusion"
+  - "materialism"
+  - "science"
+  - "soul faculties"
+  - "fusion"
+  - "pioneers"
+  - "truth"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/soul-faculties]]"
+canonical_url: "https://divinelovesanctuary.com/all-truth-comes-from-the-soul-part-2/"
 ---
 
 # All Truth Comes from the Soul: Part 2

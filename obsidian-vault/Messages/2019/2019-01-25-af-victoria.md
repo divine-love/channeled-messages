@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/victoria
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - keyword/spirit-communication
-  - keyword/queen-victoria
-  - keyword/s-ances
-  - keyword/angelic-spirits
-  - keyword/rare-gift
-  - keyword/lost-souls
-  - keyword/world-of-spirit
-  - keyword/high-calibre
-  - keyword/direct-voice
-  - keyword/hope
-  - collection/letters-from-history
+message_id: 2019-01-25-af-victoria
 aliases: ["Continue Your Efforts"]
 date: 2019-01-25
+spirit: "[[Spirits/victoria|Victoria]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+keywords:
+  - "spirit communication"
+  - "Queen Victoria"
+  - "séances"
+  - "angelic spirits"
+  - "rare gift"
+  - "lost souls"
+  - "world of spirit"
+  - "high calibre"
+  - "direct voice"
+  - "hope"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+canonical_url: "https://divinelovesanctuary.com/continue-your-efforts/"
 ---
 
 # Continue Your Efforts

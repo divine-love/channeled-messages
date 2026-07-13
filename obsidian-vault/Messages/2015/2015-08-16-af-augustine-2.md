@@ -1,23 +1,29 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/divine-will-guidance-and-orchestration
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/gifts
-  - keyword/application
-  - keyword/god-s-will
-  - keyword/commitment
-  - keyword/service
-  - keyword/discernment
-  - keyword/retreat
-  - keyword/potential
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-16-af-augustine-2
 aliases: ["Application of Your Spiritual Gifts Is Required"]
 date: 2015-08-16
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "gifts"
+  - "application"
+  - "God's will"
+  - "commitment"
+  - "service"
+  - "discernment"
+  - "retreat"
+  - "potential"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Application of Your Spiritual Gifts Is Required

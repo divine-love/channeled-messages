@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-identity-and-destiny
-  - subject/spiritual-community-and-fellowship
-  - keyword/retreat
-  - keyword/gifts
-  - keyword/purpose
-  - keyword/hidden-treasures
-  - keyword/fear
-  - keyword/rejection
-  - keyword/judgment
-  - keyword/mask
-  - keyword/step-forward
-  - keyword/god-s-will
-  - keyword/service
-  - keyword/salvation-of-mankind
-  - keyword/soul-awareness
-  - keyword/revelation
-  - keyword/international-gathering
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-15-af-augustine
 aliases: ["Speaking to a Divine Love Retreat Group: Be Open to New Possibilities"]
 date: 2015-08-15
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "retreat"
+  - "gifts"
+  - "purpose"
+  - "hidden treasures"
+  - "fear"
+  - "rejection"
+  - "judgment"
+  - "mask"
+  - "step forward"
+  - "God's will"
+  - "service"
+  - "salvation of mankind"
+  - "soul awareness"
+  - "revelation"
+  - "international gathering"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/speaking-divine-love-retreat-group-open-new-possibilities/"
 ---
 
 # Speaking to a Divine Love Retreat Group: Be Open to New Possibilities

@@ -1,28 +1,37 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - keyword/jesus
-  - keyword/spirit-guides
-  - keyword/mediumship
-  - keyword/false-claims
-  - keyword/assignment
-  - keyword/humility
-  - keyword/celestial-kingdom
-  - keyword/soul-mind
-  - keyword/conduit
-  - keyword/expectation
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - mentions/jesus
-  - chain/divine-love-mediumship
+message_id: 2019-01-30-af-seretta-kem
 aliases: ["Jesus Assigns Spirit Guides"]
 date: 2019-01-30
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+keywords:
+  - "Jesus"
+  - "spirit guides"
+  - "mediumship"
+  - "false claims"
+  - "assignment"
+  - "humility"
+  - "Celestial Kingdom"
+  - "soul mind"
+  - "conduit"
+  - "expectation"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/divine-love-mediumship]]"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/jesus-assigns-spirit-guides/"
 ---
 
 # Jesus Assigns Spirit Guides

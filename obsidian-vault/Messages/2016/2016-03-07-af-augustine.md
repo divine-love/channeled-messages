@@ -1,32 +1,38 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/collective-awakening-and-redemption
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/soul-healing-and-emotional-restoration
-  - keyword/sensitive-souls
-  - keyword/saving-grace
-  - keyword/swift-progression
-  - keyword/examples
-  - keyword/choosing-love
-  - keyword/compassion-over-judgment
-  - keyword/redemption
-  - keyword/channel-of-love
-  - keyword/sowing-seeds
-  - keyword/protection
-  - keyword/authenticity
-  - keyword/tender-hearts
-  - keyword/pearl-of-great-price
-  - keyword/self-love
-  - collection/awakening-humanity
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
-  - chain/sensitive-souls-redemptive
+message_id: 2016-03-07-af-augustine
 aliases: ["Sensitive Souls Are the Saviours of This World"]
 date: 2016-03-07
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+keywords:
+  - "sensitive souls"
+  - "saving grace"
+  - "swift progression"
+  - "examples"
+  - "choosing love"
+  - "compassion over judgment"
+  - "redemption"
+  - "channel of love"
+  - "sowing seeds"
+  - "protection"
+  - "authenticity"
+  - "tender hearts"
+  - "pearl of great price"
+  - "self-love"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/sensitive-souls-redemptive]]"
 ---
 
 # Sensitive Souls Are the Saviours of This World

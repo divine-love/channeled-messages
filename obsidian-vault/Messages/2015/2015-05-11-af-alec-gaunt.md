@@ -1,29 +1,33 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-community-and-fellowship
-  - subject/celestial-governance-and-spiritual-law/law-of-activation
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - keyword/network-of-light
-  - keyword/lattice-of-light
-  - keyword/global-prayer
-  - keyword/god-s-plan
-  - keyword/salvation-of-mankind
-  - keyword/loyalty
-  - keyword/prayer
-  - keyword/angels
-  - keyword/protection
-  - keyword/soul-growth
-  - keyword/incremental-growth
-  - keyword/gifts
-  - keyword/faculties
-  - keyword/channel-of-love
-  - keyword/timing
+message_id: 2015-05-11-af-alec-gaunt
 aliases: ["This Network of Light Is Part of God's Plan"]
 date: 2015-05-11
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/law-of-activation|Law of Activation]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+keywords:
+  - "network of light"
+  - "Lattice of Light"
+  - "global prayer"
+  - "God's plan"
+  - "salvation of mankind"
+  - "loyalty"
+  - "prayer"
+  - "angels"
+  - "protection"
+  - "soul growth"
+  - "incremental growth"
+  - "gifts"
+  - "faculties"
+  - "channel of love"
+  - "timing"
 ---
 
 # This Network of Light Is Part of God's Plan

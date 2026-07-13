@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-healing-and-emotional-restoration
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/creation-and-incarnation/natural-love-and-human-development
-  - keyword/expiation
-  - keyword/encrustations
-  - keyword/soul-armor
-  - keyword/fissures
-  - keyword/blockages
-  - keyword/mind-resistance
-  - keyword/divine-love
-  - keyword/natural-path
-  - keyword/holy-spirit
-  - keyword/longing
-  - keyword/sensitivity
-  - keyword/numbness
-  - keyword/at-onement
-  - keyword/testimony
-  - keyword/free-will
-  - collection/healing-path
-  - essential/core-teaching
+message_id: 2017-12-12-af-seretta-kem
 aliases: ["On Soul Expiation"]
 date: 2017-12-12
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/natural-love-and-human-development|Natural Love & Human Development]]"
+keywords:
+  - "expiation"
+  - "encrustations"
+  - "soul armor"
+  - "fissures"
+  - "blockages"
+  - "mind resistance"
+  - "Divine Love"
+  - "natural path"
+  - "Holy Spirit"
+  - "longing"
+  - "sensitivity"
+  - "numbness"
+  - "at-onement"
+  - "testimony"
+  - "free will"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/on-soul-expiation/"
 ---
 
 # On Soul Expiation

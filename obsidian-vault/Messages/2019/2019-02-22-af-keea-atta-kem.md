@@ -1,30 +1,37 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/challenges
-  - keyword/tests
-  - keyword/struggles
-  - keyword/blessings
-  - keyword/soul-strengthening
-  - keyword/channel-of-love
-  - keyword/planting-seeds
-  - keyword/humility
-  - keyword/awakening
-  - keyword/latent-potentials
-  - keyword/faculties-of-the-soul
-  - keyword/service
-  - keyword/each-day-a-gift
-  - keyword/prayer
-  - keyword/guidance
-  - chain/challenges-as-blessings
+message_id: 2019-02-22-af-keea-atta-kem
 aliases: ["Life Challenges Strengthen the Soul, Creating More Powerful Channels of Love"]
 date: 2019-02-22
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: ""
+gathering: "Western Caribbean Cruise"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "challenges"
+  - "tests"
+  - "struggles"
+  - "blessings"
+  - "soul strengthening"
+  - "channel of love"
+  - "planting seeds"
+  - "humility"
+  - "awakening"
+  - "latent potentials"
+  - "faculties of the soul"
+  - "service"
+  - "each day a gift"
+  - "prayer"
+  - "guidance"
+chains:
+  - "[[Chains/challenges-as-blessings]]"
+canonical_url: "https://divinelovesanctuary.com/life-challenges-strengthen-the-soul-creating-more-powerful-channels-of-love/"
 ---
 
 # Life Challenges Strengthen the Soul, Creating More Powerful Channels of Love

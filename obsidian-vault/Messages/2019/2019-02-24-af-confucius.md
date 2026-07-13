@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/instruments-of-love
-  - keyword/harbingers-of-truth
-  - keyword/healing-sessions
-  - keyword/seeking-souls
-  - keyword/teaching
-  - keyword/comfort
-  - keyword/sustenance
-  - keyword/spirit-body
-  - keyword/flame-of-the-father-s-love
-  - keyword/service
-  - keyword/humility
-  - keyword/god-s-chosen-path
-  - keyword/angels-surrounding
-  - keyword/blessing
-  - collection/letters-from-history
-  - collection/healing-path
+message_id: 2019-02-24-af-confucius
 aliases: ["We Use You to Teach Many Souls the Truth"]
 date: 2019-02-24
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Homosassa Springs, Florida, United States"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "instruments of love"
+  - "harbingers of truth"
+  - "healing sessions"
+  - "seeking souls"
+  - "teaching"
+  - "comfort"
+  - "sustenance"
+  - "spirit body"
+  - "flame of the Father's Love"
+  - "service"
+  - "humility"
+  - "God's chosen path"
+  - "angels surrounding"
+  - "blessing"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/we-use-you-to-teach-many-souls-the-truth/"
 ---
 
 # We Use You to Teach Many Souls the Truth

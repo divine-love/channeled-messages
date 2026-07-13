@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/spiritual-identity-and-destiny
-  - subject/earthly-challenges-and-human-condition
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/celestial-governance-and-spiritual-law
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/sensitivity
-  - keyword/spiritual-protection
-  - keyword/law-of-attraction
-  - keyword/thoughts
-  - keyword/conditions
-  - keyword/fear
-  - keyword/acceptance
-  - keyword/unique-souls
-  - keyword/free-will
-  - keyword/divine-path
-  - keyword/immunity
-  - keyword/clouds-and-sun
-  - keyword/judgment
-  - keyword/channel-of-love
-  - keyword/equilibrium
-  - collection/prism-of-the-soul
-  - chain/sensitive-souls-redemptive
+message_id: 2017-01-16-af-keea-atta-kem
 aliases: ["Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually"]
 date: 2017-01-16
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"
+secondary_subjects:
+  - "[[Subjects/earthly-challenges-and-human-condition|Earthly Challenges & Human Condition]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "sensitivity"
+  - "spiritual protection"
+  - "law of attraction"
+  - "thoughts"
+  - "conditions"
+  - "fear"
+  - "acceptance"
+  - "unique souls"
+  - "free will"
+  - "Divine Path"
+  - "immunity"
+  - "clouds and sun"
+  - "judgment"
+  - "channel of love"
+  - "equilibrium"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+chains:
+  - "[[Chains/sensitive-souls-redemptive]]"
+canonical_url: "https://divinelovesanctuary.com/accept-every-unique-soul-differences-will-not-harm-spiritually/"
 ---
 
 # Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually

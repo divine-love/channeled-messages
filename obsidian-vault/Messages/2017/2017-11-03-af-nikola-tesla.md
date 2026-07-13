@@ -1,30 +1,37 @@
 ---
-tags:
-  - spirit/nikola-tesla
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication
-  - subject/manifestations-and-direct-voice
-  - subject/collective-awakening-and-redemption
-  - subject/divine-love-and-relationship-with-god/god-s-nature-and-essence
-  - subject/preparation-for-earth-mission
-  - keyword/tesla
-  - keyword/electricity
-  - keyword/energy
-  - keyword/direct-voice
-  - keyword/mechanics-of-the-universe
-  - keyword/love-as-energy
-  - keyword/scientific-understanding
-  - keyword/soul-maturity
-  - keyword/reconstruction
-  - keyword/harmony
-  - keyword/inventor
-  - keyword/spirit-world
-  - keyword/revelation
-  - collection/letters-from-history
-  - essential/spirit-biography
-  - essential/historical
+message_id: 2017-11-03-af-nikola-tesla
 aliases: ["Tesla Talks About the Power of Love"]
 date: 2017-11-03
+spirit: "[[Spirits/nikola-tesla|Nikola Tesla]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"
+secondary_subjects:
+  - "[[Subjects/manifestations-and-direct-voice|Manifestations & Direct Voice]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/god-s-nature-and-essence|God's Nature & Essence]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+keywords:
+  - "Tesla"
+  - "electricity"
+  - "energy"
+  - "Direct Voice"
+  - "mechanics of the universe"
+  - "Love as energy"
+  - "scientific understanding"
+  - "soul maturity"
+  - "reconstruction"
+  - "harmony"
+  - "inventor"
+  - "spirit world"
+  - "revelation"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Spirit Biography"
+  - "Historical"
+canonical_url: "https://divinelovesanctuary.com/tesla-talks-about-the-power-of-love/"
 ---
 
 # Tesla Talks About the Power of Love

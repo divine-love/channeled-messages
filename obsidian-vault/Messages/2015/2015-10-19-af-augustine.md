@@ -1,23 +1,28 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/discernment
-  - keyword/free-will
-  - keyword/soul-guidance
-  - keyword/decision-making
-  - keyword/purpose
-  - keyword/role
-  - keyword/humility
-  - keyword/acting-on-guidance
-  - keyword/soul-wisdom
+message_id: 2015-10-19-af-augustine
 aliases: ["Choose Well Your Next Steps"]
 date: 2015-10-19
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "DLSF Board Meeting"
+message_type: "Guidance"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "discernment"
+  - "free will"
+  - "soul guidance"
+  - "decision-making"
+  - "purpose"
+  - "role"
+  - "humility"
+  - "acting on guidance"
+  - "soul wisdom"
 ---
 
 # Choose Well Your Next Steps

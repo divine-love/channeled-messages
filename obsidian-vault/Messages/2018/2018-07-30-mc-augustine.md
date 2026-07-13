@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/soul-awakening
-  - keyword/divine-love
-  - keyword/accumulation
-  - keyword/drop-by-drop
-  - keyword/cleansing
-  - keyword/soul-conditions
-  - keyword/material-mind
-  - keyword/harmonization
-  - keyword/soul-voice
-  - keyword/yearning
-  - keyword/prayer
-  - keyword/grace
-  - keyword/union-with-god
-  - keyword/soul-gifts
-  - keyword/earthbound-spirits
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-07-30-mc-augustine
 aliases: ["The Awakening Soul"]
 date: 2018-07-30
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Maureen Cardoso"
+location: "West Vancouver, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "soul awakening"
+  - "Divine Love"
+  - "accumulation"
+  - "drop by drop"
+  - "cleansing"
+  - "soul conditions"
+  - "material mind"
+  - "harmonization"
+  - "soul voice"
+  - "yearning"
+  - "prayer"
+  - "grace"
+  - "union with God"
+  - "soul gifts"
+  - "earthbound spirits"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/the-awakening-soul/"
 ---
 
 # The Awakening Soul

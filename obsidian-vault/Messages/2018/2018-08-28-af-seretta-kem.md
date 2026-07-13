@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/celestial-governance-and-spiritual-law
-  - subject/preparation-for-earth-mission
-  - keyword/soul-gifts
-  - keyword/natural-gifts
-  - keyword/divine-love
-  - keyword/mediumship
-  - keyword/healing
-  - keyword/spiritualism
-  - keyword/elevation
-  - keyword/pentecost
-  - keyword/holy-spirit
-  - keyword/drop-by-drop
-  - keyword/laws-of-love
-  - keyword/at-onement
-  - keyword/channel-of-love
-  - keyword/chemicals-and-energies
-  - keyword/egypt
-  - keyword/healer
-  - keyword/chemist
-  - essential/core-teaching
+message_id: 2018-08-28-af-seretta-kem
 aliases: ["Elevate Your Gifts through Divine Love"]
 date: 2018-08-28
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2018 Gibsons Mediumship Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+keywords:
+  - "soul gifts"
+  - "natural gifts"
+  - "Divine Love"
+  - "mediumship"
+  - "healing"
+  - "spiritualism"
+  - "elevation"
+  - "Pentecost"
+  - "Holy Spirit"
+  - "drop by drop"
+  - "laws of love"
+  - "at-onement"
+  - "channel of love"
+  - "chemicals and energies"
+  - "Egypt"
+  - "healer"
+  - "chemist"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/elevate-your-gifts-through-divine-love/"
 ---
 
 # Elevate Your Gifts through Divine Love

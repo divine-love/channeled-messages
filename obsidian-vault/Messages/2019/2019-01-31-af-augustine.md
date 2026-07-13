@@ -1,31 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/spiritual-discipline-and-daily-living/compassion-and-empathy
-  - keyword/receiving-divine-love
-  - keyword/mind-and-soul
-  - keyword/soul-longing
-  - keyword/religious-diversity
-  - keyword/different-beliefs
-  - keyword/seed-of-love
-  - keyword/spirit-world-education
-  - keyword/acceptance
-  - keyword/testimony
-  - keyword/at-onement
-  - keyword/soul-yearning
-  - keyword/evangelism
-  - collection/two-paths
-  - essential/core-teaching
-  - chain/divine-love-without-knowing
-  - chain/mind-vs-soul
+message_id: 2019-01-31-af-augustine
 aliases: ["How Can a Person Receive Divine Love Without Knowing About It?"]
 date: 2019-01-31
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/compassion-and-empathy|Compassion & Empathy]]"
+keywords:
+  - "receiving Divine Love"
+  - "mind and soul"
+  - "soul longing"
+  - "religious diversity"
+  - "different beliefs"
+  - "seed of Love"
+  - "spirit world education"
+  - "acceptance"
+  - "testimony"
+  - "at-onement"
+  - "soul yearning"
+  - "evangelism"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/divine-love-without-knowing]]"
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/how-can-a-person-receive-divine-love-without-knowing-about-it/"
 ---
 
 # How Can a Person Receive Divine Love Without Knowing About It?

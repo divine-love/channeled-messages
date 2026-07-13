@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/yearning-soul
-  - keyword/curious-mind
-  - keyword/faith
-  - keyword/vulnerability
-  - keyword/armor
-  - keyword/longing
-  - keyword/at-onement
-  - keyword/soul-perceptions
-  - keyword/mind-dominance
-  - keyword/choice
-  - keyword/two-paths
-  - keyword/religion
-  - keyword/materialism
-  - keyword/skepticism
-  - keyword/soul-faculties
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2016-07-10-af-augustine
 aliases: ["Nurturing the Mind or the Soul: It's a Choice"]
 date: 2016-07-10
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "yearning soul"
+  - "curious mind"
+  - "faith"
+  - "vulnerability"
+  - "armor"
+  - "longing"
+  - "at-onement"
+  - "soul perceptions"
+  - "mind dominance"
+  - "choice"
+  - "two paths"
+  - "religion"
+  - "materialism"
+  - "skepticism"
+  - "soul faculties"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/nurturing-the-mind-or-the-soul-its-a-choice/"
 ---
 
 # Nurturing the Mind or the Soul: It's a Choice

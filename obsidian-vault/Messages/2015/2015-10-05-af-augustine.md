@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/blessing
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/cherish
-  - keyword/light
-  - keyword/flame
-  - keyword/prayer
-  - keyword/god-s-love
-  - keyword/gift
-  - keyword/protection
-  - keyword/relationship-with-god
-  - keyword/grace
-  - keyword/joy
-  - keyword/peace
-  - keyword/blessing
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-10-05-af-augustine
 aliases: ["Cherish This Light"]
 date: 2015-10-05
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "cherish"
+  - "light"
+  - "flame"
+  - "prayer"
+  - "God's love"
+  - "gift"
+  - "protection"
+  - "relationship with God"
+  - "grace"
+  - "joy"
+  - "peace"
+  - "blessing"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/cherish-this-light/"
 ---
 
 # Cherish This Light

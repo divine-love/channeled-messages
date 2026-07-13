@@ -1,26 +1,33 @@
 ---
-tags:
-  - spirit/abdullah-latif
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - keyword/prayer
-  - keyword/intercession
-  - keyword/intention
-  - keyword/purity
-  - keyword/love
-  - keyword/wisdom
-  - keyword/free-will
-  - keyword/world-healing
-  - keyword/agent-of-change
-  - keyword/soul-knowing
-  - collection/letters-from-history
-  - essential/core-teaching
+message_id: 2018-11-29-af-abdullah-latif
 aliases: ["The Power of Prayer"]
 date: 2018-11-29
+spirit: "[[Spirits/abdullah-latif|Abdullah Latif]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+keywords:
+  - "prayer"
+  - "intercession"
+  - "intention"
+  - "purity"
+  - "love"
+  - "wisdom"
+  - "free will"
+  - "world healing"
+  - "agent of change"
+  - "soul knowing"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/the-power-of-prayer/"
 ---
 
 # The Power of Prayer

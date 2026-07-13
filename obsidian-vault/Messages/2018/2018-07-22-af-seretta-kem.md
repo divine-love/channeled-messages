@@ -1,34 +1,41 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - keyword/thought-patterns
-  - keyword/habits
-  - keyword/judgment
-  - keyword/self-judgment
-  - keyword/childhood-conditioning
-  - keyword/mind
-  - keyword/soul
-  - keyword/channel-of-love
-  - keyword/discipline
-  - keyword/prayer
-  - keyword/liberation
-  - keyword/human-condition
-  - keyword/free-will
-  - keyword/divine-love
-  - keyword/direct-voice
-  - keyword/soul-faculties
-  - keyword/self-deprecation
-  - keyword/non-judgment
-  - collection/mind-and-soul
-  - essential/core-teaching
+message_id: 2018-07-22-af-seretta-kem
 aliases: ["Release Mind Patterns"]
 date: 2018-07-22
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+keywords:
+  - "thought patterns"
+  - "habits"
+  - "judgment"
+  - "self-judgment"
+  - "childhood conditioning"
+  - "mind"
+  - "soul"
+  - "channel of love"
+  - "discipline"
+  - "prayer"
+  - "liberation"
+  - "human condition"
+  - "free will"
+  - "Divine Love"
+  - "direct voice"
+  - "soul faculties"
+  - "self-deprecation"
+  - "non-judgment"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/release-mind-patterns/"
 ---
 
 # Release Mind Patterns

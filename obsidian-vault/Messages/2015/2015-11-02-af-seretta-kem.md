@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/soul-transformation-and-development
-  - keyword/soul-longing
-  - keyword/beginners
-  - keyword/seekers
-  - keyword/drawn-to-the-light
-  - keyword/soul-desire
-  - keyword/knowledge
-  - keyword/channel-of-love
-  - keyword/gifts
-  - keyword/journey
-  - keyword/truth
+message_id: 2015-11-02-af-seretta-kem
 aliases: ["Seretta Kem Speaks to a Beginners Group"]
 date: 2015-11-02
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+keywords:
+  - "soul longing"
+  - "beginners"
+  - "seekers"
+  - "drawn to the Light"
+  - "soul desire"
+  - "knowledge"
+  - "channel of love"
+  - "gifts"
+  - "journey"
+  - "truth"
 ---
 
 # Seretta Kem Speaks to a Beginners Group

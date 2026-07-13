@@ -1,35 +1,43 @@
 ---
-tags:
-  - spirit/james-padgett
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/james-padgett
-  - keyword/fear
-  - keyword/ego
-  - keyword/recognition
-  - keyword/ministry
-  - keyword/testimony
-  - keyword/unique-story
-  - keyword/embrace
-  - keyword/humility
-  - keyword/natural-path
-  - keyword/divine-path
-  - keyword/words
-  - keyword/love
-  - keyword/channel-of-love
-  - keyword/credibility
-  - keyword/mission
-  - collection/service-and-mission
-  - collection/letters-from-history
-  - essential/core-teaching
-  - essential/spirit-biography
-  - mentions/jesus
+message_id: 2016-08-17-af-james-padgett
 aliases: ["The Minds of Men Hunger for the Reality that Words Create but the Soul Hungers for Love"]
 date: 2016-08-17
+spirit: "[[Spirits/james-padgett|James Padgett]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/discipleship|Discipleship]]"
+secondary_subjects:
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "James Padgett"
+  - "fear"
+  - "ego"
+  - "recognition"
+  - "ministry"
+  - "testimony"
+  - "unique story"
+  - "embrace"
+  - "humility"
+  - "Natural Path"
+  - "Divine Path"
+  - "words"
+  - "love"
+  - "channel of love"
+  - "credibility"
+  - "mission"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/minds-men-hunger-reality-words-create-soul-hungers-love/"
 ---
 
 # The Minds of Men Hunger for the Reality that Words Create but the Soul Hungers for Love

@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earth-changes-and-prophecy
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/collective-awakening-and-redemption
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/soul-encrustations
-  - keyword/group-prayer
-  - keyword/path-divine
-  - keyword/at-onement
-  - keyword/world-changes
-  - keyword/climate
-  - keyword/prophecy
-  - keyword/earthquakes
-  - keyword/rising-seas
-  - keyword/channel-of-love
-  - keyword/gifts
-  - collection/two-paths
-  - collection/awakening-humanity
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - essential/prophecy
+message_id: 2015-08-22-af-augustine-2
 aliases: ["There Is No Greater Pursuit Than the Path of Divine Love"]
 date: 2015-08-22
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "soul encrustations"
+  - "group prayer"
+  - "Path Divine"
+  - "at-onement"
+  - "world changes"
+  - "climate"
+  - "prophecy"
+  - "earthquakes"
+  - "rising seas"
+  - "channel of love"
+  - "gifts"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Prophecy"
 ---
 
 # There Is No Greater Pursuit Than the Path of Divine Love

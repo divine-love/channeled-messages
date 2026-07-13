@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/albert-einstein
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/einstein
-  - keyword/scientists-in-spirit
-  - keyword/spirit-communication
-  - keyword/harmony
-  - keyword/universe
-  - keyword/truth
-  - keyword/coming-changes
-  - keyword/threshold
-  - keyword/conduit
-  - keyword/direct-voice
-  - collection/letters-from-history
+message_id: 2019-01-25-af-albert-einstein
 aliases: ["Many Scientists in Spirit Are Working to Forge Greater Communications between Worlds"]
 date: 2019-01-25
+spirit: "[[Spirits/albert-einstein|Albert Einstein]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "Einstein"
+  - "scientists in spirit"
+  - "spirit communication"
+  - "harmony"
+  - "universe"
+  - "truth"
+  - "coming changes"
+  - "threshold"
+  - "conduit"
+  - "direct voice"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+canonical_url: "https://divinelovesanctuary.com/many-scientists-in-spirit-are-working-to-forge-greater-communications-between-worlds/"
 ---
 
 # Many Scientists in Spirit Are Working to Forge Greater Communications between Worlds

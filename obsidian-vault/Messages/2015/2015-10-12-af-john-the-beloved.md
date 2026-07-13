@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - subject/spiritual-community-and-fellowship/children-and-future-generations
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - keyword/fear
-  - keyword/light
-  - keyword/joy
-  - keyword/protection
-  - keyword/faith
-  - keyword/trust
-  - keyword/loved-ones
-  - keyword/prayer
-  - keyword/acceptance
-  - keyword/channel-of-love
-  - keyword/healing
-  - keyword/peace
-  - keyword/earth-changes
-  - keyword/god-s-hand
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-10-12-af-john-the-beloved
 aliases: ["Continue to Love"]
 date: 2015-10-12
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+secondary_subjects:
+  - "[[Subjects/children-and-future-generations|Children & Future Generations]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+keywords:
+  - "fear"
+  - "light"
+  - "joy"
+  - "protection"
+  - "faith"
+  - "trust"
+  - "loved ones"
+  - "prayer"
+  - "acceptance"
+  - "channel of love"
+  - "healing"
+  - "peace"
+  - "earth changes"
+  - "God's hand"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/continue-to-love/"
 ---
 
 # Continue to Love

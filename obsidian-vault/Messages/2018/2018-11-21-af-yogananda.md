@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/mind
-  - keyword/soul
-  - keyword/judgment
-  - keyword/discipline
-  - keyword/alignment
-  - keyword/channel-of-love
-  - keyword/light
-  - keyword/transformation
-  - keyword/direct-voice
-  - collection/mind-and-soul
-  - collection/letters-from-history
+message_id: 2018-11-21-af-yogananda
 aliases: ["Being a Channel of God's Love Requires Taming the Mind and Exemplifying the Soul"]
 date: 2018-11-21
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "mind"
+  - "soul"
+  - "judgment"
+  - "discipline"
+  - "alignment"
+  - "channel of love"
+  - "light"
+  - "transformation"
+  - "direct voice"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+canonical_url: "https://divinelovesanctuary.com/being-a-channel-of-gods-love-requires-taming-the-mind-and-exemplifying-the-soul/"
 ---
 
 # Being a Channel of God's Love Requires Taming the Mind and Exemplifying the Soul

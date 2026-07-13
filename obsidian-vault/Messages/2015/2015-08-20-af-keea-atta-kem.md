@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-healing-and-emotional-restoration
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/soul-consciousness
-  - keyword/material-mind
-  - keyword/god-s-will
-  - keyword/sacred-place
-  - keyword/holy-communion
-  - keyword/peace
-  - keyword/healing
-  - keyword/wounds
-  - keyword/fear
-  - keyword/wisdom
-  - keyword/alignment
-  - keyword/still-voice
-  - keyword/soul-awareness
-  - keyword/transformation
+message_id: 2015-08-20-af-keea-atta-kem
 aliases: ["Keea Instructs a Group to Go to Their Souls and Live from That Place Rather Than the Material Mind"]
 date: 2015-08-20
+spirit: "[[Spirits/keea-atta-kem|Keea atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "soul consciousness"
+  - "material mind"
+  - "God's will"
+  - "sacred place"
+  - "holy communion"
+  - "peace"
+  - "healing"
+  - "wounds"
+  - "fear"
+  - "wisdom"
+  - "alignment"
+  - "still voice"
+  - "soul awareness"
+  - "transformation"
+canonical_url: "https://divinelovesanctuary.com/keea-instructs-a-group-to-go-to-their-souls-and-live-from-that-place-rather-than-the-material-mind/"
 ---
 
 # Keea Instructs a Group to Go to Their Souls and Live from That Place Rather Than the Material Mind

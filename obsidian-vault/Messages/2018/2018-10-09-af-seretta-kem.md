@@ -1,33 +1,41 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/soul-mind
-  - keyword/material-mind
-  - keyword/integration
-  - keyword/fusion
-  - keyword/consciousness
-  - keyword/soul-faculties
-  - keyword/transformation
-  - keyword/divine-love
-  - keyword/awakening
-  - keyword/chambers-of-the-soul
-  - keyword/oneness
-  - keyword/birthing
-  - keyword/progression
-  - keyword/at-onement
-  - keyword/living-waters
-  - keyword/parched-soul
-  - collection/mind-and-soul
-  - essential/core-teaching
-  - chain/mind-vs-soul
+message_id: 2018-10-09-af-seretta-kem
 aliases: ["The Integration of the Material Mind with the Soul Mind"]
 date: 2018-10-09
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "soul mind"
+  - "material mind"
+  - "integration"
+  - "fusion"
+  - "consciousness"
+  - "soul faculties"
+  - "transformation"
+  - "Divine Love"
+  - "awakening"
+  - "chambers of the soul"
+  - "oneness"
+  - "birthing"
+  - "progression"
+  - "at-onement"
+  - "living waters"
+  - "parched soul"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/the-integration-of-the-material-mind-with-the-soul-mind/"
 ---
 
 # The Integration of the Material Mind with the Soul Mind

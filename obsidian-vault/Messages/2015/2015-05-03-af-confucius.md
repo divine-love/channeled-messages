@@ -1,29 +1,34 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - subject/spiritual-community-and-fellowship
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - keyword/incremental-growth
-  - keyword/spiritual-journey
-  - keyword/ups-and-downs
-  - keyword/soul-harmony
-  - keyword/fellowship
-  - keyword/friction
-  - keyword/tolerance
-  - keyword/acceptance
-  - keyword/channel-of-love
-  - keyword/prayer
-  - keyword/god-s-will
-  - keyword/divine-path
-  - keyword/yoke
-  - keyword/human-condition
-  - chain/incremental-journey
+message_id: 2015-05-03-af-confucius
 aliases: ["The Ups and the Downs of the Journey"]
 date: 2015-05-03
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+secondary_subjects:
+  - "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+keywords:
+  - "incremental growth"
+  - "spiritual journey"
+  - "ups and downs"
+  - "soul harmony"
+  - "fellowship"
+  - "friction"
+  - "tolerance"
+  - "acceptance"
+  - "channel of love"
+  - "prayer"
+  - "God's will"
+  - "Divine Path"
+  - "yoke"
+  - "human condition"
+chains:
+  - "[[Chains/incremental-journey]]"
 ---
 
 # The Ups and the Downs of the Journey

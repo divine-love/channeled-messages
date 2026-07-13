@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-identity-and-destiny
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/soul-gifts
-  - keyword/hidden-gifts
-  - keyword/divine-love
-  - keyword/activation
-  - keyword/potential
-  - keyword/rebirth
-  - keyword/true-self
-  - keyword/service
-  - keyword/channel
-  - keyword/prayer
-  - keyword/transformation
-  - keyword/discovery
-  - keyword/purpose
-  - keyword/healing
+message_id: 2015-08-03-af-confucius
 aliases: ["Many Gifts Lie Within"]
 date: 2015-08-03
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "soul gifts"
+  - "hidden gifts"
+  - "Divine Love"
+  - "activation"
+  - "potential"
+  - "rebirth"
+  - "true self"
+  - "service"
+  - "channel"
+  - "prayer"
+  - "transformation"
+  - "discovery"
+  - "purpose"
+  - "healing"
+canonical_url: "https://divinelovesanctuary.com/many-gifts-lie-within/"
 ---
 
 # Many Gifts Lie Within

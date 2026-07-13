@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - keyword/two-minds
-  - keyword/transition
-  - keyword/soul-mind
-  - keyword/material-mind
-  - keyword/conflict
-  - keyword/in-between
-  - keyword/soul-language
-  - keyword/confusion
-  - keyword/discomfort
-  - keyword/integration
-  - keyword/leap-of-faith
-  - keyword/soul-dominance
-  - keyword/retreat
-  - keyword/prayer
-  - keyword/world-but-not-of-the-world
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2018-06-04-af-augustine
 aliases: ["Transitioning from Mind to Soul"]
 date: 2018-06-04
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+keywords:
+  - "two minds"
+  - "transition"
+  - "soul mind"
+  - "material mind"
+  - "conflict"
+  - "in-between"
+  - "soul language"
+  - "confusion"
+  - "discomfort"
+  - "integration"
+  - "leap of faith"
+  - "soul dominance"
+  - "retreat"
+  - "prayer"
+  - "world but not of the world"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/transitioning-from-mind-to-soul/"
 ---
 
 # Transitioning from Mind to Soul

@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/blessings
-  - keyword/healing
-  - keyword/fellowship
-  - keyword/gathering
-  - keyword/peace-that-passes-all-understanding
-  - keyword/the-flame
-  - keyword/light-cascading
-  - keyword/soul-gifts
-  - keyword/awakening
-  - keyword/prayer-for-one-another
-  - keyword/comfort
-  - keyword/joy
-  - keyword/returning-home-changed
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-03-08-af-augustine
 aliases: ["Blessings From God Are With You"]
 date: 2019-03-08
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Meyersdale, Pennsylvania, United States"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "blessings"
+  - "healing"
+  - "fellowship"
+  - "gathering"
+  - "peace that passes all understanding"
+  - "the flame"
+  - "light cascading"
+  - "soul gifts"
+  - "awakening"
+  - "prayer for one another"
+  - "comfort"
+  - "joy"
+  - "returning home changed"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/blessings-from-god-are-with-you/"
 ---
 
 # Blessings From God Are With You

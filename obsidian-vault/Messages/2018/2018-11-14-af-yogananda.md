@@ -1,21 +1,27 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/guidance
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-community-and-fellowship
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - keyword/truth
-  - keyword/wisdom
-  - keyword/healing
-  - keyword/harmony
-  - keyword/light
-  - keyword/humble-servant
-  - collection/letters-from-history
+message_id: 2018-11-14-af-yogananda
 aliases: ["Yogananda Message from Oz"]
 date: 2018-11-14
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Guidance"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+keywords:
+  - "truth"
+  - "wisdom"
+  - "healing"
+  - "harmony"
+  - "light"
+  - "humble servant"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+canonical_url: "https://divinelovesanctuary.com/yogananda-message-from-oz/"
 ---
 
 # Yogananda Message from Oz

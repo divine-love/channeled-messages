@@ -1,29 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/purpose
-  - keyword/soul-gifts
-  - keyword/god-s-plan
-  - keyword/free-will
-  - keyword/destiny
-  - keyword/fulfillment
-  - keyword/harmonious-expression
-  - keyword/ballet-of-love
-  - keyword/universe
-  - keyword/awakening
-  - collection/prism-of-the-soul
-  - essential/core-teaching
-  - chain/soul-purpose-emergence
-  - chain/free-will-and-gods-plan
+message_id: 2019-01-29-af-augustine
 aliases: ["Does Every Soul Have a Purpose?"]
 date: 2019-01-29
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "purpose"
+  - "soul gifts"
+  - "God's plan"
+  - "free will"
+  - "destiny"
+  - "fulfillment"
+  - "harmonious expression"
+  - "ballet of love"
+  - "universe"
+  - "awakening"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/soul-purpose-emergence]]"
+  - "[[Chains/free-will-and-gods-plan]]"
+canonical_url: "https://divinelovesanctuary.com/does-every-soul-have-a-purpose/"
 ---
 
 # Does Every Soul Have a Purpose?

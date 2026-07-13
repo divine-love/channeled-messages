@@ -1,22 +1,27 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/blessing
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/healing
-  - keyword/blessing
-  - keyword/permanent
-  - keyword/barriers
-  - keyword/soul-progression
-  - keyword/retreat
-  - keyword/unique-gift
-  - keyword/channel-of-love
+message_id: 2015-08-17-af-seretta-kem
 aliases: ["A Special Blessing to Those at the Gibsons Retreat"]
 date: 2015-08-17
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Blessing"
+primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "healing"
+  - "blessing"
+  - "permanent"
+  - "barriers"
+  - "soul progression"
+  - "retreat"
+  - "unique gift"
+  - "channel of love"
 ---
 
 # A Special Blessing to Those at the Gibsons Retreat

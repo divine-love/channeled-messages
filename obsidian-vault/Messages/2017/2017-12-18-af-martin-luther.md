@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/martin-luther
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/responsibility
-  - keyword/application
-  - keyword/old-patterns
-  - keyword/conscious-choice
-  - keyword/human-condition
-  - keyword/sensitivity
-  - keyword/soul-expression
-  - keyword/maturity
-  - keyword/habits
-  - keyword/polluting-the-soul
-  - keyword/world
-  - keyword/test
-  - keyword/momentum
-  - keyword/channel-of-love
-  - collection/mind-and-soul
+message_id: 2017-12-18-af-martin-luther
 aliases: ["The Responsibility of Acting in Love Lies with You"]
 date: 2017-12-18
+spirit: "[[Spirits/martin-luther|Martin Luther]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "responsibility"
+  - "application"
+  - "old patterns"
+  - "conscious choice"
+  - "human condition"
+  - "sensitivity"
+  - "soul expression"
+  - "maturity"
+  - "habits"
+  - "polluting the soul"
+  - "world"
+  - "test"
+  - "momentum"
+  - "channel of love"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+canonical_url: "https://divinelovesanctuary.com/the-responsibility-of-acting-in-love-lies-with-you/"
 ---
 
 # The Responsibility of Acting in Love Lies with You

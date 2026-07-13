@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - keyword/centre-of-light
-  - keyword/church
-  - keyword/commitment
-  - keyword/shelter
-  - keyword/world-changes
-  - keyword/germinating
-  - keyword/outreach
-  - keyword/service
-  - keyword/law-of-free-will
-  - keyword/god-s-plan
-  - collection/service-and-mission
-  - collection/awakening-humanity
+message_id: 2019-01-04-af-augustine
 aliases: ["Nurturing This Centre of Light Will Open Many Doors in the Future"]
 date: 2019-01-04
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+keywords:
+  - "Centre of Light"
+  - "church"
+  - "commitment"
+  - "shelter"
+  - "world changes"
+  - "germinating"
+  - "outreach"
+  - "service"
+  - "Law of Free Will"
+  - "God's plan"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+canonical_url: "https://divinelovesanctuary.com/nurturing-this-center-of-light-will-open-many-doors-in-the-future/"
 ---
 
 # Nurturing This Centre of Light Will Open Many Doors in the Future

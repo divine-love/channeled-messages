@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/brother-mandus
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - keyword/brother-mandus
-  - keyword/world-healing-crusade
-  - keyword/world-healing-centre
-  - keyword/blackpool
-  - keyword/england
-  - keyword/new-thought
-  - keyword/healing-organisation
-  - keyword/open-door
-  - keyword/god-s-will
-  - keyword/humble-servant
-  - keyword/opposition
-  - keyword/mind-vs-soul
-  - keyword/lifeboats
-  - keyword/coming-storm
-  - keyword/mandate
-  - collection/letters-from-history
-  - essential/spirit-biography
-  - essential/historical
+message_id: 2016-06-27-af-brother-mandus
 aliases: ["You Will Fulfill Your Mandate to Be a Channel of Love at My Home"]
 date: 2016-06-27
+spirit: "[[Spirits/brother-mandus|Brother Mandus]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+keywords:
+  - "Brother Mandus"
+  - "World Healing Crusade"
+  - "World Healing Centre"
+  - "Blackpool"
+  - "England"
+  - "New Thought"
+  - "healing organisation"
+  - "open door"
+  - "God's Will"
+  - "humble servant"
+  - "opposition"
+  - "mind vs soul"
+  - "lifeboats"
+  - "coming storm"
+  - "mandate"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Spirit Biography"
+  - "Historical"
+canonical_url: "https://divinelovesanctuary.com/you-will-fulfill-your-mandate-to-be-a-channel-of-love-at-my-home/"
 ---
 
 # You Will Fulfill Your Mandate to Be a Channel of Love at My Home

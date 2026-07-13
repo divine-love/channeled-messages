@@ -1,34 +1,41 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/collective-awakening-and-redemption/awakening-mass-consciousness
-  - keyword/awakening
-  - keyword/higher-perspective
-  - keyword/old-patterns
-  - keyword/fear-of-change
-  - keyword/tyranny-of-the-mind
-  - keyword/mind-and-soul-in-harmony
-  - keyword/two-steps-forward
-  - keyword/discipline
-  - keyword/perseverance
-  - keyword/living-waters
-  - keyword/claim-your-soul
-  - keyword/release-fear
-  - keyword/transformation
-  - keyword/god-s-will
-  - collection/mind-and-soul
-  - collection/awakening-humanity
-  - collection/the-saints-and-apostles-speak
-  - chain/mind-vs-soul
-  - chain/incremental-journey
+message_id: 2019-04-04-af-matthew
 aliases: ["Awaken!"]
 date: 2019-04-04
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+  - "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/awakening-mass-consciousness|Awakening Mass Consciousness]]"
+keywords:
+  - "awakening"
+  - "higher perspective"
+  - "old patterns"
+  - "fear of change"
+  - "tyranny of the mind"
+  - "mind and soul in harmony"
+  - "two steps forward"
+  - "discipline"
+  - "perseverance"
+  - "Living Waters"
+  - "claim your soul"
+  - "release fear"
+  - "transformation"
+  - "God's Will"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/incremental-journey]]"
+canonical_url: "https://divinelovesanctuary.com/awaken/"
 ---
 
 # Awaken!

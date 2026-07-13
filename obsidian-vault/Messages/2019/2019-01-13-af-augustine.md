@@ -1,24 +1,29 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/god-s-plan
-  - keyword/lattice-of-light
-  - keyword/sleep-states
-  - keyword/trust
-  - keyword/flow-of-love
-  - keyword/effectiveness
-  - keyword/doubt
-  - keyword/world-connections
-  - keyword/future
-  - keyword/surrender
+message_id: 2019-01-13-af-augustine
 aliases: ["You Are All Part of God's Plan"]
 date: 2019-01-13
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+secondary_subjects:
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "God's plan"
+  - "Lattice of Light"
+  - "sleep states"
+  - "trust"
+  - "flow of love"
+  - "effectiveness"
+  - "doubt"
+  - "world connections"
+  - "future"
+  - "surrender"
+canonical_url: "https://divinelovesanctuary.com/you-are-all-part-of-gods-plan/"
 ---
 
 # You Are All Part of God's Plan

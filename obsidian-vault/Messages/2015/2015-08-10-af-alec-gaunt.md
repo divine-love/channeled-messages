@@ -1,22 +1,26 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/blessing
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/nature-environment-and-god-s-creation/beauty-and-spiritual-joy
-  - subject/spiritual-community-and-fellowship
-  - subject/divine-will-guidance-and-orchestration
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - keyword/trust
-  - keyword/guidance
-  - keyword/joy
-  - keyword/fellowship
-  - keyword/laughter
-  - keyword/surrender
-  - keyword/angels
-  - keyword/willingness
+message_id: 2015-08-10-af-alec-gaunt
 aliases: ["Allow God to Manifest His Love in All That You Do"]
 date: 2015-08-10
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/beauty-and-spiritual-joy|Beauty & Spiritual Joy]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+keywords:
+  - "trust"
+  - "guidance"
+  - "joy"
+  - "fellowship"
+  - "laughter"
+  - "surrender"
+  - "angels"
+  - "willingness"
 ---
 
 # Allow God to Manifest His Love in All That You Do

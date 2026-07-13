@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-warfare-and-opposition/protection-from-negative-influences
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/discernment
-  - keyword/protection
-  - keyword/psychic-gifts
-  - keyword/spiritual-grounding
-  - keyword/cloak-of-protection
-  - keyword/angels
-  - keyword/soul-versus-gifts
-  - keyword/gifted-mediums
-  - keyword/caution
-  - keyword/prayer
-  - keyword/guard-your-condition
-  - keyword/nest-of-love
-  - keyword/little-birds
+message_id: 2018-09-14-af-confucius
 aliases: ["We Will Be with You"]
 date: 2018-09-14
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Phoenix, AZ, USA"
+message_type: "Guidance"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/protection-from-negative-influences|Protection from Negative Influences]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "discernment"
+  - "protection"
+  - "psychic gifts"
+  - "spiritual grounding"
+  - "cloak of protection"
+  - "angels"
+  - "soul versus gifts"
+  - "gifted mediums"
+  - "caution"
+  - "prayer"
+  - "guard your condition"
+  - "nest of love"
+  - "little birds"
+canonical_url: "https://divinelovesanctuary.com/we-will-be-with-you/"
 ---
 
 # We Will Be with You

@@ -1,28 +1,35 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/spiritual-discipline-and-daily-living/humility
-  - keyword/truth
-  - keyword/soul-mind
-  - keyword/material-mind
-  - keyword/spirit-world
-  - keyword/thought-forms
-  - keyword/discernment
-  - keyword/humility
-  - keyword/speculative-mind
-  - keyword/soul-knowing
-  - keyword/living-waters
-  - collection/mind-and-soul
-  - collection/two-paths
-  - essential/core-teaching
+message_id: 2018-11-28-af-augustine
 aliases: ["All Truth Comes from the Soul"]
 date: 2018-11-28
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Fitzroy Falls, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/humility|Humility]]"
+keywords:
+  - "truth"
+  - "soul mind"
+  - "material mind"
+  - "spirit world"
+  - "thought forms"
+  - "discernment"
+  - "humility"
+  - "speculative mind"
+  - "soul knowing"
+  - "living waters"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/all-truth-comes-from-the-soul/"
 ---
 
 # All Truth Comes from the Soul

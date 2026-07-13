@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/service
-  - keyword/network-of-light
-  - keyword/soul-gifts
-  - keyword/reputation
-  - keyword/god-s-plan
-  - keyword/angels
-  - keyword/light-workers
-  - keyword/materialism
-  - keyword/hunger-for-truth
-  - keyword/upheaval
-  - keyword/flame-of-truth
-  - keyword/jesus
-  - keyword/soul-faculties
-  - keyword/god-s-will
-  - keyword/day-by-day
-  - keyword/faith
-  - keyword/precipice
-  - collection/awakening-humanity
-  - essential/core-teaching
-  - chain/preparation-to-be-a-rock
+message_id: 2018-10-24-af-seretta-kem
 aliases: ["Seretta Kem Talks of the Service that May Come"]
 date: 2018-10-24
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "service"
+  - "network of light"
+  - "soul gifts"
+  - "reputation"
+  - "God's plan"
+  - "angels"
+  - "light workers"
+  - "materialism"
+  - "hunger for truth"
+  - "upheaval"
+  - "flame of truth"
+  - "Jesus"
+  - "soul faculties"
+  - "God's will"
+  - "day by day"
+  - "faith"
+  - "precipice"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/preparation-to-be-a-rock]]"
+canonical_url: "https://divinelovesanctuary.com/seretta-kem-talks-of-the-service-that-may-come/"
 ---
 
 # Seretta Kem Talks of the Service that May Come

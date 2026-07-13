@@ -1,29 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - keyword/diverse-beliefs
-  - keyword/unity
-  - keyword/world-changes
-  - keyword/fear
-  - keyword/judgment
-  - keyword/soul-awakening
-  - keyword/mind-based-truth
-  - keyword/new-world
-  - keyword/great-plan
-  - keyword/disorientation
-  - collection/awakening-humanity
-  - collection/two-paths
-  - essential/prophecy
-  - mentions/sri-yarisupta
+message_id: 2019-01-26-af-augustine
 aliases: ["How Diverse Beliefs Can Be Unified"]
 date: 2019-01-26
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+keywords:
+  - "diverse beliefs"
+  - "unity"
+  - "world changes"
+  - "fear"
+  - "judgment"
+  - "soul awakening"
+  - "mind-based truth"
+  - "new world"
+  - "great plan"
+  - "disorientation"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Prophecy"
+mentions:
+  - "[[Spirits/sri-yarisupta]]"
+canonical_url: "https://divinelovesanctuary.com/how-diverse-beliefs-can-be-unified/"
 ---
 
 # How Diverse Beliefs Can Be Unified

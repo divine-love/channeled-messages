@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-discipline-and-daily-living
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - keyword/choice
-  - keyword/free-will
-  - keyword/light
-  - keyword/human-condition
-  - keyword/daily-commitment
-  - keyword/strength
-  - keyword/soul-desires
-  - keyword/wisdom
-  - keyword/despair
-  - keyword/servant-of-god
-  - collection/two-paths
+message_id: 2018-12-17-af-augustine
 aliases: ["God Awaits Your Choice"]
 date: 2018-12-17
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/law-of-free-will|Law of Free Will]]"
+secondary_subjects:
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+keywords:
+  - "choice"
+  - "free will"
+  - "light"
+  - "human condition"
+  - "daily commitment"
+  - "strength"
+  - "soul desires"
+  - "wisdom"
+  - "despair"
+  - "servant of God"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+canonical_url: "https://divinelovesanctuary.com/god-awaits-your-choice/"
 ---
 
 # God Awaits Your Choice

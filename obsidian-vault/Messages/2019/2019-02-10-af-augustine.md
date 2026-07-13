@@ -1,31 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/spiritual-warfare-and-opposition/darkness-vs-light
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development
-  - keyword/choosing-light
-  - keyword/darkness
-  - keyword/the-soul-absorbs
-  - keyword/condition-of-the-soul
-  - keyword/spirit-world-planes
-  - keyword/where-you-begin
-  - keyword/laws-of-creation
-  - keyword/progression
-  - keyword/divine-love
-  - keyword/healing-the-soul
-  - keyword/free-choice
-  - keyword/harmony
-  - keyword/easier-to-grow-on-earth
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/death-transition
-  - chain/earth-conditions-and-prayer
+message_id: 2019-02-10-af-augustine
 aliases: ["Choosing Light Over Darkness"]
 date: 2019-02-10
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Burnaby, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+secondary_subjects:
+  - "[[Subjects/darkness-vs-light|Darkness vs Light]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+keywords:
+  - "choosing light"
+  - "darkness"
+  - "the soul absorbs"
+  - "condition of the soul"
+  - "spirit world planes"
+  - "where you begin"
+  - "Laws of Creation"
+  - "progression"
+  - "Divine Love"
+  - "healing the soul"
+  - "free choice"
+  - "harmony"
+  - "easier to grow on Earth"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/death-transition]]"
+  - "[[Chains/earth-conditions-and-prayer]]"
+canonical_url: "https://divinelovesanctuary.com/choosing-light-over-darkness/"
 ---
 
 # Choosing Light Over Darkness

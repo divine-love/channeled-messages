@@ -1,34 +1,41 @@
 ---
-tags:
-  - spirit/john-wesley
-  - type/teaching
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/collective-awakening-and-redemption
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - keyword/illusion
-  - keyword/awakening
-  - keyword/mind
-  - keyword/soul-faculties
-  - keyword/methodism
-  - keyword/celestial-kingdom
-  - keyword/bell-toll
-  - keyword/dormant-gifts
-  - keyword/true-self
-  - keyword/harmony
-  - keyword/agent-of-change
-  - keyword/intellectual-pursuits
-  - keyword/humility
-  - keyword/love
-  - collection/letters-from-history
-  - collection/mind-and-soul
-  - collection/awakening-humanity
-  - essential/core-teaching
-  - essential/historical
-  - essential/spirit-biography
+message_id: 2018-06-09-af-john-wesley
 aliases: ["All Truth Begins with the Soul Awakened in Love"]
 date: 2018-06-09
+spirit: "[[Spirits/john-wesley|John Wesley]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+keywords:
+  - "illusion"
+  - "awakening"
+  - "mind"
+  - "soul faculties"
+  - "Methodism"
+  - "Celestial Kingdom"
+  - "bell toll"
+  - "dormant gifts"
+  - "true self"
+  - "harmony"
+  - "agent of change"
+  - "intellectual pursuits"
+  - "humility"
+  - "Love"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Historical"
+  - "Spirit Biography"
+canonical_url: "https://divinelovesanctuary.com/all-truth-begins-with-the-soul-awakened-in-love/"
 ---
 
 # All Truth Begins with the Soul Awakened in Love

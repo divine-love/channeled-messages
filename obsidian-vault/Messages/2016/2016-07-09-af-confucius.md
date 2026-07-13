@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - keyword/awakened-soul
-  - keyword/soul-awareness
-  - keyword/truth
-  - keyword/at-onement
-  - keyword/longing
-  - keyword/prayer
-  - keyword/doors
-  - keyword/ignition
-  - keyword/mind
-  - keyword/self-love
-  - keyword/circle-of-light
-  - keyword/plumbing-the-depths
-  - collection/mind-and-soul
+message_id: 2016-07-09-af-confucius
 aliases: ["The Awakened Soul"]
 date: 2016-07-09
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+keywords:
+  - "awakened soul"
+  - "soul awareness"
+  - "Truth"
+  - "at-onement"
+  - "longing"
+  - "prayer"
+  - "doors"
+  - "ignition"
+  - "mind"
+  - "self-love"
+  - "circle of light"
+  - "plumbing the depths"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+canonical_url: "https://divinelovesanctuary.com/the-awakened-soul/"
 ---
 
 # The Awakened Soul

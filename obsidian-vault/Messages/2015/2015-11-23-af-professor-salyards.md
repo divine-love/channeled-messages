@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/professor-salyards
-  - type/guidance
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - keyword/wisdom
-  - keyword/soul-faculties
-  - keyword/truth
-  - keyword/intellect
-  - keyword/teaching
-  - keyword/credibility
-  - keyword/padgett-messages
-  - keyword/prayer
-  - keyword/soul-perception
-  - keyword/vision
-  - mentions/james-padgett
+message_id: 2015-11-23-af-professor-salyards
 aliases: ["Professor Salyards Affirms the Truth Spoken by King Solomon"]
 date: 2015-11-23
+spirit: "[[Spirits/professor-salyards|Professor Salyards]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+keywords:
+  - "wisdom"
+  - "soul faculties"
+  - "truth"
+  - "intellect"
+  - "teaching"
+  - "credibility"
+  - "Padgett messages"
+  - "prayer"
+  - "soul perception"
+  - "vision"
+mentions:
+  - "[[Spirits/james-padgett]]"
 ---
 
 # Professor Salyards Affirms the Truth Spoken by King Solomon

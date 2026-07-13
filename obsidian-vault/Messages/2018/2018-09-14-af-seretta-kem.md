@@ -1,30 +1,35 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/preparation-for-earth-mission
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/purpose-of-life
-  - keyword/spiritualism
-  - keyword/mediumship
-  - keyword/natural-phenomena
-  - keyword/soul-versus-mind
-  - keyword/scepticism
-  - keyword/afterlife
-  - keyword/seeds-planted
-  - keyword/bridges
-  - keyword/divine-love
-  - keyword/direct-voice
-  - keyword/humility
-  - keyword/emissaries
-  - keyword/god-s-work
-  - keyword/light-and-love
-  - keyword/continuance-of-life
+message_id: 2018-09-14-af-seretta-kem
 aliases: ["Awaken Others to the Purpose of Life"]
 date: 2018-09-14
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Phoenix, AZ, USA"
+message_type: "Guidance"
+primary_subject: "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "purpose of life"
+  - "spiritualism"
+  - "mediumship"
+  - "natural phenomena"
+  - "soul versus mind"
+  - "scepticism"
+  - "afterlife"
+  - "seeds planted"
+  - "bridges"
+  - "Divine Love"
+  - "direct voice"
+  - "humility"
+  - "emissaries"
+  - "God's work"
+  - "light and love"
+  - "continuance of life"
+canonical_url: "https://divinelovesanctuary.com/awaken-others-to-the-purpose-of-life/"
 ---
 
 # Awaken Others to the Purpose of Life

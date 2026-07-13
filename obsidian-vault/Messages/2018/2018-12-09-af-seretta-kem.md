@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - keyword/lattice-of-light
-  - keyword/soul-gifts
-  - keyword/flower-of-the-soul
-  - keyword/momentum
-  - keyword/awakening
-  - keyword/soul-chambers
-  - keyword/destiny
-  - keyword/prayer-and-service
-  - keyword/connection
-  - keyword/world-healing
-  - collection/healing-path
+message_id: 2018-12-09-af-seretta-kem
 aliases: ["You Continue to Build the Lattice of Light in Your World"]
 date: 2018-12-09
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+keywords:
+  - "lattice of light"
+  - "soul gifts"
+  - "flower of the soul"
+  - "momentum"
+  - "awakening"
+  - "soul chambers"
+  - "destiny"
+  - "prayer and service"
+  - "connection"
+  - "world healing"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/you-continue-to-build-the-lattice-of-light-in-your-world/"
 ---
 
 # You Continue to Build the Lattice of Light in Your World

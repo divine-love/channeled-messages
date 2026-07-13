@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-empowerment-and-encouragement/overcoming-inadequacy-and-doubt
-  - keyword/hidden-gifts
-  - keyword/treasures-within
-  - keyword/stepping-forward
-  - keyword/fear-of-failure
-  - keyword/worthiness
-  - keyword/perfectionism
-  - keyword/conformity
-  - keyword/being-different
-  - keyword/set-apart
-  - keyword/network-of-light
-  - keyword/trust
-  - keyword/surprising-ways
-  - keyword/potentials
-  - keyword/circle-of-light
-  - collection/prism-of-the-soul
-  - collection/the-saints-and-apostles-speak
-  - chain/mind-vs-soul
+message_id: 2019-04-07-af-augustine
 aliases: ["Walking God's Path of Divine Love Will Bring You Upon A Different Road"]
 date: 2019-04-07
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/overcoming-inadequacy-and-doubt|Overcoming Inadequacy & Doubt]]"
+keywords:
+  - "hidden gifts"
+  - "treasures within"
+  - "stepping forward"
+  - "fear of failure"
+  - "worthiness"
+  - "perfectionism"
+  - "conformity"
+  - "being different"
+  - "set apart"
+  - "network of light"
+  - "trust"
+  - "surprising ways"
+  - "potentials"
+  - "Circle of Light"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/walking-gods-path-of-divine-love-will-bring-you-upon-a-different-road/"
 ---
 
 # Walking God's Path of Divine Love Will Bring You Upon A Different Road

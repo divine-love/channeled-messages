@@ -1,26 +1,35 @@
 ---
-tags:
-  - spirit/mary-magdalene
-  - type/teaching
-  - subject/creation-and-incarnation/soul-mates-and-sacred-union
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - subject/historical-context-and-spiritual-legacy
-  - keyword/mary-magdalene
-  - keyword/jesus
-  - keyword/soulmate-myth
-  - keyword/follower
-  - keyword/ministry
-  - keyword/celestial-kingdom
-  - keyword/confirmation
-  - keyword/truth
-  - keyword/dispelling-myths
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - essential/spirit-biography
-  - mentions/jesus
-  - chain/who-jesus-was
+message_id: 2019-01-29-af-mary-magdalene
 aliases: ["Mary Magdalene Is Not Jesus' Soulmate"]
 date: 2019-01-29
+spirit: "[[Spirits/mary-magdalene|Mary Magdalene]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-mates-and-sacred-union|Soul Mates & Sacred Union]]"
+secondary_subjects:
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+  - "[[Subjects/historical-context-and-spiritual-legacy|Historical Context & Spiritual Legacy]]"
+keywords:
+  - "Mary Magdalene"
+  - "Jesus"
+  - "soulmate myth"
+  - "follower"
+  - "ministry"
+  - "Celestial Kingdom"
+  - "confirmation"
+  - "truth"
+  - "dispelling myths"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+chains:
+  - "[[Chains/who-jesus-was]]"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/mary-magdalene-is-not-jesus-soulmate/"
 ---
 
 # Mary Magdalene Is Not Jesus' Soulmate

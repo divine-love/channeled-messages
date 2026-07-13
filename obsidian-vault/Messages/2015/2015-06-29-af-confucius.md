@@ -1,32 +1,38 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/calm-before-the-storm
-  - keyword/earth-changes
-  - keyword/preparation
-  - keyword/prayer
-  - keyword/cleansing
-  - keyword/expiation
-  - keyword/attachments
-  - keyword/raiments-of-light
-  - keyword/channel-of-love
-  - keyword/god-s-purpose
-  - keyword/storm
-  - keyword/acceleration
-  - keyword/commitment
-  - keyword/faith
-  - keyword/trust
-  - keyword/doors-opening
-  - collection/awakening-humanity
-  - chain/preparation-to-be-a-rock
+message_id: 2015-06-29-af-confucius
 aliases: ["You Must Prepare Yourselves for What Is Coming"]
 date: 2015-06-29
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "calm before the storm"
+  - "earth changes"
+  - "preparation"
+  - "prayer"
+  - "cleansing"
+  - "expiation"
+  - "attachments"
+  - "raiments of light"
+  - "channel of love"
+  - "God's purpose"
+  - "storm"
+  - "acceleration"
+  - "commitment"
+  - "faith"
+  - "trust"
+  - "doors opening"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+chains:
+  - "[[Chains/preparation-to-be-a-rock]]"
 ---
 
 # You Must Prepare Yourselves for What Is Coming

@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/abdullah-latif
-  - type/teaching
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/celestial-governance-and-spiritual-law/law-of-attraction
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/human-condition
-  - keyword/collective-darkness
-  - keyword/free-will
-  - keyword/god-s-creation
-  - keyword/self-compassion
-  - keyword/energetic-conditions
-  - keyword/darkness
-  - keyword/light-bearers
-  - keyword/destiny
-  - keyword/law-of-attraction
-  - collection/letters-from-history
-  - collection/awakening-humanity
+message_id: 2019-01-27-af-abdullah-latif
 aliases: ["Mankind Has the Power to Create Its Own Reality"]
 date: 2019-01-27
+spirit: "[[Spirits/abdullah-latif|Abdullah Latif]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+secondary_subjects:
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/law-of-attraction|Law of Attraction]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "human condition"
+  - "collective darkness"
+  - "free will"
+  - "God's creation"
+  - "self-compassion"
+  - "energetic conditions"
+  - "darkness"
+  - "light bearers"
+  - "destiny"
+  - "Law of Attraction"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+canonical_url: "https://divinelovesanctuary.com/mankind-has-the-power-to-create-its-own-reality/"
 ---
 
 # Mankind Has the Power to Create Its Own Reality

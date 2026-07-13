@@ -1,26 +1,33 @@
 ---
-tags:
-  - spirit/sri-yarisupta
-  - type/teaching
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/divine-love-healing
-  - keyword/healing
-  - keyword/healing-energies
-  - keyword/channel-of-healing
-  - keyword/divine-love-healing
-  - keyword/colours
-  - keyword/open-channel
-  - keyword/soul-gifts
-  - keyword/alignment
-  - keyword/rainbow-of-blessings
-  - keyword/healing-arts
-  - collection/healing-path
-  - essential/divine-healing
+message_id: 2019-01-26-af-sri-yarisupta
 aliases: ["Questions Answered about Divine Love Healing"]
 date: 2019-01-26
+spirit: "[[Spirits/sri-yarisupta|Sri Yarisupta]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/divine-love-healing|Divine Love Healing]]"
+keywords:
+  - "healing"
+  - "healing energies"
+  - "channel of healing"
+  - "Divine Love healing"
+  - "colours"
+  - "open channel"
+  - "soul gifts"
+  - "alignment"
+  - "rainbow of blessings"
+  - "healing arts"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Divine Healing"
+canonical_url: "https://divinelovesanctuary.com/questions-answered-about-divine-love-healing/"
 ---
 
 # Questions Answered about Divine Love Healing

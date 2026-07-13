@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/farewell
-  - keyword/reunion
-  - keyword/treasure
-  - keyword/sharing-truth
-  - keyword/bonds-of-love
-  - keyword/teaching
-  - keyword/healing
-  - keyword/channel-of-love
-  - keyword/patience
-  - keyword/transition
-  - keyword/grace
-  - keyword/redeemed
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2016-04-19-af-augustine
 aliases: ["You Will Come Together Again"]
 date: 2016-04-19
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "farewell"
+  - "reunion"
+  - "treasure"
+  - "sharing truth"
+  - "bonds of love"
+  - "teaching"
+  - "healing"
+  - "channel of love"
+  - "patience"
+  - "transition"
+  - "Grace"
+  - "redeemed"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/will-come-together/"
 ---
 
 # You Will Come Together Again

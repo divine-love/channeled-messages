@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/professor-salyards
-  - type/guidance
-  - subject/manifestations-and-direct-voice
-  - subject/collective-awakening-and-redemption
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - keyword/direct-voice
-  - keyword/padgett-messages
-  - keyword/awakening
-  - keyword/earth-changes
-  - keyword/truth
-  - keyword/soul-faculties
-  - keyword/harmony
-  - keyword/inharmonious-conditions
-  - keyword/humanity
-  - keyword/gifts
-  - keyword/development
-  - keyword/hopeful-expectation
-  - essential/prophecy
-  - essential/historical
+message_id: 2018-01-21-af-professor-salyards
 aliases: ["Who Will Bring the Truth to This World?"]
 date: 2018-01-21
+spirit: "[[Spirits/professor-salyards|Professor Salyards]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/manifestations-and-direct-voice|Manifestations & Direct Voice]]"
+secondary_subjects:
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+keywords:
+  - "direct voice"
+  - "Padgett Messages"
+  - "awakening"
+  - "earth changes"
+  - "Truth"
+  - "soul faculties"
+  - "harmony"
+  - "inharmonious conditions"
+  - "humanity"
+  - "gifts"
+  - "development"
+  - "hopeful expectation"
+essential_teachings:
+  - "Prophecy"
+  - "Historical"
+canonical_url: "https://divinelovesanctuary.com/who-will-bring-the-truth-to-this-world/"
 ---
 
 # Who Will Bring the Truth to This World?

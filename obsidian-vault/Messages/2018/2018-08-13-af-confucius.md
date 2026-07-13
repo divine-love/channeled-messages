@@ -1,23 +1,28 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - keyword/blessing
-  - keyword/peace
-  - keyword/light
-  - keyword/inflowing
-  - keyword/god-s-bounty
-  - keyword/prayer
-  - keyword/supplication
-  - keyword/presence-of-god
-  - keyword/mantle-of-peace
-  - keyword/dark-world
-  - keyword/open-heart
+message_id: 2018-08-13-af-confucius
 aliases: ["Confucius Blesses Us"]
 date: 2018-08-13
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+keywords:
+  - "blessing"
+  - "peace"
+  - "light"
+  - "inflowing"
+  - "God's bounty"
+  - "prayer"
+  - "supplication"
+  - "presence of God"
+  - "mantle of peace"
+  - "dark world"
+  - "open heart"
+canonical_url: "https://divinelovesanctuary.com/confucius-blesses-us/"
 ---
 
 # Confucius Blesses Us

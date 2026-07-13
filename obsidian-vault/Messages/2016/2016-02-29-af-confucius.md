@@ -1,35 +1,42 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-discipline-and-daily-living/compassion-and-empathy
-  - subject/soul-healing-and-emotional-restoration
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/struggle
-  - keyword/progress
-  - keyword/cleansing
-  - keyword/welling-up
-  - keyword/release
-  - keyword/self-love
-  - keyword/compassion
-  - keyword/judgement
-  - keyword/anger
-  - keyword/fear
-  - keyword/free-will
-  - keyword/healing
-  - keyword/barriers
-  - keyword/at-onement
-  - keyword/peace-that-passes-understanding
-  - keyword/faith
-  - collection/healing-path
-  - mentions/luke
-  - chain/soul-expiation
-  - chain/judgment-to-love
-  - chain/self-love-foundation
+message_id: 2016-02-29-af-confucius
 aliases: ["You Struggle but You Do Make Progress"]
 date: 2016-02-29
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/compassion-and-empathy|Compassion & Empathy]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "struggle"
+  - "progress"
+  - "cleansing"
+  - "welling up"
+  - "release"
+  - "self-love"
+  - "compassion"
+  - "judgement"
+  - "anger"
+  - "fear"
+  - "free will"
+  - "healing"
+  - "barriers"
+  - "at-onement"
+  - "peace that passes understanding"
+  - "faith"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+chains:
+  - "[[Chains/soul-expiation]]"
+  - "[[Chains/judgment-to-love]]"
+  - "[[Chains/self-love-foundation]]"
+mentions:
+  - "[[Spirits/luke]]"
 ---
 
 # You Struggle but You Do Make Progress

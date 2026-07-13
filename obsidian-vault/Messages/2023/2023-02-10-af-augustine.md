@@ -1,37 +1,44 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/collective-awakening-and-redemption
-  - subject/soul-healing-and-emotional-restoration
-  - keyword/desensitization
-  - keyword/sensitivity
-  - keyword/re-sensitization
-  - keyword/feelings
-  - keyword/surface-consciousness
-  - keyword/awakening
-  - keyword/barriers
-  - keyword/material-mind
-  - keyword/encrustations
-  - keyword/cleansing
-  - keyword/world-change
-  - keyword/forerunners
-  - keyword/instruments-of-light
-  - keyword/childhood-conditioning
-  - keyword/prayer
-  - collection/awakening-humanity
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/soul-expiation
-  - chain/earth-conditions-and-prayer
-  - chain/earth-changes
-  - chain/mind-vs-soul
+message_id: 2023-02-10-af-augustine
 aliases: ["The Impediments of Soul Awakening"]
 date: 2023-02-10
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: ""
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+keywords:
+  - "desensitization"
+  - "sensitivity"
+  - "re-sensitization"
+  - "feelings"
+  - "surface consciousness"
+  - "awakening"
+  - "barriers"
+  - "material mind"
+  - "encrustations"
+  - "cleansing"
+  - "world change"
+  - "forerunners"
+  - "instruments of light"
+  - "childhood conditioning"
+  - "prayer"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/soul-expiation]]"
+  - "[[Chains/earth-conditions-and-prayer]]"
+  - "[[Chains/earth-changes]]"
+  - "[[Chains/mind-vs-soul]]"
 ---
 
 # The Impediments of Soul Awakening

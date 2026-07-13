@@ -1,26 +1,33 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/world-changes
-  - keyword/darkness
-  - keyword/prayer
-  - keyword/channels-of-love
-  - keyword/year-ahead
-  - keyword/earth-changes
-  - keyword/inhumanity
-  - keyword/soul-awakening
-  - keyword/god-s-plan
-  - keyword/hope
-  - collection/awakening-humanity
-  - essential/prophecy
+message_id: 2018-12-30-af-seretta-kem
 aliases: ["Meet the Coming Changes in the World with Prayer"]
 date: 2018-12-30
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "world changes"
+  - "darkness"
+  - "prayer"
+  - "channels of love"
+  - "year ahead"
+  - "Earth changes"
+  - "inhumanity"
+  - "soul awakening"
+  - "God's plan"
+  - "hope"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Prophecy"
+canonical_url: "https://divinelovesanctuary.com/meet-the-coming-changes-in-the-world-with-prayer/"
 ---
 
 # Meet the Coming Changes in the World with Prayer

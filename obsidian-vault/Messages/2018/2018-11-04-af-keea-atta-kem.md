@@ -1,22 +1,28 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-healing-and-emotional-restoration
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/nurture
-  - keyword/healing
-  - keyword/living-waters
-  - keyword/peace
-  - keyword/soothing-balm
-  - keyword/cleansing
-  - keyword/ocean-of-love
-  - collection/healing-path
+message_id: 2018-11-04-af-keea-atta-kem
 aliases: ["God's Love Will Nurture Your Soul"]
 date: 2018-11-04
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Burnaby, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "nurture"
+  - "healing"
+  - "living waters"
+  - "peace"
+  - "soothing balm"
+  - "cleansing"
+  - "ocean of love"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/gods-love-will-nurture-your-soul/"
 ---
 
 # God's Love Will Nurture Your Soul

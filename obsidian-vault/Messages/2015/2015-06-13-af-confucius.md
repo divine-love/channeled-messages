@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-community-and-fellowship
-  - subject/interdimensional-and-spirit-communication
-  - keyword/prayer-circle
-  - keyword/circle-of-light
-  - keyword/angels
-  - keyword/spirits
-  - keyword/law-of-attraction
-  - keyword/light
-  - keyword/healing
-  - keyword/fellowship
-  - keyword/global-network
-  - keyword/divine-love
-  - keyword/at-onement
-  - keyword/longing
-  - keyword/community
-  - keyword/bonds-of-love
+message_id: 2015-06-13-af-confucius
 aliases: ["The Many Benefits of Praying in a Circle of Light"]
 date: 2015-06-13
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"
+keywords:
+  - "prayer circle"
+  - "circle of light"
+  - "angels"
+  - "spirits"
+  - "law of attraction"
+  - "light"
+  - "healing"
+  - "fellowship"
+  - "global network"
+  - "Divine Love"
+  - "at-onement"
+  - "longing"
+  - "community"
+  - "bonds of love"
+canonical_url: "https://divinelovesanctuary.com/the-many-benefits-of-praying-in-a-circle-of-light/"
 ---
 
 # The Many Benefits of Praying in a Circle of Light

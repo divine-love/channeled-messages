@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/preparation-for-earth-mission
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/new-york
-  - keyword/prayer-practice
-  - keyword/teach-prayer
-  - keyword/lost-souls
-  - keyword/shelter
-  - keyword/testimony
-  - keyword/gradual-awakening
-  - keyword/eternity
-  - keyword/at-onement
-  - keyword/footsteps
-  - keyword/prepare-the-place
-  - keyword/swift
-  - keyword/unfolding
-  - keyword/brothers-and-sisters
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-03-23-af-john-the-beloved
 aliases: ["Your Purpose in This Gathering Is to Teach the Prayer Practice"]
 date: 2015-03-23
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "New York"
+  - "prayer practice"
+  - "teach prayer"
+  - "lost souls"
+  - "shelter"
+  - "testimony"
+  - "gradual awakening"
+  - "eternity"
+  - "at-onement"
+  - "footsteps"
+  - "prepare the place"
+  - "swift"
+  - "unfolding"
+  - "brothers and sisters"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Your Purpose in This Gathering Is to Teach the Prayer Practice

@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/teaching
-  - subject/collective-awakening-and-redemption
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-community-and-fellowship
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/self-realization
-  - keyword/encinitas
-  - keyword/diversity
-  - keyword/acceptance
-  - keyword/tolerance
-  - keyword/interfaith
-  - keyword/celestial-kingdom
-  - keyword/candle
-  - keyword/garden
-  - keyword/biases
-  - keyword/unique-voice
-  - keyword/soul-awakening
-  - keyword/bliss
-  - collection/letters-from-history
-  - essential/core-teaching
-  - essential/spirit-biography
-  - essential/historical
+message_id: 2017-05-13-af-yogananda
 aliases: ["Accept the Diversity that God Created"]
 date: 2017-05-13
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Encinitas, CA, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+secondary_subjects:
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "Self-Realization"
+  - "Encinitas"
+  - "diversity"
+  - "acceptance"
+  - "tolerance"
+  - "interfaith"
+  - "Celestial Kingdom"
+  - "candle"
+  - "garden"
+  - "biases"
+  - "unique voice"
+  - "soul awakening"
+  - "bliss"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+  - "Historical"
+canonical_url: "https://divinelovesanctuary.com/accept-diversity-god-created/"
 ---
 
 # Accept the Diversity that God Created

@@ -1,33 +1,40 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-warfare-and-opposition/god-s-protection-and-care
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration/alignment-with-divine-flow
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/spiritual-empowerment-and-encouragement/overcoming-inadequacy-and-doubt
-  - keyword/provision
-  - keyword/money
-  - keyword/material-support
-  - keyword/monetary-needs
-  - keyword/guilt
-  - keyword/worry
-  - keyword/humility
-  - keyword/balance
-  - keyword/indulgence
-  - keyword/responsibility-for-others
-  - keyword/flow-of-god-s-will
-  - keyword/high-road
-  - keyword/worthiness
-  - keyword/trust
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
-  - mentions/jesus
-  - chain/free-will-and-self-responsibility
+message_id: 2016-04-04-af-augustine
 aliases: ["God Provides for Those Who Serve*"]
 date: 2016-04-04
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/god-s-protection-and-care|God's Protection & Care]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/alignment-with-divine-flow|Alignment with Divine Flow]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/overcoming-inadequacy-and-doubt|Overcoming Inadequacy & Doubt]]"
+keywords:
+  - "provision"
+  - "money"
+  - "material support"
+  - "monetary needs"
+  - "guilt"
+  - "worry"
+  - "humility"
+  - "balance"
+  - "indulgence"
+  - "responsibility for others"
+  - "flow of God's Will"
+  - "high road"
+  - "worthiness"
+  - "trust"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/free-will-and-self-responsibility]]"
+mentions:
+  - "[[Spirits/jesus]]"
 ---
 
 # God Provides for Those Who Serve*

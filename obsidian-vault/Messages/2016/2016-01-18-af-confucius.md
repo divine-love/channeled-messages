@@ -1,32 +1,38 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - keyword/instrumentality
-  - keyword/channel-of-love
-  - keyword/bell-toll
-  - keyword/longing
-  - keyword/living-waters
-  - keyword/at-onement
-  - keyword/free-will
-  - keyword/god-s-will
-  - keyword/awakening
-  - keyword/beacon
-  - keyword/transformation
-  - keyword/prayer
-  - keyword/agent-of-change
-  - keyword/instruments-of-god
-  - collection/service-and-mission
-  - collection/awakening-humanity
-  - chain/bell-toll-instrumentality
-  - chain/free-will-and-gods-plan
+message_id: 2016-01-18-af-confucius
 aliases: ["How the Gift of Love Can Touch a Soul and Change the World"]
 date: 2016-01-18
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Hawaii, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+keywords:
+  - "instrumentality"
+  - "channel of love"
+  - "bell toll"
+  - "longing"
+  - "living waters"
+  - "at-onement"
+  - "free will"
+  - "God's will"
+  - "awakening"
+  - "beacon"
+  - "transformation"
+  - "prayer"
+  - "agent of change"
+  - "instruments of God"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+chains:
+  - "[[Chains/bell-toll-instrumentality]]"
+  - "[[Chains/free-will-and-gods-plan]]"
 ---
 
 # How the Gift of Love Can Touch a Soul and Change the World

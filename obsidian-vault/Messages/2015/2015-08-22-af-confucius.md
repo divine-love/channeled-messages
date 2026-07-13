@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-identity-and-destiny/divine-purpose
-  - subject/spiritual-identity-and-destiny
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/circles-of-light
-  - keyword/purpose
-  - keyword/unique-path
-  - keyword/faith
-  - keyword/stepping-forward
-  - keyword/miracles
-  - keyword/simplicity-of-truth
-  - keyword/humility
-  - keyword/integrity
-  - keyword/god-s-timing
-  - keyword/soul-gifts
-  - keyword/channel-of-love
-  - keyword/truth
-  - keyword/guidance
+message_id: 2015-08-22-af-confucius
 aliases: ["Confucius Urges Group Participants to Start Circles of Light Where They Live"]
 date: 2015-08-22
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/divine-purpose|Divine Purpose]]"
+  - "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "circles of light"
+  - "purpose"
+  - "unique path"
+  - "faith"
+  - "stepping forward"
+  - "miracles"
+  - "simplicity of truth"
+  - "humility"
+  - "integrity"
+  - "God's timing"
+  - "soul gifts"
+  - "channel of love"
+  - "truth"
+  - "guidance"
+canonical_url: "https://divinelovesanctuary.com/confucius-urges-group-participants-to-start-circles-of-light-where-they-live/"
 ---
 
 # Confucius Urges Group Participants to Start Circles of Light Where They Live

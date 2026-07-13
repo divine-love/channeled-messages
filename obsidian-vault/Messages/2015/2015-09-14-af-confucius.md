@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/unity-in-diversity
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - keyword/diversity
-  - keyword/acceptance
-  - keyword/embrace
-  - keyword/channels-of-love
-  - keyword/circles-of-light
-  - keyword/all-cultures
-  - keyword/world-service
-  - keyword/brotherhood
-  - keyword/soul-perception
-  - collection/letters-from-history
+message_id: 2015-09-14-af-confucius
 aliases: ["Embrace All the Children of the World in Love"]
 date: 2015-09-14
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unity-in-diversity|Unity in Diversity]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unity-in-diversity|Unity in Diversity]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+keywords:
+  - "diversity"
+  - "acceptance"
+  - "embrace"
+  - "channels of love"
+  - "Circles of Light"
+  - "all cultures"
+  - "world service"
+  - "brotherhood"
+  - "soul perception"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
 ---
 
 # Embrace All the Children of the World in Love

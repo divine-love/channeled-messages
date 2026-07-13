@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/spiritual-discipline-and-daily-living
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/soul-healing-and-emotional-restoration
-  - keyword/mind-and-soul
-  - keyword/judgment
-  - keyword/acceptance
-  - keyword/unconditional-love
-  - keyword/discipline
-  - keyword/harmony
-  - keyword/taking-things-personally
-  - keyword/channel-of-love
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-11-06-af-augustine
 aliases: ["The Struggle of the Material Mind to Be in Harmony With Love"]
 date: 2018-11-06
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+keywords:
+  - "mind and soul"
+  - "judgment"
+  - "acceptance"
+  - "unconditional love"
+  - "discipline"
+  - "harmony"
+  - "taking things personally"
+  - "channel of love"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/the-struggle-of-the-material-mind-to-be-in-harmony-with-love/"
 ---
 
 # The Struggle of the Material Mind to Be in Harmony With Love

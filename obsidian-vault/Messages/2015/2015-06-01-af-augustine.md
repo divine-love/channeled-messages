@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-discipline-and-daily-living
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/ministry
-  - keyword/titles
-  - keyword/humility
-  - keyword/god-s-will
-  - keyword/church
-  - keyword/compliance
-  - keyword/soul-progression
-  - keyword/fellowship
-  - keyword/divine-path
-  - keyword/grace
-  - keyword/acceptance
-  - keyword/light
-  - keyword/channel-of-love
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-06-01-af-augustine
 aliases: ["Complying to the Will of God"]
 date: 2015-06-01
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "ministry"
+  - "titles"
+  - "humility"
+  - "God's will"
+  - "church"
+  - "compliance"
+  - "soul progression"
+  - "fellowship"
+  - "Divine path"
+  - "grace"
+  - "acceptance"
+  - "light"
+  - "channel of love"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/complying-will-god/"
 ---
 
 # Complying to the Will of God

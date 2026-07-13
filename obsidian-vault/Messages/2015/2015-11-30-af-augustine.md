@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/purpose
-  - keyword/unique-gifts
-  - keyword/legacy
-  - keyword/soul-discovery
-  - keyword/fear
-  - keyword/joy
-  - keyword/at-onement
-  - keyword/god-s-will
-  - keyword/holy-communion
-  - keyword/salvation-of-mankind
-  - collection/prism-of-the-soul
+message_id: 2015-11-30-af-augustine
 aliases: ["Come to Know Your Purpose"]
 date: 2015-11-30
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "purpose"
+  - "unique gifts"
+  - "legacy"
+  - "soul discovery"
+  - "fear"
+  - "joy"
+  - "at-onement"
+  - "God's Will"
+  - "holy communion"
+  - "salvation of mankind"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
 ---
 
 # Come to Know Your Purpose

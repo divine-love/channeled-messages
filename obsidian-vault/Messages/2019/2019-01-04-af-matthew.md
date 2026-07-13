@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/action
-  - keyword/expression
-  - keyword/lion-heart
-  - keyword/gifts
-  - keyword/challenge
-  - keyword/stepping-forward
-  - keyword/soul-expression
-  - keyword/balance
-  - keyword/prayer-and-service
-  - keyword/god-s-instruments
-  - collection/the-saints-and-apostles-speak
-  - collection/service-and-mission
+message_id: 2019-01-04-af-matthew
 aliases: ["Be an Instrument of God's Love as He Provides Opportunities to Step Forth in Light"]
 date: 2019-01-04
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "action"
+  - "expression"
+  - "lion heart"
+  - "gifts"
+  - "challenge"
+  - "stepping forward"
+  - "soul expression"
+  - "balance"
+  - "prayer and service"
+  - "God's instruments"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/be-an-instrument-of-gods-love-as-he-provides-opportunities-to-step-forth-in-light/"
 ---
 
 # Be an Instrument of God's Love as He Provides Opportunities to Step Forth in Light

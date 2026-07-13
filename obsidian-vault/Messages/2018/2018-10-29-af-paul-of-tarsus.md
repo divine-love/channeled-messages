@@ -1,33 +1,40 @@
 ---
-tags:
-  - spirit/paul-of-tarsus
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/natural-love
-  - keyword/divine-love
-  - keyword/two-paths
-  - keyword/sixth-sphere
-  - keyword/celestial-heavens
-  - keyword/at-onement
-  - keyword/soul-purpose
-  - keyword/holy-spirit
-  - keyword/seek-ye-the-kingdom
-  - keyword/invitation
-  - keyword/divine-angels
-  - keyword/longing
-  - keyword/prayer
-  - keyword/gifts-of-the-soul
-  - keyword/ignition
-  - collection/two-paths
-  - collection/letters-from-history
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2018-10-29-af-paul-of-tarsus
 aliases: ["The Value and Purpose of Your Soul"]
 date: 2018-10-29
+spirit: "[[Spirits/paul-of-tarsus|Paul of Tarsus]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "natural love"
+  - "Divine Love"
+  - "two paths"
+  - "sixth sphere"
+  - "Celestial Heavens"
+  - "at-onement"
+  - "soul purpose"
+  - "Holy Spirit"
+  - "seek ye the kingdom"
+  - "invitation"
+  - "Divine Angels"
+  - "longing"
+  - "prayer"
+  - "gifts of the soul"
+  - "ignition"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/the-value-and-purpose-of-your-soul/"
 ---
 
 # The Value and Purpose of Your Soul

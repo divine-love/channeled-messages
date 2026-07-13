@@ -1,27 +1,32 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/preparation-for-earth-mission/readiness-and-spiritual-maturity
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/gifts
-  - keyword/express
-  - keyword/hiding
-  - keyword/boldness
-  - keyword/humility
-  - keyword/reluctance
-  - keyword/fear
-  - keyword/purpose
-  - keyword/unique-soul
-  - keyword/channel-of-love
-  - keyword/family
-  - keyword/torch
-  - keyword/truth
-  - keyword/flowering
+message_id: 2015-11-16-af-alec-gaunt
 aliases: ["Do Not Hide Away but Express Your Gifts in the World"]
 date: 2015-11-16
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/readiness-and-spiritual-maturity|Readiness & Spiritual Maturity]]"
+secondary_subjects:
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "gifts"
+  - "express"
+  - "hiding"
+  - "boldness"
+  - "humility"
+  - "reluctance"
+  - "fear"
+  - "purpose"
+  - "unique soul"
+  - "channel of love"
+  - "family"
+  - "torch"
+  - "truth"
+  - "flowering"
+canonical_url: "https://divinelovesanctuary.com/do-not-hide-away-but-express-your-gifts-in-the-world/"
 ---
 
 # Do Not Hide Away but Express Your Gifts in the World

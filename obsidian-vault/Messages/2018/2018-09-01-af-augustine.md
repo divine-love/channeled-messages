@@ -1,33 +1,42 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/tolling-bell
-  - keyword/light
-  - keyword/magnetism
-  - keyword/channel-of-love
-  - keyword/soul-awakening
-  - keyword/world-service
-  - keyword/truth
-  - keyword/beacon
-  - keyword/at-onement
-  - keyword/god-s-will
-  - keyword/prayer
-  - keyword/born-again
-  - keyword/normalcy
-  - keyword/soul-faculties
-  - keyword/confidence
-  - keyword/outward-service
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/bell-toll-instrumentality
+message_id: 2018-09-01-af-augustine
 aliases: ["The Awakening of Your Souls Brings the Message of Truth to Humanity"]
 date: 2018-09-01
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2018 Gibsons Mediumship Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "tolling bell"
+  - "light"
+  - "magnetism"
+  - "channel of love"
+  - "soul awakening"
+  - "world service"
+  - "truth"
+  - "beacon"
+  - "at-onement"
+  - "God's will"
+  - "prayer"
+  - "born again"
+  - "normalcy"
+  - "soul faculties"
+  - "confidence"
+  - "outward service"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/bell-toll-instrumentality]]"
+canonical_url: "https://divinelovesanctuary.com/the-awakening-of-your-souls-brings-the-message-of-truth-to-humanity/"
 ---
 
 # The Awakening of Your Souls Brings the Message of Truth to Humanity

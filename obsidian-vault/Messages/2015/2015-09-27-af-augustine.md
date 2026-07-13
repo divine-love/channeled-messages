@@ -1,29 +1,36 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-identity-and-destiny/divine-purpose
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/shadows
-  - keyword/mists
-  - keyword/soul-awareness
-  - keyword/self-knowledge
-  - keyword/clarity
-  - keyword/guidance
-  - keyword/purpose
-  - keyword/free-will
-  - keyword/soul-wisdom
-  - keyword/alignment
-  - keyword/obstructions
-  - keyword/inner-knowing
-  - keyword/salvation
-  - keyword/god-s-love
-  - collection/the-saints-and-apostles-speak
-  - mentions/faith-nyquist
+message_id: 2015-09-27-af-augustine
 aliases: ["His Love Clears away the Shadows and the Mists, Allowing You to Know Your Own Souls"]
 date: 2015-09-27
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/divine-purpose|Divine Purpose]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "shadows"
+  - "mists"
+  - "soul awareness"
+  - "self-knowledge"
+  - "clarity"
+  - "guidance"
+  - "purpose"
+  - "free will"
+  - "soul wisdom"
+  - "alignment"
+  - "obstructions"
+  - "inner knowing"
+  - "salvation"
+  - "God's Love"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+mentions:
+  - "[[Spirits/faith-nyquist]]"
+canonical_url: "https://divinelovesanctuary.com/his-love-clears-away-the-shadows-and-the-mists-allowing-you-to-know-your-own-souls/"
 ---
 
 # His Love Clears away the Shadows and the Mists, Allowing You to Know Your Own Souls

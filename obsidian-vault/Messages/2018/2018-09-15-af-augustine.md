@@ -1,32 +1,38 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/preparation-for-earth-mission
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - keyword/arei-conference
-  - keyword/afterlife-research
-  - keyword/mind-versus-soul
-  - keyword/natural-love
-  - keyword/soul-truth
-  - keyword/science-of-the-soul
-  - keyword/innovations
-  - keyword/emissaries
-  - keyword/god-s-plan
-  - keyword/salvation
-  - keyword/vindicated
-  - keyword/vilified
-  - keyword/patience
-  - keyword/god-s-timing
-  - keyword/ancient-truth
-  - keyword/soul-capacities
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-09-15-af-augustine
 aliases: ["Augustine Comments on the Perspective of Many Who Attended the AREI Conference"]
 date: 2018-09-15
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Phoenix, AZ, USA"
+message_type: "Teaching"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+keywords:
+  - "AREI conference"
+  - "afterlife research"
+  - "mind versus soul"
+  - "natural love"
+  - "soul truth"
+  - "science of the soul"
+  - "innovations"
+  - "emissaries"
+  - "God's plan"
+  - "salvation"
+  - "vindicated"
+  - "vilified"
+  - "patience"
+  - "God's timing"
+  - "ancient truth"
+  - "soul capacities"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/augustine-comments-on-the-perspective-of-many-who-attended-the-arei-conference/"
 ---
 
 # Augustine Comments on the Perspective of Many Who Attended the AREI Conference

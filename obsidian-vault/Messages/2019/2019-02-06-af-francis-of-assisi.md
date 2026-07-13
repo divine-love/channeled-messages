@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/francis-of-assisi
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/nature-environment-and-god-s-creation/reverence-for-the-earth
-  - subject/spiritual-discipline-and-daily-living/compassion-and-empathy
-  - keyword/prayer-changes-conditions
-  - keyword/power-of-prayer
-  - keyword/world-healing
-  - keyword/creatures-of-the-world
-  - keyword/balance-and-harmony
-  - keyword/channel-of-love
-  - keyword/release-resentment
-  - keyword/barriers
-  - keyword/salvation-of-mankind
-  - keyword/intercession
-  - keyword/awakening-those-in-darkness
-  - collection/service-and-mission
+message_id: 2019-02-06-af-francis-of-assisi
 aliases: ["Your Prayers May Change the Conditions of the World"]
 date: 2019-02-06
+spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/reverence-for-the-earth|Reverence for the Earth]]"
+  - "[[Subjects/compassion-and-empathy|Compassion & Empathy]]"
+keywords:
+  - "prayer changes conditions"
+  - "power of prayer"
+  - "world healing"
+  - "creatures of the world"
+  - "balance and harmony"
+  - "channel of love"
+  - "release resentment"
+  - "barriers"
+  - "salvation of mankind"
+  - "intercession"
+  - "awakening those in darkness"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/your-prayers-may-change-the-conditions-of-the-world/"
 ---
 
 # Your Prayers May Change the Conditions of the World

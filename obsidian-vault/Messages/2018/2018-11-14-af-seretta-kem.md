@@ -1,23 +1,29 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - keyword/node-of-light
-  - keyword/centre-of-light
-  - keyword/portal
-  - keyword/spiritual-collaboration
-  - keyword/god-s-guidance
-  - keyword/channel-of-love
-  - keyword/humility
-  - keyword/surrender
-  - collection/service-and-mission
+message_id: 2018-11-14-af-seretta-kem
 aliases: ["Open Your Minds and Souls to God's Guidance"]
 date: 2018-11-14
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+keywords:
+  - "node of light"
+  - "centre of light"
+  - "portal"
+  - "spiritual collaboration"
+  - "God's guidance"
+  - "channel of love"
+  - "humility"
+  - "surrender"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/open-your-minds-and-souls-to-gods-guidance/"
 ---
 
 # Open Your Minds and Souls to God's Guidance

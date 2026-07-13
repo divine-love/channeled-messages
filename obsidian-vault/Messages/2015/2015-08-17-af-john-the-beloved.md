@@ -1,21 +1,27 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/blessing
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - keyword/living-waters
-  - keyword/inflowing
-  - keyword/angels
-  - keyword/light
-  - keyword/benediction
-  - keyword/stillness
-  - keyword/divine-presence
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-17-af-john-the-beloved
 aliases: ["Drink Deep These Living Waters"]
 date: 2015-08-17
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Blessing"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+keywords:
+  - "living waters"
+  - "inflowing"
+  - "angels"
+  - "light"
+  - "benediction"
+  - "stillness"
+  - "Divine Presence"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Drink Deep These Living Waters

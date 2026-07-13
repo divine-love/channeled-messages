@@ -1,33 +1,41 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living
-  - subject/collective-awakening-and-redemption
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - keyword/speaking-truth
-  - keyword/silence
-  - keyword/meekness
-  - keyword/humility
-  - keyword/clarity
-  - keyword/materialism
-  - keyword/slumbering-souls
-  - keyword/sin-of-omission
-  - keyword/agents-of-change
-  - keyword/jesus
-  - keyword/direct-voice
-  - keyword/soul-emergence
-  - keyword/strength
-  - keyword/forthright
-  - keyword/seeds-of-truth
-  - keyword/soul-awareness
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - mentions/jesus
+message_id: 2018-09-30-af-augustine
 aliases: ["Time to Speak the Truth"]
 date: 2018-09-30
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+keywords:
+  - "speaking truth"
+  - "silence"
+  - "meekness"
+  - "humility"
+  - "clarity"
+  - "materialism"
+  - "slumbering souls"
+  - "sin of omission"
+  - "agents of change"
+  - "Jesus"
+  - "direct voice"
+  - "soul emergence"
+  - "strength"
+  - "forthright"
+  - "seeds of truth"
+  - "soul awareness"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/time-to-speak-the-truth/"
 ---
 
 # Time to Speak the Truth

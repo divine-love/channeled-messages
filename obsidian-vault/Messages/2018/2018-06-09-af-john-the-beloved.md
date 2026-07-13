@@ -1,30 +1,37 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/collective-awakening-and-redemption
-  - keyword/bees-and-nectar
-  - keyword/soul-longing
-  - keyword/invitation
-  - keyword/god-s-love
-  - keyword/yoke
-  - keyword/human-condition
-  - keyword/preconceptions
-  - keyword/faculties
-  - keyword/plumb-the-depths
-  - keyword/innocence
-  - keyword/at-onement
-  - keyword/circle-of-light
-  - keyword/angels
-  - keyword/benediction
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2018-06-09-af-john-the-beloved
 aliases: ["Seek to Know God Through Love"]
 date: 2018-06-09
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+keywords:
+  - "bees and nectar"
+  - "soul longing"
+  - "invitation"
+  - "God's love"
+  - "yoke"
+  - "human condition"
+  - "preconceptions"
+  - "faculties"
+  - "plumb the depths"
+  - "innocence"
+  - "at-onement"
+  - "circle of light"
+  - "angels"
+  - "benediction"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/seek-to-know-god-through-love/"
 ---
 
 # Seek to Know God Through Love

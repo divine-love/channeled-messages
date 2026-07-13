@@ -1,33 +1,41 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/automatic-writing
-  - keyword/rapport
-  - keyword/pen-and-paper
-  - keyword/invitation
-  - keyword/free-will
-  - keyword/rectify-error
-  - keyword/yoga-teachings
-  - keyword/eastern-path
-  - keyword/spiritual-chemistry
-  - keyword/pioneers
-  - keyword/disillusionment
-  - keyword/persistence
-  - keyword/publication
-  - keyword/portal
-  - keyword/humility
-  - collection/letters-from-history
-  - essential/historical
-  - chain/religious-error
-  - chain/divine-love-mediumship
+message_id: 2019-04-06-af-yogananda
 aliases: ["Your Gifts Are Opening"]
 date: 2019-04-06
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "automatic writing"
+  - "rapport"
+  - "pen and paper"
+  - "invitation"
+  - "free will"
+  - "rectify error"
+  - "yoga teachings"
+  - "Eastern path"
+  - "spiritual chemistry"
+  - "pioneers"
+  - "disillusionment"
+  - "persistence"
+  - "publication"
+  - "portal"
+  - "humility"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Historical"
+chains:
+  - "[[Chains/religious-error]]"
+  - "[[Chains/divine-love-mediumship]]"
+canonical_url: "https://divinelovesanctuary.com/your-gifts-are-opening/"
 ---
 
 # Your Gifts Are Opening

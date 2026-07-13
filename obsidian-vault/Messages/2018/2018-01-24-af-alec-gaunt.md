@@ -1,29 +1,34 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/threshold
-  - keyword/change
-  - keyword/new-life
-  - keyword/timing
-  - keyword/transition
-  - keyword/soul-faculties
-  - keyword/gifts
-  - keyword/courage
-  - keyword/bravery
-  - keyword/dynamic-life
-  - keyword/surprises
-  - keyword/harmony
-  - keyword/channel-of-love
-  - keyword/scales
-  - keyword/wisdom
+message_id: 2018-01-24-af-alec-gaunt
 aliases: ["New Thresholds, New Life"]
 date: 2018-01-24
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+secondary_subjects:
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "threshold"
+  - "change"
+  - "new life"
+  - "timing"
+  - "transition"
+  - "soul faculties"
+  - "gifts"
+  - "courage"
+  - "bravery"
+  - "dynamic life"
+  - "surprises"
+  - "harmony"
+  - "channel of love"
+  - "scales"
+  - "wisdom"
+canonical_url: "https://divinelovesanctuary.com/new-thresholds-new-life/"
 ---
 
 # New Thresholds, New Life

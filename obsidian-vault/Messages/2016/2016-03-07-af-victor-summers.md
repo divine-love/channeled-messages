@@ -1,30 +1,35 @@
 ---
-tags:
-  - spirit/victor-summers
-  - type/guidance
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration
-  - keyword/seventh-sphere
-  - keyword/progression
-  - keyword/redemption
-  - keyword/doubt
-  - keyword/unworthiness
-  - keyword/self-love
-  - keyword/healing
-  - keyword/ministry
-  - keyword/achilles-heel
-  - keyword/encrustments
-  - keyword/celestial-kingdom
-  - keyword/service
-  - keyword/peace-that-passes-understanding
-  - keyword/angels
-  - mentions/james-padgett
-  - mentions/jesus
+message_id: 2016-03-07-af-victor-summers
 aliases: ["Greetings from Victor Summers"]
 date: 2016-03-07
+spirit: "[[Spirits/victor-summers|Victor Summers]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+secondary_subjects:
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+keywords:
+  - "Seventh Sphere"
+  - "progression"
+  - "redemption"
+  - "doubt"
+  - "unworthiness"
+  - "self-love"
+  - "healing"
+  - "ministry"
+  - "Achilles heel"
+  - "encrustments"
+  - "Celestial Kingdom"
+  - "service"
+  - "peace that passes understanding"
+  - "angels"
+mentions:
+  - "[[Spirits/james-padgett]]"
+  - "[[Spirits/jesus]]"
 ---
 
 # Greetings from Victor Summers

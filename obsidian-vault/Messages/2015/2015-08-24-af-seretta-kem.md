@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/manifestations-and-direct-voice
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/manifestations
-  - keyword/spirit-laws
-  - keyword/material-objects
-  - keyword/healing
-  - keyword/love
-  - keyword/focus
-  - keyword/curiosity
-  - keyword/soul-to-soul
-  - keyword/truth
-  - keyword/god-s-plan
-  - keyword/faith
-  - keyword/light
-  - keyword/power-of-spirit
+message_id: 2015-08-24-af-seretta-kem
 aliases: ["Material Manifestations Will Come in Time"]
 date: 2015-08-24
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/manifestations-and-direct-voice|Manifestations & Direct Voice]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "manifestations"
+  - "spirit laws"
+  - "material objects"
+  - "healing"
+  - "Love"
+  - "focus"
+  - "curiosity"
+  - "soul to soul"
+  - "truth"
+  - "God's plan"
+  - "faith"
+  - "light"
+  - "power of spirit"
+canonical_url: "https://divinelovesanctuary.com/material-manifestations-will-come-time/"
 ---
 
 # Material Manifestations Will Come in Time

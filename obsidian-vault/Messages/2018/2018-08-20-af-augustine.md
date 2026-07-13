@@ -1,36 +1,43 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earth-changes-and-prophecy
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/preparation-for-earth-mission
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - keyword/earth-changes
-  - keyword/fires
-  - keyword/floods
-  - keyword/imbalance
-  - keyword/humanity
-  - keyword/free-will
-  - keyword/god-s-plan
-  - keyword/salvation
-  - keyword/prayer
-  - keyword/faith
-  - keyword/joy
-  - keyword/divine-love
-  - keyword/darkness
-  - keyword/light
-  - keyword/celestial-heavens
-  - keyword/natural-love
-  - keyword/harmony
-  - keyword/momentum
-  - keyword/prophecy
-  - collection/awakening-humanity
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2018-08-20-af-augustine
 aliases: ["Commentary on Earth Changes"]
 date: 2018-08-20
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+secondary_subjects:
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+keywords:
+  - "earth changes"
+  - "fires"
+  - "floods"
+  - "imbalance"
+  - "humanity"
+  - "free will"
+  - "God's plan"
+  - "salvation"
+  - "prayer"
+  - "faith"
+  - "joy"
+  - "Divine Love"
+  - "darkness"
+  - "light"
+  - "Celestial Heavens"
+  - "natural love"
+  - "harmony"
+  - "momentum"
+  - "prophecy"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/commentary-on-earth-changes/"
 ---
 
 # Commentary on Earth Changes

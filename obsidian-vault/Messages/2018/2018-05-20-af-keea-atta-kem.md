@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-community-and-fellowship
-  - subject/preparation-for-earth-mission
-  - keyword/circle-of-seven
-  - keyword/gathering
-  - keyword/physical-presence
-  - keyword/coming-together
-  - keyword/spiritual-melding
-  - keyword/gifts
-  - keyword/development
-  - keyword/upliftment
-  - keyword/bonds
-  - keyword/circle-of-gold
-  - keyword/harmony
-  - keyword/prayer
-  - keyword/arrangements
+message_id: 2018-05-20-af-keea-atta-kem
 aliases: ["Make Arrangements to Come Together"]
 date: 2018-05-20
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+keywords:
+  - "circle of seven"
+  - "gathering"
+  - "physical presence"
+  - "coming together"
+  - "spiritual melding"
+  - "gifts"
+  - "development"
+  - "upliftment"
+  - "bonds"
+  - "circle of gold"
+  - "harmony"
+  - "prayer"
+  - "arrangements"
+canonical_url: "https://divinelovesanctuary.com/make-arrangements-to-come-together/"
 ---
 
 # Make Arrangements to Come Together

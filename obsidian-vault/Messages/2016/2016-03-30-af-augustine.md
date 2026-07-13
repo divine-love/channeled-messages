@@ -1,33 +1,40 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - keyword/humility
-  - keyword/augustine
-  - keyword/confession
-  - keyword/ambition
-  - keyword/power
-  - keyword/error
-  - keyword/church
-  - keyword/self-will
-  - keyword/god-s-will
-  - keyword/control
-  - keyword/human-condition
-  - keyword/education
-  - keyword/strength
-  - keyword/grace
-  - keyword/channel-of-love
-  - collection/letters-from-history
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - essential/spirit-biography
+message_id: 2016-03-30-af-augustine
 aliases: ["A Lesson on the Power of Humility"]
 date: 2016-03-30
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/humility|Humility]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+keywords:
+  - "humility"
+  - "Augustine"
+  - "confession"
+  - "ambition"
+  - "power"
+  - "error"
+  - "church"
+  - "self-will"
+  - "God's will"
+  - "control"
+  - "human condition"
+  - "education"
+  - "strength"
+  - "grace"
+  - "channel of love"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+canonical_url: "https://divinelovesanctuary.com/lesson-power-humility/"
 ---
 
 # A Lesson on the Power of Humility

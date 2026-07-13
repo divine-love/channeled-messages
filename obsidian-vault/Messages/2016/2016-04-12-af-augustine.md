@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/expectations
-  - keyword/control
-  - keyword/surrender
-  - keyword/humility
-  - keyword/god-s-will
-  - keyword/free-will
-  - keyword/release
-  - keyword/obedience
-  - keyword/fear
-  - keyword/illusion
-  - keyword/ministry
-  - keyword/transformation
-  - keyword/at-onement
-  - keyword/grace
-  - keyword/willfulness
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2016-04-12-af-augustine
 aliases: ["Expectations of the Mind: On Releasing Control"]
 date: 2016-04-12
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "expectations"
+  - "control"
+  - "surrender"
+  - "humility"
+  - "God's will"
+  - "free will"
+  - "release"
+  - "obedience"
+  - "fear"
+  - "illusion"
+  - "ministry"
+  - "transformation"
+  - "at-onement"
+  - "grace"
+  - "willfulness"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/expectations-of-the-mind-on-releasing-control/"
 ---
 
 # Expectations of the Mind: On Releasing Control

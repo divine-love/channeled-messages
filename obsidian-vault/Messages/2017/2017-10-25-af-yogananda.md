@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/teaching
-  - subject/divine-will-guidance-and-orchestration
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/manifestations-and-direct-voice
-  - keyword/india
-  - keyword/invitation
-  - keyword/faith
-  - keyword/service
-  - keyword/risk
-  - keyword/free-will
-  - keyword/direct-voice
-  - keyword/limitations
-  - keyword/journey
-  - keyword/disciples
-  - keyword/america
-  - keyword/choice
-  - keyword/god-s-plan
-  - keyword/reticence
-  - keyword/soul-yearning
-  - collection/service-and-mission
-  - collection/letters-from-history
-  - essential/spirit-biography
+message_id: 2017-10-25-af-yogananda
 aliases: ["Choice and Accepting the Will of God"]
 date: 2017-10-25
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/manifestations-and-direct-voice|Manifestations & Direct Voice]]"
+keywords:
+  - "India"
+  - "invitation"
+  - "faith"
+  - "service"
+  - "risk"
+  - "free will"
+  - "direct voice"
+  - "limitations"
+  - "journey"
+  - "disciples"
+  - "America"
+  - "choice"
+  - "God's plan"
+  - "reticence"
+  - "soul yearning"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Spirit Biography"
+canonical_url: "https://divinelovesanctuary.com/choice-and-accepting-the-will-of-god/"
 ---
 
 # Choice and Accepting the Will of God

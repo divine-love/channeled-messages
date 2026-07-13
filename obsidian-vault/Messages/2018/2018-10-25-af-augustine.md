@@ -1,32 +1,38 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/illusions
-  - keyword/mind-patterns
-  - keyword/self-love
-  - keyword/self-hatred
-  - keyword/soul
-  - keyword/awakening
-  - keyword/truth
-  - keyword/free-will
-  - keyword/draw-a-line
-  - keyword/new-reality
-  - keyword/compassion
-  - keyword/god-s-love
-  - keyword/facades
-  - keyword/consciousness
-  - keyword/new-dawn
-  - keyword/hosannas
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-10-25-af-augustine
 aliases: ["Listen to Your Soul, Not the Illusions of Your Mind"]
 date: 2018-10-25
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "illusions"
+  - "mind patterns"
+  - "self-love"
+  - "self-hatred"
+  - "soul"
+  - "awakening"
+  - "truth"
+  - "free will"
+  - "draw a line"
+  - "new reality"
+  - "compassion"
+  - "God's love"
+  - "facades"
+  - "consciousness"
+  - "new dawn"
+  - "hosannas"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/listen-to-your-soul-not-the-illusions-of-your-mind/"
 ---
 
 # Listen to Your Soul, Not the Illusions of Your Mind

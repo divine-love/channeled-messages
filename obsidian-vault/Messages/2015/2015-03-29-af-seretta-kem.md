@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/soul-healing-and-emotional-restoration
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/greatest-healing
-  - keyword/cellular-healing
-  - keyword/diet
-  - keyword/discipline
-  - keyword/free-will
-  - keyword/temple
-  - keyword/obstructions
-  - keyword/expiation
-  - keyword/egyptian-healer
-  - keyword/celestial-kingdom
-  - keyword/partnership
-  - keyword/positive-thoughts
-  - keyword/human-condition
-  - keyword/choice
-  - collection/healing-path
-  - essential/core-teaching
-  - essential/spirit-biography
-  - chain/divine-love-healing
+message_id: 2015-03-29-af-seretta-kem
 aliases: ["The Greatest of All Types of Healing Is Divine Love Healing"]
 date: 2015-03-29
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+secondary_subjects:
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "greatest healing"
+  - "cellular healing"
+  - "diet"
+  - "discipline"
+  - "free will"
+  - "temple"
+  - "obstructions"
+  - "expiation"
+  - "Egyptian healer"
+  - "Celestial Kingdom"
+  - "partnership"
+  - "positive thoughts"
+  - "human condition"
+  - "choice"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+chains:
+  - "[[Chains/divine-love-healing]]"
 ---
 
 # The Greatest of All Types of Healing Is Divine Love Healing

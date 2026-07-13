@@ -1,23 +1,28 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-community-and-fellowship
-  - keyword/mediumship
-  - keyword/preparation
-  - keyword/support
-  - keyword/gifts
-  - keyword/gathering
-  - keyword/cellular
-  - keyword/transformation
-  - keyword/prayer
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-13-af-augustine
 aliases: ["Preparation and Support for Al"]
 date: 2015-08-13
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "mediumship"
+  - "preparation"
+  - "support"
+  - "gifts"
+  - "gathering"
+  - "cellular"
+  - "transformation"
+  - "prayer"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Preparation and Support for Al

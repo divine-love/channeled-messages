@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-community-and-fellowship
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/prayer
-  - keyword/yearning
-  - keyword/soul-longing
-  - keyword/fellowship
-  - keyword/prayer-circle
-  - keyword/light
-  - keyword/faith
-  - keyword/humility
-  - keyword/service
-  - keyword/god-s-will
-  - keyword/channel-of-love
-  - keyword/self-love
-  - keyword/guidance
-  - keyword/divine-love
-  - collection/the-saints-and-apostles-speak
+message_id: 2014-12-01-af-john-the-beloved
 aliases: ["Express Your Yearnings to God"]
 date: 2014-12-01
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "prayer"
+  - "yearning"
+  - "soul longing"
+  - "fellowship"
+  - "prayer circle"
+  - "light"
+  - "faith"
+  - "humility"
+  - "service"
+  - "God's will"
+  - "channel of love"
+  - "self-love"
+  - "guidance"
+  - "divine love"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/express-your-yearnings-to-god/"
 ---
 
 # Express Your Yearnings to God

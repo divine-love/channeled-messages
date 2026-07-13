@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/earthly-challenges-and-human-condition/grief-and-loss
-  - keyword/tip-of-the-iceberg
-  - keyword/soul-gifts
-  - keyword/awakening
-  - keyword/much-more-to-come
-  - keyword/service
-  - keyword/prayer
-  - keyword/the-passing-of-a-loved-one
-  - keyword/the-ministrations-of-angels
-  - keyword/peace-in-death
-  - keyword/circle-of-light
-  - keyword/unique-expressions
-  - keyword/clarity
-  - keyword/god-s-love-awakening-the-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-04-03-af-augustine
 aliases: ["Personal for Jeanne followed by an Encouraging Message for All"]
 date: 2019-04-03
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/grief-and-loss|Grief & Loss]]"
+keywords:
+  - "tip of the iceberg"
+  - "soul gifts"
+  - "awakening"
+  - "much more to come"
+  - "service"
+  - "prayer"
+  - "the passing of a loved one"
+  - "the ministrations of angels"
+  - "peace in death"
+  - "Circle of Light"
+  - "unique expressions"
+  - "clarity"
+  - "God's Love awakening the soul"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/personal-for-jeanne-followed-by-an-encouraging-message-for-all/"
 ---
 
 # Personal for Jeanne followed by an Encouraging Message for All

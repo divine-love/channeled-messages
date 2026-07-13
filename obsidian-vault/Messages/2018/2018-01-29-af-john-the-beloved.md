@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/collective-awakening-and-redemption
-  - keyword/garden
-  - keyword/seeds
-  - keyword/soul-gifts
-  - keyword/flower-garden
-  - keyword/universe-within
-  - keyword/uniqueness
-  - keyword/beauty
-  - keyword/germination
-  - keyword/lantern
-  - keyword/potentials
-  - keyword/creative-impulse
-  - keyword/expression
-  - keyword/awakening
-  - keyword/ignition
-  - collection/prism-of-the-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-01-29-af-john-the-beloved
 aliases: ["God's Love Awakens the Gifts of the Soul"]
 date: 2018-01-29
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+keywords:
+  - "garden"
+  - "seeds"
+  - "soul gifts"
+  - "flower garden"
+  - "universe within"
+  - "uniqueness"
+  - "beauty"
+  - "germination"
+  - "lantern"
+  - "potentials"
+  - "creative impulse"
+  - "expression"
+  - "awakening"
+  - "ignition"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/gods-love-awakens-the-gifts-of-the-soul/"
 ---
 
 # God's Love Awakens the Gifts of the Soul

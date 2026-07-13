@@ -1,32 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/divine-love
-  - keyword/soul
-  - keyword/truth
-  - keyword/mind
-  - keyword/unique-gifts
-  - keyword/image-of-god
-  - keyword/substance
-  - keyword/newness
-  - keyword/true-self
-  - keyword/reward
-  - keyword/daily-prayer
-  - keyword/joy
-  - keyword/awareness
-  - keyword/creation
-  - keyword/blossom
-  - keyword/eternal-journey
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-06-24-af-augustine
 aliases: ["Seeking the Divine Love Will Bring Many Rewards"]
 date: 2015-06-24
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "Divine Love"
+  - "soul"
+  - "truth"
+  - "mind"
+  - "unique gifts"
+  - "image of God"
+  - "substance"
+  - "newness"
+  - "true self"
+  - "reward"
+  - "daily prayer"
+  - "joy"
+  - "awareness"
+  - "creation"
+  - "blossom"
+  - "eternal journey"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Seeking the Divine Love Will Bring Many Rewards

@@ -1,23 +1,28 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship
-  - keyword/gathering
-  - keyword/retreat
-  - keyword/fellowship
-  - keyword/soul-awakening
-  - keyword/waves-of-love
-  - keyword/healing
-  - keyword/purpose
-  - keyword/channel-of-love
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-10-af-john-the-beloved
 aliases: ["Gathering the Souls Under the Wings of Love"]
 date: 2015-08-10
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "gathering"
+  - "retreat"
+  - "fellowship"
+  - "soul awakening"
+  - "waves of love"
+  - "healing"
+  - "purpose"
+  - "channel of love"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Gathering the Souls Under the Wings of Love

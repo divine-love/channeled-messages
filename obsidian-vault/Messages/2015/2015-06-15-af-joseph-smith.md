@@ -1,33 +1,40 @@
 ---
-tags:
-  - spirit/joseph-smith
-  - type/teaching
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - subject/service-ministry-and-being-a-channel-of-love/testimony-of-god-s-love
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - keyword/joseph-smith
-  - keyword/mormon-church
-  - keyword/organised-religion
-  - keyword/human-condition
-  - keyword/will-of-man
-  - keyword/falsehoods
-  - keyword/divine-love
-  - keyword/true-church
-  - keyword/fellowship
-  - keyword/error
-  - keyword/truth
-  - keyword/angels
-  - keyword/celestial-heavens
-  - keyword/harbingers
-  - keyword/power
-  - keyword/religious-institution
-  - collection/letters-from-history
-  - essential/core-teaching
-  - chain/religious-error
+message_id: 2015-06-15-af-joseph-smith
 aliases: ["The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations"]
 date: 2015-06-15
+spirit: "[[Spirits/joseph-smith|Joseph Smith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+secondary_subjects:
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+  - "[[Subjects/testimony-of-god-s-love|Testimony of God's Love]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+keywords:
+  - "Joseph Smith"
+  - "Mormon Church"
+  - "organised religion"
+  - "human condition"
+  - "will of man"
+  - "falsehoods"
+  - "Divine Love"
+  - "true church"
+  - "fellowship"
+  - "error"
+  - "truth"
+  - "angels"
+  - "Celestial Heavens"
+  - "harbingers"
+  - "power"
+  - "religious institution"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/religious-error]]"
 ---
 
 # The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations

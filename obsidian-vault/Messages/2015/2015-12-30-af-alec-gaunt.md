@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/soul-transformation-and-development
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/new-year
-  - keyword/opportunities
-  - keyword/challenges
-  - keyword/adversity
-  - keyword/soul-growth
-  - keyword/doors-opening
-  - keyword/god-s-will
-  - keyword/true-self
-  - keyword/blessings
-  - keyword/preparation
+message_id: 2015-12-30-af-alec-gaunt
 aliases: ["Look Forward to New Opportunities in the Coming Year"]
 date: 2015-12-30
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+secondary_subjects:
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "new year"
+  - "opportunities"
+  - "challenges"
+  - "adversity"
+  - "soul growth"
+  - "doors opening"
+  - "God's Will"
+  - "true self"
+  - "blessings"
+  - "preparation"
 ---
 
 # Look Forward to New Opportunities in the Coming Year

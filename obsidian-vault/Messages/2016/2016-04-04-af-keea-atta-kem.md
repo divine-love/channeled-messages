@@ -1,30 +1,37 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-identity-and-destiny
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - keyword/prism
-  - keyword/soul-gifts
-  - keyword/divine-love
-  - keyword/healing
-  - keyword/perception
-  - keyword/empathy
-  - keyword/wisdom
-  - keyword/communication
-  - keyword/refraction
-  - keyword/light
-  - keyword/color
-  - keyword/unique-soul
-  - keyword/spiritual-gifts
-  - keyword/soul-mind
-  - collection/prism-of-the-soul
-  - essential/core-teaching
+message_id: 2016-04-04-af-keea-atta-kem
 aliases: ["The Prism of Our Souls"]
 date: 2016-04-04
+spirit: "[[Spirits/keea-atta-kem|Keea atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+keywords:
+  - "prism"
+  - "soul gifts"
+  - "Divine Love"
+  - "healing"
+  - "perception"
+  - "empathy"
+  - "wisdom"
+  - "communication"
+  - "refraction"
+  - "light"
+  - "color"
+  - "unique soul"
+  - "spiritual gifts"
+  - "soul mind"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/the-prism-of-our-souls/"
 ---
 
 # The Prism of Our Souls

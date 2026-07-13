@@ -1,30 +1,35 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/guidance
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-discipline-and-daily-living
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/angels
-  - keyword/ask-for-help
-  - keyword/spiritual-attunement
-  - keyword/material-world
-  - keyword/distractions
-  - keyword/divine-love
-  - keyword/river-of-love
-  - keyword/calling-upon-angels
-  - keyword/soul-awakening
-  - keyword/materialism
-  - keyword/balance
-  - keyword/darkness
-  - keyword/hope
-  - keyword/channel-of-love
-  - keyword/at-onement
-  - keyword/communion
+message_id: 2018-09-22-af-keea-atta-kem
 aliases: ["Ask for the Angels' Help"]
 date: 2018-09-22
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "angels"
+  - "ask for help"
+  - "spiritual attunement"
+  - "material world"
+  - "distractions"
+  - "Divine Love"
+  - "river of love"
+  - "calling upon angels"
+  - "soul awakening"
+  - "materialism"
+  - "balance"
+  - "darkness"
+  - "hope"
+  - "channel of love"
+  - "at-onement"
+  - "communion"
+canonical_url: "https://divinelovesanctuary.com/ask-for-the-angels-help/"
 ---
 
 # Ask for the Angels' Help

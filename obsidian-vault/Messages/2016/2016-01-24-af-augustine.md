@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/soul-desire
-  - keyword/mind-desire
-  - keyword/unworthiness
-  - keyword/material-mind
-  - keyword/conflict
-  - keyword/alignment
-  - keyword/longing
-  - keyword/prayer
-  - keyword/discipline
-  - keyword/self-love
-  - keyword/obstruction
-  - keyword/communion-with-god
-  - keyword/wordless-prayer
-  - keyword/honesty
-  - collection/mind-and-soul
-  - chain/prayer-soul-longing
-  - chain/mind-vs-soul
+message_id: 2016-01-24-af-augustine
 aliases: ["Lesson on Soul-Desire"]
 date: 2016-01-24
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Hawaii, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "soul desire"
+  - "mind desire"
+  - "unworthiness"
+  - "material mind"
+  - "conflict"
+  - "alignment"
+  - "longing"
+  - "prayer"
+  - "discipline"
+  - "self-love"
+  - "obstruction"
+  - "communion with God"
+  - "wordless prayer"
+  - "honesty"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+chains:
+  - "[[Chains/prayer-soul-longing]]"
+  - "[[Chains/mind-vs-soul]]"
 ---
 
 # Lesson on Soul-Desire

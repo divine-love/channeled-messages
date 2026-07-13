@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/mind-versus-soul
-  - keyword/inner-conflict
-  - keyword/tension
-  - keyword/decision
-  - keyword/guidance
-  - keyword/knowing-versus-believing
-  - keyword/act-of-faith
-  - keyword/peace
-  - keyword/stillness
-  - keyword/soul-awareness
-  - keyword/god-s-will
-  - keyword/beacon
-  - keyword/surrender
-  - keyword/discernment
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - chain/mind-vs-soul
+message_id: 2016-03-10-af-augustine
 aliases: ["Struggle of Soul and Mind"]
 date: 2016-03-10
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "mind versus soul"
+  - "inner conflict"
+  - "tension"
+  - "decision"
+  - "guidance"
+  - "knowing versus believing"
+  - "act of faith"
+  - "peace"
+  - "stillness"
+  - "soul awareness"
+  - "God's will"
+  - "beacon"
+  - "surrender"
+  - "discernment"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/mind-vs-soul]]"
 ---
 
 # Struggle of Soul and Mind

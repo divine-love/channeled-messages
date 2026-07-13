@@ -1,27 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - keyword/circles-of-light
-  - keyword/sanctuary
-  - keyword/welcome
-  - keyword/outreach
-  - keyword/example
-  - keyword/sowing-seeds
-  - keyword/refuge
-  - keyword/coming-times
-  - keyword/divine-love-prayer
-  - keyword/world-healing
-  - collection/service-and-mission
-  - collection/awakening-humanity
+message_id: 2015-09-30-af-augustine
 aliases: ["Continue to Open Your Arms and Build Circles of Light"]
 date: 2015-09-30
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+keywords:
+  - "Circles of Light"
+  - "sanctuary"
+  - "welcome"
+  - "outreach"
+  - "example"
+  - "sowing seeds"
+  - "refuge"
+  - "coming times"
+  - "Divine Love prayer"
+  - "world healing"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
 ---
 
 # Continue to Open Your Arms and Build Circles of Light

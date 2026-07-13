@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/francis-of-assisi
-  - type/guidance
-  - subject/nature-environment-and-god-s-creation
-  - subject/earth-changes-and-prophecy
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/nature-environment-and-god-s-creation/reverence-for-the-earth
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/healing
-  - keyword/world
-  - keyword/creation
-  - keyword/beauty
-  - keyword/creativity
-  - keyword/harmony
-  - keyword/balance
-  - keyword/creatures
-  - keyword/disruptions
-  - keyword/earth-changes
-  - keyword/god-s-handiwork
-  - keyword/channels-of-love
-  - keyword/soul-faculties
-  - keyword/garden
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-11-09-af-francis-of-assisi
 aliases: ["Healing for This Precious World Is Required"]
 date: 2015-11-09
+spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/nature-environment-and-god-s-creation|Nature, Environment & God's Creation]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/reverence-for-the-earth|Reverence for the Earth]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "healing"
+  - "world"
+  - "creation"
+  - "beauty"
+  - "creativity"
+  - "harmony"
+  - "balance"
+  - "creatures"
+  - "disruptions"
+  - "earth changes"
+  - "God's handiwork"
+  - "channels of love"
+  - "soul faculties"
+  - "garden"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/healing-for-this-precious-world-is-required/"
 ---
 
 # Healing for This Precious World Is Required

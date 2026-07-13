@@ -1,34 +1,41 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/mind-versus-soul
-  - keyword/two-paths
-  - keyword/natural-love
-  - keyword/divine-love
-  - keyword/forge-a-path
-  - keyword/soul-potential
-  - keyword/encrustations
-  - keyword/choice
-  - keyword/peace-that-passes-understanding
-  - keyword/discernment
-  - keyword/soul-gifts
-  - keyword/divine-path
-  - keyword/alignment-with-god-s-will
-  - keyword/transformation
-  - collection/mind-and-soul
-  - collection/two-paths
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/mind-vs-soul
-  - chain/two-paths
+message_id: 2016-02-15-af-augustine
 aliases: ["Forge That Path to Your Souls and Thereby to God"]
 date: 2016-02-15
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "mind versus soul"
+  - "two paths"
+  - "natural love"
+  - "Divine Love"
+  - "forge a path"
+  - "soul potential"
+  - "encrustations"
+  - "choice"
+  - "peace that passes understanding"
+  - "discernment"
+  - "soul gifts"
+  - "Divine Path"
+  - "alignment with God's will"
+  - "transformation"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/two-paths|Two Paths]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/two-paths]]"
 ---
 
 # Forge That Path to Your Souls and Thereby to God

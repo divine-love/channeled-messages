@@ -1,36 +1,45 @@
 ---
-tags:
-  - spirit/josephus
-  - type/teaching
-  - subject/creation-and-incarnation/nature-of-the-soul
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/divine-love-and-relationship-with-god/god-s-nature-and-essence
-  - keyword/faculties-of-the-soul
-  - keyword/soul-chambers
-  - keyword/soul-mind
-  - keyword/material-mind
-  - keyword/dual-consciousness
-  - keyword/spirit-of-truth
-  - keyword/knowing-god
-  - keyword/god-s-will
-  - keyword/perception-of-spirits
-  - keyword/healing
-  - keyword/creativity
-  - keyword/moral-compass
-  - keyword/soul-memory
-  - keyword/rainbow-of-divine-love
-  - keyword/unique-soul
-  - collection/prism-of-the-soul
-  - collection/letters-from-history
-  - essential/core-teaching
-  - mentions/jesus
-  - chain/soul-faculties
-  - chain/mind-vs-soul
+message_id: 2019-02-01-af-josephus
 aliases: ["Faculties of the Soul"]
 date: 2019-02-01
+spirit: "[[Spirits/josephus|Josephus]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/god-s-nature-and-essence|God's Nature & Essence]]"
+keywords:
+  - "faculties of the soul"
+  - "soul chambers"
+  - "soul mind"
+  - "material mind"
+  - "dual consciousness"
+  - "spirit of truth"
+  - "knowing God"
+  - "God's Will"
+  - "perception of spirits"
+  - "healing"
+  - "creativity"
+  - "moral compass"
+  - "soul memory"
+  - "rainbow of Divine Love"
+  - "unique soul"
+collections:
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/soul-faculties]]"
+  - "[[Chains/mind-vs-soul]]"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/faculties-of-the-soul-2/"
 ---
 
 # Faculties of the Soul

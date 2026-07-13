@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - keyword/do-not-falter
-  - keyword/purpose
-  - keyword/unique-gifts
-  - keyword/god-s-will
-  - keyword/instrument-for-change
-  - keyword/channel-of-love
-  - keyword/world-transition
-  - keyword/discernment
-  - keyword/soul-faculties
-  - keyword/material-worry
-  - keyword/guidance
-  - keyword/angels
-  - keyword/fulfilment
-  - keyword/salvation-of-mankind
-  - collection/service-and-mission
-  - mentions/jesus
+message_id: 2016-01-26-af-john-the-beloved
 aliases: ["Do Not Falter Upon Your Path"]
 date: 2016-01-26
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Hawaii, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+keywords:
+  - "do not falter"
+  - "purpose"
+  - "unique gifts"
+  - "God's will"
+  - "instrument for change"
+  - "channel of love"
+  - "world transition"
+  - "discernment"
+  - "soul faculties"
+  - "material worry"
+  - "guidance"
+  - "angels"
+  - "fulfilment"
+  - "salvation of mankind"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+mentions:
+  - "[[Spirits/jesus]]"
 ---
 
 # Do Not Falter Upon Your Path

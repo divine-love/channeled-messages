@@ -1,24 +1,29 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/spiritual-identity-and-destiny
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-identity-and-destiny/divine-purpose
-  - keyword/purpose
-  - keyword/soul-gift
-  - keyword/uniqueness
-  - keyword/calling
-  - keyword/divine-love
-  - keyword/guidance
-  - keyword/still-voice
-  - keyword/prayer
-  - keyword/light
-  - keyword/potential
-  - keyword/service
-  - keyword/acknowledgment
+message_id: 2015-06-24-af-confucius
 aliases: ["Every Soul Has a Purpose and Gift to Bring into the World"]
 date: 2015-06-24
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spiritual-identity-and-destiny|Spiritual Identity & Destiny]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/divine-purpose|Divine Purpose]]"
+keywords:
+  - "purpose"
+  - "soul gift"
+  - "uniqueness"
+  - "calling"
+  - "Divine Love"
+  - "guidance"
+  - "still voice"
+  - "prayer"
+  - "light"
+  - "potential"
+  - "service"
+  - "acknowledgment"
+canonical_url: "https://divinelovesanctuary.com/every-soul-purpose-gift-bring-world/"
 ---
 
 # Every Soul Has a Purpose and Gift to Bring into the World

@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/white-cloud
-  - type/guidance
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/earth-changes-and-prophecy
-  - keyword/white-cloud
-  - keyword/prayer
-  - keyword/world-healing
-  - keyword/truth
-  - keyword/division
-  - keyword/love
-  - keyword/greed
-  - keyword/lost-souls
-  - keyword/children
-  - keyword/hungry
-  - keyword/humility
-  - keyword/gentleness
-  - keyword/channel-of-love
-  - keyword/dignity
-  - keyword/liberation
-  - collection/awakening-humanity
+message_id: 2016-12-02-af-white-cloud
 aliases: ["The World Needs Your Prayers"]
 date: 2016-12-02
+spirit: "[[Spirits/white-cloud|White Cloud]]"
+medium: "Al Fike"
+location: "Hawaii, HI, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+keywords:
+  - "White Cloud"
+  - "prayer"
+  - "world healing"
+  - "truth"
+  - "division"
+  - "love"
+  - "greed"
+  - "lost souls"
+  - "children"
+  - "hungry"
+  - "humility"
+  - "gentleness"
+  - "channel of love"
+  - "dignity"
+  - "liberation"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+canonical_url: "https://divinelovesanctuary.com/world-needs-prayers/"
 ---
 
 # The World Needs Your Prayers

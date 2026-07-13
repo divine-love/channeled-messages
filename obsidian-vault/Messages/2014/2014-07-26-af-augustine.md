@@ -1,27 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/divine-will-guidance-and-orchestration
-  - subject/earthly-challenges-and-human-condition
-  - keyword/free-will
-  - keyword/god-s-will
-  - keyword/chaos
-  - keyword/world-events
-  - keyword/prayer
-  - keyword/faith
-  - keyword/patience
-  - keyword/light
-  - keyword/darkness
-  - keyword/love
-  - keyword/choice
-  - keyword/celestial-heavens
-  - keyword/trust
-  - collection/the-saints-and-apostles-speak
-  - chain/free-will-and-gods-plan
+message_id: 2014-07-26-af-augustine
 aliases: ["Free Will Makes for a Free Wheeling World. Nothing Is Guaranteed."]
 date: 2014-07-26
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/earthly-challenges-and-human-condition|Earthly Challenges & Human Condition]]"
+keywords:
+  - "free will"
+  - "God's will"
+  - "chaos"
+  - "world events"
+  - "prayer"
+  - "faith"
+  - "patience"
+  - "light"
+  - "darkness"
+  - "love"
+  - "choice"
+  - "celestial heavens"
+  - "trust"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/free-will-and-gods-plan]]"
+canonical_url: "https://divinelovesanctuary.com/free-will-makes-free-wheeling-world-nothing-guaranteed/"
 ---
 
 # Free Will Makes for a Free Wheeling World. Nothing Is Guaranteed.

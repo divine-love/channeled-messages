@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - keyword/preparation
-  - keyword/times-coming
-  - keyword/gifts
-  - keyword/soul-alignment
-  - keyword/momentum
-  - keyword/revelations
-  - keyword/visions
-  - keyword/transformation
-  - keyword/doors-opening
-  - keyword/channels-of-love
-  - collection/letters-from-history
-  - collection/awakening-humanity
+message_id: 2018-12-16-af-confucius
 aliases: ["Prepare for the Times That Are Coming"]
 date: 2018-12-16
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+keywords:
+  - "preparation"
+  - "times coming"
+  - "gifts"
+  - "soul alignment"
+  - "momentum"
+  - "revelations"
+  - "visions"
+  - "transformation"
+  - "doors opening"
+  - "channels of love"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+canonical_url: "https://divinelovesanctuary.com/prepare-for-the-times-that-are-coming/"
 ---
 
 # Prepare for the Times That Are Coming

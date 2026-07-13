@@ -1,26 +1,30 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/blessing
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/healing
-  - keyword/blessing
-  - keyword/reaching-higher
-  - keyword/channel-of-love
-  - keyword/peace
-  - keyword/soul-gifts
-  - keyword/divine-love
-  - keyword/service
-  - keyword/light
-  - keyword/god-s-will
-  - keyword/awareness
-  - keyword/progress
-  - keyword/harmony
+message_id: 2015-05-04-af-seretta-kem
 aliases: ["Reaching for Greater Light and Service"]
 date: 2015-05-04
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+secondary_subjects:
+  - "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "healing"
+  - "blessing"
+  - "reaching higher"
+  - "channel of love"
+  - "peace"
+  - "soul gifts"
+  - "Divine Love"
+  - "service"
+  - "Light"
+  - "God's will"
+  - "awareness"
+  - "progress"
+  - "harmony"
 ---
 
 # Reaching for Greater Light and Service

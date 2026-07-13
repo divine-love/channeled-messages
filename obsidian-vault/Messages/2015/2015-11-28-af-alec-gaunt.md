@@ -1,23 +1,27 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-community-and-fellowship/unity-in-diversity
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-warfare-and-opposition/god-s-protection-and-care
-  - keyword/channel-of-love
-  - keyword/encouragement
-  - keyword/wave-of-light
-  - keyword/connection
-  - keyword/sharing
-  - keyword/uniqueness
-  - keyword/trust
-  - keyword/world-transformation
-  - keyword/soul-beauty
+message_id: 2015-11-28-af-alec-gaunt
 aliases: ["Walk in the World as Loving Channels to One Another"]
 date: 2015-11-28
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/unity-in-diversity|Unity in Diversity]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/god-s-protection-and-care|God's Protection & Care]]"
+keywords:
+  - "channel of love"
+  - "encouragement"
+  - "wave of light"
+  - "connection"
+  - "sharing"
+  - "uniqueness"
+  - "trust"
+  - "world transformation"
+  - "soul beauty"
 ---
 
 # Walk in the World as Loving Channels to One Another

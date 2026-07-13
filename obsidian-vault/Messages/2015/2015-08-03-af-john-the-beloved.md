@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/truth
-  - keyword/soul-awakening
-  - keyword/yearning
-  - keyword/divine-love
-  - keyword/mind-vs-soul
-  - keyword/living-waters
-  - keyword/faith
-  - keyword/resistance
-  - keyword/openness
-  - keyword/vulnerability
-  - keyword/encrustations
-  - keyword/presence-of-god
-  - keyword/eternal-truth
-  - keyword/prayer
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-03-af-john-the-beloved
 aliases: ["Follow the Sweet Yearnings of the Soul So That You May Know Truth"]
 date: 2015-08-03
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "truth"
+  - "soul awakening"
+  - "yearning"
+  - "Divine Love"
+  - "mind vs soul"
+  - "living waters"
+  - "faith"
+  - "resistance"
+  - "openness"
+  - "vulnerability"
+  - "encrustations"
+  - "presence of God"
+  - "eternal truth"
+  - "prayer"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/follow-sweet-yearnings-soul-may-know-truth/"
 ---
 
 # Follow the Sweet Yearnings of the Soul So That You May Know Truth

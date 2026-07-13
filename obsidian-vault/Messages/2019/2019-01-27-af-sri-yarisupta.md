@@ -1,20 +1,25 @@
 ---
-tags:
-  - spirit/sri-yarisupta
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - keyword/names
-  - keyword/sri-yarigupta
-  - keyword/sri-yarisupta
-  - keyword/familiar-name
-  - keyword/spirit-identity
-  - keyword/presence
-  - keyword/medium
-  - keyword/language
-  - keyword/namaste
+message_id: 2019-01-27-af-sri-yarisupta
 aliases: ["What's in a Name?"]
 date: 2019-01-27
+spirit: "[[Spirits/sri-yarisupta|Sri Yarisupta]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+keywords:
+  - "names"
+  - "Sri Yarigupta"
+  - "Sri Yarisupta"
+  - "familiar name"
+  - "spirit identity"
+  - "presence"
+  - "medium"
+  - "language"
+  - "namaste"
+canonical_url: "https://divinelovesanctuary.com/whats-in-a-name/"
 ---
 
 # What's in a Name?

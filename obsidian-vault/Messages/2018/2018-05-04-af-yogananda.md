@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/divine-will-guidance-and-orchestration
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/india
-  - keyword/journey
-  - keyword/wanderer
-  - keyword/minstrel
-  - keyword/healer
-  - keyword/teacher
-  - keyword/music
-  - keyword/song
-  - keyword/revelation
-  - keyword/momentum
-  - keyword/timing
-  - keyword/guru
-  - keyword/humble-servant
-  - keyword/path-opening
-  - keyword/faith
-  - collection/letters-from-history
-  - collection/service-and-mission
+message_id: 2018-05-04-af-yogananda
 aliases: ["A Great Journey Awaits"]
 date: 2018-05-04
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Punaluu, HI, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "India"
+  - "journey"
+  - "wanderer"
+  - "minstrel"
+  - "healer"
+  - "teacher"
+  - "music"
+  - "song"
+  - "revelation"
+  - "momentum"
+  - "timing"
+  - "guru"
+  - "humble servant"
+  - "path opening"
+  - "faith"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/a-great-journey-awaits/"
 ---
 
 # A Great Journey Awaits

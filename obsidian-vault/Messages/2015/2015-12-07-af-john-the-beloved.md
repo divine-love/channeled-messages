@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/divine-love
-  - keyword/living-waters
-  - keyword/openness
-  - keyword/soul
-  - keyword/blessing
-  - keyword/presence-of-god
-  - keyword/circle
-  - keyword/overflowing
-  - keyword/light
-  - keyword/gift
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-12-07-af-john-the-beloved
 aliases: ["Drink Deep from the Living Waters"]
 date: 2015-12-07
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "Divine Love"
+  - "living waters"
+  - "openness"
+  - "soul"
+  - "blessing"
+  - "presence of God"
+  - "circle"
+  - "overflowing"
+  - "light"
+  - "gift"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/drink-deep-living-waters/"
 ---
 
 # Drink Deep from the Living Waters

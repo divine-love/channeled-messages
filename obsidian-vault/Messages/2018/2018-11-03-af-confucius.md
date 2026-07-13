@@ -1,23 +1,28 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/soul-healing-and-emotional-restoration
-  - subject/earthly-challenges-and-human-condition/grief-and-loss
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/prayer-circle
-  - keyword/channel-of-love
-  - keyword/healing
-  - keyword/intercession
-  - keyword/purification
-  - keyword/grief
-  - keyword/awakening
-  - keyword/light
+message_id: 2018-11-03-af-confucius
 aliases: ["As You Pray Together You Are a Channel of Love for Many"]
 date: 2018-11-03
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/grief-and-loss|Grief & Loss]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "prayer circle"
+  - "channel of love"
+  - "healing"
+  - "intercession"
+  - "purification"
+  - "grief"
+  - "awakening"
+  - "light"
+canonical_url: "https://divinelovesanctuary.com/as-you-pray-together-you-are-a-channel-of-love-for-many/"
 ---
 
 # As You Pray Together You Are a Channel of Love for Many

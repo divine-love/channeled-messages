@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/solomon
-  - type/teaching
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - keyword/wisdom
-  - keyword/intellect
-  - keyword/soul-knowledge
-  - keyword/truth
-  - keyword/soul-faculties
-  - keyword/redemption
-  - keyword/rebirth
-  - keyword/celestial-angel
-  - keyword/creation
-  - keyword/discovery
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2015-11-23-af-solomon
 aliases: ["King Solomon Talks about How to Obtain True Wisdom"]
 date: 2015-11-23
+spirit: "[[Spirits/solomon|Solomon]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+keywords:
+  - "wisdom"
+  - "intellect"
+  - "soul knowledge"
+  - "truth"
+  - "soul faculties"
+  - "redemption"
+  - "rebirth"
+  - "Celestial Angel"
+  - "creation"
+  - "discovery"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
 ---
 
 # King Solomon Talks about How to Obtain True Wisdom

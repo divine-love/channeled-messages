@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-community-and-fellowship
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development
-  - keyword/fellowship
-  - keyword/gathering
-  - keyword/prayer
-  - keyword/soul-perception
-  - keyword/god-s-will
-  - keyword/river-of-love
-  - keyword/alignment
-  - keyword/embrace
-  - keyword/progression
-  - keyword/circle-of-light
-  - keyword/divine-love
-  - keyword/harmony
-  - keyword/guidance
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-06-14-af-augustine
 aliases: ["Embrace Those That Are Coming and Embrace the Flow of God's Love"]
 date: 2015-06-14
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+keywords:
+  - "fellowship"
+  - "gathering"
+  - "prayer"
+  - "soul perception"
+  - "God's will"
+  - "river of love"
+  - "alignment"
+  - "embrace"
+  - "progression"
+  - "circle of light"
+  - "Divine Love"
+  - "harmony"
+  - "guidance"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/embrace-those-that-are-coming-and-embrace-the-flow-of-gods-love/"
 ---
 
 # Embrace Those That Are Coming and Embrace the Flow of God's Love

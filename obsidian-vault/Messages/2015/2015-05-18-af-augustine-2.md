@@ -1,29 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - keyword/preparation
-  - keyword/unique-gifts
-  - keyword/retreat
-  - keyword/inspiration
-  - keyword/testimony
-  - keyword/voice
-  - keyword/divine-path
-  - keyword/self-love
-  - keyword/true-self
-  - keyword/channel-of-love
-  - keyword/bond-of-love
-  - keyword/soul-discovery
-  - keyword/confidence
-  - keyword/treasure
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-05-18-af-augustine-2
 aliases: ["Each of You Is Being Prepared"]
 date: 2015-05-18
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+keywords:
+  - "preparation"
+  - "unique gifts"
+  - "retreat"
+  - "inspiration"
+  - "testimony"
+  - "voice"
+  - "Divine Path"
+  - "self-love"
+  - "true self"
+  - "channel of love"
+  - "bond of love"
+  - "soul discovery"
+  - "confidence"
+  - "treasure"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Each of You Is Being Prepared

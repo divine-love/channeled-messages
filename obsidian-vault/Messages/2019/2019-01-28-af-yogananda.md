@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/fountainhead
-  - keyword/living-waters
-  - keyword/india
-  - keyword/materialism
-  - keyword/spiritual-tradition
-  - keyword/innocence
-  - keyword/soul-awakening
-  - keyword/immersion
-  - keyword/light
-  - keyword/divine-love
-  - collection/letters-from-history
+message_id: 2019-01-28-af-yogananda
 aliases: ["Divine Love Is Yours for the Asking"]
 date: 2019-01-28
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "fountainhead"
+  - "living waters"
+  - "India"
+  - "materialism"
+  - "spiritual tradition"
+  - "innocence"
+  - "soul awakening"
+  - "immersion"
+  - "light"
+  - "Divine Love"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+canonical_url: "https://divinelovesanctuary.com/divine-love-is-yours-for-the-asking/"
 ---
 
 # Divine Love Is Yours for the Asking

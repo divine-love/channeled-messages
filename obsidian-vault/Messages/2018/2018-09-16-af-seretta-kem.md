@@ -1,29 +1,34 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-warfare-and-opposition/protection-from-negative-influences
-  - keyword/discernment
-  - keyword/magnetism
-  - keyword/souls-drawn-to-light
-  - keyword/direct-voice
-  - keyword/psychic-gifts
-  - keyword/soul-to-soul
-  - keyword/seeds-of-truth
-  - keyword/hidden-work
-  - keyword/god-s-will
-  - keyword/innocence
-  - keyword/channel-of-love
-  - keyword/personal-agenda
-  - keyword/living-waters
-  - keyword/soul-confusion
-  - keyword/alignment
+message_id: 2018-09-16-af-seretta-kem
 aliases: ["Be Discerning, Wise and True to God's Will"]
 date: 2018-09-16
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Phoenix, AZ, USA"
+message_type: "Guidance"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/protection-from-negative-influences|Protection from Negative Influences]]"
+keywords:
+  - "discernment"
+  - "magnetism"
+  - "souls drawn to light"
+  - "direct voice"
+  - "psychic gifts"
+  - "soul to soul"
+  - "seeds of truth"
+  - "hidden work"
+  - "God's will"
+  - "innocence"
+  - "channel of love"
+  - "personal agenda"
+  - "living waters"
+  - "soul confusion"
+  - "alignment"
+canonical_url: "https://divinelovesanctuary.com/be-discerning-wise-and-true-to-gods-will/"
 ---
 
 # Be Discerning, Wise and True to God's Will

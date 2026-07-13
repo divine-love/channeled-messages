@@ -1,33 +1,39 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - keyword/be-the-example
-  - keyword/teaching-others
-  - keyword/circles-of-light
-  - keyword/channel-of-love
-  - keyword/experience-over-argument
-  - keyword/ego-and-ambition
-  - keyword/serve-god
-  - keyword/clearing-the-channel
-  - keyword/debris
-  - keyword/geyser-of-light
-  - keyword/breakthrough
-  - keyword/soul-awareness
-  - keyword/fighting-the-darkness
-  - keyword/god-s-plan
-  - collection/service-and-mission
-  - chain/bell-toll-instrumentality
-  - chain/mind-vs-soul
-  - chain/soul-expiation
-  - chain/free-will-and-gods-plan
+message_id: 2016-03-17-af-alec-gaunt
 aliases: ["You Must Be the Examples"]
 date: 2016-03-17
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Selah, WA, USA"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+keywords:
+  - "be the example"
+  - "teaching others"
+  - "Circles of Light"
+  - "channel of love"
+  - "experience over argument"
+  - "ego and ambition"
+  - "serve God"
+  - "clearing the channel"
+  - "debris"
+  - "geyser of light"
+  - "breakthrough"
+  - "soul awareness"
+  - "fighting the darkness"
+  - "God's plan"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+chains:
+  - "[[Chains/bell-toll-instrumentality]]"
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/soul-expiation]]"
+  - "[[Chains/free-will-and-gods-plan]]"
 ---
 
 # You Must Be the Examples

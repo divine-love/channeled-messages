@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - keyword/instruments-of-god
-  - keyword/channel-of-love
-  - keyword/faith
-  - keyword/unique-purpose
-  - keyword/honoring-others
-  - keyword/god-s-garden
-  - keyword/chain-of-light
-  - keyword/lattice-of-light
-  - keyword/soul-gifts
-  - keyword/protection
-  - keyword/service
-  - keyword/alignment
-  - keyword/yearnings
-  - keyword/cascading-love
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-10-19-af-john-the-beloved
 aliases: ["You Are Becoming God's Instruments and Channels of Love"]
 date: 2015-10-19
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/discipleship|Discipleship]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+keywords:
+  - "instruments of God"
+  - "channel of love"
+  - "faith"
+  - "unique purpose"
+  - "honoring others"
+  - "God's garden"
+  - "chain of light"
+  - "lattice of light"
+  - "soul gifts"
+  - "protection"
+  - "service"
+  - "alignment"
+  - "yearnings"
+  - "cascading love"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/you-are-becoming-gods-instruments-and-channels-of-love/"
 ---
 
 # You Are Becoming God's Instruments and Channels of Love

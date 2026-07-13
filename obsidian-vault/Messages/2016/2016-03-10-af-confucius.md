@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/willfulness
-  - keyword/mind-versus-soul
-  - keyword/free-will
-  - keyword/creative-thought
-  - keyword/power
-  - keyword/acknowledgement
-  - keyword/soul-precedence
-  - keyword/self-love
-  - keyword/instruments-of-change
-  - keyword/prayer
-  - keyword/yoke
-  - keyword/humility
-  - keyword/surrender
-  - keyword/purpose
-  - collection/mind-and-soul
-  - chain/mind-vs-soul
+message_id: 2016-03-10-af-confucius
 aliases: ["Struggle of Mind"]
 date: 2016-03-10
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "willfulness"
+  - "mind versus soul"
+  - "free will"
+  - "creative thought"
+  - "power"
+  - "acknowledgement"
+  - "soul precedence"
+  - "self-love"
+  - "instruments of change"
+  - "prayer"
+  - "yoke"
+  - "humility"
+  - "surrender"
+  - "purpose"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+chains:
+  - "[[Chains/mind-vs-soul]]"
 ---
 
 # Struggle of Mind

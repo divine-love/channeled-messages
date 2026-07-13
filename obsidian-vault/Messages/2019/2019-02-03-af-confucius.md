@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - keyword/healing
-  - keyword/blessing
-  - keyword/physical-healing
-  - keyword/spiritual-healing
-  - keyword/peace
-  - keyword/god-s-presence
-  - keyword/upliftment
-  - keyword/angels
-  - keyword/counsel-of-truth
-  - keyword/god-s-touch
-  - collection/healing-path
+message_id: 2019-02-03-af-confucius
 aliases: ["Blessings and Healings"]
 date: 2019-02-03
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+keywords:
+  - "healing"
+  - "blessing"
+  - "physical healing"
+  - "spiritual healing"
+  - "peace"
+  - "God's presence"
+  - "upliftment"
+  - "angels"
+  - "counsel of truth"
+  - "God's touch"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/blessings-and-healings/"
 ---
 
 # Blessings and Healings

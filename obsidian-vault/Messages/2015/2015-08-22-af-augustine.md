@@ -1,25 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/soul-changes
-  - keyword/inner-shifts
-  - keyword/consciousness
-  - keyword/awareness
-  - keyword/fellowship
-  - keyword/sharing
-  - keyword/retreat
-  - keyword/transformation
-  - keyword/harmony
-  - keyword/god-s-touch
-  - keyword/integration
-  - keyword/community
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-22-af-augustine
 aliases: ["Augustine Advises a Retreat Group to Talk about Their Inner Soul Changes"]
 date: 2015-08-22
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "soul changes"
+  - "inner shifts"
+  - "consciousness"
+  - "awareness"
+  - "fellowship"
+  - "sharing"
+  - "retreat"
+  - "transformation"
+  - "harmony"
+  - "God's touch"
+  - "integration"
+  - "community"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/augustine-advises-a-retreat-group-to-talk-about-their-inner-soul-changes/"
 ---
 
 # Augustine Advises a Retreat Group to Talk about Their Inner Soul Changes

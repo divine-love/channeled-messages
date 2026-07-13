@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - keyword/fellowship
-  - keyword/bonds
-  - keyword/distance
-  - keyword/soul-connection
-  - keyword/communication
-  - keyword/unity
-  - keyword/new-phase
-  - keyword/gifts-opening
-  - keyword/soul-perception
-  - keyword/truth
-  - keyword/love
-  - keyword/journey
-  - keyword/together
-  - keyword/brothers-and-sisters
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-28-af-augustine
 aliases: ["Work Together in Love"]
 date: 2015-08-28
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+keywords:
+  - "fellowship"
+  - "bonds"
+  - "distance"
+  - "soul connection"
+  - "communication"
+  - "unity"
+  - "new phase"
+  - "gifts opening"
+  - "soul perception"
+  - "truth"
+  - "love"
+  - "journey"
+  - "together"
+  - "brothers and sisters"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/work-together-in-love/"
 ---
 
 # Work Together in Love

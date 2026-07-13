@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/prayer
-  - keyword/power-of-prayer
-  - keyword/longing-of-the-soul
-  - keyword/recitation
-  - keyword/anchor
-  - keyword/foundation
-  - keyword/channel-of-love
-  - keyword/holy-spirit
-  - keyword/guidance
-  - keyword/angels
-  - keyword/free-will
-  - keyword/discipline
-  - keyword/intentions
-  - keyword/outpouring
-  - keyword/path-divine
-  - essential/core-teaching
-  - chain/prayer-soul-longing
+message_id: 2016-01-23-af-augustine
 aliases: ["The Power of Prayer"]
 date: 2016-01-23
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Hawaii, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "prayer"
+  - "power of prayer"
+  - "longing of the soul"
+  - "recitation"
+  - "anchor"
+  - "foundation"
+  - "channel of love"
+  - "Holy Spirit"
+  - "guidance"
+  - "angels"
+  - "free will"
+  - "discipline"
+  - "intentions"
+  - "outpouring"
+  - "Path Divine"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/prayer-soul-longing]]"
 ---
 
 # The Power of Prayer

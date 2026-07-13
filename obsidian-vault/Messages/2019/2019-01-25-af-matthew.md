@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - keyword/intention
-  - keyword/questions
-  - keyword/soul-truth
-  - keyword/free-will
-  - keyword/spirit-communication
-  - keyword/harmony
-  - keyword/clarity
-  - keyword/unity
-  - keyword/channel-for-truth
-  - keyword/seeking
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-01-25-af-matthew
 aliases: ["What Is the Desire of Your Soul in Terms of Truth?"]
 date: 2019-01-25
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+keywords:
+  - "intention"
+  - "questions"
+  - "soul truth"
+  - "free will"
+  - "spirit communication"
+  - "harmony"
+  - "clarity"
+  - "unity"
+  - "channel for truth"
+  - "seeking"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/what-is-the-desire-of-your-soul-in-terms-of-truth/"
 ---
 
 # What Is the Desire of Your Soul in Terms of Truth?

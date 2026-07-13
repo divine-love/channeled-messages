@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/spiritual-community-and-fellowship
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - keyword/bishop-of-hippo
-  - keyword/church-of-christ
-  - keyword/erroneous-beliefs
-  - keyword/incremental
-  - keyword/dollop-of-love
-  - keyword/ascension
-  - keyword/celestial-kingdom
-  - keyword/fellowship
-  - keyword/unique-soul
-  - keyword/new-york
-  - keyword/transformation
-  - keyword/truth-shall-set-you-free
-  - keyword/stream-of-love
-  - collection/letters-from-history
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - essential/spirit-biography
-  - chain/religious-error
+message_id: 2015-03-28-af-augustine
 aliases: ["The Journey of Divine Love Takes Time but Brings Great Benefits"]
 date: 2015-03-28
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+keywords:
+  - "bishop of Hippo"
+  - "church of Christ"
+  - "erroneous beliefs"
+  - "incremental"
+  - "dollop of love"
+  - "ascension"
+  - "Celestial Kingdom"
+  - "fellowship"
+  - "unique soul"
+  - "New York"
+  - "transformation"
+  - "truth shall set you free"
+  - "stream of love"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+chains:
+  - "[[Chains/religious-error]]"
 ---
 
 # The Journey of Divine Love Takes Time but Brings Great Benefits

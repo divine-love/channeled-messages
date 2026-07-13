@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/new-birth
-  - keyword/soul-awakening
-  - keyword/beacon
-  - keyword/transformation
-  - keyword/world-service
-  - keyword/god-s-need
-  - keyword/ignorance
-  - keyword/at-onement
-  - keyword/flame
-  - keyword/cloak-of-pain
-  - collection/the-saints-and-apostles-speak
-  - collection/awakening-humanity
+message_id: 2019-01-29-af-matthew
 aliases: ["God Needs Us to Bring Truth"]
 date: 2019-01-29
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "New Birth"
+  - "soul awakening"
+  - "beacon"
+  - "transformation"
+  - "world service"
+  - "God's need"
+  - "ignorance"
+  - "at-onement"
+  - "flame"
+  - "cloak of pain"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+canonical_url: "https://divinelovesanctuary.com/god-needs-us-to-bring-truth/"
 ---
 
 # God Needs Us to Bring Truth

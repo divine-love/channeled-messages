@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/discernment
-  - keyword/soul-consciousness
-  - keyword/human-condition
-  - keyword/prayer
-  - keyword/discipline
-  - keyword/circles-of-light
-  - keyword/soul-perception
-  - keyword/fear
-  - keyword/world-service
-  - keyword/retreat
-  - collection/service-and-mission
+message_id: 2015-08-24-af-augustine
 aliases: ["Discernment and Soul Alignment after the Retreat"]
 date: 2015-08-24
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "discernment"
+  - "soul consciousness"
+  - "human condition"
+  - "prayer"
+  - "discipline"
+  - "Circles of Light"
+  - "soul perception"
+  - "fear"
+  - "world service"
+  - "retreat"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
 ---
 
 # Discernment and Soul Alignment after the Retreat

@@ -1,25 +1,32 @@
 ---
-tags:
-  - spirit/albert-einstein
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/scientists
-  - keyword/intermediaries
-  - keyword/truth
-  - keyword/higher-spheres
-  - keyword/communication
-  - keyword/god-s-plan
-  - keyword/orchestra
-  - keyword/ballet
-  - keyword/celestial-kingdom
-  - keyword/guiding-souls
-  - collection/letters-from-history
-  - mentions/augustine
+message_id: 2019-01-28-af-albert-einstein
 aliases: ["How Can We Help Approach Scientists?"]
 date: 2019-01-28
+spirit: "[[Spirits/albert-einstein|Albert Einstein]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+secondary_subjects:
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "scientists"
+  - "intermediaries"
+  - "truth"
+  - "higher spheres"
+  - "communication"
+  - "God's plan"
+  - "orchestra"
+  - "ballet"
+  - "Celestial Kingdom"
+  - "guiding souls"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+mentions:
+  - "[[Spirits/augustine]]"
+canonical_url: "https://divinelovesanctuary.com/how-can-we-help-approach-scientists/"
 ---
 
 # How Can We Help Approach Scientists?

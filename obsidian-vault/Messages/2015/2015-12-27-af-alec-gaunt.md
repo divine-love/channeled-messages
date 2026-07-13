@@ -1,25 +1,29 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - keyword/non-judgment
-  - keyword/acceptance
-  - keyword/god-s-instruments
-  - keyword/humility
-  - keyword/fear
-  - keyword/soul-expression
-  - keyword/embracing-others
-  - keyword/flow-of-love
-  - keyword/doors-opening
-  - keyword/prayer-for-others
+message_id: 2015-12-27-af-alec-gaunt
 aliases: ["Allow the Love in Your Souls to Open Many Doors"]
 date: 2015-12-27
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/releasing-judgment|Releasing Judgment]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+keywords:
+  - "non-judgment"
+  - "acceptance"
+  - "God's instruments"
+  - "humility"
+  - "fear"
+  - "soul expression"
+  - "embracing others"
+  - "flow of love"
+  - "doors opening"
+  - "prayer for others"
 ---
 
 # Allow the Love in Your Souls to Open Many Doors

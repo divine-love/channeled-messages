@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/spiritual-community-and-fellowship
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/family-of-humanity
-  - keyword/diversity
-  - keyword/commonality
-  - keyword/little-children
-  - keyword/living-waters
-  - keyword/warmth-of-the-son
-  - keyword/brothers-and-sisters
-  - keyword/new-york
-  - keyword/judgment
-  - keyword/openness
-  - keyword/radiant
-  - keyword/gathering
+message_id: 2015-03-27-af-confucius
 aliases: ["You Are All Members of a Family"]
 date: 2015-03-27
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "family of humanity"
+  - "diversity"
+  - "commonality"
+  - "little children"
+  - "living waters"
+  - "warmth of the Son"
+  - "brothers and sisters"
+  - "New York"
+  - "judgment"
+  - "openness"
+  - "radiant"
+  - "gathering"
 ---
 
 # You Are All Members of a Family

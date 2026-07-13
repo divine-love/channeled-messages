@@ -1,40 +1,49 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/teaching
-  - subject/celestial-governance-and-spiritual-law/law-of-attraction
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/creation-and-incarnation/natural-love-and-human-development
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - keyword/reincarnation
-  - keyword/past-lives
-  - keyword/law-of-attraction
-  - keyword/spirit-influence
-  - keyword/spirit-rapport
-  - keyword/yogis
-  - keyword/gurus
-  - keyword/india
-  - keyword/hindu-tradition
-  - keyword/yoga
-  - keyword/meditation
-  - keyword/natural-love-path
-  - keyword/soul-awakening
-  - keyword/sensitive-souls
-  - keyword/spiritual-misconceptions
-  - keyword/soul-spheres
-  - keyword/at-onement
-  - collection/two-paths
-  - collection/letters-from-history
-  - essential/core-teaching
-  - essential/spirit-biography
-  - mentions/jesus
-  - chain/reincarnation-progression
-  - chain/mind-vs-soul
-  - chain/religious-error
+message_id: 2019-01-31-af-yogananda
 aliases: ["Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East"]
 date: 2019-01-31
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/law-of-attraction|Law of Attraction]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/natural-love-and-human-development|Natural Love & Human Development]]"
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+keywords:
+  - "reincarnation"
+  - "past lives"
+  - "law of attraction"
+  - "spirit influence"
+  - "spirit rapport"
+  - "yogis"
+  - "gurus"
+  - "India"
+  - "Hindu tradition"
+  - "yoga"
+  - "meditation"
+  - "natural love path"
+  - "soul awakening"
+  - "sensitive souls"
+  - "spiritual misconceptions"
+  - "soul spheres"
+  - "at-onement"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+chains:
+  - "[[Chains/reincarnation-progression]]"
+  - "[[Chains/mind-vs-soul]]"
+  - "[[Chains/religious-error]]"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/reincarnation-and-the-perception-of-it-proliferated-by-many-yogis-and-gurus-of-the-east/"
 ---
 
 # Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East

@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/gratitude
-  - keyword/prayer
-  - keyword/answers-within
-  - keyword/truth
-  - keyword/soul-awakening
-  - keyword/transcripts
-  - keyword/cornucopia-of-truth
-  - keyword/circles-of-light
-  - keyword/gathering
-  - keyword/closing-blessing
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-01-30-af-matthew
 aliases: ["Thank You for Your Efforts in Prayer"]
 date: 2019-01-30
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "gratitude"
+  - "prayer"
+  - "answers within"
+  - "truth"
+  - "soul awakening"
+  - "transcripts"
+  - "cornucopia of truth"
+  - "circles of light"
+  - "gathering"
+  - "closing blessing"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/thank-you-for-your-efforts-in-prayer/"
 ---
 
 # Thank You for Your Efforts in Prayer

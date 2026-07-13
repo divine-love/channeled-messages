@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - keyword/bridge
-  - keyword/invitation
-  - keyword/free-will
-  - keyword/choice
-  - keyword/commitment
-  - keyword/soul-awakening
-  - keyword/the-one-truth
-  - keyword/first-step
-  - keyword/divine-love
-  - keyword/crossing-over
-  - keyword/trust
-  - keyword/release-from-the-human-condition
-  - keyword/many-doors
-  - keyword/set-you-free
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-03-04-af-augustine
 aliases: ["A Bridge Is Set Before You"]
 date: 2019-03-04
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "New York, New York, United States"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+keywords:
+  - "bridge"
+  - "invitation"
+  - "free will"
+  - "choice"
+  - "commitment"
+  - "soul awakening"
+  - "the one truth"
+  - "first step"
+  - "Divine Love"
+  - "crossing over"
+  - "trust"
+  - "release from the human condition"
+  - "many doors"
+  - "set you free"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/a-bridge-is-set-before-you/"
 ---
 
 # A Bridge Is Set Before You

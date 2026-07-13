@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/michael
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/simple-truth
-  - keyword/soul
-  - keyword/mind
-  - keyword/materialism
-  - keyword/natural-love
-  - keyword/divine-love
-  - keyword/prayer
-  - keyword/at-onement
-  - keyword/world-healing
-  - keyword/apathy
-  - collection/mind-and-soul
-  - collection/two-paths
+message_id: 2018-11-22-af-michael
 aliases: ["Speak of Simple Truth"]
 date: 2018-11-22
+spirit: "[[Spirits/michael|Michael]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "simple truth"
+  - "soul"
+  - "mind"
+  - "materialism"
+  - "natural love"
+  - "Divine Love"
+  - "prayer"
+  - "at-onement"
+  - "world healing"
+  - "apathy"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/two-paths|Two Paths]]"
+canonical_url: "https://divinelovesanctuary.com/speak-of-simple-truth/"
 ---
 
 # Speak of Simple Truth

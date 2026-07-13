@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/god-s-nature-and-essence
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/soul-gifts
-  - keyword/chambers-of-the-soul
-  - keyword/seeds
-  - keyword/germination
-  - keyword/garden
-  - keyword/diamond
-  - keyword/kaleidoscope
-  - keyword/snowflake
-  - keyword/uniqueness
-  - keyword/divine-love
-  - keyword/awakening
-  - keyword/living-waters
-  - keyword/mummified
-  - keyword/facets
-  - keyword/progression
-  - keyword/circle-of-seven
-  - essential/core-teaching
-  - chain/soul-faculties
+message_id: 2018-10-16-af-seretta-kem
 aliases: ["A Kaleidoscope of Light"]
 date: 2018-10-16
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/god-s-nature-and-essence|God's Nature & Essence]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "soul gifts"
+  - "chambers of the soul"
+  - "seeds"
+  - "germination"
+  - "garden"
+  - "diamond"
+  - "kaleidoscope"
+  - "snowflake"
+  - "uniqueness"
+  - "Divine Love"
+  - "awakening"
+  - "living waters"
+  - "mummified"
+  - "facets"
+  - "progression"
+  - "circle of seven"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/soul-faculties]]"
+canonical_url: "https://divinelovesanctuary.com/a-kaleidoscope-of-light/"
 ---
 
 # A Kaleidoscope of Light

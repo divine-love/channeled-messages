@@ -1,30 +1,35 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-community-and-fellowship
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/awareness
-  - keyword/conscious-choice
-  - keyword/light
-  - keyword/dark-forces
-  - keyword/disharmony
-  - keyword/prayer
-  - keyword/faith
-  - keyword/discipline
-  - keyword/fellowship
-  - keyword/soul-growth
-  - keyword/love
-  - keyword/god-s-protection
-  - keyword/human-condition
-  - keyword/negativity
-  - keyword/channel-of-light
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-05-04-af-augustine
 aliases: ["Be Aware of Each Step You Take"]
 date: 2015-05-04
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "awareness"
+  - "conscious choice"
+  - "Light"
+  - "dark forces"
+  - "disharmony"
+  - "prayer"
+  - "faith"
+  - "discipline"
+  - "fellowship"
+  - "soul growth"
+  - "love"
+  - "God's protection"
+  - "human condition"
+  - "negativity"
+  - "channel of light"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Be Aware of Each Step You Take

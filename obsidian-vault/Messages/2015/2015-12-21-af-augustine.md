@@ -1,24 +1,29 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/christmas
-  - keyword/channels-of-love
-  - keyword/world-change
-  - keyword/goodwill
-  - keyword/jesus
-  - keyword/touchstone
-  - keyword/compromise
-  - keyword/truth
-  - keyword/light
-  - mentions/jesus
+message_id: 2015-12-21-af-augustine
 aliases: ["Be a Channel of Love in a Changing World"]
 date: 2015-12-21
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "Christmas"
+  - "channels of love"
+  - "world change"
+  - "goodwill"
+  - "Jesus"
+  - "touchstone"
+  - "compromise"
+  - "truth"
+  - "Light"
+mentions:
+  - "[[Spirits/jesus]]"
 ---
 
 # Be a Channel of Love in a Changing World

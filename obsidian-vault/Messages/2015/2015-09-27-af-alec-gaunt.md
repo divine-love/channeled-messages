@@ -1,22 +1,26 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/encouragement
-  - keyword/perseverance
-  - keyword/direction
-  - keyword/spirit-guidance
-  - keyword/behind-the-scenes
-  - keyword/world-healing
-  - keyword/service
-  - keyword/celestial-orchestra
+message_id: 2015-09-27-af-alec-gaunt
 aliases: ["Continue Steadfastly on the Path of Love"]
 date: 2015-09-27
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+secondary_subjects:
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "encouragement"
+  - "perseverance"
+  - "direction"
+  - "spirit guidance"
+  - "behind the scenes"
+  - "world healing"
+  - "service"
+  - "celestial orchestra"
 ---
 
 # Continue Steadfastly on the Path of Love

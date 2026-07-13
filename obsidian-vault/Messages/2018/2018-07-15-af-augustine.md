@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship
-  - subject/spiritual-discipline-and-daily-living/humility
-  - keyword/blessed-ten-times-over
-  - keyword/commitment
-  - keyword/community
-  - keyword/bonds-of-love
-  - keyword/vulnerability
-  - keyword/openness
-  - keyword/living-example
-  - keyword/concerted-effort
-  - keyword/jeopardy
-  - keyword/spiritual-neglect
-  - keyword/generosity-of-god
-  - keyword/eternity
-  - keyword/awakening-together
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-07-15-af-augustine
 aliases: ["Your Efforts Are Blessed Ten Times Over"]
 date: 2018-07-15
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/humility|Humility]]"
+keywords:
+  - "blessed ten times over"
+  - "commitment"
+  - "community"
+  - "bonds of love"
+  - "vulnerability"
+  - "openness"
+  - "living example"
+  - "concerted effort"
+  - "jeopardy"
+  - "spiritual neglect"
+  - "generosity of God"
+  - "eternity"
+  - "awakening together"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/your-efforts-are-blessed-ten-times-over/"
 ---
 
 # Your Efforts Are Blessed Ten Times Over

@@ -1,23 +1,29 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-community-and-fellowship
-  - keyword/service
-  - keyword/commitment
-  - keyword/questions
-  - keyword/gifts
-  - keyword/one-thing
-  - keyword/god-s-will
-  - keyword/retreat
-  - keyword/dedication
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-16-af-augustine-3
 aliases: ["Bringing Forward the Gift of Yourselves in Service to God Will Bring Many Rewards"]
 date: 2015-08-16
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "service"
+  - "commitment"
+  - "questions"
+  - "gifts"
+  - "one thing"
+  - "God's will"
+  - "retreat"
+  - "dedication"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Bringing Forward the Gift of Yourselves in Service to God Will Bring Many Rewards

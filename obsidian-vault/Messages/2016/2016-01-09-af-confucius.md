@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-community-and-fellowship
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/gifts
-  - keyword/unique-gifts
-  - keyword/god-s-will
-  - keyword/guidance
-  - keyword/channel-of-love
-  - keyword/eagerness
-  - keyword/new-era
-  - keyword/service
-  - keyword/instruments-of-light
-  - keyword/purpose
-  - keyword/celebration
-  - keyword/souls
-  - collection/service-and-mission
-  - collection/prism-of-the-soul
+message_id: 2016-01-09-af-confucius
 aliases: ["Your Beautiful Souls Are Eager"]
 date: 2016-01-09
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "gifts"
+  - "unique gifts"
+  - "God's will"
+  - "guidance"
+  - "channel of love"
+  - "eagerness"
+  - "new era"
+  - "service"
+  - "instruments of light"
+  - "purpose"
+  - "celebration"
+  - "souls"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/prism-of-the-soul|Prism of the Soul]]"
 ---
 
 # Your Beautiful Souls Are Eager

@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/francis-of-assisi
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/interdimensional-and-spirit-communication/celestial-heavens-and-at-onement
-  - keyword/celestial-heavens
-  - keyword/at-onement
-  - keyword/channel-of-love
-  - keyword/nature
-  - keyword/animals
-  - keyword/renunciation
-  - keyword/material-world
-  - keyword/humble-life
-  - keyword/bell-toll
-  - keyword/holy-spirit
-  - keyword/eternal
-  - keyword/simple-request
-  - keyword/no-churches
-  - keyword/no-dogma
-  - keyword/transformation
-  - collection/letters-from-history
-  - collection/the-saints-and-apostles-speak
-  - essential/spirit-biography
-  - mentions/jesus
-  - chain/bell-toll-instrumentality
+message_id: 2016-01-28-af-francis-of-assisi
 aliases: ["How I Became a Channel of Love in the World"]
 date: 2016-01-28
+spirit: "[[Spirits/francis-of-assisi|Francis of Assisi]]"
+medium: "Al Fike"
+location: "Hawaii, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/celestial-heavens-and-at-onement|Celestial Heavens & At-onement]]"
+keywords:
+  - "Celestial Heavens"
+  - "at-onement"
+  - "channel of love"
+  - "nature"
+  - "animals"
+  - "renunciation"
+  - "material world"
+  - "humble life"
+  - "bell toll"
+  - "Holy Spirit"
+  - "eternal"
+  - "simple request"
+  - "no churches"
+  - "no dogma"
+  - "transformation"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Spirit Biography"
+chains:
+  - "[[Chains/bell-toll-instrumentality]]"
+mentions:
+  - "[[Spirits/jesus]]"
 ---
 
 # How I Became a Channel of Love in the World

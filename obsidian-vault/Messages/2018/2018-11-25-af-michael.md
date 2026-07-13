@@ -1,24 +1,29 @@
 ---
-tags:
-  - spirit/michael
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - keyword/invitation
-  - keyword/beginners
-  - keyword/soul-transformation
-  - keyword/divine-love
-  - keyword/gifts
-  - keyword/celestial-assistance
-  - keyword/prayer
-  - keyword/asking
-  - keyword/abundance
-  - keyword/circle-of-light
+message_id: 2018-11-25-af-michael
 aliases: ["An Invitation to a Beginners Group in Fitzroy Falls"]
 date: 2018-11-25
+spirit: "[[Spirits/michael|Michael]]"
+medium: "Al Fike"
+location: "Fitzroy Falls, NSW, Australia"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+keywords:
+  - "invitation"
+  - "beginners"
+  - "soul transformation"
+  - "Divine Love"
+  - "gifts"
+  - "celestial assistance"
+  - "prayer"
+  - "asking"
+  - "abundance"
+  - "circle of light"
+canonical_url: "https://divinelovesanctuary.com/talk-to-a-beginners-group-in-fitzroy-falls-au/"
 ---
 
 # An Invitation to a Beginners Group in Fitzroy Falls

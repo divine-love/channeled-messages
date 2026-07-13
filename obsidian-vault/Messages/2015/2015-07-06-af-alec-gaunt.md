@@ -1,31 +1,36 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/earth-changes-and-prophecy
-  - subject/preparation-for-earth-mission
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - keyword/earth-changes
-  - keyword/climate-change
-  - keyword/warming
-  - keyword/ice-melting
-  - keyword/core-shifts
-  - keyword/cataclysm
-  - keyword/transition
-  - keyword/channel-of-love
-  - keyword/teachers-of-truth
-  - keyword/consciousness-shift
-  - keyword/preparation
-  - keyword/god-s-will
-  - keyword/opportunities
-  - keyword/interesting-times
-  - keyword/imbalance
-  - keyword/greed
-  - collection/awakening-humanity
+message_id: 2015-07-06-af-alec-gaunt
 aliases: ["The World Is Changing"]
 date: 2015-07-06
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+keywords:
+  - "earth changes"
+  - "climate change"
+  - "warming"
+  - "ice melting"
+  - "core shifts"
+  - "cataclysm"
+  - "transition"
+  - "channel of love"
+  - "teachers of truth"
+  - "consciousness shift"
+  - "preparation"
+  - "God's will"
+  - "opportunities"
+  - "interesting times"
+  - "imbalance"
+  - "greed"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
 ---
 
 # The World Is Changing

@@ -1,26 +1,30 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-community-and-fellowship
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - keyword/countrymen
-  - keyword/courtesies-of-prayer
-  - keyword/journeyed-far
-  - keyword/mission
-  - keyword/calling
-  - keyword/new-york
-  - keyword/eager-souls
-  - keyword/fellowship
-  - keyword/bond
-  - keyword/rapturous-love
-  - keyword/soul-awareness
-  - keyword/mighty-door
-  - keyword/chinese-seekers
+message_id: 2015-03-29-af-confucius
 aliases: ["Answering the Call to Gather in Love"]
 date: 2015-03-29
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+keywords:
+  - "countrymen"
+  - "courtesies of prayer"
+  - "journeyed far"
+  - "mission"
+  - "calling"
+  - "New York"
+  - "eager souls"
+  - "fellowship"
+  - "bond"
+  - "rapturous love"
+  - "soul awareness"
+  - "mighty door"
+  - "Chinese seekers"
 ---
 
 # Answering the Call to Gather in Love

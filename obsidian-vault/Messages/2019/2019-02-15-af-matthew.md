@@ -1,31 +1,39 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/pentecost
-  - keyword/fire-that-did-not-burn
-  - keyword/sudden-awakening
-  - keyword/instantaneous-healing
-  - keyword/incremental-journey
-  - keyword/cleansing
-  - keyword/the-beating-of-the-soul
-  - keyword/yearning
-  - keyword/answers-within
-  - keyword/disciples
-  - keyword/transformation
-  - keyword/burdens-released
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - essential/spirit-biography
-  - chain/pentecost
-  - chain/soul-expiation
+message_id: 2019-02-15-af-matthew
 aliases: ["The Experience of Pentecost"]
 date: 2019-02-15
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+secondary_subjects:
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "Pentecost"
+  - "fire that did not burn"
+  - "sudden awakening"
+  - "instantaneous healing"
+  - "incremental journey"
+  - "cleansing"
+  - "the beating of the soul"
+  - "yearning"
+  - "answers within"
+  - "disciples"
+  - "transformation"
+  - "burdens released"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+chains:
+  - "[[Chains/pentecost]]"
+  - "[[Chains/soul-expiation]]"
+canonical_url: "https://divinelovesanctuary.com/the-experience-of-pentecost/"
 ---
 
 # The Experience of Pentecost

@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/soul-healing-and-emotional-restoration
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - keyword/retreat
-  - keyword/gathering
-  - keyword/preparation
-  - keyword/door
-  - keyword/threshold
-  - keyword/liberation
-  - keyword/soul-encrustations
-  - keyword/release
-  - keyword/openness
-  - keyword/god-s-orchestration
-  - keyword/gifts
-  - keyword/awareness
-  - keyword/faith
-  - keyword/transformation
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-07-21-af-augustine
 aliases: ["A Door Opens: Will You Enter through Its Threshold?"]
 date: 2015-07-21
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+keywords:
+  - "retreat"
+  - "gathering"
+  - "preparation"
+  - "door"
+  - "threshold"
+  - "liberation"
+  - "soul encrustations"
+  - "release"
+  - "openness"
+  - "God's orchestration"
+  - "gifts"
+  - "awareness"
+  - "faith"
+  - "transformation"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/door-opens-will-enter-threshold/"
 ---
 
 # A Door Opens: Will You Enter through Its Threshold?

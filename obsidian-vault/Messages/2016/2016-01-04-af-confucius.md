@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-warfare-and-opposition/darkness-vs-light
-  - keyword/soul-mind
-  - keyword/merging-of-awarenesses
-  - keyword/soul-perception
-  - keyword/filters
-  - keyword/prejudices
-  - keyword/obstructions
-  - keyword/clarity
-  - keyword/double-edged-sword
-  - keyword/darkness
-  - keyword/god-s-creation
-  - keyword/man-s-creation
-  - keyword/anchor
-  - keyword/divine-love
-  - keyword/channel-of-healing
-  - keyword/family-of-love
-  - collection/mind-and-soul
-  - essential/core-teaching
+message_id: 2016-01-04-af-confucius
 aliases: ["Accepting the New Awarenesses of an Opening Soul"]
 date: 2016-01-04
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/darkness-vs-light|Darkness vs Light]]"
+keywords:
+  - "soul mind"
+  - "merging of awarenesses"
+  - "soul perception"
+  - "filters"
+  - "prejudices"
+  - "obstructions"
+  - "clarity"
+  - "double-edged sword"
+  - "darkness"
+  - "God's creation"
+  - "man's creation"
+  - "anchor"
+  - "Divine Love"
+  - "channel of healing"
+  - "family of Love"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/accepting-the-new-awarenesses-of-an-opening-soul/"
 ---
 
 # Accepting the New Awarenesses of an Opening Soul

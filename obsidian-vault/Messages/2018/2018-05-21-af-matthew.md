@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/matthew
-  - type/blessing
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/greater-love
-  - keyword/dormant-gifts
-  - keyword/soul-longing
-  - keyword/sustenance
-  - keyword/awakening
-  - keyword/prayer
-  - keyword/commune-with-god
-  - keyword/respite
-  - keyword/unique-path
-  - keyword/faculties
-  - keyword/hidden-aspects
-  - keyword/light-of-day
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-05-21-af-matthew
 aliases: ["Awaken to the Greater Love"]
 date: 2018-05-21
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "greater love"
+  - "dormant gifts"
+  - "soul longing"
+  - "sustenance"
+  - "awakening"
+  - "prayer"
+  - "commune with God"
+  - "respite"
+  - "unique path"
+  - "faculties"
+  - "hidden aspects"
+  - "light of day"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/awaken-to-the-greater-love/"
 ---
 
 # Awaken to the Greater Love

@@ -1,27 +1,32 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/firmer-ground
-  - keyword/uncertainty
-  - keyword/confusion
-  - keyword/soul-shifts
-  - keyword/prayer
-  - keyword/patience
-  - keyword/waiting
-  - keyword/god-s-plan
-  - keyword/peace
-  - keyword/speculation
-  - keyword/daily-prayer
-  - keyword/perceptions
-  - keyword/assimilation
-  - keyword/divine-will
+message_id: 2015-09-07-af-confucius
 aliases: ["Take Time to Come to Firmer Ground"]
 date: 2015-09-07
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "firmer ground"
+  - "uncertainty"
+  - "confusion"
+  - "soul shifts"
+  - "prayer"
+  - "patience"
+  - "waiting"
+  - "God's plan"
+  - "peace"
+  - "speculation"
+  - "daily prayer"
+  - "perceptions"
+  - "assimilation"
+  - "Divine Will"
+canonical_url: "https://divinelovesanctuary.com/take-time-to-come-to-firmer-ground/"
 ---
 
 # Take Time to Come to Firmer Ground

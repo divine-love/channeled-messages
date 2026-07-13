@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/martin-luther
-  - type/teaching
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/god-s-will
-  - keyword/free-will
-  - keyword/man-s-will
-  - keyword/prayer
-  - keyword/opposition
-  - keyword/salvation
-  - keyword/world-healing-centre
-  - keyword/alignment
-  - keyword/faith
-  - keyword/obstructions
-  - keyword/celestial-heavens
-  - keyword/light
-  - keyword/peace
-  - keyword/flexibility
-  - chain/free-will-and-gods-plan
-  - chain/religious-error
+message_id: 2015-06-21-af-martin-luther
 aliases: ["God's Will Is above Man's Will"]
 date: 2015-06-21
+spirit: "[[Spirits/martin-luther|Martin Luther]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+secondary_subjects:
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "God's will"
+  - "free will"
+  - "man's will"
+  - "prayer"
+  - "opposition"
+  - "salvation"
+  - "World Healing Centre"
+  - "alignment"
+  - "faith"
+  - "obstructions"
+  - "Celestial Heavens"
+  - "light"
+  - "peace"
+  - "flexibility"
+chains:
+  - "[[Chains/free-will-and-gods-plan]]"
+  - "[[Chains/religious-error]]"
+canonical_url: "https://divinelovesanctuary.com/gods-will-mans-will/"
 ---
 
 # God's Will Is above Man's Will

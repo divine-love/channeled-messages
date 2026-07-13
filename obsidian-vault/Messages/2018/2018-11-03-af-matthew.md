@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/collective-awakening-and-redemption
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/lost-souls
-  - keyword/soul-potential
-  - keyword/spiritual-deprivation
-  - keyword/channel-of-love
-  - keyword/light-to-the-world
-  - keyword/salvation
-  - keyword/spiritual-darkness
-  - keyword/awakening
-  - collection/awakening-humanity
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-11-03-af-matthew
 aliases: ["Live the Truth of God's Love"]
 date: 2018-11-03
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "lost souls"
+  - "soul potential"
+  - "spiritual deprivation"
+  - "channel of love"
+  - "light to the world"
+  - "salvation"
+  - "spiritual darkness"
+  - "awakening"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/live-the-truth-of-gods-love/"
 ---
 
 # Live the Truth of God's Love

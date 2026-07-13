@@ -4,5 +4,6 @@
 
 ## Start here
 - [[Ask the Archive]] — search any question
+- [[Subjects Index]] — browse the full taxonomy
 - Browse the `Chains/` folder for the argument threads
 - Open the graph view; filter with `-path:"Subjects"` if hubs dominate

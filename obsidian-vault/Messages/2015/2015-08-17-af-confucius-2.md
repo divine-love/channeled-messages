@@ -1,29 +1,36 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-community-and-fellowship
-  - subject/nature-environment-and-god-s-creation/beauty-and-spiritual-joy
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/multiple-spirits
-  - keyword/blessing
-  - keyword/retreat
-  - keyword/encouragement
-  - keyword/fellowship
-  - keyword/disciples
-  - keyword/joy
-  - keyword/flowers
-  - collection/the-saints-and-apostles-speak
-  - collection/jesus-speaks
-  - mentions/mary
-  - mentions/john-the-beloved
-  - mentions/peter
-  - mentions/goldie
-  - mentions/jesus
+message_id: 2015-08-17-af-confucius-2
 aliases: ["The Angels Come to Bless a Retreat Gathering in Gibsons"]
 date: 2015-08-17
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/beauty-and-spiritual-joy|Beauty & Spiritual Joy]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "multiple spirits"
+  - "blessing"
+  - "retreat"
+  - "encouragement"
+  - "fellowship"
+  - "disciples"
+  - "joy"
+  - "flowers"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+  - "[[Collections/jesus-speaks|Jesus Speaks]]"
+mentions:
+  - "[[Spirits/mary]]"
+  - "[[Spirits/john-the-beloved]]"
+  - "[[Spirits/peter]]"
+  - "[[Spirits/goldie]]"
+  - "[[Spirits/jesus]]"
 ---
 
 # The Angels Come to Bless a Retreat Gathering in Gibsons

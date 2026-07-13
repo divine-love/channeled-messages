@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-will-guidance-and-orchestration
-  - subject/collective-awakening-and-redemption
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - keyword/channel-of-love
-  - keyword/soul-awakening
-  - keyword/fervent-prayer
-  - keyword/salvation
-  - keyword/lost-souls
-  - keyword/god-s-plan
-  - keyword/service
-  - collection/awakening-humanity
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-11-04-af-augustine
 aliases: ["God Invites You to Awaken in His Love"]
 date: 2018-11-04
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Burnaby, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+keywords:
+  - "channel of love"
+  - "soul awakening"
+  - "fervent prayer"
+  - "salvation"
+  - "lost souls"
+  - "God's plan"
+  - "service"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/god-invites-you-to-awaken-in-his-love/"
 ---
 
 # God Invites You to Awaken in His Love

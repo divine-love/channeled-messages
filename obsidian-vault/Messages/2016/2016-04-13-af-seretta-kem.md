@@ -1,31 +1,39 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/divine-love
-  - keyword/healing-energy
-  - keyword/magnetic-healing
-  - keyword/earth-energies
-  - keyword/prayer
-  - keyword/longing
-  - keyword/soul
-  - keyword/eternal
-  - keyword/essence
-  - keyword/flame
-  - keyword/at-onement
-  - keyword/living-waters
-  - keyword/choice
-  - keyword/invitation
-  - collection/healing-path
-  - essential/core-teaching
-  - mentions/jesus
+message_id: 2016-04-13-af-seretta-kem
 aliases: ["The Greatest Healing Energy of All Is God's Divine Love"]
 date: 2016-04-13
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Abbotsford, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "Divine Love"
+  - "healing energy"
+  - "magnetic healing"
+  - "earth energies"
+  - "prayer"
+  - "longing"
+  - "soul"
+  - "eternal"
+  - "essence"
+  - "flame"
+  - "at-onement"
+  - "living waters"
+  - "choice"
+  - "invitation"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/the-greatest-healing-energy-of-all-is-gods-divine-love/"
 ---
 
 # The Greatest Healing Energy of All Is God's Divine Love

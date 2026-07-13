@@ -1,27 +1,32 @@
 ---
-tags:
-  - spirit/martin-luther
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/spiritual-community-and-fellowship/unity-in-diversity
-  - keyword/judgment
-  - keyword/love
-  - keyword/diversity
-  - keyword/empty-basket
-  - keyword/filled-soul
-  - keyword/channel-of-love
-  - keyword/darkness
-  - keyword/compassion
-  - keyword/touch
-  - keyword/healing
-  - keyword/god-s-laws
-  - keyword/choice
-  - keyword/flame
-  - keyword/replenishment
+message_id: 2015-08-20-af-martin-luther
 aliases: ["Give to Others but Do Not Do so with an Empty Basket"]
 date: 2015-08-20
+spirit: "[[Spirits/martin-luther|Martin Luther]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/unity-in-diversity|Unity in Diversity]]"
+keywords:
+  - "judgment"
+  - "love"
+  - "diversity"
+  - "empty basket"
+  - "filled soul"
+  - "channel of love"
+  - "darkness"
+  - "compassion"
+  - "touch"
+  - "healing"
+  - "God's laws"
+  - "choice"
+  - "flame"
+  - "replenishment"
+canonical_url: "https://divinelovesanctuary.com/give-to-others-but-do-not-do-so-with-an-empty-basket/"
 ---
 
 # Give to Others but Do Not Do so with an Empty Basket

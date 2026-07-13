@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/garden
-  - keyword/flowers
-  - keyword/gardeners
-  - keyword/seeds
-  - keyword/planting
-  - keyword/channel-of-love
-  - keyword/bonds-of-love
-  - keyword/service
-  - keyword/paradise
-  - keyword/blessing
-  - keyword/bloom
-  - keyword/nurture
-  - keyword/encouragement
-  - collection/service-and-mission
+message_id: 2016-01-09-af-augustine
 aliases: ["You Are Gardeners in God's Beautiful Garden"]
 date: 2016-01-09
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "garden"
+  - "flowers"
+  - "gardeners"
+  - "seeds"
+  - "planting"
+  - "channel of love"
+  - "bonds of love"
+  - "service"
+  - "paradise"
+  - "blessing"
+  - "bloom"
+  - "nurture"
+  - "encouragement"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
 ---
 
 # You Are Gardeners in God's Beautiful Garden

@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/earth-changes
-  - keyword/imbalance
-  - keyword/harmony
-  - keyword/prayer
-  - keyword/light
-  - keyword/darkness
-  - keyword/service
-  - keyword/awakening
-  - keyword/humanity
-  - keyword/suffering
-  - keyword/wisdom
-  - keyword/god-s-plan
-  - keyword/channel-of-love
-  - keyword/salvation-of-mankind
-  - keyword/truth
-  - keyword/integrity
-  - collection/awakening-humanity
-  - essential/core-teaching
-  - chain/bell-toll-instrumentality
-  - chain/earth-changes
+message_id: 2018-08-13-af-seretta-kem
 aliases: ["Growing the Light Within Your Souls Is the Greatest Service to God"]
 date: 2018-08-13
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "earth changes"
+  - "imbalance"
+  - "harmony"
+  - "prayer"
+  - "light"
+  - "darkness"
+  - "service"
+  - "awakening"
+  - "humanity"
+  - "suffering"
+  - "wisdom"
+  - "God's plan"
+  - "channel of love"
+  - "salvation of mankind"
+  - "truth"
+  - "integrity"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/bell-toll-instrumentality]]"
+  - "[[Chains/earth-changes]]"
+canonical_url: "https://divinelovesanctuary.com/growing-the-light-within-your-souls-is-the-greatest-service-to-god/"
 ---
 
 # Growing the Light Within Your Souls Is the Greatest Service to God

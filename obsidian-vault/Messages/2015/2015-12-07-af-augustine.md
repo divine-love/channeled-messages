@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/light
-  - keyword/darkened-world
-  - keyword/channel-of-love
-  - keyword/boldness
-  - keyword/god-s-child
-  - keyword/prayer
-  - keyword/change
-  - keyword/peace
-  - keyword/service
-  - keyword/carry-the-light
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-12-07-af-augustine
 aliases: ["Carry This Light into the Darkened World"]
 date: 2015-12-07
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/discipleship|Discipleship]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "light"
+  - "darkened world"
+  - "channel of love"
+  - "boldness"
+  - "God's child"
+  - "prayer"
+  - "change"
+  - "peace"
+  - "service"
+  - "carry the light"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/carry-this-light-into-the-darkened-world/"
 ---
 
 # Carry This Light into the Darkened World

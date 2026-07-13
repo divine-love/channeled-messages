@@ -1,35 +1,43 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/free-will
-  - keyword/god-s-will
-  - keyword/mind
-  - keyword/soul
-  - keyword/consciousness
-  - keyword/alignment
-  - keyword/willfulness
-  - keyword/truth
-  - keyword/transformation
-  - keyword/beacons
-  - keyword/change
-  - keyword/prayer
-  - keyword/soul-gifts
-  - keyword/purpose
-  - keyword/reality
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/free-will-and-gods-plan
-  - chain/mind-vs-soul
+message_id: 2015-12-14-af-augustine
 aliases: ["Free Will versus God's Will"]
 date: 2015-12-14
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "free will"
+  - "God's Will"
+  - "mind"
+  - "soul"
+  - "consciousness"
+  - "alignment"
+  - "willfulness"
+  - "truth"
+  - "transformation"
+  - "beacons"
+  - "change"
+  - "prayer"
+  - "soul gifts"
+  - "purpose"
+  - "reality"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/free-will-and-gods-plan]]"
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
 ---
 
 # Free Will versus God's Will

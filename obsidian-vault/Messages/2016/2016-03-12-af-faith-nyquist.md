@@ -1,26 +1,30 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/collective-awakening-and-redemption
-  - keyword/open-door
-  - keyword/god-s-plan
-  - keyword/orchestration
-  - keyword/trust
-  - keyword/do-not-worry
-  - keyword/material-provision
-  - keyword/channel-of-love
-  - keyword/planting-seeds
-  - keyword/prayer
-  - keyword/salvation-of-mankind
-  - keyword/guidance
-  - keyword/harvest
-  - keyword/faith
+message_id: 2016-03-12-af-faith-nyquist
 aliases: ["A Door Has Opened for You"]
 date: 2016-03-12
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+keywords:
+  - "open door"
+  - "God's plan"
+  - "orchestration"
+  - "trust"
+  - "do not worry"
+  - "material provision"
+  - "channel of love"
+  - "planting seeds"
+  - "prayer"
+  - "salvation of mankind"
+  - "guidance"
+  - "harvest"
+  - "faith"
 ---
 
 # A Door Has Opened for You

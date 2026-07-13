@@ -8,12 +8,19 @@ by hand — rerun this script after commits instead.
 
 What it builds:
   Messages/<year>/<message_id>.md   one note per message:
-      - front matter tags (nested): spirit/, type/, subject/<parent>/<child>,
-        keyword/, collection/, essential/, chain/, mentions/
+      - STRUCTURED PROPERTIES mirroring the archive schema: the original
+        field names and values (message_id, date, spirit, medium, location,
+        message_type, primary_subject, secondary_subjects, keywords,
+        collections, essential_teachings, chains, mentions), with wikilinks
+        inside properties wherever a hub page exists — so the metadata is
+        searchable per-field ( ["primary_subject":Mind] ), browsable, and
+        feeds the graph, without collapsing anything into tags
       - title alias so wikilinks display the human title
       - door callout, description, "Questions this message answers"
         (full-text searchable), related-message wikilinks, chain wikilinks,
         then the full message text
+  Subjects Index.md                 the full subjects.yml hierarchy as a
+      linked tree — the taxonomy browser, replacing the old nested tags
   Chains/<slug>.md                  one hub per minted thread: theme,
       argument, members grouped in role-section order (Foundation first),
       chronological within each section, anchors marked (anchor)
@@ -80,13 +87,6 @@ def load_subject_hierarchy():
         for sub in cat.get("subcategories", []) or []:
             parents[sub["name"]] = cat["name"]
     return parents
-
-
-def subject_tag(name, parents):
-    parent = parents.get(name)
-    if parent and parent != name:
-        return f"subject/{slug(parent)}/{slug(name)}"
-    return f"subject/{slug(name)}"
 
 
 def parse_chain_registry():
@@ -173,28 +173,58 @@ def main():
         spirit = fm.get("spirit_name") or fm.get("spirit_id", "")
         subjects = [fm.get("primary_subjects")] if fm.get("primary_subjects") else []
         subjects += [s for s in (fm.get("secondary_subjects") or []) if s]
-        tags = [f"spirit/{slug(fm.get('spirit_id', ''))}"]
-        for t in fm.get("message_type") or []:
-            tags.append(f"type/{slug(t)}")
-        for s in subjects:
-            tags.append(subject_tag(s, parents))
-        for k in fm.get("keywords") or []:
-            tags.append(f"keyword/{slug(k)}")
-        for c in fm.get("collections") or []:
-            tags.append(f"collection/{slug(c)}")
-        for e in fm.get("essential_teachings") or []:
-            tags.append(f"essential/{slug(e)}")
-        for sp in fm.get("spirits") or []:
-            tags.append(f"mentions/{sp}")
         for chain_slug, role, anchor in memberships.get(mid, []):
-            tags.append(f"chain/{chain_slug}")
             chain_members[chain_slug].append((role, anchor, mid, date))
 
-        lines = ["---",
-                 "tags:"] + [f"  - {t}" for t in dict.fromkeys(tags)] + [
-                 f'aliases: ["{titles[mid].replace(chr(34), chr(39))}"]',
+        def q(v):
+            return '"' + str(v).replace('"', "'") + '"'
+
+        def subj_link(name):
+            return q(f"[[Subjects/{slug(name)}|{name}]]")
+
+        loc = fm.get("location") or {}
+        loc_str = ", ".join(x for x in [loc.get("city"), loc.get("region"),
+                                        loc.get("country")] if x)
+        props = ["---",
+                 f"message_id: {mid}",
+                 f'aliases: [{q(titles[mid])}]',
                  f"date: {date}",
-                 "---",
+                 f"spirit: {q('[[Spirits/' + fm.get('spirit_id','') + '|' + (fm.get('spirit_name') or fm.get('spirit_id','')) + ']]')}",
+                 f"medium: {q(fm.get('medium',''))}",
+                 f"location: {q(loc_str)}"]
+        if fm.get("gathering"):
+            props.append(f"gathering: {q(fm['gathering'])}")
+        mt = (fm.get("message_type") or [""])[0]
+        props.append(f"message_type: {q(mt)}")
+        if fm.get("primary_subjects"):
+            props.append(f"primary_subject: {subj_link(fm['primary_subjects'])}")
+        sec = fm.get("secondary_subjects") or []
+        if sec:
+            props.append("secondary_subjects:")
+            props += [f"  - {subj_link(s)}" for s in sec]
+        kws = fm.get("keywords") or []
+        if kws:
+            props.append("keywords:")
+            props += [f"  - {q(k)}" for k in kws]
+        colls = fm.get("collections") or []
+        if colls:
+            props.append("collections:")
+            props += [f"  - {q('[[Collections/' + slug(c) + '|' + c + ']]')}" for c in colls]
+        ets = fm.get("essential_teachings") or []
+        if ets:
+            props.append("essential_teachings:")
+            props += [f"  - {q(e)}" for e in ets]
+        mem_props = memberships.get(mid, [])
+        if mem_props:
+            props.append("chains:")
+            props += [f"  - {q('[[Chains/' + cs + ']]')}" for cs, _, _ in mem_props]
+        mentions = fm.get("spirits") or []
+        if mentions:
+            props.append("mentions:")
+            props += [f"  - {q('[[Spirits/' + sp + ']]')}" for sp in mentions]
+        if fm.get("canonical_url"):
+            props.append(f"canonical_url: {q(fm['canonical_url'])}")
+        lines = props + ["---",
                  "",
                  f"# {titles[mid]}",
                  "",
@@ -285,6 +315,20 @@ def main():
         lines += [""]
     (VAULT / "Ask the Archive.md").write_text("\n".join(lines), encoding="utf-8")
 
+    # Subjects Index — the taxonomy as a linked tree
+    data = yaml.safe_load(SUBJECTS_PATH.read_text(encoding="utf-8"))
+    idx = ["# Subjects Index", "",
+           "The archive's full subject hierarchy. Subjects with messages",
+           "link to their hub pages.", ""]
+    for cat in data.get("main_categories", []):
+        n = cat["name"]
+        idx.append(f"- {'[[Subjects/' + slug(n) + '|' + n + ']]' if n in by_subject else n}")
+        for sub in cat.get("subcategories", []) or []:
+            sn = sub["name"]
+            idx.append(f"    - {'[[Subjects/' + slug(sn) + '|' + sn + ']]' if sn in by_subject else sn + ' *(no messages yet)*'}")
+    idx.append("")
+    (VAULT / "Subjects Index.md").write_text("\n".join(idx), encoding="utf-8")
+
     # Home
     home = [
         "# Divine Love Messages Archive", "",
@@ -292,6 +336,7 @@ def main():
         f"**{len(by_subject)}** subjects in use · **{total_q}** questions answered", "",
         "## Start here",
         "- [[Ask the Archive]] — search any question",
+        "- [[Subjects Index]] — browse the full taxonomy",
         "- Browse the `Chains/` folder for the argument threads",
         "- Open the graph view; filter with `-path:\"Subjects\"` if hubs dominate", "",
     ]

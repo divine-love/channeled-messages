@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/soul-longing
-  - keyword/seeking-god
-  - keyword/drawn-together
-  - keyword/far-and-wide
-  - keyword/newcomers
-  - keyword/true-self
-  - keyword/distraction
-  - keyword/busyness
-  - keyword/cultural-imperatives
-  - keyword/sacred-communion
-  - keyword/seed
-  - keyword/transformation
-  - keyword/kingdom
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-06-09-af-matthew
 aliases: ["The Soul Longs for the Touch of God"]
 date: 2018-06-09
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "soul longing"
+  - "seeking God"
+  - "drawn together"
+  - "far and wide"
+  - "newcomers"
+  - "true self"
+  - "distraction"
+  - "busyness"
+  - "cultural imperatives"
+  - "sacred communion"
+  - "seed"
+  - "transformation"
+  - "kingdom"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/the-soul-longs-for-the-touch-of-god/"
 ---
 
 # The Soul Longs for the Touch of God

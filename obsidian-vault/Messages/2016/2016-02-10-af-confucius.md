@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/soul-healing-and-emotional-restoration/divine-love-healing
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/healing
-  - keyword/channel-of-healing
-  - keyword/soul-alignment
-  - keyword/resonance
-  - keyword/nourish-the-soul
-  - keyword/prayer
-  - keyword/intention
-  - keyword/energies
-  - keyword/emanations
-  - keyword/gifts
-  - keyword/transformation
-  - keyword/circles-of-light
-  - keyword/at-onement
-  - keyword/balance
-  - collection/healing-path
-  - essential/divine-healing
-  - chain/healing-channel
+message_id: 2016-02-10-af-confucius
 aliases: ["Remember to Nourish Your Soul"]
 date: 2016-02-10
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Abbotsford, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-love-healing|Divine Love Healing]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "healing"
+  - "channel of healing"
+  - "soul alignment"
+  - "resonance"
+  - "nourish the soul"
+  - "prayer"
+  - "intention"
+  - "energies"
+  - "emanations"
+  - "gifts"
+  - "transformation"
+  - "circles of light"
+  - "at-onement"
+  - "balance"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Divine Healing"
+chains:
+  - "[[Chains/healing-channel]]"
 ---
 
 # Remember to Nourish Your Soul

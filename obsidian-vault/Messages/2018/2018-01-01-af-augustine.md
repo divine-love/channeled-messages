@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/new-year
-  - keyword/new-phase
-  - keyword/doors-opening
-  - keyword/god-s-will
-  - keyword/adulation
-  - keyword/dependence
-  - keyword/source
-  - keyword/channel
-  - keyword/teaching
-  - keyword/prayer
-  - keyword/guidance
-  - keyword/humility
-  - keyword/soul-awakening
-  - keyword/whisperings-of-god
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-01-01-af-augustine
 aliases: ["Teach Each Soul to Go to God in Prayer"]
 date: 2018-01-01
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/discipleship|Discipleship]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "new year"
+  - "new phase"
+  - "doors opening"
+  - "God's will"
+  - "adulation"
+  - "dependence"
+  - "source"
+  - "channel"
+  - "teaching"
+  - "prayer"
+  - "guidance"
+  - "humility"
+  - "soul awakening"
+  - "whisperings of God"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/teach-each-soul-to-go-to-god-in-prayer/"
 ---
 
 # Teach Each Soul to Go to God in Prayer

@@ -1,32 +1,40 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-healing-and-emotional-restoration
-  - subject/soul-healing-and-emotional-restoration/divine-love-healing
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/expiation
-  - keyword/cleansing
-  - keyword/soul-conditions
-  - keyword/release
-  - keyword/buried-emotions
-  - keyword/ice-block
-  - keyword/solar-plexus
-  - keyword/praying-together
-  - keyword/angels-close
-  - keyword/feeling-alone
-  - keyword/isolation
-  - keyword/soul-chambers
-  - keyword/joy-after-release
-  - keyword/at-onement
-  - keyword/courage
-  - collection/healing-path
-  - essential/core-teaching
-  - chain/soul-expiation
+message_id: 2019-02-16-mc-seretta-kem
 aliases: ["Process of Expiation"]
 date: 2019-02-16
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Maureen Cardoso"
+location: "Abbotsford, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+secondary_subjects:
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/divine-love-healing|Divine Love Healing]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "expiation"
+  - "cleansing"
+  - "soul conditions"
+  - "release"
+  - "buried emotions"
+  - "ice block"
+  - "solar plexus"
+  - "praying together"
+  - "angels close"
+  - "feeling alone"
+  - "isolation"
+  - "soul chambers"
+  - "joy after release"
+  - "at-onement"
+  - "courage"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/soul-expiation]]"
+canonical_url: "https://divinelovesanctuary.com/process-of-expiation/"
 ---
 
 # Process of Expiation

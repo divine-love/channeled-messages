@@ -1,21 +1,27 @@
 ---
-tags:
-  - spirit/augustine
-  - type/blessing
-  - subject/spiritual-community-and-fellowship
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/nature-environment-and-god-s-creation/beauty-and-spiritual-joy
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/fellowship
-  - keyword/retreat
-  - keyword/celebration
-  - keyword/community
-  - keyword/strengthen
-  - keyword/brothers-and-sisters
-  - keyword/joy
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-17-af-augustine-2
 aliases: ["Strengthen One Another in Love"]
 date: 2015-08-17
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/beauty-and-spiritual-joy|Beauty & Spiritual Joy]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "fellowship"
+  - "retreat"
+  - "celebration"
+  - "community"
+  - "strengthen"
+  - "brothers and sisters"
+  - "joy"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Strengthen One Another in Love

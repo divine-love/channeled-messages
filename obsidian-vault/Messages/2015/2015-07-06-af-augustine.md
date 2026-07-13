@@ -1,26 +1,32 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-community-and-fellowship
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/retreat
-  - keyword/gathering
-  - keyword/fellowship
-  - keyword/divine-love
-  - keyword/embrace
-  - keyword/preparation
-  - keyword/international
-  - keyword/living-waters
-  - keyword/opening
-  - keyword/soul-awakening
-  - keyword/light
-  - keyword/unity
-  - keyword/god-s-children
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-07-06-af-augustine
 aliases: ["Guidance Concerning the Upcoming Retreat: Embrace All Who Are Coming"]
 date: 2015-07-06
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "retreat"
+  - "gathering"
+  - "fellowship"
+  - "Divine Love"
+  - "embrace"
+  - "preparation"
+  - "international"
+  - "living waters"
+  - "opening"
+  - "soul awakening"
+  - "Light"
+  - "unity"
+  - "God's children"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/guidance-concerning-the-upcoming-retreat-embrace-all-who-are-coming/"
 ---
 
 # Guidance Concerning the Upcoming Retreat: Embrace All Who Are Coming

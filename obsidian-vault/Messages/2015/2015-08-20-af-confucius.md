@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/spiritual-community-and-fellowship
-  - keyword/circles-of-light
-  - keyword/group-prayer
-  - keyword/healing
-  - keyword/outreach
-  - keyword/love
-  - keyword/warmth
-  - keyword/lost-souls
-  - keyword/channel-of-love
-  - collection/service-and-mission
-  - collection/awakening-humanity
+message_id: 2015-08-20-af-confucius
 aliases: ["Circles of Light: Form Them Wherever You Go"]
 date: 2015-08-20
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "circles of light"
+  - "group prayer"
+  - "healing"
+  - "outreach"
+  - "love"
+  - "warmth"
+  - "lost souls"
+  - "channel of love"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
 ---
 
 # Circles of Light: Form Them Wherever You Go

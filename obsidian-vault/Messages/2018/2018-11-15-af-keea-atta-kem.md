@@ -1,20 +1,25 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/blessing
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-community-and-fellowship
-  - keyword/soul-gifts
-  - keyword/awakening
-  - keyword/prayer
-  - keyword/fellowship
-  - keyword/blessing
-  - keyword/spiritual-development
+message_id: 2018-11-15-af-keea-atta-kem
 aliases: ["Blessings Come When You Pray Together"]
 date: 2018-11-15
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Blessing"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "soul gifts"
+  - "awakening"
+  - "prayer"
+  - "fellowship"
+  - "blessing"
+  - "spiritual development"
+canonical_url: "https://divinelovesanctuary.com/blessings-come-when-you-pray-together/"
 ---
 
 # Blessings Come When You Pray Together

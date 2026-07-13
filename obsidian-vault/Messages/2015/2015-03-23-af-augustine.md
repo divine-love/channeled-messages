@@ -1,23 +1,29 @@
 ---
-tags:
-  - spirit/augustine
-  - type/blessing
-  - subject/preparation-for-earth-mission
-  - subject/earth-changes-and-prophecy
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/new-york
-  - keyword/building
-  - keyword/hosannas
-  - keyword/prophecy
-  - keyword/guidance
-  - keyword/fulfillment
-  - keyword/god-s-will
-  - keyword/short-measure
-  - keyword/full-measure
-  - collection/the-saints-and-apostles-speak
-  - essential/prophecy
+message_id: 2015-03-23-af-augustine
 aliases: ["They Will Fill This Building"]
 date: 2015-03-23
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "New York, NY, United States of America"
+message_type: "Blessing"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "New York"
+  - "building"
+  - "hosannas"
+  - "prophecy"
+  - "guidance"
+  - "fulfillment"
+  - "God's will"
+  - "short measure"
+  - "full measure"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Prophecy"
 ---
 
 # They Will Fill This Building

@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/retreat
-  - keyword/preparation
-  - keyword/trust
-  - keyword/god-s-will
-  - keyword/obedience
-  - keyword/faith
-  - keyword/angels
-  - keyword/banquet
-  - keyword/blessing
-  - keyword/abundance
-  - keyword/humility
-  - keyword/at-onement
-  - keyword/surrender
-  - keyword/channel-of-love
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-07-27-af-augustine
 aliases: ["Guidance Regarding the Retreat That Is about to Take Place"]
 date: 2015-07-27
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "retreat"
+  - "preparation"
+  - "trust"
+  - "God's will"
+  - "obedience"
+  - "faith"
+  - "angels"
+  - "banquet"
+  - "blessing"
+  - "abundance"
+  - "humility"
+  - "at-onement"
+  - "surrender"
+  - "channel of love"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/guidance-regarding-retreat-take-place/"
 ---
 
 # Guidance Regarding the Retreat That Is about to Take Place

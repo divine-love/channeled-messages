@@ -1,29 +1,37 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication/celestial-heavens-and-at-onement
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - keyword/spheres
-  - keyword/4th-sphere
-  - keyword/5th-sphere
-  - keyword/6th-sphere
-  - keyword/7th-sphere
-  - keyword/celestial-kingdom
-  - keyword/progression
-  - keyword/eastern-religion
-  - keyword/at-onement
-  - keyword/bliss
-  - collection/two-paths
-  - collection/letters-from-history
-  - essential/spirit-biography
-  - chain/reincarnation-progression
-  - chain/two-paths
+message_id: 2018-11-22-af-yogananda
 aliases: ["Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens"]
 date: 2018-11-22
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/celestial-heavens-and-at-onement|Celestial Heavens & At-onement]]"
+secondary_subjects:
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+keywords:
+  - "spheres"
+  - "4th sphere"
+  - "5th sphere"
+  - "6th sphere"
+  - "7th sphere"
+  - "Celestial Kingdom"
+  - "progression"
+  - "Eastern religion"
+  - "at-onement"
+  - "bliss"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Spirit Biography"
+chains:
+  - "[[Chains/reincarnation-progression]]"
+  - "[[Chains/two-paths]]"
+canonical_url: "https://divinelovesanctuary.com/yogananda-describes-his-journey-through-the-spheres-towards-the-celestial-heavens/"
 ---
 
 # Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens

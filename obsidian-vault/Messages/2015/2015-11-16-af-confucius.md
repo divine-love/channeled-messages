@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - keyword/lattice-of-light
-  - keyword/network
-  - keyword/connections
-  - keyword/prayer
-  - keyword/travel
-  - keyword/tapestry
-  - keyword/service
-  - keyword/soul-connections
-  - keyword/blessings
-  - keyword/world-healing
-  - collection/awakening-humanity
-  - collection/letters-from-history
-  - essential/core-teaching
+message_id: 2015-11-16-af-confucius
 aliases: ["Creating a Lattice of Light in the World"]
 date: 2015-11-16
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+secondary_subjects:
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+keywords:
+  - "lattice of light"
+  - "network"
+  - "connections"
+  - "prayer"
+  - "travel"
+  - "tapestry"
+  - "service"
+  - "soul connections"
+  - "blessings"
+  - "world healing"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
 ---
 
 # Creating a Lattice of Light in the World

@@ -1,23 +1,28 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/spiritual-discipline-and-daily-living/joyful-living
-  - subject/soul-healing-and-emotional-restoration
-  - keyword/prayer
-  - keyword/freedom
-  - keyword/joy
-  - keyword/burdens
-  - keyword/light
-  - keyword/shackles
-  - keyword/earthly-conditions
-  - keyword/uplifted
-  - keyword/god-s-presence
-  - keyword/circle
-  - keyword/blessing
+message_id: 2015-11-28-af-confucius
 aliases: ["Prayer to Bring Freedom and Joy"]
 date: 2015-11-28
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/joyful-living|Joyful Living]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+keywords:
+  - "prayer"
+  - "freedom"
+  - "joy"
+  - "burdens"
+  - "Light"
+  - "shackles"
+  - "earthly conditions"
+  - "uplifted"
+  - "God's presence"
+  - "circle"
+  - "blessing"
+canonical_url: "https://divinelovesanctuary.com/prayer-to-bring-freedom-and-joy/"
 ---
 
 # Prayer to Bring Freedom and Joy

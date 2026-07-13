@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/nature-environment-and-god-s-creation
-  - keyword/seeds-of-love
-  - keyword/sowing
-  - keyword/presence
-  - keyword/channel-of-love
-  - keyword/nature
-  - keyword/whales
-  - keyword/perception
-  - keyword/gifts
-  - keyword/open
-  - collection/service-and-mission
+message_id: 2015-08-17-af-confucius
 aliases: ["Sow Seeds of Love Upon Your Journey"]
 date: 2015-08-17
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/nature-environment-and-god-s-creation|Nature, Environment & God's Creation]]"
+keywords:
+  - "seeds of love"
+  - "sowing"
+  - "presence"
+  - "channel of love"
+  - "nature"
+  - "whales"
+  - "perception"
+  - "gifts"
+  - "open"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
 ---
 
 # Sow Seeds of Love Upon Your Journey

@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - keyword/free-will
-  - keyword/choice
-  - keyword/light
-  - keyword/pain
-  - keyword/alignment
-  - keyword/god-s-will
-  - keyword/human-condition
-  - keyword/judgment
-  - keyword/discernment
-  - keyword/soul-growth
-  - keyword/struggle
-  - keyword/love
-  - keyword/consequences
-  - keyword/burning-away
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-11-02-af-augustine
 aliases: ["Free Will Governs Your Path"]
 date: 2015-11-02
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+secondary_subjects:
+  - "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+keywords:
+  - "free will"
+  - "choice"
+  - "Light"
+  - "pain"
+  - "alignment"
+  - "God's will"
+  - "human condition"
+  - "judgment"
+  - "discernment"
+  - "soul growth"
+  - "struggle"
+  - "love"
+  - "consequences"
+  - "burning away"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/free-will-governs-your-path/"
 ---
 
 # Free Will Governs Your Path

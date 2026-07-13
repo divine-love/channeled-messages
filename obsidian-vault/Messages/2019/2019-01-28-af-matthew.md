@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/creation-and-incarnation/soul-mates-and-sacred-union
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/earthly-challenges-and-human-condition
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/soul-mates
-  - keyword/soul-union
-  - keyword/earth-life
-  - keyword/soul-wisdom
-  - keyword/challenges
-  - keyword/blessing
-  - keyword/harmony
-  - keyword/soul-development
-  - keyword/sacred-union
-  - keyword/dilemmas
-  - collection/the-saints-and-apostles-speak
+message_id: 2019-01-28-af-matthew
 aliases: ["What Is the Possibility of Soul Mates Meeting on Earth?"]
 date: 2019-01-28
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-mates-and-sacred-union|Soul Mates & Sacred Union]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/earthly-challenges-and-human-condition|Earthly Challenges & Human Condition]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "soul mates"
+  - "soul union"
+  - "Earth life"
+  - "soul wisdom"
+  - "challenges"
+  - "blessing"
+  - "harmony"
+  - "soul development"
+  - "sacred union"
+  - "dilemmas"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/what-is-the-possibility-of-soul-mates-meeting-on-earth/"
 ---
 
 # What Is the Possibility of Soul Mates Meeting on Earth?

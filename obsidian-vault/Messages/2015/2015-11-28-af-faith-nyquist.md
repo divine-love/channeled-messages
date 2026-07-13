@@ -1,25 +1,30 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/prayer
-  - keyword/group-prayer
-  - keyword/soul-longing
-  - keyword/healing
-  - keyword/change
-  - keyword/simplicity
-  - keyword/faith
-  - keyword/ocean-of-love
-  - keyword/channels-of-love
-  - keyword/world-healing
-  - chain/prayer-soul-longing
+message_id: 2015-11-28-af-faith-nyquist
 aliases: ["The Power of Prayer to Bring Change and Healing"]
 date: 2015-11-28
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "prayer"
+  - "group prayer"
+  - "soul longing"
+  - "healing"
+  - "change"
+  - "simplicity"
+  - "faith"
+  - "ocean of love"
+  - "channels of love"
+  - "world healing"
+chains:
+  - "[[Chains/prayer-soul-longing]]"
 ---
 
 # The Power of Prayer to Bring Change and Healing

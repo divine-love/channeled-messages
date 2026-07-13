@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/awakening
-  - keyword/soul-mind
-  - keyword/inner-peace
-  - keyword/knowing
-  - keyword/doubt
-  - keyword/serenity
-  - keyword/dawning
-  - keyword/blossoming
-  - keyword/shackles
-  - keyword/soul-ascendency
-  - collection/letters-from-history
-  - collection/mind-and-soul
+message_id: 2015-12-27-af-confucius
 aliases: ["Awakening of the Soul Mind"]
 date: 2015-12-27
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "awakening"
+  - "soul mind"
+  - "inner peace"
+  - "knowing"
+  - "doubt"
+  - "serenity"
+  - "dawning"
+  - "blossoming"
+  - "shackles"
+  - "soul ascendency"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
 ---
 
 # Awakening of the Soul Mind

@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/solomon
-  - type/guidance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/soul-wisdom
-  - keyword/intellectual-seeking
-  - keyword/mind-versus-soul
-  - keyword/discernment
-  - keyword/trust
-  - keyword/truth
-  - keyword/speculation
-  - keyword/patience
-  - keyword/soul-mind
-  - keyword/drop-by-drop
-  - keyword/humility
-  - keyword/peace
-  - keyword/god-s-guidance
-  - keyword/seeker-of-truth
-  - keyword/teaching
-  - collection/mind-and-soul
+message_id: 2018-08-06-af-solomon
 aliases: ["Trust in the Wisdom of the Soul"]
 date: 2018-08-06
+spirit: "[[Spirits/solomon|Solomon]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "soul wisdom"
+  - "intellectual seeking"
+  - "mind versus soul"
+  - "discernment"
+  - "trust"
+  - "truth"
+  - "speculation"
+  - "patience"
+  - "soul mind"
+  - "drop by drop"
+  - "humility"
+  - "peace"
+  - "God's guidance"
+  - "seeker of truth"
+  - "teaching"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+canonical_url: "https://divinelovesanctuary.com/trust-in-the-wisdom-of-the-soul/"
 ---
 
 # Trust in the Wisdom of the Soul

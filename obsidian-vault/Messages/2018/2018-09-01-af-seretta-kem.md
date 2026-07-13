@@ -1,33 +1,42 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/guidance
-  - subject/preparation-for-earth-mission
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/collective-awakening-and-redemption
-  - subject/spiritual-community-and-fellowship/supporting-one-another
-  - keyword/ready-to-step-forward
-  - keyword/gifts-developing
-  - keyword/circles-of-light
-  - keyword/doors-opening
-  - keyword/world-service
-  - keyword/soul-alignment
-  - keyword/mind-and-soul
-  - keyword/dawn-of-love
-  - keyword/dark-forces
-  - keyword/preparation
-  - keyword/channel-of-love
-  - keyword/transformation
-  - keyword/awakening
-  - keyword/god-s-plan
-  - keyword/unique-role
-  - keyword/soul-eagerness
-  - collection/awakening-humanity
-  - essential/core-teaching
-  - chain/preparation-to-be-a-rock
+message_id: 2018-09-01-af-seretta-kem
 aliases: ["You Are Ready to Step Forward"]
 date: 2018-09-01
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2018 Gibsons Mediumship Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/supporting-one-another|Supporting One Another]]"
+keywords:
+  - "ready to step forward"
+  - "gifts developing"
+  - "circles of light"
+  - "doors opening"
+  - "world service"
+  - "soul alignment"
+  - "mind and soul"
+  - "Dawn of Love"
+  - "dark forces"
+  - "preparation"
+  - "channel of love"
+  - "transformation"
+  - "awakening"
+  - "God's plan"
+  - "unique role"
+  - "soul eagerness"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/preparation-to-be-a-rock]]"
+canonical_url: "https://divinelovesanctuary.com/you-are-ready-to-step-forward/"
 ---
 
 # You Are Ready to Step Forward

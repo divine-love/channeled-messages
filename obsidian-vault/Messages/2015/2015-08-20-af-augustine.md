@@ -1,24 +1,30 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-love-and-relationship-with-god/god-s-mercy-and-unconditional-love
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/gift
-  - keyword/prayer
-  - keyword/sleep
-  - keyword/night
-  - keyword/angels
-  - keyword/communion
-  - keyword/deep-prayer
-  - keyword/abundance
-  - keyword/tomorrow
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-20-af-augustine
 aliases: ["Augustine Suggests That a Gift Given in Group Prayer Will Benefit Those Praying the Next Day"]
 date: 2015-08-20
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/god-s-mercy-and-unconditional-love|God's Mercy & Unconditional Love]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "gift"
+  - "prayer"
+  - "sleep"
+  - "night"
+  - "angels"
+  - "communion"
+  - "deep prayer"
+  - "abundance"
+  - "tomorrow"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # Augustine Suggests That a Gift Given in Group Prayer Will Benefit Those Praying the Next Day

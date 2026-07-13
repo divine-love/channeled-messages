@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/intention
-  - keyword/power-of-intention
-  - keyword/fellowship
-  - keyword/butterfly-effect
-  - keyword/darkness
-  - keyword/light
-  - keyword/channel-of-love
-  - keyword/prayer
-  - keyword/teaching
-  - keyword/change
-  - keyword/harmony
-  - keyword/soul-intentions
-  - keyword/mind
-  - keyword/god-s-will
-  - collection/the-saints-and-apostles-speak
+message_id: 2016-04-14-af-john-the-beloved
 aliases: ["Each Day Has the Potential to Bring Light Given the Right Intentions"]
 date: 2016-04-14
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Abbotsford, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/discipleship|Discipleship]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "intention"
+  - "power of intention"
+  - "fellowship"
+  - "butterfly effect"
+  - "darkness"
+  - "light"
+  - "channel of love"
+  - "prayer"
+  - "teaching"
+  - "change"
+  - "harmony"
+  - "soul intentions"
+  - "mind"
+  - "God's will"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/each-day-has-the-potential-to-bring-light-given-the-right-intentions/"
 ---
 
 # Each Day Has the Potential to Bring Light Given the Right Intentions

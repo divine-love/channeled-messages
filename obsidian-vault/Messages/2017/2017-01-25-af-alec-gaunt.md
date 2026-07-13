@@ -1,27 +1,32 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/living-waters
-  - keyword/foundation
-  - keyword/spiritual-growth
-  - keyword/church
-  - keyword/burnaby
-  - keyword/prayer
-  - keyword/nourishment
-  - keyword/soul
-  - keyword/bond-with-god
-  - keyword/presence
-  - keyword/healing
-  - keyword/circle-of-light
-  - keyword/relationship-with-god
-  - keyword/awakening
+message_id: 2017-01-25-af-alec-gaunt
 aliases: ["Building a Foundation of Spiritual Growth and Development"]
 date: 2017-01-25
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Burnaby, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "living waters"
+  - "foundation"
+  - "spiritual growth"
+  - "church"
+  - "Burnaby"
+  - "prayer"
+  - "nourishment"
+  - "soul"
+  - "bond with God"
+  - "presence"
+  - "healing"
+  - "circle of light"
+  - "relationship with God"
+  - "awakening"
+canonical_url: "https://divinelovesanctuary.com/building-a-foundation-of-spiritual-growth-and-development/"
 ---
 
 # Building a Foundation of Spiritual Growth and Development

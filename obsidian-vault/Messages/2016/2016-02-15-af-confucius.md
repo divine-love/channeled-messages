@@ -1,27 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/soul-healing-and-emotional-restoration
-  - subject/spiritual-community-and-fellowship
-  - keyword/open-the-soul
-  - keyword/longing
-  - keyword/warmth
-  - keyword/winter
-  - keyword/father-s-love
-  - keyword/healing
-  - keyword/comfort
-  - keyword/at-onement
-  - keyword/joy
-  - keyword/peace
-  - keyword/circle-of-light
-  - keyword/angels
-  - keyword/resistance
-  - keyword/doubt
+message_id: 2016-02-15-af-confucius
 aliases: ["Open Wide Your Souls"]
 date: 2016-02-15
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "open the soul"
+  - "longing"
+  - "warmth"
+  - "winter"
+  - "Father's Love"
+  - "healing"
+  - "comfort"
+  - "at-onement"
+  - "joy"
+  - "peace"
+  - "circle of light"
+  - "angels"
+  - "resistance"
+  - "doubt"
 ---
 
 # Open Wide Your Souls

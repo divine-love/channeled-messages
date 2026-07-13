@@ -1,21 +1,27 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-community-and-fellowship
-  - keyword/choice
-  - keyword/soul-purpose
-  - keyword/honesty
-  - keyword/lost
-  - keyword/knowing
-  - keyword/help
-  - keyword/retreat
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-08-17-af-augustine
 aliases: ["What Will You Do...The Choice Is Yours to Make"]
 date: 2015-08-17
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "choice"
+  - "soul purpose"
+  - "honesty"
+  - "lost"
+  - "knowing"
+  - "help"
+  - "retreat"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
 ---
 
 # What Will You Do...The Choice Is Yours to Make

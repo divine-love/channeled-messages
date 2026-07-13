@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-healing-and-emotional-restoration
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/counsel-of-the-soul
-  - keyword/mind-and-soul
-  - keyword/befriend-your-soul
-  - keyword/pain
-  - keyword/suffering
-  - keyword/truth-within
-  - keyword/courage
-  - keyword/release
-  - keyword/healing
-  - keyword/praying-for-others
-  - keyword/circle-of-light
-  - keyword/online-circle
-  - keyword/soul-and-mind-harmony
-  - keyword/free-will
-  - keyword/divine-love-healing
-  - chain/mind-vs-soul
+message_id: 2019-03-03-mc-keea-atta-kem
 aliases: ["Seek the Counsel of Your Soul"]
 date: 2019-03-03
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Maureen Cardoso"
+location: "Abbotsford, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "counsel of the soul"
+  - "mind and soul"
+  - "befriend your soul"
+  - "pain"
+  - "suffering"
+  - "truth within"
+  - "courage"
+  - "release"
+  - "healing"
+  - "praying for others"
+  - "Circle of Light"
+  - "online circle"
+  - "soul and mind harmony"
+  - "free will"
+  - "Divine Love healing"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/seek-the-counsel-of-your-soul/"
 ---
 
 # Seek the Counsel of Your Soul

@@ -1,27 +1,33 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - keyword/commitment
-  - keyword/urgency
-  - keyword/preparation
-  - keyword/world-changes
-  - keyword/free-will
-  - keyword/fervent-prayer
-  - keyword/self-examination
-  - keyword/cloak-of-light
-  - keyword/calamity
-  - keyword/human-condition
-  - collection/awakening-humanity
-  - essential/prophecy
+message_id: 2015-12-01-af-augustine
 aliases: ["The Time for Casual Commitment Is Over"]
 date: 2015-12-01
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+keywords:
+  - "commitment"
+  - "urgency"
+  - "preparation"
+  - "world changes"
+  - "free will"
+  - "fervent prayer"
+  - "self-examination"
+  - "cloak of light"
+  - "calamity"
+  - "human condition"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Prophecy"
 ---
 
 # The Time for Casual Commitment Is Over

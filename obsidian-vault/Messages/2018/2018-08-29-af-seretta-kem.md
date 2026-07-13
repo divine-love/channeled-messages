@@ -1,31 +1,39 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/divine-love-mediumship
-  - keyword/natural-love-mediumship
-  - keyword/trance-mediumship
-  - keyword/spirit-communication
-  - keyword/rapport
-  - keyword/celestial-angels
-  - keyword/soul-faculties
-  - keyword/mind-and-soul
-  - keyword/integration
-  - keyword/drop-by-drop
-  - keyword/at-onement
-  - keyword/eternal-journey
-  - keyword/brain-chemistry
-  - keyword/conduit
-  - keyword/gifts
-  - essential/core-teaching
-  - chain/divine-love-mediumship
+message_id: 2018-08-29-af-seretta-kem
 aliases: ["What Brings Divine Love Mediumship"]
 date: 2018-08-29
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2018 Gibsons Mediumship Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "Divine Love mediumship"
+  - "natural love mediumship"
+  - "trance mediumship"
+  - "spirit communication"
+  - "rapport"
+  - "Celestial angels"
+  - "soul faculties"
+  - "mind and soul"
+  - "integration"
+  - "drop by drop"
+  - "at-onement"
+  - "eternal journey"
+  - "brain chemistry"
+  - "conduit"
+  - "gifts"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/divine-love-mediumship]]"
+canonical_url: "https://divinelovesanctuary.com/what-brings-divine-love-mediumship/"
 ---
 
 # What Brings Divine Love Mediumship

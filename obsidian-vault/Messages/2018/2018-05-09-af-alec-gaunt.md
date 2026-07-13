@@ -1,33 +1,40 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - keyword/balance
-  - keyword/harmony
-  - keyword/self-will
-  - keyword/god-s-will
-  - keyword/hothouse-flower
-  - keyword/cooperation
-  - keyword/thin-edge
-  - keyword/patience
-  - keyword/trust
-  - keyword/faith
-  - keyword/detachment
-  - keyword/peace
-  - keyword/preordained
-  - keyword/dependency
-  - keyword/pushing-too-hard
-  - collection/mind-and-soul
-  - collection/letters-from-history
-  - essential/core-teaching
-  - essential/spirit-biography
+message_id: 2018-05-09-af-alec-gaunt
 aliases: ["Walk in Harmony With God's Will"]
 date: 2018-05-09
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+keywords:
+  - "balance"
+  - "harmony"
+  - "self-will"
+  - "God's Will"
+  - "hothouse flower"
+  - "cooperation"
+  - "thin edge"
+  - "patience"
+  - "trust"
+  - "faith"
+  - "detachment"
+  - "peace"
+  - "preordained"
+  - "dependency"
+  - "pushing too hard"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/letters-from-history|Letters from History]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Spirit Biography"
+canonical_url: "https://divinelovesanctuary.com/walk-in-harmony-with-gods-will/"
 ---
 
 # Walk in Harmony With God's Will

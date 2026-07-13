@@ -1,29 +1,35 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/soul-transformation-and-development/guilt-and-regret
-  - keyword/yoke-of-error
-  - keyword/self-love
-  - keyword/healing
-  - keyword/awakening
-  - keyword/soul-faculties
-  - keyword/generational-patterns
-  - keyword/chains
-  - keyword/error
-  - keyword/god-s-love
-  - keyword/at-onement
-  - keyword/wounds
-  - keyword/harmony
-  - keyword/light
-  - keyword/beloved
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-11-02-af-john-the-beloved
 aliases: ["Release the Yoke of Error and Lack of Self Love"]
 date: 2015-11-02
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+  - "[[Subjects/guilt-and-regret|Guilt & Regret]]"
+keywords:
+  - "yoke of error"
+  - "self-love"
+  - "healing"
+  - "awakening"
+  - "soul faculties"
+  - "generational patterns"
+  - "chains"
+  - "error"
+  - "God's love"
+  - "at-onement"
+  - "wounds"
+  - "harmony"
+  - "Light"
+  - "beloved"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/release-the-yolk-of-error-and-lack-of-self-love/"
 ---
 
 # Release the Yoke of Error and Lack of Self Love

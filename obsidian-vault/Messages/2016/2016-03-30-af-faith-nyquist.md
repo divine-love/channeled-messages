@@ -1,27 +1,31 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/humility
-  - keyword/love-melts-barriers
-  - keyword/the-simple-way
-  - keyword/resistance
-  - keyword/suspicion
-  - keyword/fear
-  - keyword/release-judgment
-  - keyword/trust-god-s-will
-  - keyword/channel-of-change
-  - keyword/healing
-  - keyword/walking-a-different-road
-  - keyword/faith
-  - keyword/whc
+message_id: 2016-03-30-af-faith-nyquist
 aliases: ["Humility at WHC"]
 date: 2016-03-30
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/humility|Humility]]"
+secondary_subjects:
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "humility"
+  - "love melts barriers"
+  - "the simple way"
+  - "resistance"
+  - "suspicion"
+  - "fear"
+  - "release judgment"
+  - "trust God's Will"
+  - "channel of change"
+  - "healing"
+  - "walking a different road"
+  - "faith"
+  - "WHC"
 ---
 
 # Humility at WHC

@@ -1,34 +1,43 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/free-will-and-human-error
-  - subject/celestial-governance-and-spiritual-law/law-of-free-will
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/soul-transformation-and-development/guilt-and-regret
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/soul-transformation-and-development/soul-growth-through-challenges
-  - keyword/free-will
-  - keyword/choice
-  - keyword/consequences
-  - keyword/responsibility
-  - keyword/repentance
-  - keyword/change-from-the-soul
-  - keyword/self-awareness
-  - keyword/mental-conditioning
-  - keyword/god-s-laws
-  - keyword/healing
-  - keyword/guilt
-  - keyword/compassion-for-self
-  - keyword/collaboration-with-god
-  - keyword/awakening
-  - keyword/patterns
-  - keyword/laws-of-your-creation
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/free-will-and-self-responsibility
+message_id: 2019-02-22-af-augustine
 aliases: ["The Power to Change Needs Your Conscious Understanding of the Power of Free Will"]
 date: 2019-02-22
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: ""
+gathering: "Western Caribbean Cruise"
+message_type: "Teaching"
+primary_subject: "[[Subjects/free-will-and-human-error|Free Will & Human Error]]"
+secondary_subjects:
+  - "[[Subjects/law-of-free-will|Law of Free Will]]"
+  - "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+  - "[[Subjects/guilt-and-regret|Guilt & Regret]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/soul-growth-through-challenges|Soul Growth through Challenges]]"
+keywords:
+  - "free will"
+  - "choice"
+  - "consequences"
+  - "responsibility"
+  - "repentance"
+  - "change from the soul"
+  - "self-awareness"
+  - "mental conditioning"
+  - "God's Laws"
+  - "healing"
+  - "guilt"
+  - "compassion for self"
+  - "collaboration with God"
+  - "awakening"
+  - "patterns"
+  - "laws of your creation"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/free-will-and-self-responsibility]]"
+canonical_url: "https://divinelovesanctuary.com/the-power-to-change-needs-your-concious-understanding-of-the-power-of-free-will/"
 ---
 
 # The Power to Change Needs Your Conscious Understanding of the Power of Free Will

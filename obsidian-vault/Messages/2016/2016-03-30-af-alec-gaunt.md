@@ -1,28 +1,32 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/guidance
-  - subject/spiritual-community-and-fellowship
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - keyword/welcome
-  - keyword/newcomers
-  - keyword/fellowship
-  - keyword/safe-place
-  - keyword/mentoring
-  - keyword/ask-questions
-  - keyword/vulnerability
-  - keyword/stirrings-of-the-soul
-  - keyword/true-self
-  - keyword/open-mind
-  - keyword/longing
-  - keyword/taking-a-risk
-  - keyword/prayer
-  - keyword/divine-path
+message_id: 2016-03-30-af-alec-gaunt
 aliases: ["Welcome New Friends"]
 date: 2016-03-30
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+keywords:
+  - "welcome"
+  - "newcomers"
+  - "fellowship"
+  - "safe place"
+  - "mentoring"
+  - "ask questions"
+  - "vulnerability"
+  - "stirrings of the soul"
+  - "true self"
+  - "open mind"
+  - "longing"
+  - "taking a risk"
+  - "prayer"
+  - "Divine Path"
 ---
 
 # Welcome New Friends

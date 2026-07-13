@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/limitations
-  - keyword/material-conditions
-  - keyword/flesh
-  - keyword/early-conditioning
-  - keyword/unlearning
-  - keyword/self-judgment
-  - keyword/self-recrimination
-  - keyword/simplicity
-  - keyword/soul-wisdom
-  - keyword/purification
-  - keyword/psyche
-  - keyword/incremental-change
-  - keyword/freedom
-  - keyword/channel-of-love
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2017-09-12-af-augustine
 aliases: ["Release of Limitations"]
 date: 2017-09-12
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+secondary_subjects:
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "limitations"
+  - "material conditions"
+  - "flesh"
+  - "early conditioning"
+  - "unlearning"
+  - "self-judgment"
+  - "self-recrimination"
+  - "simplicity"
+  - "soul wisdom"
+  - "purification"
+  - "psyche"
+  - "incremental change"
+  - "freedom"
+  - "channel of love"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/release-of-limitations/"
 ---
 
 # Release of Limitations

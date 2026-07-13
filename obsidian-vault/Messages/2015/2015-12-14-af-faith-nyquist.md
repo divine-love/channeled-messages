@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-community-and-fellowship
-  - subject/soul-transformation-and-development
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/soul-growth
-  - keyword/transformation
-  - keyword/fellowship
-  - keyword/prayer
-  - keyword/barriers
-  - keyword/preparation
-  - keyword/service
-  - keyword/emerging
-  - keyword/living-waters
-  - keyword/communion
-  - keyword/peace
-  - keyword/joy
-  - keyword/bonds
-  - keyword/unique-gifts
+message_id: 2015-12-14-af-faith-nyquist
 aliases: ["The Emerging Growth of Your Souls"]
 date: 2015-12-14
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/soul-awakening|Soul Awakening]]"
+secondary_subjects:
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "soul growth"
+  - "transformation"
+  - "fellowship"
+  - "prayer"
+  - "barriers"
+  - "preparation"
+  - "service"
+  - "emerging"
+  - "living waters"
+  - "communion"
+  - "peace"
+  - "joy"
+  - "bonds"
+  - "unique gifts"
+canonical_url: "https://divinelovesanctuary.com/the-emerging-growth-of-your-souls/"
 ---
 
 # The Emerging Growth of Your Souls

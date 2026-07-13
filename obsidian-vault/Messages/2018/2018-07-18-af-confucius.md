@@ -1,29 +1,34 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-identity-and-destiny/divine-purpose
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/birds
-  - keyword/flock
-  - keyword/wings
-  - keyword/path-of-love
-  - keyword/doors-opening
-  - keyword/soul-purpose
-  - keyword/pre-birth-commitment
-  - keyword/sharing-stories
-  - keyword/testimony
-  - keyword/channel-of-love
-  - keyword/fellowship
-  - keyword/god-s-grace
-  - keyword/joy
-  - keyword/ecstasy
-  - keyword/light
+message_id: 2018-07-18-af-confucius
 aliases: ["You Walk the Path of Love"]
 date: 2018-07-18
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+secondary_subjects:
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/divine-purpose|Divine Purpose]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "birds"
+  - "flock"
+  - "wings"
+  - "path of love"
+  - "doors opening"
+  - "soul purpose"
+  - "pre-birth commitment"
+  - "sharing stories"
+  - "testimony"
+  - "channel of love"
+  - "fellowship"
+  - "God's grace"
+  - "joy"
+  - "ecstasy"
+  - "light"
+canonical_url: "https://divinelovesanctuary.com/you-walk-the-path-of-love/"
 ---
 
 # You Walk the Path of Love

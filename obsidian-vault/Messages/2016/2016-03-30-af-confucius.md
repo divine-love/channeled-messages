@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - keyword/beginners
-  - keyword/drink-deep
-  - keyword/divine-love
-  - keyword/the-door-shall-open
-  - keyword/sincerity
-  - keyword/longing
-  - keyword/at-onement
-  - keyword/peace-that-passes-all-understanding
-  - keyword/renewed-purpose
-  - keyword/the-pull-of-the-soul
-  - keyword/a-new-world
+message_id: 2016-03-30-af-confucius
 aliases: ["Greetings to Beginners in Circle"]
 date: 2016-03-30
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/at-onement|At-onement]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+keywords:
+  - "beginners"
+  - "drink deep"
+  - "Divine Love"
+  - "the door shall open"
+  - "sincerity"
+  - "longing"
+  - "at-onement"
+  - "peace that passes all understanding"
+  - "renewed purpose"
+  - "the pull of the soul"
+  - "a new world"
 ---
 
 # Greetings to Beginners in Circle

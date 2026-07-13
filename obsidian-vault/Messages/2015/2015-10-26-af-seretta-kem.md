@@ -1,28 +1,33 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/interdimensional-and-spirit-communication
-  - subject/interdimensional-and-spirit-communication/the-hells-and-dark-spheres
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/teaching-testimony-and-instruction
-  - keyword/prayer-circle
-  - keyword/unseen-world
-  - keyword/spirits
-  - keyword/concentric-circles
-  - keyword/celestial-spirits
-  - keyword/lower-spheres
-  - keyword/service
-  - keyword/light
-  - keyword/midwife
-  - keyword/rebirth
-  - keyword/thousands-of-spirits
-  - keyword/spirit-world
-  - keyword/observed
-  - keyword/darkness-to-light
+message_id: 2015-10-26-af-seretta-kem
 aliases: ["So Many in the Unseen World Benefit from Your Prayers Together"]
 date: 2015-10-26
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/interdimensional-and-spirit-communication|Interdimensional & Spirit Communication]]"
+  - "[[Subjects/the-hells-and-dark-spheres|The Hells & Dark Spheres]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/teaching-testimony-and-instruction|Teaching, Testimony & Instruction]]"
+keywords:
+  - "prayer circle"
+  - "unseen world"
+  - "spirits"
+  - "concentric circles"
+  - "celestial spirits"
+  - "lower spheres"
+  - "service"
+  - "Light"
+  - "midwife"
+  - "rebirth"
+  - "thousands of spirits"
+  - "spirit world"
+  - "observed"
+  - "darkness to light"
+canonical_url: "https://divinelovesanctuary.com/so-many-in-the-unseen-world-benefit-from-your-prayers-together/"
 ---
 
 # So Many in the Unseen World Benefit from Your Prayers Together

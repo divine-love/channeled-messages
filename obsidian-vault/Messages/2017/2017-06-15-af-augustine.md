@@ -1,33 +1,41 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/spiritual-discipline-and-daily-living
-  - keyword/judgement
-  - keyword/judgment
-  - keyword/self-judgment
-  - keyword/acceptance
-  - keyword/compassion
-  - keyword/perception
-  - keyword/anger
-  - keyword/resentment
-  - keyword/superiority
-  - keyword/divine-love
-  - keyword/inner-monologue
-  - keyword/choice
-  - keyword/light
-  - keyword/soul-condition
-  - keyword/vulnerability
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/judgment-to-love
+message_id: 2017-06-15-af-augustine
 aliases: ["Lesson on Judgement"]
 date: 2017-06-15
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+secondary_subjects:
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+keywords:
+  - "judgement"
+  - "judgment"
+  - "self-judgment"
+  - "acceptance"
+  - "compassion"
+  - "perception"
+  - "anger"
+  - "resentment"
+  - "superiority"
+  - "Divine Love"
+  - "inner monologue"
+  - "choice"
+  - "Light"
+  - "soul condition"
+  - "vulnerability"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/judgment-to-love]]"
+canonical_url: "https://divinelovesanctuary.com/lesson-on-judgement/"
 ---
 
 # Lesson on Judgement

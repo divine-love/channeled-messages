@@ -1,30 +1,38 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/celestial-governance-and-spiritual-law/law-of-love
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - keyword/feeling-divine-love
-  - keyword/sensitivity
-  - keyword/material-mind
-  - keyword/soul-longing
-  - keyword/reflexive-experience
-  - keyword/law-of-love
-  - keyword/holy-spirit
-  - keyword/sincere-prayer
-  - keyword/awakening
-  - keyword/reassurance
-  - keyword/intuition
-  - keyword/receiving-the-gift
-  - collection/healing-path
-  - essential/core-teaching
-  - chain/divine-love-without-knowing
-  - chain/mind-vs-soul
+message_id: 2019-02-05-af-keea-atta-kem
 aliases: ["Feeling the Love"]
 date: 2019-02-05
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/law-of-love|Law of Love]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+keywords:
+  - "feeling Divine Love"
+  - "sensitivity"
+  - "material mind"
+  - "soul longing"
+  - "reflexive experience"
+  - "Law of Love"
+  - "Holy Spirit"
+  - "sincere prayer"
+  - "awakening"
+  - "reassurance"
+  - "intuition"
+  - "receiving the gift"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/divine-love-without-knowing]]"
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/feeling-the-love/"
 ---
 
 # Feeling the Love

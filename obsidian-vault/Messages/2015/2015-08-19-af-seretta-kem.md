@@ -1,24 +1,31 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/creation-and-incarnation/nature-of-the-soul
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/angels
-  - keyword/chemical-transferences
-  - keyword/soul-bonds
-  - keyword/soul-communication
-  - keyword/gifts
-  - keyword/egypt
-  - keyword/soul-faculties
-  - keyword/prayer-gathering
-  - collection/healing-path
-  - essential/spirit-biography
+message_id: 2015-08-19-af-seretta-kem
 aliases: ["Some Comments on What the Angels Are Doing to Facilitate Our Soul Growth"]
 date: 2015-08-19
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "angels"
+  - "chemical transferences"
+  - "soul bonds"
+  - "soul communication"
+  - "gifts"
+  - "Egypt"
+  - "soul faculties"
+  - "prayer gathering"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Spirit Biography"
 ---
 
 # Some Comments on What the Angels Are Doing to Facilitate Our Soul Growth

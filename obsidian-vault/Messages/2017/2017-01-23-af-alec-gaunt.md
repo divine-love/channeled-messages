@@ -1,31 +1,37 @@
 ---
-tags:
-  - spirit/alec-gaunt
-  - type/teaching
-  - subject/soul-transformation-and-development
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/paper-tiger
-  - keyword/soul-transformation
-  - keyword/cleansing
-  - keyword/fire
-  - keyword/old-patterns
-  - keyword/true-self
-  - keyword/angelic-being
-  - keyword/precipice
-  - keyword/shedding
-  - keyword/conflagration
-  - keyword/shifting
-  - keyword/transition
-  - keyword/fellowship
-  - keyword/mentoring
-  - keyword/testimony
-  - collection/mind-and-soul
-  - collection/healing-path
+message_id: 2017-01-23-af-alec-gaunt
 aliases: ["Changes Within Your Soul Will Bring Many Rewards"]
 date: 2017-01-23
+spirit: "[[Spirits/alec-gaunt|Alec Gaunt]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+secondary_subjects:
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "paper tiger"
+  - "soul transformation"
+  - "cleansing"
+  - "fire"
+  - "old patterns"
+  - "true self"
+  - "angelic being"
+  - "precipice"
+  - "shedding"
+  - "conflagration"
+  - "shifting"
+  - "transition"
+  - "fellowship"
+  - "mentoring"
+  - "testimony"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/changes-within-soul-will-bring-many-rewards/"
 ---
 
 # Changes Within Your Soul Will Bring Many Rewards

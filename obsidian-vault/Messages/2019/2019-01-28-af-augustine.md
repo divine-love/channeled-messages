@@ -1,27 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/collective-awakening-and-redemption/redemption-of-humanity
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - keyword/earth-changes
-  - keyword/prophecy
-  - keyword/world-conditions
-  - keyword/distortion
-  - keyword/time
-  - keyword/guidance
-  - keyword/planning
-  - keyword/fog
-  - keyword/compass
-  - keyword/god-s-plan
-  - collection/awakening-humanity
-  - chain/preparation-to-be-a-rock
+message_id: 2019-01-28-af-augustine
 aliases: ["Questions Regarding Earth Changes"]
 date: 2019-01-28
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/redemption-of-humanity|Redemption of Humanity]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+keywords:
+  - "earth changes"
+  - "prophecy"
+  - "world conditions"
+  - "distortion"
+  - "time"
+  - "guidance"
+  - "planning"
+  - "fog"
+  - "compass"
+  - "God's plan"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+chains:
+  - "[[Chains/preparation-to-be-a-rock]]"
+canonical_url: "https://divinelovesanctuary.com/questions-regarding-earth-changes/"
 ---
 
 # Questions Regarding Earth Changes

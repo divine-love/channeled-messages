@@ -1,28 +1,36 @@
 ---
-tags:
-  - spirit/john-wesley
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/collective-awakening-and-redemption
-  - subject/teaching-testimony-and-instruction/religious-error-and-reformation
-  - keyword/methodism
-  - keyword/reformation
-  - keyword/church
-  - keyword/truth
-  - keyword/courage
-  - keyword/doctrine
-  - keyword/soul
-  - keyword/channel-of-love
-  - collection/letters-from-history
-  - collection/awakening-humanity
-  - collection/service-and-mission
-  - essential/historical
-  - essential/spirit-biography
-  - chain/religious-error
+message_id: 2018-11-05-af-john-wesley
 aliases: ["Speak Up for Truth and Change"]
 date: 2018-11-05
+spirit: "[[Spirits/john-wesley|John Wesley]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/religious-error-and-reformation|Religious Error & Reformation]]"
+keywords:
+  - "Methodism"
+  - "reformation"
+  - "church"
+  - "truth"
+  - "courage"
+  - "doctrine"
+  - "soul"
+  - "channel of love"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+  - "[[Collections/service-and-mission|Service & Mission]]"
+essential_teachings:
+  - "Historical"
+  - "Spirit Biography"
+chains:
+  - "[[Chains/religious-error]]"
+canonical_url: "https://divinelovesanctuary.com/speak-up-for-truth-and-change/"
 ---
 
 # Speak Up for Truth and Change

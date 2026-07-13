@@ -1,24 +1,29 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god
-  - subject/soul-transformation-and-development
-  - keyword/divine-love
-  - keyword/natural-love
-  - keyword/soul
-  - keyword/prayer
-  - keyword/at-onement
-  - keyword/aloneness
-  - keyword/longing
-  - keyword/god-s-presence
-  - keyword/eternity
-  - keyword/divine-essence
-  - keyword/opening-the-heart
-  - keyword/fellowship
+message_id: 2014-10-11-af-confucius
 aliases: ["You Will Never Feel the Pain of Being Alone When You Possess God's Love"]
 date: 2014-10-11
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/divine-love-and-relationship-with-god|Divine Love & Relationship with God]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+keywords:
+  - "Divine Love"
+  - "natural love"
+  - "soul"
+  - "prayer"
+  - "at-onement"
+  - "aloneness"
+  - "longing"
+  - "God's presence"
+  - "eternity"
+  - "divine essence"
+  - "opening the heart"
+  - "fellowship"
+canonical_url: "https://divinelovesanctuary.com/you-will-never-feel-the-pain-of-being-alone-when-you-possess-gods-love/"
 ---
 
 # You Will Never Feel the Pain of Being Alone When You Possess God's Love

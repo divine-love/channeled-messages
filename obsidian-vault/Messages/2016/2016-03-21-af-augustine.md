@@ -1,31 +1,38 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/collective-awakening-and-redemption
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/awakening
-  - keyword/humanity
-  - keyword/slumber
-  - keyword/spring
-  - keyword/tender-shoots
-  - keyword/soul
-  - keyword/enlightenment
-  - keyword/barriers
-  - keyword/channel-of-love
-  - keyword/purpose
-  - keyword/service
-  - keyword/compassion
-  - keyword/material-mind
-  - keyword/god-s-love
-  - keyword/testimony
-  - collection/the-saints-and-apostles-speak
-  - essential/prophecy
+message_id: 2016-03-21-af-augustine
 aliases: ["The Awakening of Humanity"]
 date: 2016-03-21
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "awakening"
+  - "humanity"
+  - "slumber"
+  - "spring"
+  - "tender shoots"
+  - "soul"
+  - "enlightenment"
+  - "barriers"
+  - "channel of love"
+  - "purpose"
+  - "service"
+  - "compassion"
+  - "material mind"
+  - "God's Love"
+  - "testimony"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Prophecy"
+canonical_url: "https://divinelovesanctuary.com/the-awakening-of-humanity/"
 ---
 
 # The Awakening of Humanity

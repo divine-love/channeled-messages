@@ -1,23 +1,29 @@
 ---
-tags:
-  - spirit/michael
-  - type/teaching
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/spiritual-discipline-and-daily-living/perseverance-and-steadfastness
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/collective-awakening-and-redemption
-  - keyword/truth
-  - keyword/simplicity
-  - keyword/authenticity
-  - keyword/outreach
-  - keyword/humility
-  - keyword/patience
-  - keyword/soul
-  - keyword/channel-of-love
-  - collection/service-and-mission
+message_id: 2018-11-18-af-michael
 aliases: ["How to Bring the Truth to New Souls"]
 date: 2018-11-18
+spirit: "[[Spirits/michael|Michael]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/perseverance-and-steadfastness|Perseverance & Steadfastness]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+keywords:
+  - "truth"
+  - "simplicity"
+  - "authenticity"
+  - "outreach"
+  - "humility"
+  - "patience"
+  - "soul"
+  - "channel of love"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/how-to-bring-the-truth-to-new-souls/"
 ---
 
 # How to Bring the Truth to New Souls

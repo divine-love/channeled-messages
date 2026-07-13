@@ -1,26 +1,33 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/sleep-state
-  - keyword/soul-travel
-  - keyword/silver-cord
-  - keyword/spirit-body
-  - keyword/dreams
-  - keyword/soul-service
-  - keyword/spirit-clinics
-  - keyword/guides
-  - keyword/intention
-  - keyword/soul-condition
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
+message_id: 2019-01-27-af-john-the-beloved
 aliases: ["Sleep State Q & A"]
 date: 2019-01-27
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "sleep state"
+  - "soul travel"
+  - "silver cord"
+  - "spirit body"
+  - "dreams"
+  - "soul service"
+  - "spirit clinics"
+  - "guides"
+  - "intention"
+  - "soul condition"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/sleep-state-q-a/"
 ---
 
 # Sleep State Q & A

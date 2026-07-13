@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/divine-will-guidance-and-orchestration
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/circle-of-light
-  - keyword/prayer-together
-  - keyword/harmony
-  - keyword/questions
-  - keyword/more-to-learn
-  - keyword/not-lost
-  - keyword/god-s-path
-  - keyword/purpose
-  - keyword/service
-  - keyword/teacher
-  - keyword/portal-opens-wide
-  - keyword/many-gifts-coming
-  - keyword/thresholds
-  - collection/service-and-mission
+message_id: 2019-02-01-af-confucius
 aliases: ["Come Together Again With Your Questions"]
 date: 2019-02-01
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "circle of light"
+  - "prayer together"
+  - "harmony"
+  - "questions"
+  - "more to learn"
+  - "not lost"
+  - "God's path"
+  - "purpose"
+  - "service"
+  - "teacher"
+  - "portal opens wide"
+  - "many gifts coming"
+  - "thresholds"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+canonical_url: "https://divinelovesanctuary.com/come-together-again-with-your-questions/"
 ---
 
 # Come Together Again With Your Questions

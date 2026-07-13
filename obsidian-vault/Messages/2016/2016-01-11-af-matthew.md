@@ -1,31 +1,36 @@
 ---
-tags:
-  - spirit/matthew
-  - type/guidance
-  - subject/earth-changes-and-prophecy
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/preparation-for-earth-mission
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/soul-transformation-and-development/soul-awakening
-  - keyword/new-year
-  - keyword/prophecy
-  - keyword/change
-  - keyword/travel
-  - keyword/currency-of-love
-  - keyword/channel-of-love
-  - keyword/mission
-  - keyword/awakening
-  - keyword/seekers
-  - keyword/different-beliefs
-  - keyword/prayer
-  - keyword/world-change
-  - keyword/gifts
-  - keyword/service
-  - keyword/fellowship
-  - collection/service-and-mission
-  - collection/awakening-humanity
+message_id: 2016-01-11-af-matthew
 aliases: ["The Year Ahead"]
 date: 2016-01-11
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+keywords:
+  - "new year"
+  - "prophecy"
+  - "change"
+  - "travel"
+  - "currency of love"
+  - "channel of love"
+  - "mission"
+  - "awakening"
+  - "seekers"
+  - "different beliefs"
+  - "prayer"
+  - "world change"
+  - "gifts"
+  - "service"
+  - "fellowship"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
 ---
 
 # The Year Ahead

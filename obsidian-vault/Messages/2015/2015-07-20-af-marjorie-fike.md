@@ -1,29 +1,33 @@
 ---
-tags:
-  - spirit/marjorie-fike
-  - type/guidance
-  - subject/interdimensional-and-spirit-communication/spirit-testimony-and-personal-story
-  - subject/earthly-challenges-and-human-condition/grief-and-loss
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - keyword/grandmother
-  - keyword/family-in-spirit
-  - keyword/loved-ones
-  - keyword/trials
-  - keyword/struggle
-  - keyword/judgment
-  - keyword/hurtful-words
-  - keyword/prayer
-  - keyword/god-s-love
-  - keyword/new-beginning
-  - keyword/choice
-  - keyword/mentorship
-  - keyword/oasis
-  - keyword/healing
-  - keyword/intercession
+message_id: 2015-07-20-af-marjorie-fike
 aliases: ["A Grandmother's Love and Guidance from Spirit"]
 date: 2015-07-20
+spirit: "[[Spirits/marjorie-fike|Marjorie]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spirit-testimony-and-personal-story|Spirit Testimony & Personal Story]]"
+secondary_subjects:
+  - "[[Subjects/grief-and-loss|Grief & Loss]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+keywords:
+  - "grandmother"
+  - "family in spirit"
+  - "loved ones"
+  - "trials"
+  - "struggle"
+  - "judgment"
+  - "hurtful words"
+  - "prayer"
+  - "God's Love"
+  - "new beginning"
+  - "choice"
+  - "mentorship"
+  - "oasis"
+  - "healing"
+  - "intercession"
 ---
 
 # A Grandmother's Love and Guidance from Spirit

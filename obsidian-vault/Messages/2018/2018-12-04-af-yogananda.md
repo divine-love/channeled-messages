@@ -1,25 +1,31 @@
 ---
-tags:
-  - spirit/yogananda
-  - type/guidance
-  - subject/spiritual-discipline-and-daily-living
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/spiritual-discipline-and-daily-living/releasing-judgment
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-will-guidance-and-orchestration/surrender-to-god-s-will
-  - keyword/daily-service
-  - keyword/intention
-  - keyword/openness
-  - keyword/judgment
-  - keyword/each-day
-  - keyword/channel-of-love
-  - keyword/humble-service
-  - keyword/prayer
-  - keyword/opportunity
-  - keyword/light
-  - collection/letters-from-history
+message_id: 2018-12-04-af-yogananda
 aliases: ["Each Day Brings Opportunities to Serve in Love"]
 date: 2018-12-04
+spirit: "[[Spirits/yogananda|Yogananda]]"
+medium: "Al Fike"
+location: "Bayview, NSW, Australia"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+secondary_subjects:
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+  - "[[Subjects/releasing-judgment|Releasing Judgment]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/surrender-to-god-s-will|Surrender to God's Will]]"
+keywords:
+  - "daily service"
+  - "intention"
+  - "openness"
+  - "judgment"
+  - "each day"
+  - "channel of love"
+  - "humble service"
+  - "prayer"
+  - "opportunity"
+  - "light"
+collections:
+  - "[[Collections/letters-from-history|Letters from History]]"
+canonical_url: "https://divinelovesanctuary.com/each-day-brings-opportunities-to-serve-in-love/"
 ---
 
 # Each Day Brings Opportunities to Serve in Love

@@ -1,32 +1,39 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/celestial-governance-and-spiritual-law/law-of-activation
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - keyword/prayer
-  - keyword/heartfelt-prayer
-  - keyword/language-of-the-soul
-  - keyword/law-of-activation
-  - keyword/longing
-  - keyword/faith
-  - keyword/soul-connection
-  - keyword/god-s-presence
-  - keyword/divine-love
-  - keyword/thread-of-light
-  - keyword/soul-longing
-  - keyword/distraction
-  - keyword/barriers
-  - keyword/teaching-prayer
-  - keyword/example
-  - essential/core-teaching
-  - chain/prayer-soul-longing
+message_id: 2018-07-30-af-keea-atta-kem
 aliases: ["Prayer"]
 date: 2018-07-30
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/law-of-activation|Law of Activation]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+keywords:
+  - "prayer"
+  - "heartfelt prayer"
+  - "language of the soul"
+  - "Law of Activation"
+  - "longing"
+  - "faith"
+  - "soul connection"
+  - "God's presence"
+  - "Divine Love"
+  - "thread of light"
+  - "soul longing"
+  - "distraction"
+  - "barriers"
+  - "teaching prayer"
+  - "example"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/prayer-soul-longing]]"
+canonical_url: "https://divinelovesanctuary.com/prayer/"
 ---
 
 # Prayer

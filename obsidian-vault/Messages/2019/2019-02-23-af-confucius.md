@@ -1,22 +1,29 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/spiritual-empowerment-and-encouragement/reassurance-and-strength
-  - subject/spiritual-warfare-and-opposition/god-s-protection-and-care
-  - keyword/blessing
-  - keyword/healing
-  - keyword/strengthening
-  - keyword/god-s-blessings
-  - keyword/peace
-  - keyword/navigating-challenges
-  - keyword/god-s-touch
-  - keyword/the-soul
-  - keyword/journey
-  - collection/healing-path
+message_id: 2019-02-23-af-confucius
 aliases: ["May You Come to Know God's Blessings"]
 date: 2019-02-23
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: ""
+gathering: "Western Caribbean Cruise"
+message_type: "Blessing"
+primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/reassurance-and-strength|Reassurance & Strength]]"
+  - "[[Subjects/god-s-protection-and-care|God's Protection & Care]]"
+keywords:
+  - "blessing"
+  - "healing"
+  - "strengthening"
+  - "God's blessings"
+  - "peace"
+  - "navigating challenges"
+  - "God's Touch"
+  - "the soul"
+  - "journey"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+canonical_url: "https://divinelovesanctuary.com/may-you-come-to-know-gods-blessings/"
 ---
 
 # May You Come to Know God's Blessings

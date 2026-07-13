@@ -1,26 +1,30 @@
 ---
-tags:
-  - spirit/faith-nyquist
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living/surrender-and-trust-in-god
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/keep-the-flame-burning
-  - keyword/sowing-seeds
-  - keyword/god-s-will
-  - keyword/circuitous-route
-  - keyword/steadfast
-  - keyword/humility
-  - keyword/channel-of-love
-  - keyword/resistance
-  - keyword/recognition
-  - keyword/perseverance
-  - keyword/prayer-presence
-  - keyword/on-earth-as-it-is-in-heaven
-  - keyword/service
+message_id: 2016-03-13-af-faith-nyquist
 aliases: ["Keep the Flame Burning"]
 date: 2016-03-13
+spirit: "[[Spirits/faith-nyquist|Faith]]"
+medium: "Al Fike"
+location: "Selah, Washington, United States of America"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/surrender-and-trust-in-god|Surrender & Trust in God]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "keep the flame burning"
+  - "sowing seeds"
+  - "God's will"
+  - "circuitous route"
+  - "steadfast"
+  - "humility"
+  - "channel of love"
+  - "resistance"
+  - "recognition"
+  - "perseverance"
+  - "prayer presence"
+  - "on earth as it is in heaven"
+  - "service"
 ---
 
 # Keep the Flame Burning

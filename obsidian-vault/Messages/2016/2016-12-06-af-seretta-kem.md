@@ -1,32 +1,40 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - keyword/mediumship
-  - keyword/spirit-communication
-  - keyword/rapport
-  - keyword/laws-of-communication
-  - keyword/conditions
-  - keyword/discernment
-  - keyword/trance
-  - keyword/direct-voice
-  - keyword/expectation
-  - keyword/gifts
-  - keyword/divine-path
-  - keyword/natural-path
-  - keyword/celestial-angels
-  - keyword/soul-gifts
-  - keyword/circle-of-light
-  - collection/healing-path
-  - essential/core-teaching
-  - chain/divine-love-mediumship
+message_id: 2016-12-06-af-seretta-kem
 aliases: ["Talk on Mediumship: The Laws of Communication and Rapport"]
 date: 2016-12-06
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Hawaii, HI, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+keywords:
+  - "mediumship"
+  - "spirit communication"
+  - "rapport"
+  - "laws of communication"
+  - "conditions"
+  - "discernment"
+  - "trance"
+  - "direct voice"
+  - "expectation"
+  - "gifts"
+  - "Divine Path"
+  - "Natural Path"
+  - "Celestial angels"
+  - "soul gifts"
+  - "circle of light"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/divine-love-mediumship]]"
+canonical_url: "https://divinelovesanctuary.com/talk-mediumship-laws-communication-rapport/"
 ---
 
 # Talk on Mediumship: The Laws of Communication and Rapport

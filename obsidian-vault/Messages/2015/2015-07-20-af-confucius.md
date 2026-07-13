@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/teaching
-  - subject/soul-transformation-and-development
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - keyword/soul-transformation
-  - keyword/divine-love
-  - keyword/immortal
-  - keyword/angel
-  - keyword/at-onement
-  - keyword/eternity
-  - keyword/redemption
-  - keyword/joy
-  - keyword/universe
-  - keyword/knowing-god
-  - keyword/flower
-  - keyword/river-of-love
-  - keyword/blessing
-  - keyword/yearning
+message_id: 2015-07-20-af-confucius
 aliases: ["How Your Soul Is Changed by the Love"]
 date: 2015-07-20
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+secondary_subjects:
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+  - "[[Subjects/at-onement|At-onement]]"
+keywords:
+  - "soul transformation"
+  - "Divine Love"
+  - "immortal"
+  - "angel"
+  - "at-onement"
+  - "eternity"
+  - "redemption"
+  - "joy"
+  - "universe"
+  - "knowing God"
+  - "flower"
+  - "river of love"
+  - "blessing"
+  - "yearning"
+canonical_url: "https://divinelovesanctuary.com/how-your-soul-is-changed-by-the-love/"
 ---
 
 # How Your Soul Is Changed by the Love

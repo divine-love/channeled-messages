@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/divine-love-and-relationship-with-god/knowing-god
-  - subject/divine-love-and-relationship-with-god/receiving-the-divine-love-through-prayer
-  - keyword/soul-mind
-  - keyword/soul-perception
-  - keyword/mind
-  - keyword/awareness
-  - keyword/awakening
-  - keyword/truth
-  - keyword/reality
-  - keyword/vision
-  - keyword/clarity
-  - keyword/god-s-love
-  - keyword/consciousness
-  - keyword/faculties
-  - keyword/delineation
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-12-27-af-augustine
 aliases: ["Awakening of the Soul Mind"]
 date: 2015-12-27
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/knowing-god|Knowing God]]"
+  - "[[Subjects/receiving-the-divine-love-through-prayer|Receiving the Divine Love through Prayer]]"
+keywords:
+  - "soul mind"
+  - "soul perception"
+  - "mind"
+  - "awareness"
+  - "awakening"
+  - "truth"
+  - "reality"
+  - "vision"
+  - "clarity"
+  - "God's Love"
+  - "consciousness"
+  - "faculties"
+  - "delineation"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/awakening-of-the-soul-mind/"
 ---
 
 # Awakening of the Soul Mind

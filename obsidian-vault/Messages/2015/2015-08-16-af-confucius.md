@@ -1,20 +1,25 @@
 ---
-tags:
-  - spirit/confucius
-  - type/guidance
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/divine-will-guidance-and-orchestration
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/spiritual-community-and-fellowship
-  - keyword/amendment
-  - keyword/questions
-  - keyword/mediumship
-  - keyword/limitations
-  - keyword/discernment
-  - keyword/circle
-  - keyword/wisdom
+message_id: 2015-08-16-af-confucius
 aliases: ["Amendment to Augustine's Guidance"]
 date: 2015-08-16
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Guidance"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+keywords:
+  - "amendment"
+  - "questions"
+  - "mediumship"
+  - "limitations"
+  - "discernment"
+  - "circle"
+  - "wisdom"
 ---
 
 # Amendment to Augustine's Guidance

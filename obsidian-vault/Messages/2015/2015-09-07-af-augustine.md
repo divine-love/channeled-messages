@@ -1,28 +1,34 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/soul-transformation-and-development/personal-transformation-journey
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/newborn
-  - keyword/soul-awakening
-  - keyword/perception
-  - keyword/shifts
-  - keyword/transformation
-  - keyword/resistance
-  - keyword/allowing
-  - keyword/holy-spirit
-  - keyword/god-s-essence
-  - keyword/inner-change
-  - keyword/clarity
-  - keyword/trust
-  - keyword/redemption
-  - collection/the-saints-and-apostles-speak
+message_id: 2015-09-07-af-augustine
 aliases: ["Like a Newborn, the Eyes of Your Soul Begin to Open Bringing Shifts and Changes of Perception"]
 date: 2015-09-07
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/personal-transformation-journey|Personal Transformation Journey]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "newborn"
+  - "soul awakening"
+  - "perception"
+  - "shifts"
+  - "transformation"
+  - "resistance"
+  - "allowing"
+  - "Holy Spirit"
+  - "God's essence"
+  - "inner change"
+  - "clarity"
+  - "trust"
+  - "redemption"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/like-a-newborn-the-eyes-of-your-soul-begin-to-open-bringing-shifts-and-changes-of-perception/"
 ---
 
 # Like a Newborn, the Eyes of Your Soul Begin to Open Bringing Shifts and Changes of Perception

@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/soul-transformation-and-development/self-love-and-acceptance
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - keyword/ladder-of-light
-  - keyword/judgment
-  - keyword/hidden-pain
-  - keyword/unloved
-  - keyword/authentic-love
-  - keyword/surface-performance
-  - keyword/test
-  - keyword/pattern-breaking
-  - keyword/resentment
-  - keyword/anger
-  - keyword/duality
-  - keyword/barrier
-  - keyword/discipline
-  - keyword/birthright
-  - keyword/emasculate-the-mind
-  - collection/mind-and-soul
-  - collection/healing-path
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/judgment-to-love
+message_id: 2018-06-26-af-matthew
 aliases: ["Release Judgment, Embrace Love"]
 date: 2018-06-26
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/self-love-and-acceptance|Self-Love & Acceptance]]"
+secondary_subjects:
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+keywords:
+  - "ladder of light"
+  - "judgment"
+  - "hidden pain"
+  - "unloved"
+  - "authentic love"
+  - "surface performance"
+  - "test"
+  - "pattern breaking"
+  - "resentment"
+  - "anger"
+  - "duality"
+  - "barrier"
+  - "discipline"
+  - "birthright"
+  - "emasculate the mind"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/healing-path|Healing Path]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/judgment-to-love]]"
+canonical_url: "https://divinelovesanctuary.com/release-judgment-embrace-love/"
 ---
 
 # Release Judgment, Embrace Love

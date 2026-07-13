@@ -1,33 +1,40 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/celestial-governance-and-spiritual-law/law-of-communication-and-rapport
-  - subject/celestial-governance-and-spiritual-law/law-of-attraction
-  - subject/celestial-governance-and-spiritual-law/law-of-activation
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - keyword/mediumship
-  - keyword/rapport
-  - keyword/spirit-communication
-  - keyword/soul-to-mind
-  - keyword/distortion
-  - keyword/no-perfect-mediums
-  - keyword/law-of-love
-  - keyword/encrustations
-  - keyword/material-mind
-  - keyword/send-love-to-the-medium
-  - keyword/spirit-influence
-  - keyword/one-truth-at-a-time
-  - keyword/redemption
-  - keyword/control
-  - collection/healing-path
-  - essential/core-teaching
-  - chain/divine-love-mediumship
-  - chain/mind-vs-soul
+message_id: 2016-03-27-af-seretta-kem
 aliases: ["Mediumship, Communication and Rapport"]
 date: 2016-03-27
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+secondary_subjects:
+  - "[[Subjects/law-of-communication-and-rapport|Law of Communication & Rapport]]"
+  - "[[Subjects/law-of-attraction|Law of Attraction]]"
+  - "[[Subjects/law-of-activation|Law of Activation]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+keywords:
+  - "mediumship"
+  - "rapport"
+  - "spirit communication"
+  - "soul to mind"
+  - "distortion"
+  - "no perfect mediums"
+  - "Law of Love"
+  - "encrustations"
+  - "material mind"
+  - "send love to the medium"
+  - "spirit influence"
+  - "one truth at a time"
+  - "redemption"
+  - "control"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/divine-love-mediumship]]"
+  - "[[Chains/mind-vs-soul]]"
 ---
 
 # Mediumship, Communication and Rapport

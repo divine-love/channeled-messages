@@ -1,30 +1,36 @@
 ---
-tags:
-  - spirit/augustine
-  - type/guidance
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/preparation-for-earth-mission
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/healing
-  - keyword/gifts-opening
-  - keyword/circles-of-light
-  - keyword/channel-of-love
-  - keyword/sowing-seeds
-  - keyword/angel-companions
-  - keyword/divine-essence
-  - keyword/soul-faculties
-  - keyword/awakening
-  - keyword/world-service
-  - keyword/guidance
-  - keyword/prayer
-  - keyword/wisdom
-  - keyword/hope
-  - keyword/truth
-  - collection/the-saints-and-apostles-speak
+message_id: 2018-09-12-af-augustine
 aliases: ["Awaken Your Gifts Through Love"]
 date: 2018-09-12
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Phoenix, AZ, USA"
+message_type: "Guidance"
+primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "healing"
+  - "gifts opening"
+  - "circles of light"
+  - "channel of love"
+  - "sowing seeds"
+  - "angel companions"
+  - "Divine Essence"
+  - "soul faculties"
+  - "awakening"
+  - "world service"
+  - "guidance"
+  - "prayer"
+  - "wisdom"
+  - "hope"
+  - "truth"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+canonical_url: "https://divinelovesanctuary.com/awaken-your-gifts-through-love/"
 ---
 
 # Awaken Your Gifts Through Love

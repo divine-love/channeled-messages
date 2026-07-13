@@ -1,31 +1,39 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/soul-healing-and-emotional-restoration
-  - subject/divine-love-and-relationship-with-god/rebirth-of-the-soul-new-birth
-  - subject/spiritual-discipline-and-daily-living
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - keyword/expiation
-  - keyword/midwives
-  - keyword/new-birth
-  - keyword/crevices
-  - keyword/dark-forest
-  - keyword/joy-and-pain
-  - keyword/incremental
-  - keyword/grey-not-dark
-  - keyword/direct-voice
-  - keyword/sensitivity
-  - keyword/release
-  - keyword/intractable
-  - keyword/searing-insight
-  - keyword/peace-that-passes-understanding
-  - collection/healing-path
-  - essential/core-teaching
-  - chain/soul-expiation
+message_id: 2018-07-14-af-seretta-kem
 aliases: ["Soul Expiation Through Pursuit of Truth, Release of Error"]
 date: 2018-07-14
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+secondary_subjects:
+  - "[[Subjects/soul-healing-and-emotional-restoration|Soul Healing & Emotional Restoration]]"
+  - "[[Subjects/rebirth-of-the-soul-new-birth|Rebirth of the Soul (New Birth)]]"
+  - "[[Subjects/spiritual-discipline-and-daily-living|Spiritual Discipline & Daily Living]]"
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+keywords:
+  - "expiation"
+  - "midwives"
+  - "new birth"
+  - "crevices"
+  - "dark forest"
+  - "joy and pain"
+  - "incremental"
+  - "grey not dark"
+  - "direct voice"
+  - "sensitivity"
+  - "release"
+  - "intractable"
+  - "searing insight"
+  - "peace that passes understanding"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/soul-expiation]]"
+canonical_url: "https://divinelovesanctuary.com/soul-expiation-through-pursuit-of-truth-release-of-error/"
 ---
 
 # Soul Expiation Through Pursuit of Truth, Release of Error

@@ -1,24 +1,28 @@
 ---
-tags:
-  - spirit/white-cloud
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/spiritual-discipline-and-daily-living/walking-the-divine-path
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - keyword/warriors-of-light
-  - keyword/light
-  - keyword/service
-  - keyword/gifts
-  - keyword/integrity
-  - keyword/love-in-action
-  - keyword/darkness
-  - keyword/lost-souls
-  - keyword/great-white-spirit
-  - keyword/example
+message_id: 2015-11-25-af-white-cloud
 aliases: ["Be Warriors of Light"]
 date: 2015-11-25
+spirit: "[[Spirits/white-cloud|White Cloud]]"
+medium: "Al Fike"
+location: "West Vancouver, BC, Canada"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/walking-the-divine-path|Walking the Divine Path]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+keywords:
+  - "warriors of light"
+  - "Light"
+  - "service"
+  - "gifts"
+  - "integrity"
+  - "love in action"
+  - "darkness"
+  - "lost souls"
+  - "Great White Spirit"
+  - "example"
 ---
 
 # Be Warriors of Light

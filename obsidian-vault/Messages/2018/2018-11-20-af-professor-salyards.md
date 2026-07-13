@@ -1,25 +1,32 @@
 ---
-tags:
-  - spirit/professor-salyards
-  - type/teaching
-  - subject/spiritual-discipline-and-daily-living/natural-love-path-vs-divine-love-path
-  - subject/creation-and-incarnation/nature-of-the-soul
-  - subject/interdimensional-and-spirit-communication/celestial-heavens-and-at-onement
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/teaching-testimony-and-instruction/discernment-and-truth-seeking
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - keyword/natural-love
-  - keyword/divine-love
-  - keyword/soul-progression
-  - keyword/sixth-sphere
-  - keyword/soul-faculties
-  - keyword/truth
-  - keyword/celestial-kingdom
-  - keyword/soul-mind
-  - collection/two-paths
-  - essential/core-teaching
+message_id: 2018-11-20-af-professor-salyards
 aliases: ["Natural Love versus Divine Love Soul Progression"]
 date: 2018-11-20
+spirit: "[[Spirits/professor-salyards|Professor Salyards]]"
+medium: "Al Fike"
+location: "Sydney, NSW, Australia"
+message_type: "Teaching"
+primary_subject: "[[Subjects/natural-love-path-vs-divine-love-path|Natural Love Path vs Divine Love Path]]"
+secondary_subjects:
+  - "[[Subjects/nature-of-the-soul|Nature of the Soul]]"
+  - "[[Subjects/celestial-heavens-and-at-onement|Celestial Heavens & At-onement]]"
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/discernment-and-truth-seeking|Discernment & Truth-Seeking]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+keywords:
+  - "natural love"
+  - "divine love"
+  - "soul progression"
+  - "sixth sphere"
+  - "soul faculties"
+  - "truth"
+  - "Celestial Kingdom"
+  - "soul mind"
+collections:
+  - "[[Collections/two-paths|Two Paths]]"
+essential_teachings:
+  - "Core Teaching"
+canonical_url: "https://divinelovesanctuary.com/natural-love-versus-divine-love-soul-progression/"
 ---
 
 # Natural Love versus Divine Love Soul Progression

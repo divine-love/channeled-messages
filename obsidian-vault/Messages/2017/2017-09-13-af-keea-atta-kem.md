@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/keea-atta-kem
-  - type/teaching
-  - subject/earth-changes-and-prophecy
-  - subject/collective-awakening-and-redemption
-  - subject/preparation-for-earth-mission
-  - subject/celestial-governance-and-spiritual-law
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - keyword/earth-changes
-  - keyword/magnetic-poles
-  - keyword/pole-shift
-  - keyword/animal-behaviour
-  - keyword/climate
-  - keyword/consequences
-  - keyword/free-will
-  - keyword/harmony
-  - keyword/custodians
-  - keyword/scientists
-  - keyword/leaders
-  - keyword/closed-system
-  - keyword/chaos
-  - keyword/sanctuary
-  - keyword/restoration
-  - collection/awakening-humanity
-  - essential/core-teaching
-  - essential/prophecy
-  - chain/preparation-to-be-a-rock
-  - chain/earth-changes
+message_id: 2017-09-13-af-keea-atta-kem
 aliases: ["Make Love Your Guiding Truth Through Earth Changes"]
 date: 2017-09-13
+spirit: "[[Spirits/keea-atta-kem|Keea Atta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/earth-changes-and-prophecy|Earth Changes & Prophecy]]"
+secondary_subjects:
+  - "[[Subjects/collective-awakening-and-redemption|Collective Awakening & Redemption]]"
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/celestial-governance-and-spiritual-law|Celestial Governance & Spiritual Law]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+keywords:
+  - "earth changes"
+  - "magnetic poles"
+  - "pole shift"
+  - "animal behaviour"
+  - "climate"
+  - "consequences"
+  - "free will"
+  - "harmony"
+  - "custodians"
+  - "scientists"
+  - "leaders"
+  - "closed system"
+  - "chaos"
+  - "sanctuary"
+  - "restoration"
+collections:
+  - "[[Collections/awakening-humanity|Awakening Humanity]]"
+essential_teachings:
+  - "Core Teaching"
+  - "Prophecy"
+chains:
+  - "[[Chains/preparation-to-be-a-rock]]"
+  - "[[Chains/earth-changes]]"
+canonical_url: "https://divinelovesanctuary.com/make-love-guiding-truth-earth-changes/"
 ---
 
 # Make Love Your Guiding Truth Through Earth Changes

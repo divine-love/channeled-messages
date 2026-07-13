@@ -1,28 +1,36 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/preparation-for-earth-mission/mediumship-and-developing-as-an-instrument
-  - subject/spiritual-discipline-and-daily-living/prayer-and-devotion
-  - subject/divine-will-guidance-and-orchestration/divine-plan-and-timing
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/celestial-governance-and-spiritual-law/law-of-communication-and-rapport
-  - keyword/portals-of-light
-  - keyword/law-of-communication
-  - keyword/rapport
-  - keyword/mechanisms-of-blessing
-  - keyword/spirit-team
-  - keyword/jesus
-  - keyword/prayer
-  - keyword/commitment
-  - keyword/energy
-  - keyword/god-s-plan
-  - collection/healing-path
-  - essential/core-teaching
-  - mentions/jesus
+message_id: 2019-01-26-af-seretta-kem
 aliases: ["Establishing Portals"]
 date: 2019-01-26
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+secondary_subjects:
+  - "[[Subjects/mediumship-and-developing-as-an-instrument|Mediumship & Developing as an Instrument]]"
+  - "[[Subjects/prayer-and-devotion|Prayer & Devotion]]"
+  - "[[Subjects/divine-plan-and-timing|Divine Plan & Timing]]"
+  - "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+  - "[[Subjects/law-of-communication-and-rapport|Law of Communication & Rapport]]"
+keywords:
+  - "Portals of Light"
+  - "Law of Communication"
+  - "rapport"
+  - "mechanisms of blessing"
+  - "spirit team"
+  - "Jesus"
+  - "prayer"
+  - "commitment"
+  - "energy"
+  - "God's plan"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Core Teaching"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/establishing-portals/"
 ---
 
 # Establishing Portals

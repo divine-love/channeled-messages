@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/matthew
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication/death-and-transition-to-spirit
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/divine-love-and-relationship-with-god/at-onement
-  - subject/soul-transformation-and-development
-  - subject/preparation-for-earth-mission/overcoming-fear-and-doubt
-  - keyword/death
-  - keyword/transition
-  - keyword/spirit-world
-  - keyword/fear-of-death
-  - keyword/afterlife
-  - keyword/soul-progression
-  - keyword/spirit-spheres
-  - keyword/at-onement
-  - keyword/eternal-life
-  - keyword/divine-love
-  - keyword/soul-faculties
-  - keyword/awakening
-  - keyword/release
-  - keyword/joy
-  - keyword/peace
-  - keyword/mind-versus-soul
-  - collection/mind-and-soul
-  - collection/the-saints-and-apostles-speak
-  - essential/core-teaching
-  - chain/death-transition
+message_id: 2018-07-19-af-matthew
 aliases: ["Death Can Be a Joyful Transitioning to Spirit"]
 date: 2018-07-19
+spirit: "[[Spirits/matthew|Matthew]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/death-and-transition-to-spirit|Death & Transition to Spirit]]"
+secondary_subjects:
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/at-onement|At-onement]]"
+  - "[[Subjects/soul-transformation-and-development|Soul Transformation & Development]]"
+  - "[[Subjects/overcoming-fear-and-doubt|Overcoming Fear & Doubt]]"
+keywords:
+  - "death"
+  - "transition"
+  - "spirit world"
+  - "fear of death"
+  - "afterlife"
+  - "soul progression"
+  - "spirit spheres"
+  - "at-onement"
+  - "eternal life"
+  - "Divine Love"
+  - "soul faculties"
+  - "awakening"
+  - "release"
+  - "joy"
+  - "peace"
+  - "mind versus soul"
+collections:
+  - "[[Collections/mind-and-soul|Mind & Soul]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Core Teaching"
+chains:
+  - "[[Chains/death-transition]]"
+canonical_url: "https://divinelovesanctuary.com/death-can-be-a-joyful-transitioning-to-spirit/"
 ---
 
 # Death Can Be a Joyful Transitioning to Spirit

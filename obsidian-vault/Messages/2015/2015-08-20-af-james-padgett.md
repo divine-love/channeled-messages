@@ -1,32 +1,40 @@
 ---
-tags:
-  - spirit/james-padgett
-  - type/teaching
-  - subject/historical-context-and-spiritual-legacy/padgett-messages-and-legacy
-  - subject/service-ministry-and-being-a-channel-of-love/testimony-of-god-s-love
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/interdimensional-and-spirit-communication/soul-spheres-and-progression
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/padgett
-  - keyword/automatic-writing
-  - keyword/padgett-messages
-  - keyword/divine-love
-  - keyword/truth
-  - keyword/doubt
-  - keyword/fear
-  - keyword/courage
-  - keyword/testimony
-  - keyword/service
-  - keyword/spirit-communication
-  - keyword/rewards
-  - keyword/celestial-kingdom
-  - keyword/eternity
-  - keyword/commitment
-  - essential/historical
-  - essential/spirit-biography
-  - mentions/jesus
+message_id: 2015-08-20-af-james-padgett
 aliases: ["Express the Truth to Others: Padgett Talks of Why This Is So Important"]
 date: 2015-08-20
+spirit: "[[Spirits/james-padgett|James Padgett]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+gathering: "August 2015 Gibsons Retreat"
+message_type: "Teaching"
+primary_subject: "[[Subjects/padgett-messages-and-legacy|Padgett Messages & Legacy]]"
+secondary_subjects:
+  - "[[Subjects/testimony-of-god-s-love|Testimony of God's Love]]"
+  - "[[Subjects/discipleship|Discipleship]]"
+  - "[[Subjects/soul-spheres-and-progression|Soul Spheres & Progression]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "Padgett"
+  - "automatic writing"
+  - "Padgett Messages"
+  - "Divine Love"
+  - "truth"
+  - "doubt"
+  - "fear"
+  - "courage"
+  - "testimony"
+  - "service"
+  - "spirit communication"
+  - "rewards"
+  - "celestial kingdom"
+  - "eternity"
+  - "commitment"
+essential_teachings:
+  - "Historical"
+  - "Spirit Biography"
+mentions:
+  - "[[Spirits/jesus]]"
+canonical_url: "https://divinelovesanctuary.com/express-the-truth-to-others-padgett-talks-of-why-this-is-so-important/"
 ---
 
 # Express the Truth to Others: Padgett Talks of Why This Is So Important

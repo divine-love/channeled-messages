@@ -1,30 +1,37 @@
 ---
-tags:
-  - spirit/seretta-kem
-  - type/teaching
-  - subject/soul-healing-and-emotional-restoration/healing-through-prayer
-  - subject/service-ministry-and-being-a-channel-of-love/interfaith-and-universal-truth
-  - subject/spiritual-community-and-fellowship/lattice-of-light-and-global-prayer-network
-  - subject/spiritual-community-and-fellowship/circle-of-light-and-prayer-circles
-  - subject/collective-awakening-and-redemption/global-spiritual-work
-  - keyword/merkaba
-  - keyword/healing-circle
-  - keyword/circles-of-light
-  - keyword/tolerance
-  - keyword/acceptance
-  - keyword/interfaith
-  - keyword/exponential
-  - keyword/interconnected
-  - keyword/doors
-  - keyword/world-healing
-  - keyword/soul-light
-  - keyword/god-s-channels
-  - keyword/unity
-  - keyword/diversity
-  - collection/healing-path
-  - essential/divine-healing
+message_id: 2015-11-28-af-seretta-kem
 aliases: ["Healing Merkaba"]
 date: 2015-11-28
+spirit: "[[Spirits/seretta-kem|Seretta Kem]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Teaching"
+primary_subject: "[[Subjects/healing-through-prayer|Healing Through Prayer]]"
+secondary_subjects:
+  - "[[Subjects/interfaith-and-universal-truth|Interfaith & Universal Truth]]"
+  - "[[Subjects/lattice-of-light-and-global-prayer-network|Lattice of Light & Global Prayer Network]]"
+  - "[[Subjects/circle-of-light-and-prayer-circles|Circle of Light & Prayer Circles]]"
+  - "[[Subjects/global-spiritual-work|Global Spiritual Work]]"
+keywords:
+  - "merkaba"
+  - "healing circle"
+  - "circles of light"
+  - "tolerance"
+  - "acceptance"
+  - "interfaith"
+  - "exponential"
+  - "interconnected"
+  - "doors"
+  - "world healing"
+  - "soul light"
+  - "God's channels"
+  - "unity"
+  - "diversity"
+collections:
+  - "[[Collections/healing-path|Healing Path]]"
+essential_teachings:
+  - "Divine Healing"
+canonical_url: "https://divinelovesanctuary.com/healing-merkaba/"
 ---
 
 # Healing Merkaba

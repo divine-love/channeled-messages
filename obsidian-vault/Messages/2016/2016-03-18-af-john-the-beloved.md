@@ -1,34 +1,41 @@
 ---
-tags:
-  - spirit/john-the-beloved
-  - type/guidance
-  - subject/service-ministry-and-being-a-channel-of-love
-  - subject/service-ministry-and-being-a-channel-of-love/discipleship
-  - subject/spiritual-discipline-and-daily-living/humility
-  - subject/divine-will-guidance-and-orchestration
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - subject/spiritual-empowerment-and-encouragement
-  - keyword/service
-  - keyword/channel-of-love
-  - keyword/humility
-  - keyword/adequacy
-  - keyword/soul-progression
-  - keyword/god-s-will
-  - keyword/instruments
-  - keyword/chain-of-love
-  - keyword/purpose
-  - keyword/incarnation
-  - keyword/faith
-  - keyword/grace
-  - keyword/joy
-  - keyword/unanticipated
-  - keyword/history
-  - collection/service-and-mission
-  - collection/the-saints-and-apostles-speak
-  - chain/free-will-and-gods-plan
-  - chain/bell-toll-instrumentality
+message_id: 2016-03-18-af-john-the-beloved
 aliases: ["Talk on Service to God"]
 date: 2016-03-18
+spirit: "[[Spirits/john-the-beloved|John the Beloved]]"
+medium: "Al Fike"
+location: "Selah, WA, USA"
+message_type: "Guidance"
+primary_subject: "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+secondary_subjects:
+  - "[[Subjects/discipleship|Discipleship]]"
+  - "[[Subjects/humility|Humility]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+  - "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+keywords:
+  - "service"
+  - "channel of love"
+  - "humility"
+  - "adequacy"
+  - "soul progression"
+  - "God's will"
+  - "instruments"
+  - "chain of love"
+  - "purpose"
+  - "incarnation"
+  - "faith"
+  - "grace"
+  - "joy"
+  - "unanticipated"
+  - "history"
+collections:
+  - "[[Collections/service-and-mission|Service & Mission]]"
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/free-will-and-gods-plan]]"
+  - "[[Chains/bell-toll-instrumentality]]"
+canonical_url: "https://divinelovesanctuary.com/talk-on-service-to-god-2/"
 ---
 
 # Talk on Service to God

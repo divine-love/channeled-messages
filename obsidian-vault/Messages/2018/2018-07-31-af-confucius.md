@@ -1,26 +1,31 @@
 ---
-tags:
-  - spirit/confucius
-  - type/blessing
-  - subject/spiritual-empowerment-and-encouragement
-  - subject/preparation-for-earth-mission
-  - subject/service-ministry-and-being-a-channel-of-love/teaching-and-sharing-the-message
-  - subject/divine-will-guidance-and-orchestration
-  - keyword/blessing
-  - keyword/birds
-  - keyword/flight
-  - keyword/service
-  - keyword/protection
-  - keyword/doors-opening
-  - keyword/gift
-  - keyword/waters-of-life
-  - keyword/truth
-  - keyword/instrumentality
-  - keyword/spirit-world
-  - keyword/channel-of-love
-  - keyword/world-mission
+message_id: 2018-07-31-af-confucius
 aliases: ["A Special Blessing Given"]
 date: 2018-07-31
+spirit: "[[Spirits/confucius|Confucius]]"
+medium: "Al Fike"
+location: "Gibsons, BC, Canada"
+message_type: "Blessing"
+primary_subject: "[[Subjects/spiritual-empowerment-and-encouragement|Spiritual Empowerment & Encouragement]]"
+secondary_subjects:
+  - "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+  - "[[Subjects/teaching-and-sharing-the-message|Teaching & Sharing the Message]]"
+  - "[[Subjects/divine-will-guidance-and-orchestration|Divine Will, Guidance & Orchestration]]"
+keywords:
+  - "blessing"
+  - "birds"
+  - "flight"
+  - "service"
+  - "protection"
+  - "doors opening"
+  - "gift"
+  - "waters of life"
+  - "truth"
+  - "instrumentality"
+  - "spirit world"
+  - "channel of love"
+  - "world mission"
+canonical_url: "https://divinelovesanctuary.com/a-special-blessing-given/"
 ---
 
 # A Special Blessing Given

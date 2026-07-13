@@ -1,34 +1,42 @@
 ---
-tags:
-  - spirit/stephen
-  - type/teaching
-  - subject/preparation-for-earth-mission
-  - subject/preparation-for-earth-mission/unique-soul-gifts
-  - subject/earth-changes-and-prophecy/future-world-events
-  - subject/soul-transformation-and-development/cleansing-and-expiation
-  - subject/spiritual-identity-and-destiny/divine-purpose
-  - subject/spiritual-discipline-and-daily-living/faith-and-trust
-  - keyword/insight
-  - keyword/dreams
-  - keyword/portents
-  - keyword/visions
-  - keyword/preparation
-  - keyword/coming-changes
-  - keyword/channels-of-love
-  - keyword/soul-communication
-  - keyword/destiny
-  - keyword/god-s-will
-  - keyword/cleansing
-  - keyword/strengthening
-  - keyword/a-rock
-  - keyword/stabilizing-force
-  - keyword/transformation
-  - keyword/miracles
-  - collection/the-saints-and-apostles-speak
-  - essential/prophecy
-  - chain/preparation-to-be-a-rock
+message_id: 2019-03-13-af-stephen
 aliases: ["There Is a Power to This Gift of Insight"]
 date: 2019-03-13
+spirit: "[[Spirits/stephen|Stephen]]"
+medium: "Al Fike"
+location: "Monroeville, Pennsylvania, United States"
+message_type: "Teaching"
+primary_subject: "[[Subjects/preparation-for-earth-mission|Preparation for Earth Mission]]"
+secondary_subjects:
+  - "[[Subjects/unique-soul-gifts|Unique Soul Gifts]]"
+  - "[[Subjects/future-world-events|Future World Events]]"
+  - "[[Subjects/cleansing-and-expiation|Cleansing & Expiation]]"
+  - "[[Subjects/divine-purpose|Divine Purpose]]"
+  - "[[Subjects/faith-and-trust|Faith & Trust]]"
+keywords:
+  - "insight"
+  - "dreams"
+  - "portents"
+  - "visions"
+  - "preparation"
+  - "coming changes"
+  - "channels of love"
+  - "soul communication"
+  - "destiny"
+  - "God's will"
+  - "cleansing"
+  - "strengthening"
+  - "a rock"
+  - "stabilizing force"
+  - "transformation"
+  - "miracles"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+essential_teachings:
+  - "Prophecy"
+chains:
+  - "[[Chains/preparation-to-be-a-rock]]"
+canonical_url: "https://divinelovesanctuary.com/there-is-a-power-to-this-gift-of-insight/"
 ---
 
 # There Is a Power to This Gift of Insight

@@ -1,28 +1,35 @@
 ---
-tags:
-  - spirit/augustine
-  - type/teaching
-  - subject/interdimensional-and-spirit-communication/spirit-guides-and-angels
-  - subject/soul-transformation-and-development/soul-awakening
-  - subject/earthly-challenges-and-human-condition/mind-vs-soul-conflict
-  - subject/spiritual-community-and-fellowship
-  - subject/service-ministry-and-being-a-channel-of-love
-  - keyword/celestial-angels
-  - keyword/angel-assigned
-  - keyword/receptivity
-  - keyword/soul-faculties
-  - keyword/put-aside-preconceptions
-  - keyword/perception-of-the-soul
-  - keyword/unique-to-each-soul
-  - keyword/cannot-be-forced
-  - keyword/carrying-the-flame
-  - keyword/loneliness-of-the-path
-  - keyword/channels-of-love
-  - keyword/reach-for-the-highest
-  - collection/the-saints-and-apostles-speak
-  - chain/mind-vs-soul
+message_id: 2019-02-18-af-augustine
 aliases: ["Be Receptive to God and the Celestial Angels"]
 date: 2019-02-18
+spirit: "[[Spirits/augustine|Augustine]]"
+medium: "Al Fike"
+location: "Cruise Ship, Florida, United States of America"
+message_type: "Teaching"
+primary_subject: "[[Subjects/spirit-guides-and-angels|Spirit Guides & Angels]]"
+secondary_subjects:
+  - "[[Subjects/soul-awakening|Soul Awakening]]"
+  - "[[Subjects/mind-vs-soul-conflict|Mind vs Soul Conflict]]"
+  - "[[Subjects/spiritual-community-and-fellowship|Spiritual Community & Fellowship]]"
+  - "[[Subjects/service-ministry-and-being-a-channel-of-love|Service, Ministry & Being a Channel of Love]]"
+keywords:
+  - "Celestial angels"
+  - "angel assigned"
+  - "receptivity"
+  - "soul faculties"
+  - "put aside preconceptions"
+  - "perception of the soul"
+  - "unique to each soul"
+  - "cannot be forced"
+  - "carrying the flame"
+  - "loneliness of the path"
+  - "channels of love"
+  - "reach for the highest"
+collections:
+  - "[[Collections/the-saints-and-apostles-speak|The Saints & Apostles Speak]]"
+chains:
+  - "[[Chains/mind-vs-soul]]"
+canonical_url: "https://divinelovesanctuary.com/be-receptive-to-god-and-the-celestial-angels/"
 ---
 
 # Be Receptive to God and the Celestial Angels
