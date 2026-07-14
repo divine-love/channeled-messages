@@ -6,14 +6,14 @@
 
 ## Foundation
 
-- 2015-11-28 — [[2015-11-28-af-faith-nyquist|The Power of Prayer to Bring Change and Healing]]
+- 2015-11-28 — [[The Power of Prayer to Bring Change and Healing]]
 
 ## Elaboration
 
-- 2016-01-23 — [[2016-01-23-af-augustine|The Power of Prayer]]
-- 2016-01-24 — [[2016-01-24-af-augustine|Lesson on Soul-Desire]]
-- 2016-03-25 — [[2016-03-25-af-augustine|Importance of Prayer]]
+- 2016-01-23 — [[The Power of Prayer]]
+- 2016-01-24 — [[Lesson on Soul-Desire]]
+- 2016-03-25 — [[Importance of Prayer]]
 
 ## Capstone
 
-- 2018-07-30 — [[2018-07-30-af-keea-atta-kem|Prayer]]
+- 2018-07-30 — [[Prayer]]

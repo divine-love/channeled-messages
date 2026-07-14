@@ -6,17 +6,17 @@
 
 ## Foundation
 
-- 2015-06-29 — [[2015-06-29-af-confucius|You Must Prepare Yourselves for What Is Coming]] **(anchor)**
-- 2015-08-17 — [[2015-08-17-af-jesus|Jesus Speaks Seriously of Changes to Come: Be a Channel of Love through the Storms]]
+- 2015-06-29 — [[You Must Prepare Yourselves for What Is Coming]] **(anchor)**
+- 2015-08-17 — [[Jesus Speaks Seriously of Changes to Come - Be a Channel of Love through the Storms|Jesus Speaks Seriously of Changes to Come: Be a Channel of Love through the Storms]]
 
 ## Elaboration
 
-- 2016-12-07 — [[2016-12-07-af-andrew|Be Calm in the Coming Storms]]
-- 2017-09-13 — [[2017-09-13-af-keea-atta-kem|Make Love Your Guiding Truth Through Earth Changes]]
-- 2018-09-01 — [[2018-09-01-af-seretta-kem|You Are Ready to Step Forward]]
-- 2018-10-24 — [[2018-10-24-af-seretta-kem|Seretta Kem Talks of the Service that May Come]]
-- 2019-03-13 — [[2019-03-13-af-stephen|There Is a Power to This Gift of Insight]]
+- 2016-12-07 — [[Be Calm in the Coming Storms]]
+- 2017-09-13 — [[Make Love Your Guiding Truth Through Earth Changes]]
+- 2018-09-01 — [[You Are Ready to Step Forward]]
+- 2018-10-24 — [[Seretta Kem Talks of the Service that May Come]]
+- 2019-03-13 — [[There Is a Power to This Gift of Insight]]
 
 ## Objection-removed
 
-- 2019-01-28 — [[2019-01-28-af-augustine|Questions Regarding Earth Changes]]
+- 2019-01-28 — [[Questions Regarding Earth Changes]]

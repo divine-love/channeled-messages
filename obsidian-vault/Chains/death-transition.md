@@ -6,8 +6,8 @@
 
 ## Foundation
 
-- 2018-07-19 — [[2018-07-19-af-matthew|Death Can Be a Joyful Transitioning to Spirit]]
+- 2018-07-19 — [[Death Can Be a Joyful Transitioning to Spirit]]
 
 ## Elaboration
 
-- 2019-02-10 — [[2019-02-10-af-augustine|Choosing Light Over Darkness]]
+- 2019-02-10 — [[Choosing Light Over Darkness]]

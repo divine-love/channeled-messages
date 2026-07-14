@@ -6,5 +6,5 @@
 
 ## Elaboration
 
-- 2016-02-29 — [[2016-02-29-af-confucius|You Struggle but You Do Make Progress]]
-- 2019-04-05 — [[2019-04-05-af-augustine|Mediumship, Gifts, Being a Channel of Love]]
+- 2016-02-29 — [[You Struggle but You Do Make Progress]]
+- 2019-04-05 — [[Mediumship, Gifts, Being a Channel of Love]]

@@ -6,4 +6,4 @@
 
 ## Elaboration
 
-- 2019-02-22 — [[2019-02-22-af-keea-atta-kem|Life Challenges Strengthen the Soul, Creating More Powerful Channels of Love]]
+- 2019-02-22 — [[Life Challenges Strengthen the Soul, Creating More Powerful Channels of Love]]

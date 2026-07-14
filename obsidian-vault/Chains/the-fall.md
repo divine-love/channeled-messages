@@ -2,4 +2,4 @@
 
 ## strong
 
-- 2016-03-31 — [[2016-03-31-af-judas|The Purpose of Divine Love]]
+- 2016-03-31 — [[The Purpose of Divine Love]]

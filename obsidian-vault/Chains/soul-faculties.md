@@ -6,12 +6,12 @@
 
 ## Foundation
 
-- 2019-02-01 — [[2019-02-01-af-josephus|Faculties of the Soul]]
+- 2019-02-01 — [[Faculties of the Soul]]
 
 ## Elaboration
 
-- 2018-12-02 — [[2018-12-02-af-augustine|All Truth Comes from the Soul: Part 2]]
+- 2018-12-02 — [[All Truth Comes from the Soul - Part 2|All Truth Comes from the Soul: Part 2]]
 
 ## Chrysalis
 
-- 2018-10-16 — [[2018-10-16-af-seretta-kem|A Kaleidoscope of Light]]
+- 2018-10-16 — [[A Kaleidoscope of Light]]

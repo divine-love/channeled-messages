@@ -6,16 +6,16 @@
 
 ## Foundation
 
-- 2015-10-26 — [[2015-10-26-af-aman|The First Father Talks about Reincarnation and the Progression of Life]]
+- 2015-10-26 — [[The First Father Talks about Reincarnation and the Progression of Life]]
 
 ## Elaboration
 
-- 2016-03-29 — [[2016-03-29-af-james|The Gift of Life]]
+- 2016-03-29 — [[The Gift of Life]]
 
 ## Objection-removed
 
-- 2019-01-31 — [[2019-01-31-af-yogananda|Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East]]
+- 2019-01-31 — [[Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East]]
 
 ## Testimony
 
-- 2018-11-22 — [[2018-11-22-af-yogananda|Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens]]
+- 2018-11-22 — [[Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens]]

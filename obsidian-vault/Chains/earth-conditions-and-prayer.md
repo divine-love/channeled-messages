@@ -6,10 +6,10 @@
 
 ## Foundation
 
-- 2016-02-29 — [[2016-02-29-af-luke|Fighting Back the Darkness of the Earth Conditions]]
+- 2016-02-29 — [[Fighting Back the Darkness of the Earth Conditions]]
 
 ## Elaboration
 
-- 2019-02-10 — [[2019-02-10-af-augustine|Choosing Light Over Darkness]]
-- 2019-03-08 — [[2019-03-08-af-andrew|The Highest Gift of All Is the Blessing of God's Love]]
-- 2023-02-10 — [[2023-02-10-af-augustine|The Impediments of Soul Awakening]]
+- 2019-02-10 — [[Choosing Light Over Darkness]]
+- 2019-03-08 — [[The Highest Gift of All Is the Blessing of God's Love]]
+- 2023-02-10 — [[The Impediments of Soul Awakening]]

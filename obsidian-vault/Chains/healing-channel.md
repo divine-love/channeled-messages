@@ -6,9 +6,9 @@
 
 ## Foundation
 
-- 2016-01-04 — [[2016-01-04-af-seretta-kem|On Being a Comforter in This World]]
+- 2016-01-04 — [[On Being a Comforter in This World]]
 
 ## Elaboration
 
-- 2016-01-08 — [[2016-01-08-af-jesus|Encouragement from Jesus]]
-- 2016-02-10 — [[2016-02-10-af-confucius|Remember to Nourish Your Soul]]
+- 2016-01-08 — [[Encouragement from Jesus]]
+- 2016-02-10 — [[Remember to Nourish Your Soul]]

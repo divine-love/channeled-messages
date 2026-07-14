@@ -6,22 +6,22 @@
 
 ## Foundation
 
-- 2016-03-27 — [[2016-03-27-af-seretta-kem|Mediumship, Communication and Rapport]]
+- 2016-03-27 — [[Mediumship, Communication and Rapport]]
 
 ## Elaboration
 
-- 2016-12-06 — [[2016-12-06-af-seretta-kem|Talk on Mediumship: The Laws of Communication and Rapport]]
-- 2018-08-29 — [[2018-08-29-af-seretta-kem|What Brings Divine Love Mediumship]]
-- 2019-01-26 — [[2019-01-26-af-andrew|All Have Some Ability to Communicate with Angels]]
-- 2019-02-27 — [[2019-02-27-af-andrew|Mediumship of Al and Ability to Communicate for All]]
-- 2019-04-05 — [[2019-04-05-af-augustine|Mediumship, Gifts, Being a Channel of Love]]
-- 2019-04-06 — [[2019-04-06-af-yogananda|Your Gifts Are Opening]]
+- 2016-12-06 — [[Talk on Mediumship - The Laws of Communication and Rapport|Talk on Mediumship: The Laws of Communication and Rapport]]
+- 2018-08-29 — [[What Brings Divine Love Mediumship]]
+- 2019-01-26 — [[All Have Some Ability to Communicate with Angels]]
+- 2019-02-27 — [[Mediumship of Al and Ability to Communicate for All]]
+- 2019-04-05 — [[Mediumship, Gifts, Being a Channel of Love]]
+- 2019-04-06 — [[Your Gifts Are Opening]]
 
 ## Objection-removed
 
-- 2018-11-26 — [[2018-11-26-af-jesus|Clarification on the Existence of Jesus]]
-- 2019-01-30 — [[2019-01-30-af-seretta-kem|Jesus Assigns Spirit Guides]]
+- 2018-11-26 — [[Clarification on the Existence of Jesus]]
+- 2019-01-30 — [[Jesus Assigns Spirit Guides]]
 
 ## Testimony
 
-- 2019-01-30 — [[2019-01-30-af-jesus|How Can We Discern Truth When Messages from Different Mediums Contradict Each Other?]]
+- 2019-01-30 — [[How Can We Discern Truth When Messages from Different Mediums Contradict Each Other|How Can We Discern Truth When Messages from Different Mediums Contradict Each Other?]]

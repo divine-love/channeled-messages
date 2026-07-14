@@ -1,3 +1,3 @@
 # Subject: Alignment with Divine Flow
 
-- 2016-04-04 — [[2016-04-04-af-augustine|God Provides for Those Who Serve*]]
+- 2016-04-04 — [[God Provides for Those Who Serve|God Provides for Those Who Serve*]]

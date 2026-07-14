@@ -6,10 +6,10 @@
 
 ## Foundation
 
-- 2015-05-03 — [[2015-05-03-af-confucius|The Ups and the Downs of the Journey]] **(anchor)**
+- 2015-05-03 — [[The Ups and the Downs of the Journey]] **(anchor)**
 
 ## Elaboration
 
-- 2019-01-28 — [[2019-01-28-af-matthew-2|Releasing the Last Dark Vestiges in the Soul]]
-- 2019-04-04 — [[2019-04-04-af-matthew|Awaken!]]
-- 2019-04-05 — [[2019-04-05-af-augustine|Mediumship, Gifts, Being a Channel of Love]]
+- 2019-01-28 — [[Releasing the Last Dark Vestiges in the Soul]]
+- 2019-04-04 — [[Awaken!]]
+- 2019-04-05 — [[Mediumship, Gifts, Being a Channel of Love]]

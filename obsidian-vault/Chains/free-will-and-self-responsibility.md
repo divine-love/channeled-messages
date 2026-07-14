@@ -6,8 +6,8 @@
 
 ## Foundation
 
-- 2019-02-22 — [[2019-02-22-af-augustine|The Power to Change Needs Your Conscious Understanding of the Power of Free Will]] **(anchor)**
+- 2019-02-22 — [[The Power to Change Needs Your Conscious Understanding of the Power of Free Will]] **(anchor)**
 
 ## Elaboration
 
-- 2016-04-04 — [[2016-04-04-af-augustine|God Provides for Those Who Serve*]]
+- 2016-04-04 — [[God Provides for Those Who Serve|God Provides for Those Who Serve*]]

@@ -6,10 +6,10 @@
 
 ## Foundation
 
-- 2015-08-17 — [[2015-08-17-af-jesus|Jesus Speaks Seriously of Changes to Come: Be a Channel of Love through the Storms]] **(anchor)**
+- 2015-08-17 — [[Jesus Speaks Seriously of Changes to Come - Be a Channel of Love through the Storms|Jesus Speaks Seriously of Changes to Come: Be a Channel of Love through the Storms]] **(anchor)**
 
 ## Elaboration
 
-- 2017-09-13 — [[2017-09-13-af-keea-atta-kem|Make Love Your Guiding Truth Through Earth Changes]]
-- 2018-08-13 — [[2018-08-13-af-seretta-kem|Growing the Light Within Your Souls Is the Greatest Service to God]]
-- 2023-02-10 — [[2023-02-10-af-augustine|The Impediments of Soul Awakening]]
+- 2017-09-13 — [[Make Love Your Guiding Truth Through Earth Changes]]
+- 2018-08-13 — [[Growing the Light Within Your Souls Is the Greatest Service to God]]
+- 2023-02-10 — [[The Impediments of Soul Awakening]]

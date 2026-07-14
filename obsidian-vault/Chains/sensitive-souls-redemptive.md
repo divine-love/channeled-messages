@@ -6,8 +6,8 @@
 
 ## Foundation
 
-- 2016-03-07 — [[2016-03-07-af-augustine|Sensitive Souls Are the Saviours of This World]]
+- 2016-03-07 — [[Sensitive Souls Are the Saviours of This World]]
 
 ## Objection-removed
 
-- 2017-01-16 — [[2017-01-16-af-keea-atta-kem|Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually]]
+- 2017-01-16 — [[Accept Every Unique Soul - Their Differences Will Not Harm You Spiritually|Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually]]

@@ -6,5 +6,5 @@
 
 ## Testimony
 
-- 2014-10-11 — [[2014-10-11-af-judas|Every Soul Can Receive the Divine Love and Be Transformed by It]]
-- 2018-03-02 — [[2018-03-02-af-andrew|Allow the Soul to Have Its Say]]
+- 2014-10-11 — [[Every Soul Can Receive the Divine Love and Be Transformed by It]]
+- 2018-03-02 — [[Allow the Soul to Have Its Say]]
