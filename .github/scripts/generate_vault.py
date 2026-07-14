@@ -155,11 +155,36 @@ def main():
         messages[fm["message_id"]] = (fm, body)
     titles = {mid: fm.get("title", mid).strip() for mid, (fm, _) in messages.items()}
 
-    if VAULT.exists():
-        shutil.rmtree(VAULT)
-    (VAULT / "Messages").mkdir(parents=True)
-    for d in ["Chains", "Subjects", "Spirits", "Collections", "Mediums", "Essential Teachings"]:
-        (VAULT / d).mkdir()
+    # Rebuild ONLY the generated folders. Everything else in the vault -
+    # your Obsidian config in .obsidian/, and anything you write in Notes/ -
+    # is preserved across runs and never touched by this script.
+    GENERATED = ["Messages", "Chains", "Subjects", "Spirits", "Collections",
+                 "Mediums", "Essential Teachings"]
+    GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md"]
+    VAULT.mkdir(exist_ok=True)
+    for d in GENERATED:
+        p = VAULT / d
+        if p.exists():
+            shutil.rmtree(p)
+        p.mkdir(parents=True)
+    for f in GENERATED_FILES:
+        (VAULT / f).unlink(missing_ok=True)
+    # Your own space: created once, never regenerated, safe to write in.
+    notes = VAULT / "Notes"
+    notes.mkdir(exist_ok=True)
+    readme = notes / "README.md"
+    if not readme.exists():
+        readme.write_text(
+            "# Notes\n\n"
+            "This folder is yours. `generate_vault.py` never touches it.\n\n"
+            "Everything else in this vault (Messages, Chains, Subjects,\n"
+            "Spirits, Collections, Mediums, Essential Teachings, Home,\n"
+            "Ask the Archive, Subjects Index) is GENERATED and is deleted\n"
+            "and rebuilt on every run. Never edit those by hand - edit the\n"
+            "repository instead, then regenerate.\n\n"
+            "Link freely from here into the generated notes; wikilinks like\n"
+            "[[2019-04-04-af-matthew]] resolve normally.\n",
+            encoding="utf-8")
 
     by_subject = defaultdict(list)
     by_spirit = defaultdict(list)
@@ -353,6 +378,7 @@ def main():
 
     print(f"Vault built: {len(messages)} messages, {len(chain_members)} chain hubs, "
           f"{len(by_subject)} subject hubs, {total_q} questions indexed.")
+    print("Preserved: .obsidian/ (your settings) and Notes/ (your own writing).")
     print(f"Open {VAULT.resolve()} as a vault in Obsidian.")
 
 
