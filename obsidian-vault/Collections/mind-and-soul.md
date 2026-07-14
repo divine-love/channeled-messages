@@ -10,7 +10,7 @@
 - 2015-10-12 — [[The Difference Between the Material Mind and the Soul Mind]]
 - 2015-12-14 — [[Free Will versus God's Will]]
 - 2015-12-27 — [[Awakening of the Soul Mind]]
-- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27)|Awakening of the Soul Mind]]
+- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27-af-confucius)|Awakening of the Soul Mind]]
 - 2016-01-04 — [[Accepting the New Awarenesses of an Opening Soul]]
 - 2016-01-09 — [[The Simple Journey Awaits]]
 - 2016-01-24 — [[Lesson on Soul-Desire]]

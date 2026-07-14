@@ -25,7 +25,7 @@
 - 2018-11-22 — [[Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens]]
 - 2018-11-26 — [[Clarification on the Existence of Jesus]]
 - 2018-11-28 — [[All Truth Comes from the Soul]]
-- 2018-11-29 — [[The Power of Prayer (2018-11-29)|The Power of Prayer]]
+- 2018-11-29 — [[The Power of Prayer]]
 - 2018-12-02 — [[All Truth Comes from the Soul - Part 2|All Truth Comes from the Soul: Part 2]]
 - 2019-01-25 — [[What Is the Desire of Your Soul in Terms of Truth|What Is the Desire of Your Soul in Terms of Truth?]]
 - 2019-01-28 — [[Questions Regarding Earth Changes]]

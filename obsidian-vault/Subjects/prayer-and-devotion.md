@@ -41,7 +41,7 @@
 - 2018-11-04 — [[God's Love Will Nurture Your Soul]]
 - 2018-11-05 — [[Many Blessings Flow From a Circle of Light]]
 - 2018-11-20 — [[Rest and Pray to Replenish Yourself]]
-- 2018-11-29 — [[The Power of Prayer (2018-11-29)|The Power of Prayer]]
+- 2018-11-29 — [[The Power of Prayer]]
 - 2018-12-04 — [[Each Day Brings Opportunities to Serve in Love]]
 - 2018-12-16 — [[Online Circle Helping to Build the Lattice of Light]]
 - 2018-12-30 — [[Meet the Coming Changes in the World with Prayer]]

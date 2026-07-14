@@ -5,7 +5,7 @@
 - 2015-12-01 — [[The Time for Casual Commitment Is Over]]
 - 2018-08-05 — [[The Choice to Know God Is Yours to Take]]
 - 2018-08-20 — [[Commentary on Earth Changes]]
-- 2018-11-29 — [[The Power of Prayer (2018-11-29)|The Power of Prayer]]
+- 2018-11-29 — [[The Power of Prayer]]
 - 2018-12-17 — [[God Awaits Your Choice]]
 - 2019-01-04 — [[Nurturing This Centre of Light Will Open Many Doors in the Future]]
 - 2019-01-13 — [[The Fate of This World Rests Upon Each Soul's Choice]]

@@ -11,7 +11,7 @@
 - 2015-11-30 — [[The Work Begins and You Are Ready]]
 - 2015-12-01 — [[The Time for Casual Commitment Is Over]]
 - 2015-12-21 — [[Be a Channel of Love in a Changing World]]
-- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27)|Awakening of the Soul Mind]]
+- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27-af-confucius)|Awakening of the Soul Mind]]
 - 2015-12-30 — [[Look Forward to New Opportunities in the Coming Year]]
 - 2016-03-28 — [[The Power of Commitment]]
 - 2016-03-31 — [[Encouragement from Mary]]

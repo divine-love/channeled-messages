@@ -7,7 +7,8 @@ in ./obsidian-vault/ (add that folder to .gitignore). Never edit the vault
 by hand — rerun this script after commits instead.
 
 What it builds:
-  Messages/<year>/<Message Title>.md   one note per message, FILENAMED BY
+  Messages/<year>/<month>/<Message Title>.md   one note per message,
+      mirroring the repository's year/month folders and FILENAMED BY
       TITLE so the graph and quick-switcher read in human language (the
       message_id is preserved as a property and in the note body):
       - STRUCTURED PROPERTIES mirroring the archive schema: the original
@@ -177,17 +178,21 @@ def main():
     # title, so disambiguate collisions with the date, and keep a map from
     # message_id -> note name for every link the vault emits.
     notenames = {}
-    used = {}
+    folders = {}          # message_id -> "YYYY/MM"
+    used = defaultdict(set)   # folder -> {lowercase filenames already taken}
     for mid in sorted(messages):
+        date = str(messages[mid][0].get("date", ""))
+        year = date[:4] or "undated"
+        month = date[5:7] or "00"
+        folder = f"{year}/{month}"
+        folders[mid] = folder
         base = filename(titles[mid])
         key = base.lower()
-        if key in used:
-            base = f"{base} ({str(messages[mid][0].get('date',''))})"
+        # Disambiguate only against files landing in the SAME folder.
+        if key in used[folder]:
+            base = f"{base} ({mid})"
             key = base.lower()
-            while key in used:
-                base = f"{base} ({mid})"
-                key = base.lower()
-        used[key] = mid
+        used[folder].add(key)
         notenames[mid] = base
 
     # Rebuild ONLY the generated folders. Everything else in the vault -
@@ -319,9 +324,9 @@ def main():
             lines += [""]
         lines += ["---", "", body.strip(), ""]
 
-        year = date[:4] or "undated"
-        (VAULT / "Messages" / year).mkdir(exist_ok=True)
-        (VAULT / "Messages" / year / f"{notenames[mid]}.md").write_text(
+        out_dir = VAULT / "Messages" / folders[mid]
+        out_dir.mkdir(parents=True, exist_ok=True)
+        (out_dir / f"{notenames[mid]}.md").write_text(
             "\n".join(lines), encoding="utf-8")
 
         for s in subjects:
@@ -412,6 +417,10 @@ def main():
     ]
     (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
 
+    written = sum(1 for _ in (VAULT / "Messages").rglob("*.md"))
+    if written != len(messages):
+        print(f"WARNING: {len(messages)} messages loaded but {written} notes written "
+              f"- a filename collision may have overwritten a note.")
     print(f"Vault built: {len(messages)} messages, {len(chain_members)} chain hubs, "
           f"{len(by_subject)} subject hubs, {total_q} questions indexed.")
     print("Preserved: .obsidian/ (your settings) and Notes/ (your own writing).")

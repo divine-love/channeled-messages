@@ -22,7 +22,7 @@
 - 2015-09-21 — [[Continue to Seek the Truth and Express the Gifts of Your Soul]]
 - 2015-11-16 — [[Creating a Lattice of Light in the World]]
 - 2015-11-28 — [[Prayer to Bring Freedom and Joy]]
-- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27)|Awakening of the Soul Mind]]
+- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27-af-confucius)|Awakening of the Soul Mind]]
 - 2016-01-04 — [[Accepting the New Awarenesses of an Opening Soul]]
 - 2016-01-09 — [[Your Beautiful Souls Are Eager]]
 - 2016-01-18 — [[How the Gift of Love Can Touch a Soul and Change the World]]

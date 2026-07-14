@@ -11,7 +11,7 @@
 - 2016-01-08 — [[Encouragement from Jesus]]
 - 2018-11-03 — [[God's Love Will Strengthen and Guide You Forward]]
 - 2018-11-22 — [[Speak of Simple Truth]]
-- 2018-11-29 — [[The Power of Prayer (2018-11-29)|The Power of Prayer]]
+- 2018-11-29 — [[The Power of Prayer]]
 - 2018-11-29 — [[Challenging Earth Changes Bring Greater Light and Harmony to Humanity]]
 - 2018-12-16 — [[Prepare for the Times That Are Coming]]
 - 2018-12-16 — [[Online Circle Helping to Build the Lattice of Light]]

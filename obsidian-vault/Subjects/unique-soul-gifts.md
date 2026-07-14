@@ -14,7 +14,7 @@
 - 2015-11-25 — [[Be Warriors of Light]]
 - 2015-11-28 — [[Encouragement to Form Circles of Light]]
 - 2015-11-30 — [[Come to Know Your Purpose]]
-- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27)|Awakening of the Soul Mind]]
+- 2015-12-27 — [[Awakening of the Soul Mind (2015-12-27-af-confucius)|Awakening of the Soul Mind]]
 - 2015-12-28 — [[The Time Comes for You to Express These Gifts]]
 - 2015-12-30 — [[Look Forward to New Opportunities in the Coming Year]]
 - 2016-01-09 — [[Your Beautiful Souls Are Eager]]
