@@ -7,7 +7,9 @@ in ./obsidian-vault/ (add that folder to .gitignore). Never edit the vault
 by hand — rerun this script after commits instead.
 
 What it builds:
-  Messages/<year>/<message_id>.md   one note per message:
+  Messages/<year>/<Message Title>.md   one note per message, FILENAMED BY
+      TITLE so the graph and quick-switcher read in human language (the
+      message_id is preserved as a property and in the note body):
       - STRUCTURED PROPERTIES mirroring the archive schema: the original
         field names and values (message_id, date, spirit, medium, location,
         message_type, primary_subject, secondary_subjects, keywords,
@@ -64,6 +66,20 @@ def slug(text):
     t = text.lower().replace("&", "and")
     t = re.sub(r"[^a-z0-9]+", "-", t)
     return t.strip("-")
+
+
+def filename(title):
+    """
+    Filesystem-safe note name from a message title, preserving human
+    readability. Strips characters illegal in filenames on Windows and macOS
+    (asterisk, quote, backslash, slash, angle brackets, colon, pipe, question
+    mark), drops the curator asterisk, and collapses whitespace.
+    """
+    name = title.strip().rstrip("*").strip()
+    name = name.replace("/", "-").replace("\\", "-").replace(":", " -")
+    name = re.sub(r'[*"<>|?]', "", name)
+    name = re.sub(r"\s+", " ", name).strip(" .")
+    return name or "Untitled"
 
 
 def load_front_matter(path):
@@ -128,9 +144,11 @@ def parse_chain_memberships():
     return members
 
 
-def wiki(msg_id, titles):
-    title = titles.get(msg_id)
-    return f"[[{msg_id}|{title}]]" if title else f"[[{msg_id}]]"
+def wiki(msg_id, titles, notenames):
+    """Link by note filename; display the human title."""
+    name = notenames.get(msg_id, msg_id)
+    title = titles.get(msg_id, msg_id)
+    return f"[[{name}|{title}]]" if name != title else f"[[{name}]]"
 
 
 def main():
@@ -154,6 +172,23 @@ def main():
             continue
         messages[fm["message_id"]] = (fm, body)
     titles = {mid: fm.get("title", mid).strip() for mid, (fm, _) in messages.items()}
+
+    # Note filenames are the titles. Two messages may legitimately share a
+    # title, so disambiguate collisions with the date, and keep a map from
+    # message_id -> note name for every link the vault emits.
+    notenames = {}
+    used = {}
+    for mid in sorted(messages):
+        base = filename(titles[mid])
+        key = base.lower()
+        if key in used:
+            base = f"{base} ({str(messages[mid][0].get('date',''))})"
+            key = base.lower()
+            while key in used:
+                base = f"{base} ({mid})"
+                key = base.lower()
+        used[key] = mid
+        notenames[mid] = base
 
     # Rebuild ONLY the generated folders. Everything else in the vault -
     # your Obsidian config in .obsidian/, and anything you write in Notes/ -
@@ -214,7 +249,7 @@ def main():
                                         loc.get("country")] if x)
         props = ["---",
                  f"message_id: {mid}",
-                 f'aliases: [{q(titles[mid])}]',
+                 f"aliases: [{mid}]",
                  f"date: {date}",
                  f"spirit: {q('[[Spirits/' + fm.get('spirit_id','') + '|' + (fm.get('spirit_name') or fm.get('spirit_id','')) + ']]')}",
                  f"medium: {q('[[Mediums/' + slug(fm.get('medium','')) + '|' + fm.get('medium','') + ']]')}",
@@ -274,7 +309,7 @@ def main():
         rel = fm.get("related_messages") or []
         if rel:
             lines += ["## Related messages", ""]
-            lines += [f"- {wiki(r, titles)}" for r in rel] + [""]
+            lines += [f"- {wiki(r, titles, notenames)}" for r in rel] + [""]
         mem = memberships.get(mid, [])
         if mem:
             lines += ["## Chains", ""]
@@ -286,7 +321,8 @@ def main():
 
         year = date[:4] or "undated"
         (VAULT / "Messages" / year).mkdir(exist_ok=True)
-        (VAULT / "Messages" / year / f"{mid}.md").write_text("\n".join(lines), encoding="utf-8")
+        (VAULT / "Messages" / year / f"{notenames[mid]}.md").write_text(
+            "\n".join(lines), encoding="utf-8")
 
         for s in subjects:
             by_subject[s].append((date, mid))
@@ -314,14 +350,14 @@ def main():
             lines += [f"## {role}", ""]
             for date, anchor, mid in sorted(by_role[role]):
                 mark = " **(anchor)**" if anchor else ""
-                lines += [f"- {date} — {wiki(mid, titles)}{mark}"]
+                lines += [f"- {date} — {wiki(mid, titles, notenames)}{mark}"]
             lines += [""]
         (VAULT / "Chains" / f"{chain_slug}.md").write_text("\n".join(lines), encoding="utf-8")
 
     # Category hubs
     def write_hub(folder, name, items, heading):
         lines = [f"# {heading}", ""]
-        lines += [f"- {d} — {wiki(m, titles)}" for d, m in sorted(items)] + [""]
+        lines += [f"- {d} — {wiki(m, titles, notenames)}" for d, m in sorted(items)] + [""]
         (VAULT / folder / f"{slug(name)}.md").write_text("\n".join(lines), encoding="utf-8")
 
     for s, items in by_subject.items():
@@ -344,7 +380,7 @@ def main():
     for cat in sorted(questions_by_category):
         lines += [f"## {cat}", ""]
         for q, mid in sorted(set(questions_by_category[cat])):
-            lines += [f"- {q} → {wiki(mid, titles)}"]
+            lines += [f"- {q} → {wiki(mid, titles, notenames)}"]
             total_q += 1
         lines += [""]
     (VAULT / "Ask the Archive.md").write_text("\n".join(lines), encoding="utf-8")
