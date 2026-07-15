@@ -4,7 +4,7 @@ title: "We Are Not So Different"
 date: 2019-04-01
 spirit_id: yogananda
 spirit_name: Yogananda
-medium: Rev. Jimbeau Walsh
+medium: Jimbeau Walsh
 location:
   city: Gibsons
   region: BC

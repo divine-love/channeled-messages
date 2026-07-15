@@ -4,7 +4,7 @@ title: "Realms of Light"
 date: 2019-04-08
 spirit_id: yogananda
 spirit_name: Yogananda
-medium: Rev. Jimbeau Walsh
+medium: Jimbeau Walsh
 location:
   city: Gibsons
   region: BC
