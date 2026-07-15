@@ -1,9 +1,0 @@
-# Subject: Personal Transformation Journey
-
-- 2015-05-03 — [[The Ups and the Downs of the Journey]]
-- 2015-08-22 — [[Augustine Advises a Retreat Group to Talk about Their Inner Soul Changes]]
-- 2015-09-07 — [[Like a Newborn, the Eyes of Your Soul Begin to Open Bringing Shifts and Changes of Perception]]
-- 2016-12-29 — [[Time to Accept a New Way of Being]]
-- 2017-09-12 — [[Release of Limitations]]
-- 2019-02-22 — [[The Power to Change Needs Your Conscious Understanding of the Power of Free Will]]
-- 2019-04-04 — [[Awaken!]]
