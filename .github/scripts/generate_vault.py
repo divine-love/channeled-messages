@@ -298,19 +298,17 @@ def main():
                  f"**Spirit:** [[Spirits/{fm.get('spirit_id','')}|{spirit}]] · "
                  f"**Medium:** {fm.get('medium','')} · **Date:** {date}",
                  ""]
+        # --- Reading order: door, excerpt, message, related, chains, questions ---
         door = (fm.get("door") or "").strip()
         if door:
             lines += ["> [!quote] The Door", f"> {door}", ""]
-        desc = (fm.get("description") or "").strip()
-        if desc:
-            lines += [desc, ""]
-        qs = fm.get("questions") or []
-        if qs:
-            lines += ["## Questions this message answers", ""]
-            lines += [f"- {q}" for q in qs] + [""]
-            top = parents.get(subjects[0]) or subjects[0] if subjects else "General"
-            for q in qs:
-                questions_by_category[top].append((q, mid))
+        excerpt = (fm.get("excerpt") or "").strip()
+        if excerpt:
+            # italicised, line by line so multi-line excerpts stay in italics
+            lines += [f"*{e}*" for e in excerpt.splitlines() if e.strip()] + [""]
+
+        lines += ["---", "", body.strip(), "", "---", ""]
+
         rel = fm.get("related_messages") or []
         if rel:
             lines += ["## Related messages", ""]
@@ -322,7 +320,15 @@ def main():
                 mark = " **(anchor)**" if anchor else ""
                 lines += [f"- [[Chains/{chain_slug}]] — {role}{mark}"]
             lines += [""]
-        lines += ["---", "", body.strip(), ""]
+        qs = fm.get("questions") or []
+        if qs:
+            # collapsed by default: the ">%" foldable callout keeps the
+            # reading view clean while remaining fully searchable and visible
+            lines += ["> [!question]- Questions this message answers"]
+            lines += [f"> - {q}" for q in qs] + [""]
+            top = parents.get(subjects[0]) or subjects[0] if subjects else "General"
+            for q in qs:
+                questions_by_category[top].append((q, mid))
 
         out_dir = VAULT / "Messages" / folders[mid]
         out_dir.mkdir(parents=True, exist_ok=True)
