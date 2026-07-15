@@ -1,0 +1,1 @@
+Change the name of the file that displays in the graph view to display the message title instead of the message id
