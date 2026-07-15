@@ -1,1 +1,10 @@
-Change the name of the file that displays in the graph view to display the message title instead of the message id
+
+
+- [ ] remove hyphens from subjects, collections, chains, essential teachings, mediums, spirits (the way they do for message titles)
+- [ ] change color of the questions box
+- [ ] make mediums show up in yellow in graph
+- [ ] need an ai app for "Ask the Archive"
+
+Plugins
+- [ ] look into 3D Semantic Search for a more beautiful graph
+- [ ] Hindsight and 
