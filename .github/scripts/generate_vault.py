@@ -54,6 +54,10 @@ from collections import defaultdict
 ROOT = Path(".")
 MESSAGES_DIR = ROOT / "content" / "messages"
 SUBJECTS_PATH = ROOT / "metadata" / "subjects.yml"
+SPIRITS_DIR = ROOT / "spirits"
+MEDIUMS_DIR = ROOT / "mediums"
+GEN_COLLECTIONS = ROOT / ".github" / "scripts" / "generate_collections.py"
+GEN_ET = ROOT / ".github" / "scripts" / "generate_essential_teachings.py"
 CHAINS_LOG = ROOT / "metadata" / "chains-log.md"
 CHAINS_THREADS = ROOT / "metadata" / "chains-threads.md"
 VAULT = ROOT / "obsidian-vault"
@@ -93,6 +97,67 @@ def load_front_matter(path):
     fm = yaml.safe_load(raw[3:end])
     body = raw[end + 4:].lstrip("\n")
     return fm, body
+
+
+def load_profiles(directory):
+    """spirits/*.yml or mediums/*.yml -> {file_stem: {display, aliases,
+    description, notes}}. Field names vary slightly across files, so read
+    the likely keys defensively."""
+    profiles = {}
+    if not directory.exists():
+        return profiles
+    for p in sorted(directory.glob("*.yml")):
+        try:
+            d = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+        except yaml.YAMLError:
+            continue
+        display = d.get("name") or d.get("spirit_name") or d.get("display_name") \
+            or p.stem.replace("-", " ").title()
+        desc = d.get("description") or d.get("spirit_description") \
+            or d.get("bio") or ""
+        aliases = d.get("aliases") or []
+        notes = d.get("notes") or ""
+        profiles[p.stem] = {"display": display, "aliases": aliases,
+                            "description": str(desc).strip(),
+                            "notes": str(notes).strip()}
+    return profiles
+
+
+def load_definitions_from_generator(script_path):
+    """
+    The collection / essential-teaching definitions are the single source of
+    truth inside the generator scripts (generate_collections.py,
+    generate_essential_teachings.py) as a module-level DESCRIPTIONS dict.
+    Import the script in isolation and read that dict, so the vault always
+    matches exactly what the site's own browse pages use. Returns {name: text}.
+    """
+    if not script_path.exists():
+        return {}
+    import importlib.util
+    try:
+        spec = importlib.util.spec_from_file_location(
+            f"_gen_{script_path.stem}", script_path)
+        mod = importlib.util.module_from_spec(spec)
+        # These scripts guard execution behind __main__, so importing is safe.
+        spec.loader.exec_module(mod)
+        desc = getattr(mod, "DESCRIPTIONS", {}) or {}
+        return {k: " ".join(str(v).split()) for k, v in desc.items()}
+    except Exception as e:
+        print(f"  (could not read definitions from {script_path.name}: {e})")
+        return {}
+
+
+def load_subject_definitions():
+    """{name: definition} plus {parent: [children]} from subjects.yml."""
+    data = yaml.safe_load(SUBJECTS_PATH.read_text(encoding="utf-8"))
+    defs, children = {}, {}
+    for cat in data.get("main_categories", []):
+        defs[cat["name"]] = str(cat.get("definition") or "").strip()
+        kids = [s["name"] for s in cat.get("subcategories", []) or []]
+        children[cat["name"]] = kids
+        for sub in cat.get("subcategories", []) or []:
+            defs[sub["name"]] = str(sub.get("definition") or "").strip()
+    return defs, children
 
 
 def load_subject_hierarchy():
@@ -158,6 +223,11 @@ def main():
         sys.exit(1)
 
     parents = load_subject_hierarchy()
+    subj_defs, subj_children = load_subject_definitions()
+    spirit_profiles = load_profiles(SPIRITS_DIR)
+    medium_profiles = load_profiles(MEDIUMS_DIR)
+    collection_defs = load_definitions_from_generator(GEN_COLLECTIONS)
+    et_defs = load_definitions_from_generator(GEN_ET)
     registry = parse_chain_registry()
     memberships = parse_chain_memberships()
 
@@ -365,22 +435,58 @@ def main():
             lines += [""]
         (VAULT / "Chains" / f"{chain_slug}.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # Category hubs
-    def write_hub(folder, name, items, heading):
+    # Category hubs — each opens with its definition / biography, then messages
+    def write_hub(folder, name, items, heading, intro=None):
         lines = [f"# {heading}", ""]
+        if intro:
+            lines += intro
+        lines += [f"## Messages ({len(items)})", ""]
         lines += [f"- {d} — {wiki(m, titles, notenames)}" for d, m in sorted(items)] + [""]
         (VAULT / folder / f"{slug(name)}.md").write_text("\n".join(lines), encoding="utf-8")
 
     for s, items in by_subject.items():
-        write_hub("Subjects", s, items, f"Subject: {s}")
+        intro = []
+        if subj_defs.get(s):
+            intro += [f"> {subj_defs[s]}", ""]
+        parent = parents.get(s)
+        if parent:
+            plink = f"[[Subjects/{slug(parent)}|{parent}]]" if parent in by_subject else parent
+            intro += [f"Part of: {plink}", ""]
+        kids = subj_children.get(s) or []
+        if kids:
+            intro += ["Subcategories: " + " · ".join(
+                f"[[Subjects/{slug(k)}|{k}]]" if k in by_subject else f"{k}"
+                for k in kids), ""]
+        write_hub("Subjects", s, items, f"Subject: {s}", intro)
+
     for sp, items in by_spirit.items():
-        write_hub("Spirits", sp, items, f"Spirit: {sp}")
+        prof = spirit_profiles.get(sp, {})
+        heading = prof.get("display") or sp.replace("-", " ").title()
+        intro = []
+        if prof.get("aliases"):
+            intro += ["*Also known as: " + ", ".join(prof["aliases"]) + "*", ""]
+        if prof.get("description"):
+            intro += [prof["description"], ""]
+        if prof.get("notes"):
+            intro += ["## From the archive's notes", "", prof["notes"], ""]
+        write_hub("Spirits", sp, items, heading, intro)
+
     for c, items in by_collection.items():
-        write_hub("Collections", c, items, f"Collection: {c}")
+        intro = [f"> {collection_defs[c]}", ""] if collection_defs.get(c) else []
+        write_hub("Collections", c, items, f"Collection: {c}", intro)
+
     for mname, items in by_medium.items():
-        write_hub("Mediums", mname, items, f"Medium: {mname}")
+        prof = medium_profiles.get(slug(mname), {})
+        intro = []
+        if prof.get("description"):
+            intro += [prof["description"], ""]
+        if prof.get("notes"):
+            intro += ["## From the archive's notes", "", prof["notes"], ""]
+        write_hub("Mediums", mname, items, f"Medium: {mname}", intro)
+
     for e, items in by_et.items():
-        write_hub("Essential Teachings", e, items, f"Essential Teaching: {e}")
+        intro = [f"> {et_defs[e]}", ""] if et_defs.get(e) else []
+        write_hub("Essential Teachings", e, items, f"Essential Teaching: {e}", intro)
 
     # Ask the Archive
     lines = ["# Ask the Archive", "",
