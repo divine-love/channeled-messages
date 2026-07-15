@@ -217,6 +217,34 @@ def wiki(msg_id, titles, notenames):
     return f"[[{name}|{title}]]" if name != title else f"[[{name}]]"
 
 
+MSGID_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z0-9-]*)\b")
+
+
+def linkify_ids(text, notenames):
+    """
+    Replace bare message_id strings in prose with wikilinks that jump to the
+    message note while DISPLAYING the id exactly as written. Only ids present
+    in `notenames` (real messages) are linked; anything that merely looks
+    id-shaped but is not a known message is left untouched, so no false edges
+    are created. Ids already inside a [[...]] wikilink are skipped.
+    """
+    if not text:
+        return text
+    out, last = [], 0
+    for m in MSGID_RE.finditer(text):
+        mid = m.group(1)
+        # skip if this id is already inside a wikilink (preceded by [[ )
+        if text[max(0, m.start() - 2):m.start()] == "[[":
+            continue
+        if mid in notenames:
+            out.append(text[last:m.start()])
+            name = notenames[mid]
+            out.append(f"[[{name}|{mid}]]")
+            last = m.end()
+    out.append(text[last:])
+    return "".join(out)
+
+
 def main():
     if not MESSAGES_DIR.exists():
         print("Run from the repository root (content/messages not found).")
@@ -466,9 +494,10 @@ def main():
         if prof.get("aliases"):
             intro += ["*Also known as: " + ", ".join(prof["aliases"]) + "*", ""]
         if prof.get("description"):
-            intro += [prof["description"], ""]
+            intro += [linkify_ids(prof["description"], notenames), ""]
         if prof.get("notes"):
-            intro += ["## From the archive's notes", "", prof["notes"], ""]
+            intro += ["## From the archive's notes", "",
+                      linkify_ids(prof["notes"], notenames), ""]
         write_hub("Spirits", sp, items, heading, intro)
 
     for c, items in by_collection.items():
@@ -479,9 +508,10 @@ def main():
         prof = medium_profiles.get(slug(mname), {})
         intro = []
         if prof.get("description"):
-            intro += [prof["description"], ""]
+            intro += [linkify_ids(prof["description"], notenames), ""]
         if prof.get("notes"):
-            intro += ["## From the archive's notes", "", prof["notes"], ""]
+            intro += ["## From the archive's notes", "",
+                      linkify_ids(prof["notes"], notenames), ""]
         write_hub("Mediums", mname, items, f"Medium: {mname}", intro)
 
     for e, items in by_et.items():
