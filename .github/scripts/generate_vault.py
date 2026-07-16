@@ -326,6 +326,7 @@ def main():
 
     by_subject = defaultdict(list)
     by_spirit = defaultdict(list)
+    by_mention = defaultdict(list)    # spirit_id -> messages that mention them
     by_collection = defaultdict(list)
     by_medium = defaultdict(list)
     by_et = defaultdict(list)
@@ -436,6 +437,8 @@ def main():
         for s in subjects:
             by_subject[s].append((date, mid))
         by_spirit[fm.get("spirit_id", "unknown")].append((date, mid))
+        for sp in mentions:
+            by_mention[sp].append((date, mid))
         for c in fm.get("collections") or []:
             by_collection[c].append((date, mid))
         by_medium[fm.get("medium", "Unknown")].append((date, mid))
@@ -487,18 +490,32 @@ def main():
                 for k in kids), ""]
         write_hub("Subjects", s, items, f"Subject: {s}", intro)
 
-    for sp, items in by_spirit.items():
+    # A spirit deserves a hub page if they delivered a message, are mentioned
+    # in one, or have a curated profile file — otherwise mentions: wikilinks
+    # (e.g. [[Spirits/sri-yukteswar]]) dangle as empty unresolved notes.
+    for sp in sorted(set(by_spirit) | set(by_mention) | set(spirit_profiles)):
         prof = spirit_profiles.get(sp, {})
         heading = prof.get("display") or sp.replace("-", " ").title()
-        intro = []
+        lines = [f"# {heading}", ""]
         if prof.get("aliases"):
-            intro += ["*Also known as: " + ", ".join(prof["aliases"]) + "*", ""]
+            lines += ["*Also known as: " + ", ".join(prof["aliases"]) + "*", ""]
         if prof.get("description"):
-            intro += [linkify_ids(prof["description"], notenames), ""]
+            lines += [linkify_ids(prof["description"], notenames), ""]
         if prof.get("notes"):
-            intro += ["## From the archive's notes", "",
+            lines += ["## From the archive's notes", "",
                       linkify_ids(prof["notes"], notenames), ""]
-        write_hub("Spirits", sp, items, heading, intro)
+        delivered = by_spirit.get(sp, [])
+        if delivered:
+            lines += [f"## Messages ({len(delivered)})", ""]
+            lines += [f"- {d} — {wiki(m, titles, notenames)}"
+                      for d, m in sorted(delivered)] + [""]
+        mentioned = by_mention.get(sp, [])
+        if mentioned:
+            lines += [f"## Mentioned in ({len(mentioned)})", ""]
+            lines += [f"- {d} — {wiki(m, titles, notenames)}"
+                      for d, m in sorted(mentioned)] + [""]
+        (VAULT / "Spirits" / f"{slug(sp)}.md").write_text(
+            "\n".join(lines), encoding="utf-8")
 
     for c, items in by_collection.items():
         intro = [f"> {collection_defs[c]}", ""] if collection_defs.get(c) else []
