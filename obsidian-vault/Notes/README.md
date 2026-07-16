@@ -12,3 +12,10 @@ Link freely from here into the generated notes; wikilinks like
 [[2019-04-04-af-matthew]] resolve normally.
 
 
+Session handoff for the next agent
+Commit all files
+Paste project instructions
+subjects.yml
+chains-log.md
+chains-threads.md
+
