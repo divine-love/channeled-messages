@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-12
+last_updated: 2026-07-15
 ---
 
 # Browse All Messages
@@ -499,6 +499,7 @@ last_updated: 2026-07-12
 | [Love Is My Message](messages/2019/03/2019-03-14-af-jesus.md) | Jesus of Nazareth | Al Fike | 2019‑03‑14 | Do not pray to him. He is your brother, not your God. What he wants is for you to love the way he loved. |
 | [Gather Your Brethren Into the Light](messages/2019/03/2019-03-14-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2019‑03‑14 | Seek to serve God in love, and all else falls into place. Start by gathering the ones in pain. |
 | [Divine Love Brings Your Soul Nourishment Needed to Awaken](messages/2019/03/2019-03-29-af-mark.md) | Mark | Al Fike | 2019‑03‑29 | You live inside a mystery you have never explored: your own soul. Divine Love is what brings it to life. |
+| [We Are Not So Different](messages/2019/04/2019-04-01-jw-yogananda.md) | Yogananda | Jimbeau Walsh | 2019‑04‑01 | The guru spent a lifetime teaching reincarnation. Death was where he learned it was never true. |
 | [Personal for Jeanne followed by an Encouraging Message for All](messages/2019/04/2019-04-03-af-augustine.md) | Augustine | Al Fike | 2019‑04‑03 | What you have become so far is a child barely aware of its surroundings. The awakening has only begun. |
 | [Birthday Prayer for Jeanne and Encouragement to All](messages/2019/04/2019-04-03-af-jesus.md) | Jesus of Nazareth | Al Fike | 2019‑04‑03 | You are not a sheep in a flock. God gave you a path that is yours alone. Walk it. |
 | [The Gift of Divine Love Is the Greatest Truth You May Know](messages/2019/04/2019-04-03-af-joseph.md) | Joseph | Al Fike | 2019‑04‑03 | The father of Jesus did not understand his son on Earth. He does now, and he has come to tell you what he missed. |
@@ -506,4 +507,6 @@ last_updated: 2026-07-12
 | [Mediumship, Gifts, Being a Channel of Love](messages/2019/04/2019-04-05-af-augustine.md) | Augustine | Al Fike | 2019‑04‑05 | Your mind may argue with a message. Your soul already knows where it came from. |
 | [Your Gifts Are Opening](messages/2019/04/2019-04-06-af-yogananda.md) | Yogananda | Al Fike | 2019‑04‑06 | The teacher whose books guided millions returns with one correction: the path he wrote down was missing its greatest Truth. |
 | [Walking God's Path of Divine Love Will Bring You Upon A Different Road](messages/2019/04/2019-04-07-af-augustine.md) | Augustine | Al Fike | 2019‑04‑07 | The gifts are already in you. It is your mind, demanding to understand them first, that keeps them hidden. |
+| [Realms of Light](messages/2019/04/2019-04-08-jw-yogananda.md) | Yogananda | Jimbeau Walsh | 2019‑04‑08 | The grief is real, but it is yours, not theirs. They have gone toward the light, and they have not gone far. |
+| [A Message from Jeanne's Loving Mother upon Passing into the Spirit World](messages/2019/04/2019-04-08-mc-mary.md) | Mary, Mother of Jesus | Maureen Cardoso | 2019‑04‑08 | A mother, three days dead, sends word back: she is full of fire, and she is not gone. |
 | [The Impediments of Soul Awakening](messages/2023/02/2023-02-10-af-augustine.md) | Augustine | Al Fike | 2023‑02‑10 | You were told you must clean yourself up before God will have you. Augustine says it is exactly the other way around. |
