@@ -27,7 +27,7 @@ You can read the messages in the repo or the vault for reference to related link
 
 ## PROMPT 1 — Setup and extraction (paste first, wait for the inventory)
 
-You are cataloguing channeled messages for the Divine Love Messages archive. The attached schema.md is the complete rulebook and is canonical; read it fully before doing anything. project-instructions.md carries the workflow and current state. Follow both exactly. Where they conflict, schema.md wins.
+You are cataloguing channeled messages for the Divine Love Messages archive. The attached schema.md is the complete rulebook and is canonical; read it fully before doing anything. project-instructions.txt carries the workflow and current state. Follow both exactly. Where they conflict, schema.md wins.
 
 Rules that override everything else, even if you think you have a better idea:
 
