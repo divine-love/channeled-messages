@@ -26,9 +26,9 @@ secondary_subjects:
   - "Religious Error & Reformation"
   - "Mediumship & Developing as an Instrument"
   - "Natural Love Path vs Divine Love Path"
-people: []
+people: ["Al Fike"]
 spirits: ["sri-yukteswar", "jesus", "james-padgett"]
-keywords: ["shared path", "Hindu tradition", "priesthood", "reincarnation corrected", "Al Fike", "1960s counterculture", "soulmate", "esoteric studies", "pointing to God", "rapport", "spheres", "spiritual autobiography"]
+keywords: ["shared path", "Hindu tradition", "priesthood", "reincarnation corrected", "1960s counterculture", "soulmate", "esoteric studies", "pointing to God", "rapport", "spheres", "spiritual autobiography"]
 questions:
   - "Do different religions lead to the same truth?"
   - "Was Yogananda's teaching on reincarnation correct?"
@@ -54,7 +54,7 @@ excerpt: >
 door: >
   The guru spent a lifetime teaching reincarnation. Death was where he learned it was never true.
 collections: ["Letters from History"]
-last_edited: 2026-07-15
+last_edited: 2026-07-18
 ---
 
 My dear boy, my dear friend, I wish to start at the beginning as this seems the best place to begin.
