@@ -6,7 +6,7 @@ spirit_id: seretta-kem
 spirit_name: "Seretta Kem"
 medium: Al Fike
 location:
-  city: Hawaii
+  city: Oahu
   region: HI
   country: United States of America
 gathering:
@@ -62,7 +62,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit
-last_edited: 2026-06-19
+last_edited: 2026-07-17
 ---
 
 Greetings to you, my fellow travellers upon the Divine Path. I am Seretta Kem and I wish today to talk on the subject of mediumships since many of you are interested in this particular subject and it is a blessing indeed to be able to communicate to you in words through a medium in this circle.
