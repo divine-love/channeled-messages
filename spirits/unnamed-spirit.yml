@@ -1,0 +1,12 @@
+spirit_id: unnamed-spirit
+spirit_name: "Unnamed Spirit"
+spirit_aliases: ["Anonymous"]
+spirit_description: >
+  Not an individual, but the identity used for messages delivered by a
+  spirit who did not give their name. Some messages in the archive arrive
+  as brief blessings or closing words from an unnamed member of the spirit
+  company; this file represents all such unnamed communicators. Distinct
+  from the anonymous medium convention, in which an unnamed human medium is
+  recorded in /mediums/anonymous.yml with the initials xx; here it is the
+  delivering spirit who is unnamed.
+notes: ""
