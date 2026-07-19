@@ -1,3 +1,5 @@
+# Open Items Tracker
+
 # Divine Love Messages Archive
 
 # Compiled 2026-07-19. No em dashes; safe to commit or paste into any session.
@@ -31,7 +33,6 @@
 
 ## D. Kit and tooling refinements (small, decided or near-decided)
 
-19. Kit slug-guard adjustment, awaiting your yes: change the final sentence of the chains bullet to "do not mint anything; never use an unregistered slug in an entry line, though you may suggest candidate slug names inside the curator-decision note." Batch 1 showed slug suggestions are useful; the danger was only unregistered slugs in member lines.
 20. Kit preamble: the four task lines that preceded the kit title in your paste (Take DLSF Messages 2016 doc, etc.) were left out of the produced file. Say if they belong in as a preamble.
 21. Next Cowork session: attach the UPDATED kit, batch 1's MANIFEST.md, and freshly exported reference files.
 22. Possible retirement of the [medium: ...] heading tag class in the chain log: it duplicates the medium initials already in the message id. Future tidy, not urgent.
