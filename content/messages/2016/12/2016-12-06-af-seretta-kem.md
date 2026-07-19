@@ -43,6 +43,7 @@ questions:
   - "What is more important — receiving a message from a spirit or receiving God's Love?"
 related_messages: 
   - 2016-03-27-af-seretta-kem
+  - 2016-04-12-af-keea-atta-kem
   - 2016-04-13-af-seretta-kem
   - 2015-11-28-af-seretta-kem
   - 2015-08-20-af-james-padgett
@@ -62,7 +63,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit
-last_edited: 2026-07-17
+last_edited: 2026-07-19
 ---
 
 Greetings to you, my fellow travellers upon the Divine Path. I am Seretta Kem and I wish today to talk on the subject of mediumships since many of you are interested in this particular subject and it is a blessing indeed to be able to communicate to you in words through a medium in this circle.

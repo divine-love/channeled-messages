@@ -36,6 +36,7 @@ questions:
   - "What laws govern communication between spirits and people?"
   - "Why does spiritual truth have to come one step at a time?"
 related_messages:
+  - 2016-04-12-af-keea-atta-kem
   - 2016-12-06-af-seretta-kem
   - 2018-08-29-af-seretta-kem
 audio_url: ""
@@ -49,7 +50,7 @@ excerpt: >
 door: >
   What your soul knows wordlessly must squeeze up through a narrow, cluttered channel to reach your mind. This is why no message arrives whole.
 collections: ["Healing Path"]
-last_edited: 2026-06-19
+last_edited: 2026-07-19
 ---
 
 God bless you, my brothers and sisters, it is your servant and brother Seretta Kem, and I promised you that I would return to reiterate this message regarding mediumship.
