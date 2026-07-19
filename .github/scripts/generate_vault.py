@@ -30,12 +30,15 @@ What it builds:
         message answers" (full-text searchable)
   Subjects Index.md                 the full subjects.yml hierarchy as a
       linked tree - the taxonomy browser, replacing the old nested tags
-  Chains/<slug>.md                  one hub per minted thread: theme,
+  Chains/<Display Title>.md         one hub per minted thread: theme,
       argument, members grouped in role-section order (Foundation first),
       chronological within each section, anchors marked (anchor)
-  Subjects/<name>.md, Spirits/<id>.md, Collections/<name>.md
-      category hub pages listing member messages (filter these out of the
-      graph with  -path:"Subjects"  etc. if the hubs dominate)
+  Subjects/<Name>.md, Spirits/<Display Name>.md, Collections/<Name>.md
+      category hub pages, FILENAMED BY DISPLAY NAME so the explorer,
+      graph, and quick switcher read in human language (no plugin needed
+      for hubs; spirit and chain hubs carry their id/slug as an alias).
+      Each lists its member messages (filter these out of the graph
+      with  -path:"Subjects"  etc. if the hubs dominate)
   Ask the Archive.md                every question in the archive, grouped
       by top-level subject category, each linking to its answering message
   Home.md                           dashboard with counts and entry points
@@ -283,6 +286,46 @@ def main():
         messages[fm["message_id"]] = (fm, body)
     titles = {mid: fm.get("title", mid).strip() for mid, (fm, _) in messages.items()}
 
+    # Hub notes are FILENAMED BY DISPLAY NAME ("Spirits/John the Beloved.md",
+    # "Chains/Who Jesus Was.md", "Collections/Mind & Soul.md") so the file
+    # explorer, graph, and quick switcher all read in human language with no
+    # plugin needed. These maps resolve ids/slugs to note names, and
+    # disambiguate the rare display-name collision with the id in parens.
+    def display_map(pairs):
+        """[(key, display)] -> {key: (note_name, display)}, collision-safe."""
+        out, taken = {}, set()
+        for key, disp in sorted(pairs):
+            name = filename(disp)
+            if name.lower() in taken:
+                name = f"{name} ({key})"
+            taken.add(name.lower())
+            out[key] = (name, disp)
+        return out
+
+    all_spirit_ids = set(spirit_profiles)
+    for _mid, (_fm, _b) in messages.items():
+        if _fm.get("spirit_id"):
+            all_spirit_ids.add(_fm["spirit_id"])
+        all_spirit_ids.update(_fm.get("spirits") or [])
+    spirit_notes = display_map(
+        (sp, spirit_profiles.get(sp, {}).get("display")
+             or sp.replace("-", " ").title())
+        for sp in all_spirit_ids)
+
+    def spirit_link(sp, label=None):
+        name, disp = spirit_notes.get(sp, (sp, sp))
+        return f"[[Spirits/{name}|{label or disp}]]"
+
+    all_chain_slugs = set(registry)
+    for _mems in memberships.values():
+        all_chain_slugs.update(cs for cs, _r, _a in _mems)
+    chain_notes = display_map(
+        (cs, cs.replace("-", " ").title()) for cs in all_chain_slugs)
+
+    def chain_link(cs):
+        name, _disp = chain_notes.get(cs, (cs, cs))
+        return f"[[Chains/{name}]]"
+
     # Note filenames are DATE-PREFIXED titles ("YYYY-MM-DD Title") so the
     # file explorer sorts chronologically; the graph shows the human title
     # via the `title` property + the Front Matter Title plugin (Graph
@@ -362,7 +405,7 @@ def main():
             return '"' + str(v).replace('"', "'") + '"'
 
         def subj_link(name):
-            return q(f"[[Subjects/{slug(name)}|{name}]]")
+            return q(f"[[Subjects/{filename(name)}|{name}]]")
 
         loc = fm.get("location") or {}
         loc_str = ", ".join(x for x in [loc.get("city"), loc.get("region"),
@@ -372,8 +415,8 @@ def main():
                  f"message_id: {mid}",
                  f"aliases: [{mid}]",
                  f"date: {date}",
-                 f"spirit: {q('[[Spirits/' + fm.get('spirit_id','') + '|' + (fm.get('spirit_name') or fm.get('spirit_id','')) + ']]')}",
-                 f"medium: {q('[[Mediums/' + slug(fm.get('medium','')) + '|' + fm.get('medium','') + ']]')}",
+                 f"spirit: {q(spirit_link(fm.get('spirit_id',''), fm.get('spirit_name')))}",
+                 f"medium: {q('[[Mediums/' + filename(fm.get('medium','')) + '|' + fm.get('medium','') + ']]')}",
                  f"location: {q(loc_str)}"]
         if fm.get("gathering"):
             props.append(f"gathering: {q(fm['gathering'])}")
@@ -392,26 +435,26 @@ def main():
         colls = fm.get("collections") or []
         if colls:
             props.append("collections:")
-            props += [f"  - {q('[[Collections/' + slug(c) + '|' + c + ']]')}" for c in colls]
+            props += [f"  - {q('[[Collections/' + filename(c) + '|' + c + ']]')}" for c in colls]
         ets = fm.get("essential_teachings") or []
         if ets:
             props.append("essential_teachings:")
-            props += [f"  - {q('[[Essential Teachings/' + slug(e) + '|' + e + ']]')}" for e in ets]
+            props += [f"  - {q('[[Essential Teachings/' + filename(e) + '|' + e + ']]')}" for e in ets]
         mem_props = memberships.get(mid, [])
         if mem_props:
             props.append("chains:")
-            props += [f"  - {q('[[Chains/' + cs + ']]')}" for cs, _, _ in mem_props]
+            props += [f"  - {q(chain_link(cs))}" for cs, _, _ in mem_props]
         mentions = fm.get("spirits") or []
         if mentions:
             props.append("mentions:")
-            props += [f"  - {q('[[Spirits/' + sp + ']]')}" for sp in mentions]
+            props += [f"  - {q(spirit_link(sp))}" for sp in mentions]
         if fm.get("canonical_url"):
             props.append(f"canonical_url: {q(fm['canonical_url'])}")
         lines = props + ["---",
                  "",
                  f"# {titles[mid]}",
                  "",
-                 f"**Spirit:** [[Spirits/{fm.get('spirit_id','')}|{spirit}]] · "
+                 f"**Spirit:** {spirit_link(fm.get('spirit_id',''), spirit)} · "
                  f"**Medium:** {fm.get('medium','')} · **Date:** {date}",
                  ""]
         # --- Reading order: excerpt, message, description, related, chains,
@@ -440,7 +483,7 @@ def main():
             lines += ["## Chains", ""]
             for chain_slug, role, anchor in mem:
                 mark = " **(anchor)**" if anchor else ""
-                lines += [f"- [[Chains/{chain_slug}]] - {role}{mark}"]
+                lines += [f"- {chain_link(chain_slug)} - {role}{mark}"]
             lines += [""]
         qs = fm.get("questions") or []
         if qs:
@@ -470,8 +513,10 @@ def main():
 
     # Chain hubs
     for chain_slug, mem in sorted(chain_members.items()):
+        cname, cdisp = chain_notes.get(chain_slug, (chain_slug, chain_slug))
         theme, argument = registry.get(chain_slug, ("", ""))
-        lines = [f"# Chain: {chain_slug.replace('-', ' ').title()}", ""]
+        lines = ["---", f"aliases: [{chain_slug}]", "---", "",
+                 f"# Chain: {cdisp}", ""]
         if theme:
             lines += [f"> {theme}", ""]
         if argument:
@@ -487,7 +532,7 @@ def main():
                 mark = " **(anchor)**" if anchor else ""
                 lines += [f"- {date} - {wiki(mid, titles, notenames)}{mark}"]
             lines += [""]
-        (VAULT / "Chains" / f"{chain_slug}.md").write_text("\n".join(lines), encoding="utf-8")
+        (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
 
     # Category hubs - each opens with its definition / biography, then messages
     def write_hub(folder, name, items, heading, intro=None):
@@ -496,7 +541,7 @@ def main():
             lines += intro
         lines += [f"## Messages ({len(items)})", ""]
         lines += [f"- {d} - {wiki(m, titles, notenames)}" for d, m in sorted(items)] + [""]
-        (VAULT / folder / f"{slug(name)}.md").write_text("\n".join(lines), encoding="utf-8")
+        (VAULT / folder / f"{filename(name)}.md").write_text("\n".join(lines), encoding="utf-8")
 
     for s, items in by_subject.items():
         intro = []
@@ -504,12 +549,12 @@ def main():
             intro += [f"> {subj_defs[s]}", ""]
         parent = parents.get(s)
         if parent:
-            plink = f"[[Subjects/{slug(parent)}|{parent}]]" if parent in by_subject else parent
+            plink = f"[[Subjects/{filename(parent)}|{parent}]]" if parent in by_subject else parent
             intro += [f"Part of: {plink}", ""]
         kids = subj_children.get(s) or []
         if kids:
             intro += ["Subcategories: " + " · ".join(
-                f"[[Subjects/{slug(k)}|{k}]]" if k in by_subject else f"{k}"
+                f"[[Subjects/{filename(k)}|{k}]]" if k in by_subject else f"{k}"
                 for k in kids), ""]
         write_hub("Subjects", s, items, f"Subject: {s}", intro)
 
@@ -518,8 +563,11 @@ def main():
     # (e.g. [[Spirits/sri-yukteswar]]) dangle as empty unresolved notes.
     for sp in sorted(set(by_spirit) | set(by_mention) | set(spirit_profiles)):
         prof = spirit_profiles.get(sp, {})
-        heading = prof.get("display") or sp.replace("-", " ").title()
-        lines = [f"# {heading}", ""]
+        sname, sdisp = spirit_notes.get(
+            sp, (filename(sp.replace("-", " ").title()),
+                 sp.replace("-", " ").title()))
+        lines = ["---", f"aliases: [{sp}]", "---", "",
+                 f"# {sdisp}", ""]
         if prof.get("aliases"):
             lines += ["*Also known as: " + ", ".join(prof["aliases"]) + "*", ""]
         if prof.get("description"):
@@ -537,7 +585,7 @@ def main():
             lines += [f"## Mentioned in ({len(mentioned)})", ""]
             lines += [f"- {d} - {wiki(m, titles, notenames)}"
                       for d, m in sorted(mentioned)] + [""]
-        (VAULT / "Spirits" / f"{slug(sp)}.md").write_text(
+        (VAULT / "Spirits" / f"{sname}.md").write_text(
             "\n".join(lines), encoding="utf-8")
 
     for c, items in by_collection.items():
@@ -579,10 +627,10 @@ def main():
            "link to their hub pages.", ""]
     for cat in data.get("main_categories", []):
         n = cat["name"]
-        idx.append(f"- {'[[Subjects/' + slug(n) + '|' + n + ']]' if n in by_subject else n}")
+        idx.append(f"- {'[[Subjects/' + filename(n) + '|' + n + ']]' if n in by_subject else n}")
         for sub in cat.get("subcategories", []) or []:
             sn = sub["name"]
-            idx.append(f"    - {'[[Subjects/' + slug(sn) + '|' + sn + ']]' if sn in by_subject else sn + ' *(no messages yet)*'}")
+            idx.append(f"    - {'[[Subjects/' + filename(sn) + '|' + sn + ']]' if sn in by_subject else sn + ' *(no messages yet)*'}")
     idx.append("")
     (VAULT / "Subjects Index.md").write_text("\n".join(idx), encoding="utf-8")
 
