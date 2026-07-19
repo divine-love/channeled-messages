@@ -22,3 +22,7 @@ I need Fable to write instructions to the lower anthropic model in a way that it
 
 LOVE These pages
 - https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Getting+Started/Getting+Started
+
+https://lab.marconoris.com/Libellus/_posts/2020-08-21-Aqu%C3%AD+est%C3%A1+el+para%C3%ADso
+
+https://www.reddit.com/r/ObsidianMD/comments/1uq8t7f/my_obsidian_vault_after_869_days/
