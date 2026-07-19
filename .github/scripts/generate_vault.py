@@ -201,11 +201,12 @@ def parse_chain_memberships():
         return members
     current_id = None
     for line in CHAINS_LOG.read_text(encoding="utf-8").splitlines():
-        # Heading format per schema.md: "### id | Title | date" (pipes).
-        # Legacy entries used em-dash separators; accept both. The em dash
-        # appears only as an escape (\u2014) so no literal em dash exists
-        # anywhere in this file.
-        h = re.match(r"### (\S+) [\u2014|] .+ [\u2014|] \d{4}-\d{2}-\d{2}", line)
+        # Heading format per schema.md: "### id | Title | date", with an
+        # optional trailing bracketed tag after the date (e.g.
+        # [back-search]), which re.match ignores as an unanchored suffix.
+        # The log was migrated to pipes on 2026-07-19; legacy separator
+        # support has been retired.
+        h = re.match(r"### (\S+) \| .+ \| \d{4}-\d{2}-\d{2}", line)
         if h:
             current_id = h.group(1)
             continue
