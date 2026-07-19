@@ -1,29 +1,35 @@
 #!/usr/bin/env python3
 """
-generate_vault.py — build a derived Obsidian vault from the archive.
+generate_vault.py - build a derived Obsidian vault from the archive.
 
 The repository stays canonical; this emits a disposable, regenerable vault
 in ./obsidian-vault/ (add that folder to .gitignore). Never edit the vault
-by hand — rerun this script after commits instead.
+by hand - rerun this script after commits instead.
 
 What it builds:
-  Messages/<year>/<month>/<Message Title>.md   one note per message,
-      mirroring the repository's year/month folders and FILENAMED BY
-      TITLE so the graph and quick-switcher read in human language (the
-      message_id is preserved as a property and in the note body):
+  Messages/<year>/<month>/<YYYY-MM-DD Message Title>.md   one note per
+      message, mirroring the repository's year/month folders and FILENAMED
+      DATE-FIRST so the file explorer sorts chronologically. The human
+      title lives in the `title` property; install the community plugin
+      "Front Matter Title" with ONLY its Graph feature enabled and the
+      graph displays titles while the explorer keeps dated names.
+      Wikilinks already display titles via aliases. (The message_id is
+      preserved as a property and in the note body):
       - STRUCTURED PROPERTIES mirroring the archive schema: the original
         field names and values (message_id, date, spirit, medium, location,
         message_type, primary_subject, secondary_subjects, keywords,
         collections, essential_teachings, chains, mentions), with wikilinks
-        inside properties wherever a hub page exists — so the metadata is
+        inside properties wherever a hub page exists - so the metadata is
         searchable per-field ( ["primary_subject":Mind] ), browsable, and
         feeds the graph, without collapsing anything into tags
-      - title alias so wikilinks display the human title
-      - door callout, description, "Questions this message answers"
-        (full-text searchable), related-message wikilinks, chain wikilinks,
-        then the full message text
+      - title property and alias so wikilinks display the human title
+      - excerpt as an epigraph above the text (the spirit's own words as
+        the threshold; the door stays on browse surfaces, not here), then
+        the full message text, then the description as an afterword,
+        related-message wikilinks, chain wikilinks, and "Questions this
+        message answers" (full-text searchable)
   Subjects Index.md                 the full subjects.yml hierarchy as a
-      linked tree — the taxonomy browser, replacing the old nested tags
+      linked tree - the taxonomy browser, replacing the old nested tags
   Chains/<slug>.md                  one hub per minted thread: theme,
       argument, members grouped in role-section order (Foundation first),
       chronological within each section, anchors marked (anchor)
@@ -195,7 +201,11 @@ def parse_chain_memberships():
         return members
     current_id = None
     for line in CHAINS_LOG.read_text(encoding="utf-8").splitlines():
-        h = re.match(r"### (\S+) — .+ — \d{4}-\d{2}-\d{2}", line)
+        # Heading format per schema.md: "### id | Title | date" (pipes).
+        # Legacy entries used em-dash separators; accept both. The em dash
+        # appears only as an escape (\u2014) so no literal em dash exists
+        # anywhere in this file.
+        h = re.match(r"### (\S+) [\u2014|] .+ [\u2014|] \d{4}-\d{2}-\d{2}", line)
         if h:
             current_id = h.group(1)
             continue
@@ -203,7 +213,7 @@ def parse_chain_memberships():
         if m and current_id:
             chain_slug = m.group(1)
             role = m.group(2).split()[0].split(";")[0].split(",")[0]
-            role = role.replace("—", "").strip() or "Elaboration"
+            role = role.replace("\u2014", "").strip() or "Elaboration"
             anchor = "presumptive anchor" in (m.group(2) + m.group(3)).lower() \
                      or "presumptive section anchor" in (m.group(2) + m.group(3)).lower()
             members[current_id].append((chain_slug, role, anchor))
@@ -272,8 +282,11 @@ def main():
         messages[fm["message_id"]] = (fm, body)
     titles = {mid: fm.get("title", mid).strip() for mid, (fm, _) in messages.items()}
 
-    # Note filenames are the titles. Two messages may legitimately share a
-    # title, so disambiguate collisions with the date, and keep a map from
+    # Note filenames are DATE-PREFIXED titles ("YYYY-MM-DD Title") so the
+    # file explorer sorts chronologically; the graph shows the human title
+    # via the `title` property + the Front Matter Title plugin (Graph
+    # feature only). Two messages may still collide (same date AND title),
+    # so disambiguate with the message_id, and keep a map from
     # message_id -> note name for every link the vault emits.
     notenames = {}
     folders = {}          # message_id -> "YYYY/MM"
@@ -285,6 +298,8 @@ def main():
         folder = f"{year}/{month}"
         folders[mid] = folder
         base = filename(titles[mid])
+        if date:
+            base = f"{date} {base}"
         key = base.lower()
         # Disambiguate only against files landing in the SAME folder.
         if key in used[folder]:
@@ -352,6 +367,7 @@ def main():
         loc_str = ", ".join(x for x in [loc.get("city"), loc.get("region"),
                                         loc.get("country")] if x)
         props = ["---",
+                 f"title: {q(titles[mid])}",
                  f"message_id: {mid}",
                  f"aliases: [{mid}]",
                  f"date: {date}",
@@ -397,16 +413,22 @@ def main():
                  f"**Spirit:** [[Spirits/{fm.get('spirit_id','')}|{spirit}]] · "
                  f"**Medium:** {fm.get('medium','')} · **Date:** {date}",
                  ""]
-        # --- Reading order: door, excerpt, message, related, chains, questions ---
-        door = (fm.get("door") or "").strip()
-        if door:
-            lines += ["> [!quote] The Door", f"> {door}", ""]
+        # --- Reading order: excerpt, message, description, related, chains,
+        # questions. The door is deliberately NOT shown here: the message
+        # page lets the text interpret itself (excerpt = the spirit's own
+        # words as epigraph). Doors live on browse surfaces where the
+        # invitation belongs.
         excerpt = (fm.get("excerpt") or "").strip()
         if excerpt:
             # italicised, line by line so multi-line excerpts stay in italics
             lines += [f"*{e}*" for e in excerpt.splitlines() if e.strip()] + [""]
 
         lines += ["---", "", body.strip(), "", "---", ""]
+
+        desc = (fm.get("description") or "").strip()
+        if desc:
+            lines += ["> [!abstract] Description"]
+            lines += [f"> {d}" for d in desc.splitlines() if d.strip()] + [""]
 
         rel = fm.get("related_messages") or []
         if rel:
@@ -417,7 +439,7 @@ def main():
             lines += ["## Chains", ""]
             for chain_slug, role, anchor in mem:
                 mark = " **(anchor)**" if anchor else ""
-                lines += [f"- [[Chains/{chain_slug}]] — {role}{mark}"]
+                lines += [f"- [[Chains/{chain_slug}]] - {role}{mark}"]
             lines += [""]
         qs = fm.get("questions") or []
         if qs:
@@ -462,17 +484,17 @@ def main():
             lines += [f"## {role}", ""]
             for date, anchor, mid in sorted(by_role[role]):
                 mark = " **(anchor)**" if anchor else ""
-                lines += [f"- {date} — {wiki(mid, titles, notenames)}{mark}"]
+                lines += [f"- {date} - {wiki(mid, titles, notenames)}{mark}"]
             lines += [""]
         (VAULT / "Chains" / f"{chain_slug}.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # Category hubs — each opens with its definition / biography, then messages
+    # Category hubs - each opens with its definition / biography, then messages
     def write_hub(folder, name, items, heading, intro=None):
         lines = [f"# {heading}", ""]
         if intro:
             lines += intro
         lines += [f"## Messages ({len(items)})", ""]
-        lines += [f"- {d} — {wiki(m, titles, notenames)}" for d, m in sorted(items)] + [""]
+        lines += [f"- {d} - {wiki(m, titles, notenames)}" for d, m in sorted(items)] + [""]
         (VAULT / folder / f"{slug(name)}.md").write_text("\n".join(lines), encoding="utf-8")
 
     for s, items in by_subject.items():
@@ -491,7 +513,7 @@ def main():
         write_hub("Subjects", s, items, f"Subject: {s}", intro)
 
     # A spirit deserves a hub page if they delivered a message, are mentioned
-    # in one, or have a curated profile file — otherwise mentions: wikilinks
+    # in one, or have a curated profile file - otherwise mentions: wikilinks
     # (e.g. [[Spirits/sri-yukteswar]]) dangle as empty unresolved notes.
     for sp in sorted(set(by_spirit) | set(by_mention) | set(spirit_profiles)):
         prof = spirit_profiles.get(sp, {})
@@ -507,12 +529,12 @@ def main():
         delivered = by_spirit.get(sp, [])
         if delivered:
             lines += [f"## Messages ({len(delivered)})", ""]
-            lines += [f"- {d} — {wiki(m, titles, notenames)}"
+            lines += [f"- {d} - {wiki(m, titles, notenames)}"
                       for d, m in sorted(delivered)] + [""]
         mentioned = by_mention.get(sp, [])
         if mentioned:
             lines += [f"## Mentioned in ({len(mentioned)})", ""]
-            lines += [f"- {d} — {wiki(m, titles, notenames)}"
+            lines += [f"- {d} - {wiki(m, titles, notenames)}"
                       for d, m in sorted(mentioned)] + [""]
         (VAULT / "Spirits" / f"{slug(sp)}.md").write_text(
             "\n".join(lines), encoding="utf-8")
@@ -549,7 +571,7 @@ def main():
         lines += [""]
     (VAULT / "Ask the Archive.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # Subjects Index — the taxonomy as a linked tree
+    # Subjects Index - the taxonomy as a linked tree
     data = yaml.safe_load(SUBJECTS_PATH.read_text(encoding="utf-8"))
     idx = ["# Subjects Index", "",
            "The archive's full subject hierarchy. Subjects with messages",
@@ -569,8 +591,8 @@ def main():
         f"- **{len(messages)}** messages · **{len(chain_members)}** chains · "
         f"**{len(by_subject)}** subjects in use · **{total_q}** questions answered", "",
         "## Start here",
-        "- [[Ask the Archive]] — search any question",
-        "- [[Subjects Index]] — browse the full taxonomy",
+        "- [[Ask the Archive]] - search any question",
+        "- [[Subjects Index]] - browse the full taxonomy",
         "- Browse the `Chains/` folder for the argument threads",
         "- Open the graph view; filter with `-path:\"Subjects\"` if hubs dominate", "",
     ]
