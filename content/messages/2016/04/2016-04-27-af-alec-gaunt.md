@@ -39,6 +39,7 @@ questions:
 related_messages:
   - 2015-05-27-af-alec-gaunt
   - 2016-04-19-af-augustine
+  - 2016-05-12-af-alec-gaunt
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-law-of-change/"
 notes: ""
@@ -51,7 +52,7 @@ excerpt: >
 collections: []
 door: >
   Change itself is the path, not an obstacle to it
-last_edited: 2026-04-17
+last_edited: 2026-07-20
 ---
 
 May the Divine Love find a deep inflowing to your souls, my friends, and may you continue to come together in these Circles of Light, of prayer for Love. How important they are in this world and how few there are in this world that pray for the Father's Love in such a direct way. Connecting with God in this way brings powerful Light and all that comes with this Love and Light, brings powerful change within you, beloved souls, and brings the opportunity for we in spirit to come close to all of you, those who are just beginning upon this Path and those who are my old friends. Yes, we have journeyed a great distance, praying together, working together, allowing God's Will to manifest through us, each one of us working His Will into our lives and us learning to allow His Will to manifest unimpeded, allowing His Love to change us.
