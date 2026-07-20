@@ -1,7 +1,7 @@
 ---
 title: "Historical"
 description: "Messages of particular historical importance in the archive — marking a significant moment in the history of the Divine Love movement, the development of a circle, or the record of an event that will be of lasting interest to researchers and historians of the movement."
-last_updated: 2026-07-18
+last_updated: 2026-07-20
 ---
 
 # Historical
