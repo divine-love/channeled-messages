@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-18
+last_updated: 2026-07-20
 ---
 
 # Browse All Messages
@@ -265,15 +265,25 @@ last_updated: 2026-07-18
 | [In Knowing and Growing Your Soul, You Will Find Your True Self](messages/2016/04/2016-04-04-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑04‑04 | You are a gift to the world. As you truly love yourselves, oh what wonders your Heavenly Father may manifest through you |
 | [The Prism of Our Souls](messages/2016/04/2016-04-04-af-keea-atta-kem.md) | Keea atta Kem | Al Fike | 2016‑04‑04 | The light within your soul refracts through the prism of God's Love, each colour a unique gift |
 | [Talk on Compassion and Service](messages/2016/04/2016-04-05-af-gandhi.md) | Mahatma Gandhi | Al Fike | 2016‑04‑05 | Everyone hungers for love. Prepare a feast for the starving soul |
+| [Be the Purveyors of Joy](messages/2016/04/2016-04-12-af-andrew.md) | Andrew | Al Fike | 2016‑04‑12 | Joy is not a mood that visits you. It is your soul reporting that all is right within. |
 | [Expectations of the Mind: On Releasing Control](messages/2016/04/2016-04-12-af-augustine.md) | Augustine | Al Fike | 2016‑04‑12 | Think how much freedom you will obtain by simply letting go |
+| [Talk on Receiving Guidance](messages/2016/04/2016-04-12-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2016‑04‑12 | You are not waiting for guidance to arrive. You are waiting for the lens to come into focus. |
 | [Lesson on the Falsity of the Vicarious Atonement and the Unsure Nature of Written Truth](messages/2016/04/2016-04-12-af-moses.md) | Moses | Al Fike | 2016‑04‑12 | The word is not sacred. What is sacred is your living connection with your Heavenly Father |
+| [Breath of God](messages/2016/04/2016-04-13-af-confucius.md) | Confucius | Al Fike | 2016‑04‑13 | You already have wings. The only question is whether you will open them. |
 | [The Greatest Healing Energy of All Is God's Divine Love](messages/2016/04/2016-04-13-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑04‑13 | One blessing cannot be passed from person to person. It must come directly from God. |
 | [Each Day Has the Potential to Bring Light Given the Right Intentions](messages/2016/04/2016-04-14-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑04‑14 | Like the butterfly that flutters its wings and creates the hurricane, these tiny flutters of Light will create change |
 | [Nurture Those You Encounter](messages/2016/04/2016-04-14-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑04‑14 | God places within the souls of those you touch a desire for His Love, and this is powerful |
+| [The Simple Way of Love](messages/2016/04/2016-04-17-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑04‑17 | Complication is a human invention. The way God made is simple, and that is exactly what makes it hard to accept. |
 | [You Will Come Together Again](messages/2016/04/2016-04-19-af-augustine.md) | Augustine | Al Fike | 2016‑04‑19 | Hidden within each lesson is a great door to growing your souls |
+| [Be with God in the Garden](messages/2016/04/2016-04-19-af-goldie.md) | Goldie | Al Fike | 2016‑04‑19 | When you are vexed, go to the ground. The Earth was made to take it from you. |
 | [The Law of Change](messages/2016/04/2016-04-27-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑04‑27 | Change itself is the path, not an obstacle to it |
 | [Two Paths Towards Love and Purification](messages/2016/05/2016-05-02-af-andrew.md) | Andrew | Al Fike | 2016‑05‑02 | You are already building your eternal home with every prayer you say today |
+| [How to Walk upon the Path Divine](messages/2016/05/2016-05-02-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑05‑02 | You do not have to earn your way back through every wrong you ever did. This Love can simply wash it away. |
+| [Shedding Many Skins as the Love Transforms You](messages/2016/05/2016-05-09-af-augustine.md) | Augustine | Al Fike | 2016‑05‑09 | Your errors cannot share a room with Love for long. One of them has to leave, and it will not be the Love. |
+| [Working as a Group Has Many Benefits for the World](messages/2016/05/2016-05-09-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑05‑09 | A handful of people praying together is not a small thing. It is a door the angels come through. |
+| [Encouragement to Read the Volumes](messages/2016/05/2016-05-11-af-james-padgett.md) | James Padgett | Al Fike | 2016‑05‑11 | Where you wake up in the next world is being settled by the choices you are making in this one. |
 | [Walk with Me in This Light](messages/2016/05/2016-05-11-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑05‑11 | The prayer itself, offered by Jesus as a living invitation |
+| [Shed Your Fears and Encumbrances](messages/2016/05/2016-05-12-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑05‑12 | You are being asked to travel light, because you may be called at a moment's notice. |
 | [Aman Speaks of the Original State of Humanity and the Fall from Grace](messages/2016/05/2016-05-29-af-aman.md) | Aman | Al Fike | 2016‑05‑29 | The choice refused at the beginning of time is being offered again, and this time we can choose differently |
 | [Breaking Free of the Shell Around Your Soul](messages/2016/06/2016-06-13-af-james.md) | James | Al Fike | 2016‑06‑13 | You are already in the process of being reborn. The struggle you feel is the shell cracking, not failure |
 | [You Will Fulfill Your Mandate to Be a Channel of Love at My Home](messages/2016/06/2016-06-27-af-brother-mandus.md) | Brother Mandus | Al Fike | 2016‑06‑27 | What is needed is not a strong personality but a humble, prayerful soul |
