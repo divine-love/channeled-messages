@@ -40,7 +40,9 @@ questions:
 related_messages:
   - 2016-02-15-af-augustine
   - 2016-01-24-af-augustine
+  - 2016-03-10-af-augustine
   - 2016-03-10-af-confucius
+  - 2016-05-16-af-simon
 audio_url: ""
 canonical_url: ""
 language: en
@@ -54,7 +56,7 @@ collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-26
+last_edited: 2026-07-21
 ---
 
 My dear, beloved souls, you struggle so between your souls and your minds. Your soul is with God, each of you, my beloveds. Your soul is with God, and your minds are often with mankind and the conditions of humanity and this causes a struggle within you.
