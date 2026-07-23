@@ -24,7 +24,7 @@ secondary_subjects:
   - "Faculties of the Soul"
   - "Cleansing & Expiation"
   - "Rebirth of the Soul (New Birth)"
-  - "Celestial Heavens & At-onement"
+  - "Teaching the Prayer Practice"
   - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
@@ -52,7 +52,7 @@ door: >
   The gifts are already in you, asleep. Love is not adding anything; it is
   waking what is there.
 collections: ["Prism of the Soul", "Mind & Soul"]
-last_edited: 2026-07-21
+last_edited: 2026-07-23
 ---
 
 I am Keea, Keea Atta Kem and I lived in Egypt many hundreds of years ago and now reside within the Celestial Kingdom where all souls who are healed and redeemed by the Father’s Love reside. And we have great joy there and wondrous experiences which I could not possibly describe to you. We are so far from this Earth plane, so far from the reference you have from your lives, but I tell you - all who walk this path and seek this Love - you shall know the glories of Heaven, for this truly is Heaven, beloved souls.

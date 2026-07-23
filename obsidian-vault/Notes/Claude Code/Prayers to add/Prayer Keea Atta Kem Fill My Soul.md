@@ -5,6 +5,7 @@ DRAFT, proposed practice file. Format is my best guess at the content/practices/
 title: "Fill My Soul with Your Great Essence" type: prayer practice_id: prayer-keea-atta-kem-fill-my-soul source_message: 2016-05-16-af-keea-atta-kem spirit_id: keea-atta-kem spirit_name: "Keea Atta Kem" medium: Al Fike date_received: 2016-05-16 primary_subjects: "Receiving the Divine Love through Prayer" secondary_subjects:
 
 - "Prayer & Devotion"
+- "Teaching the Prayer Practice"
 - "Rebirth of the Soul (New Birth)" description: > A prayer for the Divine Love given by Keea Atta Kem within the message "How Divine Love Changes the Soul." Offered as a model of asking, in the soul's own voice, to receive God's Essence and to become a channel of His Love. language: en notes: > Given verbatim by Keea Atta Kem as the closing of message 2016-05-16-af-keea-atta-kem, where it appears in italics as a spoken prayer. Not publicly posted online. last_edited: 2026-07-18
 
 ---
