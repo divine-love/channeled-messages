@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-20
+last_updated: 2026-07-22
 ---
 
 # Browse All Messages
@@ -284,7 +284,12 @@ last_updated: 2026-07-20
 | [Encouragement to Read the Volumes](messages/2016/05/2016-05-11-af-james-padgett.md) | James Padgett | Al Fike | 2016‑05‑11 | Where you wake up in the next world is being settled by the choices you are making in this one. |
 | [Walk with Me in This Light](messages/2016/05/2016-05-11-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑05‑11 | The prayer itself, offered by Jesus as a living invitation |
 | [Shed Your Fears and Encumbrances](messages/2016/05/2016-05-12-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑05‑12 | You are being asked to travel light, because you may be called at a moment's notice. |
+| [How to Be a Fearless Channel of Love in the World](messages/2016/05/2016-05-12-af-augustine.md) | Augustine | Al Fike | 2016‑05‑12 | Do not wait to feel ready. Readiness is what the opportunity gives you, not what you bring to it. |
+| [How Divine Love Changes the Soul](messages/2016/05/2016-05-16-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2016‑05‑16 | The gifts are already in you, asleep. Love is not adding anything; it is waking what is there. |
+| [The Power of Thoughts](messages/2016/05/2016-05-16-af-simon.md) | Simon | Al Fike | 2016‑05‑16 | Your mind is not starved of information. Your soul is starved of silence. |
+| [Do Not Judge the Natural Pathway](messages/2016/05/2016-05-25-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑05‑25 | The mind's labels change. What you are actually looking at, in anyone, is a soul that is either turning toward God or not. |
 | [Aman Speaks of the Original State of Humanity and the Fall from Grace](messages/2016/05/2016-05-29-af-aman.md) | Aman | Al Fike | 2016‑05‑29 | The choice refused at the beginning of time is being offered again, and this time we can choose differently |
+| [Staying in the Light](messages/2016/05/2016-05-30-af-augustine.md) | Augustine | Al Fike | 2016‑05‑30 | Every choice for Light lays track for the next one. That is why it gets easier, and why it never feels like it should. |
 | [Breaking Free of the Shell Around Your Soul](messages/2016/06/2016-06-13-af-james.md) | James | Al Fike | 2016‑06‑13 | You are already in the process of being reborn. The struggle you feel is the shell cracking, not failure |
 | [You Will Fulfill Your Mandate to Be a Channel of Love at My Home](messages/2016/06/2016-06-27-af-brother-mandus.md) | Brother Mandus | Al Fike | 2016‑06‑27 | What is needed is not a strong personality but a humble, prayerful soul |
 | [Love Is the True Currency of Life](messages/2016/07/2016-07-04-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑07‑04 | Love is not something to find outside yourself. It is something God pours in when you simply ask |
