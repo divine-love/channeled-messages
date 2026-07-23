@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-22
+last_updated: 2026-07-23
 ---
 
 # Browse All Messages
@@ -290,8 +290,13 @@ last_updated: 2026-07-22
 | [Do Not Judge the Natural Pathway](messages/2016/05/2016-05-25-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑05‑25 | The mind's labels change. What you are actually looking at, in anyone, is a soul that is either turning toward God or not. |
 | [Aman Speaks of the Original State of Humanity and the Fall from Grace](messages/2016/05/2016-05-29-af-aman.md) | Aman | Al Fike | 2016‑05‑29 | The choice refused at the beginning of time is being offered again, and this time we can choose differently |
 | [Staying in the Light](messages/2016/05/2016-05-30-af-augustine.md) | Augustine | Al Fike | 2016‑05‑30 | Every choice for Light lays track for the next one. That is why it gets easier, and why it never feels like it should. |
+| [Be Strong in the Light and Withstand the Challenges](messages/2016/06/2016-06-04-af-confucius.md) | Confucius | Al Fike | 2016‑06‑04 | The stronger your Light, the more you are worth pulling down. Build the fortress before you need it. |
+| [Your Loved Ones Live On in Spirit](messages/2016/06/2016-06-04-af-marjorie-fike.md) | Marjorie Fike | Al Fike | 2016‑06‑04 | The ones you grieve are not gone. They are living, close, and cheering the life still ahead of you. |
+| [Continue on This Path](messages/2016/06/2016-06-06-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑06‑06 | Your longing did not go unheard. It is the very thing that drew an apostle to your side. |
 | [Breaking Free of the Shell Around Your Soul](messages/2016/06/2016-06-13-af-james.md) | James | Al Fike | 2016‑06‑13 | You are already in the process of being reborn. The struggle you feel is the shell cracking, not failure |
 | [You Will Fulfill Your Mandate to Be a Channel of Love at My Home](messages/2016/06/2016-06-27-af-brother-mandus.md) | Brother Mandus | Al Fike | 2016‑06‑27 | What is needed is not a strong personality but a humble, prayerful soul |
+| [You Are a Harbinger of Love](messages/2016/06/2016-06-27-af-faith-nyquist.md) | Faith Nyquist | Al Fike | 2016‑06‑27 | Stop asking others what your purpose is. The one thing only you can do, God planted in you to find. |
+| [Love with God's Heart of Love](messages/2016/06/2016-06-27-af-jesus.md) | Jesus | Al Fike | 2016‑06‑27 | The understanding you are straining your mind to reach is already dawning in your soul. |
 | [Love Is the True Currency of Life](messages/2016/07/2016-07-04-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑07‑04 | Love is not something to find outside yourself. It is something God pours in when you simply ask |
 | [The Awakened Soul](messages/2016/07/2016-07-09-af-confucius.md) | Confucius | Al Fike | 2016‑07‑09 | The awakened soul understands Truth in ways the mind simply cannot |
 | [Nurturing the Mind or the Soul: It's a Choice](messages/2016/07/2016-07-10-af-augustine.md) | Augustine | Al Fike | 2016‑07‑10 | The yearning itself is the prayer, and the crack in the armor of the mind is where God enters |
