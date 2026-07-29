@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-11
+last_updated: 2026-07-20
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -138,6 +138,9 @@ before adding new ones.
 | `self-love-foundation` | Loving oneself is the prerequisite for loving others | One cannot extend compassion outward while suppressing or condemning the self -> the seeker is not to blame for their condition and should meet their own cleansing with compassion -> self-love opens the capacity to love others fully -> and the soul that loves itself becomes a clear channel of Love to the world | Self-Love & Acceptance; Compassion & Empathy |
 | `incremental-journey` | Growth in Divine Love is inherently incremental | The soul's growth advances in leaps, then trickles, impeded by world and self yet lifted by God -> the oscillation (two steps forward, one back) comes from the mind's fear-driven retreat to the familiar -> yet each forward effort reinforces truth -> and each step of the gradual awakening is swift in the measure of eternity | Personal Transformation Journey; Perseverance & Steadfastness |
 | `free-will-and-self-responsibility` | Your healing waits on your own will | God honours free will absolutely and will not override it even to relieve self-created pain -> prayers for relief go unanswered while the mind keeps feeding the very condition prayed about -> real change must come as a deep desire from the soul, not a correction from the mind -> and the same law releases you from responsibility for the choices of others, for each soul answers for what it chooses | Law of Free Will |
+| `conduit-not-scripture` | The recorded message as living conduit, never sacred object | Guidance reaches the soul by rapport -> channelled messages are one form of that guidance -> the rapport does not end at delivery but attends every later reader, so the written record is itself an instrument, not a transcript -> and the words are never sacred, the rapport is, which keeps the message useful while stripping it of authority | Discernment & Truth-Seeking; Religious Error & Reformation |
+| `divine-love-healing` | Divine Love as the greatest healing energy | Divine Love is the one healing that cannot be given from one to another and must come from God through longing and prayer -> it stands among the other healing energies without demoting them, enhancing all other gifts -> its primacy rests on eternality, for nothing else in creation is eternal | Divine Healing; Healing Path |
+| `vanguards-of-change` | The commission to mobile service | God has commissioned these souls as vanguards and will open the doors in His timing -> answering the commission requires releasing material burdens to be free to go wherever guided -> the release is operational, mobility at a moment's notice, and the fears blocking it are unfounded -> the world changes through changed people walking through opened doors | Preparation for Earth Mission; Service & Mission |
 
 ---
 
@@ -146,7 +149,8 @@ before adding new ones.
 Threads minted from the holding pen at the curator's direction
 (`earth-changes`, `sensitive-souls-redemptive`, `challenges-as-blessings`,
 and `self-love-foundation` on 2026-07-06; `incremental-journey` on
-2026-07-08; `free-will-and-self-responsibility` on 2026-07-11). Anchors marked;
+2026-07-08; `free-will-and-self-responsibility` on 2026-07-11; `conduit-not-scripture`,
+`vanguards-of-change`, and the `divine-love-healing` re-mint on 2026-07-20). Anchors marked;
 back-search roles are provisional pending full text. Per-message log entries
 exist for the anchor-level witnesses; roster-only names await log migration
 as they are processed or back-searched in full.
@@ -200,6 +204,34 @@ as they are processed or back-searched in full.
   you are responsible for what you choose"). Distinct from
   `free-will-and-gods-plan` (God's orchestration through willing souls);
   overlaps `soul-expiation` and `mind-vs-soul` at a search level.
+- `conduit-not-scripture`, (minted 2026-07-20) witnesses in hand:
+  2016-04-12-af-keea-atta-kem (Foundation, presumptive anchor: the recorded
+  message carries ongoing angelic accompaniment to each reader) and
+  2016-04-12-af-moses (Objection-removed: the words are never sacred, the
+  rapport is; the conduit preserved while stripped of authority; also serves
+  `religious-error`, compatible dual reading). Same evening, same circle,
+  both turning on the word rapport. No third witness in the 497 messages
+  currently indexed in llms.txt, roughly a quarter of the archive; expect
+  more in the unprocessed material.
+- `divine-love-healing`, (re-minted 2026-07-20 per the pen's standing
+  condition, on the arrival of the second developing witness) witnesses in
+  hand: 2015-03-29-af-seretta-kem (Foundation, presumptive anchor) and
+  2016-04-13-af-seretta-kem (Elaboration: Divine Love placed among the
+  other healing energies without demoting them, primacy grounded in
+  eternality). Remaining checkpoints to weigh as reached:
+  2017-12-12-af-seretta-kem and 2018-07-14-af-seretta-kem (the latter
+  already carries a Reframe in `soul-expiation`).
+- `vanguards-of-change`, (minted 2026-07-20) witnesses in hand:
+  2016-01-08-af-jesus (Foundation, presumptive anchor: the commission
+  itself), 2016-03-06-af-jesus (Elaboration: the release requirement,
+  in this world but not of it), 2016-05-12-af-alec-gaunt (Elaboration:
+  mobility at a moment's notice, the fear objection cleared). FENCE against
+  `preparation-to-be-a-rock`: rock is stability for what comes to you;
+  vanguard is mobility for where you are sent. A message may serve both
+  (2016-05-12-af-alec-gaunt does), but membership here requires the
+  commission-and-mobility argument, not readiness alone. The 2016-01-08
+  `healing-channel` Elaboration should be weighed for demotion to witness
+  at build, as the pen anticipated when holding this candidate.
 
 ---
 
@@ -208,17 +240,6 @@ as they are processed or back-searched in full.
 Threads suggested by a single message so far. Mint a slug once a second
 message gives them an argument to trace.
 
-- `divine-love-healing`, (returned to the pen 2026-07-06; minted prematurely
-  on a single witness; slug reserved, registry row removed), Divine Love as
-  the greatest healing force, surpassing all others. Seen:
-  2015-03-29-af-seretta-kem (the developed statement: must come directly from
-  God, cannot be passed person to person, transforms every cell, energy, and
-  aspect of mind, with human effort and free will as necessary partners).
-  Re-mint when a second message develops the argument. Likely second
-  witnesses to check, linked from the Foundation's own related_messages:
-  2016-04-13-af-seretta-kem, 2017-12-12-af-seretta-kem,
-  2018-07-14-af-seretta-kem. Search-level home meanwhile: Divine Healing;
-  Healing Path.
 - `provision-for-service`, God's provision for God-guided work. The
   argument: when a mission is guided by God, all that is required is
   provided on every level, including the monetary -> worry, guilt, and
@@ -268,15 +289,6 @@ message gives them an argument to trace.
   but as a seed of a thought or small inkling that grows as Love nurtures
   it; the soul must honour and act on these quiet droplets. Seen:
   2016-02-02-af-jesus. Hold for a second witness that builds the argument.
-- `vanguards-of-change`, the circle is commissioned as the leading edge
-  ("vanguards") of a Divine-Love-driven transformation of the world, which
-  requires releasing material attachments to become free, mobile channels of
-  Love joining others in a reverberating, wave-upon-wave change. Seen:
-  2016-03-06-af-jesus and 2016-01-08-af-jesus (the latter currently logged
-  loosely under `healing-channel` as commissioning-not-mechanism). If minted,
-  consider moving that 2016-01-08 entry out of `healing-channel` into this
-  thread. Hold for confirmation that this is its own argument distinct from the
-  healing-channel mechanism.
 - `channel-of-love-in-the-material`, being a channel of Love is not limited
   to overtly spiritual acts; material and mundane work (cleaning, fixing,
   preparing a place) done in love equally enacts God's Will and becomes a
@@ -346,10 +358,36 @@ message gives them an argument to trace.
   2018-11-29-af-abdullah-latif ("Prayer is powerful. Prayer can bring change.
   Prayer can bring solutions. Prayer can heal"); 2015-12-21-af-peter ("just because
   you reside in one part of your planet does not mean that through your collective
-  efforts you may not influence the conditions in anyplace in this world"). Mint
+  efforts you may not influence the conditions in anyplace in this world");
+  2016-05-09-af-seretta-kem (the strongest sighting to date, held
+  2026-07-20: the steps are sketched, prayer for the Love opens doors, the
+  angels work in conjunction with the circle, the circle itself becomes the
+  portal, and effects reach people and conditions the circle never touches
+  directly, but the mechanism is sketched in clauses, not developed). Mint
   when a message develops the mechanism (how intercessory prayer acts on another
   soul or condition) rather than asserting the power. Search-level home meanwhile:
   subject "Prayer & Devotion."
+- `joy-as-soul-marker`, joy as a readable index of soul condition. Seen:
+  2016-04-12-af-andrew (joy "tells you that all is right within you, that
+  you are in harmony", and the soul rests in "a perpetual state of joy"
+  once touched by the Love, increasing as it nears God). Mint when a second
+  message develops joy as diagnostic rather than asserting it.
+- `simplicity-of-the-path`, the Divine Love path is inherently simple and
+  complication is human-made. Seen: 2016-04-17-af-francis-of-assisi (the
+  developed statement plus first-person Testimony: "I chose the simple life
+  when I was on Earth and great blessings came to me through this choice").
+  Adjacent to but distinct from `purpose-of-life` (life's purpose simple
+  versus the path's practice simple). Mint when a second message argues
+  rather than asserts it.
+- `earth-as-healing-ground`, the natural world as an active agent that
+  draws disturbance out of the soul. Seen: 2016-04-19-af-goldie ("let God's
+  beautiful Earth draw from you those feelings that disturb you, for the
+  healing is there in the ground, in the trees and the flowers"). Distinct
+  from `earth-changes` (the planet's cleansing) and from
+  `earth-conditions-and-prayer` (the darkness-field met by prayer). The
+  earlier Goldie garden message 2015-05-27-af-goldie is a joy blessing, an
+  adjacency rather than a second witness. Mint when a second witness states
+  the mechanism.
 
 ---
 
@@ -415,6 +453,11 @@ message gives them an argument to trace.
   Connection is suggestive but vague (an encouragement echo, not a development of
   the argument). Not logged as a member; revisit if stronger circuitous-route /
   God's-Will-despite-resistance witnesses appear, and replace or confirm then.
+- `soul-expiation` roster gap: the members describe the process and its
+  pain, few describe its completion. Standing candidate if a second
+  completion-describing message appears: 2016-05-16-af-keea-atta-kem
+  (witness, logged 2026-07-20). The end-state facet may be the thread's
+  eventual Capstone.
 - At hundreds of chains, this file will need a real registry/tooling pass.
   Revisit structure before it gets unwieldy.
 - Watch for a "children / the young" theme. It reads as collection-shaped (a

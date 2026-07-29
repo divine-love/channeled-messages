@@ -138,13 +138,14 @@ are built.
 - NOTE (sighting, `incremental-journey`, added 2026-07-08 on minting): the blessing of Divine Love is incremental, each prayer bringing the soul closer; witness in the Foundation section beneath the Confucius anchor (2015-05-03).
 
 ### 2015-03-29-af-seretta-kem | The Greatest of All Types of Healing Is Divine Love Healing | 2015-03-29 [back-search]
-- `divine-love-healing` **[Foundation]** : Establishes Divine Love as the greatest healing, distinct from all transferable energies, transforming every cell while requiring human partnership. Likely head of this thread. (2026-07-06: thread returned to the holding pen, minted prematurely on this single witness; slug reserved, role stands for re-mint when a second developing message appears.)
+- `divine-love-healing` **[Foundation]** : Establishes Divine Love as the greatest healing, distinct from all transferable energies, transforming every cell while requiring human partnership. Likely head of this thread. (2026-07-06: thread returned to the holding pen, minted prematurely on this single witness; slug reserved, role stands for re-mint when a second developing message appears.) (2026-07-20: re-minted; the second developing witness arrived at 2016-04-13-af-seretta-kem, see its entry; Foundation role and presumptive anchor stand.)
 
 ### 2015-06-15-af-joseph-smith | The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations | 2015-06-15 [back-search]
 - `religious-error` **[Elaboration]** : Joseph Smith on how organised religion lets human ambition usurp God's Will; extends the religious-error argument with a second institutional witness.
 
 ### 2016-04-12-af-moses | Lesson on the Falsity of the Vicarious Atonement and the Unsure Nature of Written Truth | 2016-04-12 [back-search]
-- `religious-error` **[Objection-removed]** : Moses repudiates the Vicarious Atonement and the finality of written word, clearing the central doctrinal objection that blocks the Divine Love teaching. Strong mid-chain link.
+- `religious-error` **[Objection-removed]** : Moses repudiates the Vicarious Atonement and the finality of written word, clearing the central doctrinal objection that blocks the Divine Love teaching. Strong mid-chain link. (2026-07-20: confirmed at full text during batch processing; both repudiations stand as described, role stands.)
+- `conduit-not-scripture` **[Objection-removed]** : (added 2026-07-20 at full text, on minting) clears the belief that would distort the conduit claim into bibliolatry. Names the error from the inside ("We, the Jews, took great import upon the written word. We felt that the written word was the Word of God"), denies it ("the word is not sacred. No, words are words"), relocates the sacredness ("your rapport with your Heavenly Father"), and preserves the conduit: "to bring a suggestion of Truth in the written word, for that is merely all that it is, is a productive action." That last clause makes it a member here and not only of `religious-error`; the two readings are compatible. Given the same evening as the thread's Foundation (2016-04-12-af-keea-atta-kem), to the same circle, both turning on the word rapport; the pairing looks deliberate.
 
 ### 2016-05-02-af-andrew | Two Paths Towards Love and Purification | 2016-05-02 [back-search]
 - `two-paths` **[Capstone]** : The fullest statement of the two paths: natural love by full conscious recompense vs. Divine Love's exponential transformation, the swifter higher road to the Celestial Heavens. Likely the chain's doctrinal capstone.
@@ -405,6 +406,8 @@ are built.
 
 ### 2016-01-08-af-jesus | Encouragement from Jesus | 2016-01-08 [not publicly posted]
 - `healing-channel` **[Elaboration]** : Jesus commissions the group as vanguards and a "great channel of service," carrying God's Love and healing to those in darkness. Applies the channel teaching as encouragement/commissioning rather than mechanism. Possible additional witness for the now-minted `free-will-and-gods-plan` thread (God's plan, perfect timing, doors opening) - confirm role against full text before adding.
+- `vanguards-of-change` **[Foundation; presumptive anchor]** : (added 2026-07-20 on minting) establishes the commission: "You are the vanguards," said twice; God "will open the doors" in the timing of His Will; their souls already sense what is coming; the commission serves "that great plan of our Heavenly Father's for the salvation of mankind." The commissioning material previously counted toward `healing-channel` finds its primary home here; weigh demoting that Elaboration to witness at build time, as the pen anticipated ("great channel of service" keeps a witness-level tie).
+- (2026-07-20: the free-will-and-gods-plan question above resolved at full text: encouragement-level echo only, God's plan and doors opening in His timing, with no development of the will-reconciliation argument; not added as a member.)
 
 ---
 
@@ -630,3 +633,78 @@ are built.
 - NOTE: Mary delivers on behalf of the newly passed Kay Dunbar, mother of Jeanne Fike (wife of medium Al Fike) and Judy Dunbar. Paired with 2019-04-08-jw-yogananda. Kay's "her dear Albert" refers to Al Fike, her son-in-law.
 
 ---
+
+
+## Batch additions, 2026-07-20 (Cowork batches 1-3, DLSF 2016 document)
+
+> Logged from full readings during batch cataloguing, curator-reviewed and
+> merged 2026-07-20. Chronological by message date within this section. The
+> three threads minted this date (`conduit-not-scripture`, the
+> `divine-love-healing` re-mint, `vanguards-of-change`) have registry rows
+> and rosters in chains-threads.md; member evidence lies here and under the
+> existing 2016-04-12-af-moses and 2016-01-08-af-jesus headings above.
+
+### 2016-03-06-af-jesus | A Greeting | 2016-03-06 [not publicly posted]
+- `vanguards-of-change` **[Elaboration]** : adds the requirement the commission imposes: release material burdens to have "the capacity and the flexibility to walk wherever God will guide you," compressed as "in this world but not of this world," with the change arriving "wave upon wave." The vanguard title recurs, tied directly to the unburdening.
+
+### 2016-04-12-af-andrew | Be the Purveyors of Joy | 2016-04-12 [not publicly posted]
+- `bell-toll-instrumentality` **[Elaboration]** : names the perceptible form the radiating signal takes: joy is the carrier that does the drawing ("They feel the outward expression of Love through your joy and they are drawn to this Light"), and what draws them is the wish to possess that lightness themselves. Closest member 2016-01-18-af-confucius (the mechanism working unawares) and 2016-03-17-af-alec-gaunt (the seeker as example); Andrew supplies the visible channel by which the signal is actually read.
+- NOTE (holding pen, `joy-as-soul-marker`): the diagnostic claim, joy as a readable index of soul condition ("it tells you that all is right within you, that you are in harmony") and the soul's perpetual state once touched by the Love; penned 2026-07-20.
+
+### 2016-04-12-af-keea-atta-kem | Talk on Receiving Guidance | 2016-04-12 [not publicly posted]
+- `conduit-not-scripture` **[Foundation; presumptive anchor]** : (minted 2026-07-20) establishes the conduit claim: the angels make "a rapport with your minds and your souls" and the rapport continues past delivery, "We are with you as you read them and we are with all who read them and help to impress upon you the importance of any particular message," attended to each reader's particular life. "All of it is a training, an education, a direction to your lives."
+- NOTE (witness, `divine-love-mediumship`): the rapport-and-influence claim, stated in two sentences inside a broader talk; does not develop the thread's mechanism or discernment strands; held at witness level (revised down from Elaboration during batch review).
+
+### 2016-04-13-af-seretta-kem | The greatest healing energy of all is God's Divine Love | 2016-04-13
+- `divine-love-healing` **[Elaboration]** : the second developing witness that returned the thread from the holding pen (checkpoint resolved at full text; the message is already in the repository). Restates the Foundation's claim in its own terms (the one blessing which "cannot be given from one to another"), then develops where the Foundation does not go: affirms the other healing modalities as real and usable, places Divine Love among them without demoting them ("This Gift enhances all other gifts"), grounds the primacy in eternality ("what else in the universe of God's creation is eternal? Nothing, my beloveds, only this Touch"), and instructs practitioners to "Add this to your understanding."
+
+### 2016-04-17-af-francis-of-assisi | The Simple Way of Love | 2016-04-17 [not publicly posted]
+- NOTE (sighting, `incremental-journey`): "step by step, choice by choice, prayer by prayer"; the increments located in repeated daily choice, a distinguishable emphasis asserted in one sentence, not built. Witness level.
+- NOTE (sighting, `bell-toll-instrumentality`): "many souls will be touched by your example"; echo only, Francis already carries the developed Testimony at 2016-01-28-af-francis-of-assisi.
+- NOTE (holding pen, `simplicity-of-the-path`): the message's spine, the path inherently simple and complication human-made; developed statement plus first-person Testimony; penned 2026-07-20.
+
+### 2016-04-19-af-goldie | Be with God in the Garden | 2016-04-19 [not publicly posted]
+- NOTE (holding pen, `earth-as-healing-ground`): the Earth as an active agent drawing disturbance from the soul ("the healing is there in the ground, in the trees and the flowers"); penned 2026-07-20.
+
+### 2016-05-02-af-mary | How to Walk upon the Path Divine | 2016-05-02 [not publicly posted]
+- `healing-channel` **[Elaboration]** : extends the channel teaching from designated healing work to ordinary daily care ("whether it be your children, or the elderly or those in deep need, ask your Heavenly Father to make within you a channel of Love"), with the comparative claim that the result exceeds what natural love achieves. Closest member 2016-02-10-af-confucius (method and precondition); Mary supplies the field of application and the measure against natural love.
+- NOTE (witness, `two-paths`): the Love over-riding the Law of Compensation, delivered the same day as the thread's Capstone (2016-05-02-af-andrew), which already carries the compensation machinery; no new facet named, recorded as a same-day witness for the Capstone section at build.
+
+### 2016-05-09-af-augustine | Shedding Many Skins as the Love Transforms You | 2016-05-09 [not publicly posted]
+- `soul-expiation` **[Elaboration]** : names the three origins of the soul's conditions ("inherited from generations, created by your own choices, absorbed by the environment of this world") and applies one remedy to all: origin does not matter, "No other blessing can truly do this." Closest member 2016-03-11-af-luke (one origin, blame removed); 2018-04-03-af-luke develops the inherited strand alone; Augustine sets the three side by side.
+- NOTE (sighting, `self-love-foundation`): "Do not condemn yourselves... know with a deep compassion for yourselves"; witness level, consistent with 2016-03-07-af-augustine; the thread still awaits an anchor and this is not one.
+
+### 2016-05-09-af-seretta-kem | Working as a Group Has Many Benefits for the World | 2016-05-09 [not publicly posted]
+- NOTE (PORTAL WATCH): "For as a circle you become a portal for this to come and as you pray in this way, we are able to be with you in powerful and effective ways," with the opening condition named as prayer for the Divine Love ("With this a door is opened, indeed many doors are opened"). Inside the watch window after 2016-03-25. Distinctive contribution: the circle itself as the portal rather than something that uses one. Does not claim communication requires a portal (consistent with the 2019-04-06 boundary).
+- NOTE (holding pen sighting, `prayer-changes-world-conditions`): "to even change the conditions of this world... bring relief from pain, and influence the leaders of this world"; the strongest sighting to date, the steps sketched in clauses (prayer opens doors, the angels work in conjunction with the circle, the circle becomes a portal, effects reach people and conditions never touched directly); held 2026-07-20, mechanism sketched, not developed.
+
+### 2016-05-11-af-james-padgett | Encouragement to Read the Volumes | 2016-05-11 [not publicly posted]
+- `divine-love-mediumship` **[Testimony]** : first-person witness to the production of the archive's foundational texts: "written by me, but not of me, but by spirit who used me... in ways similar to that way I use this instrument." Jesus (2019-01-30) testifies to reliability of reception; Padgett testifies to authorship, and draws the line from his own mediumship to the present instrument, joining the archive's historical root to its current channel.
+- NOTE (witness, `death-transition`): soul condition determines the starting plane, the same facet as 2019-02-10-af-augustine (Elaboration), which it predates by nearly three years; place beneath it chronologically at build.
+
+### 2016-05-12-af-alec-gaunt | Shed Your Fears and Encumbrances | 2016-05-12 [not publicly posted]
+- `preparation-to-be-a-rock` **[Elaboration]** : gives the readying a purpose the thread had not stated: deployability, "pick up at a moment's notice and be guided to a place, a person, an opportunity," with "even material encumbrances" among what is shed. Closest member 2015-06-29-af-confucius (release as spiritual preparation); Alec Gaunt states what the release is for.
+- `vanguards-of-change` **[Elaboration]** : (added 2026-07-20 on minting) operationalizes the commission's release: mobility at a moment's notice, with the fear objection cleared ("No one will suffer from this. All those you love will be taken care of"; sacrifices "not truly sacrifices"), closing with the exemplary logic of deployment: "How can the world change if you do not change?" Serves both this thread and `preparation-to-be-a-rock` under the registry fence (rock: stability for what comes to you; vanguard: mobility for where you are sent).
+
+### 2016-05-12-af-augustine | How to Be a Fearless Channel of Love in the World | 2016-05-12 [not publicly posted]
+- `free-will-and-gods-plan` **[Elaboration]** : supplies the working protocol for the willing soul: "it must be a mutual agreement between you and God. This does not mean also that you cannot take initiatives, but it does require for you to bring it forth to your Heavenly Father and ask that this may be guided and blessed." Closest member 2016-03-17-af-alec-gaunt (human plan-making ruled out absolutely); Augustine qualifies it with the operating rule, initiative permitted but submitted for guidance and blessing, turning the thread's premise into workable practice.
+- NOTE (sighting, `incremental-journey`): the incremental principle applied to gifts and mission ("Incrementally, beloved souls"), the facet already sighted at 2019-04-06-af-yogananda, which it predates by nearly three years.
+- NOTE (sighting, `healing-channel`): the counsel to step into what looks too difficult; witness level.
+
+### 2016-05-16-af-simon | The Power of Thoughts | 2016-05-16 [not publicly posted]
+- `mind-vs-soul` **[Elaboration]** : locates the obstacle outside the person: externally sourced informational overload ("the mind is overstimulated, with too much information") with deliberate withdrawal as the remedy ("isolating yourself from the bombardment of all this stimulation"). Closest member 2016-01-24-af-augustine (internally generated clutter, fear, unworthiness); Simon adds the external source and prescribes withdrawal from stimulation rather than inner discipline alone.
+- NOTE (sighting, `preparation-to-be-a-rock`): soul-wisdom as the navigation instrument for the coming changes, stated in a clause; the readiness facet already carried by 2016-12-07-af-andrew and others.
+
+### 2016-05-16-af-keea-atta-kem | How Divine Love Changes the Soul | 2016-05-16 [not publicly posted]
+- `soul-faculties` **[Elaboration]** : gives the order of operations and caps it: the gifts "lie dormant without the Love's influence"; as the encrustation falls away the soul begins to influence "your thinking and doing and being" and new perceptions follow; then the ceiling, "even in this you see but a reflection of the truth" until the soul is fully redeemed. Josephus (2019-02-01, Foundation) names the faculties and Seretta Kem (2018-10-16, Chrysalis) shows the vista; Keea supplies the sequence in which they come online and, unusually for the thread, the limit on awakened perception's reliability.
+- NOTE (sighting, `mind-vs-soul`): "the mind of the soul which is completely separate from the material mind"; restates the Foundation material.
+- NOTE (witness, `soul-expiation`): the completion described ("all that is not in harmony with God's Love will fall away from you and your souls are redeemed in Love, healed completely, nothing within you is of the human condition"); the roster's rare end-state description; see the roster-gap note in chains-threads.md.
+- NOTE (resolved, prayer practice): the closing prayer is preserved as a standalone practice file (content/practices/prayer-keea-atta-kem-fill-my-soul.md); deemed practices-shaped rather than chain-shaped, curator decision 2026-07-20; do not re-propose as a thread.
+
+### 2016-05-25-af-alec-gaunt | Do Not Judge the Natural Pathway | 2016-05-25 [not publicly posted]
+- `divine-love-without-knowing` **[Elaboration]** : draws the social consequence of the thread's claim: "look to the soul... a soul that is receptive to God's Love, yet in their minds has a different definition what this is, is still a soul on the Divine Path nonetheless." The Foundation (2019-01-31-af-augustine) settles what is true of the receiving soul; Alec Gaunt turns it into a rule of conduct, suspend judgment of another's stated beliefs and read the soul instead. Predates the Foundation by nearly three years; may matter when the anchor is chosen.
+- NOTE (sighting, `judgment-to-love`): "put away your biases"; near the intra-community facet of 2019-04-05-af-augustine, but natural-path versus Divine-path belief rather than approaches within Divine Love; witness level.
+
+### 2016-05-30-af-augustine | Staying in the Light | 2016-05-30 [not publicly posted]
+- `earth-conditions-and-prayer` **[Elaboration]** : names the prayer's effect as lawful: "a law is enacted by these prayers, when you earnestly long for the Father's Love and so you bring the angels close," and frames the gathered circle as a constructed respite from the field ("this respite from the human condition"). Luke (2016-02-29, Foundation) establishes the field and that prayer meets it; Augustine supplies the mechanism, a law enacted by earnest longing, and adds the circle as collective defence rather than only individual.
+- NOTE (sighting, `incremental-journey`): the oscillation and the ratchet ("with each choice for Light you reinforce this Path, you make it easier for you to make this choice"), the facet carried by 2019-04-04-af-matthew, which it predates by nearly three years; place beneath it chronologically at build.
