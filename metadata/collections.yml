@@ -31,10 +31,12 @@
 #    "The Saints & Apostles Speak."
 #
 # Q: What qualifies for "Letters from History"?
-# A: Historical figures outside the biblical canon — philosophers, rulers,
-#    mystics, scientists. Biblical figures (apostles, Moses, Mary) belong
-#    in other collections. If uncertain, check whether the spirit appears
-#    in the Bible; if yes, use another collection.
+# A: Two tests, both required. Speaker: a historical figure outside the
+#    biblical canon (if the spirit appears in the Bible, use another
+#    collection). Content: the message must speak FROM history, drawing
+#    on the spirit's Earth life, era, teachings, or tradition. A famous
+#    name delivering general guidance does not qualify; the spirit page
+#    already gathers everything they gave.
 #
 # Q: Can a message belong to more than one collection?
 # A: Yes. Two or three collections per message is reasonable. More than
@@ -65,10 +67,14 @@ collections:
 
 - name: "Letters from History"
   definition: >
-    Messages from historical figures beyond the biblical canon —
-    philosophers, rulers, mystics, scientists, and others speaking
-    from their perspective in spirit about Divine Love, truth, and the
-    soul's journey.
+    Messages from historical figures beyond the biblical canon, such as
+    philosophers, rulers, mystics, and scientists, in which the spirit
+    speaks from their historical perspective: drawing on their Earth
+    life, era, teachings, or tradition, correcting their own record, or
+    testifying from their lifetime's vantage. Delivery by a historical
+    figure alone does not qualify; the historical identity must do work
+    in the message. A famous spirit's general guidance belongs to its
+    subjects and spirit page, not here.
 
 - name: "Mind & Soul"
   definition: >

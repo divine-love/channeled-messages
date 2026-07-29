@@ -258,7 +258,7 @@ The `collections` field assigns a message to one or more thematic collections. C
 | `Awakening Humanity` | Messages concerning the spiritual awakening of humanity. |
 | `Healing Path` | Messages about healing, physical, emotional, and spiritual. |
 | `Service & Mission` | Messages about service, mediumship, and the mission of Divine Love. |
-| `Letters from History` | Messages from historical figures **outside the biblical canon only** (e.g., Confucius, Einstein, Gandhi, Yogananda). |
+| `Letters from History` | Messages from historical figures **outside the biblical canon only** (e.g., Confucius, Einstein, Gandhi, Yogananda) speaking from their historical perspective: drawing on their Earth life, era, teachings, or tradition; correcting their own record; testifying from their lifetime's vantage. |
 | `Jesus Speaks` | Messages from Jesus of Nazareth. All Jesus messages include this collection; Jesus does not appear in The Saints & Apostles Speak. |
 | `Prism of the Soul` | Messages exploring the nature and faculties of the soul. |
 | `The Saints & Apostles Speak` | **All** biblical figures speaking from spirit, apostles, saints, and Old and New Testament figures (Andrew, James, John the Beloved, Peter, Matthew, Mark, Luke, Francis of Assisi, Augustine, Moses, Mary, Martha, Joseph, and others). Every message delivered by a biblical figure must include this collection. Jesus is the sole exception, having his own collection. |
@@ -407,6 +407,10 @@ Exception: the word "faith" is always treated as a concept keyword, never remove
 ### Multiple Delivering Spirits
 
 When more than one spirit delivers a single message in sequence, `spirit_id` (and therefore the `message_id`) belong to the **first spirit to speak**. All subsequent delivering spirits are listed in `spirits[]` in speaking order, followed by any spirits who are only mentioned. Document the sequence clearly in the `notes` field (e.g., "Two spirits spoke in sequence: Augustine delivered the opening portion, followed by Jesus."). This convention applies whether two or twenty spirits contribute.
+
+### Spirit File Biography Updates
+
+When a message reveals biographical detail about a spirit, update the spirit file in the same session, citing the source message_id, and never inferring beyond what the message states. Record an update only when the statement does one of three things: adds a new fact the file does not carry; gives the first first-person statement of something the file previously carried only secondhand (an evidence upgrade, recorded once); or contradicts or sits in tension with the existing biography, in which case it is flagged to the curator and never silently reconciled. Statements that merely confirm what the file already carries are not recorded. Present-condition formulas (for example, a spirit stating that they reside in the Celestial Kingdom) follow the same rule: recorded once if the file does not carry them, then treated as confirmations.
 
 ### Related Messages
 
