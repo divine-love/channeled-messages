@@ -4,7 +4,7 @@
 
 Save this file; paste the prompts in order. Attach the listed files each session.
 
-Last updated: 2026-07-19 (chains staging expanded: back-search confirmations, holding-pen witness sightings, portal watch; slug guard refined: unregistered slugs banned from entry lines, candidate slug suggestions welcome in curator-decision notes; pipe heading format stated explicitly; Prompt 2 restatement now covers chain observations)
+Last updated: 2026-07-20 (biography update rule added to spirit-updates staging; spirits/*.yml added to the attachment list so biography can be cross-checked against the files, not only the index; prior update 2026-07-19 expanded chains staging and refined the slug guard)
 
 ---
 
@@ -18,6 +18,7 @@ Last updated: 2026-07-19 (chains staging expanded: back-search confirmations, ho
 - llms.txt (index of all existing messages: for ID collision checks and related_messages candidates)
 - metadata/chains-threads.md (thread registry: for chain proposals)
 - metadata/chains-log.md (chain evidence log: for chain proposals)
+- spirits-digest.txt (regenerate first with: python .github/scripts/generate_spirits_digest.py; one file carrying every spirit biography, for cross-checking biographical statements against what the files already carry. A stale or missing digest means the model can only check names against the index, so regenerate every session)
 - Two or three finished message .md files from the repo, chosen by the curator as exemplars of the quality bar (strong doors, questions, descriptions)
     - 2019-04-08-mc-mary.md
     - 2019-02-22-af-augustine.md
@@ -74,7 +75,7 @@ Do NOT edit any existing file. Instead, stage proposals:
     
 - outputs/chains-proposed.md (append per message): draft chain entries in the exact format of chains-log.md (pipe-separated headings: ### id | Title | date), each line tagged [batch-proposed]. Use the thread registry and design blocks in chains-threads.md to choose roles; never use a thread slug that does not appear in chains-threads.md. For EVERY proposed member role you must include: (a) which existing member of that thread is closest to this message, and (b) one sentence stating what NEW facet this message adds that the closest member does not already carry. If you cannot name a new facet, do not propose a member role; record a witness-level NOTE instead. When unsure between two roles, choose the more modest one. Additionally, for every message: (1) check chains-log.md for an existing entry under that message_id tagged [back-search]; if found, confirm or contradict the provisional role now that the full text is in hand, quoting the deciding passage; (2) check the Holding Pen in chains-threads.md and record a witness sighting for any candidate this message supports (divine-love-healing has a flagged checkpoint at 2016-04-13, inside this document's range); (3) record any sighting relevant to the portal watch in the log. If a message seems to warrant a new thread or holding-pen candidate, describe the pattern; do not mint anything; never use an unregistered slug in an entry line, though you may suggest candidate slug names inside the curator-decision note.
     
-- outputs/spirit-updates-proposed.md: for any biographical detail a message reveals about a spirit, the exact notes text I would add to that spirit's file, citing the message_id. For any new spirit or medium a message requires, a complete draft file, clearly marked DRAFT.
+- outputs/spirit-updates-proposed.md: for any biographical detail a message reveals about a spirit, the exact notes text I would add to that spirit's file, citing the message_id. Propose an update only when the statement adds a new fact the spirit file does not carry, gives the first first-person statement of something the file carries only secondhand, or contradicts the existing biography (contradictions are flagged, never reconciled). Statements that merely confirm what the file already carries are not proposed; list them under No updates as confirmations. For any new spirit or medium a message requires, a complete draft file, clearly marked DRAFT.
     
 
 After the batch of 5, stop and give me a one-paragraph summary of the batch and anything that worried you. Wait for me to say continue.
