@@ -38,6 +38,7 @@ questions:
   - "Why does it take so long to surrender to God's Will?"
 related_messages:
   - 2015-11-30-af-andrew
+  - 2016-08-02-af-augustine
   - 2018-09-01-af-augustine
 audio_url: ""
 canonical_url: ""
@@ -51,7 +52,7 @@ door: >
 collections: ["Service & Mission", "Awakening Humanity"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-06-13
+last_edited: 2026-07-29
 ---
 
 God bless you, my children, I am Confucius.

@@ -34,6 +34,7 @@ questions:
   - "Can spirits of deceased loved ones attend prayer circles?"
 related_messages:
   - 2016-07-25-af-seretta-kem
+  - 2016-07-27-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-many-benefits-of-praying-in-a-circle-of-light/"
 notes: ""

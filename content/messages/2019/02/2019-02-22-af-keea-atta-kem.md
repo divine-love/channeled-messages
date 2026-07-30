@@ -41,6 +41,7 @@ questions:
   - "How do I stay humble while serving God?"
 related_messages:
   - 2015-11-02-af-augustine
+  - 2016-08-11-af-alec-gaunt
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/life-challenges-strengthen-the-soul-creating-more-powerful-channels-of-love/"
 notes: ""
@@ -52,7 +53,7 @@ excerpt: >
 door: >
   The struggle you are enduring is not in the way of your awakening. It is the awakening.
 collections: []
-last_edited: 2026-07-03
+last_edited: 2026-07-29
 ---
 
 May your journeys continue to bring deep soul awakenings, that you may come to know God in ways that are not familiar to you now, but will awaken as you walk upon this path of prayer, as your faculties open with the blessings of the Father's Love, clearing away all that which obstructs the pure sight of your soul, so that God may guide you upon your path, awaken you to the many possibilities that are latent within your soul, but eager to awaken.

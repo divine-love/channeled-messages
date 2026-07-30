@@ -35,6 +35,7 @@ questions:
   - "How do I keep going when the conditions of the world wear me down?"
 related_messages:
   - 2015-11-28-af-alec-gaunt
+  - 2016-08-11-af-alec-gaunt
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -46,7 +47,7 @@ excerpt: >
 door: >
   You cannot argue anyone into the truth. You can only let them watch you live it.
 collections: ["Service & Mission"]
-last_edited: 2026-06-25
+last_edited: 2026-07-29
 ---
 
 May God's perfect Love find a great inflowing into your souls, my friends, and may that Love transform you as it must and affect your thinking, your being, your spirit, your bodies, all that is a part of you. May this Love transform you, for this is what is required, my friends, to do this work, to carry on in this world so in need of teachers and healers, purveyors of Love and Light. For these desperate conditions within the world must change and those who are in these desperate conditions must be given the opportunity to change, to seek for something higher, to put aside their fears and angry thoughts and disruptive natures and realize the value of love, the importance of harmony, the power of gratitude, the bliss that comes with prayer to God.

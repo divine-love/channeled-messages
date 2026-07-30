@@ -33,7 +33,8 @@ questions:
   - "How does God heal wounds I have carried for years?"
   - "What does honest self-examination look like spiritually?"
   - "How do I allow God to transform me completely?"
-related_messages: []
+related_messages:
+  - 2016-08-15-af-alec-gaunt
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-pains-soul-god-needs-strong-clear/"
 notes: >
@@ -43,7 +44,7 @@ notes: >
 essential_teachings: []
 door: >
   God cannot fully use you until you are willing to let Him heal the places you are still protecting
-last_edited: 2026-07-08
+last_edited: 2026-07-29
 ---
 
 God bless you my friends.
