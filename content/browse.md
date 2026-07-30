@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 # Browse All Messages
@@ -298,8 +298,13 @@ last_updated: 2026-07-29
 | [You Are a Harbinger of Love](messages/2016/06/2016-06-27-af-faith-nyquist.md) | Faith Nyquist | Al Fike | 2016‑06‑27 | Stop asking others what your purpose is. The one thing only you can do, God planted in you to find. |
 | [Love with God's Heart of Love](messages/2016/06/2016-06-27-af-jesus.md) | Jesus | Al Fike | 2016‑06‑27 | The understanding you are straining your mind to reach is already dawning in your soul. |
 | [Love Is the True Currency of Life](messages/2016/07/2016-07-04-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑07‑04 | Love is not something to find outside yourself. It is something God pours in when you simply ask |
+| [Receiving Guidance](messages/2016/07/2016-07-04-af-jesus.md) | Jesus | Al Fike | 2016‑07‑04 | There are no calm waters in this world. The stillness you are looking for exists only in the place between you and God. |
 | [The Awakened Soul](messages/2016/07/2016-07-09-af-confucius.md) | Confucius | Al Fike | 2016‑07‑09 | The awakened soul understands Truth in ways the mind simply cannot |
 | [Nurturing the Mind or the Soul: It's a Choice](messages/2016/07/2016-07-10-af-augustine.md) | Augustine | Al Fike | 2016‑07‑10 | The yearning itself is the prayer, and the crack in the armor of the mind is where God enters |
+| [Pray Daily](messages/2016/07/2016-07-11-af-confucius.md) | Confucius | Al Fike | 2016‑07‑11 | Everything you build in your mind is on loan. Only what your soul absorbs is yours to keep. |
+| [Expiation and Purification of the Soul](messages/2016/07/2016-07-13-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑07‑13 | The discomfort you are praying to be rid of may be the answer to the prayer. |
+| [Pursuit of Truth](messages/2016/07/2016-07-18-af-martin-luther.md) | Martin Luther | Al Fike | 2016‑07‑18 | The reformer has come back to tell you he has since released much of what he fought for. |
+| [Power of Prayers Multiplied in Healing Circles](messages/2016/07/2016-07-25-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑07‑25 | The prayer you think is small is being divided by angels and carried to thousands you will never meet. |
 | [You Will All Be Instrumental on the Path](messages/2016/08/2016-08-15-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑08‑15 | You are standing on the threshold of a great work already begun |
 | [Express the Potentials of Your Awakening Souls](messages/2016/08/2016-08-16-af-james.md) | James | Al Fike | 2016‑08‑16 | The treasure house of your soul's gifts is already there, waiting to be discovered |
 | [The Minds of Men Hunger for the Reality that Words Create but the Soul Hungers for Love](messages/2016/08/2016-08-17-af-james-padgett.md) | James Padgett | Al Fike | 2016‑08‑17 | Your unique story of Love is all you need, and your embrace will touch souls your words alone never could |
