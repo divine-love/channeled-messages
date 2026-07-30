@@ -32,14 +32,15 @@ questions:
   - "What is a circle of Light?"
   - "How does group prayer benefit the world?"
   - "Can spirits of deceased loved ones attend prayer circles?"
-related_messages: []
+related_messages:
+  - 2016-07-25-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-many-benefits-of-praying-in-a-circle-of-light/"
 notes: ""
 essential_teachings: []
 door: >
   When souls pray together their Light multiplies beyond what any one could generate alone
-last_edited: 2026-04-13
+last_edited: 2026-07-29
 ---
 
 God bless you, my beloved beloved souls, this is Confucius. Yes, the dear beloved mothers who have passed to this side of life are present with you, my beloveds, as are many many spirits. For each of you have many spirits of all levels of progression with you as you walk in this world. Your Light attracts this, my beloveds. How you are in the world brings those who are curious and those who are drawn by the law of attraction to you, and when you sit in this circle of Love and prayer many spirits are drawn to this Light. Some are curious, some have been brought and many angels surround you, my beloveds, for your work and your efforts to reach for God elicit many responses from my side of life. And as you draw in the angels, each one an angel to assist you in your prayers this night, a great Light is formed, a great Light of healing, and peace, and comfort, and God's Love and presence is part of your beloved circle of Light.

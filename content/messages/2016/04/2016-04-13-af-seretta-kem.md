@@ -9,16 +9,17 @@ location:
   city: Abbotsford
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Seretta Kem acknowledges the many healing energies and practices present in the
-  circle, but teaches that Divine Love — God's Essence poured into the soul
-  through longing and prayer — is the one gift that cannot be passed from person
+  circle, but teaches that Divine Love, God's Essence poured into the soul
+  through longing and prayer, is the one gift that cannot be passed from person
   to person, must come directly from God, and surpasses all other healing
   energies in power, permanence, and transformative effect.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Divine Love Healing"
 secondary_subjects:
+  - "Divine Love & Relationship with God"
   - "Receiving the Divine Love through Prayer"
   - "Healing Through Prayer"
   - "Prayer & Devotion"
@@ -38,26 +39,27 @@ questions:
   - "Is Divine Love available to every soul?"
   - "How does longing for God open the soul to receive His Love?"
 related_messages:
-  - 2015-11-28-af-seretta-kem
   - 2015-10-26-af-seretta-kem
+  - 2015-11-28-af-seretta-kem
   - 2015-12-07-af-john-the-beloved
   - 2016-03-30-af-confucius
+  - 2016-07-25-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-greatest-healing-energy-of-all-is-gods-divine-love/"
 notes: >
   Transcription artifact corrected: 'the power of God's Love is the greatest
   healing energy of all is God's Divine Love ense, beyond measure' changed to
-  'the power of God's Love is the greatest healing energy of all — God's Divine
+  'the power of God's Love is the greatest healing energy of all: God's Divine
   Love, His Essence, beyond measure'.
-essential_teachings: ["Core Teaching"]
+essential_teachings: ["Core Teaching", "Divine Healing"]
 language: en
 excerpt: >
   There is only one blessing which cannot be given from one to another. For it to
   enter your soul it must be given by God through your longing and prayers.
-collections: ["Healing Path"]
 door: >
   One blessing cannot be passed from person to person. It must come directly from God.
-last_edited: 2026-06-29
+collections: ["Healing Path"]
+last_edited: 2026-07-29
 ---
 
 I am Seretta Kem and I am an inhabitant of the Celestial Kingdom where we are close to God and know His Love well. We know His Love and we have our lives within His Love, and our souls ever expand and grow in His Love. And I see amongst this Circle of Light those who use the healing of the Earth, the energies of this Earth, which is often called the magnetic forces of healing, to help others. And I see many of you do various exercises within your bodies to increase the energy flows of your body and your spirit, and yes, there are many elements of energy, many different types of energy that can be utilized for your well-being. And great blessings from God and His healing can be given through your desires and prayers for another and for yourselves.
@@ -70,7 +72,7 @@ You sit in a circle that is flooded with this Love. Like the living waters, you 
 
 We are with you in your prayers, beautiful souls, and each time you say this prayer, 'Father, God, beloved source, open my soul to an inflowing of your Divine Essence', and when you say this prayer with all sincerity, wherever you are and whatever you are doing, you will receive this Gift, for it is in the asking and the longing that it is given. Remember this, beloved souls, to consciously seek this Gift is to open the door to a magnificent journey full of many blessings and openings and changes and healings and all of the great abundant Gifts which God wishes to give to each one of you. It costs you nothing but a prayer, a desire, a small effort and yet you will inherit a whole world of wonderment and joy and beauty.
 
-The choice is yours, beloved souls. The choice is yours. Seek ye the kingdom and all things shall come unto you. This is what our master Jesus taught. He taught about the Gift of God's Love. This is His simple message. This is the Truth. It is simple, but it is the most powerful Truth you will ever come to know. And we gift this Truth to you, beloved souls, for all humanity will receive this Gift if they seek it. There are no favorites. God loves each child equally and the power of God's Love is the greatest healing energy of all — God's Divine Love, His Essence, beyond measure. You will never receive all of it, for that Love is infinite and you will continue to journey to at-onement with God, for all eternity, experiencing ever greater joy, fulfillment; to know the secrets of God's universe, to know all that God reveals in your quest, to know God and to love God and God's desire to envelope you in His Love.
+The choice is yours, beloved souls. The choice is yours. Seek ye the kingdom and all things shall come unto you. This is what our master Jesus taught. He taught about the Gift of God's Love. This is His simple message. This is the Truth. It is simple, but it is the most powerful Truth you will ever come to know. And we gift this Truth to you, beloved souls, for all humanity will receive this Gift if they seek it. There are no favorites. God loves each child equally and the power of God's Love is the greatest healing energy of all: God's Divine Love, His Essence, beyond measure. You will never receive all of it, for that Love is infinite and you will continue to journey to at-onement with God, for all eternity, experiencing ever greater joy, fulfillment; to know the secrets of God's universe, to know all that God reveals in your quest, to know God and to love God and God's desire to envelope you in His Love.
 
 So for those of you who understand the energies that are not clearly seen in the world, yet do indeed exist and can be felt and known and utilized for your benefit, include this Gift, this energy, this Gift from God, His Love. Add this to your understanding, and as you do so many more Truths and elements of God's creation be revealed to you so that you may become powerful healers in the world, that you may become a beacon of Light in the world, that you may walk in the world in the flow of God's Grace and Love, that you may be a servant of His Will, a purveyor of Light and Truth and Love in this world. Each of you longs for this, beloved souls. Each of you has an opportunity to bring greater Light and more harmony into this life for all those around you, for all those you love, for all those you touch and encounter in your life. This Gift enhances all other gifts and informs your soul so that you may truly know yourselves and walk a path that is high, and beautiful, and rich, and deep with meaning.
 

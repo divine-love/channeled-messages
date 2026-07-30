@@ -32,7 +32,8 @@ questions:
   - "How do I find freedom within God's will?"
   - "What is God's plan for the salvation of mankind?"
   - "How do I stop worrying about what others think and follow God?"
-related_messages: []
+related_messages:
+  - 2016-07-18-af-martin-luther
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/gods-will-mans-will/"
 notes: >
@@ -41,7 +42,7 @@ notes: >
 essential_teachings: []
 door: >
   Religious error can be held sincerely, and sincerely held error still needs to be released
-last_edited: 2026-04-13
+last_edited: 2026-07-29
 ---
 
 I am Martin Luther and I come to speak about the Will of God.
