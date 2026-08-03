@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-07-30
+last_updated: 2026-08-03
 ---
 
 # Browse All Messages
@@ -310,9 +310,14 @@ last_updated: 2026-07-30
 | [Your Obstacles Strengthen You in the Light](messages/2016/08/2016-08-11-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑08‑11 | The resistance you are meeting is not delaying the work. It is the training for it. |
 | [The Reluctance to Step Fully into the Light](messages/2016/08/2016-08-15-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2016‑08‑15 | You fear losing everything you have built. Only what was never in harmony with Love will go. |
 | [Every Day Can Be Filled with Light](messages/2016/08/2016-08-15-af-confucius.md) | Confucius | Al Fike | 2016‑08‑15 | You save your gladness for the sunny days. Every day was already full of Light. |
+| [Awaken from Your Slumbers](messages/2016/08/2016-08-15-af-jesus-2.md) | Jesus | Al Fike | 2016‑08‑15 | The awakening is not something you must achieve. It is something you must invite. |
+| [Bring the Light to the Lost Souls](messages/2016/08/2016-08-15-af-jesus.md) | Jesus | Al Fike | 2016‑08‑15 | The people you are sent to do not know they are longing. Your task is to name it for them. |
 | [You Will All Be Instrumental on the Path](messages/2016/08/2016-08-15-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑08‑15 | You are standing on the threshold of a great work already begun |
 | [Express the Potentials of Your Awakening Souls](messages/2016/08/2016-08-16-af-james.md) | James | Al Fike | 2016‑08‑16 | The treasure house of your soul's gifts is already there, waiting to be discovered |
 | [The Minds of Men Hunger for the Reality that Words Create but the Soul Hungers for Love](messages/2016/08/2016-08-17-af-james-padgett.md) | James Padgett | Al Fike | 2016‑08‑17 | Your unique story of Love is all you need, and your embrace will touch souls your words alone never could |
+| [Blessings Are with You in Your Travels](messages/2016/08/2016-08-19-af-andrew.md) | Andrew | Al Fike | 2016‑08‑19 | The errands are not the delay before the work. God's Touch is inside them too. |
+| [Embrace All in the Flow of God's Love](messages/2016/08/2016-08-25-af-brother-mandus.md) | Brother Mandus | Al Fike | 2016‑08‑25 | Confronting a closed mind only closes it further. You are asked to embrace it instead. |
+| [The Great Journey Begins](messages/2016/08/2016-08-25-af-confucius.md) | Confucius | Al Fike | 2016‑08‑25 | So few in the world carry what you carry. That is why you are being sent. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
