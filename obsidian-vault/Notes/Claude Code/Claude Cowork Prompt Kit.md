@@ -4,7 +4,7 @@
 
 Save this file; paste the prompts in order. Attach the listed files each session.
 
-Last updated: 2026-07-20 (biography update rule added to spirit-updates staging; spirits/*.yml added to the attachment list so biography can be cross-checked against the files, not only the index; prior update 2026-07-19 expanded chains staging and refined the slug guard)
+Last updated: 2026-08-03 (staleness guard added to the Prompt 2 restatement: Opus must echo the chains files' last_updated, registry count, and newest log section; Teaching the Prayer Practice ruling added: all spirit-given prayers qualify; prior updates 2026-07-19 and 2026-07-20) (biography update rule added to spirit-updates staging; spirits/*.yml added to the attachment list so biography can be cross-checked against the files, not only the index; prior update 2026-07-19 expanded chains staging and refined the slug guard)
 
 ---
 
@@ -40,6 +40,7 @@ Rules that override everything else, even if you think you have a better idea:
 - Never declare any message a "first" of anything.
 - spirits[] may only contain spirit_ids that already have a file in /spirits/ per the index. If a message mentions a spirit with no file, leave them in the body and keywords and flag it in the report.
 - medium field is a plain "First Last" name, no honorifics.
+- Any prayer given by a spirit earns the subject "Teaching the Prayer Practice", consecrations and dedications included (curator ruling, 2026-08-03). Flag each spirit-given prayer in REVIEW.md as a practice-file candidate as well.
 - When you are uncertain about ANY judgment, choose the conservative option and flag it in the report. In this batch workflow, flagging replaces asking.
 - STOP CONDITIONS: if message boundaries in the document are unclear, if header fields conflict, or if a message body appears truncated or corrupted, stop the batch and report the problem. Never produce a best guess for a message you cannot cleanly extract.
 
@@ -53,7 +54,7 @@ Do not create any files yet. Show me the inventory and wait.
 
 ## PROMPT 2: Confirm inventory (after you review and correct the list)
 
-The inventory is confirmed [with these corrections: ...]. Before we begin processing, restate in your own words: the five hard caps you will enforce with code, what goes in the notes field, what you will do with chain observations, and what you will do when uncertain. Then wait.
+The inventory is confirmed [with these corrections: ...]. Before we begin processing, restate in your own words: the five hard caps you will enforce with code, what goes in the notes field, what you will do with chain observations, and what you will do when uncertain. State also the last_updated date and registry row count of the attached chains-threads.md, and the newest dated section heading in the attached chains-log.md, so a stale attachment announces itself before any cataloguing begins. Then wait.
 
 (This restatement step is cheap insurance that the rules survived into working memory.)
 
