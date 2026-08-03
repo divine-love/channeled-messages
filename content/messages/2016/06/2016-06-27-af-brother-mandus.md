@@ -38,6 +38,7 @@ questions:
   - "How does soul-centred ministry differ from mind-centred ministry?"
 related_messages:
   - 2015-09-27-af-faith-nyquist
+  - 2016-08-25-af-brother-mandus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-will-fulfill-your-mandate-to-be-a-channel-of-love-at-my-home/"
 notes: >
@@ -56,7 +57,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   What is needed is not a strong personality but a humble, prayerful soul
-last_edited: 2026-04-17
+last_edited: 2026-08-02
 ---
 
 …. to receive the benediction of God's Great Love, I am Brother Mandus and I come because, my daughter, of your service to my house and because of all of your connections and desires to serve though this channel in that far off place. And I come to reassure you that the door still remains open for God to work through all of you to bring Light to my country, to bring Truth of God's Love into the rooms and hallways of that place. Yes, the door remains open and though with your minds you see many obstacles and judgements directed towards you, towards all of you, I would say that the time fast approaches when the tables will be turned and that door which is opened will allow you to walk through and do God's work there.

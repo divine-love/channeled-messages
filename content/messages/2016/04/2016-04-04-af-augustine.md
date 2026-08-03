@@ -44,6 +44,7 @@ questions:
   - "What does the Bible mean when it says the labourer is worthy of his hire?"
 related_messages:
   - 2015-08-20-af-faith-nyquist
+  - 2016-08-19-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -57,7 +58,7 @@ excerpt: >
 door: >
   God does not send His servants out unprovided. The worry, not the money, is the barrier.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-07-12
+last_edited: 2026-08-02
 ---
 
 I’ve heard the conversation amongst my students regarding the support that they desire in doing God’s work. They’ve asked for guidance and I am here to give this guidance. First and foremost, when a child embarks upon a mission guided by God, all that is required is provided on every level, including a monetary level, and there should be no need for conflict or worry, a sense of guilt, or a sense that these material and spiritual aspects will not be provided, for indeed they will, and you must not put in front of you barriers to this. But it should also be noted that God’s servants must do so with humility and grace and balance.
