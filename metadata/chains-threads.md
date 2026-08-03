@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-20
+last_updated: 2026-08-03
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -141,6 +141,8 @@ before adding new ones.
 | `conduit-not-scripture` | The recorded message as living conduit, never sacred object | Guidance reaches the soul by rapport -> channelled messages are one form of that guidance -> the rapport does not end at delivery but attends every later reader, so the written record is itself an instrument, not a transcript -> and the words are never sacred, the rapport is, which keeps the message useful while stripping it of authority | Discernment & Truth-Seeking; Religious Error & Reformation |
 | `divine-love-healing` | Divine Love as the greatest healing energy | Divine Love is the one healing that cannot be given from one to another and must come from God through longing and prayer -> it stands among the other healing energies without demoting them, enhancing all other gifts -> its primacy rests on eternality, for nothing else in creation is eternal | Divine Healing; Healing Path |
 | `vanguards-of-change` | The commission to mobile service | God has commissioned these souls as vanguards and will open the doors in His timing -> answering the commission requires releasing material burdens to be free to go wherever guided -> the release is operational, mobility at a moment's notice, and the fears blocking it are unfounded -> the world changes through changed people walking through opened doors | Preparation for Earth Mission; Service & Mission |
+| `prayer-changes-world-conditions` | Prayer as an outward force on the world | Intercessory prayer acts on distant souls and conditions through a describable route: collection in a vessel within the praying circle -> overflow into directed streams -> angelic division, direction, and exponential multiplication -> arrival at thousands never met, with the intended end that God places in them the desire for His Love. FENCE: `earth-conditions-and-prayer` is defensive (the darkness-field met by prayer, respite and protection); this thread is projective (prayer discharged outward to change conditions and souls elsewhere) | Prayer & Devotion; Awakening Humanity |
+| `provision-for-service` | God's provision for God-guided work | When a mission is guided by God, all that is required is provided on every level, including the monetary -> worry, guilt, and conflict are barriers the servant raises, not conditions God imposes, and they work as barriers because they attract what obstructs and exclude the Touch that would otherwise be present -> provision meets requirements, not indulgence -> harmony is the mark of God's Hand upon the work | Faith & Trust; Divine Plan & Timing |
 
 ---
 
@@ -150,7 +152,8 @@ Threads minted from the holding pen at the curator's direction
 (`earth-changes`, `sensitive-souls-redemptive`, `challenges-as-blessings`,
 and `self-love-foundation` on 2026-07-06; `incremental-journey` on
 2026-07-08; `free-will-and-self-responsibility` on 2026-07-11; `conduit-not-scripture`,
-`vanguards-of-change`, and the `divine-love-healing` re-mint on 2026-07-20). Anchors marked;
+`vanguards-of-change`, and the `divine-love-healing` re-mint on 2026-07-20;
+`prayer-changes-world-conditions` and `provision-for-service` on 2026-08-03). Anchors marked;
 back-search roles are provisional pending full text. Per-message log entries
 exist for the anchor-level witnesses; roster-only names await log migration
 as they are processed or back-searched in full.
@@ -173,7 +176,10 @@ as they are processed or back-searched in full.
   hardship strengthens the soul rather than asserting that it does).
   Witnesses: 2015-06-15-af-faith-nyquist, 2015-11-02-af-augustine,
   2016-02-29-af-confucius, 2017-01-25-af-alec-gaunt, 2017-03-27-af-james,
-  2018-08-06-af-solomon, 2019-02-22-af-keea-atta-kem.
+  2018-08-06-af-solomon, 2019-02-22-af-keea-atta-kem. (2026-08-03:
+  presumptive anchor found, 2016-08-11-af-alec-gaunt logged as Foundation;
+  it builds the mechanism, the stake, and the failure mode the criterion
+  named. Build-time confirmation remains.)
 - `self-love-foundation`, minted on the witness roster; anchor awaited (a
   message making self-love its own central argument; Luke is the likeliest
   voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
@@ -220,7 +226,11 @@ as they are processed or back-searched in full.
   other healing energies without demoting them, primacy grounded in
   eternality). Remaining checkpoints to weigh as reached:
   2017-12-12-af-seretta-kem and 2018-07-14-af-seretta-kem (the latter
-  already carries a Reframe in `soul-expiation`).
+  already carries a Reframe in `soul-expiation`). Roster witnesses
+  added 2026-08-03: 2016-07-13-af-seretta-kem (develops the healing without
+  the comparison), 2016-07-25-af-seretta-kem (the comparison in a single
+  closing sentence), and 2016-08-25-af-confucius (the claim in its weakest
+  form).
 - `vanguards-of-change`, (minted 2026-07-20) witnesses in hand:
   2016-01-08-af-jesus (Foundation, presumptive anchor: the commission
   itself), 2016-03-06-af-jesus (Elaboration: the release requirement,
@@ -231,7 +241,26 @@ as they are processed or back-searched in full.
   (2016-05-12-af-alec-gaunt does), but membership here requires the
   commission-and-mobility argument, not readiness alone. The 2016-01-08
   `healing-channel` Elaboration should be weighed for demotion to witness
-  at build, as the pen anticipated when holding this candidate.
+  at build, as the pen anticipated when holding this candidate. Roster witnesses added
+  2026-08-03: 2016-08-11-af-alec-gaunt (the commission materializing in the
+  present tense) and 2016-08-15-af-alec-gaunt (the release half restated);
+  each asserts one half of the argument without development.
+- `prayer-changes-world-conditions`, (minted 2026-08-03 per the pen's own
+  condition, on the arrival of the mechanism): 2016-07-25-af-seretta-kem
+  (Foundation, presumptive anchor: vessel, overflow, angelic division and
+  direction, exponential multiplication, the intended end named). Witnesses:
+  2019-02-06-af-francis-of-assisi, 2015-11-28-af-faith-nyquist (dual-logged
+  as the prayer-soul-longing Foundation), 2018-11-29-af-abdullah-latif,
+  2015-12-21-af-peter, 2016-05-09-af-seretta-kem (the sketch, eleven weeks
+  before the Foundation, same spirit), 2016-07-27-af-confucius (two days
+  after).
+- `provision-for-service`, (minted 2026-08-03): 2016-04-04-af-augustine
+  (Foundation, presumptive anchor) and 2016-08-19-af-andrew (Elaboration,
+  why the barriers work). Witnesses: 2015-08-20-af-faith-nyquist,
+  2015-11-09-af-faith-nyquist, 2016-01-08-af-jesus,
+  2016-08-25-af-confucius. NOTE: shares its 2016-08-19 hinge passage with
+  the `channel-of-love-in-the-material` pen candidate; two arguments, one
+  hinge; see the pen.
 
 ---
 
@@ -240,18 +269,6 @@ as they are processed or back-searched in full.
 Threads suggested by a single message so far. Mint a slug once a second
 message gives them an argument to trace.
 
-- `provision-for-service`, God's provision for God-guided work. The
-  argument: when a mission is guided by God, all that is required is
-  provided on every level, including the monetary -> worry, guilt, and
-  conflict are barriers the servant raises, not conditions God imposes ->
-  provision meets requirements, not indulgence (humility, balance,
-  integrity) -> harmony is the mark of God's Hand upon the work. Developed
-  statement: 2016-04-04-af-augustine (presumptive Foundation if minted;
-  logged). Sightings: 2015-08-20-af-faith-nyquist ("God will provide the
-  means, the buildings, the finances"), 2015-11-09-af-faith-nyquist (God's
-  Will prevails through setbacks), 2016-01-08-af-jesus (doors open in His
-  perfect timing). Mint when a second message develops the argument rather
-  than asserting the provision.
 - `the-fall`, the original state of humanity and the fall from grace.
   Seen: 2016-05-29-af-aman (original state and fall narrative);
   2016-03-31-af-judas (the clearest "offered and declined" statement - God
@@ -299,6 +316,12 @@ message gives them an argument to trace.
   build an argument from it; the Jesus sighting frames it as the opening premise
   of a commissioning into service. Watch for a message that develops the
   argument, then mint.
+  (2026-08-03: strongest sighting yet at 2016-08-19-af-andrew, which argues
+  the principle as a premise serving the newly minted `provision-for-service`;
+  held so this candidate mints on a task-sanctity message that stands free of
+  provision. Asserting sightings also at 2016-06-27-af-faith-nyquist
+  (intention as the criterion; merged late from batch 4) and
+  2016-08-02-af-augustine.)
 - `purpose-of-life`, the simple, developed teaching that the purpose of life
   is to discover who you truly are, to love and be loved, to receive God's Love,
   and to progress toward at-onement with Him; stated as something so simple most
@@ -326,6 +349,8 @@ message gives them an argument to trace.
   2015-09-21-af-mary (sighting); and 2019-04-07-af-augustine (sighting,
   logged: the mind blocks awareness of the gifts, which become self-evident
   as the soul awakens).
+  (2026-08-03 sighting: 2016-06-27-af-faith-nyquist, unique manifestation
+  per soul, asserted; merged late from batch 4.)
 - `two-currents-cosmology`, the macro framing of the world as a contest between
   two currents or streams, one toward darkness and one toward light, with the
   collective movement of awakened souls as the means by which Light overcomes
@@ -342,31 +367,9 @@ message gives them an argument to trace.
   light-overcoming-darkness framing recurs with genuine development rather than
   restatement. Overlaps `bell-toll-instrumentality` (the spreading mechanism)
   but is framed at the level of world-cosmology, not the individual instrument.
-- `prayer-changes-world-conditions`, the intercessory teaching that prayer
-  reaches outward to change the conditions of the world and even the behaviour
-  of those living in ignorance and error, softening hardened hearts and pouring
-  blessings on people and places the pray-er cannot reach directly. Distinct
-  from `prayer-soul-longing` (what true prayer essentially is) and from
-  `earth-conditions-and-prayer` (prayer defending the individual soul against
-  the world's darkness-field): this thread is prayer as an outward force for
-  change in the world and in other souls. Sightings: 2019-02-06-af-francis-of-assisi
-  ("Prayer can change conditions. Prayer can change the behavior of those who
-  violate and are in ignorance and error"); 2015-11-28-af-faith-nyquist (sincere
-  prayer "brings a change in the world, a change into the conditions of this
-  world and into the world of spirit" - currently logged as the prayer-soul-longing
-  Foundation, but it also carries this distinct world-changing claim);
-  2018-11-29-af-abdullah-latif ("Prayer is powerful. Prayer can bring change.
-  Prayer can bring solutions. Prayer can heal"); 2015-12-21-af-peter ("just because
-  you reside in one part of your planet does not mean that through your collective
-  efforts you may not influence the conditions in anyplace in this world");
-  2016-05-09-af-seretta-kem (the strongest sighting to date, held
-  2026-07-20: the steps are sketched, prayer for the Love opens doors, the
-  angels work in conjunction with the circle, the circle itself becomes the
-  portal, and effects reach people and conditions the circle never touches
-  directly, but the mechanism is sketched in clauses, not developed). Mint
-  when a message develops the mechanism (how intercessory prayer acts on another
-  soul or condition) rather than asserting the power. Search-level home meanwhile:
-  subject "Prayer & Devotion."
+  (2026-08-03 sighting: 2016-08-15-af-jesus, world-scale light-overcomes-
+  darkness with the incremental arc, without the two-currents contest
+  framing.)
 - `joy-as-soul-marker`, joy as a readable index of soul condition. Seen:
   2016-04-12-af-andrew (joy "tells you that all is right within you, that
   you are in harmony", and the soul rests in "a perpetual state of joy"
@@ -388,6 +391,28 @@ message gives them an argument to trace.
   earlier Goldie garden message 2015-05-27-af-goldie is a joy blessing, an
   adjacency rather than a second witness. Mint when a second witness states
   the mechanism.
+- `fear-of-full-immersion`, the obstacle to full reception is not
+  unworthiness or error but a near-universal fear of being wholly immersed
+  in the Love. The argument: the seeker tastes the flow but draws back ("a
+  reluctance to enter that pool of water... This is almost universally true
+  with each soul in this world") -> the feared losses run from vulnerability
+  and possessions down to identity itself -> the fear is answered: nothing
+  in harmony is lost, "all will be enhanced." Seen: 2016-08-15-af-alec-gaunt
+  (the developed statement; presumptive Foundation if minted). Fenced from
+  `soul-expiation` (the cleansing, not the refusal to enter it) and
+  `free-will-and-self-responsibility` (the law of choice, not this fear's
+  content). Mint when a second message develops the fear or its answer; the
+  pool-of-water image is distinctive enough to search on.
+- `fortress-of-light`, the light-worker as a target for organized
+  negativity and the building of a daily fortress of prayer against it,
+  explicitly not from fear ("there are many forces that conspire in many
+  different ways, on many different levels to draw you out of the Light...
+  not in a way of fear... but in a way that you reinforce the Light within
+  yourselves"). Seen: 2016-06-04-af-confucius. Distinct from
+  `sensitive-souls-redemptive` (indwelling Love as passive protection;
+  sensitivity as strength): this is active self-protection under targeting.
+  Mint when a second message builds the mechanism of targeted spiritual
+  attack and its defence.
 
 ---
 
@@ -430,7 +455,9 @@ message gives them an argument to trace.
   the Divine Love path, but none of the nine current collections is a clean
   home. Charter candidates: 2016-01-23-af-augustine ("The Power of Prayer"),
   2018-07-30-af-keea-atta-kem ("Prayer"), 2015-11-28-af-faith-nyquist ("The
-  Power of Prayer to Bring Change and Healing"). Watch for more; mint a
+  Power of Prayer to Bring Change and Healing"), and 2016-07-11-af-confucius ("Pray Daily", which
+  argues the daily discipline specifically, which none of the others does).
+  Watch for more; mint a
   collection if they accumulate.
 - Watch for places where chronological order and logical/argument order
   diverge. Working hypothesis: they usually agree. Divergences are interesting
@@ -458,6 +485,17 @@ message gives them an argument to trace.
   completion-describing message appears: 2016-05-16-af-keea-atta-kem
   (witness, logged 2026-07-20). The end-state facet may be the thread's
   eventual Capstone.
+- `bell-toll-instrumentality` holds a deliberate tension: the Capstone
+  (2018-09-01-af-augustine) has the signal going out even in idle silence;
+  2016-08-02-af-augustine grounds the toll in active expression. Same
+  spirit, reconcilable (presence radiates, expression amplifies and
+  directs); held explicitly so neither entry reads as contradicting the
+  other. The Capstone keeps the section anchor.
+- Portal watch is approaching pen-worthiness: the 2019 doctrine's substance
+  (conferred not constructed, located, assigned, prayer-strengthened)
+  appears at 2016-08-25-af-brother-mandus. Draft the candidate after the
+  Blackpool sequence (2016-08-26 and 2016-08-27 Brother Mandus) is
+  catalogued; trace the hardening from 2016-07-25 rather than 2016-03-25.
 - At hundreds of chains, this file will need a real registry/tooling pass.
   Revisit structure before it gets unwieldy.
 - Watch for a "children / the young" theme. It reads as collection-shaped (a
