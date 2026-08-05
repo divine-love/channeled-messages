@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-07-11
+last_updated: 2026-08-03
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
