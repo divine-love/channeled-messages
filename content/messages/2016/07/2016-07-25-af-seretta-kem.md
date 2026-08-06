@@ -45,6 +45,7 @@ related_messages:
   - 2015-06-13-af-confucius
   - 2015-12-21-af-peter
   - 2016-04-13-af-seretta-kem
+  - 2016-09-01-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -59,7 +60,7 @@ door: >
   The prayer you think is small is being divided by angels and carried to
   thousands you will never meet.
 collections: ["Healing Path"]
-last_edited: 2026-07-29
+last_edited: 2026-08-06
 ---
 
 [I am Seretta Kem] and I thank you for allowing me to speak tonight for what I have to say will educate you regarding the efforts you are making in these circles of prayer for healing for this world. Yes, many healers, angelic healers, are with you and many circles of prayer which rise up through the spheres of spirit are joining you in your prayer and efforts for this world. And with this comes a great Light, a portal of Light, directly from God and within this Light are many healing energies, hues of all colors flowing forth. And amongst you within this circle is a great vessel, a vessel that collects these energies. And these energies overflow from this vessel into various streams travelling in all directions in the world. And as this Light and energy and blessing overflows and flows into this world, many angels are directing and dividing this energy to various places in the world. So this one great beam of Light is multiplied over and over again exponentially and touches many, many thousands in the world, not only the children you pray for and those loved ones and those you know, but many, many more.

@@ -44,6 +44,7 @@ questions:
 related_messages:
   - 2015-06-21-af-martin-luther
   - 2016-04-12-af-moses
+  - 2016-08-31-af-martin-luther
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -57,7 +58,7 @@ door: >
   The reformer has come back to tell you he has since released much of what he
   fought for.
 collections: ["Letters from History", "Mind & Soul"]
-last_edited: 2026-07-29
+last_edited: 2026-08-06
 ---
 
 My brethren, I am Martin Luther and I founded a reform movement and continue to reform within myself through the inflowing of God’s Love. It changes all perceptions and understandings of truth. Yes, beloved souls, each of you carries your own beliefs. You have a perspective of the journey that you walk upon in your life and the life beyond. You take great pains to build these perspectives and understandings within yourselves, your minds. You hold them dear. You defend what it is that you think you know. You walk in the constructs of your mind creating your own realities. And I tell you, my friends, much of what you retain within your minds, these perspectives and understandings, these teachings, this collection, often from many different sources of what you call truth is but a shadow of truth. And you, my brethren, who come together to be close to God must realize that as you accomplish your soul’s desires in these efforts and prayers and longings to be close to God, that your thinking will change and that which is within your mind will harmonize with the truth that lies within your souls. And this must be so, for when you receive the blessing of God’s Love within you, when you long for this to inflow into your souls, when you seek truth, sincerely, and with the insight that comes within your souls you must allow the truth that you perceive in this way to infuse every part of your being and to be expressed in your life as closely as you can manage in this difficult world.
