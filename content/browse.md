@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-03
+last_updated: 2026-08-06
 ---
 
 # Browse All Messages
@@ -71,7 +71,7 @@ last_updated: 2026-08-03
 | [Release the Pains of Your Soul, for God Needs You to Be Strong and Clear](messages/2015/06/2015-06-29-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2015‑06‑29 | God cannot fully use you until you are willing to let Him heal the places you are still protecting |
 | [You Must Prepare Yourselves for What Is Coming](messages/2015/06/2015-06-29-af-confucius.md) | Confucius | Al Fike | 2015‑06‑29 | You are entering the calm before the storm. When you enter the storm you must be clothed in the raiments of Light and strong in your relationship with your Heavenly Father |
 | [Be Joyful and Walk in the Light](messages/2015/06/2015-06-29-af-goldie.md) | Goldie | Al Fike | 2015‑06‑29 | Take time to enjoy your life and be happy in this world, for God has given you much and you live in the Light |
-| [The World Is Changing](messages/2015/07/2015-07-06-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2015‑07‑06 | You do indeed live in interesting times, a great shift of consciousness in the world. Very few will know what this means; and you will convey this knowledge and bring comfort to many |
+| [The World Is Changing](messages/2015/07/2015-07-06-af-alec-gaunt.md) | Alec Gaunt | Al Fike | 2015‑07‑06 | You do indeed live in interesting times, a great shift of consciousness in the world. Very few will know what this means — and you will convey this knowledge and bring comfort to many |
 | [Guidance Concerning the Upcoming Retreat: Embrace All Who Are Coming](messages/2015/07/2015-07-06-af-augustine.md) | Augustine | Al Fike | 2015‑07‑06 | Every soul who comes to you is sent. Receive them accordingly |
 | [How Your Soul Is Changed by the Love](messages/2015/07/2015-07-20-af-confucius.md) | Confucius | Al Fike | 2015‑07‑20 | Divine Love does not just comfort the soul. It fundamentally changes its nature |
 | [A Grandmother's Love and Guidance from Spirit](messages/2015/07/2015-07-20-af-marjorie-fike.md) | Marjorie | Al Fike | 2015‑07‑20 | You create an oasis, a place of respite for all who wish to partake of this beautiful blessing and healing and peace |
@@ -119,7 +119,7 @@ last_updated: 2026-08-03
 | [Some Comments on What the Angels Are Doing to Facilitate Our Soul Growth](messages/2015/08/2015-08-19-af-seretta-kem.md) | Seretta Kem | Al Fike | 2015‑08‑19 | While you pray, angels are performing intricate work within and between your souls that you cannot see but will one day fully understand. |
 | [Andrew Encourages All to Bring the Truth of God's Love Forward](messages/2015/08/2015-08-20-af-andrew.md) | Andrew | Al Fike | 2015‑08‑20 | God guided you to this truth through an unremarkable moment. Trust Him to do the same for others |
 | [Augustine Suggests That a Gift Given in Group Prayer Will Benefit Those Praying the Next Day](messages/2015/08/2015-08-20-af-augustine.md) | Augustine | Al Fike | 2015‑08‑20 | God has given you a gift tonight that will work while you sleep; come to prayer tomorrow ready to receive what He has prepared. |
-| [Circles of Light: Form Them Wherever You Go](messages/2015/08/2015-08-20-af-confucius.md) | Confucius | Al Fike | 2015‑08‑20 | A Circle of Light asks nothing complicated of you; just mutual love, a shared intention, and the willingness to let God do the rest. |
+| [Circles of Light: Form Them Wherever You Go](messages/2015/08/2015-08-20-af-confucius.md) | Confucius | Al Fike | 2015‑08‑20 | A Circle of Light asks nothing complicated of you — just mutual love, a shared intention, and the willingness to let God do the rest. |
 | [Encouragement to Establish Centers of Light](messages/2015/08/2015-08-20-af-faith-nyquist.md) | Faith Nyquist | Al Fike | 2015‑08‑20 | Faith built her life around following God's Will without fully knowing Divine Love; she has come back to say the doors are opening and the souls are ready to flood in. |
 | [Release Your Old Ways and Allow God's Love to Bring New Understanding and Love](messages/2015/08/2015-08-20-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2015‑08‑20 | Francis walked away from everything and gained the world; he has come back to say the same road is open to you, one step at a time. |
 | [Express the Truth to Others: Padgett Talks of Why This Is So Important](messages/2015/08/2015-08-20-af-james-padgett.md) | James Padgett | Al Fike | 2015‑08‑20 | The truth you carry is needed, and the world cannot hear it if you keep it to yourself |
@@ -318,6 +318,11 @@ last_updated: 2026-08-03
 | [Blessings Are with You in Your Travels](messages/2016/08/2016-08-19-af-andrew.md) | Andrew | Al Fike | 2016‑08‑19 | The errands are not the delay before the work. God's Touch is inside them too. |
 | [Embrace All in the Flow of God's Love](messages/2016/08/2016-08-25-af-brother-mandus.md) | Brother Mandus | Al Fike | 2016‑08‑25 | Confronting a closed mind only closes it further. You are asked to embrace it instead. |
 | [The Great Journey Begins](messages/2016/08/2016-08-25-af-confucius.md) | Confucius | Al Fike | 2016‑08‑25 | So few in the world carry what you carry. That is why you are being sent. |
+| [The Difference Between Mind and Soul](messages/2016/08/2016-08-25-af-matthew.md) | Matthew | Al Fike | 2016‑08‑25 | If the mind is water, the soul is light. No amount of learning poured into the water will ever make it shine. |
+| [Seek the Light of God's Love](messages/2016/08/2016-08-26-af-augustine.md) | Augustine | Al Fike | 2016‑08‑26 | Everything you lean on for security can be taken from you. The one thing that cannot is never commanded, only offered. |
+| [This House Is Blessed by God](messages/2016/08/2016-08-26-af-brother-mandus.md) | Brother Mandus | Al Fike | 2016‑08‑26 | Your esoteric understanding falls at the feet of the person who walked in hurting. A simple hello goes further. |
+| [You Are Part of God's Salvation for Mankind](messages/2016/08/2016-08-26-af-jesus.md) | Jesus | Al Fike | 2016‑08‑26 | God's plan for the salvation of mankind has no mechanism but the souls who agree to carry it. |
+| [Be Open to New Directions](messages/2016/08/2016-08-27-af-augustine.md) | Augustine | Al Fike | 2016‑08‑27 | The plan you are holding for your own future is one more attachment to set down. God's unfolds a day at a time. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
