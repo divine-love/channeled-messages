@@ -1,50 +1,87 @@
-# Open Items Tracker
-
 # Divine Love Messages Archive
 
-# Compiled 2026-07-19. No em dashes; safe to commit or paste into any session.
+# Refreshed 2026-08-03, replacing the 2026-07-19 tracker. No em dashes; safe
 
-## A. Land this week (mechanical, no judgment needed)
+# to commit. Delete items as they land; numbers are stable references and may
 
-1. Confirm the migrated chains-log.md (68 comma headings to pipes) is committed.
-2. Drop the updated generate_vault.py into .github/scripts/ and regenerate the vault. Expect the chain layer to roughly double: 68 of 127 log entries were previously invisible to the parser.
-3. After regeneration, spot-check two or three chain hubs to confirm the recovered members appear, and glance at the graph.
-4. Check the Notes/ folder for any pathed slug-style hub links (for example [[Subjects/receiving-the-divine-love-through-prayer]]). These dangle after the display-name rename and want updating. Bare message-id links are fine.
-5. Front Matter Title plugin: confirmed working for message notes in the graph. Nothing further needed unless a regeneration resets .obsidian settings.
+# gap over time.
 
-## B. Batch 1 review pass (Opus output, your review loop)
+# Landed since the last tracker, for the record, then gone from this list:
 
-6. REVIEW.md flag 4: confirm the four message_type edge calls (Andrew Guidance, Confucius Guidance, Francis Guidance, Keea Teaching).
-7. REVIEW.md flag 6: confirm collections. Keea Service & Mission versus empty; Goldie empty.
-8. REVIEW.md flag 7: second look at two subjects. Goldie primary Harmony with Nature; Andrew secondary Soul's True Nature (drop if thin).
-9. Paste the five reciprocal related_messages lines into the existing files, in chronological position, sorting any out-of-order list touched.
-10. Check each of the five messages against the online archive; set canonical_url and remove the "Not publicly posted online." note where published.
-11. Back-search check the five batch 1 ids against chains-log.md (the old kit did not instruct this): confirm or contradict any provisional roles now that full text is in hand.
-12. Merge approved chains-proposed.md entries into chains-log.md (remove the [batch-proposed] tag, keep chronological placement) and update the chains-threads.md Holding Pen for approved sightings.
-13. Apply approved spirit updates: francis-of-assisi notes addition (ready); keea-atta-kem "Keea" alias note (only if the file keeps alias forms); confucius Celestial Kingdom line (optional, Opus recommends leaving out).
-14. Run validate_messages.py and commit the batch.
+# chains merged through batch 7 (batches 1-4 and 5-7, all sessions); five
 
-## C. Curation decisions waiting on you (bring to a project session)
+# threads minted (conduit-not-scripture, vanguards-of-change,
 
-15. MINTING DECISION, threshold met: the conduit candidate. Two members in hand, Keea 2016-04-12 (recorded messages carry ongoing angelic accompaniment to each reader) and Moses 2016-04-12 (Objection-removed: the words are not sacred, the rapport is; the message stays useful as conduit). Candidate slugs: conduit-not-scripture (closer to the argument) or message-as-living-channel. Note the same-evening, same-word (rapport) pairing, and Moses's compatible service to religious-error. Decide slug, confirm roles, walk the argument order.
-16. divine-love-healing checkpoint ambiguity: the Holding Pen has been waiting on 2016-04-13 since June, but batch 1's 2016-04-13 (Confucius, Breath of God) has nothing healing-related. Check the Holding Pen entry in chains-threads.md to see which message it actually names. If it is a Seretta Kem message, it may be among the six inventory rows skipped as repo duplicates, meaning the witness check belongs to a curation session against the existing file, not to Cowork. Remaining checkpoints: 2017-12-12 and 2018-07-14 af-seretta-kem.
-17. Three new holding-pen candidates proposed by batch 1, to add if approved: joy as soul-marker (Andrew 2016-04-12, one sighting); simplicity of the path (Francis 2016-04-17, statement plus Testimony, distinct from purpose-of-life); the Earth as healing ground (Goldie 2016-04-19, distinct from earth-changes and earth-conditions-and-prayer).
-18. Excerpt-writing preference: the new vault layout makes the excerpt the threshold of every message page. Decide deliberately whether to prefer direct-quote excerpts over curator-written ones going forward, rather than drifting there.
+# prayer-changes-world-conditions, provision-for-service) plus the
 
-## D. Kit and tooling refinements (small, decided or near-decided)
+# divine-love-healing re-mint; challenges-as-blessings anchor found; the
 
-20. Kit preamble: the four task lines that preceded the kit title in your paste (Take DLSF Messages 2016 doc, etc.) were left out of the produced file. Say if they belong in as a preamble.
-21. Next Cowork session: attach the UPDATED kit, batch 1's MANIFEST.md, and freshly exported reference files.
-22. Possible retirement of the [medium: ...] heading tag class in the chain log: it duplicates the medium initials already in the message id. Future tidy, not urgent.
-23. Chain display names in the vault are title-cased slugs. If one ever reads awkwardly, add a display-title column to chains-threads.md and teach generate_vault.py to read it.
+# judgment-to-love disengagement Elaboration promoted on the Capstone's full
 
-## E. Standing deferred (carried from earlier sessions, unchanged)
+# text; rulings made on Letters from History (two tests), spirit biography
 
-24. Fold validate_subjects.py into the CI pipeline.
-25. chains/ directory (full chain files with build-time ordering) waits until the archive is caught up through 2026. At build time: the who-jesus-was Foundation anchor is a three-way choice (1963-12-26-ds-mary, 2018-11-26-af-jesus, 2019-01-27-af-jesus).
-26. Portal watch ongoing in the log (2016-03-25 through 2019-04-06 boundary).
-27. Possible tenth collection for children and the young; watch the volume of the Children & Future Generations subject.
-28. Usage census data to inform a possible merge of the two Surrender subjects.
-29. audio_url to be populated as recordings are found.
-30. Public website (Astro plus Pagefind on Cloudflare Pages or Netlify) as a considered future direction.
-31. Series file architecture revisit flagged at an earlier milestone. This note predates the series-to-collections rename and the archive passing that count, so confirm whether it is overtaken before acting on it.
+# updates (new facts only), Teaching the Prayer Practice (all spirit-given
+
+# prayers), and silent typos (schema.md reading); vault display names and
+
+# graph titles shipped; batch 1-3 review applied and committed; the
+
+# 2016-01-08 truncation repaired; the kit hardened with the staleness guard;
+
+# two prayer practice files delivered; three new scripts written.
+
+## A. Commit and regenerate (this week)
+
+1. Commit the FINAL chains-log.md and chains-threads.md delivered late on 2026-08-03 (the pair including batch 4 and the judgment-to-love promotion; they supersede the same-day earlier pair). 29 minted threads, 163 log headings.
+2. Commit the updated cowork-prompt-kit.md (staleness guard in Prompt 2, Teaching the Prayer Practice ruling, biography rule, spirits-digest attachment line).
+3. Add the three new scripts to .github/scripts/ and run each once: generate_spirits_digest.py (before every Cowork session), check_body_endings.py (may surface more truncations like 2016-01-08), check_dashes.py (drives item 12).
+
+## B. Rulings you can make in one sitting
+
+9. Three metadata overrides from the session manifest: Core Teaching on 2016-08-02-af-augustine (recommended and withheld); Blessing on 2016-08-15-af-confucius (chosen against the when-in-doubt-Guidance tie-break); the thin Divine Love Healing secondary on 2016-08-25-af-confucius.
+10. Three body-text decisions: number agreement in 2016-07-13-af-seretta-kem ("that is" to "that are"); the trailing "reality" fragment in 2016-08-15-af-alec-gaunt; the straight apostrophe in 2016-08-15-af-confucius.
+
+## C. File fixes known or staged
+
+11. Fold the accumulated rulings into schema.md in one pass, texts already supplied in past sessions: the spirit-biography update rule; the Letters from History two-test definition and Q&A (collections.yml and schema.md 4b); Teaching the Prayer Practice, any spirit-given prayer qualifies; divine pronouns always capitalised; the Teaching/Guidance citation test (cited for its doctrine, or for what it told this circle to do?); house spelling ruled 2026-08-03: judgment (American form) in curator-written prose fields, bodies always as received.
+12. Run check_dashes.py and correct curator-field hits. Known already: spirits/brother-mandus.yml (two), the 2016-06-27-af-brother-mandus description (fix the message file; llms.txt regenerates), 2016-04-12-af-moses description and excerpt, metadata/collections.yml definitions. Body-text hits need per-message approval.
+13. spirits/brother-mandus.yml: "Celestial Kingdoms" plural to singular.
+14. Teaching the Prayer Practice subject additions to two committed files: 2016-05-12-af-augustine and 2016-08-15-af-alec-gaunt.
+15. spirit_name normalization: llms.txt carries 23 Jesus messages as "Jesus" and 25 as "Jesus of Nazareth". Decide the canonical form, then one Claude Code pass.
+16. Practice-file candidates accumulating, create when ready: the 2016-08-15-af-alec-gaunt prayer and the 2016-05-12-af-augustine consecration. practice.schema.yml stays deferred until five or six files exist; the four invariants stand meanwhile.
+17. Spelling sweep for stray "judgement" in curator-written fields; few hits expected, since the curator layer already leans judgment (the 2017-06-15-af-augustine description and the judgment-to-love slug are already correct). Bodies as received are untouched; keywords may keep both spellings for search, as 2017-06-15 already does. Fold into the same sitting as the dash sweep.
+
+## D. Next Cowork session
+
+17. First message: 2016-08-25-af-matthew. It sits between batch 7's last message and 2016-08-26 in the inventory and is easy to skip.
+18. Attach: the updated kit, FRESH chains files (post-commit), a regenerated spirits-digest.txt, and the batch 5-7 MANIFEST. The staleness guard should echo last_updated 2026-08-03 and 29 registry rows; anything else means a stale attachment.
+19. The Blackpool sequence arrives immediately (2016-08-26 and 2016-08-27, Brother Mandus plus Jesus and Augustine on both days): portal material likely, and it may settle the Mandus House dwelling-or-workplace question.
+20. Batch 5 secondaries second look: every message filled all five slots, flagged by the session itself as too eager.
+21. Known bumps ahead in the inventory: header-date versus source-ID mismatches at 2016-08-26-af-brother-mandus and 2016-10-22-af-augustine (use the source-ID date); created titles at 2016-09-04-af-unnamed-spirit, 2016-09-12-af-jerome, 2016-11-27-af-james-reid-2, 2016-12-05-af-care; the James Reid intra-day pair on 2016-11-27.
+
+## E. Curation decisions pending
+
+22. Collections not individually confirmed for batches 1, 3, and 4 (carried from the 2026-07-18 session).
+23. essential_teachings second reads: 2016-05-16-af-simon (Spirit Biography) and 2016-06-06-af-john-the-beloved (Core Teaching).
+24. Excerpt-writing preference: direct quote versus curator-written, now that the excerpt is the threshold of every vault message page. Decide deliberately rather than drift.
+25. divine-love-healing checkpoints at 2017-12-12-af-seretta-kem and 2018-07-14-af-seretta-kem when cataloguing reaches them (the latter already carries a soul-expiation Reframe).
+26. channel-of-love-in-the-material: five sightings across five months; mints on a task-sanctity message that stands free of provision. The best-documented candidate in the pen.
+
+## F. Watches (tracked in the chains files; listed here for orientation)
+
+27. Portal watch approaching pen-worthiness; draft the candidate after the Blackpool sequence is catalogued; trace the hardening from 2016-07-25 rather than 2016-03-25.
+28. The sibling fact (Seretta Kem and Keea Atta Kem): write to the spirit files only when a message relays it. Checked every batch so far; none has.
+29. Mandus House dwelling or workplace (item 19 may settle it); the Marjorie Fike family identity, left deliberately unidentified.
+30. Pen second-witness watches: fear-of-full-immersion (the pool-of-water image is searchable), fortress-of-light, joy-as-soul-marker, simplicity-of-the-path, earth-as-healing-ground.
+
+## G. Standing deferred
+
+31. validate_subjects.py into CI, with scope extended to practice-file subjects (a new unvalidated surface).
+32. chains/ directory build after the 2026 catch-up. Build-time decisions are recorded inside chains-threads.md: the who-jesus-was Foundation anchor three-way, the challenges-as-blessings anchor confirmation, the 2016-01-08 healing-channel demotion weigh, the bell-toll tension anchor.
+33. [medium: ...] heading tag retirement in the log (duplicates the id initials).
+34. Chain display-title column for the vault if a title-cased slug ever reads awkwardly.
+35. Possible tenth collection for children and the young; watch the Children & Future Generations subject volume.
+36. Merge of the two Surrender subjects, informed by the usage census.
+37. audio_url populated as recordings are found.
+38. Public website (Astro plus Pagefind on Cloudflare Pages or Netlify) as a future direction.
+39. Series-architecture note from an early session: predates the collections rename; strike unless you know a reason it should stay.

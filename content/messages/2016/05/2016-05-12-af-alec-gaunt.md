@@ -39,6 +39,7 @@ questions:
   - "Can the world change if I do not change first?"
 related_messages:
   - 2016-04-27-af-alec-gaunt
+  - 2016-08-27-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -51,7 +52,7 @@ door: >
   You are being asked to travel light, because you may be called at a moment's
   notice.
 collections: ["Service & Mission"]
-last_edited: 2026-07-20
+last_edited: 2026-08-05
 ---
 
 God bless you. There are many changes coming, beloved souls, both within you and around you. Each of you will be positioned to become a powerful channel in this world, a channel for truth and Love and in order to have the flexibility to be willing and able to serve in these capacities you must indeed shed more skins and fears, encumbrances, even material encumbrances. In order to be effective, in order that you may pick up at a moment’s notice and be guided to a place, a person, an opportunity to be used in this way you must allow those inner changes to take place. As you continue to grow and discuss these opportunities for service, remember, you must be strong, you must build your faith and you must trust in God’s Wisdom and guidance. At times you will hesitate to make these leaps of faith but I tell you that there is a plan. There is a great plan and to be an effective part of God’s plan for the salvation of mankind, there will be sacrifices which are not truly sacrifices but they will feel like it within your minds, even though your souls will rejoice in these great leaps, adjustments and changes in your life.
