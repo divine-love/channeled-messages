@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2015-10-12-af-augustine
   - 2016-07-10-af-augustine
+  - 2016-08-27-af-brother-mandus
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -55,7 +56,7 @@ door: >
   If the mind is water, the soul is light. No amount of learning poured into
   the water will ever make it shine.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-08-05
+last_edited: 2026-08-06
 ---
 
 I am Matthew and I have come to talk to you about the mind and the soul and how there are different aspects of awareness and consciousness that arise out of these two aspects of your being. If you think of the mind as water, think of the soul as light. In both cases many levels of awareness can be achieved in each aspect of your being but they are different. If the mind is water what you put into the mind colors that water and in some cases changes the composition of that water. And therefore the consciousness of the mind is changeable and influenced highly by the intellect, the learning of each individual, and this becomes an evolving and somewhat crystalizing way of viewing the world.

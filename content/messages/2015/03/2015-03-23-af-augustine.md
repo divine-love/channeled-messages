@@ -30,6 +30,7 @@ questions:
   - "What does it mean to work toward the fulfillment of God's Will?"
 related_messages:
   - 2015-12-21-af-peter
+  - 2016-08-27-af-jesus
   - 2017-09-12-af-confucius
   - 2018-03-26-af-james
 audio_url: ""
@@ -46,7 +47,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   They will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right
-last_edited: 2026-04-23
+last_edited: 2026-08-06
 ---
 
 And they will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right. Continue in your efforts, work towards this fulfilling of God's will and purpose. You will find your way, my beloveds. This will come in short measure and in full measure. God bless you and keep you within the flow of His Love. I am Augustine and I love you, God bless you.

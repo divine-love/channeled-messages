@@ -37,7 +37,7 @@ essential_teachings:
   definition: >
     Establishes or clarifies core doctrine, vision, or mission of the
     Divine Love path. These are the messages that form the theological
-    and spiritual foundation of the archive — teachings a newcomer
+    and spiritual foundation of the archive; teachings a newcomer
     would be directed to first, and that curators return to when
     seeking clarity on the path's central truths.
 
@@ -45,14 +45,14 @@ essential_teachings:
   definition: >
     Describes, demonstrates, or teaches the mechanics of divine healing.
     Includes both accounts of healing events and instruction on how
-    divine healing works — through prayer, soul purity, and the
+    divine healing works; through prayer, soul purity, and the
     inflowing of God's Love. Distinct from the Healing Path collection,
     which is thematic; this flag marks messages of particular
     significance within that theme.
 
 - name: "Historical"
   definition: >
-    Of particular historical importance in the archive — messages that
+    Of particular historical importance in the archive. Messages that
     mark a significant moment in the history of the Divine Love
     movement, the development of a circle, or the record of an event
     that will be of lasting interest to researchers and historians
@@ -60,7 +60,7 @@ essential_teachings:
 
 - name: "Milestone"
   definition: >
-    Marks a significant moment in the archive's history — the
+    Marks a significant moment in the archive's history; the
     establishment of a circle, the beginning or end of a major
     gathering, a notable first, or another event that represents a
     threshold in the unfolding of the Divine Love mission.

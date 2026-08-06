@@ -57,7 +57,7 @@ door: >
   Confronting a closed mind only closes it further. You are asked to embrace it
   instead.
 collections: ["Letters from History"]
-last_edited: 2026-08-05
+last_edited: 2026-08-06
 ---
 
 God bless you, beautiful souls. I am Brother Mandus and I see that you carry your banner of truth. Each one of you comes here to bring the truth, the truth of Love and how Love redeems the soul, and how Love is the greatest power of all. And this truth you bring with your presence and the grace that flows all about you and through you. And this is what you carry, into my house and you are welcomed, heartily welcomed, into my home for I wish that my home be a place of Light, of Love, a place of healing, a place where all who enter the door are embraced with love, are cared for and are respected. That was always my philosophy and I wish for this attitude and this demeanor and this flow of Love to continue within this place.

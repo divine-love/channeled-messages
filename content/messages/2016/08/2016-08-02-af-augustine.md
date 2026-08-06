@@ -48,7 +48,7 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Not publicly posted online.
-essential_teachings: []
+essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   To be an example, to walk in simplicity and grace, this teaches more than a
@@ -57,7 +57,7 @@ door: >
   This truth needs almost no explaining. What it needs is someone willing to be
   it.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-08-02
+last_edited: 2026-08-06
 ---
 
 It is your teacher Augustine. I have been with you as you have worked today to bring about some lessons and teachings that you will spread over the wires and we have helped you to articulate these truths in simple and clear ways. We will continue to assist you in these matters and assist you in the writing of books and transcripts of truth, for God wishes that all of humanity will come to know the possibility of receiving His Love within their souls. This simple truth must be conveyed in simple language and with heartfelt sense of commitment and truth towards understanding of these laws and truths pertaining to the Divine Love. And those of you who wish to teach these truths, to bring about Circles of Light, to touch other souls who are curious and open to this, I tell you that we will assist you in these efforts, we will stand by you and we will inspire you, for the time grows short for you to reach out into the world and bring these truths.
