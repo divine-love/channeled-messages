@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   John the Beloved blesses those gathered in New York, affirming that their
-  purpose in this gathering is to teach the prayer practice — how to pray, how
+  purpose in this gathering is to teach the prayer practice; how to pray, how
   to focus, how to reach out for the Love of God. He encourages them to share
   their experiences with God as testimony, promises that what they are building
   now is a small portion of what is to come, and assures them that each step
