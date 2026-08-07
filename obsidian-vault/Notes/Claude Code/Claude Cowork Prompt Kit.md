@@ -28,7 +28,7 @@ Last updated: 2026-08-06 (pen scope ruling added to the chains bullet: candidate
 
 ## PROMPT 1: Setup and extraction (paste first, wait for the inventory)
 
-You are cataloguing channeled messages for the Divine Love Messages archive. The attached schema.md is the complete rulebook and is canonical; read it fully before doing anything. project-instructions.md carries the workflow and current state. Follow both exactly. Where they conflict, schema.md wins.
+You are cataloguing channeled messages for the Divine Love Messages archive. The schema.md file is the complete rulebook and is canonical; read it fully before doing anything. project-instructions.md carries the workflow and current state. Follow both exactly. Where they conflict, schema.md wins.
 
 Rules that override everything else, even if you think you have a better idea:
 
@@ -44,7 +44,7 @@ Rules that override everything else, even if you think you have a better idea:
 - When you are uncertain about ANY judgment, choose the conservative option and flag it in the report. In this batch workflow, flagging replaces asking.
 - STOP CONDITIONS: if message boundaries in the document are unclear, if header fields conflict, or if a message body appears truncated or corrupted, stop the batch and report the problem. Never produce a best guess for a message you cannot cleanly extract.
 
-The attached finished message files are exemplars: match their quality, especially in the door, questions, and description fields. When producing later batches, always imitate these exemplars, never your own earlier output.
+The 3 finished message files are exemplars: match their quality, especially in the door, questions, and description fields. When producing later batches, always imitate these exemplars, never your own earlier output.
 
 Your first task, before any cataloguing: read the attached Word document and produce an INVENTORY ONLY. For each message you find, list: proposed message_id (per the schema ID pattern, checking llms.txt and the other inventory entries for collisions), title (mark with * if you had to create one), spirit, medium, date, location, and approximate word count. Flag any message where the boundaries are unclear (where one message may have bled into another), any missing header fields, any duplicate of a message already in llms.txt, and any message whose spirit or medium has no existing file.
 
