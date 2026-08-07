@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-08-05 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
+Generated 2026-08-07 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -204,7 +204,7 @@ spirit_description: >
   Confessions and City of God. In the Divine Love messages, Augustine candidly
   acknowledges that in playing a major role in developing the church of Christ
   he encouraged many erroneous beliefs and understandings of Jesus's true
-  message — a responsibility he now works to correct. After entering spirit he
+  message, a responsibility he now works to correct. After entering spirit he
   discovered the Truth of Divine Love, prayed earnestly to receive it, ascended
   through the spirit spheres, and entered the Celestial Kingdom. He now serves
   as a primary teacher in the Divine Love circles, speaking more frequently
@@ -215,6 +215,11 @@ notes: >
   confesses teaching error still persisting in the church) and
   2015-03-28-af-augustine (identifies himself as bishop of Hippo, describes
   his own ascension into the Celestial Kingdom).
+
+  From 2016-09-02-af-augustine, the duration and the ground of his present
+  condition, stated together for the first time in the messages in hand: "I
+  have spent many centuries in the world of Spirit and I now reside within the
+  Celestial Heavens, for my soul has been redeemed by the Father's Love."
 
 ========================================================================
 FILE: spirits/barbara-davies.yml
@@ -233,9 +238,33 @@ FILE: spirits/brother-mandus.yml
 spirit_id: brother-mandus
 spirit_name: "Brother Mandus"
 spirit_aliases: ["Mandus Nyquist", "Beaumont Nyquist Mandus"]
-spirit_description: "Beaumont Nyquist Mandus (1888–1988), widely known as Brother Mandus, was a prominent English spiritual teacher, healer, and leading exponent of the New Thought Movement. Born in Hartlepool, England, he founded the World Healing Crusade (now the World Healing Centre) in 1948, headquartered at Mandus House in Blackpool, where he served until his death at age 100. He authored numerous books including The Christ Within and Power Thinking, published the free monthly magazine Crusader, and delivered inspired speeches to large audiences worldwide. He viewed his work as 'positive Christianity' bridging New Thought principles with orthodox church tradition. By his own account in the Divine Love messages, he acknowledges that while his heart understood simple Truths of Love and Grace, he was also enthralled with his own image and worked in ways of the mind — not yet fully grasping the deeper Truth of Divine Love. Now an inhabitant of the Celestial Kingdoms, he communicates in the messages with particular concern for the ongoing work at the World Healing Centre and the souls who gather there."
+spirit_description: >
+  Beaumont Nyquist Mandus (1888–1988), widely known as Brother Mandus, was a
+  prominent English spiritual teacher, healer, and leading exponent of the New
+  Thought Movement. Born in Hartlepool, England, he founded the World Healing
+  Crusade (now the World Healing Centre) in 1948, headquartered at Mandus House
+  in Blackpool, where he served until his death at age 100. He authored numerous
+  books including The Christ Within and Power Thinking, published the free
+  monthly magazine Crusader, and delivered inspired speeches to large audiences
+  worldwide. He viewed his work as 'positive Christianity' bridging New Thought
+  principles with orthodox church tradition. His own account of his Earth life
+  in the Divine Love messages holds two registers side by side: that while his
+  heart understood simple Truths of Love and Grace, he was also enthralled with
+  his own image and worked in ways of the mind, not yet fully grasping the
+  deeper Truth of Divine Love; and that his greatest, happiest, and most
+  blessed times were found in loving, giving, and dedicating himself wholly to
+  service. In the messages he speaks first as host of the sanctuary at his
+  former home, holding his standard for the house, and, from 2016-08-27, also
+  as a doctrinal voice in his own right, teaching on the soul's nature and its
+  enduring reality. Now an inhabitant of the Celestial Kingdom, he communicates
+  with particular concern for the ongoing work at the World Healing Centre and
+  the souls who gather there.
 notes: >
- Possible connection to Faith Nyquist through the Nyquist surname — to be confirmed if addressed in future messages. Son Conrad Nyquist continued the healing services after his death. The World Healing Centre sold its Blackpool headquarters in 2024 and reinvented its operations. His daughter-in-law is Faith Nyquist. 2016-06-27-af-faith-nyquist Faith refers to "my father-in-law." Gives his own standard for the house in 2016-08-25-af-brother-mandus: "I wish
+  His daughter-in-law is Faith Nyquist; in 2016-06-27-af-faith-nyquist Faith
+  refers to "my father-in-law." Son Conrad Nyquist continued the healing
+  services after his death. The World Healing Centre sold its Blackpool
+  headquarters in 2024 and reinvented its operations. Gives his own standard
+  for the house in 2016-08-25-af-brother-mandus: "I wish
   that my home be a place of Light, of Love, a place of healing, a place where
   all who enter the door are embraced with love, are cared for and are
   respected. That was always my philosophy and I wish for this attitude and this
@@ -245,6 +274,38 @@ notes: >
   visiting circle to help bring it forth more powerfully: "The intensity of this
   Light will bring many manifestations of God's Will, and healing, and Love into
   this part of the world."
+
+  From 2016-08-26-af-brother-mandus, his own assessment of his Earth life:
+  "I found in my life that when I loved and when I gave and when I dedicated
+  myself to service that these were the greatest times in my life, the
+  happiest times, the most productive times, and the most blessed times. It
+  was in service, it was in giving of myself wholly and freely to others that
+  I found my great joy and fulfillment of my soul."
+
+  2016-08-26-af-brother-mandus extends that standard to what is taught in the
+  building: "it is my wish that the Master Jesus may walk within this place
+  freely and his truths may be taught freely within this building for they are
+  the truths of love and liberation, of exploring and expanding of the soul, of
+  expressing gratitude by bringing healing and peace and comfort to the lost
+  souls in this world." He states in the same message that "this house was
+  dedicated to God and it is to be used in God's service", and asks that truth
+  "be spoken plainly so that all can understand" rather than through the values
+  and understandings of esoteric religions, which "falls at the feet of those
+  who come for nurturance and comfort and healing."
+
+  From 2016-08-27-af-brother-mandus, his own judgment on his published work:
+  "I have learned much since I have come into the world of spirit and I cannot
+  say that I am entirely pleased with some of my earlier writings, for some
+  missed the mark, I was but human. Much does indeed lead to some truth, a
+  measure of truth, but I tell you that I did so, these writings and my
+  efforts and my speeches and my healings, I did so for the love of God."
+  In the same message he names what sustained him: "Knowing how much God loved
+  me was my sustaining grace, my great joy in life." He states that he did not
+  clearly understand the Divine Love teaching while on Earth, though he "had
+  inklings and insights" and "felt the Love of God", and that his present
+  clarity came after death: "now I have come to see clearly as I have
+  traversed the spheres of spirit, as I have entered into the Celestial
+  Kingdom."
 
 ========================================================================
 FILE: spirits/care.yml
@@ -338,6 +399,13 @@ notes: >
   institution outright in her own words; the identification rests on the title
   and cross-message context rather than an explicit statement.
   Refers to her father-in-law, Brother Mandus (Mandus Nyquist): "my father-in-law is very pleased that you continue to persevere." ( Brother Mandus channelled to the same circle the same day, 2016-06-27-af-brother-mandus. Source: 2016-06-27-af-faith-nyquist.
+
+  2016-08-29-af-faith-nyquist strengthens but does not settle the World
+  Healing Centre identification: speaking to a circle gathered in the
+  Blackpool building, she calls it "my home" ("your efforts to bring God's
+  Will into my home"), four days after Brother Mandus welcomed the same circle
+  into what he calls his home in the same place (2016-08-26-af-brother-mandus).
+  She still does not name the institution.
 
 ========================================================================
 FILE: spirits/francis-of-assisi.yml
@@ -779,7 +847,7 @@ FILE: spirits/martin-luther.yml
 spirit_id: martin-luther
 spirit_name: "Martin Luther"
 spirit_aliases: []
-spirit_description: "Martin Luther (1483-1546), the German theologian and Augustinian monk whose Ninety-Five Theses sparked the Protestant Reformation, challenging the authority of the Catholic Church and reshaping Christianity in the Western world. Now a celestial spirit, he is a passionate advocate for aligning with God's Will above the will of man, drawing on his own earthly experience of opposition and persistence in service."
+spirit_description: "Martin Luther (1483–1546), the German theologian and Augustinian monk whose Ninety-Five Theses sparked the Protestant Reformation, challenging the authority of the Catholic Church and reshaping Christianity in the Western world. Now a celestial spirit, he is a passionate advocate for aligning with God's Will above the will of man, drawing on his own earthly experience of opposition and persistence in service."
 notes: >
   Speaks of his Earth life work and its revision in spirit: "I founded a
   reform movement and continue to reform within myself through the inflowing
@@ -791,6 +859,17 @@ notes: >
   have released to allow the infusion of soul truth." He credits Jesus with
   leading spirits to these realizations and holds that the label put upon the
   gift of God's Love does not matter. (2016-07-18-af-martin-luther)
+
+  From 2016-08-31-af-martin-luther, delivered in Germany, his own account of
+  the faculty behind his Earth work: "In my time my thinking was different and
+  my efforts were born mainly of the mind, the material mind. Although
+  something within me motivated me, something within my soul, God did indeed
+  guide me, strengthen me, show me the way." He describes himself as "a man of
+  rules, of intellect, but I was also a man who desired that the world change
+  for the better," names his original aim as freedom to worship without the
+  control of dogma, and states that it persists: "that we would all have
+  freedom to worship God in our own way and this, beloved souls, is still my
+  desire." He calls the gathering to "start a new Reformation."
 
 ========================================================================
 FILE: spirits/mary-magdalene.yml
@@ -851,6 +930,9 @@ notes: >
   and changed those present, bringing relief, joy, and a closeness with God they
   had not felt before. This places him among the disciples who received the
   Pentecost.
+  Present condition from 2016-08-25-af-matthew: Matthew places himself among
+  those who now reside in the Celestial Heavens, speaking in the first person
+  plural, "we who reside in the Celestial Heavens give you an invitation."
 
 ========================================================================
 FILE: spirits/michael.yml
@@ -1002,6 +1084,14 @@ notes: >
   your healing, the expiation of your souls, and the cleansings of your bodies
   and of your spirits." (2016-07-13-af-seretta-kem)
 
+  From 2016-09-01-af-seretta-kem, an open invitation to be called upon: "when
+  you need my help, ask for me by name and I will come to you in an effort to
+  help you with whatever you are struggling with, for as an angel in the
+  Celestial Heavens our great task and our great joy is to serve all spirits
+  and mankind in love." He states in the same message that he continues as a
+  healer both in spirit and, when he can be used as God's channel, in this
+  world.
+
 ========================================================================
 FILE: spirits/simon.yml
 ========================================================================
@@ -1036,7 +1126,7 @@ spirit_description: >
   built the First Temple in Jerusalem and presided over Israel's golden age of
   prosperity and learning. In the Divine Love messages, Solomon speaks candidly
   about the limits of his famous Earth life wisdom, describing it as the product
-  of the intellect rather than the soul; myth and legend built on mental
+  of the intellect rather than the soul — myth and legend built on mental
   faculties rather than soul perception. He has since progressed in spirit and
   become a Celestial Angel through the redemption of God's Love within his soul,
   and now comes as a guide to seekers whose intellectual hunger outpaces their
@@ -1044,7 +1134,7 @@ spirit_description: >
   mental speculation to the deeper knowing that comes through Divine Love.
 notes: >
   Key biographical message: 2015-11-23-af-solomon (King Solomon Talks about How
-  to Obtain True Wisdom) Solomon identifies himself as now a Celestial Angel
+  to Obtain True Wisdom) — Solomon identifies himself as now a Celestial Angel
   through Divine Love redemption, and reflects that his legendary Earth life
   wisdom was intellectual rather than soul-based.
 
@@ -1069,7 +1159,7 @@ spirit_description: >
 notes: >
   Key biographical messages: 2019-01-26-af-sri-yarisupta (Questions Answered
   about Divine Love Healing); 2019-01-27-af-sri-yarisupta (What's in a Name?)
-  Clarifies that Sri Yarigupta is his formal name and Sri Yarisupta a
+  — clarifies that Sri Yarigupta is his formal name and Sri Yarisupta a
   childhood familiar name. Identified as a Celestial Kingdom inhabitant and
   wonderful teacher and healer by Augustine in 2019-01-26-af-augustine.
 
@@ -1181,7 +1271,7 @@ spirit_description: >
   eager to support its work from the spirit world.
 notes: >
   Key biographical message: 2019-01-25-af-victoria (Continue Your Efforts)
-  Victoria identifies herself as once Queen of England and discloses that
+  — Victoria identifies herself as once Queen of England and discloses that
   she participated in spirit circles during her Earth life, describing them
   as of lower calibre and light than this circle.
 
