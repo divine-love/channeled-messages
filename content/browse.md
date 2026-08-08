@@ -337,7 +337,17 @@ last_updated: 2026-08-08
 | [I Am Your Brother](messages/2016/09/2016-09-02-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑09‑02 | The one you were taught to worship says he is not God, but a man who found the way and opened the door behind him. |
 | [Pray for Mankind](messages/2016/09/2016-09-03-af-james.md) | James | Al Fike | 2016‑09‑03 | Look into the eyes of anyone you pass and you will find the same hunger that brought you here. |
 | [Love Brings Resolution to Disturbances](messages/2016/09/2016-09-03-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑09‑03 | Confronting her will only entrench her. Love is the one thing that has ever brought a disturbance to rest. |
+| [Continue in Your Service](messages/2016/09/2016-09-04-af-augustine.md) | Augustine | Al Fike | 2016‑09‑04 | You have been serving all along without seeing it. Every street you walk down, souls are touched. |
+| [God's Love Is the Key](messages/2016/09/2016-09-04-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑09‑04 | People turn away not because it fails but because it works, and what it changes is them. |
 | [Blessings for Each](messages/2016/09/2016-09-04-af-unnamed-spirit.md) | Unnamed Spirit | Al Fike | 2016‑09‑04 | You have found something of great value. Now look at everyone you meet with it. |
+| [Be Secure upon the Path](messages/2016/09/2016-09-05-af-andrew.md) | Andrew | Al Fike | 2016‑09‑05 | Knowing the truth is rare. Acting on it is rarer still, and that is the only part God can use. |
+| [Be with God](messages/2016/09/2016-09-06-af-joseph.md) | Joseph | Al Fike | 2016‑09‑06 | You are still looking for answers. The pull that brought you here is the answer. |
+| [You Will Be Healed](messages/2016/09/2016-09-06-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑09‑06 | The physicians' hands are not the only hands in the room. |
+| [You Are Cradled in His Care](messages/2016/09/2016-09-07-af-confucius.md) | Confucius | Al Fike | 2016‑09‑07 | Your doubt is not depth. It is clutter, and it is standing between you and something very simple. |
+| [You Are My Disciple Here](messages/2016/09/2016-09-08-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑09‑08 | You prayed for help, and the answer that came back was that you would be the help. |
+| [Put Away Your Shield and Your Armour and Lead with Love](messages/2016/09/2016-09-09-af-andrew.md) | Andrew | Al Fike | 2016‑09‑09 | Your armour is not protecting you. Joining the suspicion is the only thing that can still hurt you. |
+| [Nurture Your Soul](messages/2016/09/2016-09-09-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑09‑09 | The thirst is never quenched, and that is not the problem. That is the point. |
+| [You Have Joined a Network of Light](messages/2016/09/2016-09-10-af-andrew.md) | Andrew | Al Fike | 2016‑09‑10 | One night of praying together changes every prayer you pray alone afterwards. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
