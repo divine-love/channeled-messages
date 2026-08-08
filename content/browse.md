@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Browse All Messages
@@ -333,6 +333,11 @@ last_updated: 2026-08-07
 | [Group Prayer Multiplies Blessings](messages/2016/09/2016-09-01-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑09‑01 | Praying together does not divide the blessing between you. It multiplies what each one of you receives. |
 | [Seek God's Peace](messages/2016/09/2016-09-02-af-andrew.md) | Andrew | Al Fike | 2016‑09‑02 | You keep asking for proof that God has touched you. The proof is the quietness you are already sitting in. |
 | [Natural Love and Divine Love](messages/2016/09/2016-09-02-af-augustine.md) | Augustine | Al Fike | 2016‑09‑02 | You may be carrying the gift already and not know it, because nobody ever told you how it differs from ordinary love. |
+| [God Has Lit a Spark Within You](messages/2016/09/2016-09-02-af-confucius.md) | Confucius | Al Fike | 2016‑09‑02 | God lit the spark without asking your permission. The only choice left to you is whether you resist what it burns away. |
+| [I Am Your Brother](messages/2016/09/2016-09-02-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑09‑02 | The one you were taught to worship says he is not God, but a man who found the way and opened the door behind him. |
+| [Pray for Mankind](messages/2016/09/2016-09-03-af-james.md) | James | Al Fike | 2016‑09‑03 | Look into the eyes of anyone you pass and you will find the same hunger that brought you here. |
+| [Love Brings Resolution to Disturbances](messages/2016/09/2016-09-03-af-mary.md) | Mary, Mother of Jesus | Al Fike | 2016‑09‑03 | Confronting her will only entrench her. Love is the one thing that has ever brought a disturbance to rest. |
+| [Blessings for Each](messages/2016/09/2016-09-04-af-unnamed-spirit.md) | Unnamed Spirit | Al Fike | 2016‑09‑04 | You have found something of great value. Now look at everyone you meet with it. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
