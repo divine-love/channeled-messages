@@ -1,5 +1,5 @@
 ---
-practice_id: prayer-joseph-i-am-with-you-beloved-father
+practice_id: prayer-2016-09-06-af-joseph
 title: "I Am with You, Beloved Father"
 type: prayer
 source_message: 2016-09-06-af-joseph
@@ -22,11 +22,13 @@ notes: >
   Appears in the source message in italics, introduced with "One soul saying"
   and offered as an illustration of how the Earth and humanity will change,
   one soul at a time. A declaration of commitment rather than a petition. The
-  source carries no terminal punctuation and none has been added. Not publicly
+  prayer is quoted mid-sentence in the source and so carries no terminal
+  punctuation there; a full stop is supplied here for the standalone text, per
+  the practice file convention. The message body is unchanged. Not publicly
   posted online.
 last_edited: 2026-08-08
 ---
-I am with You beloved Father; I am with You in Your Love. I will walk with You, I will talk with You, I will listen to Your response, I will be open to the gifts You have to give me, Your Love to flow towards me, Your guidance showing me the way
+I am with You beloved Father; I am with You in Your Love. I will walk with You, I will talk with You, I will listen to Your response, I will be open to the gifts You have to give me, Your Love to flow towards me, Your guidance showing me the way.
 
 ---
 *Given by Joseph through Al Fike, September 6, 2016. The full message is at [2016-09-06-af-joseph](../messages/2016/09/2016-09-06-af-joseph.md).*
