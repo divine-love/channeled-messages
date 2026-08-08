@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Browse All Messages
@@ -328,6 +328,11 @@ last_updated: 2026-08-06
 | [Pray for the World Healing Centre](messages/2016/08/2016-08-28-af-faith-nyquist.md) | Faith Nyquist | Al Fike | 2016‑08‑28 | A centre for healing the world is only that if the world can get through the door. |
 | [Come Down to the River](messages/2016/08/2016-08-28-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑08‑28 | You have been sipping from the bank. He is asking you to take your assumptions off and get in. |
 | [This Place Has a Role to Play](messages/2016/08/2016-08-29-af-faith-nyquist.md) | Faith Nyquist | Al Fike | 2016‑08‑29 | Years of prayer have brought you to a door standing open. The last barrier left is the one you are still holding. |
+| [Welcome to Frankfurt](messages/2016/08/2016-08-31-af-martin-luther.md) | Martin Luther | Al Fike | 2016‑08‑31 | The man who led the first Reformation says his own was born of the mind. He is asking for one born of the soul. |
+| [Be Open to God's Love](messages/2016/09/2016-09-01-af-jesus.md) | Jesus | Al Fike | 2016‑09‑01 | Forgiveness is not the reward waiting at the end of healing. It is the door you have to open first. |
+| [Group Prayer Multiplies Blessings](messages/2016/09/2016-09-01-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑09‑01 | Praying together does not divide the blessing between you. It multiplies what each one of you receives. |
+| [Seek God's Peace](messages/2016/09/2016-09-02-af-andrew.md) | Andrew | Al Fike | 2016‑09‑02 | You keep asking for proof that God has touched you. The proof is the quietness you are already sitting in. |
+| [Natural Love and Divine Love](messages/2016/09/2016-09-02-af-augustine.md) | Augustine | Al Fike | 2016‑09‑02 | You may be carrying the gift already and not know it, because nobody ever told you how it differs from ordinary love. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
