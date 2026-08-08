@@ -34,7 +34,9 @@ questions:
   - "How can I feel close to God in nature?"
   - "What does it actually mean to accept God's Will?"
   - "Is it possible to live a peaceful life in a demanding world?"
-related_messages: []
+related_messages: 
+  - 2016-09-07-af-confucius
+  - 2016-09-09-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -47,7 +49,7 @@ door: >
   Complication is a human invention. The way God made is simple, and that is
   exactly what makes it hard to accept.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-19
+last_edited: 2026-08-07
 ---
 
 May God’s great Love infill your souls and bring you ever closer to the great fountainhead of Love, the source of Light, the great river of Love.

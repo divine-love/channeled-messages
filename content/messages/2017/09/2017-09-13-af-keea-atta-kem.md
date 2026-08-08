@@ -45,6 +45,7 @@ questions:
 related_messages:
   - 2015-12-21-af-peter
   - 2016-03-21-af-augustine
+  - 2016-09-06-af-mary
   - 2016-12-07-af-andrew
   - 2017-09-12-af-augustine
   - 2017-09-12-af-confucius
@@ -64,7 +65,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
-last_edited: 2026-07-04
+last_edited: 2026-08-07
 ---
 
 I am Keea Atta Kem. I have come to speak to you of the changes in this world, the changes that have already happened and the changes that are going to happen. At present those changes within the world are not particularly noticed except when they bring some heartache to those people who are directly affected as the weather changes.

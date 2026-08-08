@@ -44,6 +44,7 @@ questions:
 related_messages:
   - 2015-06-29-af-alec-gaunt
   - 2016-08-28-af-francis-of-assisi
+  - 2016-09-04-af-john-the-beloved
   - 2019-02-22-af-augustine
 audio_url: ""
 canonical_url: ""
@@ -60,7 +61,7 @@ door: >
   You fear losing everything you have built. Only what was never in harmony with
   Love will go.
 collections: ["Service & Mission"]
-last_edited: 2026-08-06
+last_edited: 2026-08-07
 ---
 
 It is your friend Alec, and I wish to congratulate my two charges for their long and successful marriage and their continuation of this beautiful partnership, and I wish to say that I played my part in bringing these two souls together, and I want them to know that this union was planned even as they were children and how the angels worked to bring them together in this beautiful story where such beautiful souls were brought together by those loving servants of God who mentored them and prepared them, those in spirit and those in the flesh who worked and taught and encouraged their soul growth so that when that time came that they were together, eye-to-eye, they recognized within themselves this was a union blessed by God. And as you see this union has borne fruit. As you can see there is such a great complement of gifts and abilities amongst these two beloved souls that shall carry them ever further in service and is unfolding according to God’s Will and plan and this is merely the beginning of a long journey of service, a great effort on their parts and on the parts of we in spirit and empowered by God’s blessings to bring this Truth and Love to the world.

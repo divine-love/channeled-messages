@@ -38,10 +38,11 @@ questions:
   - "What does it mean that prayer is the foundation of walking as a channel of Love?"
   - "How do my prayers benefit other people, even those I only love from afar?"
 related_messages:
-  - 2016-07-11-af-confucius
+  - 2016-01-24-af-augustine
   - 2016-03-25-af-augustine
   - 2016-07-10-af-augustine
-  - 2016-01-24-af-augustine
+  - 2016-07-11-af-confucius
+  - 2016-09-06-af-joseph
 audio_url: ""
 canonical_url: ""
 language: en
@@ -54,7 +55,7 @@ collections: []
 essential_teachings: ["Core Teaching"]
 notes: >
   Not publicly posted online.
-last_edited: 2026-07-29
+last_edited: 2026-08-07
 ---
 
 God bless you, beloved souls. Indeed it is important to pray. It is important to start your day in prayer and to set out your intentions to God, and to listen for God's intentions for you, my beloveds. For as you pray and open that channel and that connection with your Creator, as you receive His Love flowing in your souls, as you open your minds and your hearts, you then are receptive to God's guidance, you then draw us angels into your midst, you then set up the flow, the process, the unfolding of this Light and guided outpourings to all those you meet.

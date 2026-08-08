@@ -31,6 +31,7 @@ questions:
   - "How do prayer circles contribute to something larger than we can see?"
   - "How do I become more aware of the spiritual network I am already a part of?"
 related_messages:
+  - 2016-09-10-af-andrew
   - 2018-12-09-af-seretta-kem
 audio_url: ""
 canonical_url: ""
@@ -42,7 +43,7 @@ excerpt: >
   There is a great network of Light being formed in the world, my beloveds. Many souls are being connected in this Light, this lattice of Light and you, my beloveds, as you pray are being used to formulate and to maintain this Light in the world.
 door: >
   Every prayer is a thread. Together you are weaving a net of light around the world.
-last_edited: 2026-06-26
+last_edited: 2026-08-07
 ---
 
 It is Confucius, God bless you. There is a great network of Light being formed in the world, my beloveds. Many souls are being connected in this Light, this lattice of Light and you, my beloveds, as you pray are being used to formulate and to maintain this Light in the world. You assist in bringing greater connections that Love and blessings and Light may flow freely to those who are connected in this vast network blessed by God. And, it is important when you travel in the world you help to strengthen these bonds, this Light, and when you pray for others you also bring a stronger connection in your efforts.

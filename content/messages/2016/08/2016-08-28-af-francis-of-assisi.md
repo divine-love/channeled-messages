@@ -38,6 +38,7 @@ questions:
   - "What does the Bible mean by living water?"
 related_messages:
   - 2016-08-15-af-alec-gaunt
+  - 2016-09-09-af-francis-of-assisi
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -51,7 +52,7 @@ door: >
   You have been sipping from the bank. He is asking you to take your
   assumptions off and get in.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-06
+last_edited: 2026-08-07
 ---
 
 Come down to the river with me, beloved souls. Come down to that river of God’s great Love. And I not only ask you to bend down and sip of these waters but to remove the clothing of your mental assumptions. All that, that is within your mind, release this. Release the yoke of your fears. Release the judgements of your mind and come and wade within these waters of Love. Let them carry you. Let them envelop you. Let them heal you. For within this blessing, this great wondrous living waters, comes the true freedom, comes the true understanding, comes the Christ spirit, the Holy Spirit, the spirit of Truth, the spirit of Love. Yes, all these things come in God’s Living Waters of Love and it is for each one of you, beloved souls, to release all that which holds you from being immersed in this wondrous Gift flowing ceaselessly to you, around you, within you. Beloved souls, come with me, wade with me within these waters of Love, for in this all will unfold and the harmony of God’s Will and the unity of God’s plan and the greatness of God’s Love. God bless you, beloveds. I am Francis and I love you.

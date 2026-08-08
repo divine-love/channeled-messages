@@ -44,6 +44,7 @@ questions:
 related_messages:
   - 2015-11-02-af-augustine
   - 2016-08-15-af-alec-gaunt
+  - 2016-09-09-af-andrew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-power-to-change-needs-your-concious-understanding-of-the-power-of-free-will/"
 notes: ""
@@ -54,7 +55,7 @@ excerpt: >
 door: >
   You pray to be freed from the very thing you keep feeding. God is waiting for you to stop.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-29
+last_edited: 2026-08-07
 ---
 
 I am your teacher Augustine. I cannot resist this opportunity to speak to you about your choices and the power of your own free will, concerning your life. God has granted you many opportunities, blessings, gifts, aspects of your being that when in harmony, will propel your life into light and harmony. But because you live upon the Earth plane and are mortal, there are many choices that you do make that are not in harmony with light, health, peace, and love.
