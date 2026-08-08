@@ -40,8 +40,9 @@ questions:
   - "Can a lack of love create an abuser?"
 related_messages:
   - 2016-03-21-af-augustine
-  - 2015-12-21-af-peter
   - 2016-08-15-af-mary
+  - 2016-09-03-af-james
+  - 2015-12-21-af-peter
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/world-needs-prayers/"
 notes: ""
@@ -53,7 +54,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   Love is not the soft option. It is the most powerful force in the universe
-last_edited: 2026-04-17
+last_edited: 2026-08-07
 ---
 
 Blessings to you brothers and sisters, I am White Cloud. I have heard your prayers for my brothers and sisters who struggled mightily in this world and for this planet that also struggles to retain its equilibrium and I tell you that those who are resisting and calling out the truth, do so because in their hearts they know the truth and there will be many more in this world who will gather together and speak the truth, and this may cause division in the world but there needs to be a voice crying for truth and love in the world. For too long the world has suffered from the abuses of man, the greed, the inability to love.

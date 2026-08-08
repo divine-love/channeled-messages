@@ -44,6 +44,7 @@ related_messages:
   - 2016-04-04-af-keea-atta-kem
   - 2016-04-13-af-seretta-kem
   - 2016-07-10-af-augustine
+  - 2016-09-03-af-mary
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/accept-every-unique-soul-differences-will-not-harm-spiritually/"
 notes: >
@@ -58,7 +59,7 @@ excerpt: >
 collections: ["Prism of the Soul"]
 door: >
   Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside
-last_edited: 2026-04-23
+last_edited: 2026-08-07
 ---
 
 Thank you for coming, for you were called. And your discussion of the morning was very good indeed, sharing your concerns and your perceptions, your ideas and your aspirations. This is good. It is good to reveal your inner thoughts and ideas, to bring forth what it is that is broiling about within your mind, your souls.

@@ -35,7 +35,8 @@ questions:
   - "How do I create a space where lost and fearful souls feel welcome?"
   - "What is a Circle of Light and why does God want us to form them?"
   - "How does God provide the means when we step forward to do His Will?"
-related_messages: []
+related_messages:
+  - 2016-09-03-af-james
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -54,7 +55,7 @@ door: >
 collections:
   - "Service & Mission"
   - "Awakening Humanity"
-last_edited: 2026-06-26
+last_edited: 2026-08-07
 ---
 
 Beloved, beautiful souls, I am Confucius. You did indeed come together to give healing to the world and healing to yourselves. And it was demonstrated to you the power of group prayer and the wonderment of this blessing that came through you for the world. Much was accomplished in this effort that you made together and some of you felt the power of it and perceived its beauty.
