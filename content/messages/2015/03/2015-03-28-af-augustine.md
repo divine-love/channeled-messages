@@ -40,9 +40,10 @@ questions:
   - "What does it feel like when God places something within you?"
   - "How does receiving Divine Love help me love myself?"
 related_messages:
-  - 2016-03-30-af-augustine
   - 2015-03-24-af-augustine
   - 2015-03-23-af-augustine
+  - 2016-03-30-af-augustine
+  - 2016-09-10-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -60,7 +61,7 @@ excerpt: >
 collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   Once I entered spirit and learned of this Truth, I prayed earnestly to receive this Love and ascended into the Celestial Kingdom
-last_edited: 2026-04-23
+last_edited: 2026-08-08
 ---
 
 Bless you beautiful souls, I am Augustine, once the bishop of Hippo while on Earth. I played a great part in developing the church of Christ, and in so doing I encouraged many erroneous beliefs and understandings of Jesus' true message. And so today I work with souls on the Earth and souls in spirit to bring this Truth and clarity, the Truth of God's Love, which is the message that Jesus brought to the world. This simple Truth of Love, the power of it, the redemption of it, the Truth that shall set you free my beloved souls.

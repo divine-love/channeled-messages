@@ -39,6 +39,7 @@ questions:
   - "How do I let go of something I cannot stop repeating?"
 related_messages:
   - 2016-03-11-af-luke
+  - 2016-09-12-af-jerome
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -52,7 +53,7 @@ door: >
   Your errors cannot share a room with Love for long. One of them has to
   leave, and it will not be the Love.
 collections: ["The Saints & Apostles Speak", "Healing Path"]
-last_edited: 2026-07-20
+last_edited: 2026-08-08
 ---
 
 Hello, my students, I am Augustine, your teacher, and I see some of you struggle with the human condition, that which is within you and that which is all around you. These conditions, these negativities, these conditions which are not created by God but are created by all those around you, by the conditions of humanity, layer upon layer of error and darkness, confusion and anger, depression. So many struggle. So many in your world are confused and are in deep need. They do not know where to turn for answers and most often those in your world turn to substances which make the mind at ease but does not truly bring peace to the soul.

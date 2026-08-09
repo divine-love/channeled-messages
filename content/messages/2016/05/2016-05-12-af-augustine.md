@@ -40,6 +40,7 @@ questions:
   - "What does it mean to be a channel of God's Love?"
 related_messages:
   - 2016-01-04-af-seretta-kem
+  - 2016-09-13-af-goldie
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -53,7 +54,7 @@ door: >
   Do not wait to feel ready. Readiness is what the opportunity gives you, not
   what you bring to it.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-08-03
+last_edited: 2026-08-08
 ---
 
 I am pleased with what you have discussed and commented upon as you have the right attitudes, my beloved students, a balanced perspective. For you see that in order to be a channel of Love in the world you must be in the world and be that channel wherever you are and whatever you do. You must be able to move amongst mankind and also to be guided in your movements, at times, so that you may touch another soul in accordance to God’s Will and in the way that God guides you to do so. And in order to do so you must hone your gifts, be receptive to this guidance and to allow God to work through you with ease and effectiveness. And all of these things are accomplished through the growing of your souls, through the enlivening of your gifts and the development of your gifts, which are soul attributes unique to you.
