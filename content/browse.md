@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 # Browse All Messages
@@ -348,6 +348,11 @@ last_updated: 2026-08-08
 | [Put Away Your Shield and Your Armour and Lead with Love](messages/2016/09/2016-09-09-af-andrew.md) | Andrew | Al Fike | 2016‑09‑09 | Your armour is not protecting you. Joining the suspicion is the only thing that can still hurt you. |
 | [Nurture Your Soul](messages/2016/09/2016-09-09-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑09‑09 | The thirst is never quenched, and that is not the problem. That is the point. |
 | [You Have Joined a Network of Light](messages/2016/09/2016-09-10-af-andrew.md) | Andrew | Al Fike | 2016‑09‑10 | One night of praying together changes every prayer you pray alone afterwards. |
+| [Divine Love Will Change the World, Starting with You](messages/2016/09/2016-09-10-af-augustine.md) | Augustine | Al Fike | 2016‑09‑10 | The man who helped write the doctrine has come back to say the truth was always simple, and always within your reach. |
+| [Many Are with You in Your Efforts](messages/2016/09/2016-09-11-af-francis-of-assisi.md) | Francis of Assisi | Al Fike | 2016‑09‑11 | They thought he was out of his mind too. Only God could hear what his soul was longing for, and only God can hear yours. |
+| [You Are Supported in Your Struggle](messages/2016/09/2016-09-12-af-jerome.md) | Jerome | Al Fike | 2016‑09‑12 | The feelings you keep blaming on someone else are yours, and that is the only reason you can be free of them. |
+| [Move in the World](messages/2016/09/2016-09-13-af-goldie.md) | Goldie | Al Fike | 2016‑09‑13 | God is not withholding the blessing. He is waiting for you to get up and walk toward it. |
+| [Being in the Light Takes Conscious Effort](messages/2016/09/2016-09-14-af-augustine.md) | Augustine | Al Fike | 2016‑09‑14 | Your soul is already standing in the Light. The only question is where you keep putting your attention. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
