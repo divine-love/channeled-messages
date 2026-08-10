@@ -13,14 +13,14 @@ gathering: ""
 message_type: ["Guidance"]
 description: >
   John tells the circle that the world hungers for love, that each of them
-  has a ministry in it, and that each has been called by Jesus to be his
-  disciple and to teach the bestowal of Divine Love, which he calls crucial
-  to God's plan for the salvation of mankind. He sets out what it requires:
-  shed what is not in harmony, know your own soul and God's, pray without
-  fail, stay receptive to guidance, and expect none of it to unfold without
-  effort. He then asks whether they are strong, willing and humble enough to
-  set aside their own needs, and says the time for standing on the sidelines
-  has run out.
+  has a ministry in it and has been called by Jesus to be his disciple and
+  to teach the bestowal of Divine Love, which he calls crucial to God's plan
+  for the salvation of mankind. He sets out what it requires: shed what is
+  not in harmony, know your own soul and God's, pray without fail, stay
+  receptive to guidance, and expect none of it to unfold without effort. He
+  then asks whether they are strong, willing and humble enough to set aside
+  their own needs, and says the time for standing on the sidelines has run
+  out.
 primary_subjects: "Discipleship"
 secondary_subjects:
   - "Surrender to God's Will"
@@ -56,7 +56,7 @@ door: >
   Knowing this truth was never the hard part. Standing on the sidelines once
   you know it is.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-08-08
+last_edited: 2026-08-10
 ---
 
 I am John. The world is in great need of change. The world hungers for love. The world suffers from the lack of love in mankind. Each of you has a ministry in this world to bring the Love to mankind, to demonstrate and teach the power of God’s Love. And each of you has been called by Jesus to be his disciple.
