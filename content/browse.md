@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-09
+last_updated: 2026-08-10
 ---
 
 # Browse All Messages
@@ -353,6 +353,16 @@ last_updated: 2026-08-09
 | [You Are Supported in Your Struggle](messages/2016/09/2016-09-12-af-jerome.md) | Jerome | Al Fike | 2016‑09‑12 | The feelings you keep blaming on someone else are yours, and that is the only reason you can be free of them. |
 | [Move in the World](messages/2016/09/2016-09-13-af-goldie.md) | Goldie | Al Fike | 2016‑09‑13 | God is not withholding the blessing. He is waiting for you to get up and walk toward it. |
 | [Being in the Light Takes Conscious Effort](messages/2016/09/2016-09-14-af-augustine.md) | Augustine | Al Fike | 2016‑09‑14 | Your soul is already standing in the Light. The only question is where you keep putting your attention. |
+| [The Reaction to Your Light](messages/2016/09/2016-09-15-af-augustine.md) | Augustine | Al Fike | 2016‑09‑15 | The people looking hardest for your flaws are reacting to your Light, and the brighter it burns the harder they will look. |
+| [Will You Walk with God?](messages/2016/09/2016-09-16-af-john-the-beloved.md) | John the Beloved | Al Fike | 2016‑09‑16 | Knowing this truth was never the hard part. Standing on the sidelines once you know it is. |
+| [I Will Lead You upon the Path](messages/2016/09/2016-09-18-af-jesus.md) | Jesus of Nazareth | Al Fike | 2016‑09‑18 | You are waiting for the moment everything changes. It is already changing, one degree at a time, and that is the design. |
+| [There Is a Purpose for You](messages/2016/10/2016-10-15-af-confucius.md) | Confucius | Al Fike | 2016‑10‑15 | You cannot see the plan you are already standing inside of. That is not a sign it is missing. |
+| [Earth Changes and Your Soul Condition](messages/2016/10/2016-10-15-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑10‑15 | You cannot be immune to a world that is answering what you have done to it. |
+| [The Opening of Your Soul Perceptions](messages/2016/10/2016-10-16-af-augustine.md) | Augustine | Al Fike | 2016‑10‑16 | Most of what you call your own thinking was put there by someone else, and you have been making your decisions out of it. |
+| [Let Your Light Shine](messages/2016/10/2016-10-17-af-keea-atta-kem.md) | Keea Atta Kem | Al Fike | 2016‑10‑17 | You will not see the beauty in anyone else until you stop refusing to see it in yourself. |
+| [Divine Love Creates a Bond with the Father](messages/2016/10/2016-10-19-af-augustine.md) | Augustine | Al Fike | 2016‑10‑19 | Drifting is not a personality. It is what happens when nothing has been fastened to. |
+| [Divine Love Brings Surprises](messages/2016/10/2016-10-19-af-goldie.md) | Goldie | Al Fike | 2016‑10‑19 | You keep asking what is around the corner. The not knowing is the gift. |
+| [Consider Your Progress](messages/2016/10/2016-10-24-af-confucius.md) | Confucius | Al Fike | 2016‑10‑24 | The change you cannot feel happening is visible from behind you. Turn around and look. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
