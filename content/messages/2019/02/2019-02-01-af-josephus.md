@@ -43,6 +43,7 @@ questions:
   - "How do I become a channel of God's Love?"
   - "Why can't the things of the soul be fully explained in words?"
 related_messages:
+  - 2016-10-16-af-augustine
   - 2018-06-18-af-matthew
   - 2018-10-09-af-seretta-kem
   - 2018-10-16-af-seretta-kem
@@ -58,7 +59,7 @@ door: >
   You are using only half of what you are. The other half is a soul full of
   sealed chambers, and Divine Love is the light that opens them.
 collections: ["Prism of the Soul", "Letters from History"]
-last_edited: 2026-06-26
+last_edited: 2026-08-09
 ---
 
 May His Love find a great inflowing into your soul. My name is Josephus, I have not spoken through this instrument before but I have been asked to speak about the faculties of the soul. I was a philosopher and teacher of the Jewish faith and helped to formulate the scriptures of this religion. Now I reside within the Celestial Kingdom. I have followed the teachings of the Messiah of Israel, our beloved Jesus.

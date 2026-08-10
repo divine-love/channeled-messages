@@ -43,6 +43,7 @@ questions:
   - "How does accepting myself help me stop judging others?"
   - "Why does understanding spiritual truth take so long?"
 related_messages:
+  - 2016-10-17-af-keea-atta-kem
   - 2018-11-26-af-jesus
   - 2019-01-30-af-jesus
 audio_url: ""
@@ -57,7 +58,7 @@ excerpt: >
 door: >
   Your mind may argue with a message. Your soul already knows where it came from.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-09
+last_edited: 2026-08-09
 ---
 
 This instrument need not worry about the accuracy of the messages that are received through him. For the rapport that we have created with this instrument is strong. He is protected as he has wished from all influence that is not of the Celestial. So speaking through any channel, a medium, has its restrictions. For the better part, its blessings are great and there is no need to be concerned for this channel that is serving in love.

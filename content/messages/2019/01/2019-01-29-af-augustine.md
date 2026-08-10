@@ -35,6 +35,7 @@ questions:
   - "Is my purpose something I can figure out with my mind or does it reveal itself through the soul?"
 related_messages:
   - 2015-11-30-af-augustine
+  - 2016-10-15-af-confucius
   - 2019-02-03-af-andrew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/does-every-soul-have-a-purpose/"

@@ -32,6 +32,7 @@ questions:
   - "What does it mean to know yourself from a deep place of communion with God?"
   - "How does the fear of fully becoming who I truly am hold back my soul?"
 related_messages: 
+  - 2016-10-15-af-confucius
   - 2019-01-29-af-augustine
   - 2019-02-03-af-andrew
 audio_url: ""
@@ -45,7 +46,7 @@ excerpt: >
 door: >
   God placed your purpose within you before you were born. It is still there, waiting.
 collections: ["Prism of the Soul"]
-last_edited: 2026-06-26
+last_edited: 2026-08-08
 ---
 
 God bless you, your teacher Augustine is with you in your morning prayers in your small gathering of Love.

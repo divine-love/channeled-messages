@@ -43,6 +43,7 @@ questions:
   - "Can I ask God for protection?"
 related_messages:
   - 2016-03-17-af-alec-gaunt
+  - 2016-10-24-af-confucius
   - 2019-02-22-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
@@ -57,7 +58,7 @@ door: >
   The resistance you are meeting is not delaying the work. It is the training
   for it.
 collections: ["Service & Mission"]
-last_edited: 2026-07-29
+last_edited: 2026-08-09
 ---
 
 God bless you, my beloveds, it is your friend Alec. For many years you have been given the knowledge and the guidance that you will travel the world to bring these truths to mankind and now you see this coming about and that you are being guided to various places to create circles and centers of Light in the world. And as you do so you are encountering obstacles and barriers to your efforts. This should not surprise you, my beloved friends, for this is the way of the world. These are the conditions of the world which you must confront and deal with on a daily basis, and each time you overcome an obstacle, each time a lesson is learned, each time you turn your pain into joy you become stronger. And so these lessons are placed before you, these obstacles which challenge you, this resistance which suggests that you are wrong. Beloveds, you are not wrong and you are sincere and you are meant to walk this Path and to carry forward upon this road which God is guiding you upon. Each time you encounter an obstacle it would be good if you pray in thanks and gratitude, for each time you overcome these tests and trials you are strengthened and you gain more wisdom as you come to understand more fully what it is that the world is made of, the world of man, its complexities, its error, its fears and its lack of love.
