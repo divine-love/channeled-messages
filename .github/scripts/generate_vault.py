@@ -85,7 +85,9 @@ HOME_INTRO = """# The Divine Love Messages Archive
 
 If you have landed here with questions you cannot quite put into words, you
 are not alone. Many people find their way to these messages because they are
-searching for fulfillment, purpose, and meaning in their lives.
+searching; searching for fulfillment, purpose, and meaning in their lives
+which have become so busy and chaotic that it's easy to become mired in the
+mundane and lose track of what life is all about.
 
 This archive is a collection of just over {messages} messages from spirit. The
 messages talk about God, the soul, prayer, healing, and the road to at-onement
@@ -99,8 +101,15 @@ and that circle keeps widening. You can learn more at
 [divinelovesanctuary.com](https://divinelovesanctuary.com/).
 """
 
+ET_INDEX_INTRO = """
+Some messages state the central teaching so plainly that they carry the whole
+of it. These are those messages, gathered under the teaching each one carries.
+If you are new here and want the heart of the archive without working up to
+it, this is the page to read.
+"""
+
 HOME_SECTIONS = [
-    ("What is Divine Love?", """
+    ("What Is Divine Love", """
 Divine Love is the Essence of God Himself. Not an idea, not a feeling, but a
 living gift that God longs to give to every soul who asks for it.
 
@@ -132,7 +141,7 @@ of people who have already walked it.
 There is no wrong way in, but if you are standing at the door of the archive
 wondering which way to turn, here are three ways to navigate.
 
-If you are on a desktop computer and would rather feel your way through the archive rather than study your
+If you would rather feel your way through the archive rather than study your
 way through, click [[Browse]]. Every message in the archive is listed there
 alongside its "door," a single line describing where that message leads. The
 word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
@@ -145,9 +154,10 @@ is usually your soul recognizing something before your mind has caught up.
 If you came with a question already formulated in your mind, [[Ask the Archive]]
 gathers every question these messages answer and sorts them by subject. Browse
 the list or start typing in the search bar, in whatever words you would use if
-you were asking someone sitting next to you. Note: put your search terms in quotes if you are looking for a specific phrase, like "soul mates" or "Divine Love Mediumship"
+you were asking someone sitting next to you.
 
-And if you want the heart of the archive, read the Essential Teachings. These
+And if you want the heart of the archive, read the
+[[Essential Teachings Index|Essential Teachings]]. These
 are the messages I would put in your hands if you told me you only had an hour
 and needed to understand what this is. If you read nothing else here, read
 those.
@@ -958,7 +968,7 @@ def main():
     GENERATED += [v for k, v in CONTENT_MIRROR.items()
                   if (CONTENT_DIR / k).is_dir()]
     GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md",
-                       "Chains Index.md"]
+                       "Chains Index.md", "Essential Teachings Index.md"]
     GENERATED_FILES += sorted(set(CONTENT_PAGES.values()))
     VAULT.mkdir(exist_ok=True)
     for d in GENERATED:
@@ -1469,6 +1479,25 @@ def main():
             idx.append(f"    - {'[[Subjects/' + filename(sn) + '|' + sn + ']]' if sn in by_subject else sn + ' *(no messages yet)*'}")
     idx.append("")
     (VAULT / "Subjects Index.md").write_text("\n".join(idx), encoding="utf-8")
+
+    # Essential Teachings index: the entry point the Home page points a new
+    # reader to, so it opens with the definition of each teaching rather than
+    # a bare list of names. Definitions come from generate_essential_teachings.py,
+    # which is their single source of truth.
+    et_idx = ["# Essential Teachings", "",
+              unwrap_paragraphs(ET_INDEX_INTRO).strip(), ""]
+    for e in sorted(set(et_defs) | set(by_et)):
+        items = by_et.get(e, [])
+        et_idx.append(f"## {'[[Essential Teachings/' + filename(e) + '|' + e + ']]' if items else e}")
+        et_idx.append("")
+        if et_defs.get(e):
+            et_idx += [et_defs[e], ""]
+        if items:
+            et_idx += [f"*{len(items)} messages.*", ""]
+        else:
+            et_idx += ["*No messages yet.*", ""]
+    (VAULT / "Essential Teachings Index.md").write_text(
+        "\n".join(et_idx), encoding="utf-8")
 
     # Home
     #
