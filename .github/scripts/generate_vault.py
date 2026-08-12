@@ -423,34 +423,55 @@ def rewrite_carried_links(text, notenames, hub_targets):
     and nowhere in Obsidian, whose notes are named for their titles. Every
     link whose target carries a known message_id becomes a wikilink to that
     note, keeping the original link text as the display text; links to other
-    known destinations (spirits, collections, subjects) resolve through
-    `hub_targets`. Anything unrecognised (external URLs, anchors, assets) is
-    left exactly as written.
+    known destinations (spirits, collections) resolve through `hub_targets`.
+    Anything unrecognised (external URLs, anchors, assets) is left exactly as
+    written.
+
+    Markdown tables need special care. content/browse.md is one big table,
+    and a wikilink's alias pipe would otherwise be read as a column
+    separator, splitting the cell and leaving the link unparsed as literal
+    "[[" text. Inside a table row the pipe is backslash-escaped, which
+    Obsidian renders correctly.
     """
     if not text:
-        return text, 0, 0
+        return text, 0
 
-    fixed = rewritten = 0
+    fixed = 0
+    out_lines = []
+    in_fence = False
 
-    def repl(m):
-        nonlocal fixed, rewritten
-        label, target = m.group(1), m.group(2)
-        if target.startswith(("http://", "https://", "mailto:", "#")):
+    for line in text.split("\n"):
+        stripped = line.lstrip()
+        if stripped.startswith("```") or stripped.startswith("~~~"):
+            in_fence = not in_fence
+            out_lines.append(line)
+            continue
+        if in_fence:
+            out_lines.append(line)
+            continue
+
+        in_table = stripped.startswith("|")
+        bar = "\\|" if in_table else "|"
+
+        def repl(m):
+            nonlocal fixed
+            label, target = m.group(1), m.group(2)
+            if target.startswith(("http://", "https://", "mailto:", "#")):
+                return m.group(0)
+            stem = target.split("#")[0].rstrip("/").split("/")[-1]
+            stem = re.sub(r"\.(md|html?)$", "", stem)
+            if stem in notenames:
+                fixed += 1
+                return f"[[{notenames[stem]}{bar}{label}]]"
+            for k in (target.split("#")[0].strip("/").lower(), stem.lower()):
+                if k in hub_targets:
+                    fixed += 1
+                    return f"[[{hub_targets[k]}{bar}{label}]]"
             return m.group(0)
-        stem = target.split("#")[0].rstrip("/").split("/")[-1]
-        stem = re.sub(r"\.(md|html?)$", "", stem)
-        if stem in notenames:
-            fixed += 1
-            return f"[[{notenames[stem]}|{label}]]"
-        key = (target.split("#")[0].strip("/").lower(), stem.lower())
-        for k in key:
-            if k in hub_targets:
-                rewritten += 1
-                return f"[[{hub_targets[k]}|{label}]]"
-        return m.group(0)
 
-    out = MD_LINK_RE.sub(repl, text)
-    return out, fixed, rewritten
+        out_lines.append(MD_LINK_RE.sub(repl, line))
+
+    return "\n".join(out_lines), fixed
 
 
 def main():
@@ -599,9 +620,9 @@ def main():
         dest.parent.mkdir(parents=True, exist_ok=True)
         if src_file.suffix.lower() == ".md":
             body = src_file.read_text(encoding="utf-8")
-            body, a, b = rewrite_carried_links(body, notenames, hub_targets)
+            body, n = rewrite_carried_links(body, notenames, hub_targets)
             dest.write_text(body, encoding="utf-8")
-            links_fixed += a + b
+            links_fixed += n
         else:
             shutil.copy2(src_file, dest)
     for src_name, vault_name in CONTENT_MIRROR.items():
