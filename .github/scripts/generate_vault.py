@@ -102,7 +102,7 @@ and that circle keeps widening. You can learn more at
 """
 
 HOME_SECTIONS = [
-    ("What Is Divine Love", """
+    ("What is Divine Love?", """
 Divine Love is the Essence of God Himself. Not an idea, not a feeling, but a
 living gift that God longs to give to every soul who asks for it.
 
@@ -432,6 +432,38 @@ def open_capital(text):
     if first in "`\"'\u201c\u2018[(" or not first.isalpha():
         return text
     return first.upper() + text[1:]
+
+
+def unwrap_paragraphs(text):
+    """
+    Join soft-wrapped lines so each paragraph is a single line.
+
+    The Home prose is hard-wrapped in this file to keep it editable, but
+    Obsidian renders a single newline as a visible line break, so wrapped
+    prose arrives on the page ragged, and worst where a line happens to
+    begin with a wikilink. Blank lines (paragraph breaks), headings, list
+    items, block quotes and horizontal rules are left alone.
+    """
+    out, buf = [], []
+
+    def flush():
+        if buf:
+            out.append(" ".join(buf))
+            buf.clear()
+
+    for line in text.split("\n"):
+        stripped = line.strip()
+        if not stripped:
+            flush()
+            out.append("")
+        elif stripped[0] in "#->|" or stripped[:2] in ("- ", "* ") or \
+                re.match(r"\d+\. ", stripped):
+            flush()
+            out.append(line)
+        else:
+            buf.append(stripped)
+    flush()
+    return "\n".join(out)
 
 
 HOME_LINK_RE = re.compile(r"@(spirit|medium|collection)\[([^\]]+)\]")
@@ -1454,10 +1486,13 @@ def main():
         "chains": f"{len(chain_members):,}",
         "questions": f"{total_q:,}",
     }
-    home = [resolve_home_links(HOME_INTRO.format(**counts), resolve_fm).strip(), ""]
+    home = [unwrap_paragraphs(
+        resolve_home_links(HOME_INTRO.format(**counts), resolve_fm)).strip(), ""]
     for heading, body in HOME_SECTIONS:
         home += [f"## {heading}", "",
-                 resolve_home_links(body.format(**counts), resolve_fm).strip(), ""]
+                 unwrap_paragraphs(
+                     resolve_home_links(body.format(**counts), resolve_fm)).strip(),
+                 ""]
     (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
 
     # Lint pass over chains-log.md: report rather than drop silently.
