@@ -1490,12 +1490,12 @@ def main():
         items = by_et.get(e, [])
         et_idx.append(f"## {'[[Essential Teachings/' + filename(e) + '|' + e + ']]' if items else e}")
         et_idx.append("")
+        # Definition and count sit on adjacent lines, no blank between, so
+        # the count reads as a caption to the definition rather than as its
+        # own paragraph.
         if et_defs.get(e):
-            et_idx += [et_defs[e], ""]
-        if items:
-            et_idx += [f"*{len(items)} messages.*", ""]
-        else:
-            et_idx += ["*No messages yet.*", ""]
+            et_idx.append(et_defs[e])
+        et_idx += [f"*{len(items)} messages.*" if items else "*No messages yet.*", ""]
     (VAULT / "Essential Teachings Index.md").write_text(
         "\n".join(et_idx), encoding="utf-8")
 
