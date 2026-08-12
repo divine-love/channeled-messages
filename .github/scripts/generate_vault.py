@@ -413,6 +413,92 @@ def linkify_ids(text, notenames):
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+?)(?:\s+\"[^\"]*\")?\)")
 
 
+# Front-matter fields in carried files (books, practices, talks) whose values
+# name something with a hub note in the vault. The value keeps its original
+# text as the link label, so nothing is renamed; only a link is added.
+# Anything not listed here is left exactly as written.
+LINKABLE_FM_FIELDS = {
+    "spirit_id": "spirit",
+    "spirit_name": "spirit",
+    "spirits": "spirit",
+    "related_spirits": "spirit",
+    "medium": "medium",
+    "author": "medium",
+    "source_message": "message",
+    "related_messages": "message",
+    "primary_subjects": "subject",
+    "secondary_subjects": "subject",
+    "collections": "collection",
+    "essential_teachings": "teaching",
+}
+
+FM_SCALAR_RE = re.compile(r"^(\s*)([a-z_0-9]+):\s*(.*?)\s*$")
+FM_ITEM_RE = re.compile(r"^(\s*)-\s+(.+?)\s*$")
+
+
+def rewrite_carried_front_matter(text, resolve):
+    """
+    Turn recognised front-matter values in a carried file into wikilinks.
+
+    Books, practices and talks carry the same vocabulary as messages
+    (spirit_id, related_messages, primary_subjects and so on) but arrive as
+    plain strings, so Obsidian shows them as text rather than as properties
+    that click through and feed the graph. Each recognised value is wrapped
+    in a wikilink and quoted, which is what YAML needs for a value opening
+    with a bracket. Unrecognised fields, and values with no hub behind them,
+    are left untouched: an author who is not a medium, a publisher, a URL.
+
+    `resolve(kind, value)` returns a vault note path or None.
+    """
+    lines = text.split("\n")
+    if not lines or lines[0].strip() != "---":
+        return text, 0
+
+    try:
+        end = next(i for i in range(1, len(lines)) if lines[i].strip() == "---")
+    except StopIteration:
+        return text, 0
+
+    linked = 0
+    current_field = None
+
+    def wrap(raw, kind):
+        nonlocal linked
+        label = raw.strip().strip('"').strip("'")
+        if not label or label.startswith("[["):
+            return None
+        note = resolve(kind, label)
+        if not note:
+            return None
+        linked += 1
+        return f'"[[{note}|{label}]]"'
+
+    for i in range(1, end):
+        line = lines[i]
+
+        item = FM_ITEM_RE.match(line)
+        if item and current_field in LINKABLE_FM_FIELDS:
+            new = wrap(item.group(2), LINKABLE_FM_FIELDS[current_field])
+            if new:
+                lines[i] = f"{item.group(1)}- {new}"
+            continue
+
+        scalar = FM_SCALAR_RE.match(line)
+        if scalar:
+            key, value = scalar.group(2), scalar.group(3)
+            current_field = key
+            if key in LINKABLE_FM_FIELDS and value and not value.startswith("["):
+                new = wrap(value, LINKABLE_FM_FIELDS[key])
+                if new:
+                    lines[i] = f"{scalar.group(1)}{key}: {new}"
+            continue
+
+        if line.strip() and not line.startswith(" "):
+            current_field = None
+
+    return "\n".join(lines), linked
+
+
 def link_table_cells(line, cols, row_targets, bar):
     """
     Link the Spirit and Medium cells of a browse-table row.
@@ -682,16 +768,50 @@ def main():
     mirrored, mirrored_into, missing = 0, [], []
     links_fixed = 0
 
+    # Resolve a front-matter value to its hub note, or None to leave it be.
+    spirit_by_name = {}
+    for _sp, (_n, _d) in spirit_notes.items():
+        spirit_by_name[_sp.lower()] = f"Spirits/{_n}"
+        spirit_by_name[_d.lower()] = f"Spirits/{_n}"
+    for _sp, _prof in spirit_profiles.items():
+        for _a in (_prof.get("aliases") or []):
+            spirit_by_name.setdefault(str(_a).lower(),
+                                      f"Spirits/{spirit_notes[_sp][0]}")
+    medium_by_name = {}
+    for _med in {fm.get("medium") for fm, _b in messages.values() if fm.get("medium")}:
+        medium_by_name[_med.lower()] = f"Mediums/{filename(_med)}"
+    for _stem, _prof in medium_profiles.items():
+        _note = f"Mediums/{filename(_prof.get('display') or _stem)}"
+        medium_by_name.setdefault(_stem.lower(), _note)
+        medium_by_name.setdefault(str(_prof.get("display", "")).lower(), _note)
+
+    def resolve_fm(kind, value):
+        v = value.strip()
+        if kind == "message":
+            return notenames.get(v)
+        if kind == "spirit":
+            return spirit_by_name.get(v.lower())
+        if kind == "medium":
+            return medium_by_name.get(v.lower())
+        if kind == "subject":
+            return f"Subjects/{filename(v)}"
+        if kind == "collection":
+            return f"Collections/{filename(v)}" if v in collection_defs else None
+        if kind == "teaching":
+            return f"Essential Teachings/{filename(v)}" if v in et_defs else None
+        return None
+
     def carry(src_file, dest):
-        """Copy one file, rewriting links if it is markdown."""
+        """Copy one file, rewriting body links and front-matter values."""
         nonlocal links_fixed
         dest.parent.mkdir(parents=True, exist_ok=True)
         if src_file.suffix.lower() == ".md":
             body = src_file.read_text(encoding="utf-8")
             body, n = rewrite_carried_links(body, notenames, hub_targets,
                                             row_targets)
+            body, m = rewrite_carried_front_matter(body, resolve_fm)
             dest.write_text(body, encoding="utf-8")
-            links_fixed += n
+            links_fixed += n + m
         else:
             shutil.copy2(src_file, dest)
     for src_name, vault_name in CONTENT_MIRROR.items():
