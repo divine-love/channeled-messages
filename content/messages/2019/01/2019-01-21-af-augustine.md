@@ -34,7 +34,9 @@ questions:
   - "How do I overcome doubt and strengthen my faith on the Divine Love path?"
   - "Why is humanity's next step the awakening of soul wisdom rather than further intellectual development?"
   - "What does it mean that God's Grace is the birthright of every soul?"
-related_messages: []
+related_messages:
+  - 2016-05-02-af-andrew
+  - 2018-05-12-af-luke
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/divine-love-path-natural-love-path/"
 notes: >
@@ -45,8 +47,8 @@ excerpt: >
   Those who will lead humanity out of this darkness will have the power and blessings of the Father's Love within them, for this is a higher road, a powerful perspective, and a way of being that is the result of the transformation that comes with Divine Love.
 door: >
   Two roads. One leads to the perfection of the mind. The other leads to God.
-collections: ["Two Paths"]
-last_edited: 2026-06-26
+collections: ["Two Paths", "The Saints & Apostles Speak"]
+last_edited: 2026-08-11
 ---
 
 God bless you, I am your teacher Augustine. God's mantle of peace has descended upon you, beloveds. Like the wings of doves spreading out, enveloping you in Light, so you are uplifted and blessed with the Grace of God upon you. The great peace that passes all understanding is with you, beloved souls. When you sense this presence of peace, know that God is near and that you are indeed enveloped in the Light of God's Presence. In this beautiful Light, open your souls, open your souls, beloveds, and drink deep of these living waters, for the Holy Spirit comes to convey God's Love and awaits your thirst for this blessing.
