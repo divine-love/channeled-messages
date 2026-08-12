@@ -413,7 +413,32 @@ def linkify_ids(text, notenames):
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+?)(?:\s+\"[^\"]*\")?\)")
 
 
-def rewrite_carried_links(text, notenames, hub_targets):
+def link_table_cells(line, cols, row_targets, bar):
+    """
+    Link the Spirit and Medium cells of a browse-table row.
+
+    content/browse.md lists spirit and medium as plain text. The row already
+    identifies its message, so rather than matching names (which vary:
+    "Jesus" and "Jesus of Nazareth", "Keea atta Kem" and "Keea Atta Kem"),
+    the message's own spirit_id and medium decide the destination, and the
+    cell's existing text stays as the label.
+    """
+    m = MSGID_RE.search(line)
+    if not m or m.group(1) not in row_targets:
+        return line
+    targets = row_targets[m.group(1)]
+    cells = line.split("|")
+    for kind, idx in cols.items():
+        if idx >= len(cells) or kind not in targets:
+            continue
+        label = cells[idx].strip()
+        if not label or label.startswith("[["):
+            continue
+        cells[idx] = f" [[{targets[kind]}{bar}{label}]] "
+    return "|".join(cells)
+
+
+def rewrite_carried_links(text, notenames, hub_targets, row_targets=None):
     """
     Rewrite a carried page's web links into vault wikilinks.
 
@@ -439,6 +464,8 @@ def rewrite_carried_links(text, notenames, hub_targets):
     fixed = 0
     out_lines = []
     in_fence = False
+    row_targets = row_targets or {}
+    cols = {}          # {"spirit": index, "medium": index} for the current table
 
     for line in text.split("\n"):
         stripped = line.lstrip()
@@ -452,6 +479,20 @@ def rewrite_carried_links(text, notenames, hub_targets):
 
         in_table = stripped.startswith("|")
         bar = "\\|" if in_table else "|"
+        if not in_table:
+            cols = {}
+        elif not cols:
+            # Header row: note which columns hold the spirit and the medium.
+            heads = [c.strip().lower() for c in line.split("|")]
+            for i, h in enumerate(heads):
+                if h == "spirit":
+                    cols["spirit"] = i
+                elif h == "medium":
+                    cols["medium"] = i
+        elif row_targets:
+            before = line
+            line = link_table_cells(line, cols, row_targets, bar)
+            fixed += sum(1 for _ in cols) if line != before else 0
 
         def repl(m):
             nonlocal fixed
@@ -611,6 +652,21 @@ def main():
         hub_targets[slug(cname)] = f"Collections/{filename(cname)}"
         hub_targets[f"collections/{slug(cname)}"] = f"Collections/{filename(cname)}"
 
+    # Per-message destinations for the browse table's Spirit and Medium
+    # columns, keyed by message_id so the row's own metadata decides the
+    # link rather than a name match.
+    row_targets = {}
+    for mid, (fm, _b) in messages.items():
+        t = {}
+        sp = fm.get("spirit_id")
+        if sp and sp in spirit_notes:
+            t["spirit"] = f"Spirits/{spirit_notes[sp][0]}"
+        med = fm.get("medium")
+        if med:
+            t["medium"] = f"Mediums/{filename(med)}"
+        if t:
+            row_targets[mid] = t
+
     mirrored, mirrored_into, missing = 0, [], []
     links_fixed = 0
 
@@ -620,7 +676,8 @@ def main():
         dest.parent.mkdir(parents=True, exist_ok=True)
         if src_file.suffix.lower() == ".md":
             body = src_file.read_text(encoding="utf-8")
-            body, n = rewrite_carried_links(body, notenames, hub_targets)
+            body, n = rewrite_carried_links(body, notenames, hub_targets,
+                                            row_targets)
             dest.write_text(body, encoding="utf-8")
             links_fixed += n
         else:
