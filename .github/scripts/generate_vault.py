@@ -85,9 +85,7 @@ HOME_INTRO = """# Messages of Divine Love
 
 If you have landed here with questions you cannot quite put into words, you
 are not alone. Many people find their way to these messages because they are
-searching; searching for fulfillment, purpose, and meaning in their lives
-which have become so busy and chaotic that it's easy to become mired in the
-mundane and lose track of what life is all about.
+searching for fulfillment, purpose, and meaning in their lives.
 
 This archive is a collection of just over {messages} messages from spirit. The
 messages talk about God, the soul, prayer, healing, and the road to at-onement
