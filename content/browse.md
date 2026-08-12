@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-10
+last_updated: 2026-08-12
 ---
 
 # Browse All Messages
@@ -363,6 +363,11 @@ last_updated: 2026-08-10
 | [Divine Love Creates a Bond with the Father](messages/2016/10/2016-10-19-af-augustine.md) | Augustine | Al Fike | 2016‑10‑19 | Drifting is not a personality. It is what happens when nothing has been fastened to. |
 | [Divine Love Brings Surprises](messages/2016/10/2016-10-19-af-goldie.md) | Goldie | Al Fike | 2016‑10‑19 | You keep asking what is around the corner. The not knowing is the gift. |
 | [Consider Your Progress](messages/2016/10/2016-10-24-af-confucius.md) | Confucius | Al Fike | 2016‑10‑24 | The change you cannot feel happening is visible from behind you. Turn around and look. |
+| [Be Open to God's Touch](messages/2016/10/2016-10-26-af-augustine.md) | Augustine | Al Fike | 2016‑10‑26 | Put down what you expect God to be, and go to the one place in you that is already His image. |
+| [The Soul Longs for God's Love](messages/2016/10/2016-10-29-af-andrew.md) | Andrew | Al Fike | 2016‑10‑29 | You do not have to earn the embrace. You have to notice it is already holding you. |
+| [Be Disciples of the Truth](messages/2016/11/2016-11-06-af-jesus.md) | Jesus | Al Fike | 2016‑11‑06 | God does not wait until you can see clearly. He sends you out with your eyes hardly open. |
+| [Love Is the Key](messages/2016/11/2016-11-07-af-andrew.md) | Andrew | Al Fike | 2016‑11‑07 | The Love is not being withheld. You are refusing delivery, because you do not believe it is addressed to you. |
+| [The Blessing of the Father's Love](messages/2016/11/2016-11-21-af-confucius.md) | Confucius | Al Fike | 2016‑11‑21 | Something is moving in you, and it is not restlessness. It is the Love, changing you for all eternity. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | White Cloud | Al Fike | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | Seretta Kem | Al Fike | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | Andrew | Al Fike | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
