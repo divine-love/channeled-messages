@@ -39,7 +39,9 @@ related_messages:
   - 2016-08-25-af-matthew
   - 2016-08-27-af-brother-mandus
   - 2016-10-16-af-augustine
+  - 2018-12-17-af-mary
   - 2019-03-08-af-andrew
+  - 2019-04-04-af-matthew
 audio_url: ""
 canonical_url: ""
 notes: >

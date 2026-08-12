@@ -42,6 +42,7 @@ questions:
   - "How does one soul awakening in love change the world?"
   - "What does it mean for the mind and soul to be one?"
 related_messages:
+  - 2015-10-12-af-augustine
   - 2018-06-04-af-augustine
   - 2018-06-18-af-matthew
 audio_url: ""
@@ -56,7 +57,7 @@ excerpt: >
 door: >
   You cling to the old fears because they are familiar, not because they are true. The soul's gentle persistence will outlast the mind's tyranny.
 collections: ["Mind & Soul", "Awakening Humanity", "The Saints & Apostles Speak"]
-last_edited: 2026-07-08
+last_edited: 2026-08-12
 ---
 
 I am Matthew. How limited is your perspective here on Earth, how difficult it is for you to go beyond your daily routines and points of view to something larger and grander. But your minds continue to see close to the ground the everyday events of your life. Yet we encourage you, beloved souls, to have a wider and deeper and higher perspective of life. This comes with the opening of your souls, the awakening to God. These faculties of the soul bring depth and truth and perspective to your experience of life.
