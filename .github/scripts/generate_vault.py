@@ -30,9 +30,16 @@ What it builds:
         message answers" (full-text searchable)
   Subjects Index.md                 the full subjects.yml hierarchy as a
       linked tree - the taxonomy browser, replacing the old nested tags
-  Chains/<Display Title>.md         one hub per minted thread: theme,
-      argument, members grouped in role-section order (Foundation first),
-      chronological within each section, anchors marked (anchor)
+  Chains/<Display Title>.md         one hub per thread: theme, argument, a
+      structural-health line (member count, missing Foundation/anchor,
+      unconfirmed back-search roles), then members grouped in role-section
+      order (Foundation first), chronological within each section, anchors
+      marked (anchor). Each member carries the curator's EVIDENCE PROSE from
+      chains-log.md - the facet claimed, the quoted passage, the fence - plus
+      the log line number to edit at the source. Witness- and sighting-level
+      NOTEs are listed at the foot rather than discarded.
+  Chains Index.md                   all threads in two tables, those with
+      structural gaps first, so an incomplete chain is visible in one scan
   Subjects/<Name>.md, Spirits/<Display Name>.md, Collections/<Name>.md
       category hub pages, FILENAMED BY DISPLAY NAME so the explorer,
       graph, and quick switcher read in human language (no plugin needed
@@ -193,17 +200,58 @@ def parse_chain_registry():
     return reg
 
 
+def _clean_evidence(text):
+    """
+    Tidy the prose that follows a member line's **[Role]** marker so it reads
+    as a sentence in the hub: drop the leading separator colon, collapse the
+    hard-wrapped continuation whitespace, and trim.
+    """
+    t = re.sub(r"^\s*:\s*", "", text or "")
+    return re.sub(r"\s+", " ", t).strip()
+
+
 def parse_chain_memberships():
     """
-    From chains-log.md member lines: {message_id: [(slug, role, is_anchor)]}.
-    Only bold member lines (- `slug` **[Role...]**) count; NOTEs/sightings
-    are intentionally excluded from the graph.
+    From chains-log.md: two products, both keyed by message_id.
+
+      members[mid]  -> [(slug, role, is_anchor, evidence, log_line)]
+      notes[mid]    -> [(slug, tier, evidence, log_line)]
+
+    Member lines are the bold ones (- `slug` **[Role...]**) and are the only
+    thing that feeds the graph and the role sections, unchanged from before.
+    NOTE lines (- NOTE (tier, `slug`): ...) are now captured too, so the
+    witnesses and sightings that were previously discarded can be listed at
+    the foot of each chain hub instead of being findable only by grepping
+    the log.
+
+    `evidence` is the curator's prose for that line: the facet claimed, the
+    quoted passage, the fence, the demote-if condition. `log_line` is the
+    1-based line number in chains-log.md, so a hub can point at the exact
+    spot to edit when a correction is needed.
+
+    Continuation lines (hard-wrapped, two-space indented) are folded into
+    the entry they belong to, so the parser is indifferent to whether an
+    entry was written on one line or wrapped across many.
     """
     members = defaultdict(list)
+    notes = defaultdict(list)
     if not CHAINS_LOG.exists():
-        return members
+        return members, notes
+
     current_id = None
-    for line in CHAINS_LOG.read_text(encoding="utf-8").splitlines():
+    pending = None          # ("member"|"note", target_list, index) to append to
+
+    def flush_continuation(raw):
+        """Append a wrapped continuation line to whatever entry is open."""
+        if pending is None:
+            return False
+        kind, bucket, idx = pending
+        row = list(bucket[idx])
+        row[-2] = _clean_evidence(row[-2] + " " + raw)
+        bucket[idx] = tuple(row)
+        return True
+
+    for lineno, line in enumerate(CHAINS_LOG.read_text(encoding="utf-8").splitlines(), 1):
         # Heading format per schema.md: "### id | Title | date", with an
         # optional trailing bracketed tag after the date (e.g.
         # [back-search]), which re.match ignores as an unanchored suffix.
@@ -212,16 +260,53 @@ def parse_chain_memberships():
         h = re.match(r"### (\S+) \| .+ \| \d{4}-\d{2}-\d{2}", line)
         if h:
             current_id = h.group(1)
+            pending = None
             continue
+
         m = re.match(r"- `([a-z0-9-]+)` \*\*\[([^\]]+)\]\*\*(.*)", line)
         if m and current_id:
             chain_slug = m.group(1)
             role = m.group(2).split()[0].split(";")[0].split(",")[0]
             role = role.replace("\u2014", "").strip() or "Elaboration"
-            anchor = "presumptive anchor" in (m.group(2) + m.group(3)).lower() \
-                     or "presumptive section anchor" in (m.group(2) + m.group(3)).lower()
-            members[current_id].append((chain_slug, role, anchor))
-    return members
+            tail = m.group(2) + m.group(3)
+            anchor = "presumptive anchor" in tail.lower() \
+                     or "presumptive section anchor" in tail.lower() \
+                     or "anchor upgraded" in tail.lower()
+            members[current_id].append(
+                (chain_slug, role, anchor, _clean_evidence(m.group(3)), lineno))
+            pending = ("member", members[current_id], len(members[current_id]) - 1)
+            continue
+
+        # NOTE lines, three shapes seen in the log:
+        #   - NOTE (witness, `slug`): prose      current convention
+        #   - NOTE: prose mentioning `slug`      earlier entries
+        #   - (holding, candidate `slug` ...)    parenthetical observations
+        # The tier is read from the parenthetical when present; the slug is
+        # taken from the parenthetical first, then from the prose. A note
+        # with no slug anywhere is kept under "(general)" and reported by
+        # the lint pass rather than silently dropped.
+        n = re.match(r"- NOTE\s*\(([^)]*)\)\s*:?\s*(.*)", line) \
+            or re.match(r"- NOTE\s*:\s*()(.*)", line) \
+            or re.match(r"- \(([^)]*)\)\s*:?\s*(.*)", line)
+        if n and current_id:
+            inside, prose = n.group(1), n.group(2)
+            s = re.search(r"`([a-z0-9-]+)`", inside) or \
+                re.search(r"`([a-z0-9-]+)`", prose)
+            note_slug = s.group(1) if s else "(general)"
+            tier = (inside.split(",")[0].strip() if inside else "") or "note"
+            notes[current_id].append(
+                (note_slug, tier, _clean_evidence(prose or inside), lineno))
+            pending = ("note", notes[current_id], len(notes[current_id]) - 1)
+            continue
+
+        if line.startswith("  ") and line.strip():
+            flush_continuation(line.strip())
+            continue
+
+        if not line.strip():
+            pending = None
+
+    return members, notes
 
 
 def wiki(msg_id, titles, notenames):
@@ -271,7 +356,7 @@ def main():
     collection_defs = load_definitions_from_generator(GEN_COLLECTIONS)
     et_defs = load_definitions_from_generator(GEN_ET)
     registry = parse_chain_registry()
-    memberships = parse_chain_memberships()
+    memberships, chain_notes_log = parse_chain_memberships()
 
     # Pass 1: load all messages
     messages = {}
@@ -318,7 +403,10 @@ def main():
 
     all_chain_slugs = set(registry)
     for _mems in memberships.values():
-        all_chain_slugs.update(cs for cs, _r, _a in _mems)
+        all_chain_slugs.update(cs for cs, _r, _a, _e, _l in _mems)
+    for _nts in chain_notes_log.values():
+        all_chain_slugs.update(cs for cs, _t, _e, _l in _nts
+                               if cs != "(general)")
     chain_notes = display_map(
         (cs, cs.replace("-", " ").title()) for cs in all_chain_slugs)
 
@@ -390,7 +478,8 @@ def main():
     by_medium = defaultdict(list)
     by_et = defaultdict(list)
     questions_by_category = defaultdict(list)
-    chain_members = defaultdict(list)     # slug -> [(role, anchor, msg_id, date)]
+    chain_members = defaultdict(list)     # slug -> [(role, anchor, msg_id, date, evidence, log_line)]
+    chain_witnesses = defaultdict(list)   # slug -> [(date, msg_id, tier, evidence, log_line)]
 
     # Pass 2: write message notes
     for mid, (fm, body) in sorted(messages.items()):
@@ -398,8 +487,13 @@ def main():
         spirit = fm.get("spirit_name") or fm.get("spirit_id", "")
         subjects = [fm.get("primary_subjects")] if fm.get("primary_subjects") else []
         subjects += [s for s in (fm.get("secondary_subjects") or []) if s]
-        for chain_slug, role, anchor in memberships.get(mid, []):
-            chain_members[chain_slug].append((role, anchor, mid, date))
+        for chain_slug, role, anchor, evidence, log_line in memberships.get(mid, []):
+            chain_members[chain_slug].append(
+                (role, anchor, mid, date, evidence, log_line))
+        for chain_slug, tier, evidence, log_line in chain_notes_log.get(mid, []):
+            if chain_slug != "(general)":
+                chain_witnesses[chain_slug].append(
+                    (date, mid, tier, evidence, log_line))
 
         def q(v):
             return '"' + str(v).replace('"', "'") + '"'
@@ -443,7 +537,7 @@ def main():
         mem_props = memberships.get(mid, [])
         if mem_props:
             props.append("chains:")
-            props += [f"  - {q(chain_link(cs))}" for cs, _, _ in mem_props]
+            props += [f"  - {q(chain_link(cs))}" for cs, *_ in mem_props]
         mentions = fm.get("spirits") or []
         if mentions:
             props.append("mentions:")
@@ -481,7 +575,7 @@ def main():
         mem = memberships.get(mid, [])
         if mem:
             lines += ["## Chains", ""]
-            for chain_slug, role, anchor in mem:
+            for chain_slug, role, anchor, _ev, _ln in mem:
                 mark = " **(anchor)**" if anchor else ""
                 lines += [f"- {chain_link(chain_slug)} - {role}{mark}"]
             lines += [""]
@@ -512,27 +606,108 @@ def main():
             by_et[e].append((date, mid))
 
     # Chain hubs
-    for chain_slug, mem in sorted(chain_members.items()):
+    #
+    # Each hub is the chain as it currently stands: the argument it traces,
+    # then the members grouped in role-section order and chronological within
+    # each section, EACH WITH THE CURATOR'S EVIDENCE PROSE from chains-log.md
+    # (the facet claimed, the quoted passage, the fence, any demote-if
+    # condition). A structural-health line sits at the top so gaps are
+    # visible without reading the whole hub, and every entry carries its
+    # chains-log.md line number so a correction can be made at the source.
+    # Witness- and sighting-level NOTEs are listed at the foot rather than
+    # discarded.
+    health_rows = []          # for the Chains Index
+    for chain_slug in sorted(set(chain_members) | set(chain_witnesses)):
+        mem = chain_members.get(chain_slug, [])
         cname, cdisp = chain_notes.get(chain_slug, (chain_slug, chain_slug))
         theme, argument = registry.get(chain_slug, ("", ""))
+
+        by_role = defaultdict(list)
+        for role, anchor, mid, date, evidence, log_line in mem:
+            by_role[role].append((date, anchor, mid, evidence, log_line))
+
+        provisional = sum(1 for _r, _a, _m, _d, ev, _l in mem
+                          if "[back-search]" in ev.lower())
+        has_foundation = "Foundation" in by_role
+        has_anchor = any(a for _r, a, _m, _d, _e, _l in mem)
+        minted = chain_slug in registry
+        flags = []
+        if not minted:
+            flags.append("not in registry (pen or unminted)")
+        if not has_foundation:
+            flags.append("no Foundation logged")
+        if not has_anchor:
+            flags.append("no anchor designated")
+        if provisional:
+            flags.append(f"{provisional} back-search role(s) unconfirmed")
+        if mem and all(r in ("Testimony",) for r, *_ in mem):
+            flags.append("testimony only, no developed member")
+        health_rows.append((chain_slug, cname, cdisp, len(mem),
+                            len(chain_witnesses.get(chain_slug, [])), flags))
+
         lines = ["---", f"aliases: [{chain_slug}]", "---", "",
                  f"# Chain: {cdisp}", ""]
         if theme:
             lines += [f"> {theme}", ""]
         if argument:
             lines += [f"**The argument it traces:** {argument}", ""]
-        by_role = defaultdict(list)
-        for role, anchor, mid, date in mem:
-            by_role[role].append((date, anchor, mid))
+
+        status = f"**{len(mem)}** members"
+        if chain_witnesses.get(chain_slug):
+            status += f" · **{len(chain_witnesses[chain_slug])}** witnesses/sightings"
+        status += " · " + ("; ".join(flags) if flags else "structurally complete")
+        lines += [status, "",
+                  "*Evidence below is quoted from `metadata/chains-log.md`; "
+                  "edit there, not here (this vault is regenerated).*", "", "---", ""]
+
         ordered = [r for r in ROLE_ORDER if r in by_role] + \
                   [r for r in sorted(by_role) if r not in ROLE_ORDER]
         for role in ordered:
             lines += [f"## {role}", ""]
-            for date, anchor, mid in sorted(by_role[role]):
+            for date, anchor, mid, evidence, log_line in sorted(by_role[role]):
                 mark = " **(anchor)**" if anchor else ""
-                lines += [f"- {date} - {wiki(mid, titles, notenames)}{mark}"]
+                lines += [f"### {date} - {wiki(mid, titles, notenames)}{mark}", ""]
+                if evidence:
+                    lines += [linkify_ids(evidence, notenames), ""]
+                lines += [f"<small>chains-log.md line {log_line}</small>", ""]
+
+        wits = chain_witnesses.get(chain_slug, [])
+        if wits:
+            lines += ["---", "", "## Witnesses and sightings", "",
+                      "*Not members: these restate or echo the argument "
+                      "rather than develop it. Kept so they are findable "
+                      "if a thread later needs them.*", ""]
+            for date, mid, tier, evidence, log_line in sorted(wits):
+                head = f"- **{date}** {wiki(mid, titles, notenames)} ({tier})"
+                lines += [f"{head} - {linkify_ids(evidence, notenames)} "
+                          f"<small>[log {log_line}]</small>"]
             lines += [""]
+
         (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
+
+    # Chains Index: every thread with its structural health, so gaps are
+    # visible in one scan instead of one hub at a time.
+    idx_lines = ["# Chains Index", "",
+                 f"**{len(health_rows)}** threads with logged evidence. "
+                 "Flags surface structural gaps: a thread with no Foundation "
+                 "or no anchor is not yet buildable.", ""]
+    needs_work = [r for r in health_rows if r[5]]
+    if needs_work:
+        idx_lines += ["## Needs attention", "",
+                      "| Thread | Members | Witnesses | Flags |", "|---|---|---|---|"]
+        for cslug, cname, cdisp, nmem, nwit, flags in needs_work:
+            idx_lines.append(
+                f"| [[Chains/{cname}\\|{cdisp}]] | {nmem} | {nwit} | {'; '.join(flags)} |")
+        idx_lines.append("")
+    clean = [r for r in health_rows if not r[5]]
+    if clean:
+        idx_lines += ["## Structurally complete", "",
+                      "| Thread | Members | Witnesses |", "|---|---|---|"]
+        for cslug, cname, cdisp, nmem, nwit, flags in clean:
+            idx_lines.append(
+                f"| [[Chains/{cname}\\|{cdisp}]] | {nmem} | {nwit} |")
+        idx_lines.append("")
+    (VAULT / "Chains Index.md").write_text("\n".join(idx_lines), encoding="utf-8")
 
     # Category hubs - each opens with its definition / biography, then messages
     def write_hub(folder, name, items, heading, intro=None):
@@ -642,10 +817,30 @@ def main():
         "## Start here",
         "- [[Ask the Archive]] - search any question",
         "- [[Subjects Index]] - browse the full taxonomy",
+        "- [[Chains Index]] - every thread, with structural gaps flagged",
         "- Browse the `Chains/` folder for the argument threads",
         "- Open the graph view; filter with `-path:\"Subjects\"` if hubs dominate", "",
     ]
     (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
+
+    # Lint pass over chains-log.md: report rather than drop silently.
+    orphan_ids = sorted(mid for mid in set(memberships) | set(chain_notes_log)
+                        if mid not in messages)
+    slugless = [(mid, ln) for mid, nts in chain_notes_log.items()
+                for cs, _t, _e, ln in nts if cs == "(general)"]
+    unregistered = sorted({cs for cs, *_ in
+                           ((c, ) for v in memberships.values() for c, *_r in v)}
+                          - set(registry))
+    if orphan_ids:
+        print(f"chains-log lint: {len(orphan_ids)} entry id(s) with no message "
+              f"file: {', '.join(orphan_ids[:5])}"
+              + (" ..." if len(orphan_ids) > 5 else ""))
+    if unregistered:
+        print(f"chains-log lint: {len(unregistered)} slug(s) used in member "
+              f"lines but absent from the registry table: {', '.join(unregistered)}")
+    if slugless:
+        print(f"chains-log lint: {len(slugless)} NOTE line(s) with no slug "
+              f"(not shown on any chain hub); first at line {slugless[0][1]}")
 
     written = sum(1 for _ in (VAULT / "Messages").rglob("*.md"))
     if written != len(messages):
