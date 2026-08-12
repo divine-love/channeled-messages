@@ -210,6 +210,28 @@ def _clean_evidence(text):
     return re.sub(r"\s+", " ", t).strip()
 
 
+PRIVATE_MARKER = " -- "
+
+
+def split_evidence(text):
+    """
+    Split a log entry's prose into (public, private) at the ' -- ' marker.
+
+    Everything before the marker is reader-facing and appears on the
+    published chain hubs. Everything after it is curatorial: demote-if
+    conditions, judgment calls addressed to the curator, notes about what an
+    earlier pass missed. That half is parsed and kept, but written only to
+    the working mirror, which is excluded from Obsidian Publish.
+
+    An entry with no marker is entirely public, so the convention costs
+    nothing on entries that do not need it.
+    """
+    if not text:
+        return "", ""
+    head, sep, tail = text.partition(PRIVATE_MARKER)
+    return head.strip(), tail.strip() if sep else ""
+
+
 def parse_chain_memberships():
     """
     From chains-log.md: two products, both keyed by message_id.
@@ -443,9 +465,10 @@ def main():
     # Rebuild ONLY the generated folders. Everything else in the vault -
     # your Obsidian config in .obsidian/, and anything you write in Notes/ -
     # is preserved across runs and never touched by this script.
-    GENERATED = ["Messages", "Chains", "Subjects", "Spirits", "Collections",
-                 "Mediums", "Essential Teachings"]
-    GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md"]
+    GENERATED = ["Messages", "Chains", "Chains (working)", "Subjects",
+                 "Spirits", "Collections", "Mediums", "Essential Teachings"]
+    GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md",
+                       "Chains Index.md"]
     VAULT.mkdir(exist_ok=True)
     for d in GENERATED:
         p = VAULT / d
@@ -632,77 +655,106 @@ def main():
         has_anchor = any(a for _r, a, _m, _d, _e, _l in mem)
         minted = chain_slug in registry
         flags = []
+        # Flag wording is reader-facing (this vault is published), so it
+        # says what is missing in plain language rather than in the log's
+        # working vocabulary.
         if not minted:
-            flags.append("not in registry (pen or unminted)")
+            flags.append("still being gathered")
         if not has_foundation:
-            flags.append("no Foundation logged")
+            flags.append("opening message not yet identified")
         if not has_anchor:
-            flags.append("no anchor designated")
+            flags.append("main statement not yet chosen")
         if provisional:
-            flags.append(f"{provisional} back-search role(s) unconfirmed")
+            flags.append(f"{provisional} message(s) awaiting a full reading")
         if mem and all(r in ("Testimony",) for r, *_ in mem):
-            flags.append("testimony only, no developed member")
+            flags.append("first-hand accounts only so far")
         health_rows.append((chain_slug, cname, cdisp, len(mem),
                             len(chain_witnesses.get(chain_slug, [])), flags))
 
+        # Two renderings of the same chain: the public hub carries only the
+        # reader-facing half of each entry; the working mirror carries
+        # everything, including the curatorial asides. Exclude the
+        # "Chains (working)" folder in Obsidian Publish.
         lines = ["---", f"aliases: [{chain_slug}]", "---", "",
                  f"# Chain: {cdisp}", ""]
+        work = ["---", f"aliases: [{chain_slug} working]", "---", "",
+                f"# Chain (working): {cdisp}", "",
+                f"Curatorial view of [[Chains/{cname}|{cdisp}]]. "
+                "Not published.", ""]
         if theme:
             lines += [f"> {theme}", ""]
         if argument:
             lines += [f"**The argument it traces:** {argument}", ""]
 
-        status = f"**{len(mem)}** members"
+        status = f"**{len(mem)}** messages"
         if chain_witnesses.get(chain_slug):
-            status += f" · **{len(chain_witnesses[chain_slug])}** witnesses/sightings"
-        status += " · " + ("; ".join(flags) if flags else "structurally complete")
-        lines += [status, "",
-                  "*Evidence below is quoted from `metadata/chains-log.md`; "
-                  "edit there, not here (this vault is regenerated).*", "", "---", ""]
+            status += f" · **{len(chain_witnesses[chain_slug])}** supporting"
+        status += " · " + ("; ".join(flags) if flags else "complete")
+        lines += [status, "", "---", ""]
 
         ordered = [r for r in ROLE_ORDER if r in by_role] + \
                   [r for r in sorted(by_role) if r not in ROLE_ORDER]
         for role in ordered:
             lines += [f"## {role}", ""]
+            work += [f"## {role}", ""]
             for date, anchor, mid, evidence, log_line in sorted(by_role[role]):
                 mark = " **(anchor)**" if anchor else ""
-                lines += [f"### {date} - {wiki(mid, titles, notenames)}{mark}", ""]
-                if evidence:
-                    lines += [linkify_ids(evidence, notenames), ""]
-                lines += [f"<small>chains-log.md line {log_line}</small>", ""]
+                pub, priv = split_evidence(evidence)
+                head = f"### {date} - {wiki(mid, titles, notenames)}{mark}"
+                # Source reference back to chains-log.md, kept deliberately
+                # small: the bare line number in brackets, since every entry
+                # in every hub comes from that one file.
+                ref = f"<small>[{log_line}]</small>"
+                lines += [head, "",
+                          f"{linkify_ids(pub, notenames)} {ref}".strip(), ""]
+                work += [head, "",
+                         f"{linkify_ids(pub, notenames)} {ref}".strip(), ""]
+                if priv:
+                    work += ["> [!note] Curator",
+                             "> " + linkify_ids(priv, notenames), ""]
 
         wits = chain_witnesses.get(chain_slug, [])
         if wits:
-            lines += ["---", "", "## Witnesses and sightings", "",
-                      "*Not members: these restate or echo the argument "
-                      "rather than develop it. Kept so they are findable "
-                      "if a thread later needs them.*", ""]
+            lines += ["---", "", "## Also touches on this", "",
+                      "*These messages restate or echo the idea rather than "
+                      "carry it forward, so they sit alongside the thread "
+                      "rather than in it.*", ""]
+            work += ["---", "", "## Also touches on this", ""]
             for date, mid, tier, evidence, log_line in sorted(wits):
                 head = f"- **{date}** {wiki(mid, titles, notenames)} ({tier})"
-                lines += [f"{head} - {linkify_ids(evidence, notenames)} "
-                          f"<small>[log {log_line}]</small>"]
+                pub, priv = split_evidence(evidence)
+                lines += [f"{head} - {linkify_ids(pub, notenames)} "
+                          f"<small>[{log_line}]</small>"]
+                work += [f"{head} - {linkify_ids(pub, notenames)}"
+                         + (f" **[curator]** {linkify_ids(priv, notenames)}" if priv else "")
+                         + f" <small>[{log_line}]</small>"]
             lines += [""]
+            work += [""]
 
         (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
+        (VAULT / "Chains (working)" / f"{cname}.md").write_text("\n".join(work), encoding="utf-8")
 
     # Chains Index: every thread with its structural health, so gaps are
     # visible in one scan instead of one hub at a time.
     idx_lines = ["# Chains Index", "",
-                 f"**{len(health_rows)}** threads with logged evidence. "
-                 "Flags surface structural gaps: a thread with no Foundation "
-                 "or no anchor is not yet buildable.", ""]
+                 f"**{len(health_rows)}** threads traced so far. Each follows a "
+                 "single idea across the archive, in the order the messages "
+                 "were given. This layer is a work in progress: threads still "
+                 "being gathered are listed first, with what they are waiting "
+                 "for.", ""]
     needs_work = [r for r in health_rows if r[5]]
     if needs_work:
-        idx_lines += ["## Needs attention", "",
-                      "| Thread | Members | Witnesses | Flags |", "|---|---|---|---|"]
+        idx_lines += ["## Still being gathered", "",
+                      "| Thread | Messages | Supporting | Waiting for |",
+                      "|---|---|---|---|"]
         for cslug, cname, cdisp, nmem, nwit, flags in needs_work:
             idx_lines.append(
                 f"| [[Chains/{cname}\\|{cdisp}]] | {nmem} | {nwit} | {'; '.join(flags)} |")
         idx_lines.append("")
     clean = [r for r in health_rows if not r[5]]
     if clean:
-        idx_lines += ["## Structurally complete", "",
-                      "| Thread | Members | Witnesses |", "|---|---|---|"]
+        idx_lines += ["## Complete", "",
+                      "| Thread | Messages | Supporting |", "|---|---|---|"]
         for cslug, cname, cdisp, nmem, nwit, flags in clean:
             idx_lines.append(
                 f"| [[Chains/{cname}\\|{cdisp}]] | {nmem} | {nwit} |")
