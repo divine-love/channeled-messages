@@ -141,7 +141,7 @@ of people who have already walked it.
 There is no wrong way in, but if you are standing at the door of the archive
 wondering which way to turn, here are three ways to navigate.
 
-If you would rather feel your way through the archive rather than study your
+If you are on a desktop and would rather feel your way through the archive rather than study your
 way through, click [[Browse]]. Every message in the archive is listed there
 alongside its "door," a single line describing where that message leads. The
 word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
@@ -192,8 +192,7 @@ Love teachings that may not align with traditional ideas held by religious and
 spiritual communities. This section contains those teachings, and refers to the
 messages to show how a teaching is founded, expanded, argued with, turned
 around, and finally brought to rest, often across years and through many
-different spirits. Begin at [[Chains Index]]. It is unfinished, and I would
-rather show you the work as it stands than keep it hidden until it is done.
+different spirits. 
 """),
 
     ("Who is channeling here", """
