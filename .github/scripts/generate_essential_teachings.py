@@ -34,7 +34,6 @@ CATEGORIES = {
     "Core Teaching":   "core-teaching",
     "Divine Healing":  "divine-healing",
     "Historical":      "historical",
-    "Milestone":       "milestone",
     "Prophecy":        "prophecy",
     "Spirit Biography": "spirit-biography",
 }
@@ -59,12 +58,6 @@ DESCRIPTIONS = {
         "a significant moment in the history of the Divine Love movement, the "
         "development of a circle, or the record of an event that will be of "
         "lasting interest to researchers and historians of the movement."
-    ),
-    "Milestone": (
-        "Messages marking a significant moment in the archive's history — the "
-        "establishment of a circle, the beginning or end of a major gathering, "
-        "a notable first, or another event that represents a threshold in the "
-        "unfolding of the Divine Love mission."
     ),
     "Prophecy": (
         "Messages containing specific predictions about the world, humanity, "
