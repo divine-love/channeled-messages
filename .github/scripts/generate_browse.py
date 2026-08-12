@@ -26,6 +26,16 @@ from pathlib import Path
 
 MESSAGES_DIR = Path("content/messages")
 OUTPUT_PATH  = Path("content/browse.md")
+SPIRITS_DIR  = Path("spirits")
+MEDIUMS_DIR  = Path("mediums")
+
+# Link templates for the Spirit and Medium columns, relative to
+# content/browse.md. Both directories sit at the repository root, hence the
+# leading "../". A cell is only linked when its target file actually exists,
+# so a spirit or medium without a file stays as plain text rather than
+# becoming a broken link.
+SPIRIT_LINK = "../spirits/{stem}.yml"
+MEDIUM_LINK = "../mediums/{stem}.yml"
 
 HEADER = '''\
 ---
@@ -75,6 +85,47 @@ def format_date(d) -> str:
     return str(d).replace("-", "\u2011")
 
 
+def load_profile_stems(directory: Path) -> dict:
+    """
+    Map the names used in message front matter to profile file stems.
+
+    Returns {lowercased name: stem} covering each file's own stem, its
+    display name and any aliases, so that "Al Fike", "Jesus of Nazareth" and
+    "Keea atta Kem" all resolve to the right file whatever casing or variant
+    a message happens to use.
+    """
+    stems = {}
+    if not directory.exists():
+        return stems
+    try:
+        import yaml
+    except ImportError:
+        return stems
+    for p in sorted(directory.glob("*.yml")):
+        try:
+            d = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+        except Exception:
+            continue
+        names = [p.stem, p.stem.replace("-", " ")]
+        for key in ("name", "spirit_name", "medium_name", "display_name"):
+            if d.get(key):
+                names.append(str(d[key]))
+        for key in ("aliases", "spirit_aliases", "medium_aliases"):
+            names.extend(str(a) for a in (d.get(key) or []))
+        for n in names:
+            stems.setdefault(n.strip().lower(), p.stem)
+    return stems
+
+
+def link_cell(label: str, stem: str, template: str, directory: Path) -> str:
+    """Wrap a table cell's text in a Markdown link, if the target exists."""
+    if not label or not stem:
+        return label
+    if not (directory / f"{stem}.yml").exists():
+        return label
+    return f"[{label}]({template.format(stem=stem)})"
+
+
 def make_relative_path(md_path: Path) -> str:
     """Convert an absolute path to a relative docs link."""
     # e.g. content/messages/2015/05/2015-05-03-af-confucius.md
@@ -94,7 +145,11 @@ def main():
         print(f"ERROR: Messages directory not found: {MESSAGES_DIR}", file=sys.stderr)
         sys.exit(1)
 
+    spirit_stems = load_profile_stems(SPIRITS_DIR)
+    medium_stems = load_profile_stems(MEDIUMS_DIR)
+
     entries = []
+    unlinked = set()
 
     for md_file in sorted(MESSAGES_DIR.rglob("*.md")):
         text = md_file.read_text(encoding="utf-8")
@@ -110,11 +165,22 @@ def main():
         raw_date = fm.get("date")
         relative = make_relative_path(md_file)
 
+        # The message's own spirit_id is authoritative; fall back to matching
+        # the displayed name for messages that carry no id.
+        sp_stem = fm.get("spirit_id") or spirit_stems.get(str(spirit).lower(), "")
+        md_stem = medium_stems.get(str(medium).lower(), "")
+        spirit_cell = link_cell(spirit, sp_stem, SPIRIT_LINK, SPIRITS_DIR)
+        medium_cell = link_cell(medium, md_stem, MEDIUM_LINK, MEDIUMS_DIR)
+        if spirit and spirit_cell == spirit:
+            unlinked.add(f"spirit: {spirit}")
+        if medium and medium_cell == medium:
+            unlinked.add(f"medium: {medium}")
+
         entries.append({
             "date":   raw_date,
             "title":  title,
-            "spirit": spirit,
-            "medium": medium,
+            "spirit": spirit_cell,
+            "medium": medium_cell,
             "door":   door.strip(),
             "path":   relative,
         })
@@ -140,6 +206,9 @@ def main():
     OUTPUT_PATH.write_text("".join(lines), encoding="utf-8")
 
     print(f"Generated {OUTPUT_PATH} with {len(entries)} door(s).")
+    if unlinked:
+        print(f"NOTE: {len(unlinked)} name(s) had no profile file, left as "
+              f"plain text: {', '.join(sorted(unlinked))}")
 
 
 if __name__ == "__main__":

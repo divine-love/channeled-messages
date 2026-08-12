@@ -432,7 +432,10 @@ def link_table_cells(line, cols, row_targets, bar):
         if idx >= len(cells) or kind not in targets:
             continue
         label = cells[idx].strip()
-        if not label or label.startswith("[["):
+        # Skip cells that are already linked: "[[..." from a previous pass,
+        # or "](" from a Markdown link written by generate_browse.py, which
+        # the ordinary link rewriter resolves on its own.
+        if not label or label.startswith("[[") or "](" in label:
             continue
         cells[idx] = f" [[{targets[kind]}{bar}{label}]] "
     return "|".join(cells)
@@ -500,7 +503,7 @@ def rewrite_carried_links(text, notenames, hub_targets, row_targets=None):
             if target.startswith(("http://", "https://", "mailto:", "#")):
                 return m.group(0)
             stem = target.split("#")[0].rstrip("/").split("/")[-1]
-            stem = re.sub(r"\.(md|html?)$", "", stem)
+            stem = re.sub(r"\.(md|html?|ya?ml)$", "", stem)
             if stem in notenames:
                 fixed += 1
                 return f"[[{notenames[stem]}{bar}{label}]]"
@@ -651,6 +654,15 @@ def main():
     for cname in collection_defs:
         hub_targets[slug(cname)] = f"Collections/{filename(cname)}"
         hub_targets[f"collections/{slug(cname)}"] = f"Collections/{filename(cname)}"
+    for med in {fm.get("medium") for fm, _b in messages.values() if fm.get("medium")}:
+        note = f"Mediums/{filename(med)}"
+        hub_targets[slug(med)] = note
+        hub_targets[f"mediums/{slug(med)}"] = note
+        hub_targets[med.lower()] = note
+    for stem, prof in medium_profiles.items():
+        note = f"Mediums/{filename(prof.get('display') or stem)}"
+        hub_targets[stem.lower()] = note
+        hub_targets[f"mediums/{stem}".lower()] = note
 
     # Per-message destinations for the browse table's Spirit and Medium
     # columns, keyed by message_id so the row's own metadata decides the
