@@ -81,7 +81,7 @@ from collections import defaultdict
 # str.format() is used, a literal brace in the prose must be doubled ({{ }}).
 # ---------------------------------------------------------------------------
 
-HOME_INTRO = """# The Divine Love Messages Archive
+HOME_INTRO = """# Messages of Divine Love
 
 If you have landed here with questions you cannot quite put into words, you
 are not alone. Many people find their way to these messages because they are
