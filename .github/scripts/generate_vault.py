@@ -232,6 +232,25 @@ def split_evidence(text):
     return head.strip(), tail.strip() if sep else ""
 
 
+def open_capital(text):
+    """
+    Capitalize the opening letter of an entry's public prose.
+
+    Log entries are often written as continuations of the role marker
+    ("maps the two paths onto the two minds..."), which reads fine in the
+    log but looks like a fragment once the prose stands on its own in a
+    published hub. Left alone when the entry opens with a code span (a
+    slug) or with quoted words from a message, since altering either would
+    misrepresent it.
+    """
+    if not text:
+        return text
+    first = text[0]
+    if first in "`\"'\u201c\u2018[(" or not first.isalpha():
+        return text
+    return first.upper() + text[1:]
+
+
 def parse_chain_memberships():
     """
     From chains-log.md: two products, both keyed by message_id.
@@ -701,12 +720,11 @@ def main():
                 mark = " **(anchor)**" if anchor else ""
                 pub, priv = split_evidence(evidence)
                 head = f"### {date} - {wiki(mid, titles, notenames)}{mark}"
-                # Source reference back to chains-log.md, kept deliberately
-                # small: the bare line number in brackets, since every entry
-                # in every hub comes from that one file.
+                # The chains-log.md line reference is a curator's tool, so it
+                # appears only in the working mirror; the published hub shows
+                # the evidence alone.
                 ref = f"<small>[{log_line}]</small>"
-                lines += [head, "",
-                          f"{linkify_ids(pub, notenames)} {ref}".strip(), ""]
+                lines += [head, "", linkify_ids(open_capital(pub), notenames), ""]
                 work += [head, "",
                          f"{linkify_ids(pub, notenames)} {ref}".strip(), ""]
                 if priv:
@@ -723,8 +741,7 @@ def main():
             for date, mid, tier, evidence, log_line in sorted(wits):
                 head = f"- **{date}** {wiki(mid, titles, notenames)} ({tier})"
                 pub, priv = split_evidence(evidence)
-                lines += [f"{head} - {linkify_ids(pub, notenames)} "
-                          f"<small>[{log_line}]</small>"]
+                lines += [f"{head} - {linkify_ids(open_capital(pub), notenames)}"]
                 work += [f"{head} - {linkify_ids(pub, notenames)}"
                          + (f" **[curator]** {linkify_ids(priv, notenames)}" if priv else "")
                          + f" <small>[{log_line}]</small>"]
