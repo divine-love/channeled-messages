@@ -39,9 +39,10 @@ questions:
   - "Why does spiritual transformation sometimes feel painful?"
   - "How does surrendering to God open the door to ministry and service?"
 related_messages:
+  - 2015-09-27-af-augustine
   - 2015-12-14-af-augustine
   - 2016-04-04-af-jesus
-  - 2015-09-27-af-augustine
+  - 2016-10-26-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/expectations-of-the-mind-on-releasing-control/"
 notes: ""
@@ -53,7 +54,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   Think how much freedom you will obtain by simply letting go
-last_edited: 2026-04-17
+last_edited: 2026-08-10
 ---
 
 God bless you, it is your teacher Augustine.

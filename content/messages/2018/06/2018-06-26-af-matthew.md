@@ -42,9 +42,10 @@ questions:
   - "How do I stop condemning myself when I keep failing at love?"
   - "What is the ladder of Light and how do I climb it?"
 related_messages:
-  - 2018-06-24-af-luke
+  - 2016-11-07-af-andrew
   - 2017-06-15-af-augustine
   - 2018-05-28-af-matthew
+  - 2018-06-24-af-luke
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-judgment-embrace-love/"
 notes: >
@@ -60,7 +61,7 @@ excerpt: >
 collections: ["Mind & Soul", "Healing Path", "The Saints & Apostles Speak"]
 door: >
   You will know when you have passed the test. When you gaze upon one who has challenged you and find love, compassion, and forgiveness - you have become stronger in Light
-last_edited: 2026-04-23
+last_edited: 2026-08-11
 ---
 
 Every day presents its challenges, does it not, my beloveds? Each and every day God encourages you to step further up the ladder of Light, to be more pure in your thoughts, more loving in your actions, more aligned with God in all ways. You have had a discussion regarding your behaviours, your judgments, your desires, your perceptions of others, and yourself. These awarenesses help you to realize the choices that you must make in order to indeed progress in Light. You cannot walk this path of Love without understanding the steps that you must take in order to love more fully not only yourselves, but others.

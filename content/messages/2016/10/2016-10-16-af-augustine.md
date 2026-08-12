@@ -43,6 +43,7 @@ questions:
   - "Why does my understanding lag behind what I feel is happening in me?"
 related_messages:
   - 2015-10-12-af-augustine
+  - 2016-10-26-af-augustine
   - 2019-02-01-af-josephus
 audio_url: ""
 canonical_url: ""
@@ -57,7 +58,7 @@ door: >
   Most of what you call your own thinking was put there by someone else, and
   you have been making your decisions out of it.
 collections: ["Mind & Soul", "Prism of the Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-08-09
+last_edited: 2026-08-10
 ---
 
 My students, it is your teacher Augustine. I see that you begin to distinguish between the awareness of your mind and the awareness of your soul, that as God places his Love within your souls, bringing about the great awakening of your perceptions and consciousness that lie within, you see that there is a difference in how you perceive life, the world around you and the world within you and the great Creator.

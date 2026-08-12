@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-08-08 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
+Generated 2026-08-10 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -424,6 +424,14 @@ notes: >
   walking to many places and reaching out to many souls as a channel of Love.
 
   Speaks of his Earth life in his own words: "I chose the simple life when I was on Earth and great blessings came to me through this choice. I walked this Earth with God's Hand upon me and I chose to accept His Will for me and my soul sang, immersed in all the beauty of God's Creation." Source: 2016-04-17-af-francis-of-assisi.
+
+
+  From 2016-09-11-af-francis-of-assisi, the beginning of his ministry in his
+  own words, a rejection the file did not previously carry: "when I began my
+  ministry I was shunned. Many turned away from me thinking me not right
+  within my mind, but I persisted and I prayed intensely and I sought out God
+  and did not pay much attention to the judgements of others who did not
+  understand and could not understand the true longings of my soul."
 
 ========================================================================
 FILE: spirits/gandhi.yml
