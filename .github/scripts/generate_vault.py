@@ -410,6 +410,49 @@ def linkify_ids(text, notenames):
     return "".join(out)
 
 
+MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+?)(?:\s+\"[^\"]*\")?\)")
+
+
+def rewrite_carried_links(text, notenames, hub_targets):
+    """
+    Rewrite a carried page's web links into vault wikilinks.
+
+    Pages under content/ (browse.md, books, practices, talks) are written for
+    the published website, so their links are site-relative paths like
+    `messages/2019/01/2019-01-21-af-augustine.md`. Those resolve on the web
+    and nowhere in Obsidian, whose notes are named for their titles. Every
+    link whose target carries a known message_id becomes a wikilink to that
+    note, keeping the original link text as the display text; links to other
+    known destinations (spirits, collections, subjects) resolve through
+    `hub_targets`. Anything unrecognised (external URLs, anchors, assets) is
+    left exactly as written.
+    """
+    if not text:
+        return text, 0, 0
+
+    fixed = rewritten = 0
+
+    def repl(m):
+        nonlocal fixed, rewritten
+        label, target = m.group(1), m.group(2)
+        if target.startswith(("http://", "https://", "mailto:", "#")):
+            return m.group(0)
+        stem = target.split("#")[0].rstrip("/").split("/")[-1]
+        stem = re.sub(r"\.(md|html?)$", "", stem)
+        if stem in notenames:
+            fixed += 1
+            return f"[[{notenames[stem]}|{label}]]"
+        key = (target.split("#")[0].strip("/").lower(), stem.lower())
+        for k in key:
+            if k in hub_targets:
+                rewritten += 1
+                return f"[[{hub_targets[k]}|{label}]]"
+        return m.group(0)
+
+    out = MD_LINK_RE.sub(repl, text)
+    return out, fixed, rewritten
+
+
 def main():
     if not MESSAGES_DIR.exists():
         print("Run from the repository root (content/messages not found).")
@@ -535,7 +578,32 @@ def main():
     # vault verbatim, preserving internal structure. These are generated
     # output in the repository, so they are copied rather than rebuilt: the
     # repository stays the single source of truth.
+    # Map the website's own path segments onto vault hub notes, so a carried
+    # page's links to spirits, collections and subjects resolve as well.
+    hub_targets = {}
+    for sp, (nname, _disp) in spirit_notes.items():
+        hub_targets[sp.lower()] = f"Spirits/{nname}"
+        hub_targets[f"spirits/{sp}".lower()] = f"Spirits/{nname}"
+    for cs, (nname, _disp) in chain_notes.items():
+        hub_targets[cs.lower()] = f"Chains/{nname}"
+    for cname in collection_defs:
+        hub_targets[slug(cname)] = f"Collections/{filename(cname)}"
+        hub_targets[f"collections/{slug(cname)}"] = f"Collections/{filename(cname)}"
+
     mirrored, mirrored_into, missing = 0, [], []
+    links_fixed = 0
+
+    def carry(src_file, dest):
+        """Copy one file, rewriting links if it is markdown."""
+        nonlocal links_fixed
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        if src_file.suffix.lower() == ".md":
+            body = src_file.read_text(encoding="utf-8")
+            body, a, b = rewrite_carried_links(body, notenames, hub_targets)
+            dest.write_text(body, encoding="utf-8")
+            links_fixed += a + b
+        else:
+            shutil.copy2(src_file, dest)
     for src_name, vault_name in CONTENT_MIRROR.items():
         src = CONTENT_DIR / src_name
         if not src.is_dir():
@@ -545,9 +613,7 @@ def main():
         for f in sorted(src.rglob("*")):
             if not f.is_file() or f.name.startswith("."):
                 continue
-            dest = VAULT / vault_name / f.relative_to(src)
-            dest.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(f, dest)
+            carry(f, VAULT / vault_name / f.relative_to(src))
             n += 1
         mirrored += n
         mirrored_into.append(f"{vault_name} ({n})")
@@ -556,7 +622,7 @@ def main():
         src = CONTENT_DIR / src_name
         if vault_name in pages_done or not src.is_file():
             continue
-        shutil.copy2(src, VAULT / vault_name)
+        carry(src, VAULT / vault_name)
         pages_done.add(vault_name)
         mirrored += 1
         mirrored_into.append(vault_name)
@@ -985,7 +1051,8 @@ def main():
           f"{len(by_subject)} subject hubs, {total_q} questions indexed.")
     if mirrored_into:
         print(f"Carried from content/: {mirrored} file(s) into "
-              f"{', '.join(mirrored_into)}.")
+              f"{', '.join(mirrored_into)}; {links_fixed} link(s) rewritten "
+              f"as wikilinks.")
     if missing:
         print(f"NOTE: configured but not found, nothing carried: "
               f"{', '.join(missing)}.")
