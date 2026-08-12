@@ -152,12 +152,14 @@ def load_profiles(directory):
             d = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
         except yaml.YAMLError:
             continue
-        display = d.get("name") or d.get("spirit_name") or d.get("display_name") \
-            or p.stem.replace("-", " ").title()
+        display = d.get("name") or d.get("spirit_name") or d.get("medium_name") \
+            or d.get("display_name") or p.stem.replace("-", " ").title()
         desc = d.get("description") or d.get("spirit_description") \
-            or d.get("bio") or ""
-        aliases = d.get("aliases") or []
-        notes = d.get("notes") or ""
+            or d.get("medium_description") or d.get("bio") or ""
+        aliases = d.get("aliases") or d.get("spirit_aliases") \
+            or d.get("medium_aliases") or []
+        notes = d.get("notes") or d.get("spirit_notes") \
+            or d.get("medium_notes") or ""
         profiles[p.stem] = {"display": display, "aliases": aliases,
                             "description": str(desc).strip(),
                             "notes": str(notes).strip()}
@@ -433,6 +435,40 @@ LINKABLE_FM_FIELDS = {
 }
 
 FM_SCALAR_RE = re.compile(r"^(\s*)([a-z_0-9]+):\s*(.*?)\s*$")
+
+# Nested mappings that Obsidian's properties panel cannot display (it has no
+# type for an object), flattened to a single readable string in the order
+# given. Message notes already flatten location this way, so carried files
+# end up matching them.
+FLATTEN_FM_FIELDS = {"location": ["city", "region", "country"]}
+
+
+def flatten_fm_mappings(lines, end):
+    """Collapse nested front-matter mappings in place; returns new (lines, end)."""
+    out, i = [], 0
+    while i < len(lines):
+        line = lines[i]
+        m = FM_SCALAR_RE.match(line)
+        if m and i < end and m.group(2) in FLATTEN_FM_FIELDS and not m.group(3):
+            key = m.group(2)
+            base = len(m.group(1))
+            parts, j = {}, i + 1
+            while j < end:
+                sub = FM_SCALAR_RE.match(lines[j])
+                if not sub or len(sub.group(1)) <= base or not lines[j].startswith(" "):
+                    break
+                parts[sub.group(2)] = sub.group(3).strip().strip('"').strip("'")
+                j += 1
+            if parts:
+                value = ", ".join(parts.get(k, "") for k in FLATTEN_FM_FIELDS[key]
+                                  if parts.get(k))
+                out.append(f'{m.group(1)}{key}: "{value}"')
+                end -= (j - i - 1)
+                i = j
+                continue
+        out.append(line)
+        i += 1
+    return out, end
 FM_ITEM_RE = re.compile(r"^(\s*)-\s+(.+?)\s*$")
 
 
@@ -458,6 +494,8 @@ def rewrite_carried_front_matter(text, resolve):
         end = next(i for i in range(1, len(lines)) if lines[i].strip() == "---")
     except StopIteration:
         return text, 0
+
+    lines, end = flatten_fm_mappings(lines, end)
 
     linked = 0
     current_field = None
