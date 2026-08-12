@@ -48,6 +48,11 @@ What it builds:
       with  -path:"Subjects"  etc. if the hubs dominate)
   Ask the Archive.md                every question in the archive, grouped
       by top-level subject category, each linking to its answering message
+  Books/, Practices/, Talks/        carried verbatim from content/, each as
+      its own top-level folder, internal structure preserved (see
+      CONTENT_MIRROR)
+  Browse.md                         the browse page, carried to the top
+      level of the vault as a standalone note (see CONTENT_PAGES)
   Home.md                           dashboard with counts and entry points
 
 Run from the repo root:
@@ -68,7 +73,27 @@ from pathlib import Path
 from collections import defaultdict
 
 ROOT = Path(".")
-MESSAGES_DIR = ROOT / "content" / "messages"
+CONTENT_DIR = ROOT / "content"
+MESSAGES_DIR = CONTENT_DIR / "messages"
+
+# Content folders carried into the vault verbatim, as their own top-level
+# folders: {source directory under content/: vault folder name}. Messages,
+# collections and essential teachings are deliberately absent, since the
+# script builds richer notes for those; templates are scaffolding, not
+# archive content. Add a pair here to carry a new folder across.
+CONTENT_MIRROR = {
+    "books": "Books",
+    "practices": "Practices",
+    "talks": "Talks",
+}
+
+# Standalone pages copied to the top level of the vault, rather than into a
+# folder: {source path under content/: vault filename}. content/browse.md is
+# written by generate_browse.py, so run that first if the browse page is
+# stale.
+CONTENT_PAGES = {
+    "browse.md": "Browse.md",
+}
 SUBJECTS_PATH = ROOT / "metadata" / "subjects.yml"
 SPIRITS_DIR = ROOT / "spirits"
 MEDIUMS_DIR = ROOT / "mediums"
@@ -486,8 +511,11 @@ def main():
     # is preserved across runs and never touched by this script.
     GENERATED = ["Messages", "Chains", "Chains (working)", "Subjects",
                  "Spirits", "Collections", "Mediums", "Essential Teachings"]
+    GENERATED += [v for k, v in CONTENT_MIRROR.items()
+                  if (CONTENT_DIR / k).is_dir()]
     GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md",
                        "Chains Index.md"]
+    GENERATED_FILES += sorted(set(CONTENT_PAGES.values()))
     VAULT.mkdir(exist_ok=True)
     for d in GENERATED:
         p = VAULT / d
@@ -496,6 +524,44 @@ def main():
         p.mkdir(parents=True)
     for f in GENERATED_FILES:
         (VAULT / f).unlink(missing_ok=True)
+    # A configured content/ folder that no longer exists would otherwise
+    # leave its vault folder behind from an earlier run, so clear those too.
+    for vault_name in CONTENT_MIRROR.values():
+        stale = VAULT / vault_name
+        if stale.exists() and vault_name not in GENERATED:
+            shutil.rmtree(stale)
+
+    # Carry the configured content/ folders and standalone pages into the
+    # vault verbatim, preserving internal structure. These are generated
+    # output in the repository, so they are copied rather than rebuilt: the
+    # repository stays the single source of truth.
+    mirrored, mirrored_into, missing = 0, [], []
+    for src_name, vault_name in CONTENT_MIRROR.items():
+        src = CONTENT_DIR / src_name
+        if not src.is_dir():
+            missing.append(f"content/{src_name}")
+            continue
+        n = 0
+        for f in sorted(src.rglob("*")):
+            if not f.is_file() or f.name.startswith("."):
+                continue
+            dest = VAULT / vault_name / f.relative_to(src)
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(f, dest)
+            n += 1
+        mirrored += n
+        mirrored_into.append(f"{vault_name} ({n})")
+    pages_done = set()
+    for src_name, vault_name in CONTENT_PAGES.items():
+        src = CONTENT_DIR / src_name
+        if vault_name in pages_done or not src.is_file():
+            continue
+        shutil.copy2(src, VAULT / vault_name)
+        pages_done.add(vault_name)
+        mirrored += 1
+        mirrored_into.append(vault_name)
+    for vault_name in sorted(set(CONTENT_PAGES.values()) - pages_done):
+        missing.append(vault_name)
     # Your own space: created once, never regenerated, safe to write in.
     notes = VAULT / "Notes"
     notes.mkdir(exist_ok=True)
@@ -917,6 +983,12 @@ def main():
               f"- a filename collision may have overwritten a note.")
     print(f"Vault built: {len(messages)} messages, {len(chain_members)} chain hubs, "
           f"{len(by_subject)} subject hubs, {total_q} questions indexed.")
+    if mirrored_into:
+        print(f"Carried from content/: {mirrored} file(s) into "
+              f"{', '.join(mirrored_into)}.")
+    if missing:
+        print(f"NOTE: configured but not found, nothing carried: "
+              f"{', '.join(missing)}.")
     print("Preserved: .obsidian/ (your settings) and Notes/ (your own writing).")
     print(f"Open {VAULT.resolve()} as a vault in Obsidian.")
 
