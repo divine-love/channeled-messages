@@ -132,7 +132,7 @@ of people who have already walked it.
 There is no wrong way in, but if you are standing at the door of the archive
 wondering which way to turn, here are three ways to navigate.
 
-If you would rather feel your way through the archive rather than study your
+If you are on a desktop computer and would rather feel your way through the archive rather than study your
 way through, click [[Browse]]. Every message in the archive is listed there
 alongside its "door," a single line describing where that message leads. The
 word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
@@ -145,7 +145,7 @@ is usually your soul recognizing something before your mind has caught up.
 If you came with a question already formulated in your mind, [[Ask the Archive]]
 gathers every question these messages answer and sorts them by subject. Browse
 the list or start typing in the search bar, in whatever words you would use if
-you were asking someone sitting next to you.
+you were asking someone sitting next to you. Note: put your search terms in quotes if you are looking for a specific phrase, like "soul mates" or "Divine Love Mediumship"
 
 And if you want the heart of the archive, read the Essential Teachings. These
 are the messages I would put in your hands if you told me you only had an hour
