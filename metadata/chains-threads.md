@@ -472,7 +472,23 @@ message gives them an argument to trace.
   and `healing-channel` (what makes the channel clear): this is what stays
   behind in the channel. Mint when a message develops the retention
   mechanism rather than asserting the reciprocity.
-
+- `unlimited-reception`, the soul's capacity to receive Divine Love is
+  unbounded, so reception never completes and at-onement is an endless
+  approach rather than a destination. Seen: 2016-05-02-af-andrew ("there are
+  unlimited possibilities, for God's Love, this energy, this Gift is
+  unlimited. The potential for your soul to receive this Gift is unlimited"),
+  2016-09-01-af-seretta-kem ("the capacity to receive this Love is
+  unlimited"), 2019-01-21-af-augustine ("you will never receive all that can
+  be, for God's blessings are infinite as is the awakening of your soul and
+  at-onement with God"), 2015-10-12-af-augustine ("shall come again and again
+  and again, never ending, always expanding"). Caution against minting: in all
+  four the claim is asserted in a clause inside a message arguing something
+  else, which is the pen's scope test failing (an image several threads reach
+  for, not an argument any message builds). Penned so a fifth instance is
+  noticed rather than lost. Mint only when a message argues the
+  inexhaustibility itself, for instance by drawing the consequence that
+  at-onement has no terminal state.
+  
 ---
 
 # Open questions to revisit when building begins
@@ -497,6 +513,22 @@ message gives them an argument to trace.
   as the fuller laws-and-conditions Elaboration immediately after. (2026-07-06:
   under the revised section structure both may stand as Foundation-section
   members; the open choice is only the anchor.)
+
+- `two-paths` Capstone now has two candidates (2026-08-11). 2016-05-02-af-andrew
+  holds the role: it states the fork as a choice, carries the sixth-sphere
+  ceiling, and closes on the open invitation. 2018-05-12-af-luke states the
+  at-onement gate, "at-onement cannot come without the healing of the soul...
+  without the infusion of Divine Love to such a degree that there is a
+  resonance between the mortal soul that becomes a Divine Soul and God's
+  Soul," which is arguably the truer close of the argument, since it names
+  what the natural path cannot reach rather than only how far it goes. Working
+  reading that keeps Andrew: he addresses a hearer who has not yet chosen,
+  Luke expounds for a circle that already has, so Andrew closes the argument
+  and Luke completes the doctrine. Both belong in the Capstone section either
+  way; the choice is only the anchor. Related: the Andrew Capstone also
+  carries the thread's only Chrysalis-shaped passage (the unlimited-capacity
+  vista), so if a Chrysalis section is ever opened for `two-paths`, that
+  message is its obvious occupant and the anchor question reopens.
 
 - Some chains will likely need sub-message anchoring after all, for long
   teaching messages that move through several distinct ideas (e.g. the
@@ -533,6 +565,14 @@ message gives them an argument to trace.
 - `mind-vs-soul` already has two Chrysalis candidates (2018-06-18, 2018-10-09).
   Resolved in principle by the 2026-07-06 structure revision: both belong in
   the Chrysalis section; the only build-time choice is the anchor.
+  (2026-08-11: the thread's missing Foundation is found and logged,
+  2015-10-12-af-augustine, a teaching delivered to answer a question put to
+  the circle about the difference between the two minds. It is the one
+  message in the thread that sets out to define the distinction rather than
+  apply it, and it states the incapacity as a limit in kind, not degree.
+  Anchor upgraded from presumptive to held. Consequence for the Chrysalis
+  choice: with the head in place, 2018-12-17-af-mary's Objection-removed now
+  reads as guarding a distinction already drawn rather than as free-standing.)
 - Possible `free-will-and-gods-plan` connection to watch: 2016-03-13-af-faith-nyquist
   ("Keep the Flame Burning") echoes the thread's "circuitous route" image
   ("God's Will will manifest. It may take a circuitous route but it will be done").
@@ -550,10 +590,19 @@ message gives them an argument to trace.
   spirit, reconcilable (presence radiates, expression amplifies and
   directs); held explicitly so neither entry reads as contradicting the
   other. The Capstone keeps the section anchor.
-- Natural-love rehabilitation watch: two messages six days apart decline to
-  subordinate natural love (2016-08-27-af-brother-mandus, sufficient to
-  disperse the human condition's clouds; 2016-09-02-af-augustine, a gift
-  from God not to be pushed aside as inferior). A third instance prompts
+- Natural-love rehabilitation watch: three messages now decline to subordinate
+  natural love. 2016-08-27-af-brother-mandus (sufficient to disperse the human
+  condition's clouds), 2016-09-02-af-augustine (a gift from God not to be
+  pushed aside as inferior), and 2018-05-12-af-luke (2026-08-11, the fullest
+  dignification in the record: the sixth sphere described from the inside,
+  "Many souls are content to reside within this sphere... Their interactions
+  with one another are harmonious and joyful," with the concession that from
+  where the hearer stands "it would be difficult to truly discern between the
+  joy of the perfect heaven and the joy of the Celestial Heavens"). Luke
+  differs from the first two in kind: he dignifies the destination while
+  keeping the ceiling explicit ("it can go no further than this") and the
+  difference in quality intact. Curator ruling 2026-08-11: counted as instance
+  three, but the trigger moves to a fourth. A fourth instance prompts
   qualifying clauses on the `two-paths` spine and the
   `earth-conditions-and-prayer` remedy wording, not a new thread.
 - Forgiveness ordering, settle before `judgment-to-love` is built:
@@ -573,7 +622,16 @@ message gives them an argument to trace.
   collections is a deliberate taxonomy decision to raise explicitly with the
   curator.
 - Back-search [back-search] entries need full-text confirmation of their roles
-  before chains are finalised.
+  before chains are finalised. 49 entries carried the tag at the start of the
+  2026-08-11 session. Confirmed and detagged so far: 2015-03-27-af-andrew,
+  2016-05-02-af-andrew, 2018-05-12-af-luke, 2019-01-21-af-augustine,
+  2015-10-12-af-augustine. All five held their provisional roles; two gained
+  additional member roles at full text that the description-level pass had
+  missed, which is the expected failure direction (under-reading, not
+  mis-reading). Highest-value remaining: the anchors and presumptive anchors,
+  2015-03-24-af-augustine, 2015-03-29-af-seretta-kem, 2015-05-03-af-confucius,
+  2016-05-02-af-andrew (done), 2017-06-15-af-augustine, 2018-07-19-af-matthew,
+  2018-09-01-af-augustine, 2018-10-16-af-seretta-kem.
 - `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
   on Good Friday") gestures at the thread's territory - "the distortions that
   have gone through the centuries creating great myths and errors" about Jesus'
