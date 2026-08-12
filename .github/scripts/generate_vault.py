@@ -94,7 +94,7 @@ messages talk about God, the soul, prayer, healing, and the road to at-onement
 with our Heavenly Father. They are catalogued so they can be found by seekers,
 teachers, ministers, historians, translators, and anyone whose heart is asking
 for something more. The majority of the messages have been channeled through
-Al Fike, a spiritual teacher, author, and ordained minister with the Foundation
+@medium[Al Fike], a spiritual teacher, author, and ordained minister with the Foundation
 Church of Divine Truth, and co-founder of the Divine Love Sanctuary Foundation.
 Al has given his life to this work. Other mediums have received messages too,
 and that circle keeps widening. You can learn more at
@@ -111,10 +111,10 @@ it is real, but it is limited by the soul's capacity to love. Divine Love is
 God's own nature flowing into the soul, in answer to sincere prayer and honest
 longing.
 
-This is what Jesus came to teach. Not a doctrine and not a religion, but a
-living relationship with God through the inflowing of His Love into the soul.
-The messages here carry that same teaching forward, given by Jesus himself and
-by the many Celestial spirits who walk with him.
+This is what @spirit[Jesus] came to teach. Not a doctrine and not a religion,
+but a living relationship with God through the inflowing of His Love into the
+soul. The messages here carry that same teaching forward, given by Jesus
+himself and by the many Celestial spirits who walk with him.
 
 It all comes down to the asking. God answers according to the depth of your
 desire, so the more truly you call out from your soul rather than from your
@@ -137,7 +137,7 @@ wondering which way to turn, here are three ways to navigate.
 If you would rather feel your way through the archive rather than study your
 way through, click [[Browse]]. Every message in the archive is listed there
 alongside its "door," a single line describing where that message leads. The
-word is Augustine's: hidden within each lesson, he said, is a great door to
+word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
 growing your souls and making yourselves a clearer channel of Love in the
 world. Finding that door in each message, and writing it down, is how the
 browse index came to be built. Peruse the list until something pulls at your
@@ -165,14 +165,18 @@ what is known of their lives in their own words. Everything on those pages is
 drawn from the messages themselves rather than from history books, so where the
 record is quiet, the page is quiet too.
 
-**Mediums** does the same for those who received the messages.
+**Mediums** does the same for those who received the messages, beginning with
+@medium[Al Fike].
 
 **Subjects** is how a single theme can be traced across the years and dozens of
-voices; {subjects} of them, arranged in categories.
+voices; {subjects} of them, arranged in categories. Start at
+[[Subjects Index]].
 
-**Collections** groups messages by topic: Jesus Speaks, The Saints and Apostles
-Speak, Two Paths, Healing Path, Mind and Soul, Service and Mission, Letters from
-History, Awakening Humanity, and Prism of the Soul.
+**Collections** groups messages by topic: @collection[Jesus Speaks],
+@collection[The Saints & Apostles Speak|The Saints & Apostles Speak],
+@collection[Two Paths], @collection[Healing Path], @collection[Mind & Soul],
+@collection[Service & Mission], @collection[Letters from History],
+@collection[Awakening Humanity], and @collection[Prism of the Soul].
 
 **Chains** is the newest layer, and the one still under construction. A chain
 follows a single argument across the whole archive, explaining important Divine
@@ -186,24 +190,28 @@ rather show you the work as it stands than keep it hidden until it is done.
 
     ("Who is channeling here", """
 They introduce themselves by name, and the names are not small ones. Jesus is
-here, and many who walked beside him: Mary his mother, John the Beloved,
-Andrew, Peter, James, Matthew, Luke, and Mark.
+here, and many who walked beside him: @spirit[Mary his mother|mary],
+@spirit[John the Beloved], @spirit[Andrew], @spirit[Peter], @spirit[James],
+@spirit[Matthew], @spirit[Luke], and @spirit[Mark].
 
-Others come from well outside that circle. Augustine teaches here more often
-than anyone. Confucius. Francis of Assisi. Moses, Isaiah, and Solomon.
-Yogananda, Martin Luther, and Gandhi, along with others who were known in their
-own centuries and have since found their way to this path.
+Others come from well outside that circle. @spirit[Augustine] teaches here more
+often than anyone. @spirit[Confucius]. @spirit[Francis of Assisi].
+@spirit[Moses], @spirit[Isaiah], and @spirit[Solomon]. @spirit[Yogananda],
+@spirit[Martin Luther], and @spirit[Gandhi], along with others who were known in
+their own centuries and have since found their way to this path.
 
-And then there are spirits no one has ever heard of. Goldie, who arrives when a
-room has grown too solemn and reminds everyone to laugh. Faith Nyquist. Alec
-Gaunt. Seretta Kem. Keea Atta Kem. Some of the most moving messages in this
+And then there are spirits no one has ever heard of. @spirit[Goldie], who
+arrives when a room has grown too solemn and reminds everyone to laugh.
+@spirit[Faith Nyquist|faith-nyquist]. @spirit[Alec Gaunt].
+@spirit[Seretta Kem]. @spirit[Keea Atta Kem|keea-atta-kem]. Some of the most moving messages in this
 archive come from them, and I would not trade a single one for a more famous
 name.
 
 One thing worth knowing before you read far: these spirits do not always agree
 with the traditions that were built around their names, and several return
-specifically to set the record straight. Solomon comes to say that the wisdom
-he was celebrated for was wrong. Martin Luther comes to say he has since
+specifically to set the record straight. @spirit[Solomon] comes to say that the
+wisdom he was celebrated for was wrong. @spirit[Martin Luther] comes to say he
+has since
 released much of what he spent his life fighting for. If you are hoping these
 messages will confirm what you were raised with, they may surprise you. They
 surprised me.
@@ -424,6 +432,32 @@ def open_capital(text):
     if first in "`\"'\u201c\u2018[(" or not first.isalpha():
         return text
     return first.upper() + text[1:]
+
+
+HOME_LINK_RE = re.compile(r"@(spirit|medium|collection)\[([^\]]+)\]")
+
+
+def resolve_home_links(text, resolve):
+    """
+    Turn @spirit[...], @medium[...] and @collection[...] markers in the Home
+    prose into wikilinks.
+
+    The prose names people by whatever form reads best in a sentence ("Mary
+    his mother", "Keea Atta Kem"), while the hub notes are named from the
+    profile files. Rather than hardcoding note names into the prose, each
+    marker is resolved at build time against the same name and alias maps
+    used elsewhere. A name with no hub behind it falls back to plain text,
+    so the page never carries a dead link and never has to be kept in sync
+    by hand.
+    """
+    def repl(m):
+        kind, label = m.group(1), m.group(2)
+        # An explicit "Label|Lookup" gives the sentence one form and the
+        # resolver another, e.g. @spirit[Mary his mother|Mary].
+        display, _, lookup = label.partition("|")
+        note = resolve(kind, (lookup or display).strip())
+        return f"[[{note}|{display.strip()}]]" if note else display.strip()
+    return HOME_LINK_RE.sub(repl, text)
 
 
 def parse_chain_memberships():
@@ -1420,9 +1454,10 @@ def main():
         "chains": f"{len(chain_members):,}",
         "questions": f"{total_q:,}",
     }
-    home = [HOME_INTRO.format(**counts).strip(), ""]
+    home = [resolve_home_links(HOME_INTRO.format(**counts), resolve_fm).strip(), ""]
     for heading, body in HOME_SECTIONS:
-        home += [f"## {heading}", "", body.format(**counts).strip(), ""]
+        home += [f"## {heading}", "",
+                 resolve_home_links(body.format(**counts), resolve_fm).strip(), ""]
     (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
 
     # Lint pass over chains-log.md: report rather than drop silently.
