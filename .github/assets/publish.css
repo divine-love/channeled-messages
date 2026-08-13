@@ -1,0 +1,48 @@
+/* ---------------------------------------------------------------------------
+   Divine Love Messages Archive - Obsidian Publish styles
+
+   Loaded automatically by Obsidian Publish from the vault root. Kept in the
+   repository at .github/assets/publish.css and copied into the vault by
+   generate_vault.py, so it survives the vault being rebuilt.
+   --------------------------------------------------------------------------- */
+
+/* "Questions this message answers" callout.
+
+   Obsidian colours callouts from a --callout-color variable holding an
+   "R, G, B" triple, which it then uses for the title text, the icon and the
+   tinted background. Setting the variable rather than the individual colours
+   means the whole callout stays internally consistent. The question callout
+   ships orange; this is a cool blue instead. */
+.callout[data-callout="question"] {
+  --callout-color: 56, 132, 199;
+}
+
+/* Dark mode wants a lighter, less saturated blue: the same value that reads
+   as calm on white reads as murky on a dark background. */
+.theme-dark .callout[data-callout="question"] {
+  --callout-color: 122, 176, 224;
+}
+
+/* Give the questions a little more room to breathe than the default list
+   spacing allows, since these are full sentences rather than short items. */
+.callout[data-callout="question"] li {
+  margin-block: 0.25em;
+}
+
+/* Chain hub member headings.
+
+   Each member on a chain page is written as an h3, "2016-05-02 - Message
+   Title", which renders large enough to compete with the evidence beneath it.
+   Chain hubs are the only generated pages that use h3, so this can be set
+   globally without touching anything else. Sized to the body text and kept
+   semibold, so it still reads as a label rather than as a sentence, and the
+   spacing above is kept generous while the gap below is closed, which visually
+   attaches the heading to the evidence it introduces. */
+.markdown-preview-view h3,
+.markdown-rendered h3 {
+  font-size: var(--font-text-size, 1rem);
+  line-height: var(--line-height-normal, 1.5);
+  font-weight: 600;
+  margin-block-start: 1.6em;
+  margin-block-end: 0.25em;
+}
