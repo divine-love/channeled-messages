@@ -146,6 +146,9 @@ before adding new ones.
 | `fear-of-full-immersion` | The fear of full immersion in the Love | The obstacle to full reception is not unworthiness or error but a near-universal fear of being wholly immersed → the feared losses run from vulnerability and possessions down to identity itself → the obstacle is clothing, worn and removable (mental assumptions, fears, the mind's judgments), not a condition of the soul → the half-measure, sipping from the bank, is named and surpassed → nothing in harmony is lost; all is enhanced | Overcoming Fear & Doubt; Surrender & Trust in God |
 | `simplicity-of-the-path` | Simplicity as the effective register of the path and its ministry | The Divine Love path is inherently simple and complication is human-made → the simple register is what actually reaches the soul, and esoteric complexity has no effect (the failure mode) → lived simply, the complexities fall away or fall into place → the scope covers both the walking and the speaking: the seeker's life and the servant's ministry | Walking the Divine Path; Service, Ministry & Being a Channel of Love |
 | `portals` | Portals of Light: conferred conduits of concentrated blessing | A portal is a mechanism for communication and the concentrated flow of God's blessings, made of energy with substance → it cannot be built by human effort; it is conferred by God's Will upon souls committed to serve, constructed by a team of spirits, and the foundation of each portal known to this circle was ignited by Jesus → humans supply the conditions: presence and dedicated prayer in a place anchor one end of the bridge, and prayer sustains what it cannot create → portals attach to places and may be conferred wherever committed souls pray, including temporarily, and their proliferation to elevate the world's conditions is God's Will → BOUNDARY: communication does not require a portal; portals concentrate blessing, they do not gate contact | Circle of Light & Prayer Circles; Lattice of Light & Global Prayer Network |
+| `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
+| `pentecost` | The two modes of soul awakening, sudden and gradual | The Pentecost was a real and sudden infilling, a fire that did not burn but healed -> it arose from specific conditions of longing and readiness in those present -> most seekers instead walk the incremental road of cleansing they have chosen -> which mode arrives turns on the depth and urgency of the soul's yearning, not on merit -> and a gathering of sufficient longing can still produce it | Soul Awakening; Personal Transformation Journey |
+| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God entrusts each soul with a unique purpose and the gifts to fulfil it -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
 
 ---
 
@@ -158,7 +161,9 @@ and `self-love-foundation` on 2026-07-06; `incremental-journey` on
 `vanguards-of-change`, and the `divine-love-healing` re-mint on 2026-07-20;
 `prayer-changes-world-conditions` and `provision-for-service` on 2026-08-03;
 `fear-of-full-immersion` and `simplicity-of-the-path` on 2026-08-06;
-`portals` later the same date, at a dedicated doctrine-reading session). Anchors marked;
+`portals` later the same date, at a dedicated doctrine-reading session;
+`the-fall`, `pentecost` and `soul-purpose-emergence` on 2026-08-13, minted
+on member evidence already standing in the log). Anchors marked;
 back-search roles are provisional pending full text. Per-message log entries
 exist for the anchor-level witnesses; roster-only names await log migration
 as they are processed or back-searched in full.
@@ -317,7 +322,39 @@ as they are processed or back-searched in full.
   2019-02-01-af-confucius (usage). Place-attachment resolved: conferrable
   wherever committed souls pray, temporary included; the Frankfurt silence
   is consistent.
-
+- `the-fall`, (minted 2026-08-13): 2016-03-31-af-judas (Foundation,
+  presumptive anchor: the gift offered and declined, and the withdrawal
+  until Jesus). Foundation-section witness: 2016-05-29-af-aman (the
+  original-state and fall narrative; role provisional, [back-search], not
+  yet read in full). Pairs with `reincarnation-progression`, which holds
+  Aman's incarnation Foundation. TENSION to settle at build: Judas frames
+  the first refusal as contentment ("the happiness of those original beings
+  was great and full"), the Aman entry as suspicion of God's offer. One or
+  the other is a description-level artefact; confirm against Aman's full
+  text.
+- `pentecost`, (minted 2026-08-13): 2019-02-15-af-matthew (Testimony, the
+  eyewitness account and the teaching drawn from it). The Foundation is
+  identified but not yet logged: 2017-05-11-af-jesus, which frames the
+  conditions doctrinally and asks whether the hearers' longing is deep
+  enough; log it when the message is processed and the section head is in
+  place. Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual as a
+  matter of yearning intensity), 2016-08-31-af-martin-luther (the earliest
+  in hand: the readiness conditions as a checklist, and the claim that a
+  gathering can produce it). Overlaps `incremental-journey` and
+  `soul-expiation`; this thread is the awakening-modes question.
+- `soul-purpose-emergence`, (minted 2026-08-13): 2019-01-29-af-augustine
+  (Foundation, presumptive anchor: the purpose entrusted, the invitation
+  free will may decline, the gravitation rather than the revelation) and
+  2015-08-17-af-peter (Foundation-section member, [back-search]: the
+  purpose embedded before birth, the inner strife of ignoring it, the
+  clarity that arrives as Divine Love enlivens the soul). Elaborations:
+  2016-03-29-af-james (the gifts inherent in the soul lit up by the Love),
+  2019-02-03-af-andrew (the companion restatement four days after the
+  Foundation), 2019-02-21-af-elijah (the role designated in advance,
+  opened out through reception). Witnesses: 2015-09-21-af-mary,
+  2019-04-07-af-augustine, 2016-06-27-af-faith-nyquist. Distinct from
+  `purpose-of-life` (life's general meaning) and from
+  `free-will-and-gods-plan` (whether free will and God's plan conflict).
 ---
 
 # Holding pen (candidate threads not yet minted)
@@ -325,38 +362,6 @@ as they are processed or back-searched in full.
 Threads suggested by a single message so far. Mint a slug once a second
 message gives them an argument to trace.
 
-- `the-fall`, the original state of humanity and the fall from grace.
-  Seen: 2016-05-29-af-aman (original state and fall narrative);
-  2016-03-31-af-judas (the clearest "offered and declined" statement - God
-  offered the first parents His Essence as a choice and they rejected it,
-  content as they were, so it was withdrawn until Jesus). Pairs with
-  `reincarnation-progression`. Now close to mintable: Aman supplies the
-  original-state/fall narrative and Judas the explicit gift-offered-and-refused
-  mechanism. Mint when building, likely with Judas 2016-03-31 as Foundation for
-  the "fall as refusal of the gift" framing and Aman as the original-state
-  witness.
-- `pentecost` (candidate: the Pentecost and the two modes of soul awakening) -
-  the sudden, total Pentecostal infilling versus the gradual, incremental
-  awakening most seekers experience, and the readiness required to receive the
-  former. Seen: 2017-05-11-af-jesus (Jesus explains the conditions that produced
-  the disciples' Pentecost and asks whether the seekers' longing is deep enough;
-  states awakening may come gradually or in a great rush); 2019-02-15-af-matthew
-  (eyewitness account of the Pentecost - "a fire that did not burn" but healed
-  and changed those present - paired with the teaching that seekers yearn for
-  instantaneous awakening "instead of the incremental and sometimes difficult
-  journey of cleansing" they have chosen). Together these give the candidate both
-  the doctrinal framing (Jesus) and the experiential witness (Matthew). Mint when
-  building, likely with Jesus 2017-05-11 as Foundation and Matthew 2019-02-15 as
-  Testimony. Overlaps `soul-expiation` (the incremental cleansing road), the new-birth
-  material (no thread minted; watch), and the `incremental-journey`
-  thread; keep distinct as the awakening-modes question. Further sighting:
-  2019-01-28-af-matthew-2 (references the Pentecost conditions directly;
-  sudden vs gradual framed as a matter of yearning intensity; logged).
-  (2026-08-06 sighting, the earliest in the candidate:
-  2016-08-31-af-martin-luther, the readiness conditions as a checklist,
-  sincere longing, pushing aside mental resistance and questioning, a leap
-  of faith, and a setting claim no other sighting carries, that a gathering
-  is what can produce it.)
 - `currency-of-love`, love as the true currency / medium of exchange
   between souls; bridges language, culture, and belief. Seen:
   2016-01-11-af-matthew. Also surfaces in 2016-07-04-af-francis-of-assisi
@@ -389,29 +394,6 @@ message gives them an argument to trace.
   people miss it. Seen: 2016-03-14-af-mary (states it crisply but does not build
   the argument). Mint when a message genuinely develops the argument rather than
   asserting it. Search-level home meanwhile: subject "Divine Purpose" (nearest valid subject; "Purpose & Meaning of Life" does not exist in subjects.yml).
-- `soul-purpose-emergence`, distinct from `purpose-of-life` (life's general
-  meaning) and from `free-will-and-gods-plan` (whether free will and God's plan
-  conflict). This would be the specific teaching that each soul carries a unique,
-  God-bestowed purpose and set of gifts, and that one's true self and purpose are
-  not handed over in a single revelation but emerge slowly through the soul's
-  awakening, until one finds oneself already walking a path in harmony with God's
-  Will. Strongest statement so far: 2019-01-29-af-augustine ("it does not come as
-  a revelation... your soul naturally gravitating to that place when it is ready";
-  the gravity-toward-the-sea image). Companion sighting: 2019-02-03-af-andrew
-  ("it does not come as a revelation, but comes with the slow awakening and
-  expression of your soul... until you find yourself walking upon a path that is
-  truly in harmony with God's Will"). Augustine 2015-11-30 is an earlier witness
-  (unique gifts, God-bestowed purpose, the fear of how it changes one's life).
-  Mint when building, with the Augustine 2019-01-29 message as Foundation
-  (now logged in the per-message log above; companion sighting Andrew
-  2019-02-03; earlier witness Augustine 2015-11-30). Earlier witnesses now in
-  hand from the 2026-07-06 back-search: 2015-08-17-af-peter (a developed
-  early statement, logged with a provisional Foundation role) and
-  2015-09-21-af-mary (sighting); and 2019-04-07-af-augustine (sighting,
-  logged: the mind blocks awareness of the gifts, which become self-evident
-  as the soul awakens).
-  (2026-08-03 sighting: 2016-06-27-af-faith-nyquist, unique manifestation
-  per soul, asserted; merged late from batch 4.)
 - `two-currents-cosmology`, the macro framing of the world as a contest between
   two currents or streams, one toward darkness and one toward light, with the
   collective movement of awakened souls as the means by which Light overcomes
