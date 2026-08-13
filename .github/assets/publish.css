@@ -59,3 +59,50 @@
 .markdown-rendered h3 + p {
   margin-block-start: 0.2em;
 }
+/* Link hover.
+
+   Obsidian colours links from --link-color and --link-color-hover. Setting
+   the variables rather than the anchor colour directly keeps every link
+   consistent, including links inside callouts and tables, which carry their
+   own colour rules that would otherwise win. #3884c7 is the same blue as the
+   question callout above, in the form these variables expect. */
+.markdown-preview-view,
+.markdown-rendered {
+  --link-color-hover: #3884c7;
+  --link-external-color-hover: #3884c7;
+  --link-unresolved-color-hover: #3884c7;
+}
+
+/* A gentle underline on hover as well, so the cue is not colour alone.
+   Readers who cannot easily distinguish the two blues still get the signal.
+   Delete this block if you would rather hover be colour only. */
+.markdown-preview-view a:hover,
+.markdown-rendered a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Graph view colours.
+
+   The graph is painted on a canvas, so its text cannot be styled, but
+   Obsidian does read these variables when drawing it. --graph-node is every
+   ordinary note, --graph-node-focused is the one you are viewing,
+   --graph-node-unresolved is a link whose target does not exist, and
+   --graph-line is the connections. Lines are kept faint so the nodes carry
+   the eye rather than the web between them. */
+body {
+  --graph-node: #3884c7;
+  --graph-node-focused: #1f4f7a;
+  --graph-node-unresolved: #c9ced6;
+  --graph-line: rgba(56, 132, 199, 0.25);
+}
+
+/* Dark mode: the same relationships, lightened, since a mid blue disappears
+   against a dark canvas. */
+.theme-dark body,
+body.theme-dark {
+  --graph-node: #7ab0e0;
+  --graph-node-focused: #bcd9f2;
+  --graph-node-unresolved: #4a5058;
+  --graph-line: rgba(122, 176, 224, 0.28);
+}
