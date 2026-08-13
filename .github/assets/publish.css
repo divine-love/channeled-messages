@@ -4,40 +4,131 @@
    Loaded automatically by Obsidian Publish from the vault root. Kept in the
    repository at .github/assets/publish.css and copied into the vault by
    generate_vault.py, so it survives the vault being rebuilt.
+
+   The palette is built for long reading. Light mode is warm cream with a
+   near-black that carries a little brown in it; dark mode is a warm charcoal
+   rather than the usual blue-black, so switching between them does not feel
+   like changing sites. Accents are a muted violet for links, a mid blue for
+   hover and for the questions callout, and nothing else. Contrast is kept
+   above the accessibility floor throughout, but stops short of pure black on
+   pure white, which is what makes long passages tiring.
    --------------------------------------------------------------------------- */
 
-/* "Questions this message answers" callout.
+/* ---------------------------------------------------------------------------
+   1. Light palette
+   --------------------------------------------------------------------------- */
+
+body:not(.theme-dark) {
+  /* Surfaces. Primary is the reading pane, secondary the sidebars, so the
+     page still has a clear front surface rather than one flat field. */
+  --background-primary: #f4ece0;
+  --background-primary-alt: #eee4d5;
+  --background-secondary: #eee4d5;
+  --background-secondary-alt: #e5d9c6;
+
+  /* Text. Not black: #2e2a24 is a near-black with brown in it, which sits on
+     cream without the harsh edge pure black produces. */
+  --text-normal: #2e2a24;
+  --text-muted: #6d6559;
+  --text-faint: #9c9385;
+  --text-title-h1: #2e2a24;
+  --text-title-h2: #3a352d;
+
+  /* Accents. Violet at rest, blue on hover: different enough in hue that the
+     change registers, close enough in weight that it does not flash. */
+  --link-color: #6d54a8;
+  --link-external-color: #6d54a8;
+  --link-unresolved-color: #a08f7a;
+  --link-color-hover: #2e7fbe;
+  --link-external-color-hover: #2e7fbe;
+  --link-unresolved-color-hover: #2e7fbe;
+
+  /* Structure. Cream's own darker relative rather than a grey laid over it. */
+  --background-modifier-border: #ddd0ba;
+  --background-modifier-border-hover: #cfc0a6;
+  --hr-color: #ddd0ba;
+  --blockquote-border-color: #cbb99b;
+
+  /* Code and quiet panels, one step deeper than the page. */
+  --code-background: #ece1cf;
+  --code-normal: #5c4a2e;
+
+  /* Selection and search highlight, warm rather than the default blue wash. */
+  --text-selection: rgba(109, 84, 168, 0.18);
+  --text-highlight-bg: rgba(214, 178, 96, 0.35);
+}
+
+/* ---------------------------------------------------------------------------
+   2. Dark palette
+
+   Warm charcoal, not blue-black, so the two modes feel like one site. Text
+   is a soft parchment rather than white: full white on dark is as tiring as
+   pure black on white, for the opposite reason.
+   --------------------------------------------------------------------------- */
+
+body.theme-dark {
+  --background-primary: #1e1b17;
+  --background-primary-alt: #262218;
+  --background-secondary: #262218;
+  --background-secondary-alt: #2f2a1f;
+
+  --text-normal: #e7dfd2;
+  --text-muted: #a99f8f;
+  --text-faint: #7a7264;
+  --text-title-h1: #f0e8db;
+  --text-title-h2: #e7dfd2;
+
+  --link-color: #b39ae0;
+  --link-external-color: #b39ae0;
+  --link-unresolved-color: #857a66;
+  --link-color-hover: #6fbcf0;
+  --link-external-color-hover: #6fbcf0;
+  --link-unresolved-color-hover: #6fbcf0;
+
+  --background-modifier-border: #3b342a;
+  --background-modifier-border-hover: #4a4235;
+  --hr-color: #3b342a;
+  --blockquote-border-color: #574c3b;
+
+  --code-background: #2a251c;
+  --code-normal: #d8c9a8;
+
+  --text-selection: rgba(179, 154, 224, 0.22);
+  --text-highlight-bg: rgba(214, 178, 96, 0.28);
+}
+
+/* ---------------------------------------------------------------------------
+   3. "Questions this message answers" callout
 
    Obsidian colours callouts from a --callout-color variable holding an
-   "R, G, B" triple, which it then uses for the title text, the icon and the
-   tinted background. Setting the variable rather than the individual colours
-   means the whole callout stays internally consistent. The question callout
-   ships orange; this is a cool blue instead. */
-.callout[data-callout="question"] {
-  --callout-color: 56, 132, 199;
+   "R, G, B" triple, which drives the title, the icon and the tinted panel
+   together. The question callout ships orange; this is the site's blue.
+   --------------------------------------------------------------------------- */
+
+body:not(.theme-dark) .callout[data-callout="question"] {
+  --callout-color: 46, 127, 190;      /* #2e7fbe */
 }
 
-/* Dark mode wants a lighter, less saturated blue: the same value that reads
-   as calm on white reads as murky on a dark background. */
-.theme-dark .callout[data-callout="question"] {
-  --callout-color: 122, 176, 224;
+body.theme-dark .callout[data-callout="question"] {
+  --callout-color: 111, 188, 240;     /* #6fbcf0 */
 }
 
-/* Give the questions a little more room to breathe than the default list
-   spacing allows, since these are full sentences rather than short items. */
+/* Full sentences rather than short list items, so a little more room. */
 .callout[data-callout="question"] li {
   margin-block: 0.25em;
 }
 
-/* Chain hub member headings.
+/* ---------------------------------------------------------------------------
+   4. Chain hub member headings
 
-   Each member on a chain page is written as an h3, "2016-05-02 - Message
-   Title", which renders large enough to compete with the evidence beneath it.
-   Chain hubs are the only generated pages that use h3, so this can be set
-   globally without touching anything else. Sized to the body text and kept
-   semibold, so it still reads as a label rather than as a sentence, and the
-   spacing above is kept generous while the gap below is closed, which visually
-   attaches the heading to the evidence it introduces. */
+   Each member on a chain page is an h3, "2016-05-02 - Message Title", which
+   renders large enough to compete with the evidence beneath it. Chain hubs
+   are the only generated pages using h3, so this is global in form but
+   targeted in effect. Sized to the body text and kept semibold, so it still
+   reads as a label; generous space above, closed up below, which attaches
+   each heading to its own evidence.
+   --------------------------------------------------------------------------- */
+
 .markdown-preview-view h3,
 .markdown-rendered h3 {
   font-size: var(--font-text-size, 1rem);
@@ -47,62 +138,47 @@
   margin-block-end: 0.25em;
 }
 
-/* Close the gap between a chain member's heading and its evidence.
-
-   Removing the blank line from the Markdown is not enough on its own: every
-   paragraph carries its own top margin, and that margin is what produces the
-   gap. The heading's bottom margin and the paragraph's top margin collapse
-   into whichever is larger, so both have to be small. Targeting only the
-   paragraph directly after an h3 leaves every other paragraph on the site
-   spaced normally. */
+/* Removing the blank line from the Markdown is not enough on its own: every
+   paragraph carries a top margin, and adjacent margins collapse to whichever
+   is larger, so both have to be small. */
 .markdown-preview-view h3 + p,
 .markdown-rendered h3 + p {
   margin-block-start: 0.2em;
 }
-/* Link hover.
 
-   Obsidian colours links from --link-color and --link-color-hover. Setting
-   the variables rather than the anchor colour directly keeps every link
-   consistent, including links inside callouts and tables, which carry their
-   own colour rules that would otherwise win. #3884c7 is the same blue as the
-   question callout above, in the form these variables expect. */
-.markdown-preview-view,
-.markdown-rendered {
-  --link-color-hover: #3884c7;
-  --link-external-color-hover: #3884c7;
-  --link-unresolved-color-hover: #3884c7;
-}
+/* ---------------------------------------------------------------------------
+   5. Links
+   --------------------------------------------------------------------------- */
 
 /* A gentle underline on hover as well, so the cue is not colour alone.
-   Readers who cannot easily distinguish the two blues still get the signal.
-   Delete this block if you would rather hover be colour only. */
+   Readers who cannot easily distinguish violet from blue still get the
+   signal. Delete this block for colour-only hover. */
 .markdown-preview-view a:hover,
 .markdown-rendered a:hover {
   text-decoration: underline;
   text-underline-offset: 0.15em;
 }
 
-/* Graph view colours.
+/* ---------------------------------------------------------------------------
+   6. Graph view
 
    The graph is painted on a canvas, so its text cannot be styled, but
-   Obsidian does read these variables when drawing it. --graph-node is every
-   ordinary note, --graph-node-focused is the one you are viewing,
-   --graph-node-unresolved is a link whose target does not exist, and
-   --graph-line is the connections. Lines are kept faint so the nodes carry
-   the eye rather than the web between them. */
-body {
-  --graph-node: #3884c7;
-  --graph-node-focused: #1f4f7a;
-  --graph-node-unresolved: #c9ced6;
-  --graph-line: rgba(56, 132, 199, 0.25);
+   Obsidian reads these variables when drawing it. Nodes take the link colour
+   by reference rather than by copy, so the graph and the prose can never
+   drift apart; the hex is only a fallback if the variable has not resolved
+   when the canvas paints. Lines are faint so the nodes carry the eye.
+   --------------------------------------------------------------------------- */
+
+body:not(.theme-dark) {
+  --graph-node: var(--link-color, #6d54a8);
+  --graph-node-focused: #2e7fbe;
+  --graph-node-unresolved: #c3b8a4;
+  --graph-line: rgba(109, 84, 168, 0.22);
 }
 
-/* Dark mode: the same relationships, lightened, since a mid blue disappears
-   against a dark canvas. */
-.theme-dark body,
 body.theme-dark {
-  --graph-node: #7ab0e0;
-  --graph-node-focused: #bcd9f2;
-  --graph-node-unresolved: #4a5058;
-  --graph-line: rgba(122, 176, 224, 0.28);
+  --graph-node: var(--link-color, #b39ae0);
+  --graph-node-focused: #6fbcf0;
+  --graph-node-unresolved: #4e463a;
+  --graph-line: rgba(179, 154, 224, 0.26);
 }
