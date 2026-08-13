@@ -48,9 +48,8 @@ of people who have already walked it.
 There is no wrong way in, but if you are standing at the door of the archive
 wondering which way to turn, here are three ways to navigate.
 
-If you are on a desktop and would rather feel your way through the archive rather than study your
-way through, click [[Browse]]. Every message in the archive is listed there
-alongside its "door," a single line describing where that message leads. The
+If you would rather feel your way through the archive rather than study your
+way through, click [[Browse|Browse All Messages]]. It is a wide table, so it reads best on a larger screen. Every message in the archive is listed there alongside its "door," a single line describing where that message leads. The
 word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
 growing your souls and making yourselves a clearer channel of Love in the
 world. Finding that door in each message, and writing it down, is how the
