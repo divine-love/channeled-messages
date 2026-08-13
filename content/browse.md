@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 ---
 
 # Browse All Messages
@@ -25,7 +25,7 @@ last_updated: 2026-08-12
 | [They Will Fill This Building](messages/2015/03/2015-03-23-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑23 | They will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right |
 | [Trust God to Lead You to Solid Ground](messages/2015/03/2015-03-23-af-goldie.md) | [Goldie](../spirits/goldie.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑23 | Why do you walk from one piece of ice to another in a swift river? Trust God to lead you to solid ground |
 | [Your Purpose in This Gathering Is to Teach the Prayer Practice](messages/2015/03/2015-03-23-af-john-the-beloved.md) | [John the Beloved](../spirits/john-the-beloved.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑23 | Your purpose in this gathering is to teach the prayer practice. This is but a small portion of what is to come |
-| [There Is Fate and Yet There Is No Fate](messages/2015/03/2015-03-24-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑24 | There is fate and yet there is no fate. God sees all and anticipates all - and in time, His Will is enacted |
+| [There Is Fate and Yet There Is No Fate](messages/2015/03/2015-03-24-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑24 | There is fate and yet there is no fate. God sees all and anticipates all, and in time, His Will is enacted |
 | [Every Human Soul Is Damaged by the Earth Condition](messages/2015/03/2015-03-27-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑27 | Every soul who walks this Earth is injured. Even those with smiles on their faces carry within them deep hurt and the unfulfilled longing for love. |
 | [You Are All Members of a Family](messages/2015/03/2015-03-27-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑27 | Put aside your judgments and fears. Be as little children, bathing in these beautiful waters of God's Love |
 | [The Door Opens to the Path of Love](messages/2015/03/2015-03-27-af-peter.md) | [Peter](../spirits/peter.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑03‑27 | The door opens. Are you ready? Do you desire this? God has lit the path, ready for you to follow |

@@ -1,7 +1,7 @@
 ---
 title: "Letters from History"
 description: "Messages from historical figures beyond the biblical canon — philosophers, rulers, mystics, scientists, and others speaking from their perspective in spirit about Divine Love, truth, and the soul's journey."
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 ---
 
 # Letters from History
@@ -12,7 +12,6 @@ Messages from historical figures beyond the biblical canon — philosophers, rul
 
 | Message | Date | Description |
 |---|---|---|
-| [There Is Fate and Yet There Is No Fate](../messages/2015/03/2015-03-24-af-augustine.md) | 2015‑03‑24 | Augustine delivers a philosophically rich teaching on the relationship between fate, free will, and God's Will, explaining that while God has a plan and an intended outcome for the world, the power of human free will means the path to that outcome is never straight or predictable. He teaches that God and His angels work ceaselessly to orchestrate events through circuitous routes, and that willing souls ignited by Divine Love are a treasure in this world - capable of manifesting God's Will in ways that cut through the accumulated darkness of generations. |
 | [The Journey of Divine Love Takes Time but Brings Great Benefits](../messages/2015/03/2015-03-28-af-augustine.md) | 2015‑03‑28 | Augustine identifies himself as the former bishop of Hippo and acknowledges his role in spreading erroneous beliefs about Jesus's true message during his Earth life. He describes his own journey after entering spirit - discovering the Truth of Divine Love, praying earnestly to receive it, and ascending through the spheres into the Celestial Kingdom. He teaches that the blessing of Divine Love is incremental, that each prayer brings the soul closer to God, and that fellowship with other seekers is a vital strength on the journey. |
 | [The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations](../messages/2015/06/2015-06-15-af-joseph-smith.md) | 2015‑06‑15 | Joseph Smith speaks from the Celestial Heavens, acknowledging that while angels did support his Earth life work in founding the Mormon Church, the institution has since become too infected by the will of man. He reflects on how organised religion in general allows human ambition and error to usurp God's Will, and teaches that a true church is simply a community of souls seeking Light and fellowship together. He calls all who seek truth to walk the path of Divine Love and be living examples of that Love from within whatever community they find themselves. |
 | [Release Your Old Ways and Allow God's Love to Bring New Understanding and Love](../messages/2015/08/2015-08-20-af-francis-of-assisi.md) | 2015‑08‑20 | Francis of Assisi draws on his own experience of walking away from material wealth to encourage the gathering to gradually release the attachments and walls that separate them from God and one another. He assures them that as they pray for Divine Love and let go, their gifts will flourish, their lives will transform harmoniously, and they will find the freedom and fulfillment their souls have always sought. |
