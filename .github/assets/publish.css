@@ -46,3 +46,16 @@
   margin-block-start: 1.6em;
   margin-block-end: 0.25em;
 }
+
+/* Close the gap between a chain member's heading and its evidence.
+
+   Removing the blank line from the Markdown is not enough on its own: every
+   paragraph carries its own top margin, and that margin is what produces the
+   gap. The heading's bottom margin and the paragraph's top margin collapse
+   into whichever is larger, so both have to be small. Targeting only the
+   paragraph directly after an h3 leaves every other paragraph on the site
+   spaced normally. */
+.markdown-preview-view h3 + p,
+.markdown-rendered h3 + p {
+  margin-block-start: 0.2em;
+}
