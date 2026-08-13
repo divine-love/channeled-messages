@@ -2,7 +2,7 @@
 
 # For use as project knowledge in Claude conversations
 
-# Last updated: 2026-07-16
+# Last updated: 2026-08-12
 
 # THE REPOSITORY IS CANONICAL. These instructions carry only what the repo
 
@@ -53,10 +53,11 @@ For published messages: the curator sends the URL; fetch and verify against the 
 
 ## Current state
 
-- Processing position: catalogued through 2019-04-08; the 2016 backlog additions 2016-04-02-af-jesus and 2016-04-04-af-augustine are also done
+- Processing position: not a single frontier. The sequential catch-up is filling the 2016 backlog (batches currently at 2016-09-02); messages from later years are catalogued as they surface, so the archive already holds material through 2023 (latest: 2023-02-10-af-augustine). Check the index for collisions rather than assuming a message is unprocessed because of its date
 - Archive spans 1963-2023; earliest message 1963-12-26-ds-mary (earliest member of any chain, via who-jesus-was)
-- 24 minted threads (free-will-and-self-responsibility minted 2026-07-11); `provision-for-service` newly in the holding pen (Foundation candidate 2016-04-04-af-augustine); divine-love-healing in the pen awaiting a second witness (check 2016-04-13, 2017-12-12, and 2018-07-14 af-seretta-kem)
-- Portal watch ongoing (2016-03-25 → 2019-01-26 doctrine → 2019-02-01 usage → 2019-04-06 boundary: communication does not require one)
+- 32 minted threads (`portals` minted 2026-08-06, most recent); 14 candidates in the holding pen
+- Active workstream: the [back-search] confirmation pass. 41 of the original 49 entries still carry the tag; each is read in full, its role confirmed or upgraded, evidence prose added, and the tag removed. Highest-value remaining are the anchors and presumptive anchors: 2015-03-29-af-seretta-kem, 2015-05-03-af-confucius, 2017-06-15-af-augustine, 2018-07-19-af-matthew, 2018-09-01-af-augustine, 2018-10-16-af-seretta-kem
+- Portal watch closed 2026-08-06 on the minting of `portals`; portal sightings continue as ordinary thread traffic (2016-03-25 loose → 2016-08-25 established → 2018-11-21 and 2019-01-26 doctrine → 2019-04-06 boundary)
 - Mediums on file: Al Fike (af), Maureen Cardoso (mc), Dr. Daniel Samuels (ds), Jimbeau Walsh (jw), anonymous (xx)
 - New spirit file: sri-yukteswar (Yogananda's guru; channels later, distinct from sri-yarisupta)
 - Kay Dunbar (passed 2019-04): mother of Jeanne Fike (wife of Al Fike) and Judy Dunbar; her "dear Albert" is Al Fike; watch for her later message through him
@@ -69,4 +70,6 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - Usage census data to inform a possible future merge of the two Surrender subjects
 - Keyword frequency analysis (curator's Obsidian note): hub pages for 5+ frequency keywords if warranted
 - The who-jesus-was Foundation anchor is a three-way build-time choice (1963-12-26-ds-mary, 2018-11-26-af-jesus, 2019-01-27-af-jesus)
+- The `two-paths` Capstone is a two-way build-time choice (2016-05-02-af-andrew, which holds the role, and 2018-05-12-af-luke, which names the at-onement gate)
+- Natural-love rehabilitation watch stands at three instances; a fourth triggers qualifying clauses on the `two-paths` spine and the `earth-conditions-and-prayer` remedy wording
 - Obsidian vault: regenerate with `python .github/scripts/generate_vault.py` after commits; vault is derived and disposable; .obsidian/ and Notes/ are preserved; obsidian-vault/* is gitignored except Notes/
