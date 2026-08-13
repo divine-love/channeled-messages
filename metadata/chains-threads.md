@@ -332,16 +332,15 @@ as they are processed or back-searched in full.
   was great and full"), the Aman entry as suspicion of God's offer. One or
   the other is a description-level artefact; confirm against Aman's full
   text.
-- `pentecost`, (minted 2026-08-13): 2019-02-15-af-matthew (Testimony, the
-  eyewitness account and the teaching drawn from it). The Foundation is
-  identified but not yet logged: 2017-05-11-af-jesus, which frames the
-  conditions doctrinally and asks whether the hearers' longing is deep
-  enough; log it when the message is processed and the section head is in
-  place. Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual as a
-  matter of yearning intensity), 2016-08-31-af-martin-luther (the earliest
-  in hand: the readiness conditions as a checklist, and the claim that a
-  gathering can produce it). Overlaps `incremental-journey` and
-  `soul-expiation`; this thread is the awakening-modes question.
+- `pentecost`, (minted 2026-08-13): 2017-05-11-af-jesus (Foundation, anchor:
+  the conditions that produced the Pentecost, the two modes named, and the
+  claim that the gift is never withheld, only unready to be received) and
+  2019-02-15-af-matthew (Testimony, the eyewitness account and the teaching
+  drawn from it). Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual
+  as a matter of yearning intensity), 2016-08-31-af-martin-luther (the
+  readiness conditions as a checklist, and the claim that a gathering can
+  produce it). Overlaps `incremental-journey` and `soul-expiation`; this
+  thread is the awakening-modes question.
 - `soul-purpose-emergence`, (minted 2026-08-13): 2019-01-29-af-augustine
   (Foundation, presumptive anchor: the purpose entrusted, the invitation
   free will may decline, the gravitation rather than the revelation) and
