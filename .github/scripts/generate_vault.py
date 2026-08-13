@@ -81,11 +81,13 @@ from collections import defaultdict
 # str.format() is used, a literal brace in the prose must be doubled ({{ }}).
 # ---------------------------------------------------------------------------
 
-HOME_INTRO = """# Messages of Divine Love
+HOME_INTRO = """# The Divine Love Messages Archive
 
 If you have landed here with questions you cannot quite put into words, you
 are not alone. Many people find their way to these messages because they are
-searching for fulfillment, purpose, and meaning in their lives.
+searching; searching for fulfillment, purpose, and meaning in their lives
+which have become so busy and chaotic that it's easy to become mired in the
+mundane and lose track of what life is all about.
 
 This archive is a collection of just over {messages} messages from spirit. The
 messages talk about God, the soul, prayer, healing, and the road to at-onement
@@ -139,7 +141,7 @@ of people who have already walked it.
 There is no wrong way in, but if you are standing at the door of the archive
 wondering which way to turn, here are three ways to navigate.
 
-If you are on a desktop and would rather feel your way through the archive rather than study your
+If you would rather feel your way through the archive rather than study your
 way through, click [[Browse]]. Every message in the archive is listed there
 alongside its "door," a single line describing where that message leads. The
 word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
@@ -190,7 +192,8 @@ Love teachings that may not align with traditional ideas held by religious and
 spiritual communities. This section contains those teachings, and refers to the
 messages to show how a teaching is founded, expanded, argued with, turned
 around, and finally brought to rest, often across years and through many
-different spirits. 
+different spirits. Begin at [[Chains Index]]. It is unfinished, and I would
+rather show you the work as it stands than keep it hidden until it is done.
 """),
 
     ("Who is channeling here", """
@@ -254,6 +257,14 @@ CONTENT_MIRROR = {
 # stale.
 CONTENT_PAGES = {
     "browse.md": "Browse.md",
+}
+
+# Files copied verbatim to the vault root: {source path in the repo: vault
+# filename}. Obsidian Publish loads publish.css and publish.js from the vault
+# root, but obsidian-vault/ is gitignored, so the real copy lives in the
+# repository and is placed on every run.
+VAULT_ROOT_FILES = {
+    ".github/assets/publish.css": "publish.css",
 }
 SUBJECTS_PATH = ROOT / "metadata" / "subjects.yml"
 SPIRITS_DIR = ROOT / "spirits"
@@ -973,6 +984,7 @@ def main():
         if p.exists():
             shutil.rmtree(p)
         p.mkdir(parents=True)
+    GENERATED_FILES += list(VAULT_ROOT_FILES.values())
     for f in GENERATED_FILES:
         (VAULT / f).unlink(missing_ok=True)
     # A configured content/ folder that no longer exists would otherwise
@@ -1095,6 +1107,18 @@ def main():
         mirrored_into.append(vault_name)
     for vault_name in sorted(set(CONTENT_PAGES.values()) - pages_done):
         missing.append(vault_name)
+
+    # Publish reads publish.css (and publish.js, if you add one) from the
+    # vault root. Copied verbatim rather than carried, since these are not
+    # notes and must not have their links rewritten.
+    for src_name, vault_name in VAULT_ROOT_FILES.items():
+        src = ROOT / src_name
+        if src.is_file():
+            shutil.copy2(src, VAULT / vault_name)
+            mirrored += 1
+            mirrored_into.append(vault_name)
+        else:
+            missing.append(src_name)
     # Your own space: created once, never regenerated, safe to write in.
     notes = VAULT / "Notes"
     notes.mkdir(exist_ok=True)
@@ -1486,7 +1510,6 @@ def main():
     for e in sorted(set(et_defs) | set(by_et)):
         items = by_et.get(e, [])
         et_idx.append(f"## {'[[Essential Teachings/' + filename(e) + '|' + e + ']]' if items else e}")
-        et_idx.append("")
         # Definition and count sit on adjacent lines, no blank between, so
         # the count reads as a caption to the definition rather than as its
         # own paragraph.
