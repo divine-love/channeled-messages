@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-08-06
+last_updated: 2026-08-12
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -176,15 +176,15 @@ as they are processed or back-searched in full.
 - `sensitive-souls-redemptive`, 2016-03-07-af-augustine (Foundation, anchor)
   and 2017-01-16-af-keea-atta-kem (Objection-removed: sensitivity is a sign
   of growth, not vulnerability). Both logged.
-- `challenges-as-blessings`, minted on the witness roster rather than a
-  developed anchor; the anchor is still awaited (a message that builds WHY
-  hardship strengthens the soul rather than asserting that it does).
-  Witnesses: 2015-06-15-af-faith-nyquist, 2015-11-02-af-augustine,
-  2016-02-29-af-confucius, 2017-01-25-af-alec-gaunt, 2017-03-27-af-james,
-  2018-08-06-af-solomon, 2019-02-22-af-keea-atta-kem. (2026-08-03:
-  presumptive anchor found, 2016-08-11-af-alec-gaunt logged as Foundation;
-  it builds the mechanism, the stake, and the failure mode the criterion
-  named. Build-time confirmation remains.)
+- `challenges-as-blessings`, (minted 2026-07-06 on the witness roster; the
+  anchor was awaited and has since been found) Foundation and presumptive
+  anchor: 2016-08-11-af-alec-gaunt (logged 2026-08-03), which builds the
+  mechanism, the stake, and the failure mode the criterion named rather
+  than asserting that hardship strengthens the soul; build-time
+  confirmation remains. Witnesses: 2015-06-15-af-faith-nyquist,
+  2015-11-02-af-augustine, 2016-02-29-af-confucius,
+  2017-01-25-af-alec-gaunt, 2017-03-27-af-james, 2018-08-06-af-solomon,
+  2019-02-22-af-keea-atta-kem.
 - `self-love-foundation`, minted on the witness roster; anchor awaited (a
   message making self-love its own central argument; Luke is the likeliest
   voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
@@ -509,7 +509,7 @@ message gives them an argument to trace.
   fellowship does for the seeker. Mint when a second message develops either
   reason rather than commending fellowship in passing; the perception claim is
   the rarer of the two and the one to watch for.
-    
+
 ---
 
 # Open questions to revisit when building begins
@@ -643,15 +643,8 @@ message gives them an argument to trace.
   collections is a deliberate taxonomy decision to raise explicitly with the
   curator.
 - Back-search [back-search] entries need full-text confirmation of their roles
-  before chains are finalised. 49 entries carried the tag at the start of the
-  2026-08-11 session. Confirmed and detagged so far: 2015-03-27-af-andrew,
-  2016-05-02-af-andrew, 2018-05-12-af-luke, 2019-01-21-af-augustine,
-  2015-10-12-af-augustine. All five held their provisional roles; two gained
-  additional member roles at full text that the description-level pass had
-  missed, which is the expected failure direction (under-reading, not
-  mis-reading). Highest-value remaining: the anchors and presumptive anchors,
-  2015-03-24-af-augustine, 2015-03-29-af-seretta-kem, 2015-05-03-af-confucius,
-  2016-05-02-af-andrew (done), 2017-06-15-af-augustine, 2018-07-19-af-matthew,
+  before chains are finalised. 41 entries carried the tag at the start of the
+  2026-08-12 session. Highest-value remaining: the anchors and presumptive anchors, 2015-03-29-af-seretta-kem, 2015-05-03-af-confucius, 2017-06-15-af-augustine, 2018-07-19-af-matthew,
   2018-09-01-af-augustine, 2018-10-16-af-seretta-kem.
 - `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
   on Good Friday") gestures at the thread's territory - "the distortions that

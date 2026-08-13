@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-08-06
+last_updated: 2026-08-12
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -160,7 +160,7 @@ are built.
 ### 2015-06-15-af-joseph-smith | The Imaginings and Ideas of Men Create Falsehoods and Misinterpretations | 2015-06-15 [back-search]
 - `religious-error` **[Elaboration]** : Joseph Smith on how organised religion lets human ambition usurp God's Will; extends the religious-error argument with a second institutional witness.
 
-### 2016-04-12-af-moses | Lesson on the Falsity of the Vicarious Atonement and the Unsure Nature of Written Truth | 2016-04-12 [back-search]
+### 2016-04-12-af-moses | Lesson on the Falsity of the Vicarious Atonement and the Unsure Nature of Written Truth | 2016-04-12
 - `religious-error` **[Objection-removed]** : Moses repudiates the Vicarious Atonement and the finality of written word, clearing the central doctrinal objection that blocks the Divine Love teaching. Strong mid-chain link. (2026-07-20: confirmed at full text during batch processing; both repudiations stand as described, role stands.)
 - `conduit-not-scripture` **[Objection-removed]** : (added 2026-07-20 at full text, on minting) clears the belief that would distort the conduit claim into bibliolatry. Names the error from the inside ("We, the Jews, took great import upon the written word. We felt that the written word was the Word of God"), denies it ("the word is not sacred. No, words are words"), relocates the sacredness ("your rapport with your Heavenly Father"), and preserves the conduit: "to bring a suggestion of Truth in the written word, for that is merely all that it is, is a productive action." That last clause makes it a member here and not only of `religious-error`; the two readings are compatible. Given the same evening as the thread's Foundation (2016-04-12-af-keea-atta-kem), to the same circle, both turning on the word rapport; the pairing looks deliberate.
 
