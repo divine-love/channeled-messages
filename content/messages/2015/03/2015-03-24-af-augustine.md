@@ -17,7 +17,7 @@ description: >
   intended outcome for the world, the power of human free will means the path
   to that outcome is never straight or predictable. He teaches that God and His
   angels work ceaselessly to orchestrate events through circuitous routes, and
-  that willing souls ignited by Divine Love are a treasure in this world -
+  that willing souls ignited by Divine Love are a treasure in this world,
   capable of manifesting God's Will in ways that cut through the accumulated
   darkness of generations.
 primary_subjects: "Free Will & Human Error"
@@ -56,10 +56,10 @@ excerpt: >
   and in time His Will is enacted. To have willing souls who are ignited by
   God's Love is a treasure in this world - for through them miracles may
   be manifested.
-collections: ["Letters from History", "The Saints & Apostles Speak"]
+collections: ["The Saints & Apostles Speak"]
 door: >
-  There is fate and yet there is no fate. God sees all and anticipates all - and in time, His Will is enacted
-last_edited: 2026-04-23
+  There is fate and yet there is no fate. God sees all and anticipates all, and in time, His Will is enacted
+last_edited: 2026-08-12
 ---
 
 My beloved souls, it is your teacher, Augustine. So we embark on another adventure together, which will in time open up into a whole entire chapter and many series of events which you will not anticipate but will unfold as the will of God manifests in your lives and in this place. Do not try and anticipate these events but accept and go upon your guidance, allow this flow of God's will to manifest as it should be in all its beauty and grace and perfection. Indeed, this instrument has thanked God for all the series of events that have brought him and his dear mate here, and this is an insightful prayer of gratitude for many things, many acts and actions had to take place for you to arrive at this very moment, and the angels indeed are kept very busy to orchestrate many, many things in this world and at times to allow the results to take place that are required may take circuitous routes and more time than anticipated and different players.
