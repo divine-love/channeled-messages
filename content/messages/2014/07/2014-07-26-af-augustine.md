@@ -1,6 +1,6 @@
 ---
 message_id: 2014-07-26-af-augustine
-title: "Free Will Makes for a Free Wheeling World. Nothing Is Guaranteed."
+title: "Free Will Makes for a Free Wheeling World; Nothing Is Guaranteed"
 date: 2014-07-26
 spirit_name: Augustine
 spirit_id: augustine
