@@ -263,6 +263,10 @@ CONTENT_PAGES = {
 # filename}. Obsidian Publish loads publish.css and publish.js from the vault
 # root, but obsidian-vault/ is gitignored, so the real copy lives in the
 # repository and is placed on every run.
+# The Home page prose. Edit this file, not the fallback constants below: a new
+# version of this script will overwrite the constants but never the file.
+HOME_SOURCE = ".github/assets/home.md"
+
 VAULT_ROOT_FILES = {
     ".github/assets/publish.css": "publish.css",
 }
@@ -1533,6 +1537,23 @@ def main():
     # it can be edited without touching any logic; only the counts are
     # computed, and they are formatted in-place so the page never states a
     # number that has gone stale.
+    # Home prose lives in its own file so that updates to this script never
+    # overwrite the curator's copy edits. HOME_INTRO / HOME_SECTIONS below are
+    # only the fallback used when that file is absent.
+    home_source = ROOT / HOME_SOURCE
+    if home_source.is_file():
+        raw = home_source.read_text(encoding="utf-8")
+        parts = re.split(r"^## ", raw, flags=re.M)
+        intro_text = parts[0]
+        sections = []
+        for part in parts[1:]:
+            heading, _, body = part.partition("\n")
+            sections.append((heading.strip(), body))
+    else:
+        intro_text, sections = HOME_INTRO, HOME_SECTIONS
+        print(f"NOTE: {HOME_SOURCE} not found; using the fallback prose "
+              f"built into this script.")
+
     counts = {
         "messages": f"{len(messages):,}",
         "subjects": f"{len(by_subject):,}",
@@ -1540,8 +1561,8 @@ def main():
         "questions": f"{total_q:,}",
     }
     home = [unwrap_paragraphs(
-        resolve_home_links(HOME_INTRO.format(**counts), resolve_fm)).strip(), ""]
-    for heading, body in HOME_SECTIONS:
+        resolve_home_links(intro_text.format(**counts), resolve_fm)).strip(), ""]
+    for heading, body in sections:
         home += [f"## {heading}", "",
                  unwrap_paragraphs(
                      resolve_home_links(body.format(**counts), resolve_fm)).strip(),
