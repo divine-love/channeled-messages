@@ -1,6 +1,6 @@
 ---
 message_id: 2014-07-26-af-augustine
-title: "Free Will Makes for a Free Wheeling World; Nothing Is Guaranteed"
+title: "Free Will Makes for a Free Wheeling World, Nothing Is Guaranteed"
 date: 2014-07-26
 spirit_name: Augustine
 spirit_id: augustine
@@ -38,7 +38,7 @@ essential_teachings: []
 door: >
   Freedom to choose is the very thing that makes love real
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-11
+last_edited: 2026-08-13
 ---
 
 Your teacher Augustine here. So as you see the events of the world do not unfold to the Will of God but to the will of man. And indeed, it is easy to blame God for the wrong doings of mankind but it is not correct. God gives to all the gift of free will. God gifts all with this power to choose and indeed in this way, great good and great negativity can be in the world at the same time, because of this choice, because of the efforts of man. Indeed you wish to align yourself with the will of God and you do in your prayers and you do often in your actions and for this you are mightily blessed. But yes, we cannot control the events of the world in the way that you would like us to, that you desire us to, to make all easy and orderly and without strife. But alas, we are limited in our efforts as well because of the power of free will and the grave conditions that mankind has established in this world. This is not to say that we are powerless to influence man, for we can and put forth our efforts on your behalf and for the benefit of many who pray and seek the light, who desire the Will of God to become the will of man. And in time, as you grow in the love and your soul grows in wisdom, in insight and perception with the love, you will see your way through more clearly. You will understand to some extent the events to come and will adjust accordingly.
@@ -51,4 +51,4 @@ Indeed is it not a wondrous path, a glorious journey? Yes, at times beset with d
 
 I know that it is difficult to accept all that is within your lives. I know that there are struggles. I know that at times you feel inadequate and uncared for but this is not true. You have all that you require to set forth upon your path and you are truly loved and cared for. If you only knew, my children, if you only knew the power of this truth, the grace that is given, the protection, the light, how we diligently work to inspire, to lead you forth as God's great hand touches all. If you only knew, you would indeed fall upon your knees in joy, in wonderment for you are truly loved and God has claimed your souls as His children, as His beautiful Creations and you are coming to understand this. Your eyes are slowly opening, the scales peel away, and with each day comes a little more vision and understanding. Make your choices, my children. Desire love in all things, walk in this path of light and love and God will take care of the rest. Truly God will take care of you all.
 
-God bless you. Your teacher Augustine is always by your side and desires that you learn each day a little more truth, bring yourselves each day a little closer to God, to open a little wider, to His presence within. And so shall you do, all of these, so you are set upon the path, feet firmly placed and you will be given all that you require. Do not doubt this but rejoice in this. Rejoice in every day given, every opportunity blessed, every bit of life held close within you, the greatest gift of all. God bless you. God bless you. I love you.
+God bless you. Your teacher Augustine is always by your side and desires that you learn each day a little more truth, bring yourselves each day a little closer to God, to open a little wider, to His presence within. And so shall you do, all of these, so you are set upon the path, feet firmly placed and you will be given all that you require. Do not doubt this but rejoice in this. Rejoice in every day given, every opportunity blessed, every bit of life held close within you, the greatest gift of all. God bless you. God bless you. I love you. 
