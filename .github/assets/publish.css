@@ -21,10 +21,10 @@
 body:not(.theme-dark) {
   /* Surfaces. Primary is the reading pane, secondary the sidebars, so the
      page still has a clear front surface rather than one flat field. */
-  --background-primary: #f4ece0;
-  --background-primary-alt: #eee4d5;
-  --background-secondary: #eee4d5;
-  --background-secondary-alt: #e5d9c6;
+  --background-primary: #f7f0e6;
+  --background-primary-alt: #f1e9db;
+  --background-secondary: #f1e9db;
+  --background-secondary-alt: #e9decc;
 
   /* Text. Not black: #2e2a24 is a near-black with brown in it, which sits on
      cream without the harsh edge pure black produces. */
@@ -67,10 +67,10 @@ body:not(.theme-dark) {
    --------------------------------------------------------------------------- */
 
 body.theme-dark {
-  --background-primary: #1e1b17;
-  --background-primary-alt: #262218;
-  --background-secondary: #262218;
-  --background-secondary-alt: #2f2a1f;
+  --background-primary: #191613;
+  --background-primary-alt: #211d15;
+  --background-secondary: #211d15;
+  --background-secondary-alt: #2a251b;
 
   --text-normal: #e7dfd2;
   --text-muted: #a99f8f;
@@ -174,6 +174,14 @@ body:not(.theme-dark) {
   --graph-node-focused: #2e7fbe;
   --graph-node-unresolved: #c3b8a4;
   --graph-line: rgba(109, 84, 168, 0.22);
+
+  /* Hover. --graph-node-fill-highlight is the body of the node, which is
+     what turns blue when the cursor is on it; --graph-line-highlight is the
+     connections leading to it, coloured to match so the whole neighbourhood
+     lights up together rather than just the one dot. */
+  --graph-node-fill-highlight: #2e7fbe;
+  --graph-node-highlight: #2e7fbe;
+  --graph-line-highlight: rgba(46, 127, 190, 0.55);
 }
 
 body.theme-dark {
@@ -181,4 +189,8 @@ body.theme-dark {
   --graph-node-focused: #6fbcf0;
   --graph-node-unresolved: #4e463a;
   --graph-line: rgba(179, 154, 224, 0.26);
+
+  --graph-node-fill-highlight: #6fbcf0;
+  --graph-node-highlight: #6fbcf0;
+  --graph-line-highlight: rgba(111, 188, 240, 0.55);
 }
