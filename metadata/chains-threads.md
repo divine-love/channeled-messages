@@ -488,7 +488,28 @@ message gives them an argument to trace.
   noticed rather than lost. Mint only when a message argues the
   inexhaustibility itself, for instance by drawing the consequence that
   at-onement has no terminal state.
-  
+- `spiritual-fellowship`, the company of other seekers is not a comfort but a
+  requirement of the path, for two reasons: it holds the seeker against the
+  pull back into the human conditions, and it supplies perception the seeker
+  cannot generate alone, since each journey reveals what another's cannot.
+  Seen: 2015-03-28-af-augustine (the developed statement, and the Foundation
+  candidate: fellowship as protection, "encouragement for one another to
+  continue the journey and not fall back into the human conditions which in
+  many ways deny the existence of God and do not foster the openness and
+  awareness of the soul"; and fellowship as a way of seeing, "each has a
+  unique perception and understanding and journey to take and in sharing this
+  with one another, it opens new awarenesses, opportunities for growth,
+  different perspectives which open insights into the mind's struggle to make
+  sense of their lives in this world"). Fenced from `judgment-to-love`, which
+  applies its argument inside the fellowship rather than arguing for it, and
+  from `bell-toll-instrumentality`, which is what radiates outward from a
+  gathered soul rather than what the gathering gives the soul. Also fenced
+  from the network-of-light bonding sightings (2015-08-17-af-isaiah, Elijah
+  at 2019-02-21), which affirm that the bonds are eternal without saying what
+  fellowship does for the seeker. Mint when a second message develops either
+  reason rather than commending fellowship in passing; the perception claim is
+  the rarer of the two and the one to watch for.
+    
 ---
 
 # Open questions to revisit when building begins
