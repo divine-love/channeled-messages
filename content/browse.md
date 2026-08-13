@@ -14,7 +14,7 @@ last_updated: 2026-08-13
 | Message | Spirit | Medium | Date | The Door |
 |---|---|---|---|---|
 | [Jesus' Birth and Youth](messages/1963/12/1963-12-26-ds-mary.md) | [Mary, Mother of Jesus](../spirits/mary.yml) | [Daniel Samuels](../mediums/daniel-samuels.yml) | 1963‑12‑26 | A mother's grief strips away doctrine and leaves only the truth she lived |
-| [Free Will Makes for a Free Wheeling World; Nothing Is Guaranteed](messages/2014/07/2014-07-26-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2014‑07‑26 | Freedom to choose is the very thing that makes love real |
+| [Free Will Makes for a Free Wheeling World, Nothing Is Guaranteed](messages/2014/07/2014-07-26-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2014‑07‑26 | Freedom to choose is the very thing that makes love real |
 | [You Will Never Feel the Pain of Being Alone When You Possess God's Love](messages/2014/10/2014-10-11-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2014‑10‑11 | The loneliness you feel is a signpost pointing toward the Love that ends it |
 | [Every Soul Can Receive the Divine Love and Be Transformed by It](messages/2014/10/2014-10-11-af-judas.md) | [Judas](../spirits/judas.yml) | [Al Fike](../mediums/al-fike.yml) | 2014‑10‑11 | If Judas can be redeemed, no soul is beyond the reach of God's Love |
 | [Express Your Yearnings to God](messages/2014/12/2014-12-01-af-john-the-beloved.md) | [John the Beloved](../spirits/john-the-beloved.yml) | [Al Fike](../mediums/al-fike.yml) | 2014‑12‑01 | Your longing is already a prayer and God hears it before you find the words |
