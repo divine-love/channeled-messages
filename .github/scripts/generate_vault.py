@@ -1324,7 +1324,11 @@ def main():
                 f"Curatorial view of [[Chains/{cname}|{cdisp}]]. "
                 "Not published.", ""]
         if theme:
-            lines += [f"> {theme}", ""]
+            # Italic: the theme is the thread's one-line claim, and setting it
+            # apart from the argument spine beneath keeps the two from reading
+            # as one continuous statement.
+            lines += [f"> *{theme}*", ""]
+            work += [f"> *{theme}*", ""]
         if argument:
             lines += [f"**The argument it traces:** {argument}", ""]
 
@@ -1347,9 +1351,11 @@ def main():
                 # appears only in the working mirror; the published hub shows
                 # the evidence alone.
                 ref = f"<small>[{log_line}]</small>"
-                lines += [head, "", linkify_ids(open_capital(pub), notenames), ""]
-                work += [head, "",
-                         f"{linkify_ids(pub, notenames)} {ref}".strip(), ""]
+                # No blank line after the heading: the evidence belongs to the
+                # heading above it, and the gap made each member read as two
+                # separate blocks.
+                lines += [head, linkify_ids(open_capital(pub), notenames), ""]
+                work += [head, f"{linkify_ids(pub, notenames)} {ref}".strip(), ""]
                 if priv:
                     work += ["> [!note] Curator",
                              "> " + linkify_ids(priv, notenames), ""]
