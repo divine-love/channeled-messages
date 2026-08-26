@@ -41,9 +41,7 @@ questions:
   - "How do I let go of my expectations about what God should be?"
   - "Can people from different beliefs receive the same blessing?"
 related_messages:
-  - 2016-04-12-af-augustine
-  - 2016-10-16-af-augustine
-  - 2018-07-07-af-aaron
+  - 2019-02-18-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -57,7 +55,7 @@ door: >
   Put down what you expect God to be, and go to the one place in you that is
   already His image.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-10
+last_edited: 2026-08-19
 ---
 
 It is so good to see so many who’ve come from different perspectives, understandings yet have a soul longing to come together in a group such as this, to receive this great blessing of God’s Divine Love. And I would urge each one of you here to put aside your expectations that are born of your mental ideas and go deeper to that place of your soul, that place is a place separate and different from your mind. It is a place with many hidden potentials and has the possibility to be close to God, for it is your soul that is the image of God, my beloveds. It is your soul that is able to truly know God and to recognize the blessing of His Love which is the essence of the Creator.

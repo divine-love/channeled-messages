@@ -34,6 +34,7 @@ questions:
   - "Can I give someone else the experience of God's Love, or only point the way?"
   - "What does it mean to reach for the highest in my spiritual life?"
 related_messages:
+  - 2016-10-26-af-augustine
   - 2018-06-09-af-john-the-beloved
   - 2019-01-30-af-seretta-kem
 audio_url: ""
@@ -47,7 +48,7 @@ excerpt: >
 door: >
   The angels are already with you. You miss them because you keep listening with your mind instead of your soul.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-29
+last_edited: 2026-08-19
 ---
 
 … Wherever there are those who have an interest and a desire to pursue this gift of Divine Love, we will be with you, beloved souls. We will be with you for God assigns an angel to each soul that is earnest in their efforts to receive this gift of Love. Now for you to know us you must put aside your preconceptions, your mental expectations and barriers, and allow our presence to be felt and known by the senses that are not of the mind and the physical but of the soul and the heart. We will be with you clearly and powerfully in your life. But it is within your will and desire to be open and receptive to this new awareness and presence in your life. This cannot be forced. It is a growing awakening that comes with the blessing of God's Love.

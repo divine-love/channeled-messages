@@ -41,7 +41,8 @@ questions:
   - "Can prayer help someone going through grief?"
   - "What does it mean to be a channel of love in the world?"
   - "How do I release my worries and find peace in prayer?"
-related_messages: []
+related_messages:
+  - 2016-11-27-af-confucius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/as-you-pray-together-you-are-a-channel-of-love-for-many/"
 notes: ""
@@ -54,7 +55,7 @@ door: >
   When souls gather to pray, they become more than individuals — a living channel
   through which God's healing flows outward to a grieving world.
 collections: []
-last_edited: 2026-05-05
+last_edited: 2026-08-25
 ---
 
 Beloved souls, God's healing and pure waters of love wash over you at this time, that you may be cleansed of all conditions that are not of the purity and light of God's Love. He holds you close to His Bosom, beloveds. He draws you into the awakening that will open your eyes to His Presence, that will help you to release those things that burden you, that assures you that you are loved.

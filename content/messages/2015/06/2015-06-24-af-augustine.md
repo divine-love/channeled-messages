@@ -43,6 +43,7 @@ questions:
 related_messages:
   - 2015-05-18-af-augustine
   - 2016-07-10-af-augustine
+  - 2016-11-21-af-confucius
   - 2018-07-30-mc-augustine
 audio_url: ""
 canonical_url: ""
@@ -55,7 +56,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The soul is made in the image of the Creator and the Divine Love is the Essence of the Creator. So the image becomes the substance with this blessing
-last_edited: 2026-05-01
+last_edited: 2026-08-25
 ---
 
 It is Augustine, your teacher.

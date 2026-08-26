@@ -43,7 +43,7 @@ related_messages:
   - 2016-03-18-af-john-the-beloved  
   - 2016-05-11-af-james-padgett
   - 2016-08-16-af-james
-  - 2016-11-06-af-jesus
+  - 2016-11-27-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/minds-men-hunger-reality-words-create-soul-hungers-love/"
 notes: >
@@ -59,7 +59,7 @@ excerpt: >
 collections: ["Service & Mission", "Letters from History"]
 door: >
   Your unique story of Love is all you need, and your embrace will touch souls your words alone never could
-last_edited: 2026-08-11
+last_edited: 2026-08-25
 ---
 
 It is James Padgett. Ah, how provocative is the Divine Love my friends? When this truth came to me I was afraid of it, afraid for my reputation. I wanted to keep it a secret, only letting in those very few that I trusted, only allowing the truth to become known to a very small degree.

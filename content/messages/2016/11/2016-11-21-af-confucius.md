@@ -40,8 +40,8 @@ questions:
   - "How do I open my soul to the Father's Love?"
   - "Does prayer actually change anything in me?"
 related_messages:
-  - 2015-05-27-af-confucius
-  - 2016-10-24-af-confucius
+  - 2015-06-24-af-augustine
+  - 2016-05-16-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -55,7 +55,7 @@ door: >
   Something is moving in you, and it is not restlessness. It is the Love,
   changing you for all eternity.
 collections: []
-last_edited: 2026-08-11
+last_edited: 2026-08-19
 ---
 
 Bless you, my beloveds, Confucius is with you in your prayers.

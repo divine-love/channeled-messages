@@ -59,7 +59,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   When different souls bring their truth together, they create something more beautiful than any one of them could alone
-last_edited: 2026-04-23
+last_edited: 2026-08-25
 ---
 
 Friends, I am indeed Yogananda and I thank you for coming to my sanctuary, for being in this place and adding your prayers to this beautiful garden. You see, Light is everywhere beloveds, Light is everywhere.

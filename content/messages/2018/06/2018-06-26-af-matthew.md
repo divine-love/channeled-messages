@@ -61,7 +61,7 @@ excerpt: >
 collections: ["Mind & Soul", "Healing Path", "The Saints & Apostles Speak"]
 door: >
   You will know when you have passed the test. When you gaze upon one who has challenged you and find love, compassion, and forgiveness - you have become stronger in Light
-last_edited: 2026-08-11
+last_edited: 2026-08-19
 ---
 
 Every day presents its challenges, does it not, my beloveds? Each and every day God encourages you to step further up the ladder of Light, to be more pure in your thoughts, more loving in your actions, more aligned with God in all ways. You have had a discussion regarding your behaviours, your judgments, your desires, your perceptions of others, and yourself. These awarenesses help you to realize the choices that you must make in order to indeed progress in Light. You cannot walk this path of Love without understanding the steps that you must take in order to love more fully not only yourselves, but others.

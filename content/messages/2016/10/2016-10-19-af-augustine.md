@@ -40,8 +40,6 @@ questions:
 related_messages:
   - 2015-03-27-af-andrew
   - 2016-01-23-af-augustine
-  - 2016-10-29-af-andrew
-  - 2016-11-07-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -55,7 +53,7 @@ door: >
   Drifting is not a personality. It is what happens when nothing has been
   fastened to.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-11
+last_edited: 2026-08-19
 ---
 
 Your teacher Augustine is here with you in your prayer, encouraging you to seek God within your hearts, your minds, and your souls, for it is in this search for the Creator, the Source of all, that you will find a deep fulfillment and understanding, an acknowledgment of how loved you are, my beloved, beloved souls. For each soul here longs for that connection with God and each soul must open themselves to the inflowing of His Love, for in this the bond is created with God and that bond creates within you a great and deep strength, opens your awareness to many deep truths, brings meaning and purpose to your lives.
