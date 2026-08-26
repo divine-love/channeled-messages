@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-13
+last_updated: 2026-08-26
 ---
 
 # Browse All Messages
@@ -368,6 +368,11 @@ last_updated: 2026-08-13
 | [Be Disciples of the Truth](messages/2016/11/2016-11-06-af-jesus.md) | [Jesus](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑06 | God does not wait until you can see clearly. He sends you out with your eyes hardly open. |
 | [Love Is the Key](messages/2016/11/2016-11-07-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑07 | The Love is not being withheld. You are refusing delivery, because you do not believe it is addressed to you. |
 | [The Blessing of the Father's Love](messages/2016/11/2016-11-21-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑21 | Something is moving in you, and it is not restlessness. It is the Love, changing you for all eternity. |
+| [When You Follow Your Guidance, and Be a Channel of God's Love, Many Blessings Follow](messages/2016/11/2016-11-26-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑26 | Stop deciding who needs the Love. Ask only to be the channel, and let God choose. |
+| [Drawing Many Kindred Spirits](messages/2016/11/2016-11-27-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | The truth is carried in a smile and a gaze as surely as in a sentence. |
+| [Confucius Welcomes the Flock](messages/2016/11/2016-11-27-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | Stop working out how it will happen and who will do it. Your only task is to come together. |
+| [Many Souls on Our Side Are Part of This Effort*](messages/2016/11/2016-11-27-af-james-reid-2.md) | [James Reid](../spirits/james-reid.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | The gathering you can see is the smaller half of it. |
+| [The Value of Knowing Your Souls](messages/2016/11/2016-11-27-af-james-reid.md) | [James Reid](../spirits/james-reid.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | Ask of every new idea only this: does it increase the love in my life? The rest is clutter. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | [White Cloud](../spirits/white-cloud.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
