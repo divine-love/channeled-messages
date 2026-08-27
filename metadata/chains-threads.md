@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-08-12
+last_updated: 2026-08-27
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -109,6 +109,20 @@ Expect hundreds of threads. Mint slugs disciplined and check the registry
 before adding new ones.
 
 ---
+- `spiritual-fellowship`, (minted 2026-08-13): 2015-03-28-af-augustine
+  (Foundation, anchor: fellowship as protection against falling back, and as
+  a way of seeing, "each has a unique perception and understanding and
+  journey to take and in sharing this with one another, it opens new
+  awarenesses") and 2015-06-15-af-joseph-smith (Elaboration: what makes a
+  fellowship genuine, "this is a true church, a church of Love, a community
+  in fellowship that seeks Light and true understanding", and the failure
+  mode, souls "willing to abdicate their desire to seek truth in a clear way
+  and adopt that which they are told to be truth"). Overlaps
+  `religious-error`, which is about the error institutions accumulate; this
+  thread is about what gathering does for the seeker. Watch for the
+  perception claim specifically: encouragement to gather is everywhere in
+  the archive, but the claim that other souls reveal what one's own cannot
+  is rare and is the thread's distinctive move.
 
 # Theme Registry
 
@@ -149,6 +163,7 @@ before adding new ones.
 | `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
 | `pentecost` | The two modes of soul awakening, sudden and gradual | The Pentecost was a real and sudden infilling, a fire that did not burn but healed -> it arose from specific conditions of longing and readiness in those present -> most seekers instead walk the incremental road of cleansing they have chosen -> which mode arrives turns on the depth and urgency of the soul's yearning, not on merit -> and a gathering of sufficient longing can still produce it | Soul Awakening; Personal Transformation Journey |
 | `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God entrusts each soul with a unique purpose and the gifts to fulfil it -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
+| `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
 
 ---
 
@@ -322,25 +337,35 @@ as they are processed or back-searched in full.
   2019-02-01-af-confucius (usage). Place-attachment resolved: conferrable
   wherever committed souls pray, temporary included; the Frankfurt silence
   is consistent.
-- `the-fall`, (minted 2026-08-13): 2016-03-31-af-judas (Foundation,
-  presumptive anchor: the gift offered and declined, and the withdrawal
-  until Jesus). Foundation-section witness: 2016-05-29-af-aman (the
-  original-state and fall narrative; role provisional, [back-search], not
-  yet read in full). Pairs with `reincarnation-progression`, which holds
-  Aman's incarnation Foundation. TENSION to settle at build: Judas frames
-  the first refusal as contentment ("the happiness of those original beings
-  was great and full"), the Aman entry as suspicion of God's offer. One or
-  the other is a description-level artefact; confirm against Aman's full
-  text.
-- `pentecost`, (minted 2026-08-13): 2017-05-11-af-jesus (Foundation, anchor:
-  the conditions that produced the Pentecost, the two modes named, and the
-  claim that the gift is never withheld, only unready to be received) and
-  2019-02-15-af-matthew (Testimony, the eyewitness account and the teaching
-  drawn from it). Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual
-  as a matter of yearning intensity), 2016-08-31-af-martin-luther (the
-  readiness conditions as a checklist, and the claim that a gathering can
-  produce it). Overlaps `incremental-journey` and `soul-expiation`; this
-  thread is the awakening-modes question.
+- `the-fall`, (minted 2026-08-13): 2016-05-29-af-aman (Foundation, anchor:
+  the first-person account from the soul who refused the gift, with the
+  original state described in detail, the refusal named, "we were so
+  enamoured with our own beings that such a gift seemed unnecessary", the
+  first sin identified as suspicion rather than disobedience, and his own
+  verdict on the choice, "this choice was almost a forgone conclusion as God
+  gifted all with free will") and 2016-03-31-af-judas (Foundation section,
+  the same refusal from outside, supplying the arc the thread traces: the
+  Gift offered, declined, withdrawn, and restored through Jesus). The anchor
+  moved 2026-08-13; Judas held it before Aman's message was read at full
+  text. TENSION RESOLVED: the entry previously flagged Judas framing the
+  refusal as contentment and Aman as suspicion. Aman's full text carries both
+  and orders them, contentment first and suspicion arising out of it, "we
+  were so enamoured with our own beings that such a gift seemed unnecessary
+  and we felt the first inkling of our human nature. We felt suspicion."
+  Neither was a description-level artefact. Pairs with
+  `reincarnation-progression`, which holds Aman's incarnation Foundation
+  (2015-10-26-af-aman, not yet read in full; check whether it also covers the
+  fall before the anchor is settled for good).
+- `pentecost`, (minted 2026-08-13): 2019-02-15-af-matthew (Testimony, the
+  eyewitness account and the teaching drawn from it). The Foundation is
+  identified but not yet logged: 2017-05-11-af-jesus, which frames the
+  conditions doctrinally and asks whether the hearers' longing is deep
+  enough; log it when the message is processed and the section head is in
+  place. Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual as a
+  matter of yearning intensity), 2016-08-31-af-martin-luther (the earliest
+  in hand: the readiness conditions as a checklist, and the claim that a
+  gathering can produce it). Overlaps `incremental-journey` and
+  `soul-expiation`; this thread is the awakening-modes question.
 - `soul-purpose-emergence`, (minted 2026-08-13): 2019-01-29-af-augustine
   (Foundation, presumptive anchor: the purpose entrusted, the invitation
   free will may decline, the gravitation rather than the revelation) and
@@ -469,32 +494,6 @@ message gives them an argument to trace.
   noticed rather than lost. Mint only when a message argues the
   inexhaustibility itself, for instance by drawing the consequence that
   at-onement has no terminal state.
-- `spiritual-fellowship`, the company of other seekers is not a comfort but a
-  requirement of the path, for two reasons: it holds the seeker against the
-  pull back into the human conditions, and it supplies perception the seeker
-  cannot generate alone, since each journey reveals what another's cannot.
-  Seen: 2015-03-28-af-augustine (the developed statement, and the Foundation
-  candidate: fellowship as protection, "encouragement for one another to
-  continue the journey and not fall back into the human conditions which in
-  many ways deny the existence of God and do not foster the openness and
-  awareness of the soul"; and fellowship as a way of seeing, "each has a
-  unique perception and understanding and journey to take and in sharing this
-  with one another, it opens new awarenesses, opportunities for growth,
-  different perspectives which open insights into the mind's struggle to make
-  sense of their lives in this world"). Fenced from `judgment-to-love`, which
-  applies its argument inside the fellowship rather than arguing for it, and
-  from `bell-toll-instrumentality`, which is what radiates outward from a
-  gathered soul rather than what the gathering gives the soul. Also fenced
-  from the network-of-light bonding sightings (2015-08-17-af-isaiah, Elijah
-  at 2019-02-21), which affirm that the bonds are eternal without saying what
-  fellowship does for the seeker. Mint when a second message develops either
-  reason rather than commending fellowship in passing; the perception claim is
-  the rarer of the two and the one to watch for.
-
----
-
-# Open questions to revisit when building begins
-
 - `who-jesus-was` now holds three Foundation-section members spanning 56 years:
   1963-12-26-ds-mary (the attained-Messiahship and birth-record correction),
   2018-11-26-af-jesus (existence and impersonation), and 2019-01-27-af-jesus
@@ -634,3 +633,41 @@ message gives them an argument to trace.
   its actual spine is carry-the-message service and pushing back darkness. Too
   light to log as a member. Revisit only if it would help bracket the thread's
   Good-Friday / death-of-Jesus framing when building.
+- `the-fall` holds two accounts of the same event, from different spirits,
+  both stated as origins. 2016-03-31-af-judas: the Gift was refused because
+  the first souls were content, "the happiness of those original beings was
+  great and full in their existence as it was." 2015-06-15-af-joseph-smith:
+  "The source of the great fall of mankind is to be powerful, to not
+  acknowledge the power of God." Contentment and ambition are not the same
+  diagnosis. They may be sequential, contentment refusing the offer and
+  ambition characterising what followed, but nothing yet in hand says so.
+  Hold both at build rather than resolving; a message that reconciles them
+  would be a significant addition to the thread.
+- `religious-error` has a set worth reading together at build: three founders
+  and reformers correcting their own work. 2015-03-28-af-augustine encouraged
+  the error himself; 2015-06-15-af-joseph-smith confirms the angels really did
+  support the founding and says the institution decayed anyway; Martin Luther
+  says he has since released much of what he fought for.
+- `comfort-dulls-longing`, a life whose needs are met produces insufficient
+  longing to receive Divine Love; contentment, not sin, is what most often
+  refuses the gift. Seen, in three registers: 2016-05-29-af-aman
+  (first-person, the refusal itself, "we were so enamoured with our own
+  beings that such a gift seemed unnecessary", in a life he describes as
+  without pain, labour or want); 2016-03-31-af-judas (cosmology, the same
+  refusal from outside, "the happiness of those original beings was great
+  and full in their existence as it was. And so they decided that they were
+  indeed fulfilled in their lives as they were"); 2017-05-11-af-jesus
+  (pastoral, applied to a living circle, "As you come together in this place
+  of luxury, of abundance, of joyful interaction and Love together, in many
+  ways your needs are met. You do not feel in crisis", against disciples who
+  received the Pentecost out of trauma and confusion). Fenced from
+  `challenges-as-blessings`, which argues that hardship produces growth; the
+  claim here is the converse and does not follow from it, that ease produces
+  shallowness. Fenced from `fear-of-full-immersion`, where the obstacle is
+  what the seeker fears to lose; here there is no fear, only sufficiency.
+  Note that none of the three condemns comfort: Jesus is explicit, "This is
+  not wrong, God wants you to have joy." The claim is that the good life is
+  insufficient, not that it is sinful, and any member must carry that
+  distinction. Mint when a fourth message develops it, or promote sooner if
+  a message states the remedy: what a comfortable soul is to do about it,
+  which none of the three answers.  
