@@ -31,7 +31,8 @@ questions:
   - "How do I lean on others in spiritual fellowship without becoming dependent?"
   - "What does it mean to strengthen one another in love?"
 related_messages:
-  - "2015-08-17-af-augustine"
+  - 2015-08-17-af-augustine
+  - 2016-11-28-af-luke
 audio_url: ""
 canonical_url: ""
 notes: "Not publicly posted online. Closing blessing at the end of the August 2015 Gibsons Retreat."
@@ -44,7 +45,7 @@ door: >
   The retreat is over but the fellowship is not; you leave with brothers
   and sisters who will walk beside you for the rest of the journey.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-08-29
 ---
 
 Augustine here, your teacher. Yes, we are well pleased with the progress you made. You have each contributed, you have each been blessed, you each walk the path to greater work and enlightenment. Now I release you. Go to your feasting dinner, enjoy each other's company and congratulate one another, for you have made a great contribution to this effort to bring the knowledge of the Love to the world. Bless you, my beloveds, bless you and continue on in your journeys, knowing that you now have your brothers and sisters by your side, and that you can rely upon one another to walk in this Light together. Although you are never alone, now you know there are others upon this world who walk with you in Love. Strengthen your relationships, lean upon one another, nurture one another and work together. You will find great solace and strength in this, and insight.

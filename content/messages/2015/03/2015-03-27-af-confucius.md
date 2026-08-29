@@ -32,6 +32,7 @@ questions:
   - "What can a small diverse gathering of seekers really accomplish together?"
 related_messages:
   - 2016-01-04-af-confucius
+  - 2016-11-28-af-moses
   - 2018-07-17-af-mary
 audio_url: ""
 canonical_url: ""
@@ -48,7 +49,7 @@ excerpt: >
 collections: []
 door: >
   Put aside your judgments and fears. Be as little children, bathing in these beautiful waters of God's Love
-last_edited: 2026-04-23
+last_edited: 2026-08-29
 ---
 
 God bless you my beloved souls. I am Confucius.
