@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-27
+last_updated: 2026-08-29
 ---
 
 # Browse All Messages
@@ -373,6 +373,11 @@ last_updated: 2026-08-27
 | [Confucius Welcomes the Flock](messages/2016/11/2016-11-27-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | Stop working out how it will happen and who will do it. Your only task is to come together. |
 | [Many Souls on Our Side Are Part of This Effort*](messages/2016/11/2016-11-27-af-james-reid-2.md) | [James Reid](../spirits/james-reid.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | The gathering you can see is the smaller half of it. |
 | [The Value of Knowing Your Souls](messages/2016/11/2016-11-27-af-james-reid.md) | [James Reid](../spirits/james-reid.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | Ask of every new idea only this: does it increase the love in my life? The rest is clutter. |
+| [Jesus Brings His Blessing to the Group](messages/2016/11/2016-11-27-af-jesus.md) | [Jesus](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | Others are already behind you on this road, though you cannot see them yet. |
+| [Mary Brings Her Blessings to the Group](messages/2016/11/2016-11-27-af-mary.md) | [Mary](../spirits/mary.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑27 | You will not be ministering alone. |
+| [Why Complicate Life?](messages/2016/11/2016-11-28-af-goldie.md) | [Goldie](../spirits/goldie.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑28 | Laughter is not a break from the spiritual work. It is some of the work. |
+| [Luke Welcomes Those Who Are a Part of the Punalu'u Gathering](messages/2016/11/2016-11-28-af-luke.md) | [Luke](../spirits/luke.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑28 | You are not only here to give. Someone in this room knows something your own journey cannot show you. |
+| [Unite in the Name of Love](messages/2016/11/2016-11-28-af-moses.md) | [Moses](../spirits/moses.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑28 | Push your brother away and you have pushed God away with him. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | [White Cloud](../spirits/white-cloud.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
