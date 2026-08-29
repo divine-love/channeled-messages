@@ -123,6 +123,22 @@ before adding new ones.
   perception claim specifically: encouragement to gather is everywhere in
   the archive, but the claim that other souls reveal what one's own cannot
   is rare and is the thread's distinctive move.
+- `mind-vs-soul` (not a pen mint; recorded here so the thread's confirmed
+  structure sits with the other rosters). Foundation, anchor:
+  2015-10-12-af-augustine, a teaching given to answer a question put to the
+  circle about the difference between the two minds, and the one message in
+  the thread that defines the distinction rather than applying it; it states
+  the incapacity as a limit in kind, not degree. Chrysalis, anchor:
+  2018-10-09-af-seretta-kem, the two minds merging until "there will be no
+  sense of separation," with oneness denied the status of an ending, "even
+  this is not the end but merely the beginning." Chrysalis section member:
+  2018-06-18-af-matthew, which turns the conflict into an expedition
+  ("scientists of the soul") and promises the new perception will hold rather
+  than pass; it precedes Seretta Kem by date, so the section reads as
+  expedition then arrival. Objection-removed: 2018-12-17-af-mary, which with
+  the Foundation in place now reads as guarding a distinction already drawn
+  rather than as free-standing. The chain runs from a definition of the two
+  minds to their ceasing to be two.
 
 # Theme Registry
 
@@ -563,17 +579,16 @@ message gives them an argument to trace.
   (2019-02-01); early premise-witnesses precede developed Foundations in
   `free-will-and-gods-plan` (2014-07-26), `who-jesus-was` (2018-11-26), and
   `preparation-to-be-a-rock` (2015-06-29).)
-- `mind-vs-soul` already has two Chrysalis candidates (2018-06-18, 2018-10-09).
-  Resolved in principle by the 2026-07-06 structure revision: both belong in
-  the Chrysalis section; the only build-time choice is the anchor.
-  (2026-08-11: the thread's missing Foundation is found and logged,
-  2015-10-12-af-augustine, a teaching delivered to answer a question put to
-  the circle about the difference between the two minds. It is the one
-  message in the thread that sets out to define the distinction rather than
-  apply it, and it states the incapacity as a limit in kind, not degree.
-  Anchor upgraded from presumptive to held. Consequence for the Chrysalis
-  choice: with the head in place, 2018-12-17-af-mary's Objection-removed now
-  reads as guarding a distinction already drawn rather than as free-standing.)
+- `mind-vs-soul` carries two pictures of the mind and should keep both.
+  Most members treat the mind as the obstacle and the soul as the authority.
+  2018-10-09-af-seretta-kem reverses it: the newly awakened soul is "so
+  tender and vulnerable, soft, and in need of the strength that you carry in
+  a conscious way, the love that you carry, the wisdom and knowledge that you
+  carry," with the mind supplying what the soul cannot yet supply itself. The
+  same message still describes the mind's resistance, so the two pictures
+  coexist inside one message rather than between messages. Building the chain
+  around the adversarial picture alone would be tidier than the evidence.
+  (Anchors and section structure moved to the roster entry, 2026-08-27.)
 - Possible `free-will-and-gods-plan` connection to watch: 2016-03-13-af-faith-nyquist
   ("Keep the Flame Burning") echoes the thread's "circuitous route" image
   ("God's Will will manifest. It may take a circuitous route but it will be done").
@@ -670,4 +685,4 @@ message gives them an argument to trace.
   insufficient, not that it is sinful, and any member must carry that
   distinction. Mint when a fourth message develops it, or promote sooner if
   a message states the remedy: what a comfortable soul is to do about it,
-  which none of the three answers.  
+  which none of the three answers.
