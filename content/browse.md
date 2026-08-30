@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-08-29
+last_updated: 2026-08-30
 ---
 
 # Browse All Messages
@@ -111,7 +111,7 @@ last_updated: 2026-08-29
 | [The Power of the Love Bonds Shared by Those Who Pray for God's Love Together](messages/2015/08/2015-08-17-af-isaiah.md) | [Isaiah](../spirits/isaiah.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑17 | The bonds formed when souls pray together do not dissolve when the gathering ends; they are woven into eternity. |
 | [Jesus Speaks Seriously of Changes to Come: Be a Channel of Love through the Storms](messages/2015/08/2015-08-17-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑17 | The storms are coming, and a soul grounded in Love is the safest place to stand |
 | [Drink Deep These Living Waters](messages/2015/08/2015-08-17-af-john-the-beloved.md) | [John the Beloved](../spirits/john-the-beloved.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑17 | The angels have crowded close and God's Love is pouring in; all that is asked of you is to drink deeply and not pull away. |
-| [Seek out Your True Purpose](messages/2015/08/2015-08-17-af-peter.md) | [Peter](../spirits/peter.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑17 | Your true purpose is not something you choose. God placed it in your soul before you were born |
+| [Seek out Your True Purpose](messages/2015/08/2015-08-17-af-peter.md) | [Peter](../spirits/peter.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑17 | The strife you feel inside is not a flaw in you. It is the part of yourself you have been refusing to live. |
 | [A Special Blessing to Those at the Gibsons Retreat](messages/2015/08/2015-08-17-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑17 | The effort to gather was itself an act of love, and God answered it with a healing uniquely suited to each soul present. |
 | [The Road Less Traveled: Guidance for the Journey](messages/2015/08/2015-08-18-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑18 | Most souls choose the road of self-empowerment; you have chosen the road that leads to God, and your shining on it gives others the same choice. |
 | [We Embark on a Journey to Change the World](messages/2015/08/2015-08-19-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2015‑08‑19 | The world is crying out and God's answer is a small group of souls praying together; do not underestimate what that can set in motion. |
