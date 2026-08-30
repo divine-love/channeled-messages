@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-08-12
+last_updated: 2026-08-30
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -697,6 +697,12 @@ are built.
   argument as written carries. Does not carry the free-will step: the
   alternative here is incapacity, not refusal. Augustine 2019-01-29 holds
   the anchor.
+- NOTE (witness, `knowing-your-own-soul`, added 2026-08-30 on minting): the
+  exclusive form, "knowing your souls you are able to know God. As God puts
+  within you His Essence, your soul is empowered with knowledge and wisdom...
+  There is no other sure way to do this, my beloveds. There is no other way
+  to at-onement with God." Held at witness rather than member under the scope
+  test: the claim is a clause inside a message arguing purpose.
 - NOTE (sighting, `pentecost`): the thread's own two modes, applied to
   purpose rather than to awakening, "for some of you, the awareness of this
   purpose will come swiftly, and for others it will emerge as you progress
@@ -1370,6 +1376,13 @@ are built.
 - NOTE (witness, `death-transition`): a first-hand report of the continuing life, "I am very happy in the realms of spirit. I dwell within the 5th sphere and am finding much to do here and am learning much as I progress through this beautiful sphere," with a commitment to keep working alongside those still here and an invitation, "you will join me in this beautiful sphere of light when it is your time to pass." It illustrates the chain's claim that death is a transition rather than arguing it. 2019-04-08-mc-mary is the nearest, a soul newly passed speaking back to those who loved her.
 - NOTE (sighting, `conduit-not-scripture`): "that which is the fabrication of the mind, part of the intellectual ruminations of imagination and interpretation of truth will fall away." Close to that chain's claim that words are never the sacred thing, but aimed at the seeker's own reading rather than at the standing of a recorded message.
 - NOTE (a question for the two-paths material): James Reid is a Divine Love seeker who says he dwells in the fifth sphere and is "not yet a Celestial Angel but well on our way", and he invites the circle to join him there. The `two-paths` chain and the "Soul Spheres & Progression" subject both describe the numbered spheres as the natural love path's progression. Not a contradiction on its face, since souls receiving Divine Love pass through the spheres, but it is the clearest case in hand of a Divine Love communicator placing himself by sphere number.
+- NOTE (witness, `knowing-your-own-soul`, added 2026-08-30 on minting):
+  titles the thread's claim and adds the corporate frame no member carries,
+  that knowing your souls is what a circle gathers to do and helps one
+  another do: "This is your focus; this is why you come together. To help one
+  another in this great effort, to rise above the conditions of this world,
+  the conditions of your mind and truly come to know your souls."
+
 ### 2016-11-27-af-james-reid-2 | Many Souls on Our Side Are Part of This Effort* | 2016-11-27 [not publicly posted]
 - NOTE (witness, `prayer-changes-world-conditions`): the same claim seen from the other end. The circle's prayers reach a company on the spirit side far larger than the room: "so we gather many souls on our side of life, vastly more than are in the flesh... there are many involved in these efforts and are touched by your gatherings and prayers together. Much is accomplished." The chain's founding message describes prayer travelling outward to distant souls; this describes spirits gathered around the praying circle itself, which is nearer to the lattice material.
 - NOTE (a pattern, not yet a chain): two messages from this day, through two different spirits, state the human contribution as a closed list and refuse the question of how the work will get done. Confucius: "All that we require of you is for you to come together in harmony and prayer." James Reid here: "What is required of you is that faith that you are indeed answering God's call and doing your part in this effort." `provision-for-service` holds the other half of that bargain, what God supplies, but no message in it states the requirement side as an exhaustive minimum. Candidate slug if it recurs: `the-whole-requirement`.
