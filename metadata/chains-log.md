@@ -579,7 +579,7 @@ are built.
 
 ### 2016-03-18-af-john-the-beloved | Talk on Service to God | 2016-03-18
 - `free-will-and-gods-plan` **[Elaboration]** : Adds the pre-incarnation choice to the thread: "you have chosen this... Each one of you has incarnated into this world for this purpose. You chose this," paired with the willful-self-release move - "you continue to release that willful part of yourself and you continue to allow the knowing of the soul to eclipse the ideas of the mind." Frames alignment with God's Will as the joyful fulfilment of a choice the soul already made, not a surrender imposed from outside.
-- `bell-toll-instrumentality` **[Elaboration]** : The subtle-instrumentality humility: "God uses you in ways that you do not even know... it may be very subtle as God uses you to touch others, to touch their souls," and as the channel clears, "you will find intense responses to your presence... many will be drawn to you." Carries the "chain of Love... a very long chain" image of blessing passing soul to soul. Companion to the John 2016-03-12 ripples teaching.
+- `bell-toll-instrumentality` **[Elaboration]** : The subtle-instrumentality humility: "God uses you in ways that you do not even know... it may be very subtle as God uses you to touch others, to touch their souls," and as the channel clears, "you will find intense responses to your presence... many will be drawn to you." Carries the "chain of Love... a very long chain" image of blessing passing soul to soul. -- Companion to the John 2016-03-12 ripples teaching.
 
 ### 2016-03-25-af-augustine | Importance of Prayer | 2016-03-25 [not publicly posted]
 - `prayer-soul-longing` **[Elaboration]** : Augustine affirms that sincerity is what counts: "each sincere prayer given to God will strike the mark and obtain a response from your Heavenly Father," offered "in earnest longing and clear intention." Sits between his own central distinction (2016-01-23, prayer as longing not recitation) and the Keea Atta Kem capstone (2018-07-30); confirms the soul-longing argument and ties prayer to clarifying the soul's purpose and growing the Light each time the circle gathers.
@@ -652,13 +652,6 @@ are built.
   the very beginning of time."
 ---
 
-
-## Back-search batch, 2026-07-06
-
-> Logged from index descriptions and doors during the chains gap analysis, not
-> from full readings. All entries below are [back-search]; roles are
-> PROVISIONAL and must be confirmed against full text when chains are built.
-> Chronological by message date within this batch.
 
 ### 2014-07-26-af-augustine | Free Will Makes for a Free Wheeling World. Nothing Is Guaranteed. | 2014-07-26 [back-search]
 - `free-will-and-gods-plan` **[Foundation]** : the thread's premise stated ten months before the developed Foundation (2015-03-24): neither God nor spirits control world events or override human choice; alignment comes through prayer and love. Early premise-witness in the Foundation section; Augustine 2015-03-24 remains the presumptive anchor.
@@ -812,11 +805,6 @@ are built.
 
 ---
 
-
-## Back-search additions, 2026-07-08 (on minting `incremental-journey`)
-
-> Roles provisional; from index descriptions, confirm at full text.
-
 ### 2015-03-23-af-john-the-beloved | Be Patient with Your Progress | 2015-03-23 [back-search]
 - NOTE (sighting, `incremental-journey`): "each step of the gradual awakening is swift in the measure of eternity", the eternity-perspective reframe of the incremental pace, in blessing form. Witness in the Foundation section.
 
@@ -824,9 +812,6 @@ are built.
 - `incremental-journey` **[Foundation]** : presumptive section anchor for the newly minted thread: the soul's growth advances in leaps, then trickles, impeded by the world and the self yet always lifted by God. The earliest developed statement of the incremental pattern in hand.
 
 ---
-
-
-## Additions, 2019-04-08 pair (Kay Dunbar passing)
 
 ### 2019-04-08-jw-yogananda | Realms of Light | 2019-04-08
 - `death-transition` **[Elaboration]** : the thread's clearest statement yet of the reversal at the heart of the archive's view of death: "it is we who grieve. It is our loss but their gain." The departed live "in realms of light so far above this earth plane," progressing toward the Celestial Heavens; grief belongs to the living. Adds the continuing-bond teaching (they come when called and when thought of) tied to the scriptural "ask and you shall receive." Delivered by a new medium (Rev. Jimbeau Walsh) in the circle where Maureen Cardoso was simultaneously receiving the companion message.
@@ -838,21 +823,11 @@ are built.
 
 ---
 
-
-## Batch additions, 2026-07-20 (Cowork batches 1-3, DLSF 2016 document)
-
-> Logged from full readings during batch cataloguing, curator-reviewed and
-> merged 2026-07-20. Chronological by message date within this section. The
-> three threads minted this date (`conduit-not-scripture`, the
-> `divine-love-healing` re-mint, `vanguards-of-change`) have registry rows
-> and rosters in chains-threads.md; member evidence lies here and under the
-> existing 2016-04-12-af-moses and 2016-01-08-af-jesus headings above.
-
 ### 2016-03-06-af-jesus | A Greeting | 2016-03-06 [not publicly posted]
 - `vanguards-of-change` **[Elaboration]** : adds the requirement the commission imposes: release material burdens to have "the capacity and the flexibility to walk wherever God will guide you," compressed as "in this world but not of this world," with the change arriving "wave upon wave." The vanguard title recurs, tied directly to the unburdening.
 
 ### 2016-04-12-af-andrew | Be the Purveyors of Joy | 2016-04-12 [not publicly posted]
-- `bell-toll-instrumentality` **[Elaboration]** : names the perceptible form the radiating signal takes: joy is the carrier that does the drawing ("They feel the outward expression of Love through your joy and they are drawn to this Light"), and what draws them is the wish to possess that lightness themselves. Closest member 2016-01-18-af-confucius (the mechanism working unawares) and 2016-03-17-af-alec-gaunt (the seeker as example); Andrew supplies the visible channel by which the signal is actually read.
+- `bell-toll-instrumentality` **[Elaboration]** : names the perceptible form the radiating signal takes: joy is the carrier that does the drawing ("They feel the outward expression of Love through your joy and they are drawn to this Light"), and what draws them is the wish to possess that lightness themselves. -- Closest member 2016-01-18-af-confucius (the mechanism working unawares) and 2016-03-17-af-alec-gaunt (the seeker as example); Andrew supplies the visible channel by which the signal is actually read.
 - NOTE (holding pen, `affect-as-soul-marker`): the diagnostic claim, joy as
   a readable index of soul condition ("it tells you that all is right
   within you, that you are in harmony") and the soul's perpetual state once
@@ -919,15 +894,6 @@ are built.
 - NOTE (sighting, `incremental-journey`): the oscillation and the ratchet ("with each choice for Light you reinforce this Path, you make it easier for you to make this choice"), the facet carried by 2019-04-04-af-matthew, which it predates by nearly three years; place beneath it chronologically at build.
 
 
-## Batch additions, 2026-08-03 (Cowork batch 4, DLSF 2016 document; merged after batches 5-7 were staged)
-
-> Batch 4 was catalogued in the 2026-07-18 session; its chain proposals
-> reached curation late and are merged here, chronologically before the
-> batches 5-7 section that follows. Five messages, no member roles proposed,
-> one new pen candidate. Back-search: no prior entry under any of the five
-> ids. Portal watch: no sightings. Publication status not tagged on these
-> headings; add [not publicly posted] where confirmed.
-
 ### 2016-06-04-af-confucius | Be Strong in the Light and Withstand the Challenges | 2016-06-04
 - NOTE (sighting, `sensitive-souls-redemptive`): touches the protection facet from a different side: "when your soul glows with this Light and when you serve mankind... you become a target for negativity and you must ensure that you are protected and strong in Light." The thread's spine holds the indwelling Love as itself the protection, passive and by law, and sensitivity as strength; this calls for active daily self-protection under targeting. Not forced in as a member; the facet belongs to the `fortress-of-light` pen candidate.
 - `opposition-to-the-light-worker` **[Foundation]** : (penned 2026-08-03 as
@@ -957,18 +923,6 @@ are built.
 ### 2016-06-27-af-jesus | Love with God's Heart of Love | 2016-06-27
 - NOTE (sighting, `mind-vs-soul`): "revelations come and understanding blossoms without the struggle of the mind but the knowing of the soul"; the thread's core restated in brief; witness level. The message is short and primarily a blessing; light coverage is deliberate.
 
-## Batch additions, 2026-08-03 (Cowork batches 5-7, DLSF 2016 document)
-
-> Logged from full readings during batch cataloguing, curator-reviewed and
-> merged 2026-08-03. Chronological by message date within this section. Two
-> threads minted this date on batch evidence: `prayer-changes-world-conditions`
-> (Foundation 2016-07-25-af-seretta-kem) and `provision-for-service`
-> (Foundation 2016-04-04-af-augustine, Elaboration 2016-08-19-af-andrew);
-> registry rows and rosters in chains-threads.md. Back-search sweep: no prior
-> log entry existed under any of the fifteen batch ids. Routine negative
-> checks (no portal language, no pen candidate engaged) are omitted here and
-> preserved in the session's chains-proposed.md; meaningful negatives are
-> logged.
 
 ### 2016-07-04-af-jesus | Receiving Guidance | 2016-07-04 [not publicly posted]
 - `divine-love-mediumship` **[Elaboration]** : Jesus states the fidelity ceiling: guidance through a medium is "often colored by that individual and represents an approximation of what is intended to be given," explicitly not error ("This is not to say that what comes through is in error, for this is not true"), but "the complete truth cannot be given through a soul that is not entirely cleansed and purified by the Love and at the level of a celestial angel," and "there are no perfect mediums in this world." Closest member 2016-03-27-af-seretta-kem (Foundation, the conditions that make reception clear); new facet: the ceiling on clarity, and the instrument's colouring reframed as approximation rather than error, the premise the discernment strand rests on. Anticipates the 2019-01-30-af-jesus Testimony by two and a half years, in Jesus' own voice.
@@ -1001,13 +955,13 @@ are built.
 - NOTE (witness, `divine-love-healing`): carries the comparative claim in a single closing sentence ("that great Healing Touch of Love is the most powerful healing of all and the greatest change agent in the universe"); witness, not trigger. Read with 2016-07-13: one develops without comparing, the other compares without developing; 2016-04-13 does both.
 
 ### 2016-07-27-af-confucius | Be a Link in the Chain of God's Blessings to Others | 2016-07-27 [not publicly posted]
-- `bell-toll-instrumentality` **[Elaboration]** : answers "reaches whom?": the beneficiaries are the souls already bonded to the seeker, "all of those you have touched in your lives, those you have created a bond of Light with, have benefitted from these prayers," extending across the veil to "those who have departed and were close to you," with the unawareness named ("Often you are not aware of this dynamic instrumentality within you. Often you see just the surface"). Closest member 2016-02-15-af-augustine (the chain image, the subtle-instrumentality humility); new facet: the links identified as existing bonds of Light, making the mechanism relational rather than ambient.
+- `bell-toll-instrumentality` **[Elaboration]** : answers "reaches whom?": the beneficiaries are the souls already bonded to the seeker, "all of those you have touched in your lives, those you have created a bond of Light with, have benefitted from these prayers," extending across the veil to "those who have departed and were close to you," with the unawareness named ("Often you are not aware of this dynamic instrumentality within you. Often you see just the surface"). -- Closest member 2016-02-15-af-augustine (the chain image, the subtle-instrumentality humility); new facet: the links identified as existing bonds of Light, making the mechanism relational rather than ambient.
 - NOTE (witness, `prayer-changes-world-conditions`): two days after the Foundation, asserting the outward discharge ("the world is touched with Light as you make these efforts to connect with God"); roster witness beneath it.
 - NOTE (sighting, `healing-channel`): assumes rather than develops the clear-channel question.
 - NOTE (portal watch, near miss): reaches for "this humble refuge of Light" and "this sacred place, this circle of Light" where portal vocabulary was available and not used.
 
 ### 2016-08-02-af-augustine | Teaching the Lesson of Love | 2016-08-02 [not publicly posted]
-- `bell-toll-instrumentality` **[Elaboration]** : turns the bell around: the seeker is also the signal's recipient, "listen to that chime within you that draws you to be awake, that draws you to God, that draws you to the Truth," the seeker's own awakening as the same phenomenon heard from the receiving end, closing the loop the thread has so far run in one direction. Closest member 2016-01-18-af-confucius.
+- `bell-toll-instrumentality` **[Elaboration]** : turns the bell around: the seeker is also the signal's recipient, "listen to that chime within you that draws you to be awake, that draws you to God, that draws you to the Truth," the seeker's own awakening as the same phenomenon heard from the receiving end, closing the loop the thread has so far run in one direction. -- Closest member 2016-01-18-af-confucius.
 - NOTE (tension, held): this message grounds the toll in active effort ("It matters not the explanation of this but it matters a great deal the expression of this channel"); the thread's Capstone (2018-09-01-af-augustine, same spirit) has the signal going out even in idle silence. Held explicitly, curator decision 2026-08-03: presence radiates unconditionally and expression amplifies and directs; the Capstone keeps the section anchor. See the Open Questions note in chains-threads.md.
 - NOTE (sighting, `channel-of-love-in-the-material`): a fourth sighting in the asserting register (after 2016-03-12, 2016-03-16, and 2016-06-27-af-faith-nyquist, the last merged late from batch 4), weaker than the earlier three; does not move the mint.
 - NOTE (sighting, `preparation-to-be-a-rock`): the premise in two clauses with the urgency register ("the time grows short for you to reach out into the world").
@@ -1054,23 +1008,6 @@ are built.
 - NOTE (sighting, `bell-toll-instrumentality`): the radiance image in one clause ("the Light within your souls is burning a true testimony of God's Love within you"); no new facet.
 - NOTE (portal watch, negative worth one line): received the same day and at the same place as the Brother Mandus portal message; Confucius uses "this place of Light" and "the custodians of the Light" without reaching for the portal term. Consistent with portal vocabulary being specific to particular spirits at this date.
 
-
-## Batch additions, 2026-08-06 (Cowork batches 8-10, DLSF 2016 document)
-
-> Fifteen messages, 2016-08-25 to 2016-09-02: the Blackpool leg of the 2016
-> UK travels (ten) and the opening of the Frankfurt gathering (five). Logged
-> from full readings during batch cataloguing, curator-reviewed and merged
-> 2026-08-06. Chronological by message date. Eight member roles: seven
-> Elaborations and one Reframe. Two threads minted this date on batch
-> evidence plus their pen histories: `fear-of-full-immersion` (Foundation
-> 2016-08-15-af-alec-gaunt, Reframe 2016-08-28-af-francis-of-assisi) and
-> `simplicity-of-the-path` (Foundation 2016-04-17-af-francis-of-assisi,
-> Elaboration 2016-08-26-af-brother-mandus, scope widened to path and
-> ministry). The portal watch was penned as `portals` this date; sightings
-> keep the PORTAL WATCH label. Back-search: no prior entry under any of the
-> fifteen ids. All fifteen [not publicly posted]. Routine negative checks
-> preserved in the session's chains-proposed files; meaningful negatives
-> logged.
 
 ### 2016-08-25-af-matthew | The Difference Between Mind and Soul | 2016-08-25 [not publicly posted]
 - `mind-vs-soul` **[Elaboration]** : the constitution-and-hardening axis: every current member describes what the mind does wrong; Matthew describes what it is made of. Whatever the intellect pours in "colors that water and in some cases changes the composition of that water," so the mind's consciousness is constituted by its own inputs and sets over time into "an evolving and somewhat crystalizing way of viewing the world," while the soul is light whose substance brightens by absorbing God rather than by receiving contents from man. Closest member 2016-07-18-af-martin-luther (durability). Weigh at build against 2018-12-02-af-augustine (the mind "constructs reality"): adjacent, but that entry concerns a materialist framework's instability, not the mind's own composition changing with its inputs, and it carries no hardening claim.
@@ -1130,12 +1067,12 @@ are built.
 - NOTE (sighting, `prayer-changes-world-conditions`, with fence): the projective register aimed at the room the pray-ers stand in, the far side of the thread's own fence; recorded so the phrasing is findable.
 
 ### 2016-08-28-af-francis-of-assisi | Come Down to the River | 2016-08-28 [not publicly posted]
-- `fear-of-full-immersion` **[Reframe]** : (minted 2026-08-06) the answering member, thirteen days after the Foundation, same travelling circle, same water image. The obstacle recast as clothing, worn and removable, not a condition of the soul: "I not only ask you to bend down and sip of these waters but to remove the clothing of your mental assumptions... Release the yoke of your fears. Release the judgements of your mind and come and wade within these waters of Love. Let them carry you," closing "it is for each one you, beloved souls, to release all that which holds you from being immersed in this wondrous Gift." Adds the half-measure the candidate lacked, sipping from the bank, the name for what stands between reluctance and immersion. Reframe over Objection-removed: no contrary belief is cleared; the obstacle is re-imaged.
-- `armour-of-the-world` **[Foundation]** : (minted 2026-08-30; presumptive
-  anchor) Names the clothing and says why it is worn, the mental assumptions a
+- `fear-of-full-immersion` **[Reframe]** : The obstacle recast as clothing, worn and removable, not a condition of the soul: "I not only ask you to bend down and sip of these waters but to remove the clothing of your mental assumptions... Release the yoke of your fears. Release the judgements of your mind and come and wade within these waters of Love. Let them carry you," closing "it is for each one you, beloved souls, to release all that which holds you from being immersed in this wondrous Gift." Adds the half-measure the candidate lacked, sipping from the bank, the name for what stands between reluctance and immersion. Reframe over Objection-removed: no contrary belief is cleared; the obstacle is re-imaged.
+- `armour-of-the-world` **[Foundation]** : Names the clothing and says why it is worn, the mental assumptions a
   person wears as protection, and calls them removable. This message is the
   hinge between two threads and holds a role in both: the Reframe above rests
-  on the fear of full immersion, this on the clothing itself.
+  on the fear of full immersion, this on the clothing itself. -- (minted 2026-08-30; presumptive
+  anchor) 
 - NOTE (sighting, `mind-vs-soul`): "remove the clothing of your mental assumptions... Release the judgements of your mind"; the mind-as-obstacle facet the thread holds many times over.
 
 ### 2016-08-29-af-faith-nyquist | This Place Has a Role to Play | 2016-08-29 [not publicly posted]
@@ -1175,29 +1112,6 @@ are built.
 - NOTE (witness, `mind-vs-soul`): the ineffability claim, "there are no true words to explain, to transfer to you the experience of this Touch"; 2017-08-21-af-matthew carries it as a member; restated, so witness.
 
 
-## Portals mint, 2026-08-06 (dedicated session)
-
-> The `portals` candidate, penned earlier this date from the standing portal
-> watch, minted after a dedicated reading of the doctrine texts
-> (2018-11-21-af-james, 2019-01-26-af-seretta-kem, 2019-02-01-af-confucius,
-> 2019-04-06-af-yogananda; 2019-02-01-af-josephus checked, no portal
-> content) against the Blackpool cluster. Three resolutions from the
-> reading, recorded in the roster: the 2016 material and the 2019 doctrine
-> are one developing account (the temporary-portal clause explains the
-> 2016-07-25 sighting; the conferral law confirms the 2016-08-25
-> strengthen-not-create observation; sustained-by-prayer confirms the
-> 2016-08-26 maintenance requirement; proliferation as God's Will vindicates
-> the 2016-08-26 replication claim); the place-attachment tension resolves,
-> portals attach to places and are conferrable wherever committed souls
-> pray, including temporarily, so the Frankfurt silence is consistent; and
-> the apparent build-versus-conferred tension between the two doctrine
-> messages resolves textually into a division of labor: humans anchor,
-> supply conditions, and sustain; spirits formulate and construct; God
-> confers; Jesus ignites the foundations. Member lines for the four
-> previously logged messages are appended under their existing headings
-> above. The portal watch closes as a watch and continues as this thread's
-> normal sighting traffic.
-
 ### 2018-11-21-af-james | On the Value of Building Portals of Light | 2018-11-21
 - `portals` **[Elaboration]** : the mechanics and the human share of the work: portals "act in some ways like a machine that functions to bring and focus energy," enabling spirit "to make connection and rapport more readily to the material world"; the bridge built from both ends, "You are one side and we are the other and we work together to weave this connection"; the anchoring account, sustained presence in a place dedicated to prayer is what lets the conduit be created ("when you establish yourself in a certain place for some time dedicated to prayer, then you facilitate... the possibility of working with us"); and the purpose, connection to "the great lattice of light" and stability "given the unstable conditions of your world." Closest member the Foundation below, which this predates by nine weeks; the collaborative language ("help us build") resolves against the Foundation's "You cannot build" as division of labor, humans anchoring what spirits formulate. Alternative shape recorded in the roster: this as Foundation, the first dedicated full teaching, with the message below as Capstone.
 - NOTE (cross-layer): the lattice of Light named as the structure portals connect to and feed; the lattice material remains its own layer, recorded so the join is findable.
@@ -1205,11 +1119,6 @@ are built.
 ### 2019-01-26-af-seretta-kem | Establishing Portals | 2019-01-26
 - `portals` **[Foundation; presumptive anchor]** : the doctrine complete. Definition: "Portals of Light are a mechanism for communication and bring the flow of blessings from God in a concentrated form." The conferral law: "You cannot build a Portal of Light, beloved souls. You have not the capacity or the ability to do so, but you may pray for this blessing and this blessing is conferred upon those who have made a commitment"; "we do not act unless this blessing is conferred by God's Will." Construction and composition: a team of spirits formulates the gift, which "is made of energy and it has substance." Maintenance: "The energy within a portal is sustained with prayer and desire." Weight: "These portals are not conferred lightly." Ignition: "the beginnings of each of these portals were ignited by the Master Jesus as a gift to you all." Proliferation: "It is God's will that this particular and unique blessing may proliferate in your world helping to elevate the conditions." And the temporary clause that retroactively explains the 2016-07-25 sighting: "At times these portals may be temporarily established... not as strong or wide in scope or ability, but indeed they do help to sustain the light within a Circle of Light." Self-described as a summary of prior teachings ("I have spoken on several occasions... I will summarize now"), the ground of the alternative Capstone shape recorded in the roster.
 - NOTE (cross-thread): the opening section teaches the Law of Communication and Rapport as the circle's own responsibility; adjacent to `divine-love-mediumship` (the conditions of clear reception) and to `conduit-not-scripture` (rapport as the sacred element); recorded so the adjacency is findable, no role proposed.
-
-## Batch additions, 2026-08-07 (Cowork batch 11, DLSF 2016 document; merged 2026-08-30)
- 
-> Five messages, 2016-09-02 to 2016-09-04, Frankfurt. One takes a place in a
-> chain. None had been logged before. All five are not publicly posted.
  
 ### 2016-09-02-af-confucius | God Has Lit a Spark Within You | 2016-09-02 [not publicly posted]
 - NOTE (witness, `judgment-to-love`): judgment declined on a ground this chain does not yet carry. Its other messages reach non-judgment through what judging reveals about the person judging, or through conscious choice as the antidote. Confucius reaches it through incommensurability: "that expression will be unique for each individual. For each soul is unique and the path that they walk is unique," therefore "Do not judge another's path but walk firmly upon your own." The thing judged is not comparable, so the comparison is void. Stated across two sentences without being built out.
@@ -1254,15 +1163,11 @@ are built.
 - NOTE (sighting, `bell-toll-instrumentality`): "Embrace all as a channel of His Love." The weakest form of the claim in this batch: no mechanism, no radiance, no effect on others stated.
 - NOTE (sighting, `judgment-to-love`): "See all you meet with eyes of love," the instruction the Mary message of the previous day argues at length, here in a single clause with no ground given. Recorded so the two are findable together, since they close consecutive days of one gathering.
 
-## Batch additions, 2026-08-07 (Cowork batch 12, DLSF 2016 document; merged 2026-08-30)
- 
-> Five messages, 2016-09-04 to 2016-09-06, Frankfurt. Four take a place in a
-> chain. None had been logged before. All five are not publicly posted.
  
 ### 2016-09-04-af-augustine | Continue in Your Service | 2016-09-04 [not publicly posted]
-- `bell-toll-instrumentality` **[Elaboration]** : the unwitting radiance stated at its widest, with its scale named. "Yes, you serve many in many different ways; when you walk down a street, though you are not aware, souls are touched. When you sit in a circle, though you do not see everything that is manifest through your prayers and your efforts together, there are many, many blessings given to many, many souls far greater in number than the souls within your circle." Nearest to it is 2018-09-01-af-augustine, the same spirit, where the signal goes out even in idle silence at home. That one establishes that the radiance never stops; this one locates it in ordinary unremarkable motion, walking down a street, and makes a claim about reach, that the blessings exceed the number of people in the room. No other message in the chain carries a reach claim.
+- `bell-toll-instrumentality` **[Elaboration]** : the unwitting radiance stated at its widest, with its scale named. "Yes, you serve many in many different ways; when you walk down a street, though you are not aware, souls are touched. When you sit in a circle, though you do not see everything that is manifest through your prayers and your efforts together, there are many, many blessings given to many, many souls far greater in number than the souls within your circle." -- Nearest to it is 2018-09-01-af-augustine, the same spirit, where the signal goes out even in idle silence at home. That one establishes that the radiance never stops; this one locates it in ordinary unremarkable motion, walking down a street, and makes a claim about reach, that the blessings exceed the number of people in the room. No other message in the chain carries a reach claim.
 - NOTE (witness, `vanguards-of-change`): the commission stated as a travel programme rather than a readiness condition, "For we will be calling you to many places in the world. There will be many such groups, circles, discussions," with "you come as missionaries" naming the role. That chain turns on the release requirement, mobility at a moment's notice and the fears that block it, and this message asks for no release; it assumes the mobility and describes the work.
-- NOTE (witness, `simplicity-of-the-path`): the ministry half of that chain's scope, "your message is simple, your love is accepting," with the failure mode put as a prohibition rather than a warning: "Do not argue with others. Be sure of the Love. Do not express contrary opinions, but be sure in the love." Nearest to it is 2016-08-26-af-brother-mandus nine days earlier, which warns that expounding esoteric religions falls at the feet of people who came for comfort. This forbids argument itself rather than complexity.
+- NOTE (witness, `simplicity-of-the-path`): the ministry half of that chain's scope, "your message is simple, your love is accepting," with the failure mode put as a prohibition rather than a warning: "Do not argue with others. Be sure of the Love. Do not express contrary opinions, but be sure in the love." -- Nearest to it is 2016-08-26-af-brother-mandus nine days earlier, which warns that expounding esoteric religions falls at the feet of people who came for comfort. This forbids argument itself rather than complexity.
 - NOTE (sighting, `prayer-changes-world-conditions`): the drawing mechanism from the praying side, "You draw to the group, through your prayers, through your intentions and desires and gifts these great blessings so that others may drink deep as the great well of love is filled and filled overflowing." The overflow image matches that chain's route, but the direction differs: the blessing is drawn into the room here rather than discharged outward from it.
 - NOTE (no portal content): "The Love of God is concentrated within the circle" is concentration language with no conduit, no attachment to a place and no conferral.
 ### 2016-09-04-af-john-the-beloved | God's Love Is the Key | 2016-09-04 [not publicly posted]
@@ -1291,12 +1196,6 @@ are built.
 - NOTE (sighting, `divine-love-healing`): "Do not fear the hands of the physicians, they will heal you and we will be with them, guiding them" places spirit assistance alongside material medicine without ranking them, and the closing "you will be a mighty channel to bring healing and peace" names the channel rather than the energy. Neither carries this chain's primacy claim or its ground in eternality.
 - NOTE (sighting, `soul-purpose-emergence`): "in this way you will come to know your true gifts and express them for the good of all," with the knowing arriving through a passage of guided change rather than by revelation.
 
-## Batch additions, 2026-08-07 (Cowork batch 13, DLSF 2016 document; merged 2026-08-30)
- 
-> Five messages, 2016-09-07 to 2016-09-10. One Frankfurt, four Belgrade. One
-> takes a place in a chain, and three of the five are personal counsel to
-> individuals, which rarely builds an argument. None had been logged before.
-> All five are not publicly posted.
  
 ### 2016-09-07-af-confucius | You Are Cradled in His Care | 2016-09-07 [not publicly posted]
 - NOTE (witness, `simplicity-of-the-path`): the failure mode located inside the seeker's own head rather than in the teaching. "It is so simple, beloved souls, so very simple. Do not clutter your minds with speculation and doubt and fear." That chain locates complication in doctrine, in esoteric expounding and in how a servant speaks; this locates it in the private mental activity of someone who already believes, and names its three components as speculation, doubt and fear. Two sentences, with nothing built on them.
@@ -1330,8 +1229,6 @@ are built.
 - NOTE (witness, `prayer-soul-longing`): the minimum-requirement claim again, four days after the same claim at 2016-09-04-af-john-the-beloved: "All it requires is some time, some focus, to come to know that soul desire within you." Two statements of a floor within one week, from two spirits.
 - NOTE (sighting, `divine-love-mediumship`): "if you ask for help in your prayers, help to be able to pray, help to come to know this Truth, God will send an angel to you, to help you in this struggle." That chain ends on the claim that this capacity is not confined to designated mediums, and that every soul accompanied by angels has some avenue that grows as it stays open. This is that in its request-and-dispatch form, a specific angel sent on a specific asking, and the message says nothing about communication or reception.
 - NOTE (no portal content, with the distinction stated): "network of Light" is the closest vocabulary in these three batches to the portal material without being it. Portals attach to places and are conferred; this network joins people and is joined by praying.
-
-## Batch additions, 2026-08-30 (Batches 14-16, DLSF 2016 document)
  
 ---
  
@@ -1422,8 +1319,8 @@ are built.
 ---
  
 ### 2016-09-15-af-augustine | The Reaction to Your Light | 2016-09-15 [not publicly posted]
-- `bell-toll-instrumentality` **[Elaboration]** : the signal is not selectively attractive. Every member describes the radiating Light drawing souls toward God; Augustine says the same Light provokes according to what it lands on, and that both responses scale together: "the power of the Light within your souls causes a response and a reaction in the world, and as your Light grows so will the reaction intensify." Drawing close: "a recognition from their soul to your soul, a recognition of the Light." The other half: "From others there is a negative response, a desire to snuff out your Light, a reaction of suspicion, of fear and anger from those who are not close to God... they look to see your flaws." Nearest to it is 2016-01-18-af-confucius, the Love as an active agent igniting longing in others unawares, the stronger the Love the more resonant the toll. What is new is the thread's own scaling law applied to the negative case, so that growth in Love predicts hostility as reliably as it predicts attraction, which no member allows for.
-- `judgment-to-love` **[Elaboration]** : the judger diagnosed, and the non-reciprocation rule stated as a rule. On the judger: "There are those who feel jealousy and who are competitive, and all of this is a condition of the mind, yet their souls may indeed have the Love within yet their minds continue in their reflexive responses towards you." On the response: "Do not react in the way of anger to anger, judgement to judgement, fear to fear." Nearest to it is 2016-07-04-af-jesus, the judged side with the injury located in the seeker's consent. What is new is that a soul may hold the Love and still run reflexive hostility from the mind, which detaches the hostility from the judger's soul condition and is the cleanest ground this thread has for refusing to judge the judger. Adjacency recorded: this entry and the bell-toll entry above share the message's opening paragraph, and are separable, the bell-toll role resting on the scaling claim and this one on the mind-and-soul diagnosis with the non-reciprocation rule.
+- `bell-toll-instrumentality` **[Elaboration]** : the signal is not selectively attractive. Every member describes the radiating Light drawing souls toward God; Augustine says the same Light provokes according to what it lands on, and that both responses scale together: "the power of the Light within your souls causes a response and a reaction in the world, and as your Light grows so will the reaction intensify." Drawing close: "a recognition from their soul to your soul, a recognition of the Light." The other half: "From others there is a negative response, a desire to snuff out your Light, a reaction of suspicion, of fear and anger from those who are not close to God... they look to see your flaws." -- Nearest to it is 2016-01-18-af-confucius, the Love as an active agent igniting longing in others unawares, the stronger the Love the more resonant the toll. What is new is the thread's own scaling law applied to the negative case, so that growth in Love predicts hostility as reliably as it predicts attraction, which no member allows for.
+- `judgment-to-love` **[Elaboration]** : the judger diagnosed, and the non-reciprocation rule stated as a rule. On the judger: "There are those who feel jealousy and who are competitive, and all of this is a condition of the mind, yet their souls may indeed have the Love within yet their minds continue in their reflexive responses towards you." On the response: "Do not react in the way of anger to anger, judgement to judgement, fear to fear." -- Nearest to it is 2016-07-04-af-jesus, the judged side with the injury located in the seeker's consent. What is new is that a soul may hold the Love and still run reflexive hostility from the mind, which detaches the hostility from the judger's soul condition and is the cleanest ground this thread has for refusing to judge the judger. Adjacency recorded: this entry and the bell-toll entry above share the message's opening paragraph, and are separable, the bell-toll role resting on the scaling claim and this one on the mind-and-soul diagnosis with the non-reciprocation rule.
 - `opposition-to-the-light-worker` **[Elaboration]** : supplies what the thread
   most needed, a reason why opposition comes at all and a law governing it. The
   Light itself provokes, and both responses scale together: "the power of the
@@ -1432,7 +1329,7 @@ are built.
   "a desire to snuff out your Light, a reaction of suspicion, of fear and anger
   from those who are not close to God... they look to see your flaws." The
   defence given as non-reaction: "Do not react in the way of anger to anger,
-  judgement to judgement, fear to fear." The scaling law makes hostility a sign
+  judgement to judgement, fear to fear." -- The scaling law makes hostility a sign
   of growth rather than of error, which the narrow targeting version of this
   thread could not say. The third of the three directions, and this message
   also holds a `judgment-to-love` and a `bell-toll-instrumentality`
@@ -1464,7 +1361,7 @@ are built.
 - NOTE (witness, `free-will-and-gods-plan`): "though within your minds you do not see the plan unfolding, but indeed it is, beautifully and in accordance to God's Will". Nearest to it is 2015-12-14-af-augustine, God's Will cannot be known from the mind. The invisibility of the plan to the mind is already the thread's property; this asserts it.
 - NOTE (witness, `armour-of-the-world`): carries the water half of the cluster
   rather than the clothing, "Open your souls. Drink in these living waters.
-  Allow yourselves to be fully immersed in this great Love." Held at witness
+  Allow yourselves to be fully immersed in this great Love." -- Held at witness
   for a reason worth keeping: the `fear-of-full-immersion` Reframe sets sipping
   against immersion and makes drinking the half-measure it surpasses, while
   Confucius uses drinking and immersion together as one invitation. So the
@@ -1533,21 +1430,6 @@ are built.
 - NOTE (the armour and clothing cluster, completed, and it now has an exchange): the cluster recorded at 2016-09-12-af-jerome ran through Francis (2016-08-28), Andrew (2016-09-09), Augustine (2016-09-10) and Jerome (2016-09-12), and gained Confucius on immersion at 2016-10-15. This message supplies the form the cluster did not have: not removal but substitution. "As you shed your cloaks of error and don your cloak of Light you become a clear and effective channel." Every earlier instance is subtractive, clothing taken off so that something can happen; this one says what is put on instead. That matters for the scope question raised against `fear-of-full-immersion`, because a cluster with its own internal development, worn then removed then exchanged, begins to look like an argument rather than a shared figure of speech. Six messages, five spirits, 2016-08-28 to 2016-10-24.
 - NOTE (a resonance, recorded and not proposed): "you gain the world, my beloveds, as you claim your soul and as your soul is claimed by God." The Francis of Assisi spirit file describes him as gaining the world by giving it up. Two spirits, the same paradox, different mechanisms. Findable now if anyone asks the archive about it.
 
-## Batch additions, 2026-08-30 (Batches 17-19, DLSF 2016 document)
- 
-> Fifteen messages, 2016-10-26 to 2016-11-28, each read in full during batch
-> cataloguing. The last nine are the Hawaii trip. Chronological by message
-> date, alphabetical by spirit within a date. Eight member roles: six
-> Elaborations, one Testimony, and a second Elaboration on the same chain from
-> the same day. Back-search: no prior entry existed under any of the fifteen
-> ids. No message here mentions a Portal of Light except 2016-11-27-af-confucius,
-> which describes the praying circle as forming one. Two patterns are recorded
-> without minting anything. All fifteen are not publicly posted.
->
-> NOTE ON SEQUENCE: this section follows the batches 8-10 additions, which end
-> at 2016-09-02. The messages between, 2016-09-03 to 2016-10-24, are catalogued
-> in the repository but have never been logged here. That gap is real and
-> predates this section.
  
 ### 2016-10-26-af-augustine | Be Open to God's Touch | 2016-10-26 [not publicly posted]
 - NOTE (witness, `mind-vs-soul`): Augustine turns the chain's premise into an instruction, and gives a reason for it: "put aside your expectations that are born of your mental ideas and go deeper to that place of your soul, that place is a place separate and different from your mind... for it is your soul that is the image of God, my beloveds. It is your soul that is able to truly know God and to recognize the blessing of His Love which is the essence of the Creator." The reason is the interesting part, that the soul can recognize God because it is made in God's image, which is a ground for the claim rather than a restatement of it. He states it in passing while telling the circle how to pray, so it sits alongside the chain; if a later message builds on it, it could move in.
