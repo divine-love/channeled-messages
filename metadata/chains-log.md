@@ -930,7 +930,16 @@ are built.
 
 ### 2016-06-04-af-confucius | Be Strong in the Light and Withstand the Challenges | 2016-06-04
 - NOTE (sighting, `sensitive-souls-redemptive`): touches the protection facet from a different side: "when your soul glows with this Light and when you serve mankind... you become a target for negativity and you must ensure that you are protected and strong in Light." The thread's spine holds the indwelling Love as itself the protection, passive and by law, and sensitivity as strength; this calls for active daily self-protection under targeting. Not forced in as a member; the facet belongs to the `fortress-of-light` pen candidate.
-- NOTE (holding pen, `fortress-of-light`): penned 2026-08-03. The light-worker as a target for organized negativity and the daily fortress of prayer against it, explicitly not from fear ("not in a way of fear... but in a way that you reinforce the Light within yourselves"). See the pen entry in chains-threads.md.
+- `opposition-to-the-light-worker` **[Foundation]** : (penned 2026-08-03 as
+  `fortress-of-light`; widened, renamed and minted 2026-08-30; presumptive
+  anchor) The thread's original statement, opposition as organized and the
+  daily fortress of prayer built against it, with the posture qualified so the
+  practice is not fear: "there are many forces that conspire in many different
+  ways, on many different levels to draw you out of the Light... not in a way
+  of fear... but in a way that you reinforce the Light within yourselves." The
+  slug was renamed on minting because "fortress" is the image of one defence
+  out of four and the 2026-08-06 ruling gives the argument precedence over the
+  image.
 
 ### 2016-06-04-af-marjorie-fike | Your Loved Ones Live On in Spirit | 2016-06-04
 - NOTE (sighting, `death-transition`, pastoral application): the continuity doctrine enacted in a personal message rather than taught ("though they are not with you they are still alive, experiencing life in a different way... whether it is here in spirit or in the flesh, it does not matter really"). Close in genre to the 2019-04-08-mc-mary Testimony but adds no doctrinal facet; its distinctive weight is pastoral, the griever's own healing, comparable to the 2018-09-29-af-goldie memorial NOTE.
@@ -1122,6 +1131,11 @@ are built.
 
 ### 2016-08-28-af-francis-of-assisi | Come Down to the River | 2016-08-28 [not publicly posted]
 - `fear-of-full-immersion` **[Reframe]** : (minted 2026-08-06) the answering member, thirteen days after the Foundation, same travelling circle, same water image. The obstacle recast as clothing, worn and removable, not a condition of the soul: "I not only ask you to bend down and sip of these waters but to remove the clothing of your mental assumptions... Release the yoke of your fears. Release the judgements of your mind and come and wade within these waters of Love. Let them carry you," closing "it is for each one you, beloved souls, to release all that which holds you from being immersed in this wondrous Gift." Adds the half-measure the candidate lacked, sipping from the bank, the name for what stands between reluctance and immersion. Reframe over Objection-removed: no contrary belief is cleared; the obstacle is re-imaged.
+- `armour-of-the-world` **[Foundation]** : (minted 2026-08-30; presumptive
+  anchor) Names the clothing and says why it is worn, the mental assumptions a
+  person wears as protection, and calls them removable. This message is the
+  hinge between two threads and holds a role in both: the Reframe above rests
+  on the fear of full immersion, this on the clothing itself.
 - NOTE (sighting, `mind-vs-soul`): "remove the clothing of your mental assumptions... Release the judgements of your mind"; the mind-as-obstacle facet the thread holds many times over.
 
 ### 2016-08-29-af-faith-nyquist | This Place Has a Role to Play | 2016-08-29 [not publicly posted]
@@ -1225,7 +1239,13 @@ are built.
 - `judgment-to-love` **[Elaboration]** : judgment measured by its effect on the person judged, where the chain's other messages measure it by its effect on the one judging. Their line runs inward: judgment reveals our own soul state, beneath it lies hidden hurt, the antidote is conscious choice, and compassion arrives reflexively as the soul grows. Mary argues outward and practically: "Confronting her will not create the effect that you wish but will entrench her in her belief, but if you are channels of love, acceptance, humility and prayer you will assist us in keeping the conditions at a higher level," summed up as "Judgement does not bring resolution, love always does." Nearest to it is 2017-06-15-af-augustine, the developed lesson, which supplies the inner diagnosis and the choose-Love antidote. What this adds is the efficacy argument: love is prescribed not because judgment corrupts the one judging but because confrontation hardens the other person and love is the only thing that resolves.
 - NOTE (witness, `healing-channel`): the channel described as someone who raises the conditions of a room, working with the spirit side, "if you are channels of love, acceptance, humility and prayer you will assist us in keeping the conditions at a higher level," with the four constituents of the channel named unusually precisely. That chain concerns what makes an individual a clear conduit for a healing act; this concerns what a group of channels does to the atmosphere of a gathering, and names the spirits as beneficiaries of that work.
 - NOTE (witness, `prayer-changes-world-conditions`): intercession aimed at one named person, with protection rather than awakening as its object: "you must pray for her and send her your love. Put your love around her and ask for the cloak of protection to surround her and those who are close to her, that this disturbance may be quelled." The same outward direction as the chain's other messages, at a scale of one, and the effect asked for is a shield rather than a kindling.
-- NOTE (holding pen, `fortress-of-light`): "ask for the cloak of protection to surround her and those who are close to her" is a defensive prayer, which is half of that candidate's argument. The other half is absent: its sighting 2016-06-04-af-confucius has a light-worker targeted by forces that "conspire in many different ways, on many different levels", whereas Mary's subject is exposed by her own delving, "she knows not the conditions that she is delving into and is very vulnerable to all influences", with no organized targeting claimed.
+- NOTE (witness, `opposition-to-the-light-worker`): protection asked for a
+  third party rather than mounted by the seeker, "ask for the cloak of
+  protection to surround her and those who are close to her, that this
+  disturbance may be quelled". Held at witness because the subject is exposed
+  by her own delving, "she knows not the conditions that she is delving into
+  and is very vulnerable to all influences", with nothing conspiring against
+  her, so the message carries the defence without any account of what opposes.
 - NOTE (considered and set aside, `earth-conditions-and-prayer`): "keeping the conditions at a higher level" uses that chain's vocabulary, but the conditions are those of a room and a group rather than the world's darkness-field, and no daily-prayer remedy is prescribed.
 - NOTE (considered and set aside, `sensitive-souls-redemptive`): "very vulnerable to all influences" describes exposure through unwise delving rather than the acute feeling of the world's cruelty that marks that chain, and no redemptive function is claimed for her.
 - NOTE (considered and set aside, `divine-love-healing`): "allow God to heal whatever is not in harmony" names no Divine Love, makes no comparison, and describes the repair of a social disharmony.
@@ -1291,6 +1311,11 @@ are built.
 - NOTE (considered and set aside, `divine-love-healing`): "There is so much healing and work to be done here" refers to a nation's wounds rather than to an energy.
 ### 2016-09-09-af-andrew | Put Away Your Shield and Your Armour and Lead with Love | 2016-09-09 [not publicly posted]
 - `free-will-and-self-responsibility` **[Elaboration]** : the lag between what the Love has already changed and what the seeker must still change by hand. "This Love is designed to expel these conditions within you. But the last vestiges of such conditions remain within your material mind, these patterns of thoughts, these erroneous conclusions, these unloving projections upon another. And it is your responsibility to change those patterns of thinking, those old habits, to catch up with the changes within you." Nearest to it is 2019-02-22-af-augustine, the chain's developed statement, where prayers for relief go unanswered while the mind keeps feeding the condition prayed about. Augustine describes a seeker whose mind is actively sustaining the problem, so the healing waits; Andrew describes a seeker whose soul has already been changed and whose mind is merely behind, which makes the residue a maintenance task rather than an obstruction. No other message in the chain has the Love's work already done and responsibility as what remains. He adds the failure mode: "To do God's Will does not mean to indulge in your old human ways and rationalize them in your actions and say this is God's Will."
+- `armour-of-the-world` **[Elaboration]** : the armour as defence against a
+  people that cannot trust, and the instruction to set it down, "put away your
+  shield and your armour, to trust in God who will protect you... You will not
+  be hurt. Only when you join into this condition will you feel that way." The
+  first of the three things the clothing is said to be.
 - NOTE (witness, `mind-vs-soul`): the same passage read for the faculty claim, that the material mind is where the vestiges persist after the soul has changed. The argument is carried by the entry above and is not counted twice. Recorded because 2016-09-05-af-andrew is a member of that chain from the same spirit four days earlier, and the two belong together: that one distributes outcomes across people, this one locates the residue in one faculty.
 - NOTE (witness, `simplicity-of-the-path`): the fullest statement in these three batches, and the chain's own claim argued rather than asserted: "The world is a complex place filled with many complex ideas. The truth is not complicated; the truth is simple... It does not need to be complex or difficult to understand and when one is truly of faith there is no great desire to analyze, merely to act in accordance to the knowing of the soul." What it would add is the mechanism, that faith itself removes the appetite for analysis, which no other message states.
 - NOTE (witness, `sensitive-souls-redemptive`): the inversion of that chain's protection claim. It has the Love within the growing soul as the protection; Andrew has the armour as the danger: "put away your shield and your armour, to trust in God who will protect you... You will not be hurt. Only when you join into this condition will you feel that way." The same conclusion by the opposite instrument, and it names self-protection as the thing that makes a person vulnerable.
@@ -1307,29 +1332,6 @@ are built.
 - NOTE (no portal content, with the distinction stated): "network of Light" is the closest vocabulary in these three batches to the portal material without being it. Portals attach to places and are conferred; this network joins people and is joined by praying.
 
 ## Batch additions, 2026-08-30 (Batches 14-16, DLSF 2016 document)
-
-Prepared 2026-08-30 from the 2026-08-09 draft, rewritten for readers, with the
-`[batch-proposed]` tags removed and the cataloguing machinery taken out. Fifteen
-messages in three dated sections, in batch order. Fourteen member roles across
-ten messages.
- 
-The portal watch and the `divine-love-healing` checkpoint were run on all
-fifteen messages; only the results that carry information are recorded below.
- 
-Read the merge notes at the head of each section first. Four threads were
-minted after this draft was written and it could not know about them, so
-several entries below have been re-roled.
- 
----
----
- 
-# Section 1, 2016-09-10 to 2016-09-14
- 
-**Merge notes.** Five messages, the Serbia leg. Five member roles across three
-messages. One re-roling from the original draft: nothing in this section was
-overtaken by the later mintings, but the `fear-of-full-immersion` scope
-question raised twice here is now part of a wider clothing-and-armour cluster,
-described in the entry for 2016-09-12-af-jerome.
  
 ---
  
@@ -1339,7 +1341,13 @@ described in the entry for 2016-09-12-af-jerome.
 - NOTE (witness, `religious-error`): the corrected term given positive content, by the man who helped build the error. "When the Master Jesus taught of redemption this is what he spoke of, it is the transformative blessing of the Father's Love, it is the Divine Essence coming from the Creator, it is the Holy Touch that awakens the soul." The thread's atonement members work by negation; this supplies what the word means once the negation is accepted. One sentence, so witness. The Testimony half of the message is already held by the same spirit at 2015-03-28.
 - NOTE (witness, `redemption-universal`): the universality claim asserted without the machinery that defines the thread, "Every child is worthy of this Touch, from the very lowest to the highest, every child in this world and in the next is worthy of this Love." No hells, no condition-not-sentence, no turning.
 - NOTE (witness, `free-will-and-self-responsibility`): the offer side stated for a third time by this spirit, "God gives you the choice. God allows you to turn away if you wish or turn towards this Light. It is your responsibility and your choice which way you wish to go, for God gave you free will." The 2016-08-26-af-augustine witness already carries the beseeches-not-commands form. Recorded so the repetition across August and September 2016 is findable.
-- NOTE (witness, `fear-of-full-immersion`, scope question): the thread's whole image without its argument. "There is a great ocean of Love which you may bathe within if you but remove your cloak and your armor and come to God as a child filled with longing to be home with your Heavenly Father." Immersion in water, plus clothing that is removable, thirteen days after the Reframe built the thread on exactly those two images, in the same travelling circle. But no fear is named, no loss is enumerated, and there is no half-measure. The 2026-08-06 ruling that a candidate is defined by its argument and not its image was made for the holding pen; this asks the same question of a minted thread. Held at witness. See the clothing cluster note at 2016-09-12-af-jerome below.
+- `armour-of-the-world` **[Elaboration]** : the armour as unworthiness before
+  God, "There is a great ocean of Love which you may bathe within if you but
+  remove your cloak and your armor and come to God as a child filled with
+  longing to be home with your Heavenly Father." The second of the three
+  things the clothing is said to be. Moved here from
+  `fear-of-full-immersion`, where it was held at witness with a scope question
+  attached, because it carries that thread's image and not its fear argument.
 - NOTE (sighting, `soul-faculties`): "a wondrous opening to a world so different from that which the mind perceives... great awakenings of perception, gifts that lay within the soul dormant will be awakened." Asserted, and the thread holds the dormant-gifts claim many times over.
 - NOTE (sighting, `mind-vs-soul`): the same passage sets soul perception against mind perception in one clause. Not counted twice; recorded so the phrasing is findable.
 - NOTE (`divine-love-healing` checkpoint, negative): "this blessing of Divine Love is unlimited. It goes on for all eternity" carries the eternality on which that thread grounds primacy, but makes no comparative claim and does not frame the Love as healing here.
@@ -1354,6 +1362,12 @@ described in the entry for 2016-09-12-af-jerome.
 - NOTE (portal watch, negative, and worth one line): this is the message in the section where portal vocabulary was most available, since it names Circles of Light three times and describes a gathering where seeds were planted and many spirits attended. The term is not reached for.
 - NOTE (`divine-love-healing` checkpoint, negative): no healing comparison; "a teacher and a healer" is a role name.
 - NOTE (how a Circle of Light comes into being, described and not penned): "Circles of Light, beloveds. Yes, Circles of Light. They form in accordance to God's Will and the desire of others who are drawn." A formation law in two sentences, God's Will plus the desire of those drawn. It stands next to the `portals` Foundation's conferral law, where God confers and humans supply the conditions of presence and prayer, and next to 2016-08-26-af-jesus, where a circle of dedicated souls in prayer is the precondition for a portal. The circle layer itself has no thread.
+- NOTE (witness, `opposition-to-the-light-worker`): the same precedent offered
+  the day before Jerome's, "Many turned away from me thinking me not right
+  within my mind, but I persisted and I prayed intensely and I sought out God
+  and did not pay much attention to the judgements of others". Opposition as
+  the servant's ordinary condition, with the defence given as persistence and
+  disregard.
 ---
  
 ### 2016-09-12-af-jerome | You Are Supported in Your Struggle | 2016-09-12 [not publicly posted]
@@ -1362,13 +1376,24 @@ described in the entry for 2016-09-12-af-jerome.
 - NOTE (witness, `judgment-to-love`): "Go along the streets. Say your prayers as you walk. Say your prayers as you join in the services of the churches. Continue to be the humble servant of God and do not let the error that you hear uttered by those within those churches inhibit the flow of your love. True humility is acceptance. True humility is adding your love to those who are seeking the Light, however false their beliefs." Nearest to it is 2016-08-25-af-brother-mandus, do not confront the rigid, since confrontation hardens the position one hoped to soften. Brother Mandus counsels restraint inside a conversation; Jerome counsels active participation in a service whose doctrine the servant believes false, and redefines humility as that acceptance. Held at witness because it is instruction rather than argument, and because it also reads as a `religious-error` adjacency, where the error is real and deliberately not corrected on the spot.
 - NOTE (sighting, `mind-vs-soul`): the deadlock stated as cost, "as long as your mind continues to push and repress what must come forth you remain in a deadlock and in a dilemma in your being that saps your energy, your spiritual Light".
 - NOTE (sighting, `prayer-soul-longing`): the prayer Jerome gives is a scripted formula of surrender, "Heavenly Father, these are my burdens, this is my cloak of pain". Recorded because the thread's argument is that words alone are not prayer and it is the soul's longing that answers, and the spirits nevertheless supply words. The message does not engage the tension, so nothing is claimed. Also a practice-file candidate.
-- NOTE (witness, `fear-of-full-immersion`, second image-only instance in three days): "It is hard for mankind to put aside their armor, their error, their anger, and their mistrust, to come to God as you have come to God, my son", and in the prayer, "this is my cloak of pain, this is the armor which I don in order to navigate this life and I wish that you would take it all". Removable clothing again, and here the clothing is nameable and handed over. But the register is cleansing rather than immersion: no water, no fear of being wholly immersed, no half-measure.
-- NOTE (`fortress-of-light` checked and not a match): the scorn here is human and undirected, with no organized negativity and no defensive practice built against it.
+- `armour-of-the-world` **[Elaboration]** : the armour as accumulated pain,
+  named and handed over, which is the fullest account the thread has of what
+  the clothing is made of. "It is hard for mankind to put aside their armor,
+  their error, their anger, and their mistrust", and in the prayer, "this is my
+  cloak of pain, this is the armor which I don in order to navigate this life
+  and I wish that you would take it all." The third of the three things the
+  clothing is said to be, and the only one where it is surrendered to God
+  rather than simply removed. Moved here from `fear-of-full-immersion`.
+- NOTE (witness, `opposition-to-the-light-worker`): Jerome offers his own
+  martyrdom as precedent to a man walking the streets with a message of truth,
+  and converts it into a prediction, "it is very unlikely you will have my
+  fate, still the arrows of criticism and scorn will come your way". Human
+  undirected scorn, which the narrow `fortress-of-light` candidate excluded and
+  the widened thread includes.
 - NOTE (portal watch, negative): churches, meeting places and streets are named as sites of work, with no portal vocabulary and no consecrated-place language.
 - NOTE (`divine-love-healing` checkpoint, negative): "God's Love begins the process, ignites a great flame that will burn away these encrustations" is mechanism, not comparison.
 - NOTE (identity unresolved, held and not logged): Jerome of Prague (c. 1379 to 1416, burned at the Council of Constance) has been raised as a possible identification, on the martyrdom and the street preaching. Nothing in the text confirms it and neither the message file nor the spirit file carries it. Recorded only because it would change what this message is evidence of: if it holds, Jerome stands beside Martin Luther, John Wesley and Joseph Smith among the institutional witnesses of `religious-error`, and his counsel becomes the most striking thing in the message, a man executed by a church council telling a servant to go into the churches, pray in their services, and let their error pass uncorrected. Do not build on it until a message names him.
 - NOTE (the armour and clothing cluster, described and not penned): with this message the same image has run through four spirits in one travelling circle in eighteen days. 2016-08-28-af-francis-of-assisi, remove the clothing of your mental assumptions and wade into the waters. 2016-09-09-af-andrew, put away your shield and your armour. 2016-09-10-af-augustine, remove your cloak and your armor and come to God as a child, with an ocean to bathe in. And this message, put aside their armor, "this is my cloak of pain, this is the armor which I don". Only the Francis message carries the `fear-of-full-immersion` argument. The other three use the same clothing to say three different things: defence against a suspicious nation, unworthiness before God, and accumulated pain to be handed over. This is the argument-and-image question at scale. A roster that admits the image will collect all four; a chain that admits only the argument will keep one. The cluster grows twice more, at 2016-10-15-af-confucius and 2016-10-24-af-confucius.
-- NOTE (the scorned messenger, described and not penned): on consecutive days two spirits offer the same first-person precedent to the same man. Francis was shunned and thought not right in his mind when he began his ministry (2016-09-11), and Jerome here was martyred and understands the plight of the lone man walking the streets with a message of truth. Both convert their own rejection into a prediction about his, "it is very unlikely you will have my fate, still the arrows of criticism and scorn will come your way". No minted thread holds the servant's exposure to scorn as its argument. `judgment-to-love` holds the judged side, but that thread is about what judgement does to the soul that judges and to the soul that consents.
 ---
  
 ### 2016-09-13-af-goldie | Move in the World | 2016-09-13 [not publicly posted]
@@ -1383,42 +1408,37 @@ described in the entry for 2016-09-12-af-jerome.
 - `earth-conditions-and-prayer` **[Elaboration]** : the self-generated strand the log asked for. The 2016-07-11-af-confucius entry recorded one thin real facet, the disruptive field partly self-generated, and left the instruction to promote only if that strand recurred. It recurs here two months later and stronger, with consent as the hinge: "The conditions of this world and the thought energies of this world which cloud and clog the actions and minds of mankind are powerful indeed and when you choose to engage in these thoughts and these conditions, you bring yourself down from the Light and reinforce a darker place." In the Foundation, 2016-02-29-af-luke, the field arrives like weather and buffets every soul. Here its hold is consented to, engagement is a choice made thought by thought, and the seeker who engages adds to what he is standing in. One ambiguity recorded and not resolved: "reinforce a darker place" may mean the seeker's own condition rather than the field itself. The role rests on the consent claim, which is unambiguous.
 - `mind-vs-soul` **[Elaboration]** : the divergence read as cost. "And often this is in conflict with the state of your soul, for your soul is in Light, it continues to engage in its progression, its shedding of conditions that are not in harmony with God's Love. It expands and grows each time you pray to God to receive this Gift of Love and yet through your free will you often place your consciousness within these mindful areas and emotions that are not productive and are counterproductive towards your soul growth." Nearest to it is 2016-08-19-af-andrew, on which faculty is permitted to direct a life. What is added is that the two faculties can hold opposite conditions at the same time, and that the placement of consciousness is itself a free-will act with a price attached to the soul's growth. Worth setting beside 2016-03-17-af-alec-gaunt, which carries the same simultaneity under `soul-expiation` as reassurance, the soul growing even when the mind cannot perceive it. Augustine reads the identical structure as a warning. The same observation with opposite pastoral force.
 - NOTE (witness, `free-will-and-self-responsibility`): the law extended to the angels, and prayer named as what licenses their help. "We in spirit who watch you and watch over you can only wait for you to climb back out of your condition... Yes, we do assist you but we cannot always assist you... And indeed when you pray for assistance you do receive it. This is the first choice when one feels these heavy conditions... Prayer, prayer, my beloveds, is important, indeed crucial, for this opens the possibilities for us to assist you." The Foundation already carries the spirit-side limit, that no spirit can override God's Laws. What is named here is that assistance is gated on the seeker's asking, and that the spirits' posture in the meantime is enforced waiting. Held at witness because the limit itself is not new. Followed up at 2016-10-16-af-augustine below.
-- NOTE (holding pen, `fortress-of-light`, scope question): "when you allow inner reactivity, strong negative emotions to flow freely within you, you do indeed attract negative energies and forces to you, forces which are all too happy to reinforce these conditions. No, you are not immune, my beloveds." The candidate's argument is targeted attack on the light-worker and a daily fortress of prayer built against it. This is a different mechanism with the same cast: the forces are attracted by the seeker's own state rather than organized against him, and the defence is discipline of thought plus prayer rather than a fortress. Argument against argument, not image against argument, so the 2026-08-06 ruling does not settle it. See the third reading of the same candidate at 2016-09-15-af-augustine.
+- `opposition-to-the-light-worker` **[Elaboration]** : relocates the cause
+  inside the seeker. "When you allow inner reactivity, strong negative
+  emotions to flow freely within you, you do indeed attract negative energies
+  and forces to you, forces which are all too happy to reinforce these
+  conditions. No, you are not immune, my beloveds." Where the Foundation has
+  forces organized against the light-worker, here they are drawn by his own
+  state, and the defence changes with the cause, from a fortress of prayer to
+  discipline of thought plus prayer. The second of the thread's three
+  directions.
 - NOTE (witness, `healing-channel`): the maturity precondition, "Each of you must grow to a sort of maturity where you can control these conditions within you in order to be a channel of the highest magnitude, in order for us to use you in powerful ways". The thread already holds the clear-channel requirement, and what is added, thought and emotional discipline as the content of that clearing, is carried by the two roles above and not counted a third time.
 - NOTE (sighting, `preparation-to-be-a-rock`): the readiness register, "it is time to step ever further forward upon this Path, to walk with maturity, wisdom and strength", and "You begin to shed some of your humanness, begin to don the mantle of the celestial being". No rock, no refuge, nobody leaning. Recorded for the fence.
 - NOTE (sighting, `incremental-journey`): "In this there are transitions and challenges, ways of being that must be adhered to in order to continue the transitional process"; asserted.
 - NOTE (portal silence across the Serbia leg, a datum rather than a negative): with this message the leg closes at five messages, four spirits, five days, in a land the messages describe as heavy and in need, with gatherings, Circles of Light, churches and meeting places all named, and no portal vocabulary anywhere. In the Blackpool cluster the term appeared five times in five days across four spirits. The Frankfurt silence was already noted at the portals mint and read as consistent with place-attachment; Serbia is a second consecutive leg of silence, which strengthens that reading.
 ---
  
- 
----
----
- 
-# Section 2, 2016-09-15 to 2016-10-15
- 
-**Merge notes.** Five messages: the close of the Serbia leg, then the
-homecoming circle at Gibsons. Five member roles across four messages. **Three
-entries re-roled from the 2026-08-09 draft**, because three threads were
-minted after it was written.
- 
-- `pentecost` was minted 2026-08-13. The 2016-09-18-af-jesus note below was
-  drafted as a holding-pen question; it is now a question about the fence
-  between two minted threads, which is a harder question and is stated as such.
-- `soul-purpose-emergence` was minted 2026-08-13. The 2016-10-15-af-confucius
-  note was drafted as a holding-pen sighting and as the earliest instance of
-  the candidate's argument. It is now a witness on a minted chain, and the
-  earliest-instance framing has been removed: the Foundation section already
-  holds 2015-08-17-af-peter, which predates it, and the curator ruling of
-  2026-08-30 settled that 2019-01-29-af-augustine stands as Foundation.
-- `knowing-your-own-soul` was minted 2026-08-30 and did not exist when the
-  draft was written. 2016-09-16-af-john-the-beloved is one of its witnesses and
-  the note is added below.
----
- 
 ### 2016-09-15-af-augustine | The Reaction to Your Light | 2016-09-15 [not publicly posted]
 - `bell-toll-instrumentality` **[Elaboration]** : the signal is not selectively attractive. Every member describes the radiating Light drawing souls toward God; Augustine says the same Light provokes according to what it lands on, and that both responses scale together: "the power of the Light within your souls causes a response and a reaction in the world, and as your Light grows so will the reaction intensify." Drawing close: "a recognition from their soul to your soul, a recognition of the Light." The other half: "From others there is a negative response, a desire to snuff out your Light, a reaction of suspicion, of fear and anger from those who are not close to God... they look to see your flaws." Nearest to it is 2016-01-18-af-confucius, the Love as an active agent igniting longing in others unawares, the stronger the Love the more resonant the toll. What is new is the thread's own scaling law applied to the negative case, so that growth in Love predicts hostility as reliably as it predicts attraction, which no member allows for.
 - `judgment-to-love` **[Elaboration]** : the judger diagnosed, and the non-reciprocation rule stated as a rule. On the judger: "There are those who feel jealousy and who are competitive, and all of this is a condition of the mind, yet their souls may indeed have the Love within yet their minds continue in their reflexive responses towards you." On the response: "Do not react in the way of anger to anger, judgement to judgement, fear to fear." Nearest to it is 2016-07-04-af-jesus, the judged side with the injury located in the seeker's consent. What is new is that a soul may hold the Love and still run reflexive hostility from the mind, which detaches the hostility from the judger's soul condition and is the cleanest ground this thread has for refusing to judge the judger. Adjacency recorded: this entry and the bell-toll entry above share the message's opening paragraph, and are separable, the bell-toll role resting on the scaling claim and this one on the mind-and-soul diagnosis with the non-reciprocation rule.
-- NOTE (holding pen, `fortress-of-light`, the third reading in three messages): three messages now occupy that candidate's territory with three different mechanisms and three different defences. 2016-06-04-af-confucius, forces that conspire, met by a fortress of prayer. 2016-09-14-af-augustine, energies attracted by the seeker's own reactivity, met by discipline of thought and prayer. And this message, human hostility provoked by the Light itself, met by non-reaction and love. Under the narrow reading, that the candidate is about targeting specifically, it still has one witness and this is not one. Under the wide reading, that it is the general question of what opposes the light-worker and how it is met, it has three. If it is widened it should probably be renamed, since "fortress" is the image of only one of the three defences and the 2026-08-06 ruling says the argument governs.
+- `opposition-to-the-light-worker` **[Elaboration]** : supplies what the thread
+  most needed, a reason why opposition comes at all and a law governing it. The
+  Light itself provokes, and both responses scale together: "the power of the
+  Light within your souls causes a response and a reaction in the world, and as
+  your Light grows so will the reaction intensify." The hostile half described:
+  "a desire to snuff out your Light, a reaction of suspicion, of fear and anger
+  from those who are not close to God... they look to see your flaws." The
+  defence given as non-reaction: "Do not react in the way of anger to anger,
+  judgement to judgement, fear to fear." The scaling law makes hostility a sign
+  of growth rather than of error, which the narrow targeting version of this
+  thread could not say. The third of the three directions, and this message
+  also holds a `judgment-to-love` and a `bell-toll-instrumentality`
+  Elaboration, each resting on a different part of the text.
 - NOTE (witness, `sensitive-souls-redemptive`, with fence): "you are not perfect. It does not take a great deal of research to see your flaws, you are human. Yet these aspects of yourself... are minor compared to the power of the Love that flows through you." Adjacent to the thread's claim that the Love within the growing soul is its protection, but the protection here is proportional rather than energetic, the flaws outweighed rather than the soul shielded.
 - NOTE (sighting, `mind-vs-soul`): the mind-soul split applied to a third party rather than to the seeker, which is unusual for the thread. Carried above in the `judgment-to-love` role and not counted twice.
 ---
@@ -1444,7 +1464,15 @@ minted after it was written.
 - NOTE (no member role): a homecoming blessing of 390 words. Its two substantial claims, the unseen plan and the dawning awareness of purpose, are both carried at member level elsewhere.
 - NOTE (witness, `soul-purpose-emergence`): "the dawning awareness that there is a purpose for each one of you and to allow this to manifest in your lives, in beautiful flowering expressions of your soulful gifts". This is the thread's argument, purpose emerging as a dawning awareness rather than arriving as a revelation, stated in passing inside a blessing. One qualification worth recording: Confucius pairs the individual purpose with a place in a collective work, "you will find your place within this work", where the thread's other members are about the soul's own purpose. Whether the place-in-the-work facet belongs here or to `vanguards-of-change` is worth weighing at build.
 - NOTE (witness, `free-will-and-gods-plan`): "though within your minds you do not see the plan unfolding, but indeed it is, beautifully and in accordance to God's Will". Nearest to it is 2015-12-14-af-augustine, God's Will cannot be known from the mind. The invisibility of the plan to the mind is already the thread's property; this asserts it.
-- NOTE (witness, `fear-of-full-immersion`, fourth image instance in the cluster): "Open your souls. Drink in these living waters. Allow yourselves to be fully immersed in this great Love and know that great peace that passes all understanding." Living waters and full immersion, with no fear named, no losses enumerated, and no half-measure. One detail to hold for the build: the Reframe, 2016-08-28-af-francis-of-assisi, sets sipping against immersion and makes drinking the half-measure it surpasses. Confucius uses drinking and immersion together as one invitation. If the thread ever rests weight on the sipping-and-immersion contrast, this message shows the two images were not fixed in opposition across the circle's vocabulary.
+- NOTE (witness, `armour-of-the-world`): carries the water half of the cluster
+  rather than the clothing, "Open your souls. Drink in these living waters.
+  Allow yourselves to be fully immersed in this great Love." Held at witness
+  for a reason worth keeping: the `fear-of-full-immersion` Reframe sets sipping
+  against immersion and makes drinking the half-measure it surpasses, while
+  Confucius uses drinking and immersion together as one invitation. So the
+  water images were not fixed in opposition across this circle's vocabulary,
+  which is why the water half is treated as flexible figure and the clothing
+  half as the argument.
 - NOTE (sighting, `preparation-to-be-a-rock`): "though the storm rages around you, God's love and protection, His peace and Light, surround you"; the protection promise in one clause, no rock and nobody leaning.
 - NOTE (sighting, `bell-toll-instrumentality`): the travels reported as effect, "bringing the Light of God's Love wherever they went and many souls were touched by their efforts and their prayers and their conversations".
 - NOTE (portal watch, the Serbia leg closes): this message marks the circle's return from England, Germany and Serbia. Across the whole Frankfurt and Serbia stretch no portal vocabulary appears from any spirit, against five sightings in five days at Blackpool. That completes the datum recorded at 2016-09-14-af-augustine: the vocabulary stayed with the place and did not travel with the people, which is consistent with the place-attachment resolution reached at the portals mint.
@@ -1458,20 +1486,7 @@ minted after it was written.
 - NOTE (sighting, `sensitive-souls-redemptive`, adjacent only): "the eyes of your souls begin to open and the awarenesses that come with the soul enlivened with God's Divine Essence"; growing perception as a mark of soul growth, without the sensitivity-and-cruelty argument that defines the thread.
 - NOTE (fence, `earth-conditions-and-prayer`): recorded so the two are not conflated at build. That thread is the man-made darkness-field acting on the individual soul and neutralized by daily prayer; this message is the planet's own response to human disharmony. The word disharmony does the work in both, which is exactly why the fence is worth writing down.
 ---
- 
- 
----
----
- 
-# Section 3, 2016-10-16 to 2016-10-24
- 
-**Merge notes.** Five messages. The third message's date was a header conflict
-resolved by curator ruling of 2026-08-08 to 2016-10-19; the entries use that
-date. Four member roles across three messages. One addition to the draft:
-2016-10-16-af-augustine carries a `knowing-your-own-soul` note, recording the
-assessment made when that thread was minted on 2026-08-30.
- 
----
+
  
 ### 2016-10-16-af-augustine | The Opening of Your Soul Perceptions | 2016-10-16 [not publicly posted]
 - `soul-faculties` **[Elaboration]** : the refinement has no ceiling, and the teachers are inside it. "As this Love continues to accumulate within your souls the awakening, the opening of your perceptions continues for all eternity", and then the claim that gives it force: "We in the Celestial Kingdom see in a greater capacity than yourselves, but we also understand that that seeing, that knowing of truth continues for all eternity and we too are upon a journey of understanding just as you are but we are a little further ahead than you." Nearest to it is 2018-10-16-af-seretta-kem, the Chrysalis, the gifts as seeds in chambers and the kaleidoscope ever-expanding. The Chrysalis makes the seeker's own unfolding unbounded; this removes the implied ceiling above it as well, since the Celestial spirits are on the same journey and only a little further along, which changes what the thread's endpoint is.
@@ -1508,6 +1523,12 @@ assessment made when that thread was minted on 2026-08-30.
 ### 2016-10-24-af-confucius | Consider Your Progress | 2016-10-24 [not publicly posted]
 - `incremental-journey` **[Elaboration]** : the thread's one practical instruction, retrospection as the way increments become visible. "Beloved souls, walk in the Light with each day; mark your progress, beloveds. If you look back upon your life and see how your perceptions have changed your behaviour, your capacity to love. And, yes, these things are often subtle and gradual, but much has changed within each one of you", repeated as the message's title claim, "Consider your progress, my beloveds, even those of you who have just stepped upon this Path." Nearest to it is the Foundation, 2015-05-03-af-confucius, from the same spirit: growth advances in leaps then trickles, impeded by world and self yet lifted by God. Every member describes the increments from outside, as doctrine or reassurance; this hands the seeker a method for detecting them, and names the deliberate backward look as what makes gradual change legible. It also extends the claim to beginners, who by the thread's own logic have least to look back on.
 - `challenges-as-blessings` **[Elaboration]** : the causal direction reversed, against a nearly identical sentence frame. The Foundation, 2016-08-11-af-alec-gaunt, builds why hardship strengthens: "each time you overcome an obstacle, each time a lesson is learned, each time you turn your pain into joy you become stronger." Confucius uses the same construction to say something else: "each time that you surmount a barrier, that you overcome a fear, that you change your attitude to one that is more loving and forgiving you express the change that is happening within your souls. You allow your souls greater expression in your lives." In the Foundation the overcoming produces the strengthening; here the overcoming is evidence of a strengthening already under way in the soul, which makes the same events diagnostic rather than causal, and joins this thread to the `incremental-journey` role above, since that is precisely what the backward look is reading. A tension recorded and not resolved: Reframe is the better role if the causal direction is genuinely reversed rather than loosely worded, and Elaboration is taken as the more modest of the two. Worth settling before the thread is built, since the Foundation is its presumptive anchor, and an anchor saying challenges strengthen you sits awkwardly beside a member saying they only show you what already changed.
+- `armour-of-the-world` **[Capstone]** : completes the argument by making it an
+  exchange rather than a removal. "As you shed your cloaks of error and don
+  your cloak of Light you become a clear and effective channel." Every other
+  instance in the cluster is subtractive, clothing taken off so that something
+  can happen; this alone says what is put on instead, which is what turns a
+  repeated figure into an argument with an end.
 - NOTE (witness, `mind-vs-soul`): the agency axis restated, "As your minds acquiesce to the will of your soul, the Light within your soul and as your soul becomes more in alignment with God's Will". Nearest to it is 2016-08-19-af-andrew, on which faculty is permitted to direct a life.
 - NOTE (witness, `bell-toll-instrumentality`): "You must teach this by your example. You must bring inspiration to others through your love, through the words you speak, the actions you take." Nearest to it is 2016-03-17-af-alec-gaunt, at least half of that teaching is through your example.
 - NOTE (sighting, `self-love-foundation`): "a capacity to love yourself and to love others" in one clause, the entailment named without argument; the developed statement in this span is 2016-10-17-af-keea-atta-kem above.

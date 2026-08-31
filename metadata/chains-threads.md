@@ -195,6 +195,8 @@ before adding new ones.
 | `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
 | `knowing-your-own-soul` | The soul is the part of yourself you know least, and coming to know it is the route to God | Mankind reveres and nurtures the mind and neglects the soul → so the soul lies cloistered, and the mind's own account of who you are is distorted → the path you forge to your own soul is the same path you forge to God → and this self-knowledge is prior to prayer, service and any effort to change the world → so knowing your soul and knowing God are one movement, not two | Soul's True Nature; Knowing God |
 | `conditions-of-a-people` | A place and its people carry a collective condition laid down by their own history | A people's shared history of injury lays down a condition that outlasts the events that caused it → the condition attaches to the place and to everyone in it rather than to individuals separately → it passes down the generations and spreads by projection onto whoever is met → it has a signature, a particular fear that marks that people → so it is met by declining to take it on and declining to armour against it, since self-protection is what admits it | Earthly Challenges & Human Condition; Darkness vs Light |
+| `opposition-to-the-light-worker` | The Light a soul carries provokes opposition, and the response is never counter-attack | A soul growing in Divine Love becomes visible, and what is visible is opposed → the opposition arrives from three directions: organized forces that conspire, energies drawn by the seeker's own reactivity, and human hostility from those not close to God → it scales with the Light rather than diminishing as the soul grows, so hostility is a sign of progress and not of error → and the response differs in each case, a fortress of prayer, discipline of thought, non-reaction in love, but is never counter-attack | Darkness vs Light; Earthly Challenges & Human Condition |
+| `armour-of-the-world` | The soul moves through the world in clothing that is not its own, and it must be exchanged | A person navigates a wounding world in armour: a shield against betrayal, a cloak of accumulated pain, mental assumptions worn as protection → the armour is worn deliberately and for good reason, since the world it answers is real → but it is the same thing that keeps God out, so it cannot be reinforced, only set down → and it is not simply removed and gone, it is exchanged, the cloak of error shed for a cloak of Light | Surrender & Trust in God; Overcoming Fear & Doubt |
 
 ---
 
@@ -442,7 +444,9 @@ as they are processed or back-searched in full.
   (Foundation, presumptive anchor: the fear diagnosed, the imagined losses
   named down to identity) and 2016-08-28-af-francis-of-assisi (Reframe: the
   obstacle recast as removable clothing; the half-measure, sipping from the
-  bank, named and surpassed).
+  bank, named and surpassed). The Reframe also holds the Foundation role on
+  `armour-of-the-world` from 2026-08-30, and is the hinge between the two
+  threads.
   Recorded 2026-08-30, a tension rather than a member: 2016-11-07-af-
   andrew names the one obstacle to full reception as the belief that you
   are not loved, twelve weeks after the Foundation ruled unworthiness out
@@ -462,6 +466,24 @@ as they are processed or back-searched in full.
   Either the image is simply flexible, or immersion and incremental
   sipping are complementary rather than opposed, which would soften the
   Reframe's wording.
+  SCOPE QUESTION SETTLED 2026-08-30 by curator ruling, and the thread is
+  smaller for it. The question had been raised four times, at
+  2016-09-10-af-augustine, 2016-09-12-af-jerome, 2016-10-15-af-confucius and
+  in the pattern notes: does this roster admit messages that carry the
+  thread's images, an ocean to bathe in and clothing that comes off, without
+  carrying its argument? The answer is no. `armour-of-the-world` was minted
+  the same day to hold the clothing cluster, where the image is the argument,
+  and those three messages are members or witnesses there rather than
+  witnesses here. This thread keeps only messages that carry the fear.
+  What it holds after the ruling: Foundation 2016-08-15-af-alec-gaunt, Reframe
+  2016-08-28-af-francis-of-assisi, Elaboration 2016-09-04-af-john-the-beloved,
+  witnesses 2015-03-27-af-andrew, 2016-05-02-af-andrew and
+  2017-05-11-af-jesus, and the Chrysalis-shaped sighting below. Every one of
+  them names a fear or a feared loss.
+  Fence against `armour-of-the-world`: that thread argues what the clothing is,
+  why it is worn, and that it is exchanged rather than simply removed; this one
+  argues why a soul will not go all the way into the Love, and what it believes
+  it will lose by doing so. A message can carry both, as the Reframe does.
   Curator question 2026-08-30, whether that message is a Chrysalis or a
   witness to one. Assessment: not a Chrysalis, and the reason is scope
   rather than content. A Chrysalis opens the vista the cleared ground makes
@@ -571,6 +593,21 @@ as they are processed or back-searched in full.
   draft filed this as a pen sighting and said it would belong in the
   roster if the candidate minted with 2016-03-31-af-judas as Foundation,
   which is what happened on 2026-08-13.
+<!--
+  Two accounts of the same event, from different spirits, both stated as
+  origins, and this is the thread's open structural question. 2016-03-31-af-
+  judas: the Gift was refused because the first souls were content, "the
+  happiness of those original beings was great and full in their existence as
+  it was." 2015-06-15-af-joseph-smith: "The source of the great fall of
+  mankind is to be powerful, to not acknowledge the power of God." Contentment
+  and ambition are not the same diagnosis. They may be sequential, contentment
+  refusing the offer and ambition characterising what followed, but nothing yet
+  in hand says so. Hold both at build rather than resolving, and note that a
+  message reconciling them would be a significant addition to the thread.
+  (Moved here 2026-08-30 from the holding pen's trailing notes, where it had
+  been left when the thread minted.)
+-->
+
 - `pentecost`, (minted 2026-08-13): 2019-02-15-af-matthew (Testimony, the
   eyewitness account and the teaching drawn from it). The Foundation is
   identified but not yet logged: 2017-05-11-af-jesus, which frames the
@@ -870,7 +907,183 @@ as they are processed or back-searched in full.
   how central he is it is worth doing as its own piece of work rather than as
   a by-product of batch cataloguing.
 
+- `opposition-to-the-light-worker`, (minted 2026-08-30 at the curator's
+  direction, widening and renaming the `fortress-of-light` pen candidate).
+  Renamed because "fortress" is the image of one defence out of four and the
+  2026-08-06 ruling says the argument governs, not the image.
+  Foundation, presumptive anchor: 2016-06-04-af-confucius, the candidate's
+  original statement, organized opposition and the daily fortress of prayer
+  built against it, with the posture qualified, "there are many forces that
+  conspire in many different ways, on many different levels to draw you out of
+  the Light... not in a way of fear... but in a way that you reinforce the
+  Light within yourselves."
+  Elaborations. 2016-09-14-af-augustine relocates the cause inside the seeker:
+  "when you allow inner reactivity, strong negative emotions to flow freely
+  within you, you do indeed attract negative energies and forces to you, forces
+  which are all too happy to reinforce these conditions. No, you are not
+  immune, my beloveds", with discipline of thought and prayer as the defence.
+  2016-09-15-af-augustine supplies what the thread most needed, a reason why
+  opposition comes at all and a law governing it: the Light itself provokes,
+  and both responses scale together, "the power of the Light within your souls
+  causes a response and a reaction in the world, and as your Light grows so
+  will the reaction intensify", with the hostile half described, "a desire to
+  snuff out your Light, a reaction of suspicion, of fear and anger from those
+  who are not close to God", and the defence given as non-reaction, "Do not
+  react in the way of anger to anger, judgement to judgement, fear to fear."
+  That scaling law is the strongest reason the wide reading is right: it makes
+  hostility a sign of growth rather than of error, which the narrow targeting
+  version cannot say.
+  Witnesses. 2016-09-11-af-francis-of-assisi and 2016-09-12-af-jerome, both
+  offering their own rejection as precedent to the same man, Francis shunned
+  and thought not right in his mind, Jerome martyred and understanding the lone
+  man walking the streets with a message of truth, both converting it into a
+  prediction, "still the arrows of criticism and scorn will come your way".
+  2016-09-03-af-mary, protection asked for a third party, "ask for the cloak of
+  protection to surround her and those who are close to her", where the subject
+  is exposed by her own delving rather than targeted.
+  Two consequences of the widening, both recorded so they are not rediscovered.
+  The 2016-09-12-af-jerome entry currently reads "`fortress-of-light` checked
+  and not a match", on the ground that the scorn there is human and undirected.
+  Under the wide argument human undirected scorn is exactly in scope, so that
+  line is now wrong and must be replaced. And the `the-scorned-messenger`
+  candidate proposed on 2026-08-30 is absorbed by this thread rather than
+  penned separately, since the servant's exposure to scorn is one of the three
+  directions opposition comes from.
+  Fences. Against `sensitive-souls-redemptive`, whose claim is that the
+  indwelling Love is passive protection and sensitivity a strength: this thread
+  is about what opposes and how it is met, not about who the sensitive soul is.
+  Against `judgment-to-love`, which is about what judgement does to the soul
+  that judges and to the soul that consents: 2016-09-15-af-augustine holds
+  roles in both and they rest on different halves of the message.
+  What is awaited: an instance from outside this one travelling circle, since
+  three of the five are Augustine or addressed to the same man.
+- `armour-of-the-world`, (minted 2026-08-30 at the curator's direction, from
+  the clothing cluster described across 2016-08-28 to 2016-10-24). Six
+  messages, five spirits, in under two months.
+  Foundation, presumptive anchor: 2016-08-28-af-francis-of-assisi, which names
+  the clothing as mental assumptions and as removable, and says why it is worn.
+  Capstone: 2016-10-24-af-confucius, which completes the argument by making it
+  an exchange rather than a removal, "As you shed your cloaks of error and don
+  your cloak of Light you become a clear and effective channel." Every other
+  instance in the cluster is subtractive, clothing taken off so that something
+  can happen; this alone says what is put on instead, which is what turns a
+  repeated figure into an argument with an end.
+  Members between them: 2016-09-09-af-andrew, the armour as defence against a
+  people that cannot trust, "put away your shield and your armour, to trust in
+  God who will protect you"; 2016-09-10-af-augustine, the armour as
+  unworthiness before God, "remove your cloak and your armor and come to God as
+  a child"; 2016-09-12-af-jerome, the armour as accumulated pain named and
+  handed over, "this is my cloak of pain, this is the armor which I don in
+  order to navigate this life and I wish that you would take it all".
+  Witness: 2016-10-15-af-confucius, which carries the water half of the cluster
+  rather than the clothing, "Drink in these living waters. Allow yourselves to
+  be fully immersed."
+  **This thread is minted alongside `fear-of-full-immersion` and does not
+  replace it**, which is a departure from the parallel with
+  `opposition-to-the-light-worker` above and is flagged as such. That candidate
+  was unminted and had one sighting, so renaming it cost nothing. This one is
+  different: `fear-of-full-immersion` is minted, carries a Foundation, a
+  Reframe and an Elaboration, and its argument is about fear, the losses a soul
+  imagines it will suffer, down to identity. Renaming it would strip that
+  argument, which three of its members carry. So the clothing cluster is given
+  its own thread instead, and the fence is what resolves the scope question
+  raised four times: `fear-of-full-immersion` keeps only messages that carry
+  the fear argument, and the image-only messages come here, where the image is
+  the argument. 2016-08-28-af-francis-of-assisi holds a role in both, which the
+  vocabulary permits, and it is the hinge between them.
+  One piece of counter-evidence recorded rather than resolved. The
+  `fear-of-full-immersion` Reframe sets sipping against immersion and makes
+  drinking the half-measure it surpasses, while 2016-10-15-af-confucius uses
+  drinking and immersion together as one invitation. So the water images were
+  not fixed in opposition across this circle's vocabulary. That is an argument
+  for treating the water half as flexible figure rather than doctrine, and it
+  is why 2016-10-15-af-confucius is a witness here and not a member. It is the
+  same shape as the Francis valence question in Open questions, and the two
+  should be settled together.
+
+
+<!--
+- `divine-love-mediumship` was minted 2026-07-03 with six witnesses, all now
+  logged: 2016-03-27-af-seretta-kem (Foundation), 2016-12-06-af-seretta-kem
+  (Elaboration), 2018-08-29-af-seretta-kem (Elaboration), 2019-01-26-af-andrew
+  (Elaboration), 2019-01-30-af-jesus (Testimony), 2019-02-27-af-andrew
+  (Elaboration). The four earlier witnesses were back-filled with roles confirmed
+  against full text; the two Seretta Kem and one Andrew entries carry the
+  mechanism and universality strands, and Jesus 2019-01-30 anchors the Testimony.
+  Open question: confirm whether 2016-03-27 or 2016-12-06 is the better Foundation
+  when both full texts are weighed together at build time; 2016-03-27 currently
+  holds it as the earliest developed statement of the mechanism, with 2016-12-06
+  as the fuller laws-and-conditions Elaboration immediately after. (2026-07-06:
+  under the revised section structure both may stand as Foundation-section
+  members; the open choice is only the anchor.)
+-->
+
+<!--
+- `two-paths` Capstone now has two candidates (2026-08-11). 2016-05-02-af-andrew
+  holds the role: it states the fork as a choice, carries the sixth-sphere
+  ceiling, and closes on the open invitation. 2018-05-12-af-luke states the
+  at-onement gate, "at-onement cannot come without the healing of the soul...
+  without the infusion of Divine Love to such a degree that there is a
+  resonance between the mortal soul that becomes a Divine Soul and God's
+  Soul," which is arguably the truer close of the argument, since it names
+  what the natural path cannot reach rather than only how far it goes. Working
+  reading that keeps Andrew: he addresses a hearer who has not yet chosen,
+  Luke expounds for a circle that already has, so Andrew closes the argument
+  and Luke completes the doctrine. Both belong in the Capstone section either
+  way; the choice is only the anchor. Related: the Andrew Capstone also
+  carries the thread's only Chrysalis-shaped passage (the unlimited-capacity
+  vista), so if a Chrysalis section is ever opened for `two-paths`, that
+  message is its obvious occupant and the anchor question reopens.
+-->
+
+<!--
+- `mind-vs-soul` carries two pictures of the mind and should keep both.
+  Most members treat the mind as the obstacle and the soul as the authority.
+  2018-10-09-af-seretta-kem reverses it: the newly awakened soul is "so
+  tender and vulnerable, soft, and in need of the strength that you carry in
+  a conscious way, the love that you carry, the wisdom and knowledge that you
+  carry," with the mind supplying what the soul cannot yet supply itself. The
+  same message still describes the mind's resistance, so the two pictures
+  coexist inside one message rather than between messages. Building the chain
+  around the adversarial picture alone would be tidier than the evidence.
+  (Anchors and section structure moved to the roster entry, 2026-08-27.)
+-->
+
+<!--
+- `soul-expiation` roster gap: the members describe the process and its
+  pain, few describe its completion. Standing candidate if a second
+  completion-describing message appears: 2016-05-16-af-keea-atta-kem
+  (witness, logged 2026-07-20). The end-state facet may be the thread's
+  eventual Capstone.
+-->
+
+<!--
+- `bell-toll-instrumentality` holds a deliberate tension: the Capstone
+  (2018-09-01-af-augustine) has the signal going out even in idle silence;
+  2016-08-02-af-augustine grounds the toll in active expression. Same
+  spirit, reconcilable (presence radiates, expression amplifies and
+  directs); held explicitly so neither entry reads as contradicting the
+  other. The Capstone keeps the section anchor.
+-->
+
+<!--
+- `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
+  on Good Friday") gestures at the thread's territory - "the distortions that
+  have gone through the centuries creating great myths and errors" about Jesus'
+  message - but only invokes it; the message corrects no specific doctrine, and
+  its actual spine is carry-the-message service and pushing back darkness. Too
+  light to log as a member. Revisit only if it would help bracket the thread's
+  Good-Friday / death-of-Jesus framing when building.
+-->
+
+<!--
+- `religious-error` has a set worth reading together at build: three founders
+  and reformers correcting their own work. 2015-03-28-af-augustine encouraged
+  the error himself; 2015-06-15-af-joseph-smith confirms the angels really did
+  support the founding and says the institution decayed anyway; Martin Luther
+  says he has since released much of what he fought for.
 ---
+-->
 
 # Holding pen (candidate threads not yet minted)
 
@@ -960,24 +1173,6 @@ message gives them an argument to trace.
   earlier Goldie garden message 2015-05-27-af-goldie is a joy blessing, an
   adjacency rather than a second witness. Mint when a second witness states
   the mechanism.
-- `fortress-of-light`, the light-worker as a target for organized
-  negativity and the building of a daily fortress of prayer against it,
-  explicitly not from fear ("there are many forces that conspire in many
-  different ways, on many different levels to draw you out of the Light...
-  not in a way of fear... but in a way that you reinforce the Light within
-  yourselves"). Seen: 2016-06-04-af-confucius. Distinct from
-  `sensitive-souls-redemptive` (indwelling Love as passive protection;
-  sensitivity as strength): this is active self-protection under targeting.
-  Mint when a second message builds the mechanism of targeted spiritual
-  attack and its defence.
-  (2026-08-30, scope question raised and not decided: 2016-09-03-af-mary
-  carries the defensive half of this candidate's argument, "ask for the
-  cloak of protection to surround her and those who are close to her", and
-  not the targeting half. Mary's subject is exposed by her own delving,
-  "she knows not the conditions that she is delving into and is very
-  vulnerable to all influences", with nothing conspiring against her. Does
-  a defence-without-targeting message count as the second witness, or does
-  the candidate require the targeting premise?)
 - `love-retained-in-the-channel`, a portion of the love that passes through
   a serving channel is retained and accumulates, so serving others is also
   how the servant grows. Seen: 2016-08-26-af-brother-mandus (the developed
@@ -1099,36 +1294,6 @@ message gives them an argument to trace.
   yet the argument this entry waits for, but it is the nearest approach to
   it, and it is the one instance that suggests what the argument would
   sound like.)
-- `divine-love-mediumship` was minted 2026-07-03 with six witnesses, all now
-  logged: 2016-03-27-af-seretta-kem (Foundation), 2016-12-06-af-seretta-kem
-  (Elaboration), 2018-08-29-af-seretta-kem (Elaboration), 2019-01-26-af-andrew
-  (Elaboration), 2019-01-30-af-jesus (Testimony), 2019-02-27-af-andrew
-  (Elaboration). The four earlier witnesses were back-filled with roles confirmed
-  against full text; the two Seretta Kem and one Andrew entries carry the
-  mechanism and universality strands, and Jesus 2019-01-30 anchors the Testimony.
-  Open question: confirm whether 2016-03-27 or 2016-12-06 is the better Foundation
-  when both full texts are weighed together at build time; 2016-03-27 currently
-  holds it as the earliest developed statement of the mechanism, with 2016-12-06
-  as the fuller laws-and-conditions Elaboration immediately after. (2026-07-06:
-  under the revised section structure both may stand as Foundation-section
-  members; the open choice is only the anchor.)
-
-- `two-paths` Capstone now has two candidates (2026-08-11). 2016-05-02-af-andrew
-  holds the role: it states the fork as a choice, carries the sixth-sphere
-  ceiling, and closes on the open invitation. 2018-05-12-af-luke states the
-  at-onement gate, "at-onement cannot come without the healing of the soul...
-  without the infusion of Divine Love to such a degree that there is a
-  resonance between the mortal soul that becomes a Divine Soul and God's
-  Soul," which is arguably the truer close of the argument, since it names
-  what the natural path cannot reach rather than only how far it goes. Working
-  reading that keeps Andrew: he addresses a hearer who has not yet chosen,
-  Luke expounds for a circle that already has, so Andrew closes the argument
-  and Luke completes the doctrine. Both belong in the Capstone section either
-  way; the choice is only the anchor. Related: the Andrew Capstone also
-  carries the thread's only Chrysalis-shaped passage (the unlimited-capacity
-  vista), so if a Chrysalis section is ever opened for `two-paths`, that
-  message is its obvious occupant and the anchor question reopens.
-
 - Some chains will likely need sub-message anchoring after all, for long
   teaching messages that move through several distinct ideas (e.g. the
   Augustine "All Truth Comes from the Soul" pieces). Note these as we find
@@ -1161,33 +1326,12 @@ message gives them an argument to trace.
   (2019-02-01); early premise-witnesses precede developed Foundations in
   `free-will-and-gods-plan` (2014-07-26), `who-jesus-was` (2018-11-26), and
   `preparation-to-be-a-rock` (2015-06-29).)
-- `mind-vs-soul` carries two pictures of the mind and should keep both.
-  Most members treat the mind as the obstacle and the soul as the authority.
-  2018-10-09-af-seretta-kem reverses it: the newly awakened soul is "so
-  tender and vulnerable, soft, and in need of the strength that you carry in
-  a conscious way, the love that you carry, the wisdom and knowledge that you
-  carry," with the mind supplying what the soul cannot yet supply itself. The
-  same message still describes the mind's resistance, so the two pictures
-  coexist inside one message rather than between messages. Building the chain
-  around the adversarial picture alone would be tidier than the evidence.
-  (Anchors and section structure moved to the roster entry, 2026-08-27.)
 - Possible `free-will-and-gods-plan` connection to watch: 2016-03-13-af-faith-nyquist
   ("Keep the Flame Burning") echoes the thread's "circuitous route" image
   ("God's Will will manifest. It may take a circuitous route but it will be done").
   Connection is suggestive but vague (an encouragement echo, not a development of
   the argument). Not logged as a member; revisit if stronger circuitous-route /
   God's-Will-despite-resistance witnesses appear, and replace or confirm then.
-- `soul-expiation` roster gap: the members describe the process and its
-  pain, few describe its completion. Standing candidate if a second
-  completion-describing message appears: 2016-05-16-af-keea-atta-kem
-  (witness, logged 2026-07-20). The end-state facet may be the thread's
-  eventual Capstone.
-- `bell-toll-instrumentality` holds a deliberate tension: the Capstone
-  (2018-09-01-af-augustine) has the signal going out even in idle silence;
-  2016-08-02-af-augustine grounds the toll in active expression. Same
-  spirit, reconcilable (presence radiates, expression amplifies and
-  directs); held explicitly so neither entry reads as contradicting the
-  other. The Capstone keeps the section anchor.
 - Natural-love rehabilitation watch: three messages now decline to subordinate
   natural love. 2016-08-27-af-brother-mandus (sufficient to disperse the human
   condition's clouds), 2016-09-02-af-augustine (a gift from God not to be
@@ -1223,28 +1367,6 @@ message gives them an argument to trace.
   before chains are finalised. 41 entries carried the tag at the start of the
   2026-08-12 session. Highest-value remaining: the anchors and presumptive anchors, 2015-03-29-af-seretta-kem, 2015-05-03-af-confucius, 2017-06-15-af-augustine, 2018-07-19-af-matthew,
   2018-09-01-af-augustine, 2018-10-16-af-seretta-kem.
-- `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
-  on Good Friday") gestures at the thread's territory - "the distortions that
-  have gone through the centuries creating great myths and errors" about Jesus'
-  message - but only invokes it; the message corrects no specific doctrine, and
-  its actual spine is carry-the-message service and pushing back darkness. Too
-  light to log as a member. Revisit only if it would help bracket the thread's
-  Good-Friday / death-of-Jesus framing when building.
-- `the-fall` holds two accounts of the same event, from different spirits,
-  both stated as origins. 2016-03-31-af-judas: the Gift was refused because
-  the first souls were content, "the happiness of those original beings was
-  great and full in their existence as it was." 2015-06-15-af-joseph-smith:
-  "The source of the great fall of mankind is to be powerful, to not
-  acknowledge the power of God." Contentment and ambition are not the same
-  diagnosis. They may be sequential, contentment refusing the offer and
-  ambition characterising what followed, but nothing yet in hand says so.
-  Hold both at build rather than resolving; a message that reconciles them
-  would be a significant addition to the thread.
-- `religious-error` has a set worth reading together at build: three founders
-  and reformers correcting their own work. 2015-03-28-af-augustine encouraged
-  the error himself; 2015-06-15-af-joseph-smith confirms the angels really did
-  support the founding and says the institution decayed anyway; Martin Luther
-  says he has since released much of what he fought for.
 - `comfort-dulls-longing`, a life whose needs are met produces insufficient
   longing to receive Divine Love; contentment, not sin, is what most often
   refuses the gift. Seen, in three registers: 2016-05-29-af-aman
