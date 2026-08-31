@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-08-12 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
+Generated 2026-08-31 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -125,11 +125,11 @@ spirit_description: >
   and is traditionally regarded as the first apostle. Now an inhabitant of
   the Celestial Kingdom, he identifies himself as a disciple of the Master,
   Jesus. In the Divine Love messages he is one of the most frequent and
-  versatile presences in the archive — delivering messages on service,
+  versatile presences in the archive, delivering messages on service,
   mission, the two paths, soul healing, forgiveness, and the nature of
   Divine Love. He identifies himself as Al Fike's personal guide of many
   years. His tone is consistently warm, direct, and deeply pastoral, with
-  a particular gift for compassionate challenge — calling those gathered to
+  a particular gift for compassionate challenge; calling those gathered to
   greater courage, honesty, and commitment while affirming their belovedness
   at every turn.
 notes: >
@@ -365,7 +365,7 @@ notes: >
   resides in the Celestial Kingdom.
 
 
-  In 2015-11-09-af-faith she discloses her great Earth life challenge: to be
+  In 2015-11-09-af-faith-nyquist she discloses her great Earth life challenge: to be
   heard, seen, and acknowledged while doing God's work.
 
 
@@ -818,8 +818,46 @@ FILE: spirits/luke.yml
 spirit_id: luke
 spirit_name: "Luke"
 spirit_aliases: ["Luke the Evangelist", "Saint Luke"]
-spirit_description: "Luke the Evangelist (c. 1st century AD), traditionally identified as the author of the Gospel of Luke and the Acts of the Apostles, and a companion of the apostle Paul. A physician by profession, he is known for his compassionate portrayal of Jesus and particular attention to healing, the poor, and the marginalized. Now a celestial spirit and communicator in the Divine Love messages, he is described by Confucius as a teacher of joy and happiness."
-notes: "First appears by reference in 2016-02-29-af-confucius, where Confucius mentions 'our brother, Luke' as having spoken about joy and happiness. Spirit file created at that point; further details to be added as more messages emerge."
+spirit_description: >
+  Luke the Evangelist (c. 1st century AD). The Bible names Luke as a
+  physician and a companion of the apostle Paul, and Christian tradition
+  identifies him as the author of the Gospel of Luke and the Acts of the
+  Apostles, whose portrayal of Jesus is noted for its compassion and for its
+  attention to healing, the poor, and the marginalized. In the Divine Love
+  messages he speaks from the Celestial Kingdom and gives structured
+  teachings, often in answer to questions and discussions raised within the
+  circle. He has taught on the conditions of the world and their effect on
+  every soul, the encrustations that life lays over the soul, the conditions
+  carried from parent to child, the Law of Compensation as it operates on
+  the natural love path and on the Divine Love path, judgment and the
+  honesty required to see one's own part in it, and the limits of the mind
+  in spiritual matters. His manner is warm and searching: he asks the circle
+  directly whether they are willing to see themselves as they are, and tells
+  them in the same breath that they are not to blame for their condition and
+  must not reject themselves.
+notes: >
+  Places himself in the Celestial Kingdom in 2018-04-03-af-luke, speaking of
+  "those judgments and feelings that cause barriers with we in the Celestial
+  Kingdom" and of what celestial angels do and do not feel. Describes the
+  standing of the angels toward the circle in 2018-06-24-af-luke: "we would
+  not be capable or qualified to be your helpers and guides, teachers and
+  gatekeepers for we would not be governed by love." Both statements are in
+  the first person plural.
+
+  Addresses individual members of the circle directly, as "dear daughter" in
+  2018-04-03-af-luke and 2018-06-24-af-luke and as "my dear sons" in
+  2018-09-22-af-luke, and opens by naming the question or discussion he is
+  answering in 2018-04-03-af-luke, 2018-05-12-af-luke, 2018-06-24-af-luke
+  and 2018-09-22-af-luke.
+
+  In 2016-03-11-af-luke he states that the encrustations of the soul come of
+  having lived in this world, "not because you are sinful and depraved", and
+  asks the seeker to have compassion for themselves and to know they are not
+  to blame for their condition.
+
+  Referred to in 2016-02-29-af-confucius, where Confucius speaks of "our
+  brother, Luke" as having spoken about joy and happiness. The spirit file
+  was created from that reference.
 
 ========================================================================
 FILE: spirits/marjorie-fike.yml
@@ -1047,8 +1085,45 @@ FILE: spirits/moses.yml
 spirit_id: moses
 spirit_name: "Moses"
 spirit_aliases: ["Moses the Lawgiver"]
-spirit_description: "Moses (c. 13th century BC), the great Hebrew prophet and lawgiver of the Old Testament, led the Israelites out of slavery in Egypt and received the Ten Commandments on Mount Sinai. His life was defined by long and arduous journeys undertaken in reliance on God's guidance. Now a celestial spirit residing in the Celestial Heavens, he communicates in the Divine Love messages both as an encouraging presence drawing on his own experience of journeying in faith, and as a teacher who speaks with candour about the errors of religious tradition — including the sacrificial system he himself established — calling souls to seek God's Love directly rather than through inherited religious constructs."
-notes: ""
+spirit_description: >
+  Moses (c. 13th century BC). According to the Bible, Moses was the Hebrew
+  prophet and lawgiver who led the Israelites out of slavery in Egypt and
+  received the Ten Commandments on Mount Sinai. In the Divine Love messages he
+  says that he lives in the Celestial Heavens, and draws on his own life of
+  journeying and reliance on God's guidance to encourage those who gather. He
+  speaks from within the religion of his Earth life, and repudiates the
+  sacrifice of blood and the doctrine of the Vicarious Atonement as having had
+  no effect upon the souls of men. He teaches
+  that no written word, the Bible included, is absolute Truth, that Truth is
+  perceived by each soul through its own rapport with God, and that error in
+  another is met with humility and prayer rather than correction.
+notes: >
+  In 2015-10-05-af-moses he states where he lives and what his Earth life was:
+  "I've come a great distance to be with you, my beloveds, for I live in the
+  Celestial Heavens", and "when I was on Earth I journeyed near and far. My
+  life was filled with journeys and I relied upon my Heavenly Father to guide
+  me along my path and I sought His guidance and His presence in my life. And,
+  in so doing, I brought a deep insight into myself and an ability to see, to
+  have vision spiritually." He adds, "I journeyed far and I'm known amongst men
+  for my journeys".
+
+  In 2016-04-12-af-moses he speaks of the religion of his Earth life in the
+  first person plural: "In our Jewish culture and religion, shedding of blood
+  was a common attempt to appease God"; "we feared God and in many ways we
+  blamed God for our mishaps"; "even when we practiced in the old days this
+  sacrifice, it had no effect in our world"; and "We, the Jews, took great
+  import upon the written word." In the same message he calls Jesus "our
+  brother Jesus, a Jew, and a prophet, and the Messiah", and says of the
+  spirits teaching alongside him, "we, who have tread this road for thousands
+  of years, continue to evolve in our understanding of Truth."
+
+  In 2016-11-28-af-moses he states that he was
+  charged by God to bring together the Jews, his people, and that there were
+  many conditions and much strife within that family, larger than those of the
+  circle he addresses, and that they nonetheless united: "we did bond together,
+  we did unite, we did put aside our differences." Speaks of having had his own
+  challenges in that work, and says no challenge is too great when God has His
+  hand in a life.
 
 ========================================================================
 FILE: spirits/nikola-tesla.yml
