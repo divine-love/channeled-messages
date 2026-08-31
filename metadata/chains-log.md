@@ -364,7 +364,7 @@ are built.
 - `bell-toll-instrumentality` **[Foundation]** : Andrew introduces the bell-toll image: God's Touch flowing through awakened souls reaches many like a bell toll awakening, with the gathered souls holding the rope that rings it. Anchors the thread.
 
 ### 2018-09-01-af-augustine | The Awakening of Your Souls Brings the Message of Truth to Humanity | 2018-09-01 [back-search]
-- `bell-toll-instrumentality` **[Capstone]** : Augustine states the fullest form: every Divine-Love-bearing soul sends out a signal of light like a tolling bell even in idle silence at home; it is inseparable from the soul. (Already tagged Core Teaching; provisional Capstone role - confirm against full text when building.)
+- `bell-toll-instrumentality` **[Capstone]** : Augustine states the fullest form: every Divine-Love-bearing soul sends out a signal of light like a tolling bell even in idle silence at home; it is inseparable from the soul. -- (Already tagged Core Teaching; provisional Capstone role - confirm against full text when building.)
 
 ### 2016-01-28-af-francis-of-assisi | How I Became a Channel of Love in the World | 2016-01-28
 - `bell-toll-instrumentality` **[Testimony]** : Francis offers his own Earth life as evidence for the mechanism: as a soul seeks God's Love it brings a special Light into the world that "rings the bell and the bell tolls and the souls have a flicker of awakening and respond." First-person witness that the awakened soul awakens others, from one who lived it.
@@ -380,7 +380,7 @@ are built.
 - `mind-vs-soul` **[Elaboration]** : Frames the material mind as the chief obstacle - its clutter, fear, and sense of unworthiness obscuring the soul's true desire - and calls for disciplining the mind so the soul can commune directly with God.
 
 ### 2018-07-30-af-keea-atta-kem | Prayer | 2018-07-30
-- `prayer-soul-longing` **[Capstone]** : Keea Atta Kem gives the fullest treatment: prayer is the language of the soul and an act of faith opening a thread of light to God; names the Law of Activation as the mechanism ("It is prayer that brings the response from God enacting His Law of Activation"); repetition without feeling yields no real response. Ties the soul-longing argument to a named spiritual law. (Tagged Core Teaching.)
+- `prayer-soul-longing` **[Capstone]** : Keea Atta Kem gives the fullest treatment: prayer is the language of the soul and an act of faith opening a thread of light to God; names the Law of Activation as the mechanism ("It is prayer that brings the response from God enacting His Law of Activation"); repetition without feeling yields no real response. Ties the soul-longing argument to a named spiritual law. -- (Tagged Core Teaching.)
 
 ---
 
@@ -394,7 +394,7 @@ are built.
 - `mind-vs-soul` **[Elaboration]** : Frames the dual consciousness (material mind vs. soul mind) and insists the soul's faculties must be experienced, not merely understood by the mind. Deepens the mind-vs-soul argument rather than founding or capping it.
 
 ### 2019-02-01-af-confucius | Come Together Again With Your Questions | 2019-02-01
-- NOTE (portal watch): closes with "This portal opens wide. Many gifts are coming." The term is now in active, developed use - days after the Seretta Kem portals teaching (2019-01-26) that gives portals their technical meaning - in contrast to the loose 2016 sighting (2016-03-25-af-augustine). Otherwise a light message: mostly personal reassurance to the circle host and a call to gather again. Not a chain member; logged only as a portal-watch datapoint. (2026-08-06, on minting: stands as a roster usage witness for `portals`.)
+- NOTE (portal watch): closes with "This portal opens wide. Many gifts are coming." The term is now in active, developed use - days after the Seretta Kem portals teaching (2019-01-26) that gives portals their technical meaning - in contrast to the loose 2016 sighting (2016-03-25-af-augustine). -- Otherwise a light message: mostly personal reassurance to the circle host and a call to gather again. Not a chain member; logged only as a portal-watch datapoint. (2026-08-06, on minting: stands as a roster usage witness for `portals`.)
 
 ### 2019-02-03-af-andrew | The Door of Truth Is Opened With God's Love | 2019-02-03
 - `soul-purpose-emergence` **[Elaboration]** : Companion to the Augustine Foundation (2019-01-29), restated days later: true self and true purpose come not as a sudden revelation "but comes with the slow awakening and expression of your soul within your lives until you find yourself walking upon a path that is truly in harmony with God's Will." Adds the framing of gifts "yearning to be awakened" for service and counsels "humility and patience" while the purpose surfaces. Confirms the emergence argument rather than advancing it.
@@ -402,14 +402,14 @@ are built.
 ### 2019-02-04-af-jesus | The Light Must Overcome the Darkness | 2019-02-04
 - `bell-toll-instrumentality` **[Elaboration]** : The subtle-spreading mechanism in macro form: "God establishes beachheads of Light in a darkened world," and as the seeker empowers them, "these nodes of Light expand and grow. It is subtle... and it touches many, many more than you are aware of," for "God uses you more than you know." Same radiating instrumentality as the bell toll, scaled up to the collective contest against darkness. Strong witness; pairs with the John 2016-03-12 ripples and Augustine 2016-03-25 subtle-instrumentality entries.
 - `mind-vs-soul` **[Elaboration]** : States the hierarchy directly as a truth to be taught: "You must teach that the Truth of the soul is greater than the truth of the mind, that the power of Love is greater than the power of the will of humanity," and frames transformation as the soul finding "predominance over your minds." Adds the teaching-imperative dimension - the mind/soul distinction as something the seeker must actively convey to others.
-- NOTE (holding-pen candidate, `two-currents-cosmology`): opens with a distinct macro framing - "two powerful currents in this world, one that flows towards darkness and one that flows towards light," with darkness presently the stronger, fuelled by greed and the misplaced search for safety in material things, and the seekers carrying "a powerful antidote to the darkness." Related to but distinct from `earth-conditions-and-prayer` (which is the darkness-field buffeting the individual soul); this is the macro contest of currents and the collective movement that overcomes it. Watch for other two-currents / light-overcoming-darkness statements (cf. the Jesus 2018-05-28 "association of souls coalescing to push back darkness" and Seretta Kem 2018-10-24 "nodes of darkness surrounded and neutralized") and mint if the framing recurs with development.
+- NOTE (holding-pen candidate, `two-currents-cosmology`): opens with a distinct macro framing - "two powerful currents in this world, one that flows towards darkness and one that flows towards light," with darkness presently the stronger, fuelled by greed and the misplaced search for safety in material things, and the seekers carrying "a powerful antidote to the darkness." -- Related to but distinct from `earth-conditions-and-prayer` (which is the darkness-field buffeting the individual soul); this is the macro contest of currents and the collective movement that overcomes it. Watch for other two-currents / light-overcoming-darkness statements (cf. the Jesus 2018-05-28 "association of souls coalescing to push back darkness" and Seretta Kem 2018-10-24 "nodes of darkness surrounded and neutralized") and mint if the framing recurs with development.
 
 ### 2019-02-05-af-keea-atta-kem | Feeling the Love | 2019-02-05
 - `divine-love-without-knowing` **[Elaboration]** : Adds the felt-experience dimension to the thread the Augustine Foundation (2019-01-31) frames in terms of understanding: one may receive the gift without consciously *feeling* it, not only without comprehending it. "For those who do not feel the inflowing of the Divine Love within their souls, this does not mean that they are not receiving this Love, for indeed they are." Names the mechanism - the soul's sincere yearning brings the Holy Spirit's response, "the law in action, the Law of Love" - and promises that those who cannot yet feel it will in time be given "some powerful experience, some form of awakening" that confirms the Truth. Distinct contribution: shifts the thread from "received without knowing" to "received without feeling," and supplies the reassurance pastorally.
 - `mind-vs-soul` **[Elaboration]** : Years of living through "the faculties of your material mind" dull sensitivity to a gift that is known "in a way of knowing that goes beyond the mind"; the soul receives regardless of the mind's recognition. Companion to the Augustine 2019-01-31 mind-soul note.
 
 ### 2019-02-06-af-francis-of-assisi | Your Prayers May Change the Conditions of the World | 2019-02-06
-- NOTE (holding-pen candidate, `prayer-changes-world-conditions`): central claim is intercessory - "Prayer is powerful... Prayer can change conditions. Prayer can change the behavior of those who violate and are in ignorance and error," so that "the minds of those in darkness may be changed" and "blessings will pour upon this world." Distinct from `prayer-soul-longing` (the nature of true prayer) and from `earth-conditions-and-prayer` (prayer defending the individual soul against the world's darkness-field): this is prayer reaching outward to change the world and other people. Strong statement of the argument but mostly asserts rather than develops it. Co-witnesses seeded in the holding pen.
+- NOTE (holding-pen candidate, `prayer-changes-world-conditions`): central claim is intercessory - "Prayer is powerful... Prayer can change conditions. Prayer can change the behavior of those who violate and are in ignorance and error," so that "the minds of those in darkness may be changed" and "blessings will pour upon this world." Distinct from `prayer-soul-longing` (the nature of true prayer) and from `earth-conditions-and-prayer` (prayer defending the individual soul against the world's darkness-field): this is prayer reaching outward to change the world and other people. -- Strong statement of the argument but mostly asserts rather than develops it. Co-witnesses seeded in the holding pen.
 
 ### 2019-02-10-af-augustine | Choosing Light Over Darkness | 2019-02-10
 - `death-transition` **[Elaboration]** : Adds the condition-determines-your-starting-plane mechanism the Matthew Foundation (2018-07-19) leaves implicit: "By the Laws of Creation, you are destined to enter some place in this world of spirit that is determined by the condition of your soul," and that plane "will reinforce your own condition, your own level of light." Death is still seamless transition, but Augustine specifies that what you carry across determines where you begin and what you face. Pairs with Matthew's foundation.
@@ -1345,9 +1345,7 @@ are built.
   God, "There is a great ocean of Love which you may bathe within if you but
   remove your cloak and your armor and come to God as a child filled with
   longing to be home with your Heavenly Father." The second of the three
-  things the clothing is said to be. Moved here from
-  `fear-of-full-immersion`, where it was held at witness with a scope question
-  attached, because it carries that thread's image and not its fear argument.
+  things the clothing is said to be.
 - NOTE (sighting, `soul-faculties`): "a wondrous opening to a world so different from that which the mind perceives... great awakenings of perception, gifts that lay within the soul dormant will be awakened." Asserted, and the thread holds the dormant-gifts claim many times over.
 - NOTE (sighting, `mind-vs-soul`): the same passage sets soul perception against mind perception in one clause. Not counted twice; recorded so the phrasing is findable.
 - NOTE (`divine-love-healing` checkpoint, negative): "this blessing of Divine Love is unlimited. It goes on for all eternity" carries the eternality on which that thread grounds primacy, but makes no comparative claim and does not frame the Love as healing here.
@@ -1383,7 +1381,7 @@ are built.
   cloak of pain, this is the armor which I don in order to navigate this life
   and I wish that you would take it all." The third of the three things the
   clothing is said to be, and the only one where it is surrendered to God
-  rather than simply removed. Moved here from `fear-of-full-immersion`.
+  rather than simply removed.
 - NOTE (witness, `opposition-to-the-light-worker`): Jerome offers his own
   martyrdom as precedent to a man walking the streets with a message of truth,
   and converts it into a prediction, "it is very unlikely you will have my
