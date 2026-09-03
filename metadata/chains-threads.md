@@ -88,13 +88,18 @@ A message may carry different roles in different chains.
 
 ## How to read this file
 
-This file holds three things:
+This file holds five things:
 
-- **Theme Registry**, the scannable index of every minted candidate chain, each
-  with a stable slug, a one-line description, and the argument it traces. Check
-  here before minting a new thread to avoid duplicates.
+- **Theme Registry**, the scannable index of every minted thread, each with a
+  stable slug, a one-line description, and the argument it traces. Check here
+  before minting a new thread to avoid duplicates.
+- **Thread rosters**, one entry per minted thread, holding its members in role
+  order with the facet each contributes, its fences, and what it is waiting
+  for. Every minted thread has an entry and every entry lives in that section.
 - **Holding pen**, candidate threads that have been noticed but not yet minted,
   each with its sightings and the development still needed before it earns a slug.
+- **Patterns recorded and not penned**, observations that recur but are not
+  candidate threads, kept so they are not noticed twice.
 - **Open questions**, larger structural questions to revisit when building begins.
 
 The per-message evidence (which message joined which thread, in chronological
@@ -107,6 +112,32 @@ A note on expected scale: chains are anticipated for essentially every subject
 in the hierarchy, and likely for many collections and keyword topics as well.
 Expect hundreds of threads. Mint slugs disciplined and check the registry
 before adding new ones.
+
+### Roster entry shape
+
+An entry is a single indented block, no blank lines and no headings, with its
+internal structure carried by labelled sentence openings.
+
+The opening line names the thread, its mint date where one is recorded, its
+size in member roles, and the arc it traces in one clause.
+
+Role sections follow in argument order, each introduced by its role name as a
+sentence opening: Foundation, Elaborations, Objections removed, Reframe,
+Chrysalis, Testimony, Capstone. The anchor is named in the section it anchors.
+Within a section, messages run chronologically, separated by semicolons, each
+with the facet it contributes in a few words. Where a section grows too large
+to read as one run, it is subdivided by facet group and the groups are named;
+the groups subdivide one role section and do not add a structural level.
+
+Then, as needed and in this order: Witnesses, for witness-level notes worth
+recalling at build, grouped by the facet each supports. Fences, against the
+threads this one is most likely to be conflated with. What is awaited, for
+conditions the material itself has raised. Structural note, for anomalies a
+builder would otherwise read as gaps.
+
+An entry explains the thread, never its own existence. Nothing is recorded
+about why the entry was written, when it was filed, or when material was
+added to it; later additions are folded into the role section they belong to.
 
 ---
 - `spiritual-fellowship`, (minted 2026-08-13): 2015-03-28-af-augustine
