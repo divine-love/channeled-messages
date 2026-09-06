@@ -611,6 +611,93 @@ added to it; later additions are folded into the role section they belong to.
   witness. Cross-reference: the same clause is a fifth instance for the
   `unlimited-reception` pen candidate, which asked to be told when a fifth
   appeared.
+- `free-will-and-gods-plan`: 14 member roles across 12 messages, running from
+  God holding an intended end that free will constantly deflects, to the
+  soul's free choice to align being itself the fulfilment of the plan rather
+  than its loss.
+  Foundation, anchor: 2015-03-24-af-augustine, given in New York the day
+  after the gathering there, to a small circle beginning something new. It
+  carries three separable Foundation passages. The premise, "there is fate
+  and yet there is no fate," God holding an intended outcome and seeing the
+  whole of it while "the power of free will buffets the enactment of God's
+  will, turns and twists this flow," with the constraint stated as legal
+  rather than practical. Then the delay as chosen rather than imposed, "the
+  power of God's Love is greater than all the power of man's will," followed
+  at once by the reaffirmation that the laws must be obeyed anyway, so God is
+  not held back but declines to use a power He has. Then what the argument
+  costs and what it is for, "the injustices and the extreme perversions of
+  life, and the innocence of those who are the victims of the great power of
+  mankind's free will," with the remedy located in souls "unencumbered by
+  these conditions" and "strong enough because they possess the greatest gift
+  possible," so the delay is what allows the suffering to continue and the
+  willing soul is what shortens it.
+  Foundation section, beneath the anchor: 2014-07-26-af-augustine, the
+  unpredictability step argued from the spirit side, refusing the premise
+  that events express God's intention, "the events of the world do not unfold
+  to the Will of God but to the will of man," and stating the claim that
+  gives the thread its shape, "the flow of the events in this world are not
+  altogether predictable, are not altogether under the control of God. There
+  is an element of chaos and changeability." It also describes the constraint
+  as binding the angels, "we are limited in our efforts as well because of
+  the power of free will."
+  Elaborations. 2015-12-14-af-augustine holds that God's Will cannot be known
+  from the mind, only by a soul enlivened by Divine Love; 2016-01-18-af-confucius
+  applies the premise to the individual's inner struggle, "You are given the
+  gift of free will... but this is your destiny," the soul determining the
+  timing while alignment is the destiny free will exists to choose;
+  2016-03-16-af-jesus works the plan at the scale of one life and supplies the
+  surrender step in a form the thread does not otherwise hold, the seeker's own
+  method for serving God superseded from within, "the fantasies of your minds
+  projecting how you will do God's Work will be replaced by a sure knowledge of
+  your souls," and denies the circuitous road the meaning a hearer would give
+  it, "none of you are lost upon a circuitous road";
+  2016-03-17-af-alec-gaunt rules human plan-making out absolutely, "You
+  cannot devise a plan to save the world. This is not possible for any human
+  being or even any angel. It is God's plan," offering his own Earth-life
+  ambition as the cautionary case, the same move at world scale that Jesus
+  makes at the scale of a method; 2016-03-18-af-john-the-beloved adds the
+  pre-incarnation choice, "Each one of you has incarnated into this world for
+  this purpose. You chose this," so alignment is the fulfilment of a choice
+  already made rather than a surrender imposed; 2016-03-31-af-judas grounds
+  the premise in the design of the soul, free will given so the soul's
+  reflection of God would be "full and rich," with the plan being that
+  everyone be offered rather than that everyone accept; 2016-05-12-af-augustine
+  supplies the working protocol, "it must be a mutual agreement between you
+  and God... it does require for you to bring it forth to your Heavenly
+  Father and ask that this may be guided and blessed"; 2019-01-29-af-augustine
+  restates the premise in the register of personal calling, the invitation
+  "deep and well-embedded" but "this does not mean that the soul will
+  listen."
+  Objection removed. 2016-09-13-af-goldie clears the passivity belief in
+  three sentences, "So many sit and wait, thinking that God will make
+  manifest His Will without any effort upon their part. This is not true. You
+  must move in the world," with the failure mode named, "the one who sits and
+  waits is lost." It converts Augustine's permission into a condition: God's
+  Will does not manifest without the seeker's movement.
+  Testimony. 2015-06-21-af-martin-luther offers his own Earth life of
+  opposition and persistence as evidence that the plan is enacted despite
+  human obstruction.
+  Witnesses. 2016-04-12-af-moses, the plan needing people who need not
+  understand it; 2016-09-05-af-andrew, the willing soul as the means;
+  2016-10-15-af-confucius, "though within your minds you do not see the
+  plan"; 2016-10-19-af-goldie, the plan asserted at the level of the
+  individual; 2018-11-29-af-abdullah-latif, the limit on intercession.
+  Structural note: the Foundation section holds four roles across two
+  messages, which the revised section structure allows, and
+  2015-03-24-af-augustine is the anchor as the message that states the
+  premise whole. 2014-07-26-af-augustine stands beneath it as the earlier
+  statement, and adds the one thing the anchor does not, that the constraint
+  binds the angels too. One thing to settle at build: the log refers to a
+  circuitous-route motif flagged in Open questions which no longer appears
+  there, so either the question was resolved without the reference being
+  cleared or it was lost.
+  Fences. Against `free-will-and-self-responsibility`: that thread asks what
+  a soul owes for its own condition and why no one may override its will;
+  this one asks whether free will and God's intended end are in conflict.
+  Against `soul-purpose-emergence`: that thread is about how a particular
+  soul's own purpose surfaces; this one is about the plan the purposes serve.
+  Against `provision-for-service`: that thread is about what is supplied to
+  the work; this one about whose work it is.
 - `free-will-and-self-responsibility`, (minted 2026-07-11 per the pen's own
   standing instruction, on the arrival of the second confirming message)
   witnesses in hand: 2019-02-22-af-augustine (Foundation, presumptive anchor:
