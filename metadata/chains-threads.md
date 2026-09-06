@@ -238,6 +238,80 @@ added to it; later additions are folded into the role section they belong to.
   is why 2016-10-15-af-confucius is a witness here and not a member. It is the
   same shape as the Francis valence question in Open questions, and the two
   should be settled together.
+- `bell-toll-instrumentality`: 17 member roles across 17 messages, running
+  from the awakened soul's Light reaching others like a bell toll to that
+  signal being inseparable from the soul itself.
+  Foundation, anchor: 2015-11-30-af-andrew, which introduces the image, God's
+  Touch flowing through awakened souls and reaching many like a bell toll
+  awakening, with the gathered souls holding the rope that rings it.
+  The Elaboration section runs to 13 messages and should be built in four
+  groups, chronological within each; the groups subdivide that one role
+  section and do not add a structural level.
+  How the signal is generated. 2016-01-18-af-confucius makes the Love within
+  a soul an active agent that ignites longing in others unawares, the
+  stronger the Love the more resonant the toll; 2016-03-12-af-john-the-beloved
+  frames it through prayer, ripples touching souls the pray-er will never
+  know of, "this is how change happens"; 2018-08-13-af-seretta-kem makes the
+  light built within itself the greatest service one can render a suffering
+  world, whatever one's circumstances.
+  How it travels. 2016-03-17-af-alec-gaunt says the most powerful tool is not
+  argument but example and exposure to the experience, "at least half of that
+  teaching is through your example"; 2016-04-12-af-andrew names the
+  perceptible carrier, joy, "They feel the outward expression of Love through
+  your joy and they are drawn to this Light"; 2016-11-27-af-augustine locates
+  the transmission in ordinary contact, "not just in words but in a smile, a
+  look, a gaze of love, a touch, an embrace," then shifts what the person
+  carrying it is doing, making them the completion of a circuit rather than
+  its source.
+  Whom it reaches, and unknowingly. 2016-03-18-af-john-the-beloved gives the
+  subtle-instrumentality humility, "God uses you in ways that you do not even
+  know," with the chain of Love passing soul to soul; 2016-07-27-af-confucius
+  answers who benefits, the souls already bonded to the seeker, extending
+  across the veil to those who have departed; 2016-09-04-af-augustine states
+  the unwitting radiance at its widest, souls touched when you walk down a
+  street, blessings "far greater in number than the souls within your
+  circle"; 2019-02-04-af-jesus scales it to the collective, "God establishes
+  beachheads of Light in a darkened world," nodes expanding as the seeker
+  empowers them.
+  Where the one-way picture breaks. 2016-08-02-af-augustine turns the bell
+  around, the seeker also the signal's recipient, "listen to that chime
+  within you that draws you to be awake"; 2016-09-15-af-augustine denies that
+  the Light is selectively attractive, since it provokes according to what it
+  lands on and both responses scale together, "as your Light grows so will
+  the reaction intensify"; 2016-08-15-af-jesus carries the thread past the
+  toll to the encounter that follows, the drawn soul unable to name what
+  moves in it and the seeker's work being to name it, "You must take their
+  hand and say 'Do not fear, do not fear.'"
+  Testimony. 2016-01-28-af-francis-of-assisi offers his own Earth life as
+  evidence, a soul seeking God's Love bringing a Light that "rings the bell
+  and the bell tolls and the souls have a flicker of awakening and respond."
+  Chrysalis. 2016-03-16-af-jesus opens the vista: once the soul sheds its
+  conditions there is "no resistance, no fear, no concern for self, merely a
+  passion, a passion so hot" to be "God's purveyor of Love," continuing "for
+  all eternity," and it supplies the loving-across-difference entry point,
+  greeting the soul rather than the surface so that God weaves the
+  connections into a tapestry.
+  Capstone, anchor: 2018-09-01-af-augustine, the fullest form, every
+  Divine-Love-bearing soul sending out a signal of light like a tolling bell
+  even in idle silence at home, inseparable from the soul. -- the Capstone
+  role is provisional; confirm against full text when building.
+  Witnesses. 2015-10-26-af-faith-nyquist, 2016-03-31-af-judas,
+  2016-04-12-af-moses, 2016-09-06-af-joseph, 2016-10-17-af-keea-atta-kem,
+  2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
+  2019-01-21-af-augustine.
+  Structural note: the thread holds a deliberate tension and both sides
+  stand. The Capstone has the signal going out even in idle silence, while
+  2016-08-02-af-augustine grounds the toll in active expression, "It matters
+  not the explanation of this but it matters a great deal the expression of
+  this channel." Same spirit, and reconcilable: presence radiates
+  unconditionally, expression amplifies and directs. Held explicitly so that
+  neither message reads as contradicting the other, and the Capstone keeps
+  the section anchor.
+  Fences. Against `healing-channel`: that thread is about the seeker as a
+  conduit for a blessing directed to someone; this one is about a signal that
+  goes out whether or not anyone is in view. Against `vanguards-of-change`:
+  that thread is a commission given to particular souls for particular work;
+  this one is a property of any soul carrying the Love.
 - `challenges-as-blessings`, (minted 2026-07-06 on the witness roster; the
   anchor was awaited and has since been found) Foundation and presumptive
   anchor: 2016-08-11-af-alec-gaunt (logged 2026-08-03), which builds the
@@ -334,6 +408,78 @@ added to it; later additions are folded into the role section they belong to.
   unengaged over fifteen messages, the nearest miss being 2016-09-06-af-
   joseph, "there is no other source that will bring the healing and the
   answers to mankind".
+- `divine-love-mediumship`: 14 member roles across 14 messages, running from
+  how a truth crosses into a mortal mind at all to how any soul may open the
+  channel.
+  Foundation, anchor: 2016-03-27-af-seretta-kem, the mechanism. A truth held
+  wordlessly in the soul travels up into the material mind, where
+  encrustations, biases and fears narrow the passage, so every message is
+  incomplete and no medium is perfect; as the soul grows the channel clears.
+  Everything the thread later argues rests on this, that reception quality is
+  governed by soul development.
+  Elaborations. 2016-07-04-af-jesus sets the ceiling and reframes what falls
+  short of it, guidance through a medium being "an approximation of what is
+  intended to be given" and explicitly not error, since "the complete truth
+  cannot be given through a soul that is not entirely cleansed and purified
+  by the Love," and "there are no perfect mediums in this world";
+  2016-11-27-af-james-reid adds who is admitted and on whose decision, the
+  instrument lowering a threshold so that spirits "not yet a Celestial Angel
+  but are well on our way" may speak, reported by a communicator from his own
+  side; 2016-12-06-af-seretta-kem gives the conditions and laws, the circle's
+  prime objective being the Divine Love rather than a message, harmonious
+  conditions drawing the angels close, and the first form of the discernment
+  test; 2018-08-29-af-seretta-kem is the pivot, that the basic laws are the
+  same on both paths but Divine Love transforms the quality of what comes
+  through, with the universality claim the thread relies on, that every
+  mortal "has some gift that will open and bring clear communication with the
+  Celestials, provided their souls are enlivened with the Divine Love";
+  2019-01-26-af-andrew widens that from designated mediums to everyone and
+  names the obstacle as the dense reality the material mind has conferred on
+  the world rather than any lack of gift; 2019-02-27-af-andrew carries both
+  strands at once, the instrument as "a finely tuned mechanism developed over
+  many years" and then the widening, "do not underestimate your own ability
+  to communicate with us"; 2019-04-05-af-augustine turns discernment into a
+  teachable test, that a message not of love and not naming the Divine Love
+  as the source of Truth is not from a Celestial, with the kernel doctrine
+  that distortion may blur a genuine message but never empty it, and
+  verification located in the soul; 2019-04-01-jw-yogananda gives the rapport
+  from the spirit's side, naming why he comes to this particular medium and
+  asking permission; 2019-04-06-af-yogananda gives the development protocol,
+  the steps, the tools, and the invitation principle, "There is no pressure
+  to begin. There is merely an invitation."
+  Objections removed. 2018-11-26-af-jesus clears the belief that messages in
+  Jesus' name are from Jesus, naming widespread impersonation in the spirit
+  world and well-meaning mediums influenced unawares.
+  2019-01-30-af-seretta-kem clears the belief that Jesus can be summoned on
+  demand or claimed as any individual's exclusive guide.
+  Testimony. 2019-01-30-af-jesus grounds the thread experientially: no medium
+  is one hundred percent accurate, the harmonisation of mind and soul bears
+  directly on the quality of a celestial message, and excessive mental
+  expectation draws eager higher spirits mistaken for Celestials. It also
+  carries the archive's key statement on the instrument, and on how a channel
+  is designated by soul progression rather than by the mind's ambition.
+  2016-05-11-af-james-padgett testifies to authorship rather than reception,
+  "written by me, but not of me, but by spirit who used me... in ways similar
+  to that way I use this instrument", drawing the line from the archive's
+  historical root to its present channel.
+  Witnesses. 2016-03-31-af-judas, why the truth cannot be demonstrated;
+  2016-04-12-af-keea-atta-kem, the rapport-and-influence claim;
+  2016-08-31-af-martin-luther, flagged promotion watch;
+  2016-10-16-af-augustine, the every-soul avenue and the modes it uses.
+  Structural note: the Foundation section's anchor is an open choice.
+  2016-03-27-af-seretta-kem holds it as the earliest developed statement of
+  the mechanism, with 2016-12-06-af-seretta-kem the fuller laws-and-conditions
+  account that follows. Both may stand in the Foundation section, in which
+  case only the anchor is in question. Weigh the two full texts together at
+  build, when more of the thread is logged. Note that the log currently roles
+  2016-12-06 as an Elaboration, so moving it into the Foundation section is a
+  log change and not only a roster decision.
+  Fences. Against `conduit-not-scripture`: that thread is about what a
+  delivered text is and is not, and the angels' continuing relation to it;
+  this one is about the crossing itself and how faithful it can be. Against
+  `mind-vs-soul`: that thread argues which faculty is the seat of truth; this
+  one takes the distinction as given and asks what the mind does to a message
+  in transit.
 - `earth-changes`, witnesses in hand: 2015-08-17-af-jesus (Foundation,
   presumptive anchor), 2017-09-13-af-keea-atta-kem (Elaboration),
   2018-08-13-af-seretta-kem (Elaboration), 2023-02-10-af-augustine
@@ -678,6 +824,16 @@ added to it; later additions are folded into the role section they belong to.
   message ever builds it the three read together would make a strong section.
   The rest are sightings, search-level adjacencies, and the anti-double-count
   records that sit with their own member lines.
+  Structural note: the thread carries two pictures of the mind and should keep
+  both. Most members treat the mind as the obstacle and the soul as the
+  authority. 2018-10-09-af-seretta-kem reverses it, the newly awakened soul
+  being "so tender and vulnerable, soft, and in need of the strength that you
+  carry in a conscious way, the love that you carry, the wisdom and knowledge
+  that you carry," with the mind supplying what the soul cannot yet supply
+  itself. That same message still describes the mind's resistance, so the two
+  pictures coexist inside one message rather than between messages. Building
+  the chain around the adversarial picture alone would be tidier than the
+  evidence.
   Structural note: no Capstone, and the thread does not appear to want one,
   since the Chrysalis section closes it by dissolving the conflict it is
   named for. Confirm at build rather than treating the absence as a gap,
@@ -844,6 +1000,99 @@ added to it; later additions are folded into the role section they belong to.
   list, "All that we require of you is for you to come together in harmony
   and prayer", with provision itself never mentioned. Sighting
   2016-11-06-af-jesus, doors opened with nothing said about provision.
+- `religious-error`: 14 member roles across 13 messages, running from
+  specific doctrinal corrections to the faculty that replaces reliance on the
+  written word. It has no Foundation, and that is a finding rather than an
+  oversight; see the structural note.
+  Elaborations. 1963-12-26-ds-mary corrects as someone who was there, which
+  is a kind of evidence the other members cannot supply: the virgin birth
+  narrative untrue, the elderly Joseph invented, and the crucifixion "not as
+  a blood sacrifice as most Gentiles believe" but the sacrifice of a life
+  carrying out a mission; 2015-06-15-af-joseph-smith speaks about the church
+  he founded without disowning it, confirming that "the angels did indeed
+  come to support me and influence me in my work in creating this great
+  church" and locating the error afterward, in the institution becoming "too
+  infected by the human"; 2015-06-21-af-martin-luther adds that error held
+  sincerely is still error, so sincerity does not sanctify it;
+  2016-04-02-af-jesus gives the vicarious-atonement correction from the
+  source, "nothing could be further from the truth that my death and my blood
+  could save humanity," an interpretation that "has wrought much pain and
+  error in the world"; 2016-07-18-af-martin-luther supplies both the reason
+  the written record cannot hold and the faculty that succeeds it, the
+  mentally assembled paradigm serially superseded, "do not rely upon this
+  chimera of understanding for as you journey forward it will disappear and
+  something else will emerge," so the remedy is not a better doctrine but a
+  different faculty; 2016-08-31-af-martin-luther turns the reformer's verdict
+  on reform itself, his own efforts "born mainly of the mind, the material
+  mind," and calls for a new Reformation whose method reverses direction, "It
+  is not from the mind to the soul, beloveds, in these days ahead, it is from
+  the soul to the mind"; 2019-03-14-af-jesus applies the no-final-word
+  argument to the Bible directly, "there are many things there that I have
+  said and done and there are many things that I have not said nor done," and
+  adds the reform vision, the churches simplifying doctrine and their
+  edifices becoming "sanctuaries of light."
+  Objections removed, both at 2016-04-12-af-moses and both from inside the
+  tradition that produced them. The first repudiates the Vicarious Atonement
+  by naming the practice as his own people's, "In our Jewish culture and
+  religion, shedding of blood was a common attempt to appease God," and
+  tracing the Christian doctrine directly to it. The second is the larger,
+  the scripture claim, "We, the Jews, took great import upon the written
+  word. We felt that the written word was the Word of God," with a verdict
+  that is neither dismissal nor endorsement, since there is real moral truth
+  in it but much that has "little or no consequence to the progression of a
+  soul."
+  Testimony, five reformers testifying against their own traditions.
+  2015-03-28-af-augustine names himself and what he did, "I played a great
+  part in developing the church of Christ, and in so doing I encouraged many
+  erroneous beliefs and understandings of Jesus' true message," and says what
+  he does now about it. 2018-11-05-af-john-wesley on the limitations of his
+  earthly ministry and institutional Christianity's failure to teach the
+  higher truth. 2019-01-31-af-yogananda extends the arc beyond Christianity,
+  on reincarnation taught from a young age and reinforced through his own
+  spiritual pursuits. 2019-04-01-jw-yogananda gives the same correction in
+  its fullest first-person form with its origin story, that among all his
+  loved ones and the ancient teachers in spirit "NONE of them had ever had
+  any experience of reincarnation on earth." 2019-04-06-af-yogananda makes
+  the correction an ongoing project rather than a retrospective confession,
+  planning to correct his own published books, "I desire to rectify the
+  error... and to bring the Truth of Divine Love in these teachings."
+  Witnesses. 2016-09-02-af-jesus, the worship-misdirection facet;
+  2016-09-10-af-augustine, the corrected term given positive content.
+  Considered and not logged: 2016-03-25-af-mary gestures at the territory,
+  "the distortions that have gone through the centuries creating great myths
+  and errors" about Jesus' message, but only invokes it, correcting no
+  specific doctrine, and its spine is carry-the-message service and pushing
+  back darkness. Revisit only if it would help bracket this thread's Good
+  Friday and death-of-Jesus framing at build.
+  Reading set: three founders and reformers correcting their own work belong
+  together at build. 2015-03-28-af-augustine encouraged the error himself;
+  2015-06-15-af-joseph-smith confirms the angels really did support the
+  founding and says the institution decayed anyway; 2016-08-31-af-martin-luther
+  says he has since released much of what he fought for.
+  Structural note: the thread has no Foundation, and the reason is that the
+  registry spine's first step, that inherited doctrines are human constructs
+  rather than absolute truth, has no message behind it. Every member argues a
+  specific error instead. Two candidates have been weighed and neither opens
+  the argument: 2016-04-02-af-jesus sits at the spine's second step and is
+  presumptive anchor material for the atonement section, while
+  2019-03-14-af-jesus sits at the fourth and fifth steps and is
+  Capstone-shaped, since it lands on the conclusion and then looks forward to
+  reform. Behind this sits a larger question worth holding rather than
+  settling: the members divide into people testifying against traditions they
+  carried, which is an argument about how error propagates, and messages
+  correcting particular doctrines, which is an argument that those doctrines
+  are false. Held together, neither half has a head, which would explain the
+  missing Foundation better than any candidate does. Do not resolve this
+  until more of the archive is logged, since choosing a Foundation now would
+  fix the thread's shape around whichever half was picked. The Testimony
+  section, at five members, will also need an anchor named for itself.
+  Fences. Against `conduit-not-scripture`: that thread is about what a
+  delivered text is and the angels' continuing relation to it; this one is
+  about error accumulating in institutions and doctrines. Against
+  `spiritual-fellowship`, written from that thread's side: that one is about
+  what gathering does for the seeker, this one about what institutions
+  accumulate. Against `who-jesus-was`: that thread establishes the record;
+  this one is about how the record was distorted and by whom.
 - `self-love-foundation`, minted on the witness roster; anchor awaited (a
   message making self-love its own central argument; Luke is the likeliest
   voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
@@ -900,6 +1149,87 @@ added to it; later additions are folded into the role section they belong to.
   says the path is simple or shows a ministry being simple; this one says why
   a person stops complicating it. The chain now runs Foundation, ministry
   instantiation, mechanism.
+- `soul-expiation`: 18 member roles across 18 messages, running from the
+  universality of hidden injury, through the mechanism by which it surfaces
+  and is released, toward a completion the thread has not yet stated.
+  Foundation, anchor: 2015-03-27-af-andrew, the starting point with the
+  hiddenness of the wound named, "even those with smiles on their faces carry
+  within them deep hurt and the unfulfilled longing for love. For some, this
+  is quite apparent; for others it is hidden very deep," and the reason it
+  must be cleared, that the blocking elements inhibit the Love. It also says
+  the thing no other member says, that the wound can be hidden from the
+  person carrying it, "We see within your hearts and souls that which you
+  hide away even from yourselves."
+  Elaborations. 2015-03-29-af-seretta-kem states the ratio, that more Love
+  means more visibility of what is wrong, "As more Love flows into your soul,
+  it brings to your consciousness a greater awareness of that which is not in
+  harmony with this Love"; 2016-02-29-af-confucius reads the painful welling
+  up as the cleansing itself rather than a setback; 2016-02-29-af-luke names
+  the internal target, "the accumulation and detritus of a life," though that
+  message's spine is the external earth-conditions argument;
+  2016-05-02-af-andrew supplies the spirit-side account, that what is not
+  released here surfaces there memory by memory, with the reason mental work
+  does not substitute, "within the mind these issues are settled but within
+  the soul they are not"; 2016-05-09-af-augustine names the three origins,
+  inherited from generations, created by one's own choices, absorbed from the
+  world, and applies one remedy to all; 2016-07-13-af-seretta-kem widens the
+  field to body and spirit body and adds a second source, material that never
+  originated in the seeker, "you absorb many energies in the world and these
+  also must be released"; 2018-04-03-af-luke develops the inherited strand
+  alone, transmitted parent to child across history; 2018-05-12-af-luke names
+  the Law and states its insistence, "The Laws of Compensation which insist
+  that every part of your soul that is contaminated with darkness, memories
+  and pain, be reconciled and brought to Light, bit by bit," and adds the
+  positive ledger, so the accounting runs both directions rather than
+  tallying injury alone; 2018-10-09-af-seretta-kem connects expiation to the
+  merging of the two minds, so the clearing is not only purification but the
+  removal of what stands between them; 2019-02-15-af-matthew adds that the
+  gradual road is itself a mercy, sparing the soul a heavier load carried
+  into spirit; 2019-02-24-af-andrew adds the communal facet, God bringing
+  differing souls together so that "presumptions and insights that are
+  obscured by one, may come clear to another."
+  Reframes, and there are three, each recasting something different.
+  2016-03-11-af-luke recasts the cause: the encrustations are not the mark of
+  sin but the residue of having lived in this world, so the seeker is "in a
+  way a victim" and should meet their own cleansing with compassion.
+  2016-03-17-af-alec-gaunt recasts the felt slowness: even when the mind
+  cannot reach soul-awareness, "this does not mean that your soul is dormant
+  or not growing, or that the encrustations are not falling away."
+  2018-07-14-af-seretta-kem recasts the difficulty itself as when the
+  greatest progress is made, with the angels as midwives.
+  Objections removed. 2016-09-12-af-jerome clears the externalizing account
+  of one's own negative states, "those negative reactions belong to you...
+  they come from you." 2023-02-10-af-augustine clears the purify-first
+  barrier, "It is not as others have said that they must first cleanse all of
+  these conditions before they are able to know their soul or receive the
+  great gift of God's Love. Rather, the contrary is true."
+  Testimony. 2019-02-16-mc-seretta-kem witnesses a single expiation from the
+  inside, start to finish, through one soul's recent experience, related with
+  her consent and unnamed: the inflowing Love loosens a condition ready to
+  heal, buried emotion surfaces, and God and the angels feel most absent at
+  exactly the moment they are closest, "it is the time when we observe you
+  and we are very close... yet it may be a difficult sensation to feel us."
+  Witnesses. 2016-05-16-af-keea-atta-kem, the completion described;
+  2016-10-19-af-augustine, the universality premise in passing;
+  2016-11-21-af-confucius, the healing described from the gentle side.
+  Structural note: the members describe the process and its pain, and few
+  describe its completion. 2016-05-16-af-keea-atta-kem is the standing
+  candidate for that facet, "all that is not in harmony with God's Love will
+  fall away from you and your souls are redeemed in Love, healed completely,
+  nothing within you is of the human condition." The end-state facet may be
+  this thread's eventual Capstone, which it does not yet have. The Reframe
+  section, at three members, will also need an anchor named for itself when
+  the sections are built.
+  Fences. Against `two-paths`: that thread is about which road the cleansing
+  happens on; this one is about what is cleansed and how. Against
+  `earth-conditions-and-prayer` and `conditions-of-a-people`, both written in
+  full from those threads' sides: this one is darkness carried by an
+  individual soul and cleansed out of a person, not a field acting on
+  everyone or a condition carried by a place. Against `divine-love-healing`:
+  that thread compares Divine Love to other healing; this one describes what
+  the healing removes.
+  What is awaited: a second message describing the completion, which would
+  promote 2016-05-16-af-keea-atta-kem and give the thread its close.
 - `soul-purpose-emergence`: 2019-01-29-af-augustine
   (Foundation, presumptive anchor: the purpose entrusted, the invitation
   free will may decline, the gravitation rather than the revelation) and
@@ -1031,6 +1361,102 @@ added to it; later additions are folded into the role section they belong to.
   `reincarnation-progression`; if it also covers the fall, the anchor here
   needs revisiting before it is settled for good.
 
+- `two-paths`: 12 member roles across 12 messages, running from every soul
+  being wounded and needing healing, to the two roads by which the healing
+  happens, to what each road can and cannot reach.
+  Foundation, anchor: 2015-03-27-af-andrew, given in New York to a circle
+  preparing a gathering there. It argues from one starting point, that
+  everyone is wounded, "Every soul has deep and abiding pain and wounds
+  within... Whether that soul be in poverty and deprivation or in great
+  wealth, there is need for healing," to the necessity of inner healing and
+  the choice of road by which it comes.
+  Elaborations. 2015-10-12-af-augustine maps the fork onto the two minds, the
+  natural path perfecting the mind already held, "they seek perfection of the
+  material mind which, in essence, is the spiritual mind," the Divine path
+  growing the other, and sets the comprehension ceiling, "those upon the
+  Natural path do indeed get glimpses of these realities, but it is not a
+  full and comprehensive understanding and never can be";
+  2016-02-15-af-augustine states the choice plainly, a real but lesser
+  closeness against a fulfilment natural love cannot equal, "I wish for you
+  to know these distinctions"; 2016-04-02-af-jesus sharpens the terminus,
+  "Their road ends where your road begins. And your road goes on for all
+  eternity, for God's Love is infinite," adding the soul's unlimited capacity
+  and the will as its only limit; 2018-05-12-af-luke supplies the machinery
+  beneath the summary, the accumulation premise and the natural path's
+  conscious one-by-one reckoning with each memory; 2019-01-21-af-augustine
+  puts free will at the fork and names what the natural road forgoes as a
+  faculty rather than a blessing, "God will indeed bless them and guide them
+  but the depth and acuity of the knowings of the soul will not be part of
+  this reality," then sets the contrast at the scale of humanity's need
+  rather than the soul's destination.
+  Testimony, and this is the thread's strongest section. 1963-12-26-ds-mary
+  shows one love becoming the other in two lives, of Jesus, "Jeshu's love for
+  his family was a natural love, purified. It later became Divine through
+  prayer," and of herself, her love deepening into the Divine Love only after
+  his death. 2016-05-29-af-aman is the whole architecture walked by a single
+  soul: the refusal, the fall, the climb up the natural path to "our previous
+  exalted state within the sixth sphere or natural heavens," and then, once
+  the door reopens, "we were able to choose, this time more wisely, the way
+  of the Divine Love." 2018-11-22-af-yogananda testifies from the Celestial
+  Kingdom looking back, that the natural love spheres are real but not the
+  summit. 2019-02-12-af-osho-bhagwan testifies from inside the climb, a guru
+  who taught the natural road, has "not entered into the Celestial Spheres,"
+  and confirms the higher road from below, naming his own reach as partial.
+  2019-04-01-jw-yogananda gives the compressed sphere progression with
+  prayer for God's Love as "my principal practice."
+  Capstone: 2016-05-02-af-andrew, which picks up directly from Mary in the
+  same circle and states the thread whole. The premise, that at death the
+  soul holds "the memory of every minute and second of your life"; the fork
+  as a choice, "there are two choices in dealing with these deep-seated
+  injuries within the soul"; the natural path by full conscious recompense;
+  the sixth-sphere ceiling; and the close on the open invitation.
+  Witnesses. 2015-10-26-af-aman, placing himself on the Divine road and
+  naming what it opens; 2016-04-12-af-moses, both loves counting toward
+  progression; 2016-05-02-af-mary, the Love over-riding the Law of
+  Compensation, given the same day as the Capstone and in the same circle;
+  2016-08-25-af-matthew, the innateness denial stated and not developed;
+  2016-09-02-af-augustine, the strongest non-demotion of natural love in the
+  thread's record; 2016-09-08-af-jesus, the choice put as a formal question
+  with two named alternatives.
+  Structural note: the Capstone section has two candidates and the choice is
+  only the anchor, since both belong in the section either way.
+  2016-05-02-af-andrew holds it, stating the fork as a choice, carrying the
+  sixth-sphere ceiling and closing on the open invitation.
+  2018-05-12-af-luke states the at-onement gate, "at-onement cannot come
+  without the healing of the soul... without the infusion of Divine Love to
+  such a degree that there is a resonance between the mortal soul that
+  becomes a Divine Soul and God's Soul," which is arguably the truer close,
+  since it names what the natural path cannot reach rather than only how far
+  it goes. The working reading keeps Andrew: he addresses a hearer who has
+  not yet chosen, Luke expounds for a circle that already has, so Andrew
+  closes the argument and Luke completes the doctrine. Note that Luke is
+  logged as an Elaboration, so acting on this is a log change as well as a
+  roster decision. Note also that the Andrew Capstone carries the thread's
+  only Chrysalis-shaped passage, the unlimited-capacity vista, so if a
+  Chrysalis section is ever opened here that message is its obvious occupant
+  and the Capstone anchor question reopens. The Testimony section, at five
+  members, will need an anchor named for itself when the sections are built.
+  Fences. Against `soul-expiation`: that thread is about the cleansing of
+  what the soul carries; this one is about which road the cleansing happens
+  on. Against `reincarnation-progression`: that thread establishes that the
+  soul progresses through spheres rather than returning; this one uses the
+  spheres to mark how far each road reaches. Against
+  `divine-love-without-knowing`: that thread is about receiving the Love
+  without recognising it; this one is about a choice made knowingly.
+  What is awaited: a fourth instance for the natural-love rehabilitation
+  watch. Three are in hand, 2016-08-27-af-brother-mandus and
+  2016-09-02-af-augustine declining to call natural love inferior, and
+  2018-05-12-af-luke dignifying the natural destination at length while
+  keeping the ceiling explicit, "There is a state of harmony but it can go no
+  further than this." 2016-04-12-af-moses may be a fourth, though its passage
+  is about progression generally rather than the two paths as such, which is
+  the curator's call. If a fourth stands, the qualifying clauses on this
+  thread's spine wait on it. Also outstanding, the sphere-numbering question
+  raised at 2016-11-27-af-james-reid, a Divine Love seeker placing himself in
+  the fifth sphere and inviting the circle to join him there, which is the
+  clearest case in hand of a Divine Love communicator locating himself by
+  sphere number where the thread treats the numbered spheres as the natural
+  path's progression.
 - `vanguards-of-change`, witnesses in hand:
   2016-01-08-af-jesus (Foundation, presumptive anchor: the commission
   itself), 2016-03-06-af-jesus (Elaboration: the release requirement,
@@ -1154,89 +1580,6 @@ added to it; later additions are folded into the role section they belong to.
   full-text pass over that collection would very likely find more, and given
   how central he is it is worth doing as its own piece of work rather than as
   a by-product of batch cataloguing.
-
-<!--
-- `divine-love-mediumship` was minted 2026-07-03 with six witnesses, all now
-  logged: 2016-03-27-af-seretta-kem (Foundation), 2016-12-06-af-seretta-kem
-  (Elaboration), 2018-08-29-af-seretta-kem (Elaboration), 2019-01-26-af-andrew
-  (Elaboration), 2019-01-30-af-jesus (Testimony), 2019-02-27-af-andrew
-  (Elaboration). The four earlier witnesses were back-filled with roles confirmed
-  against full text; the two Seretta Kem and one Andrew entries carry the
-  mechanism and universality strands, and Jesus 2019-01-30 anchors the Testimony.
-  Open question: confirm whether 2016-03-27 or 2016-12-06 is the better Foundation
-  when both full texts are weighed together at build time; 2016-03-27 currently
-  holds it as the earliest developed statement of the mechanism, with 2016-12-06
-  as the fuller laws-and-conditions Elaboration immediately after. (2026-07-06:
-  under the revised section structure both may stand as Foundation-section
-  members; the open choice is only the anchor.)
--->
-
-<!--
-- `two-paths` Capstone now has two candidates (2026-08-11). 2016-05-02-af-andrew
-  holds the role: it states the fork as a choice, carries the sixth-sphere
-  ceiling, and closes on the open invitation. 2018-05-12-af-luke states the
-  at-onement gate, "at-onement cannot come without the healing of the soul...
-  without the infusion of Divine Love to such a degree that there is a
-  resonance between the mortal soul that becomes a Divine Soul and God's
-  Soul," which is arguably the truer close of the argument, since it names
-  what the natural path cannot reach rather than only how far it goes. Working
-  reading that keeps Andrew: he addresses a hearer who has not yet chosen,
-  Luke expounds for a circle that already has, so Andrew closes the argument
-  and Luke completes the doctrine. Both belong in the Capstone section either
-  way; the choice is only the anchor. Related: the Andrew Capstone also
-  carries the thread's only Chrysalis-shaped passage (the unlimited-capacity
-  vista), so if a Chrysalis section is ever opened for `two-paths`, that
-  message is its obvious occupant and the anchor question reopens.
--->
-
-<!--
-- `mind-vs-soul` carries two pictures of the mind and should keep both.
-  Most members treat the mind as the obstacle and the soul as the authority.
-  2018-10-09-af-seretta-kem reverses it: the newly awakened soul is "so
-  tender and vulnerable, soft, and in need of the strength that you carry in
-  a conscious way, the love that you carry, the wisdom and knowledge that you
-  carry," with the mind supplying what the soul cannot yet supply itself. The
-  same message still describes the mind's resistance, so the two pictures
-  coexist inside one message rather than between messages. Building the chain
-  around the adversarial picture alone would be tidier than the evidence.
-  (Anchors and section structure moved to the roster entry, 2026-08-27.)
--->
-
-<!--
-- `soul-expiation` roster gap: the members describe the process and its
-  pain, few describe its completion. Standing candidate if a second
-  completion-describing message appears: 2016-05-16-af-keea-atta-kem
-  (witness, logged 2026-07-20). The end-state facet may be the thread's
-  eventual Capstone.
--->
-
-<!--
-- `bell-toll-instrumentality` holds a deliberate tension: the Capstone
-  (2018-09-01-af-augustine) has the signal going out even in idle silence;
-  2016-08-02-af-augustine grounds the toll in active expression. Same
-  spirit, reconcilable (presence radiates, expression amplifies and
-  directs); held explicitly so neither entry reads as contradicting the
-  other. The Capstone keeps the section anchor.
--->
-
-<!--
-- `religious-error` light sighting (not a member): 2016-03-25-af-mary ("Message
-  on Good Friday") gestures at the thread's territory - "the distortions that
-  have gone through the centuries creating great myths and errors" about Jesus'
-  message - but only invokes it; the message corrects no specific doctrine, and
-  its actual spine is carry-the-message service and pushing back darkness. Too
-  light to log as a member. Revisit only if it would help bracket the thread's
-  Good-Friday / death-of-Jesus framing when building.
--->
-
-<!--
-- `religious-error` has a set worth reading together at build: three founders
-  and reformers correcting their own work. 2015-03-28-af-augustine encouraged
-  the error himself; 2015-06-15-af-joseph-smith confirms the angels really did
-  support the founding and says the institution decayed anyway; Martin Luther
-  says he has since released much of what he fought for.
----
--->
 
 # Holding pen (candidate threads not yet minted)
 
