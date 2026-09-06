@@ -118,8 +118,8 @@ before adding new ones.
 An entry is a single indented block, no blank lines and no headings, with its
 internal structure carried by labelled sentence openings.
 
-The opening line names the thread, its mint date where one is recorded, its
-size in member roles, and the arc it traces in one clause.
+The opening line names the thread, its size in member roles, and the arc it
+traces in one clause.
 
 Role sections follow in argument order, each introduced by its role name as a
 sentence opening: Foundation, Elaborations, Objections removed, Reframe,
@@ -135,161 +135,109 @@ threads this one is most likely to be conflated with. What is awaited, for
 conditions the material itself has raised. Structural note, for anomalies a
 builder would otherwise read as gaps.
 
+Anchors are marked in the section they anchor. Roles tagged [back-search]
+are provisional until confirmed at full text. Some names carried in a roster
+do not yet have a per-message log entry, and await migration as they are
+processed or back-searched in full.
+
 An entry explains the thread, never its own existence. Nothing is recorded
 about why the entry was written, when it was filed, or when material was
 added to it; later additions are folded into the role section they belong to.
 
 ---
-- `spiritual-fellowship`, (minted 2026-08-13): 2015-03-28-af-augustine
-  (Foundation, anchor: fellowship as protection against falling back, and as
-  a way of seeing, "each has a unique perception and understanding and
-  journey to take and in sharing this with one another, it opens new
-  awarenesses") and 2015-06-15-af-joseph-smith (Elaboration: what makes a
-  fellowship genuine, "this is a true church, a church of Love, a community
-  in fellowship that seeks Light and true understanding", and the failure
-  mode, souls "willing to abdicate their desire to seek truth in a clear way
-  and adopt that which they are told to be truth"). Overlaps
-  `religious-error`, which is about the error institutions accumulate; this
-  thread is about what gathering does for the seeker. Watch for the
-  perception claim specifically: encouragement to gather is everywhere in
-  the archive, but the claim that other souls reveal what one's own cannot
-  is rare and is the thread's distinctive move.
-  Added 2026-08-30, two Elaborations from one day and one circle, which
-  divide the subject cleanly: 2016-11-28-af-luke on what fellowship gives
-  (the exchange stated as a duty running both ways at the moment a circle
-  is formed, and the shared reception of the Love named as what makes
-  sharing possible across real difference) and 2016-11-28-af-moses on what
-  prevents it (judgment, fear and old slights leaving "pockets, several
-  here, several there but not unity", with the invitation to be extended
-  in love and refusal accepted without forcing). Luke is the perception
-  claim this roster asked to be watched for. Testimony is a defensible
-  alternative reading for Moses, on the strength of the paragraph offering
-  his own commission as evidence. If only one is taken, Moses is the
-  stronger addition, since the Foundation already carries the giving side.
-- `mind-vs-soul` (not a pen mint; recorded here so the thread's confirmed
-  structure sits with the other rosters). Foundation, anchor:
-  2015-10-12-af-augustine, a teaching given to answer a question put to the
-  circle about the difference between the two minds, and the one message in
-  the thread that defines the distinction rather than applying it; it states
-  the incapacity as a limit in kind, not degree. Chrysalis, anchor:
-  2018-10-09-af-seretta-kem, the two minds merging until "there will be no
-  sense of separation," with oneness denied the status of an ending, "even
-  this is not the end but merely the beginning." Chrysalis section member:
-  2018-06-18-af-matthew, which turns the conflict into an expedition
-  ("scientists of the soul") and promises the new perception will hold rather
-  than pass; it precedes Seretta Kem by date, so the section reads as
-  expedition then arrival. Objection-removed: 2018-12-17-af-mary, which with
-  the Foundation in place now reads as guarding a distinction already drawn
-  rather than as free-standing. The chain runs from a definition of the two
-  minds to their ceasing to be two.
-
 # Theme Registry
 
 | Slug | Theme | Argument it traces | Related subject / collection |
 |---|---|---|---|
-| `reincarnation-progression` | Reincarnation is not real; the soul progresses through the spirit planes instead | Reincarnation belief explained and corrected → the soul incarnates once → it progresses through many planes after death → Divine Love accelerates that journey to the Celestial Heavens | Soul Spheres & Progression; Two Paths |
-| `redemption-universal` | No soul is beyond redemption | Hell is not eternal → the dark spheres are a condition, not a sentence → any soul there can still turn toward God → Divine Love is available even there → therefore no soul is beyond redemption | God's Mercy & Unconditional Love; The Hells & Dark Spheres |
-| `mind-vs-soul` | The soul, not the mind, is the seat of truth and the receiver of Divine Love | The mind and soul are distinct faculties → the mind constructs and can obstruct → the soul knows and receives directly → truth and Divine Love come through the soul, not intellectual effort → the two minds are ultimately integrated into one consciousness | Mind vs Soul Conflict; Mind & Soul |
-| `divine-love-without-knowing` | Divine Love can be received without conscious knowledge of it | Conscious understanding is not required → the soul can long for God on its own → souls of all beliefs already receive it, often faintly → the seed may open more fully later, even in spirit | Receiving the Divine Love through Prayer; Interfaith & Universal Truth |
-| `who-jesus-was` | Correcting the record on Jesus' nature and relationships | Jesus was not God incarnate but a man who found the way to the Father's Love → what made him able was the soul he incarnated with, complete and purified by prior agreement with God → so the doctrines resting on his divinity fall with it: the birth record, the soulmate legend, and the worship of him → the record went wrong because those closest to him did not understand him while he lived → what he did was open the door to Divine Love for mankind and all spirits, and he lives still, which is why impersonation is possible | Jesus Speaks; Religious Error & Reformation |
-| `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
-| `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions → these block the inflowing of Love → expiation alternates joy and the surfacing of buried pain → Divine Love washes through and cleanses where effort alone cannot → the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
-| `religious-error` | Established religious doctrines have obscured the simple truth of Divine Love | Inherited doctrines are human constructs, not absolute truth → the Vicarious Atonement is false → organised religion lets human will usurp God's → no written word is final → truth comes through the soul, personally | Religious Error & Reformation; Letters from History |
-| `death-transition` | Death is not an ending but a seamless transition to an eternal journey | Fear of death arises from the mind's reliance on the senses → death is merely transition → the soul continues through the spheres → Divine Love expands every faculty without limit toward at-onement | Soul Spheres & Progression; The Hells & Dark Spheres |
-| `judgment-to-love` | Judgment is incompatible with Love; the soul learns to choose Love instead | Judgment of others reveals our own soul state → beneath judgment lies hidden hurt → the antidote is conscious choice, not suppression → as the soul grows in Love, compassion and forgiveness come reflexively | Compassion & Empathy; Self-Love & Acceptance |
-| `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) → these are unique to each soul and must be experienced to be understood → Divine Love opens the chambers and refines each faculty | Soul Awakening; Nature of the Soul; Prism of the Soul |
-| `healing-channel` | How a person becomes a channel for God's healing in the world | Healing flows from God, not the healer → the impulse to heal must begin in the soul, not the mind → mental constructs and divided purpose lower resonance and draw lesser influences (Law of Attraction) → singleness of purpose and surrender make one a clear channel → even a few such souls change the world | Service, Ministry & Being a Channel of Love; Service & Mission; Healing Path |
-| `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell → this reaches other souls wordlessly and ignites their longing for God → the stronger the Love within, the further it resonates → this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
-| `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path → the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing → God orchestrates through circuitous routes across generations → the willing soul ignited by Divine Love is the treasure through which His Will manifests → the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
-| `prayer-soul-longing` | True prayer is the longing of the soul, not the recitation of the mind | Prayer is the foundation and anchor of the Divine Love path → but words alone are not prayer; the sincere longing of the soul is what prayer essentially is → repetition without feeling elicits no real response → it is soul-longing that activates God's answer (the Law of Activation) → as Divine Love accumulates, prayer becomes easier and the conscious knowing of God deepens | Prayer & Devotion; Law of Activation; Receiving the Divine Love through Prayer |
-| `earth-conditions-and-prayer` | The conditions of the world act on every soul, and prayer is how they are met and neutralized | The thoughts and actions of mankind generate a darkness-field, like weather, that buffets every soul and desensitizes humanity to God → this accounts for why one feels close to God one day and burdened the next → the seeker must come awake to these conditions rather than absorb them → daily prayer neutralizes them both within and around the soul, drawing in Divine Love → the Earth itself is changing to force humanity awake | Darkness vs Light; Prayer & Devotion; Awakening Mass Consciousness |
-| `divine-love-mediumship` | How spirit communication works and what makes it clear and trustworthy | The basic laws of communication are the same for all → but clarity, quality, and safety of reception depend on the soul's development in Divine Love, not the ambitions or gifts of the mind → a true instrument is prepared over years into a finely tuned, clear channel → messages centred on ego, or not on God's Love and the flowering of the soul, are not from Celestial angels (discernment) → and this capacity is not confined to designated mediums: every soul accompanied by angels has some avenue of communication that grows as it stays open and awakens in love | Mediumship & Developing as an Instrument; Discernment & Truth-Seeking; Spirit Guides & Angels |
-| `preparation-to-be-a-rock` | God is actively preparing the gathered souls to be rocks and stabilizing forces for others through the coming changes | Great change is coming and refuges of Light must be prepared → God orchestrates the readying now, so those who receive His guidance become rocks others lean on amid the storms → the preparation is years in the making and nears fruition through mind-soul alignment and a coordinated network of light workers → it cannot be delivered as specific prophecy, so the readying is inner (trust the compass) rather than informational → and it works through the soul: dreams, portents, and visions as advance preparation, and a strengthening that alternates turmoil with healing | Preparation for Earth Mission; Earth Changes & Prophecy; Faith & Trust |
-| `earth-changes` | The Earth's changes are a cleansing and an awakening, not a punishment | Humanity violates the Laws of Creation in a closed system → the Earth's imbalance intensifies and manifests in the natural world → the changes are a cleansing of the Earth, not a punishment of humanity → the Earth itself is changing to force humanity awake → the awakened soul meets the changes as God's channel rather than as a victim | Earth Changes & Prophecy; Awakening Humanity |
-| `sensitive-souls-redemptive` | The sensitive soul is the saving grace of this world | The sensitive soul feels the cruelty of the world acutely and struggles to be in it → sensitivity is a sign of soul growth, not vulnerability → the Love within the growing soul is its protection (thoughts attract like energies by law) → such souls refuse the darkness of judgment and fear, progress swiftly, and stand as the redemptive example whose presence sows seeds of Love | Compassion & Empathy; Redemption of Humanity |
-| `challenges-as-blessings` | Every difficulty is a blessing that strengthens the soul | Hardship, whatever its source, is redeemed into soul-growth by God's design → every struggle, test, and challenge brings insights and lessons that strengthen the soul → the strengthened soul becomes a more powerful channel of Love → so the challenge is met with trust rather than resentment | Soul Growth through Challenges |
-| `self-love-foundation` | Loving oneself is the prerequisite for loving others | One cannot extend compassion outward while suppressing or condemning the self → the seeker is not to blame for their condition and should meet their own cleansing with compassion → self-love opens the capacity to love others fully → and the soul that loves itself becomes a clear channel of Love to the world | Self-Love & Acceptance; Compassion & Empathy |
-| `incremental-journey` | Growth in Divine Love is inherently incremental | The soul's growth advances in leaps, then trickles, impeded by world and self yet lifted by God → the oscillation (two steps forward, one back) comes from the mind's fear-driven retreat to the familiar → yet each forward effort reinforces truth → and each step of the gradual awakening is swift in the measure of eternity | Personal Transformation Journey; Perseverance & Steadfastness |
-| `free-will-and-self-responsibility` | Your healing waits on your own will | God honours free will absolutely and will not override it even to relieve self-created pain → prayers for relief go unanswered while the mind keeps feeding the very condition prayed about → real change must come as a deep desire from the soul, not a correction from the mind → and the same law releases you from responsibility for the choices of others, for each soul answers for what it chooses | Law of Free Will |
-| `conduit-not-scripture` | The recorded message as living conduit, never sacred object | Guidance reaches the soul by rapport → channelled messages are one form of that guidance → the rapport does not end at delivery but attends every later reader, so the written record is itself an instrument, not a transcript → and the words are never sacred, the rapport is, which keeps the message useful while stripping it of authority | Discernment & Truth-Seeking; Religious Error & Reformation |
-| `divine-love-healing` | Divine Love as the greatest healing energy | Divine Love is the one healing that cannot be given from one to another and must come from God through longing and prayer → it stands among the other healing energies without demoting them, enhancing all other gifts → its primacy rests on eternality, for nothing else in creation is eternal | Divine Healing; Healing Path |
-| `vanguards-of-change` | The commission to mobile service | God has commissioned these souls as vanguards and will open the doors in His timing → answering the commission requires releasing material burdens to be free to go wherever guided → the release is operational, mobility at a moment's notice, and the fears blocking it are unfounded → the world changes through changed people walking through opened doors | Preparation for Earth Mission; Service & Mission |
-| `prayer-changes-world-conditions` | Prayer as an outward force on the world | Intercessory prayer acts on distant souls and conditions through a describable route: collection in a vessel within the praying circle → overflow into directed streams → angelic division, direction, and exponential multiplication → arrival at thousands never met, with the intended end that God places in them the desire for His Love. FENCE: `earth-conditions-and-prayer` is defensive (the darkness-field met by prayer, respite and protection); this thread is projective (prayer discharged outward to change conditions and souls elsewhere) | Prayer & Devotion; Awakening Humanity |
-| `provision-for-service` | God's provision for God-guided work | When a mission is guided by God, all that is required is provided on every level, including the monetary → worry, guilt, and conflict are barriers the servant raises, not conditions God imposes, and they work as barriers because they attract what obstructs and exclude the Touch that would otherwise be present → provision meets requirements, not indulgence → harmony is the mark of God's Hand upon the work | Faith & Trust; Divine Plan & Timing |
-| `fear-of-full-immersion` | The fear of full immersion in the Love | The obstacle to full reception is not unworthiness or error but a near-universal fear of being wholly immersed → the feared losses run from vulnerability and possessions down to identity itself → the obstacle is clothing, worn and removable (mental assumptions, fears, the mind's judgments), not a condition of the soul → the half-measure, sipping from the bank, is named and surpassed → nothing in harmony is lost; all is enhanced | Overcoming Fear & Doubt; Surrender & Trust in God |
-| `simplicity-of-the-path` | Simplicity as the effective register of the path and its ministry | The Divine Love path is inherently simple and complication is human-made → the simple register is what actually reaches the soul, and esoteric complexity has no effect (the failure mode) → lived simply, the complexities fall away or fall into place → the scope covers both the walking and the speaking: the seeker's life and the servant's ministry | Walking the Divine Path; Service, Ministry & Being a Channel of Love |
-| `portals` | Portals of Light: conferred conduits of concentrated blessing | A portal is a mechanism for communication and the concentrated flow of God's blessings, made of energy with substance → it cannot be built by human effort; it is conferred by God's Will upon souls committed to serve, constructed by a team of spirits, and the foundation of each portal known to this circle was ignited by Jesus → humans supply the conditions: presence and dedicated prayer in a place anchor one end of the bridge, and prayer sustains what it cannot create → portals attach to places and may be conferred wherever committed souls pray, including temporarily, and their proliferation to elevate the world's conditions is God's Will → BOUNDARY: communication does not require a portal; portals concentrate blessing, they do not gate contact | Circle of Light & Prayer Circles; Lattice of Light & Global Prayer Network |
-| `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
-| `pentecost` | The two modes of soul awakening, sudden and gradual | The Pentecost was a real and sudden infilling, a fire that did not burn but healed -> it arose from specific conditions of longing and readiness in those present -> most seekers instead walk the incremental road of cleansing they have chosen -> which mode arrives turns on the depth and urgency of the soul's yearning, not on merit -> and a gathering of sufficient longing can still produce it | Soul Awakening; Personal Transformation Journey |
-| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God entrusts each soul with a unique purpose and the gifts to fulfil it -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
-| `guidance-as-seed` | Guidance arrives as a seed of a thought, not a dramatic sign | God's Will does not announce itself → it arrives as a seed of a thought, a small inkling easily mistaken for one's own → it grows as Love nurtures it → so the soul's task is to honour the quiet prompting and act on it rather than wait for a sign | God's Guidance; Alignment with Divine Flow |
-| `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
-| `knowing-your-own-soul` | The soul is the part of yourself you know least, and coming to know it is the route to God | Mankind reveres and nurtures the mind and neglects the soul → so the soul lies cloistered, and the mind's own account of who you are is distorted → the path you forge to your own soul is the same path you forge to God → and this self-knowledge is prior to prayer, service and any effort to change the world → so knowing your soul and knowing God are one movement, not two | Soul's True Nature; Knowing God |
-| `conditions-of-a-people` | A place and its people carry a collective condition laid down by their own history | A people's shared history of injury lays down a condition that outlasts the events that caused it → the condition attaches to the place and to everyone in it rather than to individuals separately → it passes down the generations and spreads by projection onto whoever is met → it has a signature, a particular fear that marks that people → so it is met by declining to take it on and declining to armour against it, since self-protection is what admits it | Earthly Challenges & Human Condition; Darkness vs Light |
-| `opposition-to-the-light-worker` | The Light a soul carries provokes opposition, and the response is never counter-attack | A soul growing in Divine Love becomes visible, and what is visible is opposed → the opposition arrives from three directions: organized forces that conspire, energies drawn by the seeker's own reactivity, and human hostility from those not close to God → it scales with the Light rather than diminishing as the soul grows, so hostility is a sign of progress and not of error → and the response differs in each case, a fortress of prayer, discipline of thought, non-reaction in love, but is never counter-attack | Darkness vs Light; Earthly Challenges & Human Condition |
 | `armour-of-the-world` | The soul moves through the world in clothing that is not its own, and it must be exchanged | A person navigates a wounding world in armour: a shield against betrayal, a cloak of accumulated pain, mental assumptions worn as protection → the armour is worn deliberately and for good reason, since the world it answers is real → but it is the same thing that keeps God out, so it cannot be reinforced, only set down → and it is not simply removed and gone, it is exchanged, the cloak of error shed for a cloak of Light | Surrender & Trust in God; Overcoming Fear & Doubt |
+| `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell → this reaches other souls wordlessly and ignites their longing for God → the stronger the Love within, the further it resonates → this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
+| `challenges-as-blessings` | Every difficulty is a blessing that strengthens the soul | Hardship, whatever its source, is redeemed into soul-growth by God's design → every struggle, test, and challenge brings insights and lessons that strengthen the soul → the strengthened soul becomes a more powerful channel of Love → so the challenge is met with trust rather than resentment | Soul Growth through Challenges |
+| `conditions-of-a-people` | A place and its people carry a collective condition laid down by their own history | A people's shared history of injury lays down a condition that outlasts the events that caused it → the condition attaches to the place and to everyone in it rather than to individuals separately → it passes down the generations and spreads by projection onto whoever is met → it has a signature, a particular fear that marks that people → so it is met by declining to take it on and declining to armour against it, since self-protection is what admits it | Earthly Challenges & Human Condition; Darkness vs Light |
+| `conduit-not-scripture` | The recorded message as living conduit, never sacred object | Guidance reaches the soul by rapport → channelled messages are one form of that guidance → the rapport does not end at delivery but attends every later reader, so the written record is itself an instrument, not a transcript → and the words are never sacred, the rapport is, which keeps the message useful while stripping it of authority | Discernment & Truth-Seeking; Religious Error & Reformation |
+| `death-transition` | Death is not an ending but a seamless transition to an eternal journey | Fear of death arises from the mind's reliance on the senses → death is merely transition → the soul continues through the spheres → Divine Love expands every faculty without limit toward at-onement | Soul Spheres & Progression; The Hells & Dark Spheres |
+| `divine-love-healing` | Divine Love as the greatest healing energy | Divine Love is the one healing that cannot be given from one to another and must come from God through longing and prayer → it stands among the other healing energies without demoting them, enhancing all other gifts → its primacy rests on eternality, for nothing else in creation is eternal | Divine Healing; Healing Path |
+| `divine-love-mediumship` | How spirit communication works and what makes it clear and trustworthy | The basic laws of communication are the same for all → but clarity, quality, and safety of reception depend on the soul's development in Divine Love, not the ambitions or gifts of the mind → a true instrument is prepared over years into a finely tuned, clear channel → messages centred on ego, or not on God's Love and the flowering of the soul, are not from Celestial angels (discernment) → and this capacity is not confined to designated mediums: every soul accompanied by angels has some avenue of communication that grows as it stays open and awakens in love | Mediumship & Developing as an Instrument; Discernment & Truth-Seeking; Spirit Guides & Angels |
+| `divine-love-without-knowing` | Divine Love can be received without conscious knowledge of it | Conscious understanding is not required → the soul can long for God on its own → souls of all beliefs already receive it, often faintly → the seed may open more fully later, even in spirit | Receiving the Divine Love through Prayer; Interfaith & Universal Truth |
+| `earth-changes` | The Earth's changes are a cleansing and an awakening, not a punishment | Humanity violates the Laws of Creation in a closed system → the Earth's imbalance intensifies and manifests in the natural world → the changes are a cleansing of the Earth, not a punishment of humanity → the Earth itself is changing to force humanity awake → the awakened soul meets the changes as God's channel rather than as a victim | Earth Changes & Prophecy; Awakening Humanity |
+| `earth-conditions-and-prayer` | The conditions of the world act on every soul, and prayer is how they are met and neutralized | The thoughts and actions of mankind generate a darkness-field, like weather, that buffets every soul and desensitizes humanity to God → this accounts for why one feels close to God one day and burdened the next → the seeker must come awake to these conditions rather than absorb them → daily prayer neutralizes them both within and around the soul, drawing in Divine Love → the Earth itself is changing to force humanity awake | Darkness vs Light; Prayer & Devotion; Awakening Mass Consciousness |
+| `fear-of-full-immersion` | The fear of full immersion in the Love | The obstacle to full reception is not unworthiness or error but a near-universal fear of being wholly immersed → the feared losses run from vulnerability and possessions down to identity itself → the obstacle is clothing, worn and removable (mental assumptions, fears, the mind's judgments), not a condition of the soul → the half-measure, sipping from the bank, is named and surpassed → nothing in harmony is lost; all is enhanced | Overcoming Fear & Doubt; Surrender & Trust in God |
+| `free-will-and-gods-plan` | Free will and God's Will are not in conflict; the willing soul is how God's plan manifests | God has an intended end but free will means no straight path → the laws of free will and cause-and-effect must be obeyed, so outcomes are unpredictable in order and timing → God orchestrates through circuitous routes across generations → the willing soul ignited by Divine Love is the treasure through which His Will manifests → the soul's free choice to surrender willfulness is itself the fulfilment of God's plan, not its loss | Free Will & Human Error; Surrender to God's Will; Divine Will, Guidance & Orchestration |
+| `free-will-and-self-responsibility` | Your healing waits on your own will | God honours free will absolutely and will not override it even to relieve self-created pain → prayers for relief go unanswered while the mind keeps feeding the very condition prayed about → real change must come as a deep desire from the soul, not a correction from the mind → and the same law releases you from responsibility for the choices of others, for each soul answers for what it chooses | Law of Free Will |
+| `guidance-as-seed` | Guidance arrives as a seed of a thought, not a dramatic sign | God's Will does not announce itself → it arrives as a seed of a thought, a small inkling easily mistaken for one's own → it grows as Love nurtures it → so the soul's task is to honour the quiet prompting and act on it rather than wait for a sign | God's Guidance; Alignment with Divine Flow |
+| `healing-channel` | How a person becomes a channel for God's healing in the world | Healing flows from God, not the healer → the impulse to heal must begin in the soul, not the mind → mental constructs and divided purpose lower resonance and draw lesser influences (Law of Attraction) → singleness of purpose and surrender make one a clear channel → even a few such souls change the world | Service, Ministry & Being a Channel of Love; Service & Mission; Healing Path |
+| `incremental-journey` | Growth in Divine Love is inherently incremental | The soul's growth advances in leaps, then trickles, impeded by world and self yet lifted by God → the oscillation (two steps forward, one back) comes from the mind's fear-driven retreat to the familiar → yet each forward effort reinforces truth → and each step of the gradual awakening is swift in the measure of eternity | Personal Transformation Journey; Perseverance & Steadfastness |
+| `judgment-to-love` | Judgment is incompatible with Love; the soul learns to choose Love instead | Judgment of others reveals our own soul state → beneath judgment lies hidden hurt → the antidote is conscious choice, not suppression → as the soul grows in Love, compassion and forgiveness come reflexively | Compassion & Empathy; Self-Love & Acceptance |
+| `knowing-your-own-soul` | The soul is the part of yourself you know least, and coming to know it is the route to God | Mankind reveres and nurtures the mind and neglects the soul → so the soul lies cloistered, and the mind's own account of who you are is distorted → the path you forge to your own soul is the same path you forge to God → and this self-knowledge is prior to prayer, service and any effort to change the world → so knowing your soul and knowing God are one movement, not two | Soul's True Nature; Knowing God |
+| `mind-vs-soul` | The soul, not the mind, is the seat of truth and the receiver of Divine Love | The mind and soul are distinct faculties → the mind constructs and can obstruct → the soul knows and receives directly → truth and Divine Love come through the soul, not intellectual effort → the two minds are ultimately integrated into one consciousness | Mind vs Soul Conflict; Mind & Soul |
+| `opposition-to-the-light-worker` | The Light a soul carries provokes opposition, and the response is never counter-attack | A soul growing in Divine Love becomes visible, and what is visible is opposed → the opposition arrives from three directions: organized forces that conspire, energies drawn by the seeker's own reactivity, and human hostility from those not close to God → it scales with the Light rather than diminishing as the soul grows, so hostility is a sign of progress and not of error → and the response differs in each case, a fortress of prayer, discipline of thought, non-reaction in love, but is never counter-attack | Darkness vs Light; Earthly Challenges & Human Condition |
+| `pentecost` | The two modes of soul awakening, sudden and gradual | The Pentecost was a real and sudden infilling, a fire that did not burn but healed -> it arose from specific conditions of longing and readiness in those present -> most seekers instead walk the incremental road of cleansing they have chosen -> which mode arrives turns on the depth and urgency of the soul's yearning, not on merit -> and a gathering of sufficient longing can still produce it | Soul Awakening; Personal Transformation Journey |
+| `portals` | Portals of Light: conferred conduits of concentrated blessing | A portal is a mechanism for communication and the concentrated flow of God's blessings, made of energy with substance → it cannot be built by human effort; it is conferred by God's Will upon souls committed to serve, constructed by a team of spirits, and the foundation of each portal known to this circle was ignited by Jesus → humans supply the conditions: presence and dedicated prayer in a place anchor one end of the bridge, and prayer sustains what it cannot create → portals attach to places and may be conferred wherever committed souls pray, including temporarily, and their proliferation to elevate the world's conditions is God's Will → BOUNDARY: communication does not require a portal; portals concentrate blessing, they do not gate contact | Circle of Light & Prayer Circles; Lattice of Light & Global Prayer Network |
+| `prayer-changes-world-conditions` | Prayer as an outward force on the world | Intercessory prayer acts on distant souls and conditions through a describable route: collection in a vessel within the praying circle → overflow into directed streams → angelic division, direction, and exponential multiplication → arrival at thousands never met, with the intended end that God places in them the desire for His Love. FENCE: `earth-conditions-and-prayer` is defensive (the darkness-field met by prayer, respite and protection); this thread is projective (prayer discharged outward to change conditions and souls elsewhere) | Prayer & Devotion; Awakening Humanity |
+| `prayer-soul-longing` | True prayer is the longing of the soul, not the recitation of the mind | Prayer is the foundation and anchor of the Divine Love path → but words alone are not prayer; the sincere longing of the soul is what prayer essentially is → repetition without feeling elicits no real response → it is soul-longing that activates God's answer (the Law of Activation) → as Divine Love accumulates, prayer becomes easier and the conscious knowing of God deepens | Prayer & Devotion; Law of Activation; Receiving the Divine Love through Prayer |
+| `preparation-to-be-a-rock` | God is actively preparing the gathered souls to be rocks and stabilizing forces for others through the coming changes | Great change is coming and refuges of Light must be prepared → God orchestrates the readying now, so those who receive His guidance become rocks others lean on amid the storms → the preparation is years in the making and nears fruition through mind-soul alignment and a coordinated network of light workers → it cannot be delivered as specific prophecy, so the readying is inner (trust the compass) rather than informational → and it works through the soul: dreams, portents, and visions as advance preparation, and a strengthening that alternates turmoil with healing | Preparation for Earth Mission; Earth Changes & Prophecy; Faith & Trust |
+| `provision-for-service` | God's provision for God-guided work | When a mission is guided by God, all that is required is provided on every level, including the monetary → worry, guilt, and conflict are barriers the servant raises, not conditions God imposes, and they work as barriers because they attract what obstructs and exclude the Touch that would otherwise be present → provision meets requirements, not indulgence → harmony is the mark of God's Hand upon the work | Faith & Trust; Divine Plan & Timing |
+| `redemption-universal` | No soul is beyond redemption | Hell is not eternal → the dark spheres are a condition, not a sentence → any soul there can still turn toward God → Divine Love is available even there → therefore no soul is beyond redemption | God's Mercy & Unconditional Love; The Hells & Dark Spheres |
+| `reincarnation-progression` | Reincarnation is not real; the soul progresses through the spirit planes instead | Reincarnation belief explained and corrected → the soul incarnates once → it progresses through many planes after death → Divine Love accelerates that journey to the Celestial Heavens | Soul Spheres & Progression; Two Paths |
+| `religious-error` | Established religious doctrines have obscured the simple truth of Divine Love | Inherited doctrines are human constructs, not absolute truth → the Vicarious Atonement is false → organised religion lets human will usurp God's → no written word is final → truth comes through the soul, personally | Religious Error & Reformation; Letters from History |
+| `self-love-foundation` | Loving oneself is the prerequisite for loving others | One cannot extend compassion outward while suppressing or condemning the self → the seeker is not to blame for their condition and should meet their own cleansing with compassion → self-love opens the capacity to love others fully → and the soul that loves itself becomes a clear channel of Love to the world | Self-Love & Acceptance; Compassion & Empathy |
+| `sensitive-souls-redemptive` | The sensitive soul is the saving grace of this world | The sensitive soul feels the cruelty of the world acutely and struggles to be in it → sensitivity is a sign of soul growth, not vulnerability → the Love within the growing soul is its protection (thoughts attract like energies by law) → such souls refuse the darkness of judgment and fear, progress swiftly, and stand as the redemptive example whose presence sows seeds of Love | Compassion & Empathy; Redemption of Humanity |
+| `simplicity-of-the-path` | Simplicity as the effective register of the path and its ministry | The Divine Love path is inherently simple and complication is human-made → the simple register is what actually reaches the soul, and esoteric complexity has no effect (the failure mode) → lived simply, the complexities fall away or fall into place → the scope covers both the walking and the speaking: the seeker's life and the servant's ministry | Walking the Divine Path; Service, Ministry & Being a Channel of Love |
+| `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions → these block the inflowing of Love → expiation alternates joy and the surfacing of buried pain → Divine Love washes through and cleanses where effort alone cannot → the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
+| `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) → these are unique to each soul and must be experienced to be understood → Divine Love opens the chambers and refines each faculty | Soul Awakening; Nature of the Soul; Prism of the Soul |
+| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God entrusts each soul with a unique purpose and the gifts to fulfil it -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
+| `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
+| `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
+| `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
+| `vanguards-of-change` | The commission to mobile service | God has commissioned these souls as vanguards and will open the doors in His timing → answering the commission requires releasing material burdens to be free to go wherever guided → the release is operational, mobility at a moment's notice, and the fears blocking it are unfounded → the world changes through changed people walking through opened doors | Preparation for Earth Mission; Service & Mission |
+| `who-jesus-was` | Correcting the record on Jesus' nature and relationships | Jesus was not God incarnate but a man who found the way to the Father's Love → what made him able was the soul he incarnated with, complete and purified by prior agreement with God → so the doctrines resting on his divinity fall with it: the birth record, the soulmate legend, and the worship of him → the record went wrong because those closest to him did not understand him while he lived → what he did was open the door to Divine Love for mankind and all spirits, and he lives still, which is why impersonation is possible | Jesus Speaks; Religious Error & Reformation |
 
 ---
 
-## Recently minted, witness rosters
+## Thread rosters
 
-Threads minted from the holding pen at the curator's direction
-(`earth-changes`, `sensitive-souls-redemptive`, `challenges-as-blessings`,
-and `self-love-foundation` on 2026-07-06; `incremental-journey` on
-2026-07-08; `free-will-and-self-responsibility` on 2026-07-11; `conduit-not-scripture`,
-`vanguards-of-change`, and the `divine-love-healing` re-mint on 2026-07-20;
-`prayer-changes-world-conditions` and `provision-for-service` on 2026-08-03;
-`fear-of-full-immersion` and `simplicity-of-the-path` on 2026-08-06;
-`portals` later the same date, at a dedicated doctrine-reading session;
-`the-fall`, `pentecost` and `soul-purpose-emergence` on 2026-08-13, minted
-on member evidence already standing in the log). Anchors marked;
-back-search roles are provisional pending full text. Per-message log entries
-exist for the anchor-level witnesses; roster-only names await log migration
-as they are processed or back-searched in full.
-  Added 2026-08-30: 2016-10-29-af-andrew (Elaboration, why the mind ends
-  up in charge, which is that the soul is left untended, and the argument
-  then run at the scale of the whole world) and 2016-11-27-af-james-reid
-  (Testimony, the claim verified retrospectively by a man who spent his
-  Earth life on the mind's side of it, with a usable test for any new
-  idea, "how does this increase the love in my life"). Witness added the
-  same date: 2016-10-26-af-augustine, the soul as the image of God offered
-  as the reason the recognition faculty sits there and nowhere else.
-  Added 2026-08-30: 2016-09-05-af-andrew
-  (Elaboration, the conflict distributed across people rather than
-  anatomised in one, "most waver from one to the other", with the order of
-  governance attached, "your lives are governed by your soul and your soul
-  is governed by God"). Witnesses 2016-09-04-af-john-the-beloved (what the
-  Love does to perception, the layers of illusion falling away) and
-  2016-09-09-af-andrew (the vestiges persisting in the material mind after
-  the soul has changed), the second from the same spirit four days after
-  the member and on the same axis; the two belong together.
-- `earth-changes`, witnesses in hand: 2015-08-17-af-jesus (Foundation,
-  presumptive anchor), 2017-09-13-af-keea-atta-kem (Elaboration),
-  2018-08-13-af-seretta-kem (Elaboration), 2023-02-10-af-augustine
-  (Elaboration, the Earth itself changing to force humanity awake).
-  Adjacencies: 2016-12-07-af-andrew (prophecy register),
-  2019-01-28-af-augustine (the limits of specific prophecy; primary home
-  `preparation-to-be-a-rock`). Distinct from `preparation-to-be-a-rock` (the
-  readying of souls) and from `earth-conditions-and-prayer` (the man-made
-  darkness-field acting on the individual soul): this thread is the Earth's
-  own changes and their purpose.
-  Added 2026-08-30: 2016-09-06-af-mary (Elaboration, what the changes do
-  to people, and the easing of it as a stated divine desire: God "desires
-  that his emissaries of Love will help ease the fears and the confusion
-  that will ensue from these changes"). Unusually explicit that the Hand
-  is God's and the intended end is balance, where other members describe
-  the Earth acting on itself.
-- `sensitive-souls-redemptive`, 2016-03-07-af-augustine (Foundation, anchor)
-  and 2017-01-16-af-keea-atta-kem (Objection-removed: sensitivity is a sign
-  of growth, not vulnerability). Both logged.
-  Added 2026-08-30: witness 2016-09-09-af-andrew, which reaches this
-  chain's conclusion by the opposite instrument. Its registry line has the
-  Love within the growing soul as the protection; Andrew has the armour as
-  the danger, "put away your shield and your armour, to trust in God who
-  will protect you... You will not be hurt", and names self-protection as
-  the thing that makes a person vulnerable. Recorded rather than proposed
-  as a member because the chain's subject is the sensitive soul's
-  redemptive function, which the message does not touch.
+- `armour-of-the-world`, (minted 2026-08-30 at the curator's direction, from
+  the clothing cluster described across 2016-08-28 to 2016-10-24). Six
+  messages, five spirits, in under two months.
+  Foundation, presumptive anchor: 2016-08-28-af-francis-of-assisi, which names
+  the clothing as mental assumptions and as removable, and says why it is worn.
+  Capstone: 2016-10-24-af-confucius, which completes the argument by making it
+  an exchange rather than a removal, "As you shed your cloaks of error and don
+  your cloak of Light you become a clear and effective channel." Every other
+  instance in the cluster is subtractive, clothing taken off so that something
+  can happen; this alone says what is put on instead, which is what turns a
+  repeated figure into an argument with an end.
+  Members between them: 2016-09-09-af-andrew, the armour as defence against a
+  people that cannot trust, "put away your shield and your armour, to trust in
+  God who will protect you"; 2016-09-10-af-augustine, the armour as
+  unworthiness before God, "remove your cloak and your armor and come to God as
+  a child"; 2016-09-12-af-jerome, the armour as accumulated pain named and
+  handed over, "this is my cloak of pain, this is the armor which I don in
+  order to navigate this life and I wish that you would take it all".
+  Witness: 2016-10-15-af-confucius, which carries the water half of the cluster
+  rather than the clothing, "Drink in these living waters. Allow yourselves to
+  be fully immersed."
+  **This thread is minted alongside `fear-of-full-immersion` and does not
+  replace it**, which is a departure from the parallel with
+  `opposition-to-the-light-worker` above and is flagged as such. That candidate
+  was unminted and had one sighting, so renaming it cost nothing. This one is
+  different: `fear-of-full-immersion` is minted, carries a Foundation, a
+  Reframe and an Elaboration, and its argument is about fear, the losses a soul
+  imagines it will suffer, down to identity. Renaming it would strip that
+  argument, which three of its members carry. So the clothing cluster is given
+  its own thread instead, and the fence is what resolves the scope question
+  raised four times: `fear-of-full-immersion` keeps only messages that carry
+  the fear argument, and the image-only messages come here, where the image is
+  the argument. 2016-08-28-af-francis-of-assisi holds a role in both, which the
+  vocabulary permits, and it is the hinge between them.
+  One piece of counter-evidence recorded rather than resolved. The
+  `fear-of-full-immersion` Reframe sets sipping against immersion and makes
+  drinking the half-measure it surpasses, while 2016-10-15-af-confucius uses
+  drinking and immersion together as one invitation. So the water images were
+  not fixed in opposition across this circle's vocabulary. That is an argument
+  for treating the water half as flexible figure rather than doctrine, and it
+  is why 2016-10-15-af-confucius is a witness here and not a member. It is the
+  same shape as the Francis valence question in Open questions, and the two
+  should be settled together.
 - `challenges-as-blessings`, (minted 2026-07-06 on the witness roster; the
   anchor was awaited and has since been found) Foundation and presumptive
   anchor: 2016-08-11-af-alec-gaunt (logged 2026-08-03), which builds the
@@ -299,60 +247,51 @@ as they are processed or back-searched in full.
   2015-11-02-af-augustine, 2016-02-29-af-confucius,
   2017-01-25-af-alec-gaunt, 2017-03-27-af-james, 2018-08-06-af-solomon,
   2019-02-22-af-keea-atta-kem.
-- `self-love-foundation`, minted on the witness roster; anchor awaited (a
-  message making self-love its own central argument; Luke is the likeliest
-  voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
-  2016-03-10-af-confucius, 2016-03-11-af-luke (strongest),
-  2016-03-12-af-john-the-beloved, 2016-03-16-af-seretta-kem,
-  2018-06-24-af-luke, 2019-04-05-af-augustine (Elaboration, logged:
-  self-acceptance stated as the logic that makes judgment of others
-  impossible; a possible anchor, decide at build).
-  Added 2026-08-30: witness 2016-11-07-af-andrew, which meets the thread
-  from the receiving side rather than the giving side, "All that inhibits
-  this blessing from flowing into yourselves in great abundance is that
-  doubt within you, that you are loved." Whether the thread's argument
-  admits the receiving side is an open question; if it does, this is
-  substantial and bears on the anchor still awaited.
-- `incremental-journey`, (minted 2026-07-08) witnesses in hand:
-  2015-03-23-af-john-the-beloved ("each step of the gradual awakening is
-  swift in the measure of eternity"), 2015-03-28-af-augustine (the blessing
-  of Divine Love is incremental, each prayer brings the soul closer),
-  2015-05-03-af-confucius (Foundation, presumptive anchor: growth advances
-  in leaps, then trickles, impeded by world and self yet lifted by God),
-  2019-04-04-af-matthew (Elaboration: the oscillation explained by the
-  mind's fear-driven retreat to the familiar, each forward effort
-  reinforcing truth). Overlaps `pentecost` (sudden vs gradual as the
-  awakening-modes question) and `soul-expiation`; this thread is the
-  why-increments question.
-  Added 2026-08-30: witnesses 2016-10-26-af-augustine ("It does not come
-  all at once... It comes with each prayer") and 2016-11-21-af-confucius,
-  which itemizes what changes with each increment, consciousness,
-  awakening, understanding and perception.
-  Added 2026-08-30: sightings 2016-09-04-af-
-  john-the-beloved ("Slowly your eyes are opening") and 2016-09-09-af-
-  francis-of-assisi ("with each sip of this Love you will be stronger"),
-  both asserting the increment without the oscillation the members
-  describe.
-- `free-will-and-self-responsibility`, (minted 2026-07-11 per the pen's own
-  standing instruction, on the arrival of the second confirming message)
-  witnesses in hand: 2019-02-22-af-augustine (Foundation, presumptive anchor:
-  the full argument and the named law, "There is a law that says you must be
-  responsible for yourself"), 2016-04-04-af-augustine (Elaboration: the
-  corollary, those who "stubbornly hold on to what they carry" where healing
-  is offered are choosing, and the servant carries no responsibility for
-  their choice, "for each soul is responsible for what they choose, just as
-  you are responsible for what you choose"). Distinct from
-  `free-will-and-gods-plan` (God's orchestration through willing souls);
-  overlaps `soul-expiation` and `mind-vs-soul` at a search level.
-  Added 2026-08-30: 2016-09-09-af-andrew (Elaboration, the lag between
-  what the Love has already changed and what the seeker must still change
-  by hand: "the last vestiges of such conditions remain within your
-  material mind... it is your responsibility to change those patterns of
-  thinking, those old habits, to catch up with the changes within you").
-  The Foundation has a mind actively sustaining the problem so the healing
-  waits; this has the soul already changed and the mind merely behind,
-  which makes the residue a maintenance task rather than an obstruction.
-- `conduit-not-scripture`, (minted 2026-07-20) witnesses in hand:
+- `conditions-of-a-people`, (minted 2026-08-30 at the curator's direction, from
+  the pattern watch opened at 2016-09-01-af-jesus): 2016-09-09-af-andrew
+  (Foundation, anchor) with 2016-09-01-af-jesus and 2016-09-08-af-jesus as
+  witnesses. Three messages in nine days, two spirits, two countries.
+  The Foundation is the only one of the three that builds the argument rather
+  than observing the condition. Andrew names it, "This is a nation without
+  trust. Every soul, it seems, in this place is fearful and finds it very
+  difficult to trust another... always wary of betrayal, very sensitive to the
+  smallest innuendo"; attributes it to history, "conditions brought about by
+  these pains, of generations of mistrust"; describes its transmission by
+  projection onto whoever is met; and prescribes a response with two halves,
+  do not take the condition on, and do not armour against it, "put away your
+  shield and your armour, to trust in God who will protect you... You will not
+  be hurt. Only when you join into this condition will you feel that way."
+  Witnesses. 2016-09-01-af-jesus, delivered in Germany, opened the watch and
+  states the persistence, "Even your country struggles beyond those conditions
+  created long ago." 2016-09-08-af-jesus, delivered in Belgrade the day before
+  the Foundation, gives the condition its affective content, "The hearts that
+  mend in this country are burdened... They are burdened with such pain and
+  grief, anger and sorrow", and widens the scope past the nation to "this part
+  of the world, beset by strife for so long".
+  Fences, and the first is the one that matters. Against
+  `earth-conditions-and-prayer`: that thread's condition is a darkness-field
+  generated by all mankind that acts like weather on every soul everywhere, met
+  by daily prayer. This one is particular, laid down by one people's own
+  history, carried by a place, with its own signature (mistrust, here) and its
+  own remedy, which is a posture toward the condition rather than a prayer
+  against it. Against `soul-expiation`: that thread is inherited darkness
+  carried by an individual soul, cleansed out of a person; this is carried
+  collectively and is declined rather than cleansed. Against `earth-changes`:
+  that thread is the planet.
+  Naming note: the two candidates carried in the log were
+  `inherited-national-conditions` and `conditions-of-a-people`. The second is
+  used because 2016-09-08-af-jesus reaches past a nation to "this part of the
+  world", so nation is too narrow a container for the claim.
+  What is awaited: an instance outside these two countries, which would show
+  the argument is general rather than a reading of post-conflict Europe; and a
+  message that says what prayer does to such a condition, since the two-halves
+  response the Foundation gives is a posture and not an intercession.
+  Note for the anchor: 2016-09-09-af-andrew already carries a
+  `free-will-and-self-responsibility` Elaboration and three witness roles, so
+  it is a heavily loaded message; the Foundation role here rests on the
+  opening passage rather than on the message as a whole.
+
+- `conduit-not-scripture`, witnesses in hand:
   2016-04-12-af-keea-atta-kem (Foundation, presumptive anchor: the recorded
   message carries ongoing angelic accompaniment to each reader) and
   2016-04-12-af-moses (Objection-removed: the words are never sacred, the
@@ -361,7 +300,7 @@ as they are processed or back-searched in full.
   both turning on the word rapport. No third witness in the 497 messages
   currently indexed in llms.txt, roughly a quarter of the archive; expect
   more in the unprocessed material.
-  Added 2026-08-30: sighting 2016-11-27-af-james-reid, "that which is the
+  Sighting 2016-11-27-af-james-reid, "that which is the
   fabrication of the mind... will fall away", aimed at the seeker's own
   reading rather than at the standing of a recorded message.
 - `divine-love-healing`, (re-minted 2026-07-20 per the pen's standing
@@ -378,12 +317,12 @@ as they are processed or back-searched in full.
   form). Added 2026-08-06: 2016-08-26-af-augustine (witness with a
   caveat: the sentence says Love and the context is God's Love; strike if
   the roster is kept to explicit Divine Love claims).
-  Added 2026-08-30: witness 2016-11-21-af-confucius, which rests the
+  Witness 2016-11-21-af-confucius, which rests the
   primacy on a second ground, substance and power rather than eternality,
   "Love is the most powerful of all substances in this universe." No
   comparison with the other healing energies, which is why it sits below
   the roster's bar.
-  Added 2026-08-30: sighting 2016-09-06-af-mary, spirit assistance placed
+  Sighting 2016-09-06-af-mary, spirit assistance placed
   alongside material medicine without ranking them, "Do not fear the hands
   of the physicians, they will heal you and we will be with them, guiding
   them". Explicitly not proposed for the roster, since the weakest member
@@ -395,80 +334,77 @@ as they are processed or back-searched in full.
   unengaged over fifteen messages, the nearest miss being 2016-09-06-af-
   joseph, "there is no other source that will bring the healing and the
   answers to mankind".
-- `vanguards-of-change`, (minted 2026-07-20) witnesses in hand:
-  2016-01-08-af-jesus (Foundation, presumptive anchor: the commission
-  itself), 2016-03-06-af-jesus (Elaboration: the release requirement,
-  in this world but not of it), 2016-05-12-af-alec-gaunt (Elaboration:
-  mobility at a moment's notice, the fear objection cleared). FENCE against
-  `preparation-to-be-a-rock`: rock is stability for what comes to you;
-  vanguard is mobility for where you are sent. A message may serve both
-  (2016-05-12-af-alec-gaunt does), but membership here requires the
-  commission-and-mobility argument, not readiness alone. The 2016-01-08
-  `healing-channel` Elaboration should be weighed for demotion to witness
-  at build, as the pen anticipated when holding this candidate. Roster witnesses added
-  2026-08-03: 2016-08-11-af-alec-gaunt (the commission materializing in the
-  present tense) and 2016-08-15-af-alec-gaunt (the release half restated);
-  each asserts one half of the argument without development. Added 2026-08-06:
-  2016-08-27-af-augustine (Elaboration, the release of one's own forward
-  plan, the day as the unit of readiness) and witnesses 2016-08-26-af-jesus
-  (the regathering facet, promotable at build) and 2016-08-29-af-faith-nyquist
-  (commission, release, and mobility asserted together). The August 2016
-  travels are where the commission material concentrates.
-  Added 2026-08-30: witnesses 2016-11-06-af-jesus (the commission with the
-  opened-door promise, no release and no mobility claim), 2016-11-26-af-
-  andrew (the commission lived rather than taught, the circle already
-  travelling) and 2016-11-27-af-augustine (travel promised in the spirit's
-  own voice, with the release named as one of resistance rather than of
-  material burdens).
-  Added 2026-08-30: witness 2016-09-04-af-
-  augustine, the commission stated as a travel programme with the role
-  named, "you come as missionaries", and no release asked for. Sightings
-  2016-09-03-af-james (the doors-opening claim in general form) and
-  2016-09-08-af-jesus (a single resident commissioned in place rather than
-  a group commissioned to mobility).
-- `prayer-changes-world-conditions`, (minted 2026-08-03 per the pen's own
-  condition, on the arrival of the mechanism): 2016-07-25-af-seretta-kem
-  (Foundation, presumptive anchor: vessel, overflow, angelic division and
-  direction, exponential multiplication, the intended end named). Witnesses:
-  2019-02-06-af-francis-of-assisi, 2015-11-28-af-faith-nyquist (dual-logged
-  as the prayer-soul-longing Foundation), 2018-11-29-af-abdullah-latif,
-  2015-12-21-af-peter, 2016-05-09-af-seretta-kem (the sketch, eleven weeks
-  before the Foundation, same spirit), 2016-07-27-af-confucius (two days
-  after). Added 2026-08-06: 2016-09-01-af-seretta-kem (Elaboration, the
-  upstream harmony condition and the reciprocal benefit, carrying the
-  thread's own limit, that the substantial portion of Love is given in
-  private prayer; weigh against the registry wording at build) and witness
-  2016-08-26-af-jesus.
-  Added 2026-08-30: witness 2016-11-27-af-james-reid-2, the claim seen
-  from the other end, a spirit-side company gathered around the praying
-  circle and touched by it, which sits nearer the lattice material than
-  the thread's outward mechanism. Sightings 2016-11-27-af-confucius and
-  2016-11-28-af-luke, both asserting the outward effect without mechanism.
-  Added 2026-08-30: 2016-09-03-af-james
-  (Elaboration, why mankind is the thing prayed for, which no member
-  establishes: "almost all souls residing in this place have a great
-  lacking within them", with the deprivation universal rather than
-  confined to the visibly suffering). Witness 2016-09-03-af-mary,
-  intercession aimed at one named person with protection rather than
-  awakening as its object, which raises a scope question left undecided:
-  if single-target protective intercession belongs, the registry wording
-  needs widening. Sighting 2016-09-04-af-augustine, the same overflow
-  image with the direction reversed, blessing drawn into the room rather
-  than discharged from it.
-- `provision-for-service`, (minted 2026-08-03): 2016-04-04-af-augustine
-  (Foundation, presumptive anchor) and 2016-08-19-af-andrew (Elaboration,
-  why the barriers work). Witnesses: 2015-08-20-af-faith-nyquist,
-  2015-11-09-af-faith-nyquist, 2016-01-08-af-jesus,
-  2016-08-25-af-confucius. NOTE: shares its 2016-08-19 hinge passage with
-  the `channel-of-love-in-the-material` pen candidate; two arguments, one
-  hinge; see the pen. Added 2026-08-06: 2016-08-29-af-faith-nyquist
-  (Elaboration, the no-sacrifice claim, the thread's first institutional
-  setting).
-  Added 2026-08-30: witness 2016-11-27-af-confucius, which answers worry
-  not with provision but by shrinking the human requirement to a closed
-  list, "All that we require of you is for you to come together in harmony
-  and prayer", with provision itself never mentioned. Sighting
-  2016-11-06-af-jesus, doors opened with nothing said about provision.
+- `earth-changes`, witnesses in hand: 2015-08-17-af-jesus (Foundation,
+  presumptive anchor), 2017-09-13-af-keea-atta-kem (Elaboration),
+  2018-08-13-af-seretta-kem (Elaboration), 2023-02-10-af-augustine
+  (Elaboration, the Earth itself changing to force humanity awake).
+  Adjacencies: 2016-12-07-af-andrew (prophecy register),
+  2019-01-28-af-augustine (the limits of specific prophecy; primary home
+  `preparation-to-be-a-rock`). Distinct from `preparation-to-be-a-rock` (the
+  readying of souls) and from `earth-conditions-and-prayer` (the man-made
+  darkness-field acting on the individual soul): this thread is the Earth's
+  own changes and their purpose.
+  2016-09-06-af-mary (Elaboration, what the changes do
+  to people, and the easing of it as a stated divine desire: God "desires
+  that his emissaries of Love will help ease the fears and the confusion
+  that will ensue from these changes"). Unusually explicit that the Hand
+  is God's and the intended end is balance, where other members describe
+  the Earth acting on itself.
+- `earth-conditions-and-prayer`: 12 member roles, running from a darkness-field
+  that acts on every soul to the practice by which a soul meets it.
+  Foundation, anchor: 2016-02-29-af-luke, the field generated by the thoughts
+  and actions of mankind, arriving like weather in waves and buffeting every
+  soul, which accounts for feeling close to God one day and burdened the next,
+  with daily prayer neutralizing it both within and around the soul.
+  Elaborations. 2016-05-30-af-augustine, the prayer's effect named as lawful,
+  "a law is enacted by these prayers, when you earnestly long for the Father's
+  Love and so you bring the angels close", with the gathered circle as a
+  constructed respite, so the defence is collective as well as individual;
+  2016-07-04-af-jesus, the expectation of outer calm refused, "You cannot hope
+  to sail your ship upon the calm waters for they do not exist in this world",
+  making the only still water interior; 2016-08-27-af-brother-mandus, the
+  spirit-side view, dark clouds that "not only surround your planet but they
+  reside within your beings"; 2016-09-14-af-augustine, the self-generated
+  strand with consent as the hinge, engagement chosen thought by thought so
+  that the seeker adds to what he is standing in; 2019-02-10-af-augustine, all
+  humanity carrying a measure of darkness because the conditions impinge;
+  2019-03-08-af-andrew, resilience, the grounded soul not toppled by the winds
+  at all; 2023-02-10-af-augustine, desensitization from childhood and the
+  re-sensitization needed to meet it.
+  Witnesses. 2014-07-26-af-augustine, the earliest statement of the field in
+  hand, which gives what meets the conditions as a standing relation rather
+  than a practice, "in this alliance that you have with Heaven, with your
+  Creator, with the Love flowing within your lives much of that darkness... is
+  turned to light and harmony within your lives", and bounds the field to
+  mortal life, "When you pass into Spirit, these situations, this impinging
+  darkness will not beset you and cause you strife. But until that day, you
+  are mortal"; 2015-03-29-af-seretta-kem; 2016-09-03-af-james, the generating
+  side stated actively, humanity as an ongoing contributor rather than an
+  inheritor; 2016-11-07-af-andrew; 2018-06-18-af-matthew.
+  Structural note: the remedy wording is under pressure from three
+  directions, none of them a prayer practice. The registry line says daily
+  prayer neutralizes the conditions, but 2016-08-27-af-brother-mandus widens
+  the remedy to love in ordinary contact and admits natural love as
+  sufficient, 2016-11-28-af-goldie widens it again to a tonic of joy, and
+  2014-07-26-af-augustine makes it the standing alliance itself. Settle the
+  registry wording once at build rather than thread by thread.
+  Fences. Against `conditions-of-a-people`, written in full from that thread's
+  side: this field is general, generated by all mankind, acting on every soul
+  everywhere; that one is particular, laid down by one people's history and
+  carried by a place. Against `prayer-changes-world-conditions`: that thread
+  sends prayer outward to change the world and other people, while this one is
+  defensive, prayer meeting a field that presses inward. Against
+  `earth-changes`: that thread is the planet. Against `soul-expiation`: that is
+  inherited darkness carried by an individual soul and cleansed out of a
+  person.
+  What is awaited: a second message stating that the field stops at death,
+  which would promote 2014-07-26-af-augustine to a member and change the
+  thread's shape, since a darkness-field bounded to earthly life makes the
+  daily prayer a defence for the duration of a passage rather than against a
+  permanent condition of souls. Watch equally for the converse, any message
+  describing the world's conditions reaching souls in spirit, which would
+  close the question the other way and faster.
+
 - `fear-of-full-immersion`, (minted 2026-08-06 per the pen's own condition,
   the answering message arriving thirteen days after the Foundation in the
   same travelling circle and the same water image): 2016-08-15-af-alec-gaunt
@@ -484,7 +420,7 @@ as they are processed or back-searched in full.
   of the obstacle it names. Either two obstacles are being described, or
   believing yourself unloved is distinct from believing yourself unworthy.
   Both passages are worth quoting when this is settled.
-  Added 2026-08-30: 2016-09-04-af-john-the-
+  2016-09-04-af-john-the-
   beloved (Elaboration, the fear caught at the point of turning away and
   named as fear of the change itself, "They are fearful, fearful of
   change", which places it after the first reception where the Foundation
@@ -529,188 +465,25 @@ as they are processed or back-searched in full.
   witness. Cross-reference: the same clause is a fifth instance for the
   `unlimited-reception` pen candidate, which asked to be told when a fifth
   appeared.
-- `simplicity-of-the-path`, (minted 2026-08-06 with scope widened to path
-  and ministry under the argument-not-image ruling): 2016-04-17-af-
-  francis-of-assisi (Foundation, presumptive anchor: the developed statement
-  with first-person Testimony), 2016-08-26-af-brother-mandus (Elaboration:
-  the ministry instantiation with the reason and the failure mode).
-  Witnesses: 2016-08-28-af-faith-nyquist (the path-and-life assertion with
-  its consequence), 2016-08-26-af-augustine (the assertion in brief).
-  Added 2026-08-30: witnesses 2016-11-26-af-andrew ("It is so simple, my
-  beloveds, so simple", with the manner named as innocence, simplicity and
-  grace), 2016-11-27-af-james-reid (complication located in the seeker's
-  own accumulated spiritual information and judged from the far side of
-  death, which would widen the scope a third time if promoted) and
-  2016-11-28-af-goldie (joy named as the thing doing the simplifying).
-  Sighting 2016-11-27-af-augustine, where the word carries its ordinary
-  sense.
-  Added 2026-08-30, three witnesses:
-  2016-09-04-af-augustine (argument itself forbidden rather than
-  complexity, "Do not argue with others... Do not express contrary
-  opinions, but be sure in the love"), 2016-09-07-af-confucius
-  (complication located in the seeker's own head, "Do not clutter your
-  minds with speculation and doubt and fear").
-  PROMOTED 2026-08-30 by curator ruling: 2016-09-09-af-andrew moves from
-  witness to **Elaboration**. It is the chain's claim argued rather than
-  asserted, and it adds the mechanism no other member states, that faith
-  itself removes the appetite for analysis: "The world is a complex place
-  filled with many complex ideas. The truth is not complicated; the truth is
-  simple... when one is truly of faith there is no great desire to analyze,
-  merely to act in accordance to the knowing of the soul." Every other member
-  says the path is simple or shows a ministry being simple; this one says why
-  a person stops complicating it. The chain now runs Foundation, ministry
-  instantiation, mechanism.
-- `portals`, (minted 2026-08-06 at a dedicated session reading the 2018 and
-  2019 doctrine texts against the Blackpool cluster): 2019-01-26-af-
-  seretta-kem (Foundation, presumptive anchor: the doctrine complete, the
-  conferral law, composition, maintenance, ignition by Jesus, proliferation,
-  the temporary clause), 2018-11-21-af-james (Elaboration: the mechanics,
-  the bridge built from both ends, anchoring by sustained presence; the
-  collaborative language resolves against the conferral law as division of
-  labor). ALTERNATIVE SHAPE at build: James as Foundation, the first
-  dedicated teaching, with Seretta Kem as Capstone, its self-described
-  summary. Further members: 2016-08-25-af-brother-mandus (Elaboration, the
-  standing portal in practice), 2016-08-27-af-jesus (Elaboration, the
-  origin account, in the igniter's own voice per the Foundation's ignition
-  clause), 2019-04-06-af-yogananda (Objection-removed, the boundary:
-  communication does not require a portal). Witnesses: 2016-03-25-af-
-  augustine (loose first use), 2016-05-09-af-seretta-kem (the circle as
-  portal), 2016-07-25-af-seretta-kem (a temporary portal per the
-  Foundation's clause), 2016-08-26-af-brother-mandus (maintenance),
-  2016-08-26-af-jesus (replication and the precondition),
-  2016-08-28-af-faith-nyquist (the attractive function, a facet the
-  Foundation does not carry; promotable if a second instance appears),
-  2016-08-29-af-faith-nyquist (visions as the epistemology),
-  2019-02-01-af-confucius (usage). Place-attachment resolved: conferrable
-  wherever committed souls pray, temporary included; the Frankfurt silence
-  is consistent.
-  Added 2026-08-30: witness 2016-11-27-af-confucius, the praying circle
-  described as forming a portal, a second instance of the looser 2016
-  usage alongside 2016-05-09-af-seretta-kem, and covered by the division
-  of labor already recorded here.
-  Added 2026-08-30, a negative finding worth keeping: across the
-  2016-09 messages, fifteen messages produced one marginal sighting
-  (2016-09-03-af-james, "bring further Light to this place", recorded at
-  the lowest confidence and arguably not a sighting at all). The ten
-  Frankfurt messages produced almost nothing, which given how dense the
-  immediately preceding Blackpool material was looks like a property of
-  that gathering rather than of the reading. 2016-09-10-af-andrew is
-  logged as an explicit negative with the distinction stated: portals
-  attach to places and are conferred, whereas a network of Light joins
-  people and is joined by praying.
-- `the-fall`, (minted 2026-08-13): 2016-05-29-af-aman (Foundation, anchor:
-  the first-person account from the soul who refused the gift, with the
-  original state described in detail, the refusal named, "we were so
-  enamoured with our own beings that such a gift seemed unnecessary", the
-  first sin identified as suspicion rather than disobedience, and his own
-  verdict on the choice, "this choice was almost a forgone conclusion as God
-  gifted all with free will") and 2016-03-31-af-judas (Foundation section,
-  the same refusal from outside, supplying the arc the thread traces: the
-  Gift offered, declined, withdrawn, and restored through Jesus). The anchor
-  moved 2026-08-13; Judas held it before Aman's message was read at full
-  text. TENSION RESOLVED: the entry previously flagged Judas framing the
-  refusal as contentment and Aman as suspicion. Aman's full text carries both
-  and orders them, contentment first and suspicion arising out of it, "we
-  were so enamoured with our own beings that such a gift seemed unnecessary
-  and we felt the first inkling of our human nature. We felt suspicion."
-  Neither was a description-level artefact. Pairs with
-  `reincarnation-progression`, which holds Aman's incarnation Foundation
-  (2015-10-26-af-aman, not yet read in full; check whether it also covers the
-  fall before the anchor is settled for good).
-  Added 2026-08-30: witness 2016-09-02-af-jesus, the reopening stated in
-  the first person and extended beyond mankind, "in my discovery opened
-  the doors to its existence amongst mankind and all spirits", which adds
-  a reach the chain does not otherwise carry. The 2026-08-07 batch 11
-  draft filed this as a pen sighting and said it would belong in the
-  roster if the candidate minted with 2016-03-31-af-judas as Foundation,
-  which is what happened on 2026-08-13.
-<!--
-  Two accounts of the same event, from different spirits, both stated as
-  origins, and this is the thread's open structural question. 2016-03-31-af-
-  judas: the Gift was refused because the first souls were content, "the
-  happiness of those original beings was great and full in their existence as
-  it was." 2015-06-15-af-joseph-smith: "The source of the great fall of
-  mankind is to be powerful, to not acknowledge the power of God." Contentment
-  and ambition are not the same diagnosis. They may be sequential, contentment
-  refusing the offer and ambition characterising what followed, but nothing yet
-  in hand says so. Hold both at build rather than resolving, and note that a
-  message reconciling them would be a significant addition to the thread.
-  (Moved here 2026-08-30 from the holding pen's trailing notes, where it had
-  been left when the thread minted.)
--->
-
-- `pentecost`, (minted 2026-08-13): 2019-02-15-af-matthew (Testimony, the
-  eyewitness account and the teaching drawn from it). The Foundation is
-  identified but not yet logged: 2017-05-11-af-jesus, which frames the
-  conditions doctrinally and asks whether the hearers' longing is deep
-  enough; log it when the message is processed and the section head is in
-  place. Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual as a
-  matter of yearning intensity), 2016-08-31-af-martin-luther (the earliest
-  in hand: the readiness conditions as a checklist, and the claim that a
-  gathering can produce it). Overlaps `incremental-journey` and
-  `soul-expiation`; this thread is the awakening-modes question.
-- `soul-purpose-emergence`, (minted 2026-08-13): 2019-01-29-af-augustine
-  (Foundation, presumptive anchor: the purpose entrusted, the invitation
-  free will may decline, the gravitation rather than the revelation) and
-  2015-08-17-af-peter (Foundation-section member, confirmed at full text
-  2026-08-30: the purpose embedded and fitted to the soul's own gifts, the
-  inner strife of ignoring it, the clarity that arrives as Divine Love
-  enlivens the soul). Elaborations:
-  2016-03-29-af-james (the gifts inherent in the soul lit up by the Love),
-  2019-02-03-af-andrew (the companion restatement four days after the
-  Foundation), 2019-02-21-af-elijah (the role designated in advance,
-  opened out through reception). Witnesses: 2015-09-21-af-mary,
-  2019-04-07-af-augustine, 2016-06-27-af-faith-nyquist. Distinct from
-  `purpose-of-life` (life's general meaning) and from
-  `free-will-and-gods-plan` (whether free will and God's plan conflict).
-  Added 2026-08-30: witness 2016-11-06-af-jesus, which ties the emerging
-  of purpose to the Love's own work ("As the Love within builds and
-  cleanses and ignites your great souls, you will see more clearly") and
-  makes the gifts collective as well as individual, "in combination will
-  make you a powerful teacher of these truths." Held at witness because
-  2016-03-29-af-james already carries the gifts lit up by the Love.
-  Added 2026-08-30, five witnesses from one
-  gathering: 2016-09-02-af-confucius (the unique-expression premise
-  asserted), 2016-09-03-af-james ("You will know what to do as your souls
-  grow in this Love... what is necessary and required will be obvious as
-  you look at the world through the eyes of your souls"), 2016-09-06-af-
-  joseph ("The understandings that God has placed within your souls will
-  emerge into your consciousness and be your guiding grace"),
-  2016-09-06-af-mary (the knowing arriving through a passage of guided
-  change) and 2016-09-07-af-confucius (the gradual flowering, with the
-  Love as the agent). CURATOR RULING 2026-08-30: the 2026-08-07 draft
-  asked whether these earlier statements bear on the Foundation choice;
-  they do not, and 2019-01-29-af-augustine stands. Two reasons recorded so
-  the question is not reopened: each of the five states one step of the
-  argument in passing inside a message about something else, where the
-  Foundation carries the whole shape; and the embedded-purpose claim, the
-  one thing 2016-09-06-af-joseph states strongly, is already carried
-  earlier still by 2015-08-17-af-peter in the Foundation section.
-  Peter confirmed at full text 2026-08-30, and the Foundation section is
-  now settled. He carries the entrusting step with its reason attached,
-  "each task is unique as is each soul present here... especially
-  formulated to suit your specific gifts and abilities and personality.
-  This is the wonderment of God's Creation, the harmony of God's Creation,
-  for He does not give you that which is too difficult for you to
-  fulfill"; he carries the negative case no other member states, "you
-  cannot ignore this... it will bring inner strife. For in ignoring your
-  purpose, you are denying a part of yourself"; and he carries the mind
-  subordinated at the end, "clarity and surety, so powerful that even your
-  minds will not contradict what you know within your souls."
-  Two things the full text corrects, and both are why he does not take the
-  anchor. He does not carry the free-will step at all: where the anchor has
-  an invitation free will may decline, Peter has incapacity, "for many in
-  this world this purpose will never be revealed for they are not capable
-  of understanding what it is that lay deep within them." And one clause
-  runs against the thread's no-single-revelation step, "for some of you,
-  the awareness of this purpose will come swiftly", which admits the sudden
-  mode the argument as written excludes. Two facets he adds that the
-  argument does not yet name: prayer as the active instrument of discovery,
-  "to put a prayer to your Heavenly Father, to know what you are meant to
-  do in this world", where every other member has the purpose surfacing
-  without being asked for; and the purpose as directed outward, a task
-  "to work on behalf of mankind", where the thread otherwise treats it as
-  self-realisation.
+- `free-will-and-self-responsibility`, (minted 2026-07-11 per the pen's own
+  standing instruction, on the arrival of the second confirming message)
+  witnesses in hand: 2019-02-22-af-augustine (Foundation, presumptive anchor:
+  the full argument and the named law, "There is a law that says you must be
+  responsible for yourself"), 2016-04-04-af-augustine (Elaboration: the
+  corollary, those who "stubbornly hold on to what they carry" where healing
+  is offered are choosing, and the servant carries no responsibility for
+  their choice, "for each soul is responsible for what they choose, just as
+  you are responsible for what you choose"). Distinct from
+  `free-will-and-gods-plan` (God's orchestration through willing souls);
+  overlaps `soul-expiation` and `mind-vs-soul` at a search level.
+  2016-09-09-af-andrew (Elaboration, the lag between
+  what the Love has already changed and what the seeker must still change
+  by hand: "the last vestiges of such conditions remain within your
+  material mind... it is your responsibility to change those patterns of
+  thinking, those old habits, to catch up with the changes within you").
+  The Foundation has a mind actively sustaining the problem so the healing
+  waits; this has the soul already changed and the mind merely behind,
+  which makes the residue a maintenance task rather than an obstruction.
 - `guidance-as-seed`, (minted 2026-08-30 at the curator's direction, on the
   arrival of a second witness at 2016-09-02): 2016-02-02-af-jesus
   (Foundation, anchor: God's Will comes "not as a dramatic sign but as a seed
@@ -728,6 +501,26 @@ as they are processed or back-searched in full.
   Distinct from `divine-love-mediumship`, which concerns how a message crosses
   from spirit into a mortal mind; this concerns how God's own guidance surfaces
   inside a soul.
+- `incremental-journey`, witnesses in hand:
+  2015-03-23-af-john-the-beloved ("each step of the gradual awakening is
+  swift in the measure of eternity"), 2015-03-28-af-augustine (the blessing
+  of Divine Love is incremental, each prayer brings the soul closer),
+  2015-05-03-af-confucius (Foundation, presumptive anchor: growth advances
+  in leaps, then trickles, impeded by world and self yet lifted by God),
+  2019-04-04-af-matthew (Elaboration: the oscillation explained by the
+  mind's fear-driven retreat to the familiar, each forward effort
+  reinforcing truth). Overlaps `pentecost` (sudden vs gradual as the
+  awakening-modes question) and `soul-expiation`; this thread is the
+  why-increments question.
+  Witnesses 2016-10-26-af-augustine ("It does not come
+  all at once... It comes with each prayer") and 2016-11-21-af-confucius,
+  which itemizes what changes with each increment, consciousness,
+  awakening, understanding and perception.
+  Sightings 2016-09-04-af-
+  john-the-beloved ("Slowly your eyes are opening") and 2016-09-09-af-
+  francis-of-assisi ("with each sip of this Love you will be stronger"),
+  both asserting the increment without the oscillation the members
+  describe.
 - `knowing-your-own-soul`, (minted 2026-08-30 at the curator's direction, on
   confirmation of both anchor candidates at full text): 2016-02-15-af-augustine
   (Foundation, anchor, Core Teaching) and 2018-11-29-af-abdullah-latif
@@ -782,50 +575,241 @@ as they are processed or back-searched in full.
   is knowing what you are, which is why 2016-03-29-af-james sits on both.
   What is awaited: a Capstone. Nothing yet states what a soul that has come to
   know itself then does, or what the knowing feels like once arrived.
-- `conditions-of-a-people`, (minted 2026-08-30 at the curator's direction, from
-  the pattern watch opened at 2016-09-01-af-jesus): 2016-09-09-af-andrew
-  (Foundation, anchor) with 2016-09-01-af-jesus and 2016-09-08-af-jesus as
-  witnesses. Three messages in nine days, two spirits, two countries.
-  The Foundation is the only one of the three that builds the argument rather
-  than observing the condition. Andrew names it, "This is a nation without
-  trust. Every soul, it seems, in this place is fearful and finds it very
-  difficult to trust another... always wary of betrayal, very sensitive to the
-  smallest innuendo"; attributes it to history, "conditions brought about by
-  these pains, of generations of mistrust"; describes its transmission by
-  projection onto whoever is met; and prescribes a response with two halves,
-  do not take the condition on, and do not armour against it, "put away your
-  shield and your armour, to trust in God who will protect you... You will not
-  be hurt. Only when you join into this condition will you feel that way."
-  Witnesses. 2016-09-01-af-jesus, delivered in Germany, opened the watch and
-  states the persistence, "Even your country struggles beyond those conditions
-  created long ago." 2016-09-08-af-jesus, delivered in Belgrade the day before
-  the Foundation, gives the condition its affective content, "The hearts that
-  mend in this country are burdened... They are burdened with such pain and
-  grief, anger and sorrow", and widens the scope past the nation to "this part
-  of the world, beset by strife for so long".
-  Fences, and the first is the one that matters. Against
-  `earth-conditions-and-prayer`: that thread's condition is a darkness-field
-  generated by all mankind that acts like weather on every soul everywhere, met
-  by daily prayer. This one is particular, laid down by one people's own
-  history, carried by a place, with its own signature (mistrust, here) and its
-  own remedy, which is a posture toward the condition rather than a prayer
-  against it. Against `soul-expiation`: that thread is inherited darkness
-  carried by an individual soul, cleansed out of a person; this is carried
-  collectively and is declined rather than cleansed. Against `earth-changes`:
-  that thread is the planet.
-  Naming note: the two candidates carried in the log were
-  `inherited-national-conditions` and `conditions-of-a-people`. The second is
-  used because 2016-09-08-af-jesus reaches past a nation to "this part of the
-  world", so nation is too narrow a container for the claim.
-  What is awaited: an instance outside these two countries, which would show
-  the argument is general rather than a reading of post-conflict Europe; and a
-  message that says what prayer does to such a condition, since the two-halves
-  response the Foundation gives is a posture and not an intercession.
-  Note for the anchor: 2016-09-09-af-andrew already carries a
-  `free-will-and-self-responsibility` Elaboration and three witness roles, so
-  it is a heavily loaded message; the Foundation role here rests on the
-  opening passage rather than on the message as a whole.
-
+- `mind-vs-soul`: 43 member roles across 40 messages, running from a
+  definition of the two minds to their ceasing to be two.
+  Foundation, anchor: 2015-10-12-af-augustine, a teaching given to answer a
+  question put to the circle about the difference between the two minds, and
+  the one message in the thread that defines the distinction rather than
+  applying it; it states the incapacity as a limit in kind, not degree.
+  The Elaboration section is too large to read as one chronological run and
+  should be built in seven groups, chronological within each; the groups
+  subdivide that one role section and do not add a structural level.
+  What the mind is. 2016-01-24-af-augustine, clutter, fear and unworthiness
+  obscuring the soul's desire; 2016-02-15-af-augustine, the mind revered and
+  nurtured while the soul lies cloistered and encrusted; 2016-05-16-af-simon,
+  the obstacle placed outside the person as deliberate informational
+  overload; 2016-07-18-af-martin-luther, the durability axis, mental
+  constructions as a shadow of truth; 2016-08-25-af-matthew, what the mind is
+  made of rather than what it does wrong; 2016-08-27-af-brother-mandus, the
+  soul defined against a materialist account the circle had just heard;
+  2018-12-02-af-augustine, the scientific-materialist framework as unstable
+  and open to manipulation.
+  Governance. 2016-03-10-af-confucius, the mind's powers exerted without
+  love; 2016-08-19-af-andrew, the failure as governance rather than
+  perception; 2016-09-05-af-andrew, the conflict distributed across a
+  population, "most waver from one to the other", with the order of governance
+  attached, "your lives are governed by your soul and your soul is governed by
+  God"; 2016-10-29-af-andrew, why the mind ends up in charge, which is that
+  the soul is left untended, and the argument then run at the scale of the
+  whole world; 2019-02-04-af-jesus, the hierarchy stated as something to be
+  taught to others.
+  How the soul knows. 2016-03-27-af-seretta-kem, the wordless truth filtered
+  and distorted as it passes into the material mind; 2017-08-21-af-matthew,
+  soul-knowing arriving as feeling because the whole soul is engaged in it;
+  2018-03-02-af-andrew, impressions coloured by the receiver's own condition;
+  2019-01-31-af-yogananda, the soul knowing truth where the mind perpetuates
+  error; 2019-02-01-af-josephus, the faculties experienced rather than
+  understood; 2019-02-18-af-augustine, turned toward perceiving the angels.
+  The distinction applied. 2015-10-26-af-faith-nyquist, belief assigned to
+  the mind and judgment of belief set aside on that basis;
+  2015-12-14-af-augustine, knowing God's Will; 2016-01-04-af-seretta-kem,
+  motivation and intention behind service; 2016-03-10-af-augustine, practical
+  decision-making; 2016-03-16-af-jesus, greeting the soul beneath the
+  difference; 2016-03-17-af-alec-gaunt, soul-flow against mind-structure;
+  2016-03-28-af-joseph, complication against simplicity.
+  Reception. 2016-04-02-af-jesus, the migration doctrine, consciousness
+  moving bit by bit to soul awareness; 2019-01-31-af-augustine, the mind
+  restricting the inflow while the soul receives on its own accord;
+  2019-02-05-af-keea-atta-kem, years of mental living dulling sensitivity to
+  a gift known beyond the mind; 2023-02-10-af-augustine, the surface mind as
+  a barrier of control, and the clearing of the channel between the two.
+  The two held at once. 2016-05-02-af-andrew, mental resolution counterfeits
+  soul resolution, the mind settled while the soul is not, and
+  2016-09-14-af-augustine, the divergence read as cost, the two faculties
+  holding opposite conditions at the same time. The same asymmetry from
+  opposite ends; they belong adjacent at build.
+  Toward integration, which leads into the Chrysalis section.
+  2018-10-09-af-seretta-kem, the reversal, the newly awakened soul as the
+  weaker party needing the mind's accumulated strength;
+  2019-03-03-mc-keea-atta-kem, befriending the mind rather than subduing it;
+  2019-04-04-af-matthew, the resistance-and-retreat dynamic, which is why
+  integration is slow; 2019-04-07-af-augustine, the mind's demand to know
+  everything first, with conformity as its ally.
+  Objections removed. 2018-12-17-af-mary, the counterfeit, the mind's inner
+  awareness mistaken for the soul's knowing, which with the Foundation in
+  place now reads as guarding a distinction already drawn rather than as
+  free-standing. 2017-08-21-af-matthew forbids a standard experience, which
+  the thread's own doctrine invites, "There is no formula for this. There is
+  no standard." 2018-06-18-af-matthew answers the fear that the shift is a
+  kind of madness, conceding the other side of the case rather than
+  dismissing it.
+  Reframe. 2018-05-17-af-augustine corrects the misreading that the soul is
+  to replace the mind: soul predominance in harmonious intermingling, the
+  yellow and the red making an orange. Clear this before the Chrysalis
+  section, which does not read correctly without it.
+  Chrysalis, anchor: 2018-10-09-af-seretta-kem, the two minds merging until
+  "there will be no sense of separation," with oneness denied the status of
+  an ending, "even this is not the end but merely the beginning." Section
+  member: 2018-06-18-af-matthew, which turns the conflict into an expedition
+  ("scientists of the soul") and promises the new perception will hold rather
+  than pass; it precedes Seretta Kem by date, so the section reads as
+  expedition then arrival.
+  Testimony. 2016-11-27-af-james-reid, the claim verified retrospectively by
+  a man who spent his Earth life on the mind's side of it, with a usable test
+  for any new idea, "how does this increase the love in my life."
+  Double roles on separable passages: 2017-08-21-af-matthew,
+  2018-06-18-af-matthew, 2018-10-09-af-seretta-kem.
+  Witnesses. What the mind is: 2016-07-11-af-confucius, the durability claim,
+  and 2016-10-16-af-augustine, the provenance of the mind's contents traced
+  to other people's ideas arriving through education, with the consequence
+  that inaccurate perception yields inaccurate choice. Governance:
+  2016-10-24-af-confucius, the agency axis restated, and
+  2019-01-21-af-augustine, the succession stated as humanity's next step, the
+  same claim as 2016-08-31-af-martin-luther. How the soul knows:
+  2016-09-02-af-augustine, the ineffability claim, and
+  2016-10-26-af-augustine, the soul as the image of God offered as the reason
+  the recognition faculty sits there. Reception:
+  2016-09-04-af-john-the-beloved, what the Love does to perception, with the
+  cost named. The two held at once: 2016-09-09-af-andrew, the material mind
+  as where the vestiges persist after the soul has changed, and
+  2018-05-12-af-luke, already flagged promotion watch, which runs the
+  counterfeit the other way, the soul healed while the mind still remembers.
+  That pair with 2016-05-02-af-andrew gives the full asymmetry, and if a
+  message ever builds it the three read together would make a strong section.
+  The rest are sightings, search-level adjacencies, and the anti-double-count
+  records that sit with their own member lines.
+  Structural note: no Capstone, and the thread does not appear to want one,
+  since the Chrysalis section closes it by dissolving the conflict it is
+  named for. Confirm at build rather than treating the absence as a gap,
+  since the Chains Index health line will otherwise keep reporting it as
+  incomplete.
+- `opposition-to-the-light-worker`, (minted 2026-08-30 at the curator's
+  direction, widening and renaming the `fortress-of-light` pen candidate).
+  Renamed because "fortress" is the image of one defence out of four and the
+  2026-08-06 ruling says the argument governs, not the image.
+  Foundation, presumptive anchor: 2016-06-04-af-confucius, the candidate's
+  original statement, organized opposition and the daily fortress of prayer
+  built against it, with the posture qualified, "there are many forces that
+  conspire in many different ways, on many different levels to draw you out of
+  the Light... not in a way of fear... but in a way that you reinforce the
+  Light within yourselves."
+  Elaborations. 2016-09-14-af-augustine relocates the cause inside the seeker:
+  "when you allow inner reactivity, strong negative emotions to flow freely
+  within you, you do indeed attract negative energies and forces to you, forces
+  which are all too happy to reinforce these conditions. No, you are not
+  immune, my beloveds", with discipline of thought and prayer as the defence.
+  2016-09-15-af-augustine supplies what the thread most needed, a reason why
+  opposition comes at all and a law governing it: the Light itself provokes,
+  and both responses scale together, "the power of the Light within your souls
+  causes a response and a reaction in the world, and as your Light grows so
+  will the reaction intensify", with the hostile half described, "a desire to
+  snuff out your Light, a reaction of suspicion, of fear and anger from those
+  who are not close to God", and the defence given as non-reaction, "Do not
+  react in the way of anger to anger, judgement to judgement, fear to fear."
+  That scaling law is the strongest reason the wide reading is right: it makes
+  hostility a sign of growth rather than of error, which the narrow targeting
+  version cannot say.
+  Witnesses. 2016-09-11-af-francis-of-assisi and 2016-09-12-af-jerome, both
+  offering their own rejection as precedent to the same man, Francis shunned
+  and thought not right in his mind, Jerome martyred and understanding the lone
+  man walking the streets with a message of truth, both converting it into a
+  prediction, "still the arrows of criticism and scorn will come your way".
+  2016-09-03-af-mary, protection asked for a third party, "ask for the cloak of
+  protection to surround her and those who are close to her", where the subject
+  is exposed by her own delving rather than targeted.
+  Two consequences of the widening, both recorded so they are not rediscovered.
+  The 2016-09-12-af-jerome entry currently reads "`fortress-of-light` checked
+  and not a match", on the ground that the scorn there is human and undirected.
+  Under the wide argument human undirected scorn is exactly in scope, so that
+  line is now wrong and must be replaced. And the `the-scorned-messenger`
+  candidate proposed on 2026-08-30 is absorbed by this thread rather than
+  penned separately, since the servant's exposure to scorn is one of the three
+  directions opposition comes from.
+  Fences. Against `sensitive-souls-redemptive`, whose claim is that the
+  indwelling Love is passive protection and sensitivity a strength: this thread
+  is about what opposes and how it is met, not about who the sensitive soul is.
+  Against `judgment-to-love`, which is about what judgement does to the soul
+  that judges and to the soul that consents: 2016-09-15-af-augustine holds
+  roles in both and they rest on different halves of the message.
+  What is awaited: an instance from outside this one travelling circle, since
+  three of the five are Augustine or addressed to the same man.
+- `pentecost`: 2019-02-15-af-matthew (Testimony, the
+  eyewitness account and the teaching drawn from it). The Foundation is
+  identified but not yet logged: 2017-05-11-af-jesus, which frames the
+  conditions doctrinally and asks whether the hearers' longing is deep
+  enough; log it when the message is processed and the section head is in
+  place. Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual as a
+  matter of yearning intensity), 2016-08-31-af-martin-luther (the earliest
+  in hand: the readiness conditions as a checklist, and the claim that a
+  gathering can produce it). Overlaps `incremental-journey` and
+  `soul-expiation`; this thread is the awakening-modes question.
+- `portals`, (minted 2026-08-06 at a dedicated session reading the 2018 and
+  2019 doctrine texts against the Blackpool cluster): 2019-01-26-af-
+  seretta-kem (Foundation, presumptive anchor: the doctrine complete, the
+  conferral law, composition, maintenance, ignition by Jesus, proliferation,
+  the temporary clause), 2018-11-21-af-james (Elaboration: the mechanics,
+  the bridge built from both ends, anchoring by sustained presence; the
+  collaborative language resolves against the conferral law as division of
+  labor). ALTERNATIVE SHAPE at build: James as Foundation, the first
+  dedicated teaching, with Seretta Kem as Capstone, its self-described
+  summary. Further members: 2016-08-25-af-brother-mandus (Elaboration, the
+  standing portal in practice), 2016-08-27-af-jesus (Elaboration, the
+  origin account, in the igniter's own voice per the Foundation's ignition
+  clause), 2019-04-06-af-yogananda (Objection-removed, the boundary:
+  communication does not require a portal). Witnesses: 2016-03-25-af-
+  augustine (loose first use), 2016-05-09-af-seretta-kem (the circle as
+  portal), 2016-07-25-af-seretta-kem (a temporary portal per the
+  Foundation's clause), 2016-08-26-af-brother-mandus (maintenance),
+  2016-08-26-af-jesus (replication and the precondition),
+  2016-08-28-af-faith-nyquist (the attractive function, a facet the
+  Foundation does not carry; promotable if a second instance appears),
+  2016-08-29-af-faith-nyquist (visions as the epistemology),
+  2019-02-01-af-confucius (usage). Place-attachment resolved: conferrable
+  wherever committed souls pray, temporary included; the Frankfurt silence
+  is consistent.
+  Witness 2016-11-27-af-confucius, the praying circle
+  described as forming a portal, a second instance of the looser 2016
+  usage alongside 2016-05-09-af-seretta-kem, and covered by the division
+  of labor already recorded here.
+  A negative finding worth keeping: across the
+  2016-09 messages, fifteen messages produced one marginal sighting
+  (2016-09-03-af-james, "bring further Light to this place", recorded at
+  the lowest confidence and arguably not a sighting at all). The ten
+  Frankfurt messages produced almost nothing, which given how dense the
+  immediately preceding Blackpool material was looks like a property of
+  that gathering rather than of the reading. 2016-09-10-af-andrew is
+  logged as an explicit negative with the distinction stated: portals
+  attach to places and are conferred, whereas a network of Light joins
+  people and is joined by praying.
+- `prayer-changes-world-conditions`, (minted 2026-08-03 per the pen's own
+  condition, on the arrival of the mechanism): 2016-07-25-af-seretta-kem
+  (Foundation, presumptive anchor: vessel, overflow, angelic division and
+  direction, exponential multiplication, the intended end named). Witnesses:
+  2019-02-06-af-francis-of-assisi, 2015-11-28-af-faith-nyquist (dual-logged
+  as the prayer-soul-longing Foundation), 2018-11-29-af-abdullah-latif,
+  2015-12-21-af-peter, 2016-05-09-af-seretta-kem (the sketch, eleven weeks
+  before the Foundation, same spirit), 2016-07-27-af-confucius (two days
+  after). Added 2026-08-06: 2016-09-01-af-seretta-kem (Elaboration, the
+  upstream harmony condition and the reciprocal benefit, carrying the
+  thread's own limit, that the substantial portion of Love is given in
+  private prayer; weigh against the registry wording at build) and witness
+  2016-08-26-af-jesus.
+  Witness 2016-11-27-af-james-reid-2, the claim seen
+  from the other end, a spirit-side company gathered around the praying
+  circle and touched by it, which sits nearer the lattice material than
+  the thread's outward mechanism. Sightings 2016-11-27-af-confucius and
+  2016-11-28-af-luke, both asserting the outward effect without mechanism.
+  2016-09-03-af-james
+  (Elaboration, why mankind is the thing prayed for, which no member
+  establishes: "almost all souls residing in this place have a great
+  lacking within them", with the deprivation universal rather than
+  confined to the visibly suffering). Witness 2016-09-03-af-mary,
+  intercession aimed at one named person with protection rather than
+  awakening as its object, which raises a scope question left undecided:
+  if single-target protective intercession belongs, the registry wording
+  needs widening. Sighting 2016-09-04-af-augustine, the same overflow
+  image with the direction reversed, blessing drawn into the room rather
+  than discharged from it.
 - `prayer-soul-longing` (not a pen mint; recorded here because a curator
   ruling gave the thread a member and it had no roster entry to hold it).
   PROMOTED 2026-08-30: 2016-09-04-af-john-the-beloved moves from witness to
@@ -846,6 +830,238 @@ as they are processed or back-searched in full.
   can hear the second as undoing the first. If they are separated, the floor
   is the part that is this thread's own claim.
 
+- `provision-for-service`: 2016-04-04-af-augustine
+  (Foundation, presumptive anchor) and 2016-08-19-af-andrew (Elaboration,
+  why the barriers work). Witnesses: 2015-08-20-af-faith-nyquist,
+  2015-11-09-af-faith-nyquist, 2016-01-08-af-jesus,
+  2016-08-25-af-confucius. NOTE: shares its 2016-08-19 hinge passage with
+  the `channel-of-love-in-the-material` pen candidate; two arguments, one
+  hinge; see the pen. Added 2026-08-06: 2016-08-29-af-faith-nyquist
+  (Elaboration, the no-sacrifice claim, the thread's first institutional
+  setting).
+  Witness 2016-11-27-af-confucius, which answers worry
+  not with provision but by shrinking the human requirement to a closed
+  list, "All that we require of you is for you to come together in harmony
+  and prayer", with provision itself never mentioned. Sighting
+  2016-11-06-af-jesus, doors opened with nothing said about provision.
+- `self-love-foundation`, minted on the witness roster; anchor awaited (a
+  message making self-love its own central argument; Luke is the likeliest
+  voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
+  2016-03-10-af-confucius, 2016-03-11-af-luke (strongest),
+  2016-03-12-af-john-the-beloved, 2016-03-16-af-seretta-kem,
+  2018-06-24-af-luke, 2019-04-05-af-augustine (Elaboration, logged:
+  self-acceptance stated as the logic that makes judgment of others
+  impossible; a possible anchor, decide at build).
+  Witness 2016-11-07-af-andrew, which meets the thread
+  from the receiving side rather than the giving side, "All that inhibits
+  this blessing from flowing into yourselves in great abundance is that
+  doubt within you, that you are loved." Whether the thread's argument
+  admits the receiving side is an open question; if it does, this is
+  substantial and bears on the anchor still awaited.
+- `sensitive-souls-redemptive`, 2016-03-07-af-augustine (Foundation, anchor)
+  and 2017-01-16-af-keea-atta-kem (Objection-removed: sensitivity is a sign
+  of growth, not vulnerability). Both logged.
+  Witness 2016-09-09-af-andrew, which reaches this
+  chain's conclusion by the opposite instrument. Its registry line has the
+  Love within the growing soul as the protection; Andrew has the armour as
+  the danger, "put away your shield and your armour, to trust in God who
+  will protect you... You will not be hurt", and names self-protection as
+  the thing that makes a person vulnerable. Recorded rather than proposed
+  as a member because the chain's subject is the sensitive soul's
+  redemptive function, which the message does not touch.
+- `simplicity-of-the-path`, (minted 2026-08-06 with scope widened to path
+  and ministry under the argument-not-image ruling): 2016-04-17-af-
+  francis-of-assisi (Foundation, presumptive anchor: the developed statement
+  with first-person Testimony), 2016-08-26-af-brother-mandus (Elaboration:
+  the ministry instantiation with the reason and the failure mode).
+  Witnesses: 2016-08-28-af-faith-nyquist (the path-and-life assertion with
+  its consequence), 2016-08-26-af-augustine (the assertion in brief).
+  Witnesses 2016-11-26-af-andrew ("It is so simple, my
+  beloveds, so simple", with the manner named as innocence, simplicity and
+  grace), 2016-11-27-af-james-reid (complication located in the seeker's
+  own accumulated spiritual information and judged from the far side of
+  death, which would widen the scope a third time if promoted) and
+  2016-11-28-af-goldie (joy named as the thing doing the simplifying).
+  Sighting 2016-11-27-af-augustine, where the word carries its ordinary
+  sense.
+  Three witnesses:
+  2016-09-04-af-augustine (argument itself forbidden rather than
+  complexity, "Do not argue with others... Do not express contrary
+  opinions, but be sure in the love"), 2016-09-07-af-confucius
+  (complication located in the seeker's own head, "Do not clutter your
+  minds with speculation and doubt and fear").
+  PROMOTED 2026-08-30 by curator ruling: 2016-09-09-af-andrew moves from
+  witness to **Elaboration**. It is the chain's claim argued rather than
+  asserted, and it adds the mechanism no other member states, that faith
+  itself removes the appetite for analysis: "The world is a complex place
+  filled with many complex ideas. The truth is not complicated; the truth is
+  simple... when one is truly of faith there is no great desire to analyze,
+  merely to act in accordance to the knowing of the soul." Every other member
+  says the path is simple or shows a ministry being simple; this one says why
+  a person stops complicating it. The chain now runs Foundation, ministry
+  instantiation, mechanism.
+- `soul-purpose-emergence`: 2019-01-29-af-augustine
+  (Foundation, presumptive anchor: the purpose entrusted, the invitation
+  free will may decline, the gravitation rather than the revelation) and
+  2015-08-17-af-peter (Foundation-section member, confirmed at full text
+  2026-08-30: the purpose embedded and fitted to the soul's own gifts, the
+  inner strife of ignoring it, the clarity that arrives as Divine Love
+  enlivens the soul). Elaborations:
+  2016-03-29-af-james (the gifts inherent in the soul lit up by the Love),
+  2019-02-03-af-andrew (the companion restatement four days after the
+  Foundation), 2019-02-21-af-elijah (the role designated in advance,
+  opened out through reception). Witnesses: 2015-09-21-af-mary,
+  2019-04-07-af-augustine, 2016-06-27-af-faith-nyquist. Distinct from
+  `purpose-of-life` (life's general meaning) and from
+  `free-will-and-gods-plan` (whether free will and God's plan conflict).
+  Witness 2016-11-06-af-jesus, which ties the emerging
+  of purpose to the Love's own work ("As the Love within builds and
+  cleanses and ignites your great souls, you will see more clearly") and
+  makes the gifts collective as well as individual, "in combination will
+  make you a powerful teacher of these truths." Held at witness because
+  2016-03-29-af-james already carries the gifts lit up by the Love.
+  Five witnesses from one
+  gathering: 2016-09-02-af-confucius (the unique-expression premise
+  asserted), 2016-09-03-af-james ("You will know what to do as your souls
+  grow in this Love... what is necessary and required will be obvious as
+  you look at the world through the eyes of your souls"), 2016-09-06-af-
+  joseph ("The understandings that God has placed within your souls will
+  emerge into your consciousness and be your guiding grace"),
+  2016-09-06-af-mary (the knowing arriving through a passage of guided
+  change) and 2016-09-07-af-confucius (the gradual flowering, with the
+  Love as the agent). CURATOR RULING 2026-08-30: the 2026-08-07 draft
+  asked whether these earlier statements bear on the Foundation choice;
+  they do not, and 2019-01-29-af-augustine stands. Two reasons recorded so
+  the question is not reopened: each of the five states one step of the
+  argument in passing inside a message about something else, where the
+  Foundation carries the whole shape; and the embedded-purpose claim, the
+  one thing 2016-09-06-af-joseph states strongly, is already carried
+  earlier still by 2015-08-17-af-peter in the Foundation section.
+  Peter confirmed at full text 2026-08-30, and the Foundation section is
+  now settled. He carries the entrusting step with its reason attached,
+  "each task is unique as is each soul present here... especially
+  formulated to suit your specific gifts and abilities and personality.
+  This is the wonderment of God's Creation, the harmony of God's Creation,
+  for He does not give you that which is too difficult for you to
+  fulfill"; he carries the negative case no other member states, "you
+  cannot ignore this... it will bring inner strife. For in ignoring your
+  purpose, you are denying a part of yourself"; and he carries the mind
+  subordinated at the end, "clarity and surety, so powerful that even your
+  minds will not contradict what you know within your souls."
+  Two things the full text corrects, and both are why he does not take the
+  anchor. He does not carry the free-will step at all: where the anchor has
+  an invitation free will may decline, Peter has incapacity, "for many in
+  this world this purpose will never be revealed for they are not capable
+  of understanding what it is that lay deep within them." And one clause
+  runs against the thread's no-single-revelation step, "for some of you,
+  the awareness of this purpose will come swiftly", which admits the sudden
+  mode the argument as written excludes. Two facets he adds that the
+  argument does not yet name: prayer as the active instrument of discovery,
+  "to put a prayer to your Heavenly Father, to know what you are meant to
+  do in this world", where every other member has the purpose surfacing
+  without being asked for; and the purpose as directed outward, a task
+  "to work on behalf of mankind", where the thread otherwise treats it as
+  self-realisation.
+- `spiritual-fellowship`: 2015-03-28-af-augustine
+  (Foundation, anchor: fellowship as protection against falling back, and as
+  a way of seeing, "each has a unique perception and understanding and
+  journey to take and in sharing this with one another, it opens new
+  awarenesses") and 2015-06-15-af-joseph-smith (Elaboration: what makes a
+  fellowship genuine, "this is a true church, a church of Love, a community
+  in fellowship that seeks Light and true understanding", and the failure
+  mode, souls "willing to abdicate their desire to seek truth in a clear way
+  and adopt that which they are told to be truth"). Overlaps
+  `religious-error`, which is about the error institutions accumulate; this
+  thread is about what gathering does for the seeker. Watch for the
+  perception claim specifically: encouragement to gather is everywhere in
+  the archive, but the claim that other souls reveal what one's own cannot
+  is rare and is the thread's distinctive move.
+  Two Elaborations from one day and one circle, which
+  divide the subject cleanly: 2016-11-28-af-luke on what fellowship gives
+  (the exchange stated as a duty running both ways at the moment a circle
+  is formed, and the shared reception of the Love named as what makes
+  sharing possible across real difference) and 2016-11-28-af-moses on what
+  prevents it (judgment, fear and old slights leaving "pockets, several
+  here, several there but not unity", with the invitation to be extended
+  in love and refusal accepted without forcing). Luke is the perception
+  claim this roster asked to be watched for. Testimony is a defensible
+  alternative reading for Moses, on the strength of the paragraph offering
+  his own commission as evidence. If only one is taken, Moses is the
+  stronger addition, since the Foundation already carries the giving side.
+- `the-fall`: three member roles across two messages, tracing the Gift
+  offered, declined, withdrawn, and restored.
+  Foundation, anchor: 2016-05-29-af-aman, the refusal told by the one who
+  made it. The original state is given in physical detail, bodies
+  "perfectly proportioned, lean and fit," minds "keen and clear," souls
+  "untainted with sin," and the refusal is named, "we were so enamoured with
+  our own beings that such a gift seemed unnecessary." The first sin is
+  identified as suspicion rather than disobedience, and it arises out of the
+  contentment rather than beside it, "such a gift seemed unnecessary and we
+  felt the first inkling of our human nature. We felt suspicion." A second
+  passage carries Aman's own verdict, which is the part no other member can
+  supply: he does not excuse the choice, "I have always carried deep regrets
+  about how we chose to turn away from God," accepts its consequences as
+  his, "I cannot condemn those who are immersed in darkness because I sowed
+  the seeds to your fate many years ago," and still reads the refusal as
+  near-inevitable, "this choice was almost a forgone conclusion as God
+  gifted all with free will."
+  Foundation section: 2016-03-31-af-judas, the same refusal from outside,
+  supplying the arc the thread traces, the Gift offered, declined, withdrawn
+  and restored through Jesus, and stating it as a rejection rather than a
+  transgression, with no serpent, no fruit, no curse and no expulsion.
+  Witnesses. 2016-09-02-af-jesus, the reopening stated in the first person
+  and extended past mankind, "in my discovery opened the doors to its
+  existence amongst mankind and all spirits", which adds a reach the thread
+  does not otherwise carry.
+  Structural note: the origin of the fall has two accounts and they are not
+  the same diagnosis. The Foundations attribute the refusal to contentment
+  and the suspicion that grew out of it. The sighting at
+  2015-06-15-af-joseph-smith attributes it to the appetite for power, "The
+  source of the great fall of mankind is to be powerful, to not acknowledge
+  the power of God." Aman offers an ordering that would reconcile them,
+  since the desire for power appears in his account only afterwards, as part
+  of the degeneration, "we chose to follow our own wills ever more deeply
+  into a confused and darkened state." On that reading contentment and
+  suspicion caused the refusal and ambition characterises what the fall
+  produced. The ordering rests on one message and should be held as the
+  likely shape rather than built as settled.
+  What is awaited: a message that states the sequence from contentment to
+  ambition directly, which would settle the structural note. Also a full
+  reading of 2015-10-26-af-aman, which holds the incarnation Foundation for
+  `reincarnation-progression`; if it also covers the fall, the anchor here
+  needs revisiting before it is settled for good.
+
+- `vanguards-of-change`, witnesses in hand:
+  2016-01-08-af-jesus (Foundation, presumptive anchor: the commission
+  itself), 2016-03-06-af-jesus (Elaboration: the release requirement,
+  in this world but not of it), 2016-05-12-af-alec-gaunt (Elaboration:
+  mobility at a moment's notice, the fear objection cleared). FENCE against
+  `preparation-to-be-a-rock`: rock is stability for what comes to you;
+  vanguard is mobility for where you are sent. A message may serve both
+  (2016-05-12-af-alec-gaunt does), but membership here requires the
+  commission-and-mobility argument, not readiness alone. The 2016-01-08
+  `healing-channel` Elaboration should be weighed for demotion to witness
+  at build, as the pen anticipated when holding this candidate. Roster witnesses added
+  2026-08-03: 2016-08-11-af-alec-gaunt (the commission materializing in the
+  present tense) and 2016-08-15-af-alec-gaunt (the release half restated);
+  each asserts one half of the argument without development. Added 2026-08-06:
+  2016-08-27-af-augustine (Elaboration, the release of one's own forward
+  plan, the day as the unit of readiness) and witnesses 2016-08-26-af-jesus
+  (the regathering facet, promotable at build) and 2016-08-29-af-faith-nyquist
+  (commission, release, and mobility asserted together). The August 2016
+  travels are where the commission material concentrates.
+  Witnesses 2016-11-06-af-jesus (the commission with the
+  opened-door promise, no release and no mobility claim), 2016-11-26-af-
+  andrew (the commission lived rather than taught, the circle already
+  travelling) and 2016-11-27-af-augustine (travel promised in the spirit's
+  own voice, with the release named as one of resistance rather than of
+  material burdens).
+  Witness 2016-09-04-af-
+  augustine, the commission stated as a travel programme with the role
+  named, "you come as missionaries", and no release asked for. Sightings
+  2016-09-03-af-james (the doors-opening claim in general form) and
+  2016-09-08-af-jesus (a single resident commissioned in place rather than
+  a group commissioned to mobility).
 - `who-jesus-was`, roster written 2026-08-30 (the thread predates the roster
   convention; this entry gathers its confirmed structure and the development
   pass done at the curator's request).
@@ -938,156 +1154,6 @@ as they are processed or back-searched in full.
   full-text pass over that collection would very likely find more, and given
   how central he is it is worth doing as its own piece of work rather than as
   a by-product of batch cataloguing.
-
-- `opposition-to-the-light-worker`, (minted 2026-08-30 at the curator's
-  direction, widening and renaming the `fortress-of-light` pen candidate).
-  Renamed because "fortress" is the image of one defence out of four and the
-  2026-08-06 ruling says the argument governs, not the image.
-  Foundation, presumptive anchor: 2016-06-04-af-confucius, the candidate's
-  original statement, organized opposition and the daily fortress of prayer
-  built against it, with the posture qualified, "there are many forces that
-  conspire in many different ways, on many different levels to draw you out of
-  the Light... not in a way of fear... but in a way that you reinforce the
-  Light within yourselves."
-  Elaborations. 2016-09-14-af-augustine relocates the cause inside the seeker:
-  "when you allow inner reactivity, strong negative emotions to flow freely
-  within you, you do indeed attract negative energies and forces to you, forces
-  which are all too happy to reinforce these conditions. No, you are not
-  immune, my beloveds", with discipline of thought and prayer as the defence.
-  2016-09-15-af-augustine supplies what the thread most needed, a reason why
-  opposition comes at all and a law governing it: the Light itself provokes,
-  and both responses scale together, "the power of the Light within your souls
-  causes a response and a reaction in the world, and as your Light grows so
-  will the reaction intensify", with the hostile half described, "a desire to
-  snuff out your Light, a reaction of suspicion, of fear and anger from those
-  who are not close to God", and the defence given as non-reaction, "Do not
-  react in the way of anger to anger, judgement to judgement, fear to fear."
-  That scaling law is the strongest reason the wide reading is right: it makes
-  hostility a sign of growth rather than of error, which the narrow targeting
-  version cannot say.
-  Witnesses. 2016-09-11-af-francis-of-assisi and 2016-09-12-af-jerome, both
-  offering their own rejection as precedent to the same man, Francis shunned
-  and thought not right in his mind, Jerome martyred and understanding the lone
-  man walking the streets with a message of truth, both converting it into a
-  prediction, "still the arrows of criticism and scorn will come your way".
-  2016-09-03-af-mary, protection asked for a third party, "ask for the cloak of
-  protection to surround her and those who are close to her", where the subject
-  is exposed by her own delving rather than targeted.
-  Two consequences of the widening, both recorded so they are not rediscovered.
-  The 2016-09-12-af-jerome entry currently reads "`fortress-of-light` checked
-  and not a match", on the ground that the scorn there is human and undirected.
-  Under the wide argument human undirected scorn is exactly in scope, so that
-  line is now wrong and must be replaced. And the `the-scorned-messenger`
-  candidate proposed on 2026-08-30 is absorbed by this thread rather than
-  penned separately, since the servant's exposure to scorn is one of the three
-  directions opposition comes from.
-  Fences. Against `sensitive-souls-redemptive`, whose claim is that the
-  indwelling Love is passive protection and sensitivity a strength: this thread
-  is about what opposes and how it is met, not about who the sensitive soul is.
-  Against `judgment-to-love`, which is about what judgement does to the soul
-  that judges and to the soul that consents: 2016-09-15-af-augustine holds
-  roles in both and they rest on different halves of the message.
-  What is awaited: an instance from outside this one travelling circle, since
-  three of the five are Augustine or addressed to the same man.
-- `armour-of-the-world`, (minted 2026-08-30 at the curator's direction, from
-  the clothing cluster described across 2016-08-28 to 2016-10-24). Six
-  messages, five spirits, in under two months.
-  Foundation, presumptive anchor: 2016-08-28-af-francis-of-assisi, which names
-  the clothing as mental assumptions and as removable, and says why it is worn.
-  Capstone: 2016-10-24-af-confucius, which completes the argument by making it
-  an exchange rather than a removal, "As you shed your cloaks of error and don
-  your cloak of Light you become a clear and effective channel." Every other
-  instance in the cluster is subtractive, clothing taken off so that something
-  can happen; this alone says what is put on instead, which is what turns a
-  repeated figure into an argument with an end.
-  Members between them: 2016-09-09-af-andrew, the armour as defence against a
-  people that cannot trust, "put away your shield and your armour, to trust in
-  God who will protect you"; 2016-09-10-af-augustine, the armour as
-  unworthiness before God, "remove your cloak and your armor and come to God as
-  a child"; 2016-09-12-af-jerome, the armour as accumulated pain named and
-  handed over, "this is my cloak of pain, this is the armor which I don in
-  order to navigate this life and I wish that you would take it all".
-  Witness: 2016-10-15-af-confucius, which carries the water half of the cluster
-  rather than the clothing, "Drink in these living waters. Allow yourselves to
-  be fully immersed."
-  **This thread is minted alongside `fear-of-full-immersion` and does not
-  replace it**, which is a departure from the parallel with
-  `opposition-to-the-light-worker` above and is flagged as such. That candidate
-  was unminted and had one sighting, so renaming it cost nothing. This one is
-  different: `fear-of-full-immersion` is minted, carries a Foundation, a
-  Reframe and an Elaboration, and its argument is about fear, the losses a soul
-  imagines it will suffer, down to identity. Renaming it would strip that
-  argument, which three of its members carry. So the clothing cluster is given
-  its own thread instead, and the fence is what resolves the scope question
-  raised four times: `fear-of-full-immersion` keeps only messages that carry
-  the fear argument, and the image-only messages come here, where the image is
-  the argument. 2016-08-28-af-francis-of-assisi holds a role in both, which the
-  vocabulary permits, and it is the hinge between them.
-  One piece of counter-evidence recorded rather than resolved. The
-  `fear-of-full-immersion` Reframe sets sipping against immersion and makes
-  drinking the half-measure it surpasses, while 2016-10-15-af-confucius uses
-  drinking and immersion together as one invitation. So the water images were
-  not fixed in opposition across this circle's vocabulary. That is an argument
-  for treating the water half as flexible figure rather than doctrine, and it
-  is why 2016-10-15-af-confucius is a witness here and not a member. It is the
-  same shape as the Francis valence question in Open questions, and the two
-  should be settled together.
-- `earth-conditions-and-prayer`: 2016-02-29-af-luke (Foundation, presumptive
-  anchor), the darkness-field generated by the thoughts and actions of
-  mankind, arriving like weather in waves and buffeting every soul, which
-  accounts for feeling close to God one day and burdened the next; daily
-  prayer neutralizes it both within and around the soul.
-  Elaborations. 2016-05-30-af-augustine names the prayer's effect as lawful,
-  "a law is enacted by these prayers, when you earnestly long for the
-  Father's Love and so you bring the angels close", and adds the gathered
-  circle as a constructed respite, so the defence is collective as well as
-  individual. 2016-07-04-af-jesus refuses the expectation of outer calm,
-  "You cannot hope to sail your ship upon the calm waters for they do not
-  exist in this world", making the only still water interior.
-  2016-08-27-af-brother-mandus gives the spirit-side view, dark clouds that
-  "not only surround your planet but they reside within your beings".
-  2016-09-14-af-augustine supplies the self-generated strand with consent as
-  the hinge, engagement chosen thought by thought so that the seeker adds to
-  what he is standing in. 2019-02-10-af-augustine has all humanity carrying a
-  measure of darkness because the conditions impinge. 2019-03-08-af-andrew
-  adds resilience, the grounded soul not toppled by the winds at all.
-  2023-02-10-af-augustine adds desensitization from childhood and the
-  re-sensitization needed to meet it.
-  Witnesses include 2015-03-29-af-seretta-kem, 2016-09-03-af-james (the
-  generating side stated actively, humanity as an ongoing contributor rather
-  than an inheritor), 2016-11-07-af-andrew and 2018-06-18-af-matthew.
-  Added 2026-08-31: witness 2014-07-26-af-augustine, the earliest statement
-  of the field in hand, and it bears on two questions at once. What meets the
-  conditions is given as a standing relation rather than a practice, "in this
-  alliance that you have with Heaven, with your Creator, with the Love
-  flowing within your lives much of that darkness... is turned to light and
-  harmony within your lives." And the field is bounded to mortal life, "When
-  you pass into Spirit, these situations, this impinging darkness will not
-  beset you and cause you strife. But until that day, you are mortal."
-  The remedy wording is the thread's live question, and this witness is the
-  third pressure on it rather than a new one. The spine says daily prayer
-  neutralizes the conditions. Brother Mandus widens the remedy to love in
-  ordinary contact and admits natural love as sufficient, 2016-11-28-af-goldie
-  widens it again to a tonic of joy, and Augustine here makes it the standing
-  alliance itself. Three widenings from three spirits, none of them a prayer
-  practice. Settle the registry wording at build rather than thread by thread.
-  WATCH, the mortality boundary: a second message stating that the field stops
-  at death would promote this witness to a member and would change the
-  thread's shape, since a darkness-field bounded to earthly life makes the
-  daily prayer a defence for the duration of a passage rather than against a
-  permanent condition of souls. Watch equally for the converse, any message
-  describing the world's conditions reaching souls in spirit, which would
-  close the question the other way and faster.
-  Fences. Against `conditions-of-a-people`, written in full from that thread's
-  side: this field is general, generated by all mankind, acting on every soul
-  everywhere; that one is particular, laid down by one people's history and
-  carried by a place. Against `prayer-changes-world-conditions`: that thread
-  sends prayer outward to change the world and other people, while this one
-  is defensive, prayer meeting a field that presses inward. Against
-  `earth-changes`: that thread is the planet. Against `soul-expiation`: that
-  is inherited darkness carried by an individual soul and cleansed out of a
-  person.
-  What is awaited: the mortality boundary above.
 
 <!--
 - `divine-love-mediumship` was minted 2026-07-03 with six witnesses, all now
