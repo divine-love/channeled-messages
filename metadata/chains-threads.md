@@ -238,6 +238,7 @@ added to it; later additions are folded into the role section they belong to.
   is why 2016-10-15-af-confucius is a witness here and not a member. It is the
   same shape as the Francis valence question in Open questions, and the two
   should be settled together.
+
 - `bell-toll-instrumentality`: 17 member roles across 17 messages, running
   from the awakened soul's Light reaching others like a bell toll to that
   signal being inseparable from the soul itself.
@@ -312,15 +313,63 @@ added to it; later additions are folded into the role section they belong to.
   goes out whether or not anyone is in view. Against `vanguards-of-change`:
   that thread is a commission given to particular souls for particular work;
   this one is a property of any soul carrying the Love.
-- `challenges-as-blessings`, (minted 2026-07-06 on the witness roster; the
-  anchor was awaited and has since been found) Foundation and presumptive
-  anchor: 2016-08-11-af-alec-gaunt (logged 2026-08-03), which builds the
-  mechanism, the stake, and the failure mode the criterion named rather
-  than asserting that hardship strengthens the soul; build-time
-  confirmation remains. Witnesses: 2015-06-15-af-faith-nyquist,
-  2015-11-02-af-augustine, 2016-02-29-af-confucius,
-  2017-01-25-af-alec-gaunt, 2017-03-27-af-james, 2018-08-06-af-solomon,
-  2019-02-22-af-keea-atta-kem.
+
+- `challenges-as-blessings`: running from why hardship strengthens a soul to
+  what the strengthened soul is for.
+  Foundation, presumptive anchor: 2016-08-11-af-alec-gaunt, the message the
+  registry specified in advance, which builds why hardship strengthens rather
+  than asserting it. Mechanism, "each time you overcome an obstacle, each time
+  a lesson is learned, each time you turn your pain into joy you become
+  stronger... you gain more wisdom as you come to understand more fully what
+  it is that the world is made of, the world of man, its complexities, its
+  error, its fears and its lack of love." Stake, "For without knowledge of
+  these things, without the ability to navigate through these issues you will
+  not be an effective instrument of change in the world." Failure mode, "You
+  will be weakened, weakened because rather than humbly face what is set
+  before you, you withdraw or you become angry or you do not express love in
+  some way." What the strengthening consists of, competence in the world's
+  conditions, and why it is required, that an instrument ignorant of them
+  cannot serve, is the facet no witness carries. Build-time confirmation
+  remains.
+  Elaborations. 2016-10-24-af-confucius reverses the causal direction against
+  a nearly identical sentence frame, "each time that you surmount a barrier,
+  that you overcome a fear, that you change your attitude to one that is more
+  loving and forgiving you express the change that is happening within your
+  souls," so the overcoming is evidence of a strengthening already under way
+  rather than its cause, which makes the same events diagnostic;
+  2019-02-22-af-keea-atta-kem states the principle warmly and clearly, "all
+  conspire to bring many insights and lessons, strengthening your soul...
+  Every struggle, every opportunity, every challenge is a blessing bringing
+  you to greater light, to deeper joy," a pastoral statement of the claim
+  rather than an argument that advances it.
+  Witnesses. 2015-03-27-af-andrew gives the daily-test claim, "Every day
+  brings a new test and a new reward and a new opportunity to grow and expand
+  in this Love," and "With each test you will let go of your fears and your
+  deep pain," stated rather than argued, and it is the earliest instance in
+  hand; 2015-06-15-af-faith-nyquist asserts the walk-through-challenges
+  teaching pastorally; 2015-11-02-af-augustine carries the lessons framing,
+  "lessons to be learned... this is the challenge of life";
+  2016-02-29-af-confucius and 2018-08-06-af-solomon restate the same
+  principle; 2017-01-25-af-alec-gaunt and 2017-03-27-af-james are witness
+  level and tagged [back-search], provisional until confirmed at full text.
+  Fences. Against `soul-growth-through-challenges` as a subject rather than a
+  thread, the membership bar is an argument that hardship is redeemed into
+  growth, not a reassurance that it will be. Two adjacent patterns are
+  described and not penned and should not be absorbed here: the
+  comfort-dulls-longing claim at 2017-05-11-af-jesus, that ease produces
+  shallowness, which is not the same claim as hardship producing growth; and
+  the security-in-god claim at 2016-08-26-af-augustine, the relationship with
+  God as the only reliable constant, which is the answer to what remains after
+  loss.
+  Structural note: a tension recorded and not resolved. Reframe is the better
+  role for 2016-10-24-af-confucius if the causal direction is genuinely
+  reversed rather than loosely worded, and Elaboration is taken as the more
+  modest of the two. Worth settling before the thread is built, since an
+  anchor saying challenges strengthen you sits awkwardly beside a member
+  saying they only show you what has already changed. That message carries an
+  `incremental-journey` role on the same passage, since the backward look is
+  precisely what reads the evidence.
+
 - `conditions-of-a-people`, (minted 2026-08-30 at the curator's direction, from
   the pattern watch opened at 2016-09-01-af-jesus): 2016-09-09-af-andrew
   (Foundation, anchor) with 2016-09-01-af-jesus and 2016-09-08-af-jesus as
@@ -1371,74 +1420,174 @@ added to it; later additions are folded into the role section they belong to.
   gathering can produce it). Overlaps `incremental-journey` and
   `soul-expiation`; this thread is the awakening-modes question.
 
-- `portals`, (minted 2026-08-06 at a dedicated session reading the 2018 and
-  2019 doctrine texts against the Blackpool cluster): 2019-01-26-af-
-  seretta-kem (Foundation, presumptive anchor: the doctrine complete, the
-  conferral law, composition, maintenance, ignition by Jesus, proliferation,
-  the temporary clause), 2018-11-21-af-james (Elaboration: the mechanics,
-  the bridge built from both ends, anchoring by sustained presence; the
-  collaborative language resolves against the conferral law as division of
-  labor). ALTERNATIVE SHAPE at build: James as Foundation, the first
-  dedicated teaching, with Seretta Kem as Capstone, its self-described
-  summary. Further members: 2016-08-25-af-brother-mandus (Elaboration, the
-  standing portal in practice), 2016-08-27-af-jesus (Elaboration, the
-  origin account, in the igniter's own voice per the Foundation's ignition
-  clause), 2019-04-06-af-yogananda (Objection-removed, the boundary:
-  communication does not require a portal). Witnesses: 2016-03-25-af-
-  augustine (loose first use), 2016-05-09-af-seretta-kem (the circle as
-  portal), 2016-07-25-af-seretta-kem (a temporary portal per the
-  Foundation's clause), 2016-08-26-af-brother-mandus (maintenance),
-  2016-08-26-af-jesus (replication and the precondition),
-  2016-08-28-af-faith-nyquist (the attractive function, a facet the
-  Foundation does not carry; promotable if a second instance appears),
-  2016-08-29-af-faith-nyquist (visions as the epistemology),
-  2019-02-01-af-confucius (usage). Place-attachment resolved: conferrable
-  wherever committed souls pray, temporary included; the Frankfurt silence
-  is consistent.
-  Witness 2016-11-27-af-confucius, the praying circle
-  described as forming a portal, a second instance of the looser 2016
-  usage alongside 2016-05-09-af-seretta-kem, and covered by the division
-  of labor already recorded here.
-  A negative finding worth keeping: across the
-  2016-09 messages, fifteen messages produced one marginal sighting
-  (2016-09-03-af-james, "bring further Light to this place", recorded at
-  the lowest confidence and arguably not a sighting at all). The ten
-  Frankfurt messages produced almost nothing, which given how dense the
-  immediately preceding Blackpool material was looks like a property of
-  that gathering rather than of the reading. 2016-09-10-af-andrew is
-  logged as an explicit negative with the distinction stated: portals
-  attach to places and are conferred, whereas a network of Light joins
-  people and is joined by praying.
+- `portals`: running from what a portal is to what it is not needed for.
+  Foundation, presumptive anchor: 2019-01-26-af-seretta-kem, the doctrine
+  complete. Definition, "Portals of Light are a mechanism for communication
+  and bring the flow of blessings from God in a concentrated form." The
+  conferral law, "You cannot build a Portal of Light, beloved souls. You have
+  not the capacity or the ability to do so, but you may pray for this blessing
+  and this blessing is conferred upon those who have made a commitment," and
+  "we do not act unless this blessing is conferred by God's Will."
+  Construction and composition, a team of spirits formulates the gift, which
+  "is made of energy and it has substance." Maintenance, "The energy within a
+  portal is sustained with prayer and desire." Weight, "These portals are not
+  conferred lightly." Ignition, "the beginnings of each of these portals were
+  ignited by the Master Jesus as a gift to you all." Proliferation, "It is
+  God's will that this particular and unique blessing may proliferate in your
+  world helping to elevate the conditions." And the temporary clause, "At
+  times these portals may be temporarily established... not as strong or wide
+  in scope or ability, but indeed they do help to sustain the light within a
+  Circle of Light."
+  Elaborations. 2016-08-25-af-brother-mandus gives the standing portal in
+  practice, an established fixture presupposed by circle discussion, located
+  at a named place, with a stated conduit function and prayer strengthening
+  what it did not create, which is the conferral law in its earliest form;
+  2016-08-27-af-jesus gives the origin account, the portal's existence
+  explained by accumulated human prayer over time and carrying the
+  consecration vocabulary of hallowed, consecrated and dispensation, and it is
+  the igniter's own voice thanking "all those who've gone before you" whose
+  prayers "drew God's special blessing and dispensation upon this ground";
+  2018-11-21-af-james gives the mechanics and the human share, portals acting
+  "in some ways like a machine that functions to bring and focus energy," the
+  bridge built from both ends, "You are one side and we are the other and we
+  work together to weave this connection," and the anchoring account, that
+  sustained presence in a place dedicated to prayer is what lets the conduit
+  be created, with the purpose named as connection to "the great lattice of
+  light" and stability "given the unstable conditions of your world." The
+  collaborative language resolves against the conferral law as a division of
+  labour, humans anchoring what spirits formulate and God confers.
+  Objection-removed: 2019-04-06-af-yogananda clears the belief that
+  communication requires a portal, voiced in the room by a sitter, "is the
+  portal there as well as here?", and removed in direct answer, "There is no
+  need for a portal beloved soul. But any place within these beautiful grounds
+  are adequate." The thread's boundary, that portals concentrate blessing and
+  do not gate contact. One exchange, but the objection was explicitly raised
+  and completely cleared, which is the role's essence.
+  Witnesses, the term in loose 2016 use. 2016-03-25-af-augustine, the first
+  use; 2016-05-09-af-seretta-kem and 2016-11-27-af-confucius both describe a
+  praying circle as forming a portal, which sits against the Foundation's "You
+  cannot build a Portal of Light" and resolves the same way, people supplying
+  the conditions and the prayer, spirits building, God conferring.
+  Witnesses, the doctrine's clauses instanced. 2016-07-25-af-seretta-kem, a
+  temporary portal per the Foundation's clause; 2016-08-26-af-brother-mandus,
+  maintenance; 2016-08-26-af-jesus, replication and the precondition;
+  2016-08-28-af-faith-nyquist, the attractive function, a facet the Foundation
+  does not carry and promotable if a second instance appears;
+  2016-08-29-af-faith-nyquist, visions as the epistemology;
+  2019-02-01-af-confucius, the term in active developed use days after the
+  doctrine, "This portal opens wide. Many gifts are coming."
+  Fences. Against `divine-love-mediumship`: that thread is how a message
+  crosses into a mortal mind; this is a conferred structure that concentrates
+  blessing, and the Objection-removed is what keeps the two apart. The circle
+  layer itself has no thread: 2016-09-11-af-francis-of-assisi states a
+  formation law for Circles of Light in two sentences, "They form in
+  accordance to God's Will and the desire of others who are drawn," which
+  stands next to the conferral law without being covered by it.
+  2016-09-10-af-andrew is an explicit negative with the distinction stated,
+  that portals attach to places and are conferred whereas a network of Light
+  joins people and is joined by praying.
+  What is awaited. A second instance of the attractive function, which would
+  promote 2016-08-28-af-faith-nyquist.
+  Structural note: an alternative shape to weigh at build, 2018-11-21-af-james
+  as Foundation, being the first dedicated teaching, with
+  2019-01-26-af-seretta-kem as Capstone, since it describes itself as a
+  summary of prior teachings, "I have spoken on several occasions... I will
+  summarize now." Place-attachment is resolved: portals are conferrable
+  wherever committed souls pray, temporary included, and the Frankfurt silence
+  is consistent with that. A negative finding worth keeping: across the 2016-09
+  messages the reading produced one marginal sighting, 2016-09-03-af-james,
+  "bring further Light to this place," recorded at the lowest confidence and
+  arguably not a sighting at all. The Frankfurt messages produced almost
+  nothing, which given how dense the immediately preceding Blackpool material
+  was looks like a property of that gathering rather than of the reading.
 
-- `prayer-changes-world-conditions`, (minted 2026-08-03 per the pen's own
-  condition, on the arrival of the mechanism): 2016-07-25-af-seretta-kem
-  (Foundation, presumptive anchor: vessel, overflow, angelic division and
-  direction, exponential multiplication, the intended end named). Witnesses:
-  2019-02-06-af-francis-of-assisi, 2015-11-28-af-faith-nyquist (dual-logged
-  as the prayer-soul-longing Foundation), 2018-11-29-af-abdullah-latif,
-  2015-12-21-af-peter, 2016-05-09-af-seretta-kem (the sketch, eleven weeks
-  before the Foundation, same spirit), 2016-07-27-af-confucius (two days
-  after). Added 2026-08-06: 2016-09-01-af-seretta-kem (Elaboration, the
-  upstream harmony condition and the reciprocal benefit, carrying the
-  thread's own limit, that the substantial portion of Love is given in
-  private prayer; weigh against the registry wording at build) and witness
-  2016-08-26-af-jesus.
-  Witness 2016-11-27-af-james-reid-2, the claim seen
-  from the other end, a spirit-side company gathered around the praying
-  circle and touched by it, which sits nearer the lattice material than
-  the thread's outward mechanism. Sightings 2016-11-27-af-confucius and
-  2016-11-28-af-luke, both asserting the outward effect without mechanism.
-  2016-09-03-af-james
-  (Elaboration, why mankind is the thing prayed for, which no member
-  establishes: "almost all souls residing in this place have a great
-  lacking within them", with the deprivation universal rather than
-  confined to the visibly suffering). Witness 2016-09-03-af-mary,
-  intercession aimed at one named person with protection rather than
-  awakening as its object, which raises a scope question left undecided:
-  if single-target protective intercession belongs, the registry wording
-  needs widening. Sighting 2016-09-04-af-augustine, the same overflow
-  image with the direction reversed, blessing drawn into the room rather
-  than discharged from it.
+- `prayer-changes-world-conditions`: running from what happens to a prayer
+  after it is offered to why mankind is the thing prayed for.
+  Foundation, presumptive anchor: 2016-07-25-af-seretta-kem gives the
+  mechanism step by step. Angelic healers and circles "which rise up through
+  the spheres of spirit" join the gathering; "with this comes a great Light, a
+  portal of Light, directly from God"; "amongst you within this circle is a
+  great vessel, a vessel that collects these energies"; the energies "overflow
+  from this vessel into various streams travelling in all directions in the
+  world"; "many angels are directing and dividing this energy to various
+  places in the world"; and "this one great beam of Light is multiplied over
+  and over again exponentially and touches many, many thousands in the world,
+  not only the children you pray for and those loved ones and those you know,
+  but many, many more," with the intended end named, that God "will place
+  within them the desire for His Love."
+  Elaborations, what conditions the sending. 2016-09-01-af-seretta-kem gives
+  the upstream condition five weeks later from the same spirit, that what
+  strengthens the offering is harmony rather than volume, "it is your longing,
+  your passion, your focus, and your efforts to receive and to be in harmony
+  together to create those conditions amongst you that draws this great
+  blessing," by "harmonizing and resonating with one another," naming the Law
+  activated, "you generate and activate a great Law of Attraction," and adding
+  the reciprocal benefit, "You benefit from the prayers of your brothers and
+  sisters who join you," where the Foundation is entirely outward-directed;
+  2018-11-29-af-abdullah-latif puts a condition on the central claim that no
+  other member states, that intercession works only in proportion to what is
+  behind it, "If you pray in anger and fear, concern and indignation your
+  prayers only go as high as your breath," and gives the thread its account of
+  how the effect travels and why it is not observed, "It adds a stream of
+  possibility into the mix and currents of the human condition," and "most
+  often wheels are set in motion that may not come to their endpoint quickly,
+  even within a lifetime."
+  Elaboration, what is prayed for and why. 2016-09-03-af-james supplies the
+  diagnosis none of the other members establishes, "almost all souls residing
+  in this place have a great lacking within them," so "Pray for the children.
+  Pray for those who are lost. Pray for your fellow man, for each soul in
+  their own way, is lost," with the deprivation universal rather than confined
+  to the visibly suffering, "Look into the eyes of those in the world and you
+  will see it." Given two days after the harmony Elaboration at the same
+  gathering: that one conditions the sending, this one names and grounds the
+  target.
+  Witnesses, the outward claim asserted. 2015-03-27-af-andrew makes the
+  condition harmony rather than numbers in a single clause about a small
+  gathering, "it does not require great numbers to bring love and light to
+  this world, it requires a yearning soul in prayer in harmony with one
+  another"; 2015-10-26-af-faith-nyquist gives prayer as the thing to do
+  instead of intervening, with the assurance that it lands, "your prayers...
+  are answered and are always being answered as the angels draw close";
+  2015-11-28-af-faith-nyquist, dual-logged as the `prayer-soul-longing`
+  Foundation; 2015-12-21-af-peter; 2016-07-27-af-confucius asserts the outward
+  discharge two days after the Foundation, "the world is touched with Light as
+  you make these efforts to connect with God"; 2016-08-26-af-jesus asserts the
+  projective direction without the mechanism, "You must pray and be that
+  channel of Light that will beam upon every soul."
+  Witnesses, the route sketched and the claim seen from the far end.
+  2016-05-09-af-seretta-kem sketches the steps in clauses eleven weeks before
+  the Foundation and from the same spirit, prayer opening doors, the angels
+  working in conjunction with the circle, the circle becoming a portal, the
+  effects reaching people never touched directly; 2016-11-27-af-james-reid-2
+  describes a spirit-side company gathered around the praying circle and
+  touched by it, "so we gather many souls on our side of life, vastly more
+  than are in the flesh," which sits nearer the lattice material than the
+  thread's outward mechanism; 2019-02-06-af-francis-of-assisi states the
+  argument strongly without developing it, "Prayer can change conditions.
+  Prayer can change the behavior of those who violate and are in ignorance and
+  error."
+  Witness, raising an undecided scope question. 2016-09-03-af-mary aims
+  intercession at one named person with protection rather than awakening as
+  its object, "ask for the cloak of protection to surround her and those who
+  are close to her." The same outward direction as the other members, at a
+  scale of one, and the effect asked for is a shield rather than a kindling.
+  Fences. Against `earth-conditions-and-prayer`: that thread is defensive, the
+  darkness-field met by prayer for respite and protection; this one is
+  projective, prayer discharged outward to change conditions and souls
+  elsewhere. Two sightings sit on the far side of that fence and are recorded
+  so the phrasing is findable, 2016-08-28-af-faith-nyquist aiming the
+  projective register at the room the pray-ers stand in, and
+  2016-09-04-af-augustine using the same overflow image with the direction
+  reversed, blessing drawn into the room rather than discharged from it.
+  Against `prayer-soul-longing`: that thread is what true prayer is; this is
+  what it does once offered.
+  What is awaited. A ruling on scope. If single-target protective intercession
+  belongs, the registry wording needs widening; the thread as written is about
+  distant souls and conditions reached at scale.
+  Structural note: the Elaboration at 2016-09-01 carries the thread's own
+  limit, "This is not the only way to receive Divine Love... it is in your
+  personal and private prayers that the substantial portion of Love is given,"
+  which is to be weighed against the registry wording at build.
 
 - `prayer-soul-longing`: running from what prayer essentially is, beneath the
   words, to the named law that answers it.
@@ -1606,20 +1755,72 @@ added to it; later additions are folded into the role section they belong to.
   at 2017-09-13-af-keea-atta-kem, where the earth-changes reading was called
   the primary home, and at 2016-10-15-af-seretta-kem.
 
-- `provision-for-service`: 2016-04-04-af-augustine
-  (Foundation, presumptive anchor) and 2016-08-19-af-andrew (Elaboration,
-  why the barriers work). Witnesses: 2015-08-20-af-faith-nyquist,
-  2015-11-09-af-faith-nyquist, 2016-01-08-af-jesus,
-  2016-08-25-af-confucius. NOTE: shares its 2016-08-19 hinge passage with
-  the `channel-of-love-in-the-material` pen candidate; two arguments, one
-  hinge; see the pen. Added 2026-08-06: 2016-08-29-af-faith-nyquist
-  (Elaboration, the no-sacrifice claim, the thread's first institutional
-  setting).
-  Witness 2016-11-27-af-confucius, which answers worry
-  not with provision but by shrinking the human requirement to a closed
-  list, "All that we require of you is for you to come together in harmony
-  and prayer", with provision itself never mentioned. Sighting
-  2016-11-06-af-jesus, doors opened with nothing said about provision.
+- `provision-for-service`: running from what God supplies a guided work to why
+  the only obstacles are the servant's own.
+  Foundation, presumptive anchor: 2016-04-04-af-augustine, the developed
+  statement of God's provision for guided work, provided "on every level,
+  including a monetary level," with worry, guilt and conflict named as
+  self-raised barriers, provision meeting requirements rather than indulgence,
+  and harmony as the mark of God's Hand upon the work.
+  Elaborations. 2016-03-16-af-jesus states the provision against a named work
+  rather than as general assurance, "God provides for you all that you require
+  to do so. He opens doors, many, many doors. He provides the means for you to
+  travel to connect with one another and to connect with many others," with
+  the work specified, "you will expand your work which is God's work in the
+  world"; 2016-08-19-af-andrew develops the barrier claim causally, so that
+  worry is not merely unhelpful, "In this way you do not attract negativity.
+  In this way you allow God's full Touch, within each thing that you do, to be
+  present and to bring harmony," which is why the barrier is the servant's and
+  not God's, closing on harmony as the mark of God's Hand;
+  2016-08-29-af-faith-nyquist adds the no-sacrifice claim in the thread's
+  first institutional setting, "those who are dedicating themselves to the
+  success of this will be mightily blessed, they will not sacrifice but gain
+  much, for God blesses those who act on his behalf," answering a belief the
+  thread had not answered, that serving will cost you, with the law applied to
+  a negotiation with trustees and an explicit consideration of the material.
+  Witnesses. 2014-07-26-af-augustine states provision plainly and twice, "You
+  have all that you require to set forth upon your path," and "you will be
+  given all that you require. Do not doubt this but rejoice in this," though
+  he is assuring individuals on a spiritual path rather than describing the
+  supply of an undertaking, so it carries the provision language without the
+  claim the thread is built on; 2015-03-24-af-augustine has circumstances
+  arranged to put people where they are needed, "many acts and actions had to
+  take place for you to arrive at this very moment, and the angels indeed are
+  kept very busy to orchestrate many, many things in this world," spoken as
+  gratitude rather than as teaching; 2015-08-20-af-faith-nyquist and
+  2015-11-09-af-faith-nyquist carry the earlier sightings the thread was
+  penned with; 2016-01-08-af-jesus carries it alongside the commission;
+  2016-08-25-af-confucius asserts the provision six days after the first
+  Elaboration, "the means will be provided, the opportunities will be laid
+  before you to continue upon this journey, this caravan of hope taking you
+  from one place to another"; 2016-11-27-af-confucius answers worry not with
+  provision but by shrinking the human requirement to a closed list, "All that
+  we require of you is for you to come together in harmony and prayer," with
+  provision itself never mentioned.
+  Sighting, kept for the fence it marks. 2016-09-13-af-goldie, "God will bring
+  towards you as you move towards His intention there will be many blessings,
+  experiences and opportunities to serve," which is opportunity rather than
+  provision. The thread answers what is supplied to a God-guided work, not
+  what is opened to a soul in motion, and the sighting is fenced so it is not
+  mistaken for a provision claim. 2016-11-06-af-jesus and
+  2016-08-27-af-augustine sit on the same side of that fence, doors opened and
+  release asked for with nothing said about provision.
+  Fences. Against `vanguards-of-change`: that thread is the commission and the
+  freedom it requires; this is what is supplied once the work is under way.
+  The 2016-08-19 hinge passage is shared with the
+  `channel-of-love-in-the-material` pen candidate, two arguments on one hinge;
+  see the pen.
+  What is awaited. A message stating the requirement side as an exhaustive
+  minimum. 2016-11-27-af-confucius and 2016-11-27-af-james-reid-2 both do it
+  on the same day through different spirits, "All that we require of you is
+  for you to come together in harmony and prayer" and "What is required of you
+  is that faith that you are indeed answering God's call," and this thread
+  holds the other half of the bargain without any member stating the
+  requirement side. Penned as the `the-whole-requirement` candidate.
+  Structural note: the anchor is not settled. 2016-03-16-af-jesus is the
+  earliest developed statement of the claim in hand and predates the
+  Foundation by three weeks, so both belong in the Foundation section and the
+  anchor is weighed between them at build.
 
 - `redemption-universal`: 6 member roles across 5 messages, running from the
   claim that no soul is excluded to the cases that prove it.
