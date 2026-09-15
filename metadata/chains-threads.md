@@ -377,37 +377,76 @@ added to it; later additions are folded into the role section they belong to.
   Sighting 2016-11-27-af-james-reid, "that which is the
   fabrication of the mind... will fall away", aimed at the seeker's own
   reading rather than at the standing of a recorded message.
-- `divine-love-healing`, (re-minted 2026-07-20 per the pen's standing
-  condition, on the arrival of the second developing witness) witnesses in
-  hand: 2015-03-29-af-seretta-kem (Foundation, presumptive anchor) and
-  2016-04-13-af-seretta-kem (Elaboration: Divine Love placed among the
-  other healing energies without demoting them, primacy grounded in
-  eternality). Remaining checkpoints to weigh as reached:
-  2017-12-12-af-seretta-kem and 2018-07-14-af-seretta-kem (the latter
-  already carries a Reframe in `soul-expiation`). Roster witnesses
-  added 2026-08-03: 2016-07-13-af-seretta-kem (develops the healing without
-  the comparison), 2016-07-25-af-seretta-kem (the comparison in a single
-  closing sentence), and 2016-08-25-af-confucius (the claim in its weakest
-  form). Added 2026-08-06: 2016-08-26-af-augustine (witness with a
-  caveat: the sentence says Love and the context is God's Love; strike if
-  the roster is kept to explicit Divine Love claims).
-  Witness 2016-11-21-af-confucius, which rests the
-  primacy on a second ground, substance and power rather than eternality,
-  "Love is the most powerful of all substances in this universe." No
-  comparison with the other healing energies, which is why it sits below
-  the roster's bar.
-  Sighting 2016-09-06-af-mary, spirit assistance placed
-  alongside material medicine without ranking them, "Do not fear the hands
-  of the physicians, they will heal you and we will be with them, guiding
-  them". Explicitly not proposed for the roster, since the weakest member
-  here still makes a comparative claim and this makes none. It raises a
-  scope question left undecided: whether spirit-guided material healing
-  belongs in this chain's territory at all. Also recorded: the 2016-04-13
-  checkpoint was reached across the 2016-09 Frankfurt and Belgrade
-  messages and came back
-  unengaged over fifteen messages, the nearest miss being 2016-09-06-af-
-  joseph, "there is no other source that will bring the healing and the
-  answers to mankind".
+- `divine-love-healing`: running from the superlative claim and its reach to
+  the ground the primacy rests on.
+  Foundation, presumptive anchor: 2015-03-29-af-seretta-kem. Seretta Kem
+  speaks as a healer who studied the art in Egypt and now walks the Divine
+  Path, and from that standing makes the central claim, "The greatest healing
+  of all is obtained through the inflowing of God's Essence, His Divine Love."
+  What makes it the greatest is its reach, stated in full: "every cell within
+  your body, all the energies of your spirit, all the aspects of your mind,
+  both material and soul are influenced by this Love." Nothing else in the
+  archive is claimed to reach all three. He also names what the healing feels
+  like from inside, so the seeker does not mistake it for going backwards,
+  "when you feel stray emotions rising up from within you, this is the power
+  of God's Love, in its qualities of expiation of the soul, cleansing your
+  soul."
+  Elaboration: 2016-04-13-af-seretta-kem restates the Foundation's claim in
+  its own terms, the one blessing which "cannot be given from one to another,"
+  then develops where the Foundation does not go. It affirms the other healing
+  modalities as real and usable and places Divine Love among them without
+  demoting them, "This Gift enhances all other gifts"; it grounds the primacy
+  in eternality, "what else in the universe of God's creation is eternal?
+  Nothing, my beloveds, only this Touch"; and it instructs practitioners to
+  "Add this to your understanding."
+  Witnesses, the healing developed without the comparison.
+  2016-07-13-af-seretta-kem, the cleansing reaching body, spirit and soul
+  together; 2018-10-09-af-seretta-kem, the reach claim in the same terms as
+  this spirit's own Foundation, with permanence added, "It brings changes that
+  are permanent."
+  Witnesses, the comparison asserted without development.
+  2016-07-25-af-seretta-kem carries it in a single closing sentence, "that
+  great Healing Touch of Love is the most powerful healing of all and the
+  greatest change agent in the universe"; 2016-08-25-af-confucius has it in
+  its weakest form, "the healing of Divine Love is a special blessing for
+  all"; 2016-08-26-af-augustine the following day, "Love is the highest gift.
+  Love is the greatest gift. Love is the most healing gift that be given,"
+  with a caveat, the sentence says Love and the context supplies God's Love
+  and "that Divine Grace," so the reading is contextual and it is struck if
+  the roster is kept to explicit Divine Love claims.
+  Witness, a second ground for the primacy. 2016-11-21-af-confucius rests it
+  on what the Love is made of rather than on its eternality, "it is the
+  highest blessing, the most powerful of all blessings, for Love is the most
+  powerful of all substances in this universe," and states the healing
+  directly, the Touch reaching "those conditions brought about by your
+  experiences in life and the conditions of this world that cling to your
+  souls." He makes no comparison with the other healing energies, which is the
+  move the thread is built on, so it sits alongside rather than within. A
+  second ground is worth having if another message argues it.
+  Sighting, kept for the scope question it raises. 2016-09-06-af-mary places
+  spirit assistance alongside material medicine without ranking them, "Do not
+  fear the hands of the physicians, they will heal you and we will be with
+  them, guiding them," and names the channel rather than the energy in "you
+  will be a mighty channel to bring healing and peace." Not proposed for the
+  roster, since the weakest member here still makes a comparative claim and
+  this makes none. The undecided question is whether spirit-guided material
+  healing belongs in this thread's territory at all.
+  Fences. Against `healing-channel`: this thread is what Divine Love healing
+  is; that one is how a person becomes a channel for God's healing in the
+  world.
+  What is awaited. Two checkpoints to weigh as they are reached,
+  2017-12-12-af-seretta-kem and 2018-07-14-af-seretta-kem, the latter already
+  carrying a Reframe in `soul-expiation`.
+  Structural note: the Foundation was originally credited with distinguishing
+  Divine Love from the transferable energies. It does not. There is no
+  comparison with other healing energies anywhere in that text; the claim is a
+  superlative, not a contrast. The non-transferability claim arrives at
+  2016-04-13-af-seretta-kem, which is presumably why that message counted as
+  the second developing witness. The Foundation stands on the
+  superlative-plus-reach claim instead. Separately, the 2016-04-13 checkpoint
+  was carried across the 2016-09 Frankfurt and Belgrade messages and came back
+  unengaged, the nearest miss being 2016-09-06-af-joseph, "there is no other
+  source that will bring the healing and the answers to mankind."
 - `divine-love-mediumship`: 14 member roles across 14 messages, running from
   how a truth crosses into a mortal mind at all to how any soul may open the
   channel.
@@ -698,42 +737,106 @@ added to it; later additions are folded into the role section they belong to.
   soul's own purpose surfaces; this one is about the plan the purposes serve.
   Against `provision-for-service`: that thread is about what is supplied to
   the work; this one about whose work it is.
-- `free-will-and-self-responsibility`, (minted 2026-07-11 per the pen's own
-  standing instruction, on the arrival of the second confirming message)
-  witnesses in hand: 2019-02-22-af-augustine (Foundation, presumptive anchor:
-  the full argument and the named law, "There is a law that says you must be
-  responsible for yourself"), 2016-04-04-af-augustine (Elaboration: the
-  corollary, those who "stubbornly hold on to what they carry" where healing
-  is offered are choosing, and the servant carries no responsibility for
-  their choice, "for each soul is responsible for what they choose, just as
-  you are responsible for what you choose"). Distinct from
-  `free-will-and-gods-plan` (God's orchestration through willing souls);
-  overlaps `soul-expiation` and `mind-vs-soul` at a search level.
-  2016-09-09-af-andrew (Elaboration, the lag between
-  what the Love has already changed and what the seeker must still change
-  by hand: "the last vestiges of such conditions remain within your
-  material mind... it is your responsibility to change those patterns of
-  thinking, those old habits, to catch up with the changes within you").
-  The Foundation has a mind actively sustaining the problem so the healing
-  waits; this has the soul already changed and the mind merely behind,
-  which makes the residue a maintenance task rather than an obstruction.
-- `guidance-as-seed`, (minted 2026-08-30 at the curator's direction, on the
-  arrival of a second witness at 2016-09-02): 2016-02-02-af-jesus
-  (Foundation, anchor: God's Will comes "not as a dramatic sign but as a seed
-  of a thought, a small inkling that grows as Love nurtures it", with the
-  instruction to honour and act upon it) and 2016-09-02-af-confucius (witness:
-  the same instruction to act, "Listen to the desire of your soul. Listen to
-  that truth that beats within you, each one of you, and be compelled to act
-  upon that which is within you", carried in a different image, a spark and a
-  flame rather than a seed and a droplet). Under the 2026-08-06 ruling that a
-  candidate is defined by its argument and not its image, the change of image
-  does not disqualify the second witness. Minted on a Foundation and a witness
-  rather than two developed members, in the shape of `challenges-as-blessings`:
-  what is still awaited is a message that develops the growth claim, that the
-  inkling grows as Love nurtures it, rather than restating the prompting.
-  Distinct from `divine-love-mediumship`, which concerns how a message crosses
-  from spirit into a mortal mind; this concerns how God's own guidance surfaces
-  inside a soul.
+- `free-will-and-self-responsibility`: running from why God will not lift a
+  self-created pain to why you carry no responsibility for another soul's
+  choice.
+  Foundation, presumptive anchor: 2019-02-22-af-augustine, the argument
+  developed and the law named in the body, "There is a law that says you must
+  be responsible for yourself," which is why the message carries the Law of
+  Free Will subject. God honours free will absolutely and "will not override"
+  it even to relieve self-created pain; prayers for relief go unanswered while
+  "within your mind you continue to persist" in feeding the very condition
+  prayed about; and real change is "not just something that is a correction
+  that comes from your mind, but a deep desire for change from your soul."
+  Elaborations, why the law holds. 2014-07-26-af-augustine gives the purpose
+  behind non-interference, the refusal and its reason in one breath, "We
+  cannot interfere with your free will. We will not, for this is your precious
+  life and it is for you to grow," which makes the law pedagogical rather than
+  merely legal; 2015-03-29-af-seretta-kem has the spirit world state that it
+  could remove the obstructions and deliberately does not, "would this
+  strengthen you on your journey? It would be gratifying and make many
+  challenges easier, but it would not strengthen your souls," with the
+  misreading headed off, "in partnership with our efforts, your efforts are
+  required and necessary."
+  Elaborations, what the responsibility covers. 2016-04-04-af-augustine turns
+  the law outward, those who "stubbornly hold on to what they carry" where
+  healing is offered are choosing, and "you are not required to have a sense
+  of responsibility towards their choice"; 2016-09-09-af-andrew names the lag
+  between what the Love has already changed and what the seeker must still
+  change by hand, "it is your responsibility to change those patterns of
+  thinking, those old habits, to catch up with the changes within you," which
+  makes the residue a maintenance task rather than an obstruction;
+  2016-09-12-af-jerome decouples responsibility from authorship, "no matter
+  the source, it is your responsibility and your struggle to take the actions
+  necessary to cleanse your soul," so the law reaches conditions the seeker
+  did not create.
+  Elaborations, what is at stake in the choosing. 2016-05-29-af-aman states
+  the consequences at the scale of history rather than of a life, "Millennia
+  upon millennia of disharmonious choices and unloving acts have made this
+  perfect Earth into a howling mass of unloved and injured souls";
+  2016-08-15-af-alec-gaunt names what the will weighs when it stalls, the fear
+  of annihilation, "to lose who you are and not knowing who you will become,"
+  answered by enhancement and carrying the no-penalty clause, "Whatever you
+  decide, you are always loved"; 2017-05-11-af-jesus gives the claim its
+  sharpest form, "The only thing that holds you back from the awakening of
+  your soul is you," placed immediately after the assurance that the help is
+  already in place, so responsibility is set without abandonment.
+  Witnesses, the offer side of the same law. 2016-08-26-af-augustine, the
+  non-coercion stated as invitation, "God does not command you to love him but
+  God beseeches you to know his Love. It is your choice"; 2016-09-10-af-
+  augustine, the same spirit's third statement of it, recorded so the
+  repetition across August and September 2016 is findable.
+  Witnesses, the assistance gate. 2016-09-14-af-augustine, help gated on the
+  seeker's asking with the spirits' posture in the meantime named as enforced
+  waiting, "we can only wait for you to climb back out of your condition";
+  2016-10-16-af-augustine, the same gate five weeks later with its law
+  attached, "When you ask for our help you receive it... this is how the Law
+  of Attraction works."
+  Fences. Against `free-will-and-gods-plan`: that thread is God's
+  orchestration of His plan across generations through willing souls; this one
+  is the individual's own will as the pivot of their own healing. The
+  2015-03-29 Elaboration marks the same distinction one level down, God
+  declining to override the route against helpers declining to shortcut a
+  soul's growth. Overlaps `soul-expiation` (change from the soul rather than
+  the mind) and `mind-vs-soul` (the mind's correction against the soul's
+  desire) at a search level without being reducible to either.
+  What is awaited. The two assistance-gate witnesses may be enough at build to
+  carry the gate plus the law that governs it, but neither makes the gate its
+  own argument, so a message that does would settle the promotion.
+  Structural note: the 2014-07-26 Elaboration rests on two sentences and
+  witness is the modest reading. It is held at Elaboration because nothing
+  else logged carries the purpose behind the law, and a thread built on a law
+  is stronger for holding its reason. Demote if the roster prefers members at
+  argument length.
+- `guidance-as-seed`: running from how God's Will announces itself to what
+  the soul owes the announcement.
+  Foundation, anchor: 2016-02-02-af-jesus. God's Will comes "not as a dramatic
+  sign but as a seed of a thought, a small inkling that grows as Love nurtures
+  it," with the instruction to honour it and act upon it. The whole argument
+  stands in this one message, which is why it anchors on its own.
+  Witnesses. 2016-09-02-af-confucius carries the instruction to act, "Listen
+  to the desire of your soul. Listen to that truth that beats within you, each
+  one of you, and be compelled to act upon that which is within you," in a
+  different image, a spark and a flame where the Foundation has a seed and a
+  droplet; under the argument-not-image ruling the change of image does not
+  disqualify it. 2016-10-19-af-goldie names the promptings and their source,
+  "God has a plan for each soul who is willing to listen to their guidance,
+  their promptings, and their inspirations. They come from God and His
+  angels," without saying how they arrive, how they grow, or what honouring
+  them requires; the willingness-to-listen clause is the nearest it comes to
+  the honour-and-act step.
+  Fences. Against `divine-love-mediumship`: that thread concerns how a message
+  crosses from spirit into a mortal mind; this concerns how God's own guidance
+  surfaces inside a soul. 2016-07-04-af-jesus was checked against this thread
+  and is not a match on that boundary, guidance there arriving through a human
+  instrument rather than inwardly.
+  What is awaited. A message that develops the growth claim, that the inkling
+  grows as Love nurtures it, rather than restating the prompting. Both
+  witnesses restate; neither develops.
+  Structural note: minted on a Foundation and a witness rather than on two
+  developed members, in the shape of `challenges-as-blessings`. The Foundation
+  is carried in the roster without a per-message log entry and awaits
+  migration.
 - `incremental-journey`, witnesses in hand:
   2015-03-23-af-john-the-beloved ("each step of the gradual awakening is
   swift in the measure of eternity"), 2015-03-28-af-augustine (the blessing
@@ -1146,25 +1249,92 @@ added to it; later additions are folded into the role section they belong to.
   needs widening. Sighting 2016-09-04-af-augustine, the same overflow
   image with the direction reversed, blessing drawn into the room rather
   than discharged from it.
-- `prayer-soul-longing` (not a pen mint; recorded here because a curator
-  ruling gave the thread a member and it had no roster entry to hold it).
-  PROMOTED 2026-08-30: 2016-09-04-af-john-the-beloved moves from witness to
-  **Elaboration**, on the floor claim. "It is a simple choice to sit in
-  prayer. To long for this Love requires nothing but your effort and time.
-  Even a brief prayer for God for Love will eventually set you upon this
-  course and the more effort you apply in this journey, the faster will be
-  the awakening." Two elements, and the chain has neither: a floor, that a
-  brief prayer suffices to begin, and a rate, that effort governs speed.
-  Nearest to it is 2016-01-23-af-augustine, which distinguishes longing from
-  recitation but sets no floor, so this does not duplicate an existing
-  member. 2016-09-10-af-andrew stays a witness and is what makes the floor
-  claim safe to promote rather than a single spirit's turn of phrase: the
-  same claim four days later from a different spirit, "All it requires is
-  some time, some focus, to come to know that soul desire within you."
-  Note for build: the floor and the rate may not belong together. The floor
-  lowers the barrier to entry; the rate says effort governs speed. A reader
-  can hear the second as undoing the first. If they are separated, the floor
-  is the part that is this thread's own claim.
+  
+- `prayer-soul-longing`: running from what prayer essentially is, beneath the
+  words, to the named law that answers it.
+  Foundation, anchor: 2015-11-28-af-faith-nyquist. Faith establishes that
+  sincere prayer and soul-longing for God's Love brings real change in both
+  the material and the spirit worlds, and strips prayer to its essence, "just
+  longing, just prayer."
+  Elaborations, what prayer is and is not. 2016-01-23-af-augustine draws the
+  central distinction, prayer being the anchor and foundation of the Path
+  Divine but "not a prayer that is a recitation from your minds, but prayer
+  that is a longing from your soul," and it is the longing that elicits God's
+  response; 2016-01-24-af-augustine refines it on a specific point, that the
+  desires of the soul and of the mind often differ and the mismatch is what
+  derails prayer, a soul longing for God's Love while the mind feels unworthy,
+  or a mind believing it receives where the soul does not truly desire, the
+  remedy being to plumb the soul's true desire and make it the focus;
+  2016-03-25-af-augustine locates the sufficient condition in sincerity, "each
+  sincere prayer given to God will strike the mark and obtain a response from
+  your Heavenly Father," offered "in earnest longing and clear intention."
+  Elaborations, what it asks of the seeker. 2016-07-11-af-confucius adds the
+  cadence requirement and its cost, "You must take the time, make the effort,
+  say the prayers, sit in silence to receive God's answers to the longings of
+  your souls," measured as "at least one portion of your day," and without the
+  daily Touch "you become lost in the human condition, in the ebb and flow of
+  all the disparate energies of this world"; 2016-09-04-af-john-the-beloved
+  sets the floor and the rate, "It is a simple choice to sit in prayer. To
+  long for this Love requires nothing but your effort and time. Even a brief
+  prayer for God for Love will eventually set you upon this course and the
+  more effort you apply in this journey, the faster will be the awakening";
+  2017-05-11-af-jesus makes reception proportional to the depth of the asking
+  and measures the circle against that standard to their face, the longing
+  required being "far greater than any of you here are feeling and desiring to
+  receive," names what the prayer must be allowed to contain, which no other
+  member does, "To cry out not in joy, but in fear. To cry out in confusion,
+  to cry out tinged with error," and prescribes escalation, the intensity
+  "doubled and redoubled until you come to that point where the Pentecost is
+  assured."
+  Capstone: 2018-07-30-af-keea-atta-kem gives the fullest treatment and ties
+  the argument to a named law. Prayer is the language of the soul and an act
+  of faith opening a thread of light to God; the mechanism is named, "It is
+  prayer that brings the response from God enacting His Law of Activation";
+  and repetition without feeling yields no real response. Core Teaching.
+  Witnesses, the longing as what elicits the response. 2014-10-11-af-judas,
+  the longing intensified by being met rather than satisfied, "Seek the Love,
+  ask for this gift and you will feel it burning deep within, eliciting you to
+  seek in greater depths, in greater yearning"; 2015-03-29-af-seretta-kem, the
+  gift not imposed, "It is your choice. It is your prayer. It is your
+  longing"; 2016-08-26-af-augustine, response-follows-longing in a single
+  clause, which the Foundation carries developed; 2016-09-01-af-seretta-kem,
+  the proportionality form, "the capacity to receive this Love is unlimited,
+  only restricted by your own desires and longings."
+  Witness, the floor corroborated. 2016-09-10-af-andrew states the
+  minimum-requirement claim four days after 2016-09-04-af-john-the-beloved and
+  from a different spirit, "All it requires is some time, some focus, to come
+  to know that soul desire within you," which is what makes the floor safe to
+  promote rather than one spirit's turn of phrase.
+  Witnesses, what prayer opens. 2016-09-06-af-joseph describes what surfaces
+  afterwards and locates the content as already placed rather than newly
+  given, "The understandings that God has placed within your souls will emerge
+  into your consciousness"; 2016-09-16-af-john-the-beloved makes prayer the
+  precondition for service rather than for the seeker's own growth, "without
+  allowing God to infill your soul with His Love you cannot act as his
+  emissaries of Love and Truth," a framing that recurs in this circle's
+  material and so is repetition rather than a new facet;
+  2017-08-21-af-matthew names prayer as the means of experiencing rather than
+  of asking, "this is why you continue to pray and long for this Love, to
+  experience it on all these different levels of awareness";
+  2018-06-18-af-matthew applies the Law of Attraction to the communication
+  itself, "Where there is that longing, that desire, we are able to come and
+  be with you."
+  Fences. Against `prayer-changes-world-conditions`: this thread is what true
+  prayer is; that one is prayer discharged outward to change conditions and
+  souls elsewhere. Against `earth-conditions-and-prayer`: that one is prayer
+  as defence against the world's darkness-field. The registry gives this
+  thread the Law of Activation; the Law of Attraction is named in several of
+  its witnesses for an adjacent effect, and the two are not to be conflated at
+  build.
+  Structural note: the floor and the rate in 2016-09-04 may not belong
+  together. The floor lowers the barrier to entry; the rate makes speed depend
+  on effort, and a reader can hear the second undoing the first. If they are
+  separated, the floor is the part that is this thread's own claim. Separately,
+  a tension the material raises and does not engage: the thread argues that
+  words alone are not prayer, and the spirits nevertheless supply words, most
+  plainly in the scripted formula of surrender at 2016-09-12-af-jerome,
+  "Heavenly Father, these are my burdens, this is my cloak of pain." No member
+  addresses it, so nothing is claimed, but a builder will meet it.
 
 - `preparation-to-be-a-rock`: 11 member roles across 11 messages, running from
   a storm on the horizon to a readiness declared complete and set inside a
