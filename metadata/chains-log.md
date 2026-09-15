@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-09-05
+last_updated: 2026-09-15
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -416,7 +416,7 @@ are built.
 ### 2016-04-17-af-francis-of-assisi | The Simple Way of Love | 2016-04-17 [not publicly posted]
 - NOTE (sighting, `incremental-journey`): "step by step, choice by choice, prayer by prayer"; the increments located in repeated daily choice, a distinguishable emphasis asserted in one sentence, not built. Witness level.
 - NOTE (sighting, `bell-toll-instrumentality`): "many souls will be touched by your example"; echo only, Francis already carries the developed Testimony at 2016-01-28-af-francis-of-assisi.
-- NOTE (holding pen, `simplicity-of-the-path`): the message's spine, the path inherently simple and complication human-made; developed statement plus first-person Testimony; penned 2026-07-20. (2026-08-06: minted, with scope widened to path and ministry under the argument-not-image ruling; this message stands as Foundation and presumptive anchor.)
+- `simplicity-of-the-path` **[Foundation]** : the message's spine, the path inherently simple and complication human-made, given as a developed statement with first-person Testimony. Presumptive section anchor. The scope covers both the walking and the speaking, the seeker's life and the servant's ministry, under the argument-not-image ruling.
 
 ### 2016-04-19-af-goldie | Be with God in the Garden | 2016-04-19 [not publicly posted]
 - NOTE (holding pen, `earth-as-healing-ground`): the Earth as an active agent drawing disturbance from the soul ("the healing is there in the ground, in the trees and the flowers"); penned 2026-07-20.
