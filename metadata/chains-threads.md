@@ -2609,98 +2609,105 @@ added to it; later additions are folded into the role section they belong to.
   whether the place-in-the-work facet belongs to this thread or to
   `soul-purpose-emergence` is worth weighing at build.
 
-- `who-jesus-was`, roster written 2026-08-30 (the thread predates the roster
-  convention; this entry gathers its confirmed structure and the development
-  pass done at the curator's request).
-  **Foundation section**, three members spanning 56 years, anchor to be chosen
-  at build: 1963-12-26-ds-mary (the attained Messiahship and the birth-record
-  correction), 2018-11-26-af-jesus (his existence as a Celestial spirit, and
-  impersonation), 2019-01-27-af-jesus (the complete singular soul by prior
-  agreement, and no soulmate). The 1963 Mary message is also the earliest in
-  the archive, so whichever anchor is chosen the chain opens the full
-  1963 to 2023 span.
-  **Elaborations**: 2016-04-02-af-jesus (the purified soul he incarnated with,
-  protected by God from the conditions of the world), 2016-09-02-af-jesus
-  (added 2026-08-30, the not-God correction with its positive replacement) and
-  2019-03-14-af-jesus (the not-God correction turned on the churches),
-  2017-05-11-af-jesus (the post-crucifixion appearances given as mechanism
-  rather than as miracle).
-  **Objection-removed**: 2019-01-29-af-mary-magdalene, who confirms in her own
-  voice that she was never his soulmate, wife or lover.
-  **Testimony section** (opened 2026-08-30): 2016-03-31-af-judas and
-  2019-04-03-af-joseph, with 1963-12-26-ds-mary and 2019-01-29-af-mary-
-  magdalene also readable here. See the note below on what this section is
-  for.
-  **Witness**: 2015-08-13-af-jesus (added 2026-08-30).
-
-  Why the thread was rebuilt. Its registry argument used to read as three
-  corrections and a summary: complete soul, no soulmate, Magdalene was not the
-  soulmate, doctrines require correction. That is a bag, not a path, which is
-  the one thing this file's design decisions say a chain must not be. The
-  eight members were individually sound and led nowhere, so the thread read as
-  a list of things the archive denies. The registry row is now rewritten to
-  the path the material already supports: what he was not, what he was, what
-  falls with the error, why the record went wrong, and what he actually did.
-
-  The three additions, and the second is the structural repair rather than one
-  more member.
-
-  **2016-09-02-af-jesus, "I Am Your Brother"** (Core Teaching, Spirit
-  Biography). Elaboration, and possibly the thread's best statement of its
-  own central correction. He gives the denial and its positive replacement in
-  one movement: never God incarnate, "but a man who discovered the truth of
-  God's Love and in that discovery opened the doors to its existence amongst
-  mankind and all spirits", and he asks not to be worshipped in any way, being
-  teacher and brother rather than God, directing worship to God alone. He adds
-  that he has returned to Earth many times to educate and influence souls,
-  which nothing else in the thread carries. It was in the archive only as a
-  `the-fall` witness, on the door-opening clause, so its Jesus-record content
-  was passing through unclaimed. To settle at build, with both at full text:
-  it is two and a half years earlier than 2019-03-14-af-jesus and fuller, so
-  it may be the proper carrier of the not-God facet, with 2019-03-14
-  redescribed as the churches-facing application of it.
-
-  **2019-04-03-af-joseph** (Core Teaching). Testimony, a role the vocabulary
-  defines and this thread did not use at all. Joseph, the earthly father,
-  testifies that during his Earth life he did not understand his son's mission
-  or the power of the Love, and proclaims Jesus as the Messiah not for the
-  Jews only but for all humanity. It was logged against this message as
-  "sighting, not a member" on a Divine Love supremacy point, so the record
-  content in it was passed over rather than weighed.
-  The reason to take it is bigger than the member. Put beside
-  2016-03-31-af-judas, whose log entry already reads "why Jesus was different,
-  from someone who could not work it out at the time", and beside
-  1963-12-26-ds-mary, a mother correcting the record of her own son, a pattern
-  appears that the thread never named: the people closest to him did not
-  understand him while he lived. That is not a fourth correction. It is the
-  answer to why the record needs correcting at all, which the thread asserted
-  and never explained. It is now the fourth step of the registry argument, and
-  the Testimony section is what carries it.
-
-  **2015-08-13-af-jesus** (Core Teaching, Jesus Speaks). Witness only.
-  First-person Earth-life material, the resistance and difficulty he met in
-  his own day, drawn as a parallel to the present circle's mission. The
-  Earth-life content is real but the message is about the present work, so it
-  does not carry a member role under the scope test.
-
-  Fence to draw at build, and a member deliberately not proposed.
-  2015-03-28-af-augustine is a `religious-error` Testimony in which Augustine
-  confesses he spread erroneous beliefs about Jesus' true message, and
-  2016-03-30-af-augustine confesses he taught error that persists in the
-  church today. That is the same why-the-record-went-wrong step approached
-  from the other side, the teachers rather than the intimates. It belongs to
-  `religious-error` and should stay there, so one sentence of fence is needed:
-  `religious-error` is what the church taught wrongly across all doctrine,
-  `who-jesus-was` is the record of one person.
-
-  Coverage caveat, and it governs how much weight this pass carries. The
-  search ran over the master index, which holds only description and door, so
-  any Jesus-record claim made inside a message about something else is
-  invisible to it. The archive holds 59 messages spoken by Jesus and a
-  51-message "Jesus Speaks" collection; five of the 59 are in this thread. A
-  full-text pass over that collection would very likely find more, and given
-  how central he is it is worth doing as its own piece of work rather than as
-  a by-product of batch cataloguing.
+- `who-jesus-was`: running from what he was not to what he actually did, by way
+  of why the record went wrong.
+  Foundation section, three members spanning fifty-six years, anchor to be
+  chosen at build. 1963-12-26-ds-mary corrects the record of her son's birth
+  and nature as the one person present for it, "Most of what the New Testament
+  says about me is untrue": no virgin birth, Jesus "born exactly like other
+  babies," Joseph a young husband rather than the aged figure of tradition,
+  eight children in the house. From that she gives the thread its central
+  claim, that Jesus became the Messiah rather than being born one, because
+  God's Love "permeated his soul... made him, in time, His real, only begotten
+  son." She also reports that his own family thought him insane and corrects
+  the idea that his death was a blood sacrifice. 2018-11-26-af-jesus affirms
+  his own existence as a Celestial spirit, identifies himself as the first soul
+  to enter the Celestial Kingdom, and confirms he will never return in the
+  flesh, which is what makes impersonation possible and worth warning about.
+  2019-01-27-af-jesus states that he incarnated as a complete, singular soul by
+  prior agreement with God, with no soulmate. The 1963 message is the earliest
+  in the archive, so whichever anchor is chosen the thread opens the full 1963
+  to 2023 span.
+  Elaborations, what he was not and what stands in its place.
+  2016-09-02-af-jesus gives the denial and its positive replacement in one
+  movement, in his own voice, "And I was never God incarnate. No, my beloveds,
+  I was a man who discovered the truth of God's Love and in my discovery opened
+  the doors to its existence amongst mankind and all spirits," with a directive
+  no other member carries, "do not worship me in any way for I am not God. I am
+  your teacher. I am with you in my love for you but I am with God as you are
+  with God," so worship is prohibited and relocated, and his own position
+  stated as identical to the hearer's. He adds that he has returned to Earth
+  many times to educate and influence souls, which nothing else in the thread
+  holds. 2019-03-14-af-jesus turns the same correction on the churches, "Those
+  who pray within these churches may not pray to me for I am your brother, but
+  I am not God. God is separate from me as He is from you... Yet I am closest
+  to God."
+  Elaborations, what made him able and what he did. 2016-04-02-af-jesus has him
+  incarnate "with a unique attribute of having a purified soul," protected by
+  God from the conditions of the world, with his purpose stated as "to re-open
+  the door of His Love," and he interprets his own scripture, "When I say,
+  'Seek ye the Kingdom' I mean, seek God's Love, which will create the Kingdom
+  within you." 2017-05-11-af-jesus gives the post-crucifixion appearances as
+  mechanism rather than miracle, "I transformed my spirit body into flesh and
+  walked upon the earth for some time and spoke with them and told them of the
+  Truth once more," and names what the disciples wrongly expected of him,
+  placing that misunderstanding at the source rather than in later tradition.
+  It sits with the 2018-11-26 statement that he will never return in the flesh:
+  the appearances were temporary and purposeful, not a precedent.
+  Objection-removed: 2019-01-29-af-mary-magdalene confirms in her own voice
+  that she was never his soulmate, wife or lover, removing the most common
+  popular counter-claim, and follows the 2019-01-27 message both
+  chronologically and logically.
+  Testimony, and this section is what answers why the record needs correcting
+  at all. 2016-03-31-af-judas gives why Jesus was different from someone who
+  could not work it out at the time, "We saw embodied within our dear brother
+  great power and wisdom, love and affection, gifts of healing and insight and
+  perceptions, which we did not have. And we glorified our brother, we put him
+  upon a pedestal and we saw him as different and far above us. But we did not
+  understand why he was different," which names the pedestal as the disciples'
+  own error and locates the beginning of the divinity misunderstanding among
+  the people closest to him. He also states the purpose as reopening the offer,
+  the Gift "was offered to Him and he accepted for he knew that this was his
+  purpose in the world to bring this Gift again to humanity."
+  2019-04-03-af-joseph, the earthly father, testifies that during his Earth
+  life he did not understand his son's mission or the power of the Love, and
+  proclaims Jesus as the Messiah not for the Jews only but for all humanity.
+  Read beside the 1963 message, a mother correcting the record of her own son,
+  the three make a pattern the thread asserted and never explained: the people
+  closest to him did not understand him while he lived. 1963-12-26-ds-mary and
+  2019-01-29-af-mary-magdalene are also readable in this section.
+  Witnesses. 2015-08-13-af-jesus gives first-person Earth-life material, the
+  resistance and difficulty he met in his own day, drawn as a parallel to the
+  present circle's mission; the Earth-life content is real but the message is
+  about the present work, so it carries no member role under the scope test.
+  2019-04-01-jw-yogananda names him "the highest soul in God's kingdom" in
+  passing.
+  Fences. Against `religious-error`: that thread is what the church taught
+  wrongly across all doctrine, this one is the record of one person. The
+  distinction matters because 2015-03-28-af-augustine and
+  2016-03-30-af-augustine are `religious-error` Testimony in which Augustine
+  confesses he spread erroneous beliefs about Jesus' true message and taught
+  error that persists in the church today. That is the same
+  why-the-record-went-wrong step approached from the other side, the teachers
+  rather than the intimates, and it stays there. Against `the-fall`: that
+  thread is what he restored and why it needed restoring; this is who he was.
+  2016-03-31-af-judas and 2016-09-02-af-jesus serve both.
+  What is awaited. A full-text pass over the Jesus Speaks collection. The
+  development work behind this roster searched the master index, which holds
+  only description and door, so any record claim made inside a message about
+  something else was invisible to it. The archive holds a large body of
+  messages spoken by Jesus and only a handful of them are in this thread, so a
+  dedicated reading would very likely find more and is worth doing as its own
+  piece of work rather than as a by-product of batch cataloguing.
+  Structural note: the not-God facet may belong to 2016-09-02-af-jesus rather
+  than to 2019-03-14-af-jesus. The earlier message is two and a half years
+  ahead of it and fuller, carrying the denial, the positive replacement and the
+  worship prohibition together, so at build with both at full text it may be
+  the proper carrier, with 2019-03-14 redescribed as the churches-facing
+  application of it. Separately, 2016-03-31-af-judas lays out the whole arc of
+  Divine Love, and whether that arc is an argument in its own right or simply
+  the sum of `the-fall`, this thread and `pentecost` is a `divine-love-history`
+  candidate to decide at build.
 
 # Holding pen (candidate threads not yet minted)
 
