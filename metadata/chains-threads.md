@@ -195,42 +195,50 @@ added to it; later additions are folded into the role section they belong to.
 
 ## Thread rosters
 
-- `armour-of-the-world`, (minted 2026-08-30 at the curator's direction, from
-  the clothing cluster described across 2016-08-28 to 2016-10-24). Six
-  messages, five spirits, in under two months.
-  Foundation, presumptive anchor: 2016-08-28-af-francis-of-assisi, which names
-  the clothing as mental assumptions and as removable, and says why it is worn.
-  Capstone: 2016-10-24-af-confucius, which completes the argument by making it
-  an exchange rather than a removal, "As you shed your cloaks of error and don
+- `armour-of-the-world`: running from why the armour is worn to what is put on
+  in its place.
+  Foundation, presumptive anchor: 2016-08-28-af-francis-of-assisi names the
+  clothing as the mental assumptions a person wears as protection, says why it
+  is worn, and calls it removable. This message holds a role in
+  `fear-of-full-immersion` as well and is the hinge between the two threads,
+  that role resting on the fear of full immersion and this one on the clothing
+  itself.
+  Elaborations, the three things the clothing is said to be.
+  2016-09-09-af-andrew has it as defence against a people that cannot trust,
+  with the instruction to set it down, "put away your shield and your armour,
+  to trust in God who will protect you... You will not be hurt. Only when you
+  join into this condition will you feel that way";
+  2016-09-10-af-augustine has it as unworthiness before God, "There is a great
+  ocean of Love which you may bathe within if you but remove your cloak and
+  your armor and come to God as a child filled with longing to be home with
+  your Heavenly Father"; 2016-09-12-af-jerome has it as accumulated pain, named
+  and handed over, which is the fullest account the thread holds of what the
+  clothing is made of, "It is hard for mankind to put aside their armor, their
+  error, their anger, and their mistrust," and in the prayer, "this is my cloak
+  of pain, this is the armor which I don in order to navigate this life and I
+  wish that you would take it all." The Jerome instance is the only one where
+  the clothing is surrendered to God rather than simply removed.
+  Capstone: 2016-10-24-af-confucius completes the argument by making it an
+  exchange rather than a removal, "As you shed your cloaks of error and don
   your cloak of Light you become a clear and effective channel." Every other
-  instance in the cluster is subtractive, clothing taken off so that something
-  can happen; this alone says what is put on instead, which is what turns a
-  repeated figure into an argument with an end.
-  Members between them: 2016-09-09-af-andrew, the armour as defence against a
-  people that cannot trust, "put away your shield and your armour, to trust in
-  God who will protect you"; 2016-09-10-af-augustine, the armour as
-  unworthiness before God, "remove your cloak and your armor and come to God as
-  a child"; 2016-09-12-af-jerome, the armour as accumulated pain named and
-  handed over, "this is my cloak of pain, this is the armor which I don in
-  order to navigate this life and I wish that you would take it all".
-  Witness: 2016-10-15-af-confucius, which carries the water half of the cluster
-  rather than the clothing, "Drink in these living waters. Allow yourselves to
-  be fully immersed."
-  **This thread is minted alongside `fear-of-full-immersion` and does not
-  replace it**, which is a departure from the parallel with
-  `opposition-to-the-light-worker` above and is flagged as such. That candidate
-  was unminted and had one sighting, so renaming it cost nothing. This one is
-  different: `fear-of-full-immersion` is minted, carries a Foundation, a
-  Reframe and an Elaboration, and its argument is about fear, the losses a soul
-  imagines it will suffer, down to identity. Renaming it would strip that
-  argument, which three of its members carry. So the clothing cluster is given
-  its own thread instead, and the fence is what resolves the scope question
-  raised four times: `fear-of-full-immersion` keeps only messages that carry
-  the fear argument, and the image-only messages come here, where the image is
-  the argument. 2016-08-28-af-francis-of-assisi holds a role in both, which the
-  vocabulary permits, and it is the hinge between them.
-  One piece of counter-evidence recorded rather than resolved. The
-  `fear-of-full-immersion` Reframe sets sipping against immersion and makes
+  instance is subtractive, clothing taken off so that something can happen;
+  this alone says what is put on instead, which is what turns a repeated figure
+  into an argument with an end.
+  Witness. 2016-10-15-af-confucius carries the water half of the cluster rather
+  than the clothing, "Open your souls. Drink in these living waters. Allow
+  yourselves to be fully immersed in this great Love."
+  Fences. Against `fear-of-full-immersion`, which is the fence that resolves
+  the scope question raised four times: that thread argues why a soul will not
+  go all the way into the Love and what it believes it will lose, and it keeps
+  only messages carrying the fear; this thread argues what the clothing is, why
+  it is worn, and that it is exchanged, and it takes the messages where the
+  image is the argument. 2016-08-28-af-francis-of-assisi holds a role in both,
+  which the vocabulary permits. Against `conditions-of-a-people`: the
+  shield-and-armour passage at 2016-09-09-af-andrew is shared with that
+  thread's Foundation, and the two are separable, this role resting on the
+  clothing figure and that one on the condition the clothing defends against.
+  Structural note: one piece of counter-evidence recorded rather than resolved.
+  The `fear-of-full-immersion` Reframe sets sipping against immersion and makes
   drinking the half-measure it surpasses, while 2016-10-15-af-confucius uses
   drinking and immersion together as one invitation. So the water images were
   not fixed in opposition across this circle's vocabulary. That is an argument
@@ -370,49 +378,52 @@ added to it; later additions are folded into the role section they belong to.
   `incremental-journey` role on the same passage, since the backward look is
   precisely what reads the evidence.
 
-- `conditions-of-a-people`, (minted 2026-08-30 at the curator's direction, from
-  the pattern watch opened at 2016-09-01-af-jesus): 2016-09-09-af-andrew
-  (Foundation, anchor) with 2016-09-01-af-jesus and 2016-09-08-af-jesus as
-  witnesses. Three messages in nine days, two spirits, two countries.
-  The Foundation is the only one of the three that builds the argument rather
-  than observing the condition. Andrew names it, "This is a nation without
-  trust. Every soul, it seems, in this place is fearful and finds it very
-  difficult to trust another... always wary of betrayal, very sensitive to the
-  smallest innuendo"; attributes it to history, "conditions brought about by
-  these pains, of generations of mistrust"; describes its transmission by
-  projection onto whoever is met; and prescribes a response with two halves,
-  do not take the condition on, and do not armour against it, "put away your
-  shield and your armour, to trust in God who will protect you... You will not
-  be hurt. Only when you join into this condition will you feel that way."
-  Witnesses. 2016-09-01-af-jesus, delivered in Germany, opened the watch and
-  states the persistence, "Even your country struggles beyond those conditions
-  created long ago." 2016-09-08-af-jesus, delivered in Belgrade the day before
-  the Foundation, gives the condition its affective content, "The hearts that
-  mend in this country are burdened... They are burdened with such pain and
-  grief, anger and sorrow", and widens the scope past the nation to "this part
-  of the world, beset by strife for so long".
+- `conditions-of-a-people`: running from a condition a people's history lays
+  down to the posture that neither takes it on nor defends against it.
+  Foundation, anchor: 2016-09-09-af-andrew, the only one of the thread's
+  messages that builds the argument rather than observing the condition.
+  Andrew names it, "This is a nation without trust. Every soul, it seems, in
+  this place is fearful and finds it very difficult to trust another... always
+  wary of betrayal, very sensitive to the smallest innuendo"; attributes it to
+  history, "conditions brought about by these pains, of generations of
+  mistrust"; describes its transmission by projection onto whoever is met; and
+  prescribes a response with two halves, do not take the condition on and do
+  not armour against it, "put away your shield and your armour, to trust in God
+  who will protect you... You will not be hurt. Only when you join into this
+  condition will you feel that way."
+  Witnesses. 2016-09-01-af-jesus, delivered in Germany, states the persistence,
+  a collective condition outlasting the events that laid it down, "Even your
+  country struggles beyond those conditions created long ago," and is
+  deliberately not interpreted further than the words.
+  2016-09-08-af-jesus, delivered in Belgrade the day before the Foundation,
+  gives the condition its affective content, "The hearts that mend in this
+  country are burdened... They are burdened with such pain and grief, anger and
+  sorrow," and widens the scope past the nation to "this part of the world,
+  beset by strife for so long."
   Fences, and the first is the one that matters. Against
   `earth-conditions-and-prayer`: that thread's condition is a darkness-field
   generated by all mankind that acts like weather on every soul everywhere, met
   by daily prayer. This one is particular, laid down by one people's own
-  history, carried by a place, with its own signature (mistrust, here) and its
+  history, carried by a place, with its own signature, mistrust here, and its
   own remedy, which is a posture toward the condition rather than a prayer
   against it. Against `soul-expiation`: that thread is inherited darkness
-  carried by an individual soul, cleansed out of a person; this is carried
+  carried by an individual soul and cleansed out of a person; this is carried
   collectively and is declined rather than cleansed. Against `earth-changes`:
-  that thread is the planet.
-  Naming note: the two candidates carried in the log were
-  `inherited-national-conditions` and `conditions-of-a-people`. The second is
-  used because 2016-09-08-af-jesus reaches past a nation to "this part of the
-  world", so nation is too narrow a container for the claim.
-  What is awaited: an instance outside these two countries, which would show
-  the argument is general rather than a reading of post-conflict Europe; and a
-  message that says what prayer does to such a condition, since the two-halves
+  that thread is the planet. Against `armour-of-the-world`: the Foundation's
+  shield-and-armour passage carries an Elaboration there, and the two roles are
+  separable, that one resting on the clothing figure and this one on the
+  condition the clothing defends against.
+  What is awaited. An instance outside these two countries, which would show
+  the argument is general rather than a reading of post-conflict Europe. And a
+  message saying what prayer does to such a condition, since the two-halves
   response the Foundation gives is a posture and not an intercession.
-  Note for the anchor: 2016-09-09-af-andrew already carries a
-  `free-will-and-self-responsibility` Elaboration and three witness roles, so
-  it is a heavily loaded message; the Foundation role here rests on the
-  opening passage rather than on the message as a whole.
+  Structural note: the scope is a people and a place rather than a nation,
+  because 2016-09-08-af-jesus reaches past the nation to "this part of the
+  world," and nation is too narrow a container for the claim. The slug reflects
+  that. Separately, 2016-09-09-af-andrew is a heavily loaded message, carrying
+  roles in `free-will-and-self-responsibility`, `armour-of-the-world` and
+  `simplicity-of-the-path` besides this one, so the Foundation role here rests
+  on the opening passage rather than on the message as a whole.
 
 - `conduit-not-scripture`: running from how guidance reaches a soul to why the
   record of it is an instrument and never a sacred object.
@@ -2045,37 +2056,67 @@ added to it; later additions are folded into the role section they belong to.
   spine is provisional until the two full texts are read. Between them the
   thread rests entirely on witnesses.
 
-- `simplicity-of-the-path`, (minted 2026-08-06 with scope widened to path
-  and ministry under the argument-not-image ruling): 2016-04-17-af-
-  francis-of-assisi (Foundation, presumptive anchor: the developed statement
-  with first-person Testimony), 2016-08-26-af-brother-mandus (Elaboration:
-  the ministry instantiation with the reason and the failure mode).
-  Witnesses: 2016-08-28-af-faith-nyquist (the path-and-life assertion with
-  its consequence), 2016-08-26-af-augustine (the assertion in brief).
-  Witnesses 2016-11-26-af-andrew ("It is so simple, my
-  beloveds, so simple", with the manner named as innocence, simplicity and
-  grace), 2016-11-27-af-james-reid (complication located in the seeker's
-  own accumulated spiritual information and judged from the far side of
-  death, which would widen the scope a third time if promoted) and
-  2016-11-28-af-goldie (joy named as the thing doing the simplifying).
-  Sighting 2016-11-27-af-augustine, where the word carries its ordinary
-  sense.
-  Three witnesses:
-  2016-09-04-af-augustine (argument itself forbidden rather than
-  complexity, "Do not argue with others... Do not express contrary
-  opinions, but be sure in the love"), 2016-09-07-af-confucius
-  (complication located in the seeker's own head, "Do not clutter your
-  minds with speculation and doubt and fear").
-  PROMOTED 2026-08-30 by curator ruling: 2016-09-09-af-andrew moves from
-  witness to **Elaboration**. It is the chain's claim argued rather than
-  asserted, and it adds the mechanism no other member states, that faith
-  itself removes the appetite for analysis: "The world is a complex place
-  filled with many complex ideas. The truth is not complicated; the truth is
-  simple... when one is truly of faith there is no great desire to analyze,
-  merely to act in accordance to the knowing of the soul." Every other member
-  says the path is simple or shows a ministry being simple; this one says why
-  a person stops complicating it. The chain now runs Foundation, ministry
-  instantiation, mechanism.
+- `simplicity-of-the-path`: running from why the path is simple to why a soul
+  stops complicating it.
+  Foundation, presumptive anchor: 2016-04-17-af-francis-of-assisi, the path
+  inherently simple and complication human-made, given as a developed statement
+  with first-person Testimony. The scope covers both the walking and the
+  speaking, the seeker's life and the servant's ministry, under the
+  argument-not-image ruling.
+  Elaborations. 2016-08-26-af-brother-mandus gives the ministry instantiation
+  with the reason and the failure mode the Foundation lacked, "to espouse upon
+  the values and understandings of esoteric religions falls at the feet of
+  those who come for nurturance and comfort and healing. It has no effect; it
+  is the power of love, the simplicity of a simple hello, I love you, that
+  reaches the soul, that nurtures the heart," locating complication in what the
+  servant says and saying why it fails; 2016-09-09-af-andrew argues the claim
+  rather than asserting it and supplies the mechanism no other member states,
+  that faith itself removes the appetite for analysis, "The world is a complex
+  place filled with many complex ideas. The truth is not complicated; the truth
+  is simple... when one is truly of faith there is no great desire to analyze,
+  merely to act in accordance to the knowing of the soul." Other members say
+  the path is simple or show a ministry being simple; this says why a person
+  stops complicating it.
+  Witnesses, the claim asserted. 2016-08-26-af-augustine, "It is a simple
+  opening of yourselves to this blessing of Love... Powerfully, beautifully,
+  simply"; 2016-08-28-af-faith-nyquist, the path-and-life assertion with a
+  consequence attached, "it really is so very simple and as you live this
+  simple life all the complexities will fall away or fall into place";
+  2016-11-26-af-andrew, "It is so simple, my beloveds, so simple," with the
+  manner named as innocence, simplicity and grace.
+  Witnesses, where the complication is located. 2016-09-04-af-augustine forbids
+  argument itself rather than complexity, "Do not argue with others. Be sure of
+  the Love. Do not express contrary opinions, but be sure in the love";
+  2016-09-07-af-confucius puts it inside the seeker's own head, "Do not clutter
+  your minds with speculation and doubt and fear," naming its three components
+  as speculation, doubt and fear; 2016-11-27-af-james-reid puts it in the
+  seeker's accumulated spiritual information, judged from the far side of
+  death, "You need to shake off the clutter and the error and the irrelevant
+  details and focus, focus, my friends, on love," which would widen the scope a
+  third time to knowledge-hunger if promoted; 2016-11-28-af-goldie puts it in
+  the seeker's own heaviness and makes joy the thing that simplifies, "Oh, how
+  you wish to complicate life when it is so simple and joyful. Go with God and
+  go with joy and life will be simpler, easier, lighter."
+  Witness, the motive of complication. 2016-09-10-af-augustine gives
+  complication a motive no member attributes to it, "So many wish to complicate
+  the truth, to control it, to have great power, the power to disseminate God's
+  Will to mankind. This is such folly and error," and runs the simplification
+  inward, "your lives become simple, your motivations, and goals, and
+  ambitions, become simple." Both are stated rather than built.
+  Sightings, kept for the boundary they mark. 2016-10-17-af-keea-atta-kem reads
+  the same sentence from the other side, simplicity as the whole of the method;
+  2016-11-27-af-augustine uses the word in its ordinary sense, "you must simply
+  be in harmony with God," rather than as the thread's claim.
+  Fences. Against `religious-error`: that thread is the error institutions
+  accumulate; this one is the register in which truth actually reaches a soul.
+  The two would meet at the ambition step if the complication-motive facet is
+  ever promoted.
+  What is awaited. A second instance of the complication-motive facet, the will
+  to control as the reason truth gets complicated, which would promote
+  2016-09-10-af-augustine and join this thread to `religious-error`.
+  Structural note: 2016-09-10-af-augustine is a full doctrinal address whose
+  every argument is carried at member level elsewhere, so it holds no member
+  role anywhere and sits at witness throughout.
 
 - `soul-expiation`: 18 member roles across 18 messages, running from the
   universality of hidden injury, through the mechanism by which it surfaces
