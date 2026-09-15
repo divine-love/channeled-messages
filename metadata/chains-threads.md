@@ -365,18 +365,72 @@ added to it; later additions are folded into the role section they belong to.
   it is a heavily loaded message; the Foundation role here rests on the
   opening passage rather than on the message as a whole.
 
-- `conduit-not-scripture`, witnesses in hand:
-  2016-04-12-af-keea-atta-kem (Foundation, presumptive anchor: the recorded
-  message carries ongoing angelic accompaniment to each reader) and
-  2016-04-12-af-moses (Objection-removed: the words are never sacred, the
-  rapport is; the conduit preserved while stripped of authority; also serves
-  `religious-error`, compatible dual reading). Same evening, same circle,
-  both turning on the word rapport. No third witness in the 497 messages
-  currently indexed in llms.txt, roughly a quarter of the archive; expect
-  more in the unprocessed material.
-  Sighting 2016-11-27-af-james-reid, "that which is the
-  fabrication of the mind... will fall away", aimed at the seeker's own
-  reading rather than at the standing of a recorded message.
+- `conduit-not-scripture`: running from how guidance reaches a soul to why the
+  record of it is an instrument and never a sacred object.
+  Foundation, presumptive anchor: 2016-04-12-af-keea-atta-kem establishes the
+  conduit claim. The angels make "a rapport with your minds and your souls,"
+  and the rapport continues past delivery, "We are with you as you read them
+  and we are with all who read them and help to impress upon you the
+  importance of any particular message," attended to each reader's particular
+  life. "All of it is a training, an education, a direction to your lives."
+  Elaborations, the claim demonstrated from the spirit's side.
+  2014-10-11-af-judas states the rapport with a published text plainly, "I am
+  close to him because he reads my messages, the book that is named with my
+  name, and I impress upon him the truths which I intended to convey through
+  this effort," so the text is a conduit whose author is still working through
+  it; 2016-03-31-af-judas gives the same facet as collaboration, "I have been
+  with this instrument often when he reads the book which I collaborated in
+  writing... I am well satisfied with the efforts that we have made in this
+  publication," a spirit describing his own published text as something he
+  participated in producing and continues to attend.
+  Elaboration, the epistemology beneath the denial. 2016-04-12-af-moses states
+  what makes codification futile in the first place. Truth is not a fixed
+  object to be transmitted but something perceived, "Truth is not altogether
+  absolute. It is perceived by each individual soul, and although the
+  foundation of Truth can be universal, the perception of Truth is not
+  necessarily so," from which follow the tolerance of difference, "though
+  their truth, their understanding, their perspective may be slightly
+  different from yours, it is no less valid," and the verdict, "to try and
+  standardize Truth with words in a book is a fruitless effort." He includes
+  his own kind in the limitation, "we, who have tread this road for thousands
+  of years, continue to evolve in our understanding of Truth," and describes
+  how truth actually arrives, soul first and mind second, incrementally, it
+  "will emerge from your souls, find lodgment within your minds, and will
+  incrementally develop and unfold and evolve." Expected to be load-bearing at
+  build.
+  Objection-removed: 2016-04-12-af-moses clears the belief that would distort
+  the conduit claim into bibliolatry. It names the error from the inside,
+  denies it, "the word is not sacred. No, words are words," relocates the
+  sacredness, "What is sacred is your belief and connection, your rapport with
+  your Heavenly Father," and then preserves the conduit rather than discarding
+  it, "to bring a suggestion of Truth in the written word, for that is merely
+  all that it is, is a productive action." That last clause is what makes the
+  message a member here and not only of `religious-error`.
+  Witness. 2015-06-15-af-joseph-smith locates the authority in the soul's own
+  enlightenment rather than in any office or text, "true understanding comes
+  from the enlightenment of the soul and the enlightenment of the soul comes
+  from the inflowing of the Father's Divine Essence."
+  Sighting, kept for the boundary it marks. 2016-11-27-af-james-reid, "that
+  which is the fabrication of the mind, part of the intellectual ruminations
+  of imagination and interpretation of truth will fall away," which is close
+  to the thread's claim that words are never the sacred thing but is aimed at
+  the seeker's own reading rather than at the standing of a recorded message.
+  Fences. Against `religious-error`: that thread argues that inherited
+  doctrines are human constructs; this one argues what a channelled record is
+  and is not. 2016-04-12-af-moses serves both, a compatible dual reading.
+  Against `divine-love-mediumship`: that thread is the crossing itself and how
+  faithful it can be; this is the standing of what results. The
+  2019-01-26-af-seretta-kem teaching on the Law of Communication and Rapport
+  is adjacent to both and holds no role in either.
+  Structural note: the Foundation and the Objection-removed were given the
+  same evening, in the same circle, and both turn on the word rapport; the
+  pairing looks deliberate. Two open calls. The two Judas Elaborations carry
+  the same facet, and which one holds it is to be weighed at build, the
+  earlier having priority and the later being fuller. And if the thread's
+  argument is specifically that no text is scripture, 2016-03-31-af-judas may
+  be a witness rather than a member, since it shows the conduit relationship
+  without denying scriptural status.
+
 - `divine-love-healing`: running from the superlative claim and its reach to
   the ground the primacy rests on.
   Foundation, presumptive anchor: 2015-03-29-af-seretta-kem. Seretta Kem
@@ -447,6 +501,7 @@ added to it; later additions are folded into the role section they belong to.
   was carried across the 2016-09 Frankfurt and Belgrade messages and came back
   unengaged, the nearest miss being 2016-09-06-af-joseph, "there is no other
   source that will bring the healing and the answers to mankind."
+
 - `divine-love-mediumship`: 14 member roles across 14 messages, running from
   how a truth crosses into a mortal mind at all to how any soul may open the
   channel.
@@ -519,22 +574,60 @@ added to it; later additions are folded into the role section they belong to.
   `mind-vs-soul`: that thread argues which faculty is the seat of truth; this
   one takes the distinction as given and asks what the mind does to a message
   in transit.
-- `earth-changes`, witnesses in hand: 2015-08-17-af-jesus (Foundation,
-  presumptive anchor), 2017-09-13-af-keea-atta-kem (Elaboration),
-  2018-08-13-af-seretta-kem (Elaboration), 2023-02-10-af-augustine
-  (Elaboration, the Earth itself changing to force humanity awake).
-  Adjacencies: 2016-12-07-af-andrew (prophecy register),
-  2019-01-28-af-augustine (the limits of specific prophecy; primary home
-  `preparation-to-be-a-rock`). Distinct from `preparation-to-be-a-rock` (the
-  readying of souls) and from `earth-conditions-and-prayer` (the man-made
-  darkness-field acting on the individual soul): this thread is the Earth's
-  own changes and their purpose.
-  2016-09-06-af-mary (Elaboration, what the changes do
-  to people, and the easing of it as a stated divine desire: God "desires
-  that his emissaries of Love will help ease the fears and the confusion
-  that will ensue from these changes"). Unusually explicit that the Hand
-  is God's and the intended end is balance, where other members describe
-  the Earth acting on itself.
+
+- `earth-changes`: running from why the Earth is changing to what the changes
+  are for and what they ask of a prepared soul.
+  Foundation, presumptive anchor: 2015-08-17-af-jesus, the earliest developed
+  statement in hand of the premise, the cleansing of the Earth, environmental
+  abuse, and a coming time of chaos, "the storm is just upon the horizon."
+  Role tagged [back-search], provisional until confirmed at full text.
+  Elaborations, what the changes are and what causes them.
+  2017-09-13-af-keea-atta-kem gives the manifestation material, magnetic
+  shifts, animal disruption, and the closed-system consequences of ignoring
+  the Laws of Creation, and sends those carrying Divine Love to scientists,
+  leaders and seekers; 2018-08-13-af-seretta-kem gives the intensifying
+  imbalance and humanity's blindness to its causes, with the claim that true
+  solutions will not come from more inventions or structures but from each
+  soul turning honestly inward and seeking God. Both roles tagged
+  [back-search], provisional until confirmed at full text.
+  Elaborations, what the changes are for. 2016-10-15-af-seretta-kem makes the
+  purpose the Earth's own readying, "There will be indeed many storms and
+  shakings of the Earth, risings of the tide, as the Earth cleanses and
+  readies itself for a new era of life upon your Earth," with the cause stated
+  almost as the registry has it, "it is the disharmony which mankind has
+  brought within themselves and within this world that has sparked these
+  changes and responses... you cannot ignore the laws of creation, you cannot
+  be immune to the world that responds to your indifference"; it carries a
+  second facet not the ground of its role, the awakened soul's stance given
+  its content as adaptability and hope, "be flexible, willing to change and
+  adapt as all around you changes," "you cannot carry fear but hope."
+  2023-02-10-af-augustine makes the purpose the waking of humanity, the Earth
+  itself changing to force mankind awake, which moves the thread from what the
+  changes are to what they are for. The two purposes differ in whose they are,
+  the planet's own era against our awakening, and the earlier states it six
+  years first.
+  Elaboration, what the changes do to people. 2016-09-06-af-mary names the
+  effect as the reason prepared souls are wanted, "Mankind is on the verge of
+  great change as this world is transformed, as God places His Hand upon this
+  planet to bring change and healing and balance. And he desires that his
+  emissaries of Love will help ease the fears and the confusion that will
+  ensue from these changes." Unusually explicit that the Hand is God's and the
+  intended end is balance, where the other members describe the Earth acting
+  on itself.
+  Fences. Against `preparation-to-be-a-rock`: that thread is the readying of
+  souls; this is the Earth's own changes and their purpose. Against
+  `earth-conditions-and-prayer`: that thread is the man-made darkness-field
+  acting on the individual soul; this is the planet. Two adjacencies hold no
+  role here: 2016-12-07-af-andrew in the prophecy register, and
+  2019-01-28-af-augustine on the limits of specific prophecy, whose primary
+  home is `preparation-to-be-a-rock`.
+  Structural note: three of the four Elaborations and the Foundation reach
+  this thread through the 2016 and 2017 material or through back-search, and
+  the two purpose statements are six years apart with nothing logged between
+  them. A builder reading the roster in date order will find the thread's
+  central claim, that the changes are for something, stated at the two ends
+  and not in the middle.
+
 - `earth-conditions-and-prayer`: 12 member roles, running from a darkness-field
   that acts on every soul to the practice by which a soul meets it.
   Foundation, anchor: 2016-02-29-af-luke, the field generated by the thoughts
@@ -767,6 +860,7 @@ added to it; later additions are folded into the role section they belong to.
   soul's own purpose surfaces; this one is about the plan the purposes serve.
   Against `provision-for-service`: that thread is about what is supplied to
   the work; this one about whose work it is.
+
 - `free-will-and-self-responsibility`: running from why God will not lift a
   self-created pain to why you carry no responsibility for another soul's
   choice.
@@ -838,6 +932,7 @@ added to it; later additions are folded into the role section they belong to.
   else logged carries the purpose behind the law, and a thread built on a law
   is stronger for holding its reason. Demote if the roster prefers members at
   argument length.
+
 - `guidance-as-seed`: running from how God's Will announces itself to what
   the soul owes the announcement.
   Foundation, anchor: 2016-02-02-af-jesus. God's Will comes "not as a dramatic
@@ -867,26 +962,85 @@ added to it; later additions are folded into the role section they belong to.
   developed members, in the shape of `challenges-as-blessings`. The Foundation
   is carried in the roster without a per-message log entry and awaits
   migration.
-- `incremental-journey`, witnesses in hand:
-  2015-03-23-af-john-the-beloved ("each step of the gradual awakening is
-  swift in the measure of eternity"), 2015-03-28-af-augustine (the blessing
-  of Divine Love is incremental, each prayer brings the soul closer),
-  2015-05-03-af-confucius (Foundation, presumptive anchor: growth advances
-  in leaps, then trickles, impeded by world and self yet lifted by God),
-  2019-04-04-af-matthew (Elaboration: the oscillation explained by the
-  mind's fear-driven retreat to the familiar, each forward effort
-  reinforcing truth). Overlaps `pentecost` (sudden vs gradual as the
-  awakening-modes question) and `soul-expiation`; this thread is the
-  why-increments question.
-  Witnesses 2016-10-26-af-augustine ("It does not come
-  all at once... It comes with each prayer") and 2016-11-21-af-confucius,
-  which itemizes what changes with each increment, consciousness,
-  awakening, understanding and perception.
-  Sightings 2016-09-04-af-
-  john-the-beloved ("Slowly your eyes are opening") and 2016-09-09-af-
-  francis-of-assisi ("with each sip of this Love you will be stronger"),
-  both asserting the increment without the oscillation the members
-  describe.
+
+- `incremental-journey`: running from why growth comes in increments to how a
+  seeker can tell that it has happened.
+  Foundation, presumptive anchor: 2015-05-03-af-confucius, the earliest
+  developed statement of the pattern in hand, the soul's growth advancing in
+  leaps then trickles, impeded by the world and the self yet always lifted by
+  God. Role tagged [back-search], provisional until confirmed at full text.
+  Elaborations, the shape of the increments. 2015-03-28-af-augustine adds the
+  threshold the registry spine does not carry, that the increments accumulate
+  before the journey proper begins and there is a moment when it starts, "The
+  blessing of Divine Love is an incremental thing. Each step brings you closer
+  to God, every dollop of this Love brings greater light to your soul," then
+  the turn, "when the awareness of this Love enters your being... then you
+  begin the journey"; 2019-01-28-af-matthew-2 develops the why from the human
+  side, the most tenacious soul conditions "stick to you with such tenacity"
+  and require equal force of yearning to break, so the seeker chooses between
+  the purposeful intense gaze into the dark chambers now and the drop-by-drop
+  accumulation of Divine Love over many years, "This healing will take place
+  whether it be soon or at some future date... it is your choice";
+  2019-04-04-af-matthew supplies the mechanism of the oscillation, "you take
+  two steps forward and one back. You try something new and then retreat to
+  the old. But each time you make that effort, beloved souls, you reinforce
+  truth," the retreat being fear-driven and each forward effort reinforcing.
+  Elaborations, what the increments reach and how they are seen.
+  2016-10-24-af-confucius gives the thread its one practical instruction,
+  retrospection as the way increments become visible, "mark your progress,
+  beloveds. If you look back upon your life and see how your perceptions have
+  changed your behaviour, your capacity to love. And, yes, these things are
+  often subtle and gradual, but much has changed within each one of you,"
+  extended to beginners, who by the thread's own logic have least to look back
+  on; 2019-04-05-af-augustine extends the claim to the apprehension of truth
+  itself, in the thread's own word, "It is a long journey, beloveds, to the
+  Truth. It is incremental. It is something that builds in understanding,"
+  God's Truth simple in essence yet long to implement, with patience asked for
+  self and others while the foundation of truth is built in the soul.
+  Objection-removed: 2016-09-18-af-jesus refuses the expectation of a dramatic
+  shift, to hearers who were holding it. The objection is named first, "your
+  minds often speculate and wonder and create ideas of what is to be," then
+  cleared, "There will be no dramatic shifts of understanding, my beloveds.
+  No, it will come incrementally within the flow of the Father's Love." Every
+  other member states the increments positively, as description or
+  reassurance; this is the only one that denies the alternative, and it
+  locates the increment in the flow of the Love rather than in the seeker's
+  effort or the mind's retreat.
+  Witnesses, the increment asserted. 2015-03-23-af-john-the-beloved gives the
+  eternity-perspective reframe in blessing form, "each step of the gradual
+  awakening is swift in the measure of eternity," and stands in the Foundation
+  section; 2016-10-26-af-augustine states it as plainly as anywhere, "It does
+  not come all at once, my beloveds. It comes with each prayer, each longing
+  you make to God"; 2016-11-21-af-confucius itemizes what changes each time,
+  "your consciousness shifts, your soul awakens, your understanding grows,
+  your perceptions deepen and you are changed"; 2017-05-11-af-jesus names and
+  dignifies the gradual road, "in many cases it is a gradual experience. Bit
+  by bit, you continue to inch your way forward"; 2018-10-09-af-seretta-kem
+  states the beginning as almost imperceptible, "In the beginning of this
+  journey, the effects are very subtle indeed," and denies the process any
+  shortcut.
+  Fences. Against `pentecost`: that thread is the two modes of awakening,
+  sudden and gradual, and the readiness the sudden mode requires; this thread
+  is why growth comes in increments at all. Against `soul-expiation`: that
+  thread is what is being cleansed; this is the rate at which it goes.
+  What is awaited. A fence between this thread and `pentecost` over
+  2016-09-18-af-jesus. That message denies the sudden mode to its hearers
+  without mentioning Pentecost, the disciples, or readiness, and offers no
+  second mode at all, so it engages half of the other thread's argument and
+  rejects the half that thread exists to explain. Both threads have a claim on
+  the passage and neither has a fence against the other. To settle before
+  either is built.
+  Structural note: a tension recorded and not resolved. 2016-05-02-af-andrew
+  says "your progression becomes exponential and your journey swift," which
+  sits against the spine of leaps then trickles, two steps forward and one
+  back. Probably reconcilable by location, the incremental pattern describing
+  the Earth-side struggle against the mind and world and the exponential
+  describing progression in spirit once conditions are released, but it is
+  visible here rather than discovered at build. Separately,
+  2016-05-30-af-augustine carries the oscillation and the ratchet nearly three
+  years before 2019-04-04-af-matthew and belongs beneath it chronologically in
+  that facet if it is promoted from the log.
+
 - `judgment-to-love`: 12 member roles across 12 messages, running from the
   impulse to correct another through what judgment costs on both sides to
   forgiveness as a measure of the soul's progress. It has no Foundation; see
@@ -980,6 +1134,7 @@ added to it; later additions are folded into the role section they belong to.
   Against `religious-error`: that thread corrects false doctrine; this one
   counsels leaving another's error uncorrected, which is why
   2016-09-12-af-jerome reads as an adjacency to both.
+
 - `knowing-your-own-soul`, (minted 2026-08-30 at the curator's direction, on
   confirmation of both anchor candidates at full text): 2016-02-15-af-augustine
   (Foundation, anchor, Core Teaching) and 2018-11-29-af-abdullah-latif
@@ -1034,6 +1189,7 @@ added to it; later additions are folded into the role section they belong to.
   is knowing what you are, which is why 2016-03-29-af-james sits on both.
   What is awaited: a Capstone. Nothing yet states what a soul that has come to
   know itself then does, or what the knowing feels like once arrived.
+
 - `mind-vs-soul`: 43 member roles across 40 messages, running from a
   definition of the two minds to their ceasing to be two.
   Foundation, anchor: 2015-10-12-af-augustine, a teaching given to answer a
@@ -1152,6 +1308,7 @@ added to it; later additions are folded into the role section they belong to.
   named for. Confirm at build rather than treating the absence as a gap,
   since the Chains Index health line will otherwise keep reporting it as
   incomplete.
+
 - `opposition-to-the-light-worker`, (minted 2026-08-30 at the curator's
   direction, widening and renaming the `fortress-of-light` pen candidate).
   Renamed because "fortress" is the image of one defence out of four and the
@@ -1202,6 +1359,7 @@ added to it; later additions are folded into the role section they belong to.
   roles in both and they rest on different halves of the message.
   What is awaited: an instance from outside this one travelling circle, since
   three of the five are Augustine or addressed to the same man.
+
 - `pentecost`: 2019-02-15-af-matthew (Testimony, the
   eyewitness account and the teaching drawn from it). The Foundation is
   identified but not yet logged: 2017-05-11-af-jesus, which frames the
@@ -1212,6 +1370,7 @@ added to it; later additions are folded into the role section they belong to.
   in hand: the readiness conditions as a checklist, and the claim that a
   gathering can produce it). Overlaps `incremental-journey` and
   `soul-expiation`; this thread is the awakening-modes question.
+
 - `portals`, (minted 2026-08-06 at a dedicated session reading the 2018 and
   2019 doctrine texts against the Blackpool cluster): 2019-01-26-af-
   seretta-kem (Foundation, presumptive anchor: the doctrine complete, the
@@ -1250,6 +1409,7 @@ added to it; later additions are folded into the role section they belong to.
   logged as an explicit negative with the distinction stated: portals
   attach to places and are conferred, whereas a network of Light joins
   people and is joined by praying.
+
 - `prayer-changes-world-conditions`, (minted 2026-08-03 per the pen's own
   condition, on the arrival of the mechanism): 2016-07-25-af-seretta-kem
   (Foundation, presumptive anchor: vessel, overflow, angelic division and
@@ -1445,6 +1605,7 @@ added to it; later additions are folded into the role section they belong to.
   of the people who will meet them. The split has been made twice in the log,
   at 2017-09-13-af-keea-atta-kem, where the earth-changes reading was called
   the primary home, and at 2016-10-15-af-seretta-kem.
+
 - `provision-for-service`: 2016-04-04-af-augustine
   (Foundation, presumptive anchor) and 2016-08-19-af-andrew (Elaboration,
   why the barriers work). Witnesses: 2015-08-20-af-faith-nyquist,
@@ -1459,6 +1620,7 @@ added to it; later additions are folded into the role section they belong to.
   list, "All that we require of you is for you to come together in harmony
   and prayer", with provision itself never mentioned. Sighting
   2016-11-06-af-jesus, doors opened with nothing said about provision.
+
 - `redemption-universal`: 6 member roles across 5 messages, running from the
   claim that no soul is excluded to the cases that prove it.
   Foundation, anchor: 2014-10-11-af-judas, which states the premise as a rule
@@ -1531,6 +1693,7 @@ added to it; later additions are folded into the role section they belong to.
   What is awaited: a message that states the premise, that hell is not eternal
   and the dark spheres are a condition and not a sentence. That is the gap the
   thread's shape currently turns on.
+
 - `religious-error`: 14 member roles across 13 messages, running from
   specific doctrinal corrections to the faculty that replaces reliance on the
   written word. It has no Foundation, and that is a finding rather than an
@@ -1624,6 +1787,7 @@ added to it; later additions are folded into the role section they belong to.
   what gathering does for the seeker, this one about what institutions
   accumulate. Against `who-jesus-was`: that thread establishes the record;
   this one is about how the record was distorted and by whom.
+
 - `self-love-foundation`, minted on the witness roster; anchor awaited (a
   message making self-love its own central argument; Luke is the likeliest
   voice). Witnesses: 2016-02-29-af-confucius, 2016-03-07-af-augustine,
@@ -1638,17 +1802,48 @@ added to it; later additions are folded into the role section they belong to.
   doubt within you, that you are loved." Whether the thread's argument
   admits the receiving side is an open question; if it does, this is
   substantial and bears on the anchor still awaited.
-- `sensitive-souls-redemptive`, 2016-03-07-af-augustine (Foundation, anchor)
-  and 2017-01-16-af-keea-atta-kem (Objection-removed: sensitivity is a sign
-  of growth, not vulnerability). Both logged.
-  Witness 2016-09-09-af-andrew, which reaches this
-  chain's conclusion by the opposite instrument. Its registry line has the
-  Love within the growing soul as the protection; Andrew has the armour as
-  the danger, "put away your shield and your armour, to trust in God who
-  will protect you... You will not be hurt", and names self-protection as
-  the thing that makes a person vulnerable. Recorded rather than proposed
-  as a member because the chain's subject is the sensitive soul's
-  redemptive function, which the message does not touch.
+
+- `sensitive-souls-redemptive`: running from what the sensitive soul suffers
+  in this world to why that soul is what redeems it.
+  Foundation, anchor: 2016-03-07-af-augustine. The sensitive soul who feels
+  the cruelty of the world acutely and struggles to be in it is the saving
+  grace of this world, progresses swiftly in spirit, refuses the darkness of
+  judgement and fear, and serves as the redemptive example whose very presence
+  turns heads and sows seeds of Love. Role tagged [back-search], provisional
+  until confirmed at full text.
+  Objection-removed: 2017-01-16-af-keea-atta-kem clears the fear that blocks
+  the thread's next step. Increased sensitivity is a natural sign of soul
+  growth rather than vulnerability, and the Love within the growing soul is
+  its protection, thoughts attracting like energies by law, so there is no
+  need for fear. Role tagged [back-search], provisional until confirmed at
+  full text.
+  Witnesses, the protection claim from other angles. 2016-09-09-af-andrew
+  reaches the thread's conclusion by the opposite instrument: the thread has
+  the Love within the growing soul as the protection, and Andrew has the
+  armour as the danger, "put away your shield and your armour, to trust in God
+  who will protect you... You will not be hurt. Only when you join into this
+  condition will you feel that way," naming self-protection as the thing that
+  makes a person vulnerable. Recorded rather than proposed as a member because
+  the thread's subject is the sensitive soul's redemptive function, which the
+  message does not touch. 2016-09-15-af-augustine has the protection
+  proportional rather than energetic, the flaws outweighed rather than the
+  soul shielded, "you are not perfect... Yet these aspects of yourself are
+  minor compared to the power of the Love that flows through you."
+  Witnesses, sensitivity and sorrow. 2016-07-13-af-seretta-kem states the
+  sensitivity-and-absorption claim in passing, the thread's territory without
+  its argument; 2019-01-21-af-augustine carries the sorrow facet pastorally,
+  "do you not feel saddened that your brothers and sisters cannot experience
+  this Holy Blessing."
+  Fences. Against `opposition-to-the-light-worker`: that thread is the
+  opposition a soul's Light provokes and the response to it, including the
+  daily fortress of prayer under targeting; this one is the sensitive soul's
+  own constitution and what it does for the world. Against
+  `self-love-foundation`: that thread is how a person regards themselves; this
+  is what their sensitivity is for.
+  Structural note: both members reach the thread by back-search, so the whole
+  spine is provisional until the two full texts are read. Between them the
+  thread rests entirely on witnesses.
+
 - `simplicity-of-the-path`, (minted 2026-08-06 with scope widened to path
   and ministry under the argument-not-image ruling): 2016-04-17-af-
   francis-of-assisi (Foundation, presumptive anchor: the developed statement
@@ -1988,7 +2183,7 @@ added to it; later additions are folded into the role section they belong to.
   clearest case in hand of a Divine Love communicator locating himself by
   sphere number where the thread treats the numbered spheres as the natural
   path's progression.
-  
+
 - `vanguards-of-change`: running from the commission itself to the freedom it
   requires.
   Foundation, presumptive anchor: 2016-01-08-af-jesus establishes the
