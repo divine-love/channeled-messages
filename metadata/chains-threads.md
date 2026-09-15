@@ -1875,6 +1875,7 @@ added to it; later additions are folded into the role section they belong to.
   says the path is simple or shows a ministry being simple; this one says why
   a person stops complicating it. The chain now runs Foundation, ministry
   instantiation, mechanism.
+
 - `soul-expiation`: 18 member roles across 18 messages, running from the
   universality of hidden injury, through the mechanism by which it surfaces
   and is released, toward a completion the thread has not yet stated.
@@ -1956,6 +1957,7 @@ added to it; later additions are folded into the role section they belong to.
   the healing removes.
   What is awaited: a second message describing the completion, which would
   promote 2016-05-16-af-keea-atta-kem and give the thread its close.
+
 - `soul-purpose-emergence`: 2019-01-29-af-augustine
   (Foundation, presumptive anchor: the purpose entrusted, the invitation
   free will may decline, the gravitation rather than the revelation) and
@@ -2018,74 +2020,150 @@ added to it; later additions are folded into the role section they belong to.
   without being asked for; and the purpose as directed outward, a task
   "to work on behalf of mankind", where the thread otherwise treats it as
   self-realisation.
-- `spiritual-fellowship`: 2015-03-28-af-augustine
-  (Foundation, anchor: fellowship as protection against falling back, and as
-  a way of seeing, "each has a unique perception and understanding and
-  journey to take and in sharing this with one another, it opens new
-  awarenesses") and 2015-06-15-af-joseph-smith (Elaboration: what makes a
-  fellowship genuine, "this is a true church, a church of Love, a community
-  in fellowship that seeks Light and true understanding", and the failure
-  mode, souls "willing to abdicate their desire to seek truth in a clear way
-  and adopt that which they are told to be truth"). Overlaps
-  `religious-error`, which is about the error institutions accumulate; this
-  thread is about what gathering does for the seeker. Watch for the
-  perception claim specifically: encouragement to gather is everywhere in
-  the archive, but the claim that other souls reveal what one's own cannot
-  is rare and is the thread's distinctive move.
-  Two Elaborations from one day and one circle, which
-  divide the subject cleanly: 2016-11-28-af-luke on what fellowship gives
-  (the exchange stated as a duty running both ways at the moment a circle
-  is formed, and the shared reception of the Love named as what makes
-  sharing possible across real difference) and 2016-11-28-af-moses on what
-  prevents it (judgment, fear and old slights leaving "pockets, several
-  here, several there but not unity", with the invitation to be extended
-  in love and refusal accepted without forcing). Luke is the perception
-  claim this roster asked to be watched for. Testimony is a defensible
-  alternative reading for Moses, on the strength of the paragraph offering
-  his own commission as evidence. If only one is taken, Moses is the
-  stronger addition, since the Foundation already carries the giving side.
-- `the-fall`: three member roles across two messages, tracing the Gift
-  offered, declined, withdrawn, and restored.
-  Foundation, anchor: 2016-05-29-af-aman, the refusal told by the one who
-  made it. The original state is given in physical detail, bodies
-  "perfectly proportioned, lean and fit," minds "keen and clear," souls
-  "untainted with sin," and the refusal is named, "we were so enamoured with
-  our own beings that such a gift seemed unnecessary." The first sin is
-  identified as suspicion rather than disobedience, and it arises out of the
-  contentment rather than beside it, "such a gift seemed unnecessary and we
-  felt the first inkling of our human nature. We felt suspicion." A second
-  passage carries Aman's own verdict, which is the part no other member can
-  supply: he does not excuse the choice, "I have always carried deep regrets
-  about how we chose to turn away from God," accepts its consequences as
-  his, "I cannot condemn those who are immersed in darkness because I sowed
-  the seeds to your fate many years ago," and still reads the refusal as
-  near-inevitable, "this choice was almost a forgone conclusion as God
-  gifted all with free will."
+
+- `spiritual-fellowship`: running from why a seeker cannot do this alone to
+  what makes a gathering worth belonging to.
+  Foundation, anchor: 2015-03-28-af-augustine argues for fellowship rather
+  than commending it, and gives two reasons. It holds the seeker against
+  falling "back into the human conditions," and it supplies perception the
+  seeker cannot reach alone, since "each has a unique perception and
+  understanding and journey to take and in sharing this with one another, it
+  opens new awarenesses." The second reason is the thread's distinctive claim
+  and the bar every later member is measured against.
+  Elaborations, what fellowship gives. 2016-11-28-af-luke states the exchange
+  as an obligation running both ways, at the moment a circle is being formed,
+  "each of you has something to give to your brothers and sisters here and
+  each of you has something to learn from your brothers and sisters in this
+  circle," with the instruction that follows, "Continue to observe and be
+  together as you form your bonds, and form this Circle of Light," and then
+  the ground of the whole thing, "each of you comes from a different life
+  experience, a different perspective, yet, each one of you is touched by
+  God's Love and this Love is what binds you together." Where the Foundation
+  says that sharing opens awarenesses none would reach alone, Luke says what
+  makes the sharing possible across real difference, which is the Love each
+  has received rather than any shared background or belief, and he makes the
+  exchange a duty rather than a benefit. 2017-08-21-af-matthew gives the
+  practice, first the sharing, "It is important to teach this my beloveds, to
+  share in this experience together in prayer, to speak of your feelings, to
+  speak of your perceptions," and then the receiving without measuring, "Be
+  open to the experiences of others. Accept their words even if they do not
+  match your own." The failure mode is built into the remedy: a fellowship
+  that shares experience will tend to standardise it, and the tendency has to
+  be actively resisted for the sharing to be worth anything.
+  Elaborations, what it costs and what prevents it. 2015-06-15-af-joseph-smith
+  defines what a church actually is, which the Foundation does not attempt,
+  not a building, an institution or a label but "a true church, a church of
+  Love, a community in fellowship that seeks Light and true understanding,"
+  and names the cost of getting it wrong, which is the reverse of the usual
+  warning: the danger is not isolation but the trade people make to avoid it,
+  "some seek community and long for that fellowship and are willing to
+  abdicate their desire to seek truth in a clear way and adopt that which they
+  are told to be truth." Fellowship is therefore necessary and also the thing
+  most likely to cost you the truth, depending on what it is founded on.
+  2016-11-28-af-moses names what stops a fellowship forming at all, "when you
+  are bogged down in judgement, in fear, in assumptions, this cannot happen.
+  You will have pockets, several here, several there but not unity, not true
+  brotherhood and sisterhood," states what is required, "you are required to
+  give each a choice in a loving way, to open the door in a loving way and say
+  'you are welcome'," and accepts that some will not come, "I am not
+  suggesting that you accept those in a forcible way." He offers his own
+  commission as evidence that it can be done, "I was charged by God to bring
+  together the Jews, my people, and there were many such conditions and strife
+  within that family; much larger than your own, and yet we did bond
+  together." Where Joseph Smith has belonging bought at the cost of truth,
+  Moses has belonging that never forms, and the cost is named for the work
+  rather than for the individual.
+  Witness. 2016-03-16-af-jesus gives what binds a circle as shared longing
+  rather than shared belief, "in your small circle you each long for God... and
+  this desire that you share amongst you, my brethren, makes for a powerful
+  bond which shall last for all eternity," which 2016-11-28-af-luke carries
+  developed.
+  Fences. Against `religious-error`: that thread is the error institutions
+  accumulate; this one is what gathering does for the seeker. The two meet in
+  2015-06-15-af-joseph-smith, where the institution is refused and the
+  fellowship kept.
+  Structural note: the membership bar is the perception claim, not the
+  encouragement to gather. Encouragement to gather is everywhere in the
+  archive; the claim that other souls reveal what one's own cannot is rare,
+  and it is what a candidate has to carry. Two further calls. The two
+  2016-11-28 Elaborations were given the same day to the same circle and
+  divide the subject cleanly, Luke on what fellowship gives and Moses on what
+  prevents it, so they are weighed together; if only one is taken, Moses is
+  the stronger addition, since the Foundation already carries the giving side.
+  And Testimony is a defensible alternative reading for Moses, on the strength
+  of the commission paragraph.
+
+- `the-fall`: tracing the Gift offered, declined, withdrawn and restored.
+  Foundation, anchor: 2016-05-29-af-aman, the refusal told by the one who made
+  it. The original state is given in physical detail, bodies "perfectly
+  proportioned, lean and fit," minds "keen and clear," souls "untainted with
+  sin," and the offer is put as a question, "We were asked if we would care to
+  receive a further gift of His Love, the essence of His soul into our hearts."
+  He does not claim to understand the refusal, "The great mystery is why we
+  chose not to receive this gift," but he names two causes precisely.
+  Self-absorption, "we were so enamoured with our own beings that such a gift
+  seemed unnecessary," and then the thing itself, which he calls the first sin
+  and which is not disobedience, "We felt suspicion. This was our first sin
+  and it grew into a dark canker upon our souls." The fall follows as
+  consequence rather than punishment and is physical as well as moral, pain
+  felt for the first time, then "anger and resentment," and "our bodies
+  reflected this choice as we became more flesh and blood than spirit and
+  grace." A second passage carries Aman's own verdict, the part no other
+  member can supply: he does not excuse the choice, "I have always carried
+  deep regrets about how we chose to turn away from God," accepts its
+  consequences as his, "I cannot condemn those who are immersed in darkness
+  because I sowed the seeds to your fate many years ago," and still reads the
+  refusal as near-inevitable, "this choice was almost a forgone conclusion as
+  God gifted all with free will." That last is a claim about free will itself,
+  that a gift real enough to matter is a gift real enough to be used wrongly,
+  and it converts the fall from an accident into a demonstration of what free
+  will costs.
   Foundation section: 2016-03-31-af-judas, the same refusal from outside,
-  supplying the arc the thread traces, the Gift offered, declined, withdrawn
-  and restored through Jesus, and stating it as a rejection rather than a
-  transgression, with no serpent, no fruit, no curse and no expulsion.
-  Witnesses. 2016-09-02-af-jesus, the reopening stated in the first person
-  and extended past mankind, "in my discovery opened the doors to its
-  existence amongst mankind and all spirits", which adds a reach the thread
-  does not otherwise carry.
-  Structural note: the origin of the fall has two accounts and they are not
-  the same diagnosis. The Foundations attribute the refusal to contentment
-  and the suspicion that grew out of it. The sighting at
-  2015-06-15-af-joseph-smith attributes it to the appetite for power, "The
-  source of the great fall of mankind is to be powerful, to not acknowledge
-  the power of God." Aman offers an ordering that would reconcile them,
-  since the desire for power appears in his account only afterwards, as part
-  of the degeneration, "we chose to follow our own wills ever more deeply
-  into a confused and darkened state." On that reading contentment and
-  suspicion caused the refusal and ambition characterises what the fall
-  produced. The ordering rests on one message and should be held as the
-  likely shape rather than built as settled.
-  What is awaited: a message that states the sequence from contentment to
+  supplying the arc the thread traces and the theological frame. God placed "a
+  reflection of God Himself in the form of a soul" in the first two human
+  beings, gave them free will, and then made a greater offer, "another Gift, a
+  more beautiful Gift, the Gift of His Essence. Not the mere reflection of His
+  Being, but the Essence of His Being." What defeated it was contentment, not
+  disobedience, "it was rejected, for the happiness of those original beings
+  was great and full in their existence as it was." The consequence is
+  withdrawal rather than punishment and it is temporary, "the Gift was
+  withdrawn until another beautiful soul was incarnated into this world free
+  of sin and error." No serpent, no fruit, no curse, no expulsion. The
+  doctrinal weight sits on the offer being declined by souls who were doing
+  well, which makes the refusal a live possibility rather than a historical
+  mistake.
+  Witness. 2016-09-02-af-jesus states the reopening in the first person and
+  extends it past mankind, "in my discovery opened the doors to its existence
+  amongst mankind and all spirits," which adds a reach the thread does not
+  otherwise carry, that the reopening covered spirits as well as the living.
+  Fences. Against `who-jesus-was`: that thread is who he was and what the
+  record got wrong about him; this one is what he restored and why it needed
+  restoring. 2016-09-02-af-jesus serves both. Against
+  `free-will-and-self-responsibility`: that thread is the individual's will as
+  the pivot of their own healing; here free will appears as the condition that
+  made the original refusal possible at all. 2016-05-29-af-aman serves both.
+  What is awaited. A message that states the sequence from contentment to
   ambition directly, which would settle the structural note. Also a full
   reading of 2015-10-26-af-aman, which holds the incarnation Foundation for
   `reincarnation-progression`; if it also covers the fall, the anchor here
   needs revisiting before it is settled for good.
+  Structural note: the origin of the fall has two accounts and they are not
+  the same diagnosis. Both Foundations attribute the refusal to contentment
+  and the suspicion that grew out of it. The sighting at
+  2015-06-15-af-joseph-smith attributes it to the appetite for power, "The
+  source of the great fall of mankind is to be powerful, to not acknowledge
+  the power of God." Aman offers an ordering that would reconcile them, since
+  the desire for power appears in his account only afterwards, as part of the
+  degeneration, "we chose to follow our own wills ever more deeply into a
+  confused and darkened state." On that reading contentment and suspicion
+  caused the refusal and ambition characterises what the fall produced. The
+  ordering rests on one message and should be held as the likely shape rather
+  than built as settled. Separately, the Judas message lays out the whole arc
+  of Divine Love, reflection placed, Essence offered and rejected, withdrawn,
+  restored by Jesus, confirmed at Pentecost, held open to every soul; whether
+  that arc is an argument in its own right or simply the sum of this thread,
+  `who-jesus-was` and `pentecost` is a `divine-love-history` candidate to
+  decide at build.
 
 - `two-paths`: 12 member roles across 12 messages, running from every soul
   being wounded and needing healing, to the two roads by which the healing
