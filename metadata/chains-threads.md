@@ -590,66 +590,96 @@ added to it; later additions are folded into the role section they belong to.
   describing the world's conditions reaching souls in spirit, which would
   close the question the other way and faster.
 
-- `fear-of-full-immersion`, (minted 2026-08-06 per the pen's own condition,
-  the answering message arriving thirteen days after the Foundation in the
-  same travelling circle and the same water image): 2016-08-15-af-alec-gaunt
-  (Foundation, presumptive anchor: the fear diagnosed, the imagined losses
-  named down to identity) and 2016-08-28-af-francis-of-assisi (Reframe: the
-  obstacle recast as removable clothing; the half-measure, sipping from the
-  bank, named and surpassed). The Reframe also holds the Foundation role on
-  `armour-of-the-world` from 2026-08-30, and is the hinge between the two
-  threads.
-  Recorded 2026-08-30, a tension rather than a member: 2016-11-07-af-
-  andrew names the one obstacle to full reception as the belief that you
-  are not loved, twelve weeks after the Foundation ruled unworthiness out
-  of the obstacle it names. Either two obstacles are being described, or
-  believing yourself unloved is distinct from believing yourself unworthy.
-  Both passages are worth quoting when this is settled.
-  2016-09-04-af-john-the-
-  beloved (Elaboration, the fear caught at the point of turning away and
-  named as fear of the change itself, "They are fearful, fearful of
-  change", which places it after the first reception where the Foundation
-  places it at the threshold; the chain treats the obstacle as removable
-  clothing, and here people put the clothing back on). Also recorded, an
-  image question raised and not decided at 2016-09-09-af-francis-of-
-  assisi: the same spirit reuses this chain's own sip image twelve days
-  after the Reframe, with the opposite valence, the sip now the unit of
-  incremental strengthening rather than the half-measure to be surpassed.
-  Either the image is simply flexible, or immersion and incremental
-  sipping are complementary rather than opposed, which would soften the
-  Reframe's wording.
-  SCOPE QUESTION SETTLED 2026-08-30 by curator ruling, and the thread is
-  smaller for it. The question had been raised four times, at
-  2016-09-10-af-augustine, 2016-09-12-af-jerome, 2016-10-15-af-confucius and
-  in the pattern notes: does this roster admit messages that carry the
-  thread's images, an ocean to bathe in and clothing that comes off, without
-  carrying its argument? The answer is no. `armour-of-the-world` was minted
-  the same day to hold the clothing cluster, where the image is the argument,
-  and those three messages are members or witnesses there rather than
-  witnesses here. This thread keeps only messages that carry the fear.
-  What it holds after the ruling: Foundation 2016-08-15-af-alec-gaunt, Reframe
-  2016-08-28-af-francis-of-assisi, Elaboration 2016-09-04-af-john-the-beloved,
-  witnesses 2015-03-27-af-andrew, 2016-05-02-af-andrew and
-  2017-05-11-af-jesus, and the Chrysalis-shaped sighting below. Every one of
-  them names a fear or a feared loss.
-  Fence against `armour-of-the-world`: that thread argues what the clothing is,
-  why it is worn, and that it is exchanged rather than simply removed; this one
-  argues why a soul will not go all the way into the Love, and what it believes
-  it will lose by doing so. A message can carry both, as the Reframe does.
-  Curator question 2026-08-30, whether that message is a Chrysalis or a
-  witness to one. Assessment: not a Chrysalis, and the reason is scope
-  rather than content. A Chrysalis opens the vista the cleared ground makes
-  visible; this is a pastoral aside to one man, and it opens nothing. But
-  the instinct is picking up something real, because one clause in it is
-  Chrysalis-shaped: "that thirst will never be quenched" offers endless
-  longing as the reward rather than the lack, which is a claim about what
-  the transformed state is like, permanently. So it is recorded as a
-  Chrysalis-shaped sighting. This chain has no Chrysalis. If a later message
-  develops the claim that the unquenchable thirst is itself the good, that
-  message is the Chrysalis and 2016-09-09-af-francis-of-assisi becomes its
-  witness. Cross-reference: the same clause is a fifth instance for the
+- `fear-of-full-immersion`: running from what a soul is afraid to lose to what
+  it is actually asked to take off.
+  Foundation, presumptive anchor: 2016-08-15-af-alec-gaunt. The reluctance
+  named and given its scale, "It is a reluctance to enter that pool of
+  water... This is almost universally true with each soul in this world. So
+  few wish to be immersed in God's great Love so fully," the feared losses
+  itemized down to identity itself, vulnerability, possessions, security, and
+  the answer given, that nothing in harmony is lost and all is enhanced. The
+  obstacle is specifically not unworthiness, which is the boundary the thread
+  is built on.
+  Reframe: 2016-08-28-af-francis-of-assisi recasts the obstacle as clothing,
+  worn and removable, not a condition of the soul. "I not only ask you to bend
+  down and sip of these waters but to remove the clothing of your mental
+  assumptions... Release the yoke of your fears. Release the judgements of
+  your mind and come and wade within these waters of Love. Let them carry
+  you," closing "it is for each one of you, beloved souls, to release all that
+  which holds you from being immersed in this wondrous Gift." It adds the
+  half-measure the Foundation lacked, sipping from the bank, which is the name
+  for what stands between reluctance and immersion. Reframe rather than
+  Objection-removed because no contrary belief is cleared; the obstacle is
+  re-imaged. This message also holds the Foundation role on
+  `armour-of-the-world` and is the hinge between the two threads.
+  Elaboration: 2016-09-04-af-john-the-beloved catches the fear at the point of
+  turning away and names it as fear of the change itself rather than of any
+  particular loss. "Many decide to turn away from this once they feel the
+  power and the wonderment and the potential of this great journey of Love.
+  They are fearful, fearful of change. For if there is one major component of
+  the gift of the Father's Love it is that it changes you." The Foundation
+  describes a soul hesitating at the threshold; this describes souls who have
+  already tasted the gift and retreat because of what it did, which places the
+  fear after the first reception rather than before it. The thread treats the
+  obstacle as clothing that can be removed; here people put the clothing back
+  on.
+  Witnesses. 2015-03-27-af-andrew takes the same subject from the other side,
+  asking for the thing directly rather than accounting for the obstacle, "Will
+  you open yourselves to this in a complete and vulnerable way? Be with God,
+  as you never have been before"; 2016-05-02-af-andrew names the holding back
+  without diagnosing the fear, "Do not hold back from God, but open yourself
+  completely to His Touch," three months before the Foundation supplies the
+  diagnosis; 2017-05-11-af-jesus names vulnerability as the cost of the full
+  opening, "In this opening comes a great vulnerability and an acknowledgment
+  of those conditions within your souls that are not in harmony with God,"
+  where the Foundation treats vulnerability as an imagined loss and Jesus
+  treats it as a real requirement, promotable if a later message develops that
+  difference.
+  Sighting, Chrysalis-shaped and kept for what it may become.
+  2016-09-09-af-francis-of-assisi is not a Chrysalis, and the reason is scope
+  rather than content: it is a pastoral aside to one man and it opens nothing.
+  But one clause in it is Chrysalis-shaped, "Drink the Love deeply, for that
+  thirst will never be quenched but with each sip of this Love you will be
+  stronger and more fulfilled," which offers endless longing as the reward
+  rather than the lack, a claim about what the transformed state is like
+  permanently. The same clause is a fifth instance for the
   `unlimited-reception` pen candidate, which asked to be told when a fifth
   appeared.
+  Fences. Against `armour-of-the-world`: that thread argues what the clothing
+  is, why it is worn, and that it is exchanged rather than simply removed;
+  this one argues why a soul will not go all the way into the Love, and what
+  it believes it will lose by doing so. A message can carry both, as the
+  Reframe does.
+  What is awaited. A Chrysalis, which this thread has none of. If a later
+  message develops the claim that the unquenchable thirst is itself the good,
+  that message is the Chrysalis and 2016-09-09-af-francis-of-assisi becomes
+  its witness. Also awaited, a settling of the obstacle question:
+  2016-11-07-af-andrew names the one obstacle to full reception as the belief
+  that you are not loved, reinforced by the world, "So much of the world
+  distracts you and brings a message to you that you are unworthy," twelve
+  weeks after the Foundation ruled unworthiness out of the obstacle it names.
+  Either two obstacles are being described, or believing yourself unloved is
+  distinct from believing yourself unworthy. It is held as a tension rather
+  than a member, and both passages are worth quoting when it is settled. The
+  adjacent `worthiness-as-gate` pen candidate holds the wider version of the
+  same question.
+  Structural note: the thread admits only messages that carry the fear, not
+  messages that carry its images. The question was raised four times, at
+  2016-09-10-af-augustine, 2016-09-12-af-jerome, 2016-10-15-af-confucius and
+  in the pattern notes, and the ruling is that an ocean to bathe in and
+  clothing that comes off do not qualify a message on their own.
+  `armour-of-the-world` holds the clothing cluster, where the image is the
+  argument, and those three messages are members or witnesses there rather
+  than here. Every message this thread holds names a fear or a feared loss.
+  Recorded so the boundary is not re-litigated. A related image question is
+  open and does not affect membership: the same spirit reuses this thread's
+  sip image with the opposite valence twelve days after the Reframe, the sip
+  now the unit of incremental strengthening rather than the half-measure to be
+  surpassed, and 2016-10-15-af-confucius uses drinking and immersion together
+  as one invitation. Either the water image is simply flexible, or immersion
+  and incremental sipping are complementary rather than opposed, which would
+  soften the Reframe's wording.
+
 - `free-will-and-gods-plan`: 14 member roles across 12 messages, running from
   God holding an intended end that free will constantly deflects, to the
   soul's free choice to align being itself the fulfilment of the plan rather
@@ -1249,7 +1279,7 @@ added to it; later additions are folded into the role section they belong to.
   needs widening. Sighting 2016-09-04-af-augustine, the same overflow
   image with the direction reversed, blessing drawn into the room rather
   than discharged from it.
-  
+
 - `prayer-soul-longing`: running from what prayer essentially is, beneath the
   words, to the named law that answers it.
   Foundation, anchor: 2015-11-28-af-faith-nyquist. Faith establishes that
@@ -1958,37 +1988,100 @@ added to it; later additions are folded into the role section they belong to.
   clearest case in hand of a Divine Love communicator locating himself by
   sphere number where the thread treats the numbered spheres as the natural
   path's progression.
-- `vanguards-of-change`, witnesses in hand:
-  2016-01-08-af-jesus (Foundation, presumptive anchor: the commission
-  itself), 2016-03-06-af-jesus (Elaboration: the release requirement,
-  in this world but not of it), 2016-05-12-af-alec-gaunt (Elaboration:
-  mobility at a moment's notice, the fear objection cleared). FENCE against
-  `preparation-to-be-a-rock`: rock is stability for what comes to you;
-  vanguard is mobility for where you are sent. A message may serve both
-  (2016-05-12-af-alec-gaunt does), but membership here requires the
-  commission-and-mobility argument, not readiness alone. The 2016-01-08
-  `healing-channel` Elaboration should be weighed for demotion to witness
-  at build, as the pen anticipated when holding this candidate. Roster witnesses added
-  2026-08-03: 2016-08-11-af-alec-gaunt (the commission materializing in the
-  present tense) and 2016-08-15-af-alec-gaunt (the release half restated);
-  each asserts one half of the argument without development. Added 2026-08-06:
-  2016-08-27-af-augustine (Elaboration, the release of one's own forward
-  plan, the day as the unit of readiness) and witnesses 2016-08-26-af-jesus
-  (the regathering facet, promotable at build) and 2016-08-29-af-faith-nyquist
-  (commission, release, and mobility asserted together). The August 2016
-  travels are where the commission material concentrates.
-  Witnesses 2016-11-06-af-jesus (the commission with the
-  opened-door promise, no release and no mobility claim), 2016-11-26-af-
-  andrew (the commission lived rather than taught, the circle already
-  travelling) and 2016-11-27-af-augustine (travel promised in the spirit's
-  own voice, with the release named as one of resistance rather than of
-  material burdens).
-  Witness 2016-09-04-af-
-  augustine, the commission stated as a travel programme with the role
-  named, "you come as missionaries", and no release asked for. Sightings
-  2016-09-03-af-james (the doors-opening claim in general form) and
-  2016-09-08-af-jesus (a single resident commissioned in place rather than
-  a group commissioned to mobility).
+  
+- `vanguards-of-change`: running from the commission itself to the freedom it
+  requires.
+  Foundation, presumptive anchor: 2016-01-08-af-jesus establishes the
+  commission. "You are the vanguards," said twice; God "will open the doors"
+  in the timing of His Will; their souls already sense what is coming; and the
+  commission serves "that great plan of our Heavenly Father's for the
+  salvation of mankind."
+  Elaborations. 2016-03-06-af-jesus adds the requirement the commission
+  imposes, that material burdens be released to have "the capacity and the
+  flexibility to walk wherever God will guide you," compressed as "in this
+  world but not of this world," with the change arriving "wave upon wave" and
+  the vanguard title tied directly to the unburdening; 2016-05-12-af-alec-
+  gaunt operationalizes the release as mobility at a moment's notice and
+  clears the fear objection, "No one will suffer from this. All those you love
+  will be taken care of," with sacrifices that are "not truly sacrifices,"
+  closing on the exemplary logic of deployment, "How can the world change if
+  you do not change?"; 2016-08-27-af-augustine extends the release to the
+  seeker's own forward plan and makes the day the unit of readiness, "you must
+  not project your intentions too far into the future in a specific way but to
+  be open and flexible realizing that God has a plan for you that unfolds with
+  each day," with the practice attached, "be open to whatever invitations come
+  your way this day." One's own intentions as an encumbrance of the same class
+  as possessions is a facet no other member carries.
+  Witnesses, the commission asserted without the release.
+  2016-08-11-af-alec-gaunt has it materializing in the present tense, "You
+  will travel the world to bring these truths to mankind and now you see this
+  coming about"; 2016-08-29-af-faith-nyquist asserts commission, release and
+  mobility together, "you step upon a great threshold of service to God... You
+  have sat in prayer for many years. Some of you know it is time to put prayer
+  into action," without a facet the 2016-08-11 witness does not already carry;
+  2016-09-04-af-augustine states it as a travel programme rather than a
+  readiness condition, "For we will be calling you to many places in the
+  world," with "you come as missionaries" naming the role and no release asked
+  for; 2016-11-06-af-jesus restates it with the opened-door promise, "God will
+  take you by the hand and show you the way, open the doors and connect you
+  with all the loving souls," which is what Jesus said ten months earlier in
+  the Foundation; 2018-06-18-af-matthew carries the vanguard title as its
+  door, "You are the vanguards seeking to move forward... into a new dawn of
+  Love and Truth that God intends for this world," with the circle cast as
+  explorers rather than as recipients.
+  Witnesses, the release half. 2016-08-15-af-alec-gaunt names the attachments,
+  "You are still attached and longing to be loved by others, to be
+  acknowledged, to have the material security that the world offers," set
+  against the commissioning to publications, talks and Circles of Light;
+  2016-09-16-af-john-the-beloved asks for the release of one's own needs, "to
+  walk this world unencumbered" and "to set aside your own needs so that God
+  may use you in purposeful and unencumbered ways in this world," a step
+  further in than possessions or plans; 2016-11-27-af-augustine promises the
+  travel in the spirit's own voice, "We will take you to many places and show
+  you many things and connect with you many souls," with the release named as
+  one of resistance rather than of material burdens, "as you lay down your
+  resistance and completely embrace the Will of God."
+  Witnesses, the reach of a small company. 2015-06-15-af-joseph-smith gives it
+  its longest range, "the reverberations of your efforts will spread through
+  time throughout this world. Many generations to come will feel the effects
+  of a handful of true souls who sought to be channels of Love," with the
+  circle named as first-comers, "It is coming to mankind and you are the
+  harbingers"; 2016-05-29-af-aman names the company itself, "You who are
+  attempting to turn this tide are brave and blessed warriors who are moving
+  in Light given by God to assist you in your efforts to bring change."
+  Witness, the regathering. 2016-08-26-af-jesus has God "continue to use you
+  and bring you together in groupings for specific purposes in the world... in
+  ways and means that may seem impossible to you at this time." No member is
+  about being re-formed into groups, so this is held at witness on one
+  forward-looking sentence in a message whose spine is the salvation plan, and
+  is promotable at build.
+  Sightings, kept for the boundary they mark. 2016-09-03-af-james has the
+  doors-opening claim in general form, "God will use you in ways yet
+  unanticipated, opportunities will come your way so that you may be a change
+  agent in the world," the commission and the opening without the release
+  requirement or the mobility the thread turns on; 2016-09-08-af-jesus
+  delivers the commission to one person in one named land, "I have sent you,
+  my brother, to be my disciple of Truth in this land," where this thread
+  concerns a group commissioned to mobility and this is a single resident
+  commissioned in place.
+  Fences. Against `preparation-to-be-a-rock`: rock is stability for what comes
+  to you, vanguard is mobility for where you are sent. A message may serve
+  both, as 2016-05-12-af-alec-gaunt does, but membership here requires the
+  commission-and-mobility argument and not readiness alone.
+  What is awaited. Whether the encumbrances form a series or one idea
+  restated: material burdens at 2016-03-06-af-jesus, one's own intentions and
+  plans at 2016-08-27-af-augustine, one's own needs at
+  2016-09-16-af-john-the-beloved. If they are three claims the last is
+  promotable; if one, it stays a witness.
+  Structural note: the commissioning material at 2016-01-08-af-jesus was
+  previously counted toward `healing-channel` and finds its primary home here.
+  That Elaboration is to be weighed for demotion to witness at build, as the
+  pen anticipated, with "great channel of service" keeping a witness-level
+  tie. Separately, 2016-10-15-af-confucius pairs an individual purpose with a
+  place in a collective work, "you will find your place within this work," and
+  whether the place-in-the-work facet belongs to this thread or to
+  `soul-purpose-emergence` is worth weighing at build.
+
 - `who-jesus-was`, roster written 2026-08-30 (the thread predates the roster
   convention; this entry gathers its confirmed structure and the development
   pass done at the curator's request).
