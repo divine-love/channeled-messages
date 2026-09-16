@@ -118,8 +118,7 @@ before adding new ones.
 An entry is a single indented block, no blank lines and no headings, with its
 internal structure carried by labelled sentence openings.
 
-The opening line names the thread, its size in member roles, and the arc it
-traces in one clause.
+The opening line names the thread and the arc it traces in one clause.
 
 Role sections follow in argument order, each introduced by its role name as a
 sentence opening: Foundation, Elaborations, Objections removed, Reframe,
