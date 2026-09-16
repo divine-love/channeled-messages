@@ -797,10 +797,10 @@ message_ids already carry the dates.
   Witnesses. 2015-03-27-af-andrew takes the same subject from the other side,
   asking for the thing directly rather than accounting for the obstacle, "Will
   you open yourselves to this in a complete and vulnerable way? Be with God,
-  as you never have been before"; 2016-05-02-af-andrew names the holding back
-  without diagnosing the fear, "Do not hold back from God, but open yourself
-  completely to His Touch," three months before the Foundation supplies the
-  diagnosis; 2017-05-11-af-jesus names vulnerability as the cost of the full
+  as you never have been before";   2016-05-02-af-andrew names the holding back 
+  without diagnosing the fear, "Do not hold back from God, but open yourself 
+  completely to His Touch," which is the diagnosis 2016-08-15-af-alec-gaunt 
+  later supplies; 2017-05-11-af-jesus names vulnerability as the cost of the full
   opening, "In this opening comes a great vulnerability and an acknowledgment
   of those conditions within your souls that are not in harmony with God,"
   where the Foundation treats vulnerability as an imagined loss and Jesus
@@ -826,9 +826,9 @@ message_ids already carry the dates.
   that message is the Chrysalis and 2016-09-09-af-francis-of-assisi becomes
   its witness. Also awaited, a settling of the obstacle question:
   2016-11-07-af-andrew names the one obstacle to full reception as the belief
-  that you are not loved, reinforced by the world, "So much of the world
-  distracts you and brings a message to you that you are unworthy," twelve
-  weeks after the Foundation ruled unworthiness out of the obstacle it names.
+  that you are not loved, reinforced by the world, "So much of the world 
+  distracts you and brings a message to you that you are unworthy," where 
+  2016-08-15-af-alec-gaunt had ruled unworthiness out of the obstacle it names.
   Either two obstacles are being described, or believing yourself unloved is
   distinct from believing yourself unworthy. It is held as a tension rather
   than a member, and both passages are worth quoting when it is settled. The
@@ -843,13 +843,14 @@ message_ids already carry the dates.
   argument, and those three messages are members or witnesses there rather
   than here. Every message this thread holds names a fear or a feared loss.
   Recorded so the boundary is not re-litigated. A related image question is
-  open and does not affect membership: the same spirit reuses this thread's
-  sip image with the opposite valence twelve days after the Reframe, the sip
-  now the unit of incremental strengthening rather than the half-measure to be
-  surpassed, and 2016-10-15-af-confucius uses drinking and immersion together
-  as one invitation. Either the water image is simply flexible, or immersion
-  and incremental sipping are complementary rather than opposed, which would
-  soften the Reframe's wording.
+  open and does not affect membership: the same spirit reuses this thread's 
+  sip image with the opposite valence in 2016-09-09-af-francis-of-assisi, 
+  the sip now the unit of incremental strengthening rather than the half-measure 
+  2016-08-28-af-francis-of-assisi asks the circle to surpass, and 
+  2016-10-15-af-confucius uses drinking and immersion together as one invitation. 
+  Either the water image is simply flexible, or immersion and incremental 
+  sipping are complementary rather than opposed, which would soften the 
+  Reframe's wording.
 
 - `free-will-and-gods-plan`: 14 member roles across 12 messages, running from
   God holding an intended end that free will constantly deflects, to the
@@ -1579,9 +1580,8 @@ message_ids already carry the dates.
   Pray for those who are lost. Pray for your fellow man, for each soul in
   their own way, is lost," with the deprivation universal rather than confined
   to the visibly suffering, "Look into the eyes of those in the world and you
-  will see it." Given two days after the harmony Elaboration at the same
-  gathering: that one conditions the sending, this one names and grounds the
-  target.
+  will see it."   Given at the same gathering as 2016-09-01-af-seretta-kem: 
+  that one conditions the sending, this one names and grounds the target.
   Witnesses, the outward claim asserted. 2015-03-27-af-andrew makes the
   condition harmony rather than numbers in a single clause about a small
   gathering, "it does not require great numbers to bring love and light to
@@ -1590,16 +1590,16 @@ message_ids already carry the dates.
   instead of intervening, with the assurance that it lands, "your prayers...
   are answered and are always being answered as the angels draw close";
   2015-11-28-af-faith-nyquist, dual-logged as the `prayer-soul-longing`
-  Foundation; 2015-12-21-af-peter; 2016-07-27-af-confucius asserts the outward
-  discharge two days after the Foundation, "the world is touched with Light as
-  you make these efforts to connect with God"; 2016-08-26-af-jesus asserts the
+  Foundation; 2015-12-21-af-peter; 2016-07-27-af-confucius asserts the outward discharge without the mechanism
+  2016-07-25-af-seretta-kem supplies, "the world is touched with Light as you
+  make these efforts to connect with God"; 2016-08-26-af-jesus asserts the
   projective direction without the mechanism, "You must pray and be that
   channel of Light that will beam upon every soul."
   Witnesses, the route sketched and the claim seen from the far end.
-  2016-05-09-af-seretta-kem sketches the steps in clauses eleven weeks before
-  the Foundation and from the same spirit, prayer opening doors, the angels
-  working in conjunction with the circle, the circle becoming a portal, the
-  effects reaching people never touched directly; 2016-11-27-af-james-reid-2
+  2016-05-09-af-seretta-kem sketches in clauses what 2016-07-25-af-seretta-kem
+  later develops, from the same spirit, prayer opening doors, the angels working
+  in conjunction with the circle, the circle becoming a portal, the effects
+  reaching people never touched directly; 2016-11-27-af-james-reid-2
   describes a spirit-side company gathered around the praying circle and
   touched by it, "so we gather many souls on our side of life, vastly more
   than are in the flesh," which sits nearer the lattice material than the
@@ -1831,10 +1831,10 @@ message_ids already carry the dates.
   gratitude rather than as teaching; 2015-08-20-af-faith-nyquist and
   2015-11-09-af-faith-nyquist carry the earlier sightings the thread was
   penned with; 2016-01-08-af-jesus carries it alongside the commission;
-  2016-08-25-af-confucius asserts the provision six days after the first
-  Elaboration, "the means will be provided, the opportunities will be laid
-  before you to continue upon this journey, this caravan of hope taking you
-  from one place to another"; 2016-11-27-af-confucius answers worry not with
+  2016-08-25-af-confucius asserts the provision without the causal account
+  2016-08-19-af-andrew gives, "the means will be provided, the opportunities
+  will be laid before you to continue upon this journey, this caravan of hope
+  taking you from one place to another"; 2016-11-27-af-confucius answers worry not with
   provision but by shrinking the human requirement to a closed list, "All that
   we require of you is for you to come together in harmony and prayer," with
   provision itself never mentioned.
@@ -2238,8 +2238,8 @@ message_ids already carry the dates.
   inner strife of ignoring it, the clarity that arrives as Divine Love
   enlivens the soul). Elaborations:
   2016-03-29-af-james (the gifts inherent in the soul lit up by the Love),
-  2019-02-03-af-andrew (the companion restatement four days after the
-  Foundation), 2019-02-21-af-elijah (the role designated in advance,
+  2019-02-03-af-andrew (the companion restatement to 2019-01-29-af-augustine),
+  2019-02-21-af-elijah (the role designated in advance,
   opened out through reception). Witnesses: 2015-09-21-af-mary,
   2019-04-07-af-augustine, 2016-06-27-af-faith-nyquist. Distinct from
   `purpose-of-life` (life's general meaning) and from
@@ -2567,13 +2567,13 @@ message_ids already carry the dates.
   2016-09-04-af-augustine states it as a travel programme rather than a
   readiness condition, "For we will be calling you to many places in the
   world," with "you come as missionaries" naming the role and no release asked
-  for; 2016-11-06-af-jesus restates it with the opened-door promise, "God will
-  take you by the hand and show you the way, open the doors and connect you
-  with all the loving souls," which is what Jesus said ten months earlier in
-  the Foundation; 2018-06-18-af-matthew carries the vanguard title as its
-  door, "You are the vanguards seeking to move forward... into a new dawn of
-  Love and Truth that God intends for this world," with the circle cast as
-  explorers rather than as recipients.
+  for; 2016-11-06-af-jesus restates it with the opened-door promise, "God will take
+  you by the hand and show you the way, open the doors and connect you with all
+  the loving souls," which is what Jesus said in 2016-01-08-af-jesus; 
+  2018-06-18-af-matthew carries the vanguard title as its door, "You are the
+  vanguards seeking to move forward... into a new dawn of Love and Truth that 
+  God intends for this world," with the circle cast as explorers rather than 
+  as recipients.
   Witnesses, the release half. 2016-08-15-af-alec-gaunt names the attachments,
   "You are still attached and longing to be loved by others, to be
   acknowledged, to have the material security that the world offers," set
