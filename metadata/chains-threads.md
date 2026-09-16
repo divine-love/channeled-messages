@@ -681,12 +681,12 @@ added to it; later additions are folded into the role section they belong to.
   role here: 2016-12-07-af-andrew in the prophecy register, and
   2019-01-28-af-augustine on the limits of specific prophecy, whose primary
   home is `preparation-to-be-a-rock`.
-  Structural note: three of the four Elaborations and the Foundation reach
-  this thread through the 2016 and 2017 material or through back-search, and
-  the two purpose statements are six years apart with nothing logged between
-  them. A builder reading the roster in date order will find the thread's
-  central claim, that the changes are for something, stated at the two ends
-  and not in the middle.
+  Structural note: most of the Elaborations and the Foundation reach this
+  thread through the 2016 and 2017 material or through back-search, and the
+  statements of what the changes are for sit at either end of the thread with
+  nothing logged between them. A builder reading the roster in date order will
+  find the thread's central claim, that the changes are for something, stated
+  at the ends and not in the middle.
 
 - `earth-conditions-and-prayer`: 12 member roles, running from a darkness-field
   that acts on every soul to the practice by which a soul meets it.
