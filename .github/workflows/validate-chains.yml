@@ -1,0 +1,32 @@
+name: Validate Chains Layer
+
+on:
+  push:
+    paths:
+      - 'metadata/chains-log.md'
+      - 'metadata/chains-threads.md'
+      - '.github/scripts/validate_chains.py'
+  pull_request:
+    paths:
+      - 'metadata/chains-log.md'
+      - 'metadata/chains-threads.md'
+      - '.github/scripts/validate_chains.py'
+  workflow_dispatch:
+
+jobs:
+  validate-chains:
+    name: Validate Chains Log and Thread Registry
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # No dependencies: validate_chains.py is standard library only.
+      - name: Validate chains layer
+        run: python .github/scripts/validate_chains.py
