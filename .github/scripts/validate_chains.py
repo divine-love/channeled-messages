@@ -89,6 +89,7 @@ COUNT = re.compile(r"\b(" + NUMBER + r")\s+(" + SIZE_NOUN + r")\b", re.I)
 SPAN = re.compile(
     r"\b(?:spanning|spans|span of|covering)\s+(?:" + NUMBER + r")\s+"
     r"(?:years|months|weeks|days)\b"
+
     r"|\b(?:19|20)\d{2}\s+to\s+(?:19|20)\d{2}\b"
     r"|\b(?:the\s+)?(?:earliest|latest|oldest|newest|first|last)\b"
     r"(?=(?:\W+\w+){0,6}?\W+(?:archive|corpus|collection|chain)\b)"
@@ -121,7 +122,7 @@ def check_frontmatter(lines, path):
 
 
 def roster_entries(threads):
-    """Yield (slug, line_no, joined_text) for each thread roster entry."""
+    """Yield (slug, line_no, joined_text, lines) for each thread roster entry."""
     start = next(i for i, l in enumerate(threads)
                  if l.startswith("## Thread rosters"))
     end = next(i for i, l in enumerate(threads)
@@ -129,7 +130,7 @@ def roster_entries(threads):
     heads = [i for i in range(start, end) if re.match(r"^- `", threads[i])]
     for a, b in zip(heads, heads[1:] + [end]):
         slug = re.match(r"^- `([a-z0-9-]+)`", threads[a]).group(1)
-        yield slug, a + 1, " ".join(x.strip() for x in threads[a:b])
+        yield slug, a + 1, " ".join(x.strip() for x in threads[a:b]), threads[a:b]
 
 
 def main():
@@ -143,7 +144,7 @@ def main():
 
     registry = [l.split("`")[1] for l in threads if l.startswith("| `")]
     rosters = list(roster_entries(threads))
-    roster_slugs = [slug for slug, _, _ in rosters]
+    roster_slugs = [slug for slug, _, _, _ in rosters]
 
     pen_start = next(i for i, l in enumerate(threads)
                      if l.startswith("# Holding pen"))
@@ -158,23 +159,32 @@ def main():
           f"and {len(roster_slugs)} thread rosters...\n")
 
     # ── Registry and roster ordering ─────────────────────────────────────────
-    if registry != sorted(registry):
-        errors.append("registry table is not in alphabetical order")
-    if roster_slugs != sorted(roster_slugs):
-        errors.append("thread rosters are not in alphabetical order")
-    walker = iter(registry)
-    out_of_place = [s for s in roster_slugs if s not in walker]
-    if out_of_place:
-        errors.append("roster is not a subsequence of the registry; out of "
-                      "place or absent from the registry: "
-                      + ", ".join(out_of_place))
+    registry_lines = [i + 1 for i, l in enumerate(threads)
+                      if l.startswith("| `")]
+    for (a, la), (b, lb) in zip(zip(registry, registry_lines),
+                                zip(registry[1:], registry_lines[1:])):
+        if b < a:
+            errors.append(f"chains-threads line {lb}: registry out of "
+                          f"alphabetical order, `{a}` then `{b}`")
+            break
+    roster_lines = [ln for _, ln, _, _ in rosters]
+    for (a, la), (b, lb) in zip(zip(roster_slugs, roster_lines),
+                                zip(roster_slugs[1:], roster_lines[1:])):
+        if b < a:
+            errors.append(f"chains-threads line {lb}: rosters out of "
+                          f"alphabetical order, `{a}` then `{b}`")
+            break
+    for slug, lineno, _, _ in rosters:
+        if slug not in set(registry):
+            errors.append(f"chains-threads line {lineno}: roster `{slug}` has "
+                          "no row in the registry table")
 
     # ── Every slug used in the log is known ──────────────────────────────────
-    used = set(re.findall(r"^- (?:NOTE \([^)]*?, )?`([a-z0-9-]+)`",
-                          "\n".join(log), re.M))
-    for slug in sorted(used - known):
-        errors.append(f"log uses `{slug}`, which is in neither the registry "
-                      "nor the holding pen")
+    for i, line in enumerate(log):
+        m = re.match(r"^- (?:NOTE \([^)]*?, )?`([a-z0-9-]+)`", line)
+        if m and m.group(1) not in known:
+            errors.append(f"chains-log line {i+1}: `{m.group(1)}` is in "
+                          "neither the registry nor the holding pen")
 
     # ── One record per line ──────────────────────────────────────────────────
     for i, line in enumerate(log):
@@ -183,17 +193,17 @@ def main():
                           "record must be a single line")
 
     # ── Entry order and uniqueness ───────────────────────────────────────────
-    dates, seen = [], {}
+    seen, prev = {}, None
     for i in entry_lines:
         mid = ENTRY.match(log[i]).group(1)
-        dates.append(mid[:10])
         if mid in seen:
             errors.append(f"chains-log line {i+1}: duplicate entry for {mid} "
                           f"(first at line {seen[mid]})")
+        elif prev and mid[:10] < prev[0]:
+            errors.append(f"chains-log line {i+1}: {mid} is out of order, it "
+                          f"follows {prev[1]} at line {prev[2]}")
         seen[mid] = i + 1
-    for a, b in zip(dates, dates[1:]):
-        if b < a:
-            errors.append(f"chains-log: entries out of order at {a} -> {b}")
+        prev = (mid[:10], mid, i + 1)
 
     # ── Role line format and vocabulary ──────────────────────────────────────
     # Any record opening with a backticked slug is a role line and must be well
@@ -209,31 +219,44 @@ def main():
                               "in the link-role vocabulary")
 
     # ── Debt ─────────────────────────────────────────────────────────────────
+    registry_row = dict(zip(registry, registry_lines))
     for slug in sorted(set(registry) - set(roster_slugs)):
-        debt["minted_without_roster"].append(slug)
+        debt["minted_without_roster"].append(
+            f"chains-threads line {registry_row[slug]}: `{slug}` is minted "
+            "but has no roster entry")
 
     for i, line in enumerate(log):
         if i <= first or not line.startswith("- "):
             continue
         if not RECORD.match(line):
-            debt["records_without_tier"].append(f"line {i+1}")
+            debt["records_without_tier"].append(
+                f"chains-log line {i+1}: record has no tier")
         elif NOTE_LINE.match(line) and not line.startswith("- NOTE ("):
-            debt["records_without_tier"].append(f"line {i+1}")
+            debt["records_without_tier"].append(
+                f"chains-log line {i+1}: NOTE has no tier")
 
     for i, line in enumerate(log):
         if not RECORD.match(line):
             continue
-        if SESSION_DATE.search(line):
-            debt["log_datestamps"].append(f"line {i+1}")
+        found = SESSION_DATE.search(line)
+        if found:
+            debt["log_datestamps"].append(
+                f"chains-log line {i+1}: {found.group(0)}")
         m = re.match(r"^- NOTE \(([^)]*)\)", line)
         if m and PEN_WORD.search(m.group(1)):
-            if any(s in set(registry)
-                   for s in re.findall(r"`([a-z0-9-]+)`", m.group(1))):
-                debt["stale_pen_notes"].append(f"line {i+1}")
+            minted_here = [s for s in re.findall(r"`([a-z0-9-]+)`", m.group(1))
+                           if s in set(registry)]
+            if minted_here:
+                debt["stale_pen_notes"].append(
+                    f"chains-log line {i+1}: pen note on minted "
+                    f"`{minted_here[0]}`")
 
-    for slug, lineno, text in rosters:
-        for _ in SESSION_DATE.finditer(text):
-            debt["roster_datestamps"].append(f"{slug} (line {lineno})")
+    for slug, lineno, text, body in rosters:
+        for offset, raw in enumerate(body):
+            for m in SESSION_DATE.finditer(raw):
+                debt["roster_datestamps"].append(
+                    f"chains-threads line {lineno + offset}: {slug}, "
+                    f"{m.group(0)}")
         # Every count is reported as a candidate. Some are back-references to a
         # list named on the spot and are fine; those are triaged by hand.
         # Deliberately no cleverness: a heuristic that guesses which counts are
@@ -241,13 +264,14 @@ def main():
         norm = MSG_ID.sub("@ID@", text)
         norm = re.sub(r"\b\d{4}-\d{2}(-\d{2})?\b", "@", norm)
         for m in COUNT.finditer(norm):
-            debt["roster_counts"].append(f"{slug} (line {lineno}): "
-                                         f"{m.group(0)}")
+            debt["roster_counts"].append(
+                f"chains-threads line {lineno}: {slug}, \"{m.group(0)}\"")
         for m in SPAN.finditer(text):
             if SPAN_OK.search(text[m.end():m.end() + 60]):
                 continue
-            debt["roster_spans"].append(f"{slug} (line {lineno}): "
-                                        f"{text[m.start():m.start()+50]}")
+            debt["roster_spans"].append(
+                f"chains-threads line {lineno}: {slug}, "
+                f"\"{text[m.start():m.start()+45].strip()}...\"")
 
     # ── Report ───────────────────────────────────────────────────────────────
     failed = False
