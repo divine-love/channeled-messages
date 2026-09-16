@@ -55,6 +55,7 @@ BASELINE = {
     "log_datestamps": 32,         # session dates inside log records
     "roster_counts": 37,          # size claims; some are benign back-references
     "roster_spans": 3,            # year spans and archive-extremum claims
+    "roster_role_intervals": 9,   # intervals measured against a floating role
     "stale_pen_notes": 2,         # pen-stage notes on already-minted slugs
 }
 
@@ -95,6 +96,16 @@ SPAN = re.compile(
     r"(?=(?:\W+\w+){0,6}?\W+(?:archive|corpus|collection|chain)\b)"
     r"|\barchive(?:'s)?(?:\W+\w+){0,3}?"
     r"\W+(?:earliest|latest|oldest|newest|first|last)\b", re.I)
+
+# An interval measured against a role label breaks when the role moves, and roles
+# stay provisional until a chain is built. "Three weeks before the Foundation" is
+# a fact about one fixed date and one floating label. Naming the other message
+# instead is stable, because the message_id carries its own date.
+ROLE_INTERVAL = re.compile(
+    r"\b(?:" + NUMBER + r")\s+(?:years?|months?|weeks?|days?)\s+"
+    r"(?:before|after|later|earlier|apart)\b"
+    r"(?=.{0,70}?\b(?:Foundation|Elaborations?|Objections?[- ]removed|Reframe"
+    r"|Testimony|Chrysalis|Capstone|anchor)\b)", re.I)
 
 # "in hand" is the honest hedge: it scopes a claim to what has been read so far
 # rather than to the archive's extent, so it stays true as the archive grows.
@@ -266,6 +277,10 @@ def main():
         for m in COUNT.finditer(norm):
             debt["roster_counts"].append(
                 f"chains-threads line {lineno}: {slug}, \"{m.group(0)}\"")
+        for m in ROLE_INTERVAL.finditer(text):
+            debt["roster_role_intervals"].append(
+                f"chains-threads line {lineno}: {slug}, "
+                f"\"{text[m.start():m.start()+55].strip()}...\"")
         for m in SPAN.finditer(text):
             if SPAN_OK.search(text[m.end():m.end() + 60]):
                 continue
