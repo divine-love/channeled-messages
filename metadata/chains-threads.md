@@ -2611,8 +2611,7 @@ added to it; later additions are folded into the role section they belong to.
 
 - `who-jesus-was`: running from what he was not to what he actually did, by way
   of why the record went wrong.
-  Foundation section, three members spanning fifty-six years, anchor to be
-  chosen at build. 1963-12-26-ds-mary corrects the record of her son's birth
+  Foundation section, anchor to be chosen at build. 1963-12-26-ds-mary corrects the record of her son's birth
   and nature as the one person present for it, "Most of what the New Testament
   says about me is untrue": no virgin birth, Jesus "born exactly like other
   babies," Joseph a young husband rather than the aged figure of tradition,
@@ -2625,9 +2624,7 @@ added to it; later additions are folded into the role section they belong to.
   to enter the Celestial Kingdom, and confirms he will never return in the
   flesh, which is what makes impersonation possible and worth warning about.
   2019-01-27-af-jesus states that he incarnated as a complete, singular soul by
-  prior agreement with God, with no soulmate. The 1963 message is the earliest
-  in the archive, so whichever anchor is chosen the thread opens the full 1963
-  to 2023 span.
+  prior agreement with God, with no soulmate. 
   Elaborations, what he was not and what stands in its place.
   2016-09-02-af-jesus gives the denial and its positive replacement in one
   movement, in his own voice, "And I was never God incarnate. No, my beloveds,
