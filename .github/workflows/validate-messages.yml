@@ -6,11 +6,17 @@ on:
       - 'content/messages/**/*.md'
       - 'spirits/**/*.yml'
       - 'mediums/**/*.yml'
+      - 'metadata/subjects.yml'
+      - 'schema/message.schema.yml'
+      - '.github/scripts/**/*.py'
   pull_request:
     paths:
       - 'content/messages/**/*.md'
       - 'spirits/**/*.yml'
       - 'mediums/**/*.yml'
+      - 'metadata/subjects.yml'
+      - 'schema/message.schema.yml'
+      - '.github/scripts/**/*.py'
 
 jobs:
   validate-and-generate:
