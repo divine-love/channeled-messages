@@ -143,6 +143,25 @@ An entry explains the thread, never its own existence. Nothing is recorded
 about why the entry was written, when it was filed, or when material was
 added to it; later additions are folded into the role section they belong to.
 
+An entry states what its thread argues, never how much of it has been found.
+The archive is mutable: messages arrive out of order, at both ends and in the
+middle, and role assignments stay provisional until a chain is built. Any
+claim that depends on the archive's current composition, or on a role that has
+not yet been fixed, will become false without anyone editing it.
+
+So: no counts of members, roles, messages, witnesses or spirits; no spans of
+years; no claim that something is the earliest or latest, whether in the
+archive or in hand; no claim that nothing is logged between two points; and no
+interval measured against a role, since "three weeks before the Foundation"
+breaks the moment the Foundation moves. A number attached to messages named on
+the spot is a reference rather than a size claim, and is fine.
+
+An entry describes what each message says and what it contributes to the
+argument. Where the relation between two messages matters, state the relation
+itself, that one develops what another asserts, or answers it, or repeats it
+without developing it, rather than the arithmetic between their dates. The
+message_ids already carry the dates.
+
 ---
 # Theme Registry
 
