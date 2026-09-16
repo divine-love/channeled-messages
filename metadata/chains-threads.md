@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-09-15
+last_updated: 2026-09-16
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
