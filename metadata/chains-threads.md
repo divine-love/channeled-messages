@@ -797,7 +797,7 @@ message_ids already carry the dates.
   Witnesses. 2015-03-27-af-andrew takes the same subject from the other side,
   asking for the thing directly rather than accounting for the obstacle, "Will
   you open yourselves to this in a complete and vulnerable way? Be with God,
-  as you never have been before";   2016-05-02-af-andrew names the holding back 
+  as you never have been before"; 2016-05-02-af-andrew names the holding back 
   without diagnosing the fear, "Do not hold back from God, but open yourself 
   completely to His Touch," which is the diagnosis 2016-08-15-af-alec-gaunt 
   later supplies; 2017-05-11-af-jesus names vulnerability as the cost of the full
@@ -1580,7 +1580,7 @@ message_ids already carry the dates.
   Pray for those who are lost. Pray for your fellow man, for each soul in
   their own way, is lost," with the deprivation universal rather than confined
   to the visibly suffering, "Look into the eyes of those in the world and you
-  will see it."   Given at the same gathering as 2016-09-01-af-seretta-kem: 
+  will see it."  Given at the same gathering as 2016-09-01-af-seretta-kem: 
   that one conditions the sending, this one names and grounds the target.
   Witnesses, the outward claim asserted. 2015-03-27-af-andrew makes the
   condition harmony rather than numbers in a single clause about a small
