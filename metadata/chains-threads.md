@@ -1773,12 +1773,10 @@ message_ids already carry the dates.
   Structural note: the fence is that a message must carry the readying itself,
   God's preparation of a soul for what is coming, and not merely the coming
   changes or a general call to grow. It is not that the message must contain a
-  rock, a refuge, or someone leaning. The earlier image-based test excluded
-  about ten messages that carry the thread's own subject, and it also sat
-  awkwardly beside the 2026-08-06 ruling that a thread is defined by its
-  argument rather than its image; the registry line was widened accordingly
-  and those messages now stand as witnesses. The slug keeps its image and is
-  therefore narrower than the thread, which is accepted rather than
+  rock, a refuge, or someone leaning: under the argument-not-image ruling a
+  thread is defined by its argument rather than its image, so messages that
+  carry the readying without the image stand as witnesses. The slug keeps its
+  image and is therefore narrower than the thread, which is accepted rather than
   overlooked. 2016-09-16-af-john-the-beloved inverts the image outright, since
   the soul stands upon a rock which is God's Will rather than being one, and
   it is a member on the strength of its argument, that the thread's stability
@@ -2233,8 +2231,8 @@ message_ids already carry the dates.
 - `soul-purpose-emergence`: 2019-01-29-af-augustine
   (Foundation, presumptive anchor: the purpose entrusted, the invitation
   free will may decline, the gravitation rather than the revelation) and
-  2015-08-17-af-peter (Foundation-section member, confirmed at full text
-  2026-08-30: the purpose embedded and fitted to the soul's own gifts, the
+  2015-08-17-af-peter (Foundation-section member, confirmed at full text: 
+  the purpose embedded and fitted to the soul's own gifts, the
   inner strife of ignoring it, the clarity that arrives as Divine Love
   enlivens the soul). Elaborations:
   2016-03-29-af-james (the gifts inherent in the soul lit up by the Love),
@@ -2250,25 +2248,23 @@ message_ids already carry the dates.
   makes the gifts collective as well as individual, "in combination will
   make you a powerful teacher of these truths." Held at witness because
   2016-03-29-af-james already carries the gifts lit up by the Love.
-  Five witnesses from one
-  gathering: 2016-09-02-af-confucius (the unique-expression premise
-  asserted), 2016-09-03-af-james ("You will know what to do as your souls
+  Witnesses from one gathering: 2016-09-02-af-confucius (the unique-expression
+  premise asserted), 2016-09-03-af-james ("You will know what to do as your souls
   grow in this Love... what is necessary and required will be obvious as
   you look at the world through the eyes of your souls"), 2016-09-06-af-
   joseph ("The understandings that God has placed within your souls will
   emerge into your consciousness and be your guiding grace"),
   2016-09-06-af-mary (the knowing arriving through a passage of guided
   change) and 2016-09-07-af-confucius (the gradual flowering, with the
-  Love as the agent). CURATOR RULING 2026-08-30: the 2026-08-07 draft
-  asked whether these earlier statements bear on the Foundation choice;
-  they do not, and 2019-01-29-af-augustine stands. Two reasons recorded so
-  the question is not reopened: each of the five states one step of the
+  Love as the agent). These do not bear on the Foundation choice, and
+  2019-01-29-af-augustine stands, for two reasons recorded so the question
+  is not reopened: each of them states one step of the
   argument in passing inside a message about something else, where the
   Foundation carries the whole shape; and the embedded-purpose claim, the
   one thing 2016-09-06-af-joseph states strongly, is already carried
   earlier still by 2015-08-17-af-peter in the Foundation section.
-  Peter confirmed at full text 2026-08-30, and the Foundation section is
-  now settled. He carries the entrusting step with its reason attached,
+  With Peter confirmed at full text, the Foundation section is settled. He
+  carries the entrusting step with its reason attached,
   "each task is unique as is each soul present here... especially
   formulated to suit your specific gifts and abilities and personality.
   This is the wonderment of God's Creation, the harmony of God's Creation,
