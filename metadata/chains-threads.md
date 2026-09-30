@@ -2228,66 +2228,104 @@ message_ids already carry the dates.
   What is awaited: a second message describing the completion, which would
   promote 2016-05-16-af-keea-atta-kem and give the thread its close.
 
-- `soul-purpose-emergence`: 2019-01-29-af-augustine
-  (Foundation, presumptive anchor: the purpose entrusted, the invitation
-  free will may decline, the gravitation rather than the revelation) and
-  2015-08-17-af-peter (Foundation-section member, confirmed at full text: 
-  the purpose embedded and fitted to the soul's own gifts, the
-  inner strife of ignoring it, the clarity that arrives as Divine Love
-  enlivens the soul). Elaborations:
-  2016-03-29-af-james (the gifts inherent in the soul lit up by the Love),
-  2019-02-03-af-andrew (the companion restatement to 2019-01-29-af-augustine),
-  2019-02-21-af-elijah (the role designated in advance,
-  opened out through reception). Witnesses: 2015-09-21-af-mary,
-  2019-04-07-af-augustine, 2016-06-27-af-faith-nyquist. Distinct from
-  `purpose-of-life` (life's general meaning) and from
-  `free-will-and-gods-plan` (whether free will and God's plan conflict).
-  Witness 2016-11-06-af-jesus, which ties the emerging
-  of purpose to the Love's own work ("As the Love within builds and
-  cleanses and ignites your great souls, you will see more clearly") and
-  makes the gifts collective as well as individual, "in combination will
-  make you a powerful teacher of these truths." Held at witness because
-  2016-03-29-af-james already carries the gifts lit up by the Love.
-  Witnesses from one gathering: 2016-09-02-af-confucius (the unique-expression
-  premise asserted), 2016-09-03-af-james ("You will know what to do as your souls
-  grow in this Love... what is necessary and required will be obvious as
-  you look at the world through the eyes of your souls"), 2016-09-06-af-
-  joseph ("The understandings that God has placed within your souls will
-  emerge into your consciousness and be your guiding grace"),
-  2016-09-06-af-mary (the knowing arriving through a passage of guided
-  change) and 2016-09-07-af-confucius (the gradual flowering, with the
-  Love as the agent). These do not bear on the Foundation choice, and
-  2019-01-29-af-augustine stands, for two reasons recorded so the question
-  is not reopened: each of them states one step of the
-  argument in passing inside a message about something else, where the
-  Foundation carries the whole shape; and the embedded-purpose claim, the
-  one thing 2016-09-06-af-joseph states strongly, is already carried
-  earlier still by 2015-08-17-af-peter in the Foundation section.
-  With Peter confirmed at full text, the Foundation section is settled. He
-  carries the entrusting step with its reason attached,
-  "each task is unique as is each soul present here... especially
-  formulated to suit your specific gifts and abilities and personality.
-  This is the wonderment of God's Creation, the harmony of God's Creation,
-  for He does not give you that which is too difficult for you to
-  fulfill"; he carries the negative case no other member states, "you
+- `soul-purpose-emergence`: running from the purpose God entrusts to each soul
+  to finding oneself already walking it.
+  Foundation, presumptive anchor: 2019-01-29-af-augustine gives the doctrinal
+  root. Every soul is entrusted by God with a unique purpose and the gifts to
+  fulfil it, offered as an invitation that free will may or may not heed, so
+  many never fulfil it. The purpose is not grasped by the mind or revealed all
+  at once: "you continue upon your path of life and are drawn and choose certain
+  expressions... which essentially is a reflection of your gifts," the soul
+  "naturally gravitating to that place when it is ready," drawn by "the gravity
+  of delight within your soul." Core Teaching.
+  Foundation section, beneath the anchor: 2015-08-17-af-peter carries the
+  entrusting step with its reason attached, "each task is unique as is each soul
+  present here... especially formulated to suit your specific gifts and
+  abilities and personality... for He does not give you that which is too
+  difficult for you to fulfill"; the negative case no other member states, "you
   cannot ignore this... it will bring inner strife. For in ignoring your
-  purpose, you are denying a part of yourself"; and he carries the mind
-  subordinated at the end, "clarity and surety, so powerful that even your
-  minds will not contradict what you know within your souls."
-  Two things the full text corrects, and both are why he does not take the
-  anchor. He does not carry the free-will step at all: where the anchor has
-  an invitation free will may decline, Peter has incapacity, "for many in
-  this world this purpose will never be revealed for they are not capable
-  of understanding what it is that lay deep within them." And one clause
-  runs against the thread's no-single-revelation step, "for some of you,
-  the awareness of this purpose will come swiftly", which admits the sudden
-  mode the argument as written excludes. Two facets he adds that the
-  argument does not yet name: prayer as the active instrument of discovery,
-  "to put a prayer to your Heavenly Father, to know what you are meant to
-  do in this world", where every other member has the purpose surfacing
-  without being asked for; and the purpose as directed outward, a task
-  "to work on behalf of mankind", where the thread otherwise treats it as
-  self-realisation.
+  purpose, you are denying a part of yourself"; the Love as the agent of the
+  surfacing, "as the Love flows into your soul, as your faculties of the soul
+  become enlivened... this great purpose becomes a very powerful part of your
+  motivations"; and the mind subordinated at the end, "clarity and surety, so
+  powerful that even your minds will not contradict what you know within your
+  souls."
+  Elaborations. 2016-03-29-af-james has the gifts already inherent in the soul
+  lit up and drawn out by the Love, "to know who you truly are is the greatest
+  of gifts to yourself and the greatest gift of all is God's Love which ignites
+  further aspects of your identity with the Gifts inherent within your soul,"
+  where 2019-01-29-af-augustine stresses the slow gravitation toward one's
+  purpose; 2019-02-03-af-andrew restates the Foundation's claim as its
+  companion, true self and true purpose coming not as a sudden revelation "but
+  comes with the slow awakening and expression of your soul within your lives
+  until you find yourself walking upon a path that is truly in harmony with
+  God's Will," with the gifts "yearning to be awakened" for service and humility
+  and patience counselled while the purpose surfaces; 2019-02-21-af-elijah
+  frames the purpose as a role already designated, the souls before him
+  "designated this role as prophet," opened out as the soul receives the Love,
+  "it is opening up many possibilities and faculties of your souls," and
+  fulfilled by daily listening and acting on guidance rather than by grasping it
+  whole.
+  Witnesses, knowing arriving through growth. 2015-09-21-af-mary has each soul
+  carry a unique purpose and Light, the gifts awaiting the transformation of
+  consciousness into soul awareness, with God's Love flushing away whatever
+  obscures the knowing, tagged [back-search] and provisional until confirmed at
+  full text; 2015-10-26-af-faith-nyquist states the claim in its opening line,
+  "every soul must take its unique journey, an enfoldment and an unfolding of
+  his path and purpose... as the soul becomes infused with the Father's Love and
+  your Gifts emerge accordingly"; 2016-09-03-af-james has knowing what to do
+  arrive as a by-product of the soul's growth, "what is necessary and required
+  will be obvious as you look at the world through the eyes of your souls";
+  2016-09-06-af-joseph gives the mechanism in compact form, "The understandings
+  that God has placed within your souls will emerge into your consciousness and
+  be your guiding grace," and puts the answer inside the prompting rather than
+  at the end of a search, "within that call, that desire, that awareness is the
+  answer to all your questions"; 2016-11-06-af-jesus ties the emergence to the
+  Love's own work, "As the Love within builds and cleanses and ignites your
+  great souls, you will see more clearly, more emphatically, what it is that you
+  must do in this world," and makes the gifts collective as well as individual,
+  "in combination will make you a powerful teacher of these truths," held at
+  witness because 2016-03-29-af-james already carries the gifts lit up by the
+  Love; 2019-04-07-af-augustine has the gifts hidden within and blocked from
+  awareness by the mind, which "will become self-evident and will grow and grow"
+  as the soul awakens, the registry's own word for the step.
+  Witnesses, raising scope questions. 2016-09-11-af-francis-of-assisi, "It is
+  your destiny. You feel it; you know it; you have seen it and you will express
+  it but you must continue to grow and to grow into this role," where the
+  purpose has already been seen and what unfolds slowly is the growth into it;
+  2016-10-15-af-confucius, "the dawning awareness that there is a purpose for
+  each one of you," paired with a place in a collective work, "you will find
+  your place within this work."
+  Fences. Against `free-will-and-gods-plan`: that thread asks whether free will
+  and God's plan conflict; this one asks how a soul's unique purpose surfaces.
+  The Foundation touches both and is reducible to neither. Against
+  `knowing-your-own-soul`: that thread is knowing what you are, this one is
+  knowing what you are for, which is why 2016-03-29-af-james sits on both.
+  Against the `purpose-of-life` pen candidate: that is life's general meaning,
+  this is each soul's particular part in it.
+  What is awaited. Two scope questions the witnesses raise. Whether the thread
+  covers growing into a purpose already known, as at
+  2016-09-11-af-francis-of-assisi, as well as coming to know it. And whether a
+  place within a collective work, as at 2016-10-15-af-confucius, belongs here or
+  to `vanguards-of-change`.
+  Structural note: 2015-08-17-af-peter does not take the anchor, for two reasons
+  the text supplies. He does not carry the free-will step: where the anchor has
+  an invitation free will may decline, Peter has incapacity, "for many in this
+  world this purpose will never be revealed for they are not capable of
+  understanding what it is that lay deep within them." And one clause runs
+  against the no-single-revelation step, "for some of you, the awareness of this
+  purpose will come swiftly," admitting the sudden mode the argument as written
+  excludes. He adds two facets the argument does not yet name: prayer as the
+  active instrument of discovery, "to put a prayer to your Heavenly Father, to
+  know what you are meant to do in this world," where the other members have the
+  purpose surfacing unasked; and the purpose directed outward, a task "to work
+  on behalf of mankind," where the thread otherwise treats it as
+  self-realisation. Separately, the statements from the Frankfurt gathering do
+  not bear on the Foundation choice: each states one step of the argument in
+  passing inside a message about something else, where the Foundation carries
+  the whole shape, and the embedded-purpose claim that 2016-09-06-af-joseph
+  states strongly is already carried by 2015-08-17-af-peter in the Foundation
+  section.
 
 - `spiritual-fellowship`: running from why a seeker cannot do this alone to
   what makes a gathering worth belonging to.
