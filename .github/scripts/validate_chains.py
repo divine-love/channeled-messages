@@ -51,9 +51,9 @@ RESET = "\033[0m"
 BASELINE = {
     "minted_without_roster": 5,   # threads awaiting a roster entry
     "records_without_tier": 29,   # bare '- NOTE:' and bare '- (' records
-    "roster_datestamps": 5,       # session dates inside roster entries
+    "roster_datestamps": 0,       # session dates inside roster entries
     "log_datestamps": 32,         # session dates inside log records
-    "roster_counts": 35,          # size claims; some are benign back-references
+    "roster_counts": 33,          # size claims; some are benign back-references
     "roster_spans": 0,            # year spans and archive-extremum claims
     "roster_role_intervals": 0,   # intervals measured against a floating role
     "stale_pen_notes": 2,         # pen-stage notes on already-minted slugs
