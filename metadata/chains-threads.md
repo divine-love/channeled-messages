@@ -371,8 +371,8 @@ message_ids already carry the dates.
   Witnesses. 2015-03-27-af-andrew gives the daily-test claim, "Every day
   brings a new test and a new reward and a new opportunity to grow and expand
   in this Love," and "With each test you will let go of your fears and your
-  deep pain," stated rather than argued, and it is the earliest instance in
-  hand; 2015-06-15-af-faith-nyquist asserts the walk-through-challenges
+  deep pain," stated rather than argued; 2015-06-15-af-faith-nyquist 
+  asserts the walk-through-challenges
   teaching pastorally; 2015-11-02-af-augustine carries the lessons framing,
   "lessons to be learned... this is the challenge of life";
   2016-02-29-af-confucius and 2018-08-06-af-solomon restate the same
@@ -655,8 +655,8 @@ message_ids already carry the dates.
 
 - `earth-changes`: running from why the Earth is changing to what the changes
   are for and what they ask of a prepared soul.
-  Foundation, presumptive anchor: 2015-08-17-af-jesus, the earliest developed
-  statement in hand of the premise, the cleansing of the Earth, environmental
+  Foundation, presumptive anchor: 2015-08-17-af-jesus, a developed statement 
+  of the premise, the cleansing of the Earth, environmental
   abuse, and a coming time of chaos, "the storm is just upon the horizon."
   Role tagged [back-search], provisional until confirmed at full text.
   Elaborations, what the changes are and what causes them.
@@ -727,8 +727,8 @@ message_ids already carry the dates.
   2019-03-08-af-andrew, resilience, the grounded soul not toppled by the winds
   at all; 2023-02-10-af-augustine, desensitization from childhood and the
   re-sensitization needed to meet it.
-  Witnesses. 2014-07-26-af-augustine, the earliest statement of the field in
-  hand, which gives what meets the conditions as a standing relation rather
+  Witnesses. 2014-07-26-af-augustine states the field and gives
+  what meets the conditions as a standing relation rather
   than a practice, "in this alliance that you have with Heaven, with your
   Creator, with the Love flowing within your lives much of that darkness... is
   turned to light and harmony within your lives", and bounds the field to
@@ -1044,8 +1044,8 @@ message_ids already carry the dates.
 
 - `incremental-journey`: running from why growth comes in increments to how a
   seeker can tell that it has happened.
-  Foundation, presumptive anchor: 2015-05-03-af-confucius, the earliest
-  developed statement of the pattern in hand, the soul's growth advancing in
+  Foundation, presumptive anchor: 2015-05-03-af-confucius, a developed statement
+  of the pattern, the soul's growth advancing in
   leaps then trickles, impeded by the world and the self yet always lifted by
   God. Role tagged [back-search], provisional until confirmed at full text.
   Elaborations, the shape of the increments. 2015-03-28-af-augustine adds the
@@ -1194,7 +1194,7 @@ message_ids already carry the dates.
   its opening claim is held by its close. `religious-error` has the same
   shape, and whether that is coincidence or something about how the archive
   teaches is worth watching. Do not appoint a Foundation yet. If one is ever
-  wanted from what is in hand, 2016-11-07-af-andrew is the candidate to
+  wanted, 2016-11-07-af-andrew is a candidate to
   weigh, since knowing yourself loved making judgment impossible is a premise
   rather than an application, and it is currently held at witness.
   A second thing to settle: the Capstone section needs an anchor. And an
@@ -1457,8 +1457,8 @@ message_ids already carry the dates.
   conditions doctrinally and asks whether the hearers' longing is deep
   enough; log it when the message is processed and the section head is in
   place. Witnesses: 2019-01-28-af-matthew-2 (sudden versus gradual as a
-  matter of yearning intensity), 2016-08-31-af-martin-luther (the earliest
-  in hand: the readiness conditions as a checklist, and the claim that a
+  matter of yearning intensity), 2016-08-31-af-martin-luther (the readiness 
+  conditions as a checklist, and the claim that a
   gathering can produce it). Overlaps `incremental-journey` and
   `soul-expiation`; this thread is the awakening-modes question.
 
@@ -1856,10 +1856,10 @@ message_ids already carry the dates.
   is that faith that you are indeed answering God's call," and this thread
   holds the other half of the bargain without any member stating the
   requirement side. Penned as the `the-whole-requirement` candidate.
-  Structural note: the anchor is not settled. 2016-03-16-af-jesus is the
-  earliest developed statement of the claim in hand and predates the
-  Foundation by three weeks, so both belong in the Foundation section and the
-  anchor is weighed between them at build.
+  Structural note: the anchor is not settled. 2016-03-16-af-jesus states the
+  claim against a named work and 2016-04-04-af-augustine states it in full, so
+  both belong in the Foundation section and the anchor is weighed between them
+  at build.
 
 - `redemption-universal`: running from the
   claim that no soul is excluded to the cases that prove it.
@@ -2553,20 +2553,18 @@ message_ids already carry the dates.
   spheres to mark how far each road reaches. Against
   `divine-love-without-knowing`: that thread is about receiving the Love
   without recognising it; this one is about a choice made knowingly.
-  What is awaited: a fourth instance for the natural-love rehabilitation
-  watch. Three are in hand, 2016-08-27-af-brother-mandus and
-  2016-09-02-af-augustine declining to call natural love inferior, and
-  2018-05-12-af-luke dignifying the natural destination at length while
-  keeping the ceiling explicit, "There is a state of harmony but it can go no
-  further than this." 2016-04-12-af-moses may be a fourth, though its passage
-  is about progression generally rather than the two paths as such, which is
-  the curator's call. If a fourth stands, the qualifying clauses on this
-  thread's spine wait on it. Also outstanding, the sphere-numbering question
-  raised at 2016-11-27-af-james-reid, a Divine Love seeker placing himself in
-  the fifth sphere and inviting the circle to join him there, which is the
-  clearest case in hand of a Divine Love communicator locating himself by
-  sphere number where the thread treats the numbered spheres as the natural
-  path's progression.
+  What is awaited: a decision on the natural-love rehabilitation watch, which
+  bears on the qualifying clauses of this thread's spine.
+  2016-08-27-af-brother-mandus and 2016-09-02-af-augustine decline to call
+  natural love inferior, and 2018-05-12-af-luke dignifies the natural
+  destination at length while keeping the ceiling explicit, "There is a state of
+  harmony but it can go no further than this." 2016-04-12-af-moses may belong
+  with them, though its passage is about progression generally rather than the
+  two paths as such, which is the curator's call. Also outstanding, the
+  sphere-numbering question raised at 2016-11-27-af-james-reid, a Divine Love
+  seeker placing himself in the fifth sphere and inviting the circle to join him
+  there, a Divine Love communicator locating himself by sphere number where the
+  thread treats the numbered spheres as the natural path's progression.
 
 - `vanguards-of-change`: running from the commission itself to the freedom it
   requires.
