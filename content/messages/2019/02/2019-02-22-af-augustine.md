@@ -23,9 +23,9 @@ description: >
 primary_subjects: "Free Will & Human Error"
 secondary_subjects:
   - "Law of Free Will"
+  - "Law of Compensation"
   - "Personal Transformation Journey"
   - "Guilt & Regret"
-  - "Surrender & Trust in God"
   - "Soul Growth through Challenges"
 people: []
 spirits: []
@@ -55,7 +55,7 @@ excerpt: >
 door: >
   You pray to be freed from the very thing you keep feeding. God is waiting for you to stop.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-07
+last_edited: 2026-10-01
 ---
 
 I am your teacher Augustine. I cannot resist this opportunity to speak to you about your choices and the power of your own free will, concerning your life. God has granted you many opportunities, blessings, gifts, aspects of your being that when in harmony, will propel your life into light and harmony. But because you live upon the Earth plane and are mortal, there are many choices that you do make that are not in harmony with light, health, peace, and love.
