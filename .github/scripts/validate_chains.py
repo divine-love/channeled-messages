@@ -50,7 +50,7 @@ RESET = "\033[0m"
 # Lower these as the work is done. Never raise one to make a build pass.
 BASELINE = {
     "minted_without_roster": 5,   # threads awaiting a roster entry
-    "records_without_tier": 29,   # bare '- NOTE:' and bare '- (' records
+    "records_without_tier": 0,    # bare '- NOTE:' and bare '- (' records
     "roster_datestamps": 0,       # session dates inside roster entries
     "log_datestamps": 32,         # session dates inside log records
     "roster_counts": 0,           # size claims about what a thread holds
