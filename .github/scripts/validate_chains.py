@@ -52,12 +52,11 @@ BASELINE = {
     "minted_without_roster": 5,   # threads awaiting a roster entry
     "records_without_tier": 0,    # bare '- NOTE:' and bare '- (' records
     "roster_datestamps": 0,       # session dates inside roster entries
-    "log_datestamps": 32,         # session dates inside log records
+    "log_datestamps": 26,         # session dates inside log records
     "roster_counts": 0,           # size claims about what a thread holds
     "roster_spans": 0,            # year spans and archive-extremum claims
     "roster_role_intervals": 0,   # intervals measured against a floating role
     "roster_in_hand": 0,          # rank or sufficiency claims scoped by "in hand"
-    "stale_pen_notes": 2,         # pen-stage notes on already-minted slugs
 }
 
 # ── Controlled vocabulary, per the design blocks in both files ───────────────
@@ -68,6 +67,10 @@ ROLES = {
 
 ROLE_LINE = re.compile(r"^- `([a-z0-9-]+)` \*\*\[([\w-]+)\]\*\* : ")
 NOTE_LINE = re.compile(r"^- NOTE\b")
+# The closed NOTE vocabulary, per the chains-log design block.
+NOTE_OK = re.compile(
+    r"^- NOTE \((?:context|pattern, described and not penned"
+    r"|(?:witness|sighting|considered and set aside|build), `[a-z0-9-]+`)\): ")
 RECORD = re.compile(r"^- (?:`|NOTE)")
 ENTRY = re.compile(r"^### (\S+)")
 MSG_ID = re.compile(r"\b\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z0-9-]+\b")
@@ -235,6 +238,20 @@ def main():
                 errors.append(f"chains-log line {i+1}: '{m.group(2)}' is not "
                               "in the link-role vocabulary")
 
+    # ── NOTE vocabulary ──────────────────────────────────────────────────────
+    for i, line in enumerate(log):
+        if i > first and line.startswith("- NOTE (") and not NOTE_OK.match(line):
+            m = re.match(r"^- NOTE \(([^)]*)\)", line)
+            inner = m.group(1) if m else line[:30]
+            head = inner.split(",")[0].strip()
+            if head in ("witness", "sighting", "considered and set aside", "build"):
+                why = ("needs exactly one slug and nothing after it, as in "
+                       f"'{head}, `slug`'")
+            else:
+                why = ("is not one of witness, sighting, considered and set "
+                       "aside, build (each with a slug), pattern, or context")
+            errors.append(f"chains-log line {i+1}: NOTE ({inner}) {why}")
+
     # ── Debt ─────────────────────────────────────────────────────────────────
     registry_row = dict(zip(registry, registry_lines))
     for slug in sorted(set(registry) - set(roster_slugs)):
@@ -259,14 +276,6 @@ def main():
         if found:
             debt["log_datestamps"].append(
                 f"chains-log line {i+1}: {found.group(0)}")
-        m = re.match(r"^- NOTE \(([^)]*)\)", line)
-        if m and PEN_WORD.search(m.group(1)):
-            minted_here = [s for s in re.findall(r"`([a-z0-9-]+)`", m.group(1))
-                           if s in set(registry)]
-            if minted_here:
-                debt["stale_pen_notes"].append(
-                    f"chains-log line {i+1}: pen note on minted "
-                    f"`{minted_here[0]}`")
 
     for slug, lineno, text, body in rosters:
         for offset, raw in enumerate(body):
