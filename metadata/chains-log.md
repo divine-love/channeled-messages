@@ -1,7 +1,7 @@
 ---
 title: "Thought-Chains, Per-Message Log"
 description: >
-  The append-only, chronological record of which candidate thought-chains each
+  The chronological record of which candidate thought-chains each
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
@@ -87,10 +87,10 @@ A message may carry different roles in different chains.
 
 ## How to read this file
 
-This is the **Per-Message Log**: append-only evidence in processing order. Each
-entry records which candidate chain(s) a message joined and the role it played.
-Entries are placed in chronological position by message date, not in the order
-they were processed.
+This is the **Per-Message Log**. Each entry records which candidate chain(s) a
+message joined and the role it played. Entries are in chronological order by
+message date. Messages are not catalogued in date order, so a new entry is
+inserted at its date's position rather than added at the end.
 
 For the thread registry (the scannable index of every candidate chain), the
 holding pen (candidates not yet minted), and open questions, see the companion
@@ -126,8 +126,8 @@ or reading dates, no curator attributions. This is the history of the messages,
 not the history of the log. Where a standing ruling governs a decision, name
 the ruling descriptively rather than by the date it was made.
 
-Entries marked [back-search] were logged from message descriptions during an
-early back-search of the Core Teaching set, not always from full readings; their
+Entries marked [back-search] were logged from a message's description rather
+than from a full reading of the message. They can be any kind of message. Their
 roles are PROVISIONAL and should be confirmed against the full text when chains
 are built.
 
@@ -135,14 +135,17 @@ are built.
 
 # Per-Message Log
 
-> Append-only, in processing order. Format per entry:
+> Chronological by message date; insert each new entry at its date's position.
+> Format per entry:
 > message_id, title, date
 > - `slug` **[Role]** : note on why this message belongs and what it contributes
+>
 > One record per line. Records are never wrapped onto continuation lines, so a
 > search for a slug returns the whole record and a diff shows which records
 > changed.
-> [back-search] marks entries logged from descriptions during the Core Teaching
-> back-search; roles are provisional pending full-text confirmation.
+>
+> [back-search] marks entries logged from a description rather than a full
+> reading; their roles are provisional pending full-text confirmation.
 
 ---
 
