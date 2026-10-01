@@ -2928,18 +2928,22 @@ message gives them an argument to trace.
   argues the sufficiency rather than stating the list, or when the two halves
   appear together in one message, which would raise the question of whether
   this belongs inside `provision-for-service` instead.
-- `angelic-accompaniment`, penned 2026-08-30 (promoted from the described
-  patterns). An angel attends each soul, permanently and by default rather than
-  on request. Seen: 2016-10-26-af-augustine, "with each one of you stands an
-  angel and with each one will come a blessing as you open", and
+- `angelic-accompaniment`, an angel attends each soul, permanently and by
+  default rather than on request. Seen: 2014-07-26-af-augustine, the
+  accompaniment in the attending spirit's own voice, "we will always be with
+  you no matter the difficulties"; 2016-10-26-af-augustine, "with each one of
+  you stands an angel and with each one will come a blessing as you open";
   2018-07-07-af-aaron, "you shall always be accompanied by an angel, who will
-  protect and guide, teach and inspire." Neither argues it. Note against
+  protect and guide, teach and inspire"; 2019-02-18-af-augustine, the
+  Celestial angels assigned to each earnest soul. None argues it. Note against
   2016-09-10-af-andrew, which has the request-and-dispatch form instead, "if
-  you ask for help in your prayers... God will send an angel to you": that is a
-  different claim, an angel sent on an asking rather than one already standing
-  there, and whether the candidate covers both is the first thing to settle if
-  a third message arrives. Mint when a message develops the accompaniment
-  rather than asserting it.
+  you ask for help in your prayers... God will send an angel to you": that is
+  a different claim, an angel sent on an asking rather than one already
+  standing there. 2019-02-18-af-augustine sits between the two, the
+  accompaniment standing but conditioned on earnestness. So whether the
+  candidate covers the default form, the conditioned form and the dispatched
+  form is the first thing to settle. Mint when a message develops the
+  accompaniment rather than asserting it.
 - `unlimited-reception`, the soul's capacity to receive Divine Love is
   unbounded, so reception never completes and at-onement is an endless
   approach rather than a destination. Seen: 2016-05-02-af-andrew ("there are
