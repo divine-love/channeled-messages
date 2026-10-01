@@ -53,9 +53,10 @@ BASELINE = {
     "records_without_tier": 29,   # bare '- NOTE:' and bare '- (' records
     "roster_datestamps": 0,       # session dates inside roster entries
     "log_datestamps": 32,         # session dates inside log records
-    "roster_counts": 0,           # size claims; some are benign back-references
+    "roster_counts": 0,           # size claims about what a thread holds
     "roster_spans": 0,            # year spans and archive-extremum claims
     "roster_role_intervals": 0,   # intervals measured against a floating role
+    "roster_in_hand": 0,          # rank or sufficiency claims scoped by "in hand"
     "stale_pen_notes": 2,         # pen-stage notes on already-minted slugs
 }
 
@@ -105,11 +106,16 @@ ROLE_INTERVAL = re.compile(
     r"\b(?:" + NUMBER + r")\s+(?:years?|months?|weeks?|days?)\s+"
     r"(?:before|after|later|earlier|apart)\b"
     r"(?=.{0,70}?\b(?:Foundation|Elaborations?|Objections?[- ]removed|Reframe"
-    r"|Testimony|Chrysalis|Capstone|anchor)\b)", re.I)
+    r"|Testimony|Chrysalis|Capstone|anchor)\b)"
+    r"|\b(?:predates|postdates|precedes|follows)\s+(?:the\s+)?(?:first\s+)?"
+    r"(?:Foundation|Elaborations?|Objections?[- ]removed|Reframe|Testimony"
+    r"|Chrysalis|Capstone|anchor)\s+by\s+(?:" + NUMBER + r")\s+"
+    r"(?:years?|months?|weeks?|days?)\b", re.I)
 
-# "in hand" is the honest hedge: it scopes a claim to what has been read so far
-# rather than to the archive's extent, so it stays true as the archive grows.
-SPAN_OK = re.compile(r"\bin\s+hand\b", re.I)
+# "in hand" scopes a claim to what has been read so far. It still ranks or sizes
+# messages against a set that keeps growing, and roles stay provisional until
+# build, so it is counted rather than exempted.
+IN_HAND = re.compile(r"\bin\s+hand\b", re.I)
 
 errors = []
 debt = {key: [] for key in BASELINE}
@@ -281,9 +287,12 @@ def main():
             debt["roster_role_intervals"].append(
                 f"chains-threads line {lineno}: {slug}, "
                 f"\"{text[m.start():m.start()+55].strip()}...\"")
+        # Scanned on the joined text: the phrase often wraps across a line break.
+        for m in IN_HAND.finditer(text):
+            debt["roster_in_hand"].append(
+                f"chains-threads line {lineno}: {slug}, "
+                f"\"...{text[max(0, m.start()-40):m.end()].strip()}\"")
         for m in SPAN.finditer(text):
-            if SPAN_OK.search(text[m.end():m.end() + 60]):
-                continue
             debt["roster_spans"].append(
                 f"chains-threads line {lineno}: {slug}, "
                 f"\"{text[m.start():m.start()+45].strip()}...\"")
