@@ -52,7 +52,8 @@ BASELINE = {
     "minted_without_roster": 5,   # threads awaiting a roster entry
     "records_without_tier": 0,    # bare '- NOTE:' and bare '- (' records
     "roster_datestamps": 0,       # session dates inside roster entries
-    "log_datestamps": 0,         # session dates inside log records
+    "log_datestamps": 0,          # session dates inside log records
+    "log_in_hand": 0,             # rank or sufficiency claims scoped by "in hand"
     "roster_counts": 0,           # size claims about what a thread holds
     "roster_spans": 0,            # year spans and archive-extremum claims
     "roster_role_intervals": 0,   # intervals measured against a floating role
@@ -276,6 +277,10 @@ def main():
         if found:
             debt["log_datestamps"].append(
                 f"chains-log line {i+1}: {found.group(0)}")
+        for m in IN_HAND.finditer(line):
+            debt["log_in_hand"].append(
+                f"chains-log line {i+1}: "
+                f"\"...{line[max(0, m.start()-40):m.end()].strip()}\"")
 
     for slug, lineno, text, body in rosters:
         for offset, raw in enumerate(body):
