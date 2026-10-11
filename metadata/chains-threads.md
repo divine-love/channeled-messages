@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-09-16
+last_updated: 2026-10-01
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -944,13 +944,13 @@ message_ids already carry the dates.
   self-created pain to why you carry no responsibility for another soul's
   choice.
   Foundation, presumptive anchor: 2019-02-22-af-augustine, the argument
-  developed and the law named in the body, "There is a law that says you must
-  be responsible for yourself," which is why the message carries the Law of
-  Free Will subject. God honours free will absolutely and "will not override"
-  it even to relieve self-created pain; prayers for relief go unanswered while
-  "within your mind you continue to persist" in feeding the very condition
-  prayed about; and real change is "not just something that is a correction
-  that comes from your mind, but a deep desire for change from your soul."
+  developed and the Law of Compensation stated without being named, "There is
+  a law that says you must be responsible for yourself." God honours free will
+  absolutely and "will not override" it even to relieve self-created pain;
+  prayers for relief go unanswered while "within your mind you continue to
+  persist" in feeding the very condition prayed about; and real change is "not
+  just something that is a correction that comes from your mind, but a deep
+  desire for change from your soul."
   Elaborations, why the law holds. 2014-07-26-af-augustine gives the purpose
   behind non-interference, the refusal and its reason in one breath, "We
   cannot interfere with your free will. We will not, for this is your precious
