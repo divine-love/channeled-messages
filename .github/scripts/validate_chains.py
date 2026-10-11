@@ -52,7 +52,7 @@ BASELINE = {
     "minted_without_roster": 5,   # threads awaiting a roster entry
     "records_without_tier": 0,    # bare '- NOTE:' and bare '- (' records
     "roster_datestamps": 0,       # session dates inside roster entries
-    "log_datestamps": 24,         # session dates inside log records
+    "log_datestamps": 16,         # session dates inside log records
     "roster_counts": 0,           # size claims about what a thread holds
     "roster_spans": 0,            # year spans and archive-extremum claims
     "roster_role_intervals": 0,   # intervals measured against a floating role
