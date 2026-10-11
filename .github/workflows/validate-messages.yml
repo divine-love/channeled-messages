@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'content/messages/**/*.md'
+      - 'content/practices/**/*.md'
       - 'spirits/**/*.yml'
       - 'mediums/**/*.yml'
       - 'metadata/subjects.yml'
@@ -12,6 +13,7 @@ on:
   pull_request:
     paths:
       - 'content/messages/**/*.md'
+      - 'content/practices/**/*.md'
       - 'spirits/**/*.yml'
       - 'mediums/**/*.yml'
       - 'metadata/subjects.yml'
@@ -39,6 +41,9 @@ jobs:
 
       - name: Validate message files
         run: python .github/scripts/validate_messages.py
+
+      - name: Validate prayer files
+        run: python .github/scripts/validate_prayers.py
 
       - name: Generate browse index
         run: python .github/scripts/generate_browse.py
