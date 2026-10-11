@@ -47,12 +47,14 @@ Each message is stored in its own `.md` file within a structured directory tree:
 │           └─ 2016-01-03-af-augustine.md
 │  └─ practices/
 │     └─ healing-merkaba.md
+│     └─ prayer-2016-09-04-af-john-the-beloved.md
 │     └─ prayer-for-divine-love-dlsf.md
 │     └─ prayer-for-divine-love-original.md
 │     └─ prayer-for-divine-love-padgett-contemporary.md
 │  └─ templates/
 │     └─ medium-template.yml
 │     └─ message-template.yml
+│     └─ prayer-template.md
 │     └─ spirit-template.yml
 │  └─ browse.md
 ├─ mediums/
@@ -431,6 +433,19 @@ No em dashes (—) anywhere in the repository: not in curator-written content (d
 ### Canadian English
 
 Canadian English punctuation conventions apply throughout. In particular, periods and commas fall outside closing quotation marks when they are not part of the quoted material.
+
+### Spirit-Given Prayers
+
+When a spirit gives a prayer within a message, the prayer may also be kept as its own file in `content/practices/`, so it can be found and prayed on its own. The message body is never changed; the prayer file is a copy.
+
+- **File name and ID.** Save the file as `prayer-{source_message}.md`, for example `prayer-2016-09-04-af-john-the-beloved.md`. The `practice_id` is always the file name without `.md`. If one message gives two prayers, the second is `prayer-{source_message}-2.md`.
+- **Fields.** Use the fields in `content/templates/prayer-template.md`, and only those. `medium` and `date_received` match the source message. `spirit_id` is the spirit who gives the prayer. Subjects come from `metadata/subjects.yml`, as for messages.
+- **Title.** Taken from the prayer's own words, in title case, for example "Father, I Need You".
+- **Prayer text.** Copied exactly as it appears in the message, without the italics and quotation marks that surround it there. Spellings stay as received (for example "armor"). If the prayer ends mid-sentence in the message, a final full stop may be supplied. Any other words the curator adds go in square brackets, for example "[I will]", and the notes say why.
+- **Notes.** Say how the prayer is introduced in the message, what it is given in the context of, and any punctuation supplied or words added.
+- **Footer.** After the prayer, a line with three hyphens, then: `*Given by {spirit_name} through {medium}, {Month D, YYYY}. The full message is at [{message_id}](../messages/YYYY/MM/{message_id}.md).*`
+
+`.github/scripts/validate_prayers.py` checks every prayer file on each push, including that the prayer text matches the message word for word once any bracketed additions are set aside. Other pages in `content/practices/` (the Prayer for Divine Love versions, the healing circle practice) are a different kind of page and are not checked.
 
 ---
 
