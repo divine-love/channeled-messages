@@ -5,7 +5,7 @@ All contributors should follow these conventions to ensure consistency, searchab
 
 This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
-Last updated: 2026-07-11
+Last updated: 2026-10-11
 
 ---
 
@@ -396,7 +396,7 @@ Questions should be written as a real seeker would type them into a search engin
 
 ### Subjects
 
-`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. If a needed subject does not exist, propose it to the curator first; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. When a named spiritual Law appears in a message body, add it as a secondary subject.
+`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. If a needed subject does not exist, propose it to the curator first; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. When a named spiritual Law appears in a message body, add it as a secondary subject. When a message refers to a spiritual Law without naming it, that Law may also be added as a secondary subject, with the curator's approval.
 
 ### Spirit Names in Keywords
 
