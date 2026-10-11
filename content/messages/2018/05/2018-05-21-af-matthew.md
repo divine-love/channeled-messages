@@ -9,46 +9,51 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
-message_type: ["Blessing"]
+gathering: ""
+message_type: ["Guidance"]
 description: >
-  Matthew opens with a prayer of blessing for those gathered, then affirms that
-  each soul is drawn to seek the greater Love of God by the longings of the soul
-  itself. He encourages those gathered to drink deeply of God's blessings in
-  this moment of prayer, reminding them that God's Love is always available,
-  never withheld, and that as the soul awakens it will come to know God in a
-  rich and full understanding.
+  Matthew opens with a prayer of blessing for those gathered, then tells them
+  they are drawn together by their own souls, which seek the greater Love of
+  God, and that gifts and parts of themselves that have lain dormant for years
+  are now eager to come into the light. He urges them not to let the world pull
+  them away from God, to pray each day and listen for the answer, and to drink
+  in the blessing, for God's Love is always available and never withheld.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Soul Awakening"
-  - "Spiritual Empowerment & Encouragement"
+  - "Unique Soul Gifts"
+  - "Teaching the Prayer Practice"
+  - "Circle of Light & Prayer Circles"
+  - "Reassurance & Strength"
 people: []
 spirits: []
-keywords: ["greater love", "dormant gifts", "soul longing", "sustenance", "awakening", "prayer", "commune with God", "respite", "unique path", "faculties", "hidden aspects", "light of day"]
+keywords: ["greater love", "prayer of blessing", "dormant gifts", "hidden aspects", "light of day", "faculties", "soul longing", "sustenance", "awakening", "unique path", "praying together", "respite", "daily prayer", "listening for answers", "child of God", "never alone", "never withheld", "drink in the blessing", "commune with God", "Source of all Love"]
 questions:
   - "How do I awaken the parts of myself that have been dormant for years?"
-  - "How do I know when I am receiving God's Love in prayer?"
-  - "Is God's Love really always available to me no matter what I have done?"
+  - "What gifts are hidden in my soul waiting to come out?"
+  - "Why do I feel drawn to pray with other people?"
   - "How do I find respite from the world through prayer?"
+  - "How do I keep the world from pulling me away from God?"
+  - "How should I pray each day?"
+  - "Does God ever hold back His Love from me?"
+  - "Am I ever really alone?"
   - "What does it mean to commune with God?"
 related_messages:
-  - 2017-08-21-af-matthew
-  - 2016-12-29-af-matthew
-  - 2016-01-04-af-confucius
+  - 2015-10-12-af-augustine
+  - 2018-10-16-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/awaken-to-the-greater-love/"
 notes: ""
 essential_teachings: []
 language: en
 excerpt: >
-  Those parts of you that have lain dormant for many years are now eager for
-  the light of day, to be an integral part of your life. These things come from
-  your souls - these desires, these gifts, these abilities and faculties that
-  give deeper meaning to your lives.
+  It is always available to you, my beloveds. It is never withheld and never
+  will be.
 collections: ["The Saints & Apostles Speak"]
 door: >
-  Those parts of you that have lain dormant for many years are now eager for the light of day. They come from your soul
-last_edited: 2026-04-23
+  What has lain dormant in you for years is not lost. It is eager for the light
+  of day.
+last_edited: 2026-10-11
 ---
 
 Bless these, thy children, who seek to know their souls, who continue to pursue the path to know You, to know your Love. Father bless them, for in this world each one struggles for Light and desires to know Truth. Each one, your blessed creation, your beloved child. May they be blessed accordingly, in conjunction with their desires for Light and Love, healing and peace. May they be blessed and touched by your Love that heals the soul and brings comfort and Truth to all those who seek.
