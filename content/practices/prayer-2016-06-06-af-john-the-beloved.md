@@ -1,5 +1,5 @@
 ---
-practice_id: prayer-john-the-beloved-fill-my-soul
+practice_id: prayer-2016-06-06-af-john-the-beloved
 title: "Father, Fill My Soul with Your Love"
 type: prayer
 source_message: 2016-06-06-af-john-the-beloved
@@ -14,13 +14,12 @@ secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
 description: >
   A prayer for the Divine Love given by John the Beloved within the message
-  "Continue on This Path." Spoken as the words by which the soul opens to
+  "Continue on This Path". Spoken as the words by which the soul opens to
   God's Essence and asks to be made a channel of His Love to others.
 language: en
 notes: >
-  Appears in the source message as a spoken prayer offered to the circle. Not
-  publicly posted online.
-last_edited: 2026-07-20
+  Appears in the source message as a spoken prayer offered to the circle.
+last_edited: 2026-10-11
 ---
 Father, fill my soul with Your Love, that Essence which You are, which You wish to give and place within my soul, a reflection of You, that in so doing you may change me and make me into a child truly claimed by You. That I may be at one with You in that flow of Your great Love, walk upon that Path which You Light for me, that Path which is Your desire and Your Will for me and that I may in turn serve you as a channel of Your Love. That I might touch others as You place Your great Light within me, Your wondrous touch upon me, that others may too feel this and know this and be enveloped by Your gracious Arms of Love.
 
