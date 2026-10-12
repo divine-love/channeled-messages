@@ -49,7 +49,7 @@ RESET = "\033[0m"
 # ── Debt baselines ────────────────────────────────────────────────────────────
 # Lower these as the work is done. Never raise one to make a build pass.
 BASELINE = {
-    "minted_without_roster": 2,   # threads awaiting a roster entry
+    "minted_without_roster": 1,   # threads awaiting a roster entry
     "records_without_tier": 0,    # bare '- NOTE:' and bare '- (' records
     "roster_datestamps": 0,       # session dates inside roster entries
     "log_datestamps": 0,          # session dates inside log records
