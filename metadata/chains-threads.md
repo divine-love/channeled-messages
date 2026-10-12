@@ -542,7 +542,7 @@ message_ids already carry the dates.
   greatest change agent in the universe"; 2016-08-25-af-confucius has it in a
   weak form, "the healing of Divine Love is a special blessing for all";
   2016-08-26-af-augustine, "Love is the highest gift.
-  Love is the greatest gift. Love is the most healing gift that be given,"
+  Love is the greatest gift. Love is the most healing gift that can be given,"
   with a caveat, the sentence says Love and the context supplies God's Love
   and "that Divine Grace," so the reading is contextual and it is struck if
   the roster is kept to explicit Divine Love claims.
@@ -608,17 +608,17 @@ message_ids already carry the dates.
   2019-01-26-af-andrew widens that from designated mediums to everyone and
   names the obstacle as the dense reality the material mind has conferred on
   the world rather than any lack of gift; 2019-02-27-af-andrew carries both
-  strands at once, the instrument as "a finely tuned mechanism developed over
-  many years" and then the widening, "do not underestimate your own ability
-  to communicate with us"; 2019-04-05-af-augustine turns discernment into a
-  teachable test, that a message not of love and not naming the Divine Love
-  as the source of Truth is not from a Celestial, with the kernel doctrine
-  that distortion may blur a genuine message but never empty it, and
-  verification located in the soul; 2019-04-01-jw-yogananda gives the rapport
-  from the spirit's side, naming why he comes to this particular medium and
-  asking permission; 2019-04-06-af-yogananda gives the development protocol,
-  the steps, the tools, and the invitation principle, "There is no pressure
-  to begin. There is merely an invitation."
+  strands at once, the instrument as "a finely tuned mechanism that has been
+  developed over many years" and then the widening, "do not underestimate your
+  own ability to communicate with us"; 2019-04-05-af-augustine turns
+  discernment into a teachable test, that a message not of love and not naming
+  the Divine Love as the source of Truth is not from a Celestial, with the
+  kernel doctrine that distortion may blur a genuine message but never empty
+  it, and verification located in the soul; 2019-04-01-jw-yogananda gives the
+  rapport from the spirit's side, naming why he comes to this particular
+  medium and asking permission; 2019-04-06-af-yogananda gives the development
+  protocol, the steps, the tools, and the invitation principle, "There is no
+  pressure to begin. There is merely an invitation."
   Objections removed. 2018-11-26-af-jesus clears the belief that messages in
   Jesus' name are from Jesus, naming widespread impersonation in the spirit
   world and well-meaning mediums influenced unawares.
@@ -678,11 +678,12 @@ message_ids already carry the dates.
   readies itself for a new era of life upon your Earth," with the cause stated
   almost as the registry has it, "it is the disharmony which mankind has
   brought within themselves and within this world that has sparked these
-  changes and responses... you cannot ignore the laws of creation, you cannot
-  be immune to the world that responds to your indifference"; it carries a
-  second facet not the ground of its role, the awakened soul's stance given
-  its content as adaptability and hope, "be flexible, willing to change and
-  adapt as all around you changes," "you cannot carry fear but hope."
+  changes and responses... you cannot, my beloveds, ignore the Laws of
+  Creation, you cannot be immune to the world that responds to your
+  indifference"; it carries a second facet not the ground of its role, the
+  awakened soul's stance given its content as adaptability and hope, "be
+  flexible, willing to change and adapt as all around you changes," "you
+  cannot carry fear but hope."
   2023-02-10-af-augustine makes the purpose the waking of humanity, the Earth
   itself changing to force mankind awake, which moves the thread from what the
   changes are to what they are for. The two purposes differ in whose they are,
@@ -885,25 +886,26 @@ message_ids already carry the dates.
   that God's Will cannot be known from the mind, only by a soul enlivened by
   Divine Love;
   2016-01-18-af-confucius applies the premise to the individual's inner
-  struggle, "You are given the gift of free will... but this is your destiny,"
-  the soul determining the timing while alignment is the destiny free will
-  exists to choose; 2016-03-16-af-jesus works the plan at the scale of one
-  life and supplies the surrender step in a form the thread does not otherwise
-  hold, the seeker's own method for serving God superseded from within, "the
-  fantasies of your minds projecting how you will do God's Work will be
-  replaced by a sure knowledge of your souls," and denies the circuitous road
-  the meaning a hearer would give it, "none of you are lost upon a circuitous
-  road"; 2016-03-17-af-alec-gaunt rules human plan-making out absolutely, "You
-  cannot devise a plan to save the world. This is not possible for any human
-  being or even any angel. It is God's plan," offering his own Earth-life
-  ambition as the cautionary case, the same move at world scale that Jesus
-  makes at the scale of a method; 2016-03-18-af-john-the-beloved adds the
-  pre-incarnation choice, "Each one of you has incarnated into this world for
-  this purpose. You chose this," so alignment is the fulfilment of a choice
-  already made rather than a surrender imposed; 2016-03-31-af-judas grounds
-  the premise in the design of the soul, free will given so the soul's
-  reflection of God would be "full and rich," with the plan being that
-  everyone be offered rather than that everyone accept;
+  struggle, "you are given the gift of free will. But, my beloveds, this is
+  your destiny," the soul determining the timing while alignment is the
+  destiny free will exists to choose; 2016-03-16-af-jesus works the plan at
+  the scale of one life and supplies the surrender step in a form the thread
+  does not otherwise hold, the seeker's own method for serving God superseded
+  from within, "the fantasies of your minds projecting how you will do God's
+  Work will be replaced by a sure knowledge of your souls," and denies the
+  circuitous road the meaning a hearer would give it, "none of you are lost
+  upon a circuitous road"; 2016-03-17-af-alec-gaunt rules human plan-making
+  out absolutely, "You cannot devise a plan to save the world. This is not
+  possible for any human being or even any angel. It is God's plan," offering
+  his own Earth-life ambition as the cautionary case, the same move at world
+  scale that Jesus makes at the scale of a method;
+  2016-03-18-af-john-the-beloved adds the pre-incarnation choice, "Each one of
+  you has incarnated into this world for this purpose. You chose this," so
+  alignment is the fulfilment of a choice already made rather than a surrender
+  imposed; 2016-03-31-af-judas grounds the premise in the design of the soul,
+  free will given so the soul's reflection of God would be "full and rich,"
+  with the plan being that everyone be offered rather than that everyone
+  accept;
   2016-05-12-af-augustine supplies the working protocol, "it must be a mutual
   agreement between you and God... it does require for you to bring it forth
   to your Heavenly Father and ask that this may be guided and blessed";
@@ -987,7 +989,8 @@ message_ids already carry the dates.
   repetition can be found.
   Witnesses, the assistance gate. 2016-09-14-af-augustine, help gated on the
   seeker's asking with the spirits' posture in the meantime named as enforced
-  waiting, "we can only wait for you to climb back out of your condition";
+  waiting, "we in spirit who watch you and watch over you can only wait for
+  you to climb back out of your condition";
   2016-10-16-af-augustine, the same gate with its law attached, "When you ask
   for our help you receive it... this is how the Law of Attraction works."
   Fences. Against `free-will-and-gods-plan`: that thread is God's
@@ -1062,7 +1065,7 @@ message_ids already carry the dates.
   Elaborations, what the increments reach and how they are seen.
   2016-10-24-af-confucius gives a practical instruction, retrospection as the
   way increments become visible, "mark your progress, beloveds. If you look
-  back upon your life and see how your perceptions have changed your
+  back upon your life you can see how your perceptions have changed your
   behaviour, your capacity to love. And, yes, these things are often subtle
   and gradual, but much has changed within each one of you," extended to
   beginners, who by the thread's own logic have least to look back on;
@@ -1173,7 +1176,7 @@ message_ids already carry the dates.
   no possibility of love and framed as strength; 2019-04-05-af-augustine turns
   the argument inward on the fellowship, where schisms come from differing
   approaches rather than error, the stronger in love must be the example, and
-  rejection is met with greater love because it "is a cry for love."
+  rejection is met with greater love because it is "a cry for love."
   Capstone, anchor: 2018-07-16-af-andrew, a talk on forgiveness, makes it "a
   measure of your own soul's progression, as God infills your soul with His
   Love," until "you forgive reflexively, no matter the intention of others,"
@@ -1221,7 +1224,7 @@ message_ids already carry the dates.
   why knowing it and knowing God are one movement.
   Foundation, anchor: 2016-02-15-af-augustine states the gap, the claim and
   the measure in one message. The gap, "it is not easy for you to know your
-  souls, a powerful and subtle Gift from God that brings you life. For you
+  souls - a powerful and subtle Gift from God that brings you life. For you
   know your minds so well, this well-trodden place which you value and nurture
   and revere." The claim, which is also the title and the excerpt, "you must
   forge that path to your souls, for in doing so you forge a path to God." The
@@ -1252,8 +1255,9 @@ message_ids already carry the dates.
   purpose; 2016-03-29-af-james gives the value claim, "To know your souls, to
   know who you truly are is the greatest of gifts to yourself";
   2016-09-16-af-john-the-beloved lists the knowing as a requirement inside a
-  commission, "know your own soul and God's," set among the other duties the
-  ministry asks, which places it in a list without arguing it;
+  commission, "to truly know your souls, to truly know God's soul," set among
+  the other duties the ministry asks, which places it in a list without
+  arguing it;
   2016-11-27-af-james-reid titles the claim and adds a shared frame, that
   knowing your souls is what a circle gathers to do and helps one another do,
   "This is your focus; this is why you come together... truly come to know
@@ -1480,8 +1484,9 @@ message_ids already carry the dates.
   Testimony: 2019-02-15-af-matthew, an account from one of those present, "it
   came suddenly... in great light and heat," "a fire that did not burn. It was
   a fire that healed and changed us," with the teaching drawn from it, that
-  seekers "yearn for this instantaneous healing and awakening, instead of the
-  incremental and sometimes difficult journey of cleansing" they have chosen.
+  seekers are "yearning for this instantaneous healing and awakening, instead
+  of the incremental and sometimes difficult journey of cleansing" they have
+  chosen.
   Matthew gives the experience from inside it; the Foundation gives the
   conditions that produced it.
   Witnesses. 2016-03-31-af-judas, a separate account of the same event, the
@@ -1528,17 +1533,17 @@ message_ids already carry the dates.
   the origin account, the portal's existence explained by accumulated human
   prayer over time and carrying the consecration vocabulary of hallowed,
   consecrated and dispensation, and it is the igniter's own voice thanking
-  "all those who've gone before you" whose prayers "drew God's special
-  blessing and dispensation upon this ground"; 2018-11-21-af-james gives the
-  mechanics and the human share, portals acting "in some ways like a machine
-  that functions to bring and focus energy," the bridge built from both ends,
-  "You are one side and we are the other and we work together to weave this
-  connection," and the anchoring account, that sustained presence in a place
-  dedicated to prayer is what lets the conduit be created, with the purpose
-  named as connection to "the great lattice of light" and stability "given the
-  unstable conditions of your world." The collaborative language resolves
-  against the conferral law as a division of labour, humans anchoring what
-  spirits formulate and God confers.
+  "all those who've gone before you" whose prayers, faith and love "have come
+  to draw God's special blessing and dispensation upon this ground";
+  2018-11-21-af-james gives the mechanics and the human share, portals acting
+  "in some ways like a machine that functions to bring and focus energy," the
+  bridge built from both ends, "You are one side and we are the other and we
+  work together to weave this connection," and the anchoring account, that
+  sustained presence in a place dedicated to prayer is what lets the conduit
+  be created, with the purpose named as connection to "the great lattice of
+  light" and stability "given the unstable conditions of your world." The
+  collaborative language resolves against the conferral law as a division of
+  labour, humans anchoring what spirits formulate and God confers.
   Objection-removed: 2019-04-06-af-yogananda clears the belief that
   communication requires a portal, voiced in the room by a sitter, "is the
   portal there as well as here?", and removed in direct answer, "There is no
@@ -1679,8 +1684,8 @@ message_ids already carry the dates.
   words, to the named law that answers it.
   Foundation, anchor: 2015-11-28-af-faith-nyquist. Faith establishes that
   sincere prayer and soul-longing for God's Love brings real change in both
-  the material and the spirit worlds, and strips prayer to its essence, "just
-  longing, just prayer."
+  the material and the spirit worlds, and strips prayer to its essence, "Just
+  longing. Just prayer."
   Elaborations, what prayer is and is not. 2016-01-23-af-augustine draws the
   central distinction, prayer being the anchor and foundation of the Path
   Divine but "not a prayer that is a recitation from your minds, but prayer
@@ -1694,15 +1699,16 @@ message_ids already carry the dates.
   sincere prayer given to God will strike the mark and obtain a response from
   your Heavenly Father," offered "in earnest longing and clear intention."
   Elaborations, what it asks of the seeker. 2016-07-11-af-confucius adds the
-  cadence requirement and its cost, "You must take the time, make the effort,
-  say the prayers, sit in silence to receive God's answers to the longings of
-  your souls," measured as "at least one portion of your day," and without the
-  daily Touch "you become lost in the human condition, in the ebb and flow of
-  all the disparate energies of this world"; 2016-09-04-af-john-the-beloved
-  sets the floor and the rate, "It is a simple choice to sit in prayer. To
-  long for this Love requires nothing but your effort and time. Even a brief
-  prayer for God for Love will eventually set you upon this course and the
-  more effort you apply in this journey, the faster will be the awakening";
+  cadence requirement and its cost, "you, my beloveds, must take the time,
+  make the effort, say the prayers, sit in silence to receive God's answers to
+  the longings of your souls," measured as "at least one portion of your day,"
+  and without the daily Touch "you become lost in the human condition, in the
+  ebb and flow of all the disparate energies of this world";
+  2016-09-04-af-john-the-beloved sets the floor and the rate, "It is a simple
+  choice to sit in prayer. To long for this Love requires nothing but your
+  effort and time. Even a brief prayer for God for Love will eventually set
+  you upon this course and the more effort you apply in this journey, the
+  faster will be the awakening";
   2017-05-11-af-jesus makes reception proportional to the depth of the asking
   and measures the circle against that standard to their face, the longing
   required being "far greater than any of you here are feeling and desiring to
@@ -1741,8 +1747,8 @@ message_ids already carry the dates.
   emissaries of Love and Truth," a framing that recurs in this circle's
   material and so is repetition rather than a new facet;
   2017-08-21-af-matthew names prayer as the means of experiencing rather than
-  of asking, "this is why you continue to pray and long for this Love, to
-  experience it on all these different levels of awareness";
+  of asking, "This, my beloveds, is why you continue to pray and long for this
+  Love, to experience it on all these different levels of awareness";
   2018-06-18-af-matthew applies the Law of Attraction to the communication
   itself, "Where there is that longing, that desire, we are able to come and
   be with you."
@@ -2122,8 +2128,9 @@ message_ids already carry the dates.
   the thread's subject is the sensitive soul's redemptive function, which the
   message does not touch. 2016-09-15-af-augustine has the protection
   proportional rather than energetic, the flaws outweighed rather than the
-  soul shielded, "you are not perfect... Yet these aspects of yourself are
-  minor compared to the power of the Love that flows through you."
+  soul shielded, "you are not perfect... Yet these aspects of yourself, which
+  are changing and evolving, are minor compared to the power of the Love that
+  flows through you."
   Witnesses, sensitivity and sorrow. 2016-07-13-af-seretta-kem states the
   sensitivity-and-absorption claim in passing, the thread's territory without
   its argument; 2019-01-21-af-augustine carries the sorrow facet pastorally,
@@ -2187,8 +2194,9 @@ message_ids already carry the dates.
   Both are stated rather than built.
   Sightings, kept for the boundary they mark. 2016-10-17-af-keea-atta-kem reads
   the same sentence from the other side, simplicity as the whole of the method;
-  2016-11-27-af-augustine uses the word in its ordinary sense, "you must simply
-  be in harmony with God," rather than as the thread's claim.
+  2016-11-27-af-augustine uses the word in its ordinary sense, "you, my
+  beloveds, must simply be in harmony with God," rather than as the thread's
+  claim.
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is the register in which truth actually reaches a soul.
   The two would meet at the ambition step if the complication-motive facet is
@@ -2680,11 +2688,11 @@ message_ids already carry the dates.
   2016-05-29-af-aman names the company itself, "You who are attempting to turn
   this tide are brave and blessed warriors who are moving in Light given by
   God to assist you in your efforts to bring change."
-  Witness, the regathering. 2016-08-26-af-jesus has God "continue to use you
-  and bring you together in groupings for specific purposes in the world... in
-  ways and means that may seem impossible to you at this time." Held at
-  witness because it rests on one forward-looking sentence in a message whose
-  spine is the salvation plan; it could be promoted at build.
+  Witness, the regathering. 2016-08-26-af-jesus has God, who "continues to use
+  you and bring you together in groupings for specific purposes in the
+  world... in ways and means that may seem impossible to you at this time."
+  Held at witness because it rests on one forward-looking sentence in a
+  message whose spine is the salvation plan; it could be promoted at build.
   Sightings, kept for the boundary they mark. 2016-09-03-af-james has the
   doors-opening claim in general form, "God will use you in ways yet
   unanticipated, opportunities will come your way so that you may be a change
@@ -2850,8 +2858,9 @@ only stating it.
   `bell-toll-instrumentality` (how the Light spreads) but is framed at the
   scale of the world, not the individual. Seen: 2015-08-24-af-augustine (Love
   must prevail and spread to create Circles of Light against the negative
-  forces of the world); 2018-05-28-af-jesus ("association of souls...
-  coalescing into a beautiful movement that shall push back the darkness");
+  forces of the world); 2018-05-28-af-jesus ("association of souls of Light
+  and Truth that is coming together and coalescing into a beautiful movement
+  that shall indeed push back the darkness");
   2018-10-24-af-seretta-kem ("nodes of deep darkness... surrounded and
   neutralized by your efforts"); 2019-02-04-af-jesus ("two powerful
   currents... beachheads of Light... nodes of Light expand and grow"; the
