@@ -1153,13 +1153,13 @@ message_ids already carry the dates.
   schisms come from differing approaches rather than error, the stronger in
   love must be the example, and rejection is met with greater love because it
   "is a cry for love."
-  Capstones, both standing, anchor at build. 2017-06-15-af-augustine gives
-  the comprehensive lesson, reactions revealing the seeker's own soul state,
-  with conscious choice as the antidote and a first-person template for
-  choosing Love in the moment. 2018-07-16-af-andrew makes forgiveness a
-  direct measure of the soul's progression in Divine Love, arriving
-  reflexively as God infills the soul, with even a small measure of true
-  forgiveness greater than all good deeds done in this world.
+  Capstone, anchor: 2018-07-16-af-andrew makes forgiveness a direct measure of
+  the soul's progression in Divine Love, arriving reflexively as God infills
+  the soul, with even a small measure of true forgiveness greater than all
+  good deeds done in this world.
+  Section member: 2017-06-15-af-augustine gives the comprehensive lesson,
+  reactions revealing the seeker's own soul state, with conscious choice as
+  the antidote and a first-person template for choosing Love in the moment.
   Witnesses. Three of them give reasons for not judging that are worth
   weighing at build. 2016-09-02-af-confucius reaches it through comparison,
   since each soul's path is unique and cannot be measured against another's;
@@ -1175,16 +1175,16 @@ message_ids already carry the dates.
   loss rather than a diagnosis, "When you push your brothers and sisters away
   in judgement or fear, you push God away, you push love away."
   Structural note: the thread has no Foundation. The nearest thing to a
-  premise-statement sits inside the Capstone, 2017-06-15-af-augustine, where
-  reactions revealing the seeker's own soul state is the ground everything
-  else rests on. That is what makes the thread read as headless: its opening
-  claim is held by its close. `religious-error` has the same shape, and
-  whether that is coincidence or something about how the archive teaches is
-  worth watching. If a Foundation is wanted, 2016-11-07-af-andrew is a
-  candidate to weigh, since knowing yourself loved making judgment impossible
-  is a premise rather than an application; the log holds it at witness. A
-  second thing to settle: the Capstone section needs an anchor. And an
-  ordering tension runs between its members and one witness.
+  premise-statement sits inside the Capstone section, at
+  2017-06-15-af-augustine, where reactions revealing the seeker's own soul
+  state is the ground everything else rests on. That is what makes the thread
+  read as headless: its opening claim is held by its close. `religious-error`
+  has the same shape, and whether that is coincidence or something about how
+  the archive teaches is worth watching. If a Foundation is wanted,
+  2016-11-07-af-andrew is a candidate to weigh, since knowing yourself loved
+  making judgment impossible is a premise rather than an application; the log
+  holds it at witness. A second thing: an ordering tension runs between the
+  Capstone and one witness.
   2016-09-01-af-jesus makes forgiveness the precondition that opens the door,
   "Forgiveness, beloved souls, will open the door... Love will open the door
   to God and God's Love will come rushing in like a mighty river," while the
@@ -1985,14 +1985,15 @@ message_ids already carry the dates.
   felt that the written word was the Word of God," with a verdict that is
   neither dismissal nor endorsement, since there is real moral truth in it but
   much that has "little or no consequence to the progression of a soul."
-  Testimony, reformers testifying against their own traditions.
-  2015-03-28-af-augustine names himself and what he did, "I played a great
-  part in developing the church of Christ, and in so doing I encouraged many
-  erroneous beliefs and understandings of Jesus' true message," and says what
-  he does now about it. 2018-11-05-af-john-wesley on the limitations of his
-  earthly ministry and institutional Christianity's failure to teach the
-  higher truth. 2019-01-31-af-yogananda extends the arc beyond Christianity,
-  on reincarnation taught from a young age and reinforced through his own
+  Testimony, reformers testifying against their own traditions; anchor:
+  2015-03-28-af-augustine, who names himself and what he did, "I played a
+  great part in developing the church of Christ, and in so doing I encouraged
+  many erroneous beliefs and understandings of Jesus' true message," and says
+  what he does now about it.
+  Section members. 2018-11-05-af-john-wesley on the limitations of his earthly
+  ministry and institutional Christianity's failure to teach the higher truth.
+  2019-01-31-af-yogananda extends the arc beyond Christianity, on
+  reincarnation taught from a young age and reinforced through his own
   spiritual pursuits. 2019-04-01-jw-yogananda gives the same correction in
   full first-person form with its origin story, that among all his loved ones
   and the ancient teachers in spirit "NONE of them had ever had any experience
@@ -2028,8 +2029,7 @@ message_ids already carry the dates.
   are false. Held together, neither half has a head, which would explain the
   missing Foundation better than any candidate does. Leave this open until
   build, since choosing a Foundation would fix the thread's shape around
-  whichever half was picked. The Testimony section will also need an anchor
-  named for itself.
+  whichever half was picked.
   Fences. Against `conduit-not-scripture`: that thread is about what a
   delivered text is and the angels' continuing relation to it; this one is
   about error accumulating in institutions and doctrines. Against
@@ -2191,14 +2191,16 @@ message_ids already carry the dates.
   2019-02-24-af-andrew adds the communal facet, God bringing differing souls
   together so that "presumptions and insights that are obscured by one, may
   come clear to another."
-  Reframes, each recasting something different. 2016-03-11-af-luke recasts the
-  cause: the encrustations are not the mark of sin but the residue of having
-  lived in this world, so the seeker is "in a way a victim" and should meet
-  their own cleansing with compassion. 2016-03-17-af-alec-gaunt recasts the
-  felt slowness: even when the mind cannot reach soul-awareness, "this does
-  not mean that your soul is dormant or not growing, or that the encrustations
-  are not falling away." 2018-07-14-af-seretta-kem recasts the difficulty
-  itself as when the greatest progress is made, with the angels as midwives.
+  Reframe, anchor: 2016-03-11-af-luke recasts the cause: the encrustations are
+  not the mark of sin but the residue of having lived in this world, so the
+  seeker is "in a way a victim" and should meet their own cleansing with
+  compassion.
+  Section members, each recasting something different.
+  2016-03-17-af-alec-gaunt recasts the felt slowness: even when the mind
+  cannot reach soul-awareness, "this does not mean that your soul is dormant
+  or not growing, or that the encrustations are not falling away."
+  2018-07-14-af-seretta-kem recasts the difficulty itself as when the greatest
+  progress is made, with the angels as midwives.
   Objections removed. 2016-09-12-af-jerome clears the externalizing account
   of one's own negative states, "those negative reactions belong to you...
   they come from you." 2023-02-10-af-augustine clears the purify-first
@@ -2218,8 +2220,7 @@ message_ids already carry the dates.
   2016-05-16-af-keea-atta-kem describes the completion, "all that is not in
   harmony with God's Love will fall away from you and your souls are redeemed
   in Love, healed completely, nothing within you is of the human condition."
-  The end-state facet may become this thread's Capstone. The Reframe section
-  will also need an anchor named for itself when the sections are built.
+  The end-state facet may become this thread's Capstone.
   Fences. Against `two-paths`: that thread is about which road the cleansing
   happens on; this one is about what is cleansed and how. Against
   `earth-conditions-and-prayer` and `conditions-of-a-people`, both written in
@@ -2500,21 +2501,21 @@ message_ids already carry the dates.
   but the depth and acuity of the knowings of the soul will not be part of
   this reality," then sets the contrast at the scale of humanity's need
   rather than the soul's destination.
-  Testimony. 1963-12-26-ds-mary shows one love becoming the other in two
+  Testimony, anchor: 2016-05-29-af-aman, the whole architecture walked by a
+  single soul: the refusal, the fall, the climb up the natural path to "our
+  previous exalted state within the sixth sphere or natural heavens," and
+  then, once the door reopens, "we were able to choose, this time more wisely,
+  the way of the Divine Love."
+  Section members. 1963-12-26-ds-mary shows one love becoming the other in two
   lives, of Jesus, "Jeshu's love for his family was a natural love, purified.
   It later became Divine through prayer," and of herself, her love deepening
-  into the Divine Love only after his death. 2016-05-29-af-aman is the whole
-  architecture walked by a single soul: the refusal, the fall, the climb up
-  the natural path to "our previous exalted state within the sixth sphere or
-  natural heavens," and then, once the door reopens, "we were able to choose,
-  this time more wisely, the way of the Divine Love." 2018-11-22-af-yogananda
-  testifies from the Celestial Kingdom looking back, that the natural love
-  spheres are real but not the summit. 2019-02-12-af-osho-bhagwan testifies
-  from inside the climb, a guru who taught the natural road, has "not entered
-  into the Celestial Spheres," and confirms the higher road from below, naming
-  his own reach as partial.
-  2019-04-01-jw-yogananda gives the compressed sphere progression with
-  prayer for God's Love as "my principal practice."
+  into the Divine Love only after his death. 2018-11-22-af-yogananda testifies
+  from the Celestial Kingdom looking back, that the natural love spheres are
+  real but not the summit. 2019-02-12-af-osho-bhagwan testifies from inside
+  the climb, a guru who taught the natural road, has "not entered into the
+  Celestial Spheres," and confirms the higher road from below, naming his own
+  reach as partial. 2019-04-01-jw-yogananda gives the compressed sphere
+  progression with prayer for God's Love as "my principal practice."
   Capstone: 2016-05-02-af-andrew, which picks up directly from Mary in the
   same circle and states the thread whole. The premise, that at death the
   soul holds "the memory of every minute and second of your life"; the fork
@@ -2545,8 +2546,6 @@ message_ids already carry the dates.
   Note also that the Andrew Capstone carries a Chrysalis-shaped passage, the
   unlimited-capacity vista, so if a Chrysalis section is ever opened here that
   message is its obvious occupant and the Capstone anchor question reopens.
-  The Testimony section will need an anchor named for itself when the sections
-  are built.
   Fences. Against `soul-expiation`: that thread is about the cleansing of
   what the soul carries; this one is about which road the cleansing happens
   on. Against `reincarnation-progression`: that thread establishes that the
