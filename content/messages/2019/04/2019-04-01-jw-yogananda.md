@@ -54,7 +54,7 @@ excerpt: >
 door: >
   The guru spent a lifetime teaching reincarnation. Death was where he learned it was never true.
 collections: ["Letters from History"]
-last_edited: 2026-07-18
+last_edited: 2026-10-12
 ---
 
 My dear boy, my dear friend, I wish to start at the beginning as this seems the best place to begin.
@@ -63,7 +63,7 @@ We are not so different, you and I, although that thought has never occurred to 
 
 I was and am God’s disciple as you are. We are on the same path and yet I had to enter the spirit world to understand that reincarnation is not a fact as I taught and my guru taught and is accepted not only in Hinduism but by many people around the world. When I saw all my loved ones both those who were spiritually advanced on earth and those who were more materially focused on earth in the spirit world (as well as some very ancient spiritual teachers) and they told me that NONE of them had ever had any experience of reincarnation on earth I knew. I could see that quite clearly and so it was easy for me to drop that belief. Praying for God’s love became my principal practice and my reunion and realignment with my beloved teacher Sri Yukteswar, already well established in the truths of Divine Love, our Creator’s great gift for the asking, helped me progress quickly through the various spheres as I have described through your friend and wonderful medium Al Fike.
 
-I wish to tell you my experience with Master Jesus, who I always loved when on earth and wrote extensively about through the lens of my eastern understandings and incorporated that in my teachings and honoring him as one of the great teachers. He is indeed he highest soul in God’s kingdom and the most loving, gracious, humble, and glorious spirit truly beyond any description with mere words. I did on earth realize things about him and his life that were in harmony with the truth though other things I super imposed upon him within the understandings however limited of my own tradition. You have had the privilege and great fortune of the writings of James Padgett and your life with your dear Care and many others teaching you these truths now for more than 30 years of your life on earth. What a gift your Divine love friends are to you and the world. We shall work together to bring these truths to the world.
+I wish to tell you my experience with Master Jesus, who I always loved when on earth and wrote extensively about through the lens of my eastern understandings and incorporated that in my teachings and honoring him as one of the great teachers. He is indeed the highest soul in God’s kingdom and the most loving, gracious, humble, and glorious spirit truly beyond any description with mere words. I did on earth realize things about him and his life that were in harmony with the truth though other things I super imposed upon him within the understandings however limited of my own tradition. You have had the privilege and great fortune of the writings of James Padgett and your life with your dear Care and many others teaching you these truths now for more than 30 years of your life on earth. What a gift your Divine love friends are to you and the world. We shall work together to bring these truths to the world.
 
 It is time now for me to deliver the broader teachings to my disciples on earth and it is my deep wish that you will allow me to do so through our conversations in spirit.
 
