@@ -146,6 +146,11 @@ are built.
 > search for a slug returns the whole record and a diff shows which records
 > changed.
 >
+> A message may carry more than one line for the same thread and role when
+> each line covers a different passage. They count as one role for that
+> message; when the chain is built, the passages are read in the order the
+> lines give.
+>
 > [back-search] marks entries logged from a description rather than a full
 > reading; their roles are provisional pending full-text confirmation.
 
