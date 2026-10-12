@@ -107,7 +107,7 @@ Each message has a unique id using this format:
 
  - `{medium_initials}` = the first letter of the medium's first and last name, **always lowercase**.
    Example: Al Fike → `af`
-   Known mediums: Al Fike → `af`; Maureen Cardoso → `mc`; Dr. Daniel Samuels → `ds`; Jimbeau Walsh → `jw`.
+   Known mediums: Al Fike → `af`; Barbara Davies → `bd`; Maureen Cardoso → `mc`; Dr. Daniel Samuels → `ds`; Jimbeau Walsh → `jw`.
  - **Anonymous mediums**, when a medium wished to remain unnamed, use `xx` as the medium initials.
    Example: `2015-01-05-xx-jesus`
  - `{spirit_id}` = the spirit's unique identifier, corresponding to the name in the spirit file. Naming pattern is the spirit's full name with **each space replaced by a hyphen (-)**.
