@@ -378,8 +378,7 @@ message_ids already carry the dates.
   carries the lessons framing, "lessons to be learned... this is the challenge
   of life";
   2016-02-29-af-confucius and 2018-08-06-af-solomon restate the same
-  principle; 2017-01-25-af-alec-gaunt and 2017-03-27-af-james are witness
-  level and tagged [back-search], provisional until confirmed at full text.
+  principle.
   Fences. Against `soul-growth-through-challenges` as a subject rather than a
   thread, the membership bar is an argument that hardship is redeemed into
   growth, not a reassurance that it will be. Two neighbouring ideas should not
@@ -853,22 +852,21 @@ message_ids already carry the dates.
   God holding an intended end that free will constantly deflects, to the
   soul's free choice to align being itself the fulfilment of the plan rather
   than its loss.
-  Foundation, anchor: 2015-03-24-af-augustine, given in New York the day
-  after the gathering there, to a small circle beginning something new. It
-  carries three separable Foundation passages. The premise, "there is fate
-  and yet there is no fate," God holding an intended outcome and seeing the
-  whole of it while "the power of free will buffets the enactment of God's
-  will, turns and twists this flow," with the constraint stated as legal
-  rather than practical. Then the delay as chosen rather than imposed, "the
-  power of God's Love is greater than all the power of man's will," followed
-  at once by the reaffirmation that the laws must be obeyed anyway, so God is
-  not held back but declines to use a power He has. Then what the argument
-  costs and what it is for, "the injustices and the extreme perversions of
-  life, and the innocence of those who are the victims of the great power of
-  mankind's free will," with the remedy located in souls "unencumbered by
-  these conditions" and "strong enough because they possess the greatest gift
-  possible," so the delay is what allows the suffering to continue and the
-  willing soul is what shortens it.
+  Foundation, anchor: 2015-03-24-af-augustine, given in New York to a small
+  circle beginning something new. It carries three separable Foundation
+  passages. The premise, "there is fate and yet there is no fate," God holding
+  an intended outcome and seeing the whole of it while "the power of free will
+  buffets the enactment of God's will, turns and twists this flow," with the
+  constraint stated as legal rather than practical. Then the delay as chosen
+  rather than imposed, "the power of God's Love is greater than all the power
+  of man's will," followed at once by the reaffirmation that the laws must be
+  obeyed anyway, so God is not held back but declines to use a power He has.
+  Then what the argument costs and what it is for, "the injustices and the
+  extreme perversions of life, and the innocence of those who are the victims
+  of the great power of mankind's free will," with the remedy located in souls
+  "unencumbered by these conditions" and "strong enough because they possess
+  the greatest gift possible," so the delay is what allows the suffering to
+  continue and the willing soul is what shortens it.
   Foundation section, beneath the anchor: 2014-07-26-af-augustine, the
   unpredictability step argued from the spirit side, refusing the premise that
   events express God's intention, "the events of the world do not unfold to
@@ -878,8 +876,13 @@ message_ids already carry the dates.
   is an element of chaos and changeability." It also describes the constraint
   as binding the angels, "we are limited in our efforts as well because of the
   power of free will."
-  Elaborations. 2015-12-14-af-augustine holds that God's Will cannot be known
-  from the mind, only by a soul enlivened by Divine Love;
+  Elaborations. 2015-06-21-af-martin-luther has God's Will prevail without
+  overriding human will, "although the free will of man is strong and
+  powerful, the Will of God is stronger," with the willing soul beyond the
+  reach of other wills, "You walk within the Will of God, and this shall
+  always be true as long as you are willing"; 2015-12-14-af-augustine holds
+  that God's Will cannot be known from the mind, only by a soul enlivened by
+  Divine Love;
   2016-01-18-af-confucius applies the premise to the individual's inner
   struggle, "You are given the gift of free will... but this is your destiny,"
   the soul determining the timing while alignment is the destiny free will
@@ -912,9 +915,6 @@ message_ids already carry the dates.
   must move in the world," with the failure mode named, "the one who sits and
   waits is lost." It converts Augustine's permission into a condition: God's
   Will does not manifest without the seeker's movement.
-  Testimony. 2015-06-21-af-martin-luther offers his own Earth life of
-  opposition and persistence as evidence that the plan is enacted despite
-  human obstruction.
   Witnesses. 2016-04-12-af-moses, the plan needing people who need not
   understand it; 2016-09-05-af-andrew, the willing soul as the means;
   2016-10-15-af-confucius, "though within your minds you do not see the
@@ -1037,10 +1037,11 @@ message_ids already carry the dates.
 
 - `incremental-journey`: running from why growth comes in increments to how a
   seeker can tell that it has happened.
-  Foundation, presumptive anchor: 2015-05-03-af-confucius, a developed statement
-  of the pattern, the soul's growth advancing in
-  leaps then trickles, impeded by the world and the self yet always lifted by
-  God. Role tagged [back-search], provisional until confirmed at full text.
+  Foundation, presumptive anchor: 2015-05-03-af-confucius, a developed
+  statement of the pattern, the soul's growth advancing in leaps then
+  trickles, impeded by the world and the self yet always lifted by God, "Your
+  understanding will come in leaps and bounds, and in trickles, and then slow,
+  and then running. It is ever thus."
   Elaborations, the shape of the increments. 2015-03-28-af-augustine adds the
   threshold the registry spine does not carry, that the increments accumulate
   before the journey proper begins and there is a moment when it starts, "The
@@ -1078,10 +1079,12 @@ message_ids already carry the dates.
   locates the increment in the flow of the Love rather than in the seeker's
   effort or the mind's retreat.
   Witnesses, the increment asserted. 2015-03-23-af-john-the-beloved gives the
-  eternity-perspective reframe in blessing form, "each step of the gradual
-  awakening is swift in the measure of eternity," and stands in the Foundation
-  section; 2016-10-26-af-augustine states it plainly, "It does not come all at
-  once, my beloveds. It comes with each prayer, each longing you make to God";
+  eternity-perspective reframe in blessing form, "This gradual awakening...
+  may feel at times tedious or slow, but you grow with each step... and that
+  awakening, my beloveds, is swift in terms of the measure of eternity," and
+  stands in the Foundation section; 2016-10-26-af-augustine states it plainly,
+  "It does not come all at once, my beloveds. It comes with each prayer, each
+  longing you make to God";
   2016-11-21-af-confucius itemizes what changes each time, "your consciousness
   shifts, your soul awakens, your understanding grows, your perceptions deepen
   and you are changed"; 2017-05-11-af-jesus names and dignifies the gradual
@@ -1180,8 +1183,10 @@ message_ids already carry the dates.
   it from joy, "How can you judge your brothers and sisters if you feel the
   joy and acknowledgement of how much you are all loved." The others:
   2014-07-26-af-augustine, the cost falling on the one who judges, with self
-  and others named together; 2016-02-29-af-confucius, judgment named among the
-  conditions that pull a soul from the Light; 2016-08-26-af-brother-mandus;
+  and others named together; 2015-06-15-af-faith-nyquist, judging others'
+  behaviour as what diverts "the flow of God's Love"; 2016-02-29-af-confucius,
+  judgment named among the conditions that pull a soul from the Light;
+  2016-08-26-af-brother-mandus;
   2016-09-01-af-jesus, on which see the structural note; 2016-09-12-af-jerome,
   participation in a service whose doctrine the servant believes false, with
   humility redefined as that acceptance; 2016-11-28-af-moses, the cost as a
@@ -1613,8 +1618,10 @@ message_ids already carry the dates.
   condition harmony rather than numbers in a single clause about a small
   gathering, "it does not require great numbers to bring love and light to
   this world, it requires a yearning soul in prayer in harmony with one
-  another"; 2015-10-26-af-faith-nyquist gives prayer as the thing to do
-  instead of intervening, with the assurance that it lands, "your prayers...
+  another"; 2015-06-21-af-martin-luther sets sincere prayer above every human
+  obstruction, "this power can indeed change the conditions of this world";
+  2015-10-26-af-faith-nyquist gives prayer as the thing to do instead of
+  intervening, with the assurance that it lands, "your prayers...
   are answered and are always being answered as the angels draw close";
   2015-11-28-af-faith-nyquist, dual-logged as the `prayer-soul-longing`
   Foundation; 2015-12-21-af-peter; 2016-07-27-af-confucius asserts the outward
@@ -1703,12 +1710,15 @@ message_ids already carry the dates.
   Witnesses, the longing as what elicits the response. 2014-10-11-af-judas,
   the longing intensified by being met rather than satisfied, "Seek the Love,
   ask for this gift and you will feel it burning deep within, eliciting you to
-  seek in greater depths, in greater yearning"; 2015-03-29-af-seretta-kem, the
-  gift not imposed, "It is your choice. It is your prayer. It is your
-  longing"; 2016-08-26-af-augustine, response-follows-longing in a single
-  clause, which the Foundation carries developed; 2016-09-01-af-seretta-kem,
-  the proportionality form, "the capacity to receive this Love is unlimited,
-  only restricted by your own desires and longings."
+  seek in greater depths, in greater yearning";
+  2014-12-01-af-john-the-beloved, the circle's yearning answered, "as God
+  responds to your prayers, your soul longings and bring you fully into His
+  presence"; 2015-03-29-af-seretta-kem, the gift not imposed, "It is your
+  choice. It is your prayer. It is your longing"; 2016-08-26-af-augustine,
+  response-follows-longing in a single clause, which the Foundation carries
+  developed; 2016-09-01-af-seretta-kem, the proportionality form, "the
+  capacity to receive this Love is unlimited, only restricted by your own
+  desires and longings."
   Witness, the floor corroborated. 2016-09-10-af-andrew states the
   minimum-requirement claim of 2016-09-04-af-john-the-beloved through a
   different spirit, "All it requires is some time, some focus, to come to know
@@ -1983,11 +1993,10 @@ message_ids already carry the dates.
   disowning it, confirming that "the angels did indeed come to support me and
   influence me in my work in creating this great church" and locating the
   error afterward, in the institution becoming "too infected by the human";
-  2015-06-21-af-martin-luther adds that error held sincerely is still error,
-  so sincerity does not sanctify it; 2016-04-02-af-jesus gives the
-  vicarious-atonement correction from the source, "nothing could be further
-  from the truth that my death and my blood could save humanity," an
-  interpretation that "has wrought much pain and error in the world";
+  2016-04-02-af-jesus gives the vicarious-atonement correction from the
+  source, "nothing could be further from the truth that my death and my blood
+  could save humanity," an interpretation that "has wrought much pain and
+  error in the world";
   2016-07-18-af-martin-luther supplies both the reason the written record
   cannot hold and the faculty that succeeds it, the mentally assembled
   paradigm serially superseded, "do not rely upon this chimera of
