@@ -378,7 +378,8 @@ message_ids already carry the dates.
   carries the lessons framing, "lessons to be learned... this is the challenge
   of life";
   2016-02-29-af-confucius and 2018-08-06-af-solomon restate the same
-  principle.
+  principle; 2018-07-14-af-seretta-kem names what the hard tests did, "these
+  things have carried you forward, strengthened you, built wisdom within you."
   Fences. Against `soul-growth-through-challenges` as a subject rather than a
   thread, the membership bar is an argument that hardship is redeemed into
   growth, not a reassurance that it will be. Two neighbouring ideas should not
@@ -1091,7 +1092,10 @@ message_ids already carry the dates.
   road, "in many cases it is a gradual experience. Bit by bit, you continue to
   inch your way forward"; 2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
-  very subtle indeed," and denies the process any shortcut.
+  very subtle indeed," and denies the process any shortcut;
+  2018-07-14-af-seretta-kem, "this is a slow process, incremental in nature.
+  It does not come all at once but in bits and pieces";
+  2018-10-16-af-seretta-kem, the soul's chambers "in-filled gradually."
   Fences. Against `pentecost`: that thread is the two modes of awakening,
   sudden and gradual, and the readiness the sudden mode requires; this thread
   is why growth comes in increments at all. Against `soul-expiation`: that
@@ -1192,6 +1196,8 @@ message_ids already carry the dates.
   humility redefined as that acceptance; 2016-11-28-af-moses, the cost as a
   loss rather than a diagnosis, "When you push your brothers and sisters away
   in judgement or fear, you push God away, you push love away";
+  2017-01-16-af-keea-atta-kem, learning "to not judge those who you find
+  different in this world" and to let each soul walk its own path;
   2018-03-02-af-andrew, non-judgment given as his own example, "I could judge
   my brother for what he did... but where would that thought originate? Not of
   the soul."
@@ -1243,16 +1249,15 @@ message_ids already carry the dates.
   you are able to know God... There is no other sure way to do this, my
   beloveds. There is no other way to at-onement with God," held at witness
   under the scope test because the claim is a clause inside a message arguing
-  purpose; 2016-03-29-af-james gives the value claim, "To know your soul and
-  to know who you truly are is the greatest of all gifts to yourself," tagged
-  [back-search] and provisional until confirmed at full text;
+  purpose; 2016-03-29-af-james gives the value claim, "To know your souls, to
+  know who you truly are is the greatest of gifts to yourself";
   2016-09-16-af-john-the-beloved lists the knowing as a requirement inside a
   commission, "know your own soul and God's," set among the other duties the
-  ministry asks, which places it in a list without arguing it, tagged
-  [back-search]; 2016-11-27-af-james-reid titles the claim and adds a shared
-  frame, that knowing your souls is what a circle gathers to do and helps one
-  another do, "This is your focus; this is why you come together... truly come
-  to know your souls."
+  ministry asks, which places it in a list without arguing it;
+  2016-11-27-af-james-reid titles the claim and adds a shared frame, that
+  knowing your souls is what a circle gathers to do and helps one another do,
+  "This is your focus; this is why you come together... truly come to know
+  your souls."
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth and ends in the two minds integrating; this one asks what must be
   known first, and its move is sequence rather than comparison. The Foundation
@@ -1435,13 +1440,16 @@ message_ids already carry the dates.
   2018-09-01-af-augustine gives the same split reaction to the light itself,
   "Some are intrigued, while others respond with suspicion, some with anger
   because you challenge the world."
-  Witness, the defence without an account of what opposes.
-  2016-09-03-af-mary asks protection for a third party rather than mounting it
-  as the seeker, "ask for the cloak of protection to surround her and those who
-  are close to her, that this disturbance may be quelled." Held at witness
-  because the subject is exposed by her own delving, "she knows not the
-  conditions that she is delving into and is very vulnerable to all
-  influences," with nothing conspiring against her.
+  Witness, the defence without an account of what opposes. 2016-09-03-af-mary
+  asks protection for a third party rather than mounting it as the seeker,
+  "ask for the cloak of protection to surround her and those who are close to
+  her, that this disturbance may be quelled." Held at witness because the
+  subject is exposed by her own delving, "she knows not the conditions that
+  she is delving into and is very vulnerable to all influences," with nothing
+  conspiring against her.
+  Witness, the cause within. 2017-01-16-af-keea-atta-kem, "Thoughts do indeed
+  attract and bring like energies close. This is a Law," with the seeker
+  responsible for his own thoughts rather than a victim of them.
   Fences. Against `sensitive-souls-redemptive`, whose claim is that the
   indwelling Love is passive protection and sensitivity a strength: this thread
   is about what opposes and how it is met, not about who the sensitive soul is.
@@ -2102,8 +2110,8 @@ message_ids already carry the dates.
   the thread's next step. Increased sensitivity is a natural sign of soul
   growth rather than vulnerability, and the Love within the growing soul is
   its protection, thoughts attracting like energies by law, so there is no
-  need for fear. Role tagged [back-search], provisional until confirmed at
-  full text.
+  need for fear, "there may be some peripheral effect upon your being, but
+  nothing that is permanent, nothing that is damaging."
   Witnesses, the protection claim from other angles. 2016-09-09-af-andrew
   reaches the thread's conclusion by the opposite instrument: the thread has
   the Love within the growing soul as the protection, and Andrew has the
@@ -2127,8 +2135,6 @@ message_ids already carry the dates.
   own constitution and what it does for the world. Against
   `self-love-foundation`: that thread is how a person regards themselves; this
   is what their sensitivity is for.
-  Structural note: the Objection-removed, 2017-01-16-af-keea-atta-kem, is
-  tagged [back-search] and provisional until its full text is read.
 
 - `simplicity-of-the-path`: running from why the path is simple to why a soul
   stops complicating it.
@@ -2312,16 +2318,17 @@ message_ids already carry the dates.
   Witnesses, knowing arriving through growth. 2015-09-21-af-mary has each soul
   carry a unique purpose and Light, the gifts awaiting the transformation of
   consciousness into soul awareness, with God's Love flushing away whatever
-  obscures the knowing, tagged [back-search] and provisional until confirmed
-  at full text; 2015-10-26-af-faith-nyquist states the claim in its opening
-  line, "every soul must take its unique journey, an enfoldment and an
-  unfolding of his path and purpose... as the soul becomes infused with the
-  Father's Love and your Gifts emerge accordingly"; 2015-12-14-af-augustine,
-  "each soul is imbued with a great purpose which is reflected by the many
-  Gifts which God has given you," known through the soul enlivened by the
-  Love; 2016-09-03-af-james has knowing what to do arrive as a by-product of
-  the soul's growth, "what is necessary and required will be obvious as you
-  look at the world through the eyes of your souls";
+  obscures the knowing, "as it pours within you it flushes away all that keeps
+  you from this understanding and knowledge"; 2015-10-26-af-faith-nyquist
+  states the claim in its opening line, "every soul must take its unique
+  journey, an enfoldment and an unfolding of his path and purpose... as the
+  soul becomes infused with the Father's Love and your Gifts emerge
+  accordingly"; 2015-12-14-af-augustine, "each soul is imbued with a great
+  purpose which is reflected by the many Gifts which God has given you," known
+  through the soul enlivened by the Love; 2016-09-03-af-james has knowing what
+  to do arrive as a by-product of the soul's growth, "what is necessary and
+  required will be obvious as you look at the world through the eyes of your
+  souls";
   2016-09-06-af-joseph gives the mechanism in compact form, "The understandings
   that God has placed within your souls will emerge into your consciousness and
   be your guiding grace," and puts the answer inside the prompting rather than
@@ -3151,9 +3158,6 @@ Larger structural questions to revisit when building begins.
   `free-will-and-gods-plan` Foundation lines are covered by the log's rule for
   repeated lines (one role, passages read in order). Note other cases as they
   are found.
-
-- **`[back-search]` entries** need their roles confirmed at full text before
-  chains are finalised, anchors and presumptive anchors first.
 
 - **Children and the young: a collection, not a chain.** The theme reads as
   something to browse rather than a built argument. Seen: 2016-03-14-af-mary
