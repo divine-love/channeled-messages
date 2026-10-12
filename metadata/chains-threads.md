@@ -256,14 +256,14 @@ message_ids already carry the dates.
   thread's Foundation, and the two are separable, this role resting on the
   clothing figure and that one on the condition the clothing defends against.
   Structural note: one piece of counter-evidence recorded rather than resolved.
-  The `fear-of-full-immersion` Reframe sets sipping against immersion and makes
-  drinking the half-measure it surpasses, while 2016-10-15-af-confucius uses
-  drinking and immersion together as one invitation. So the water images were
-  not fixed in opposition across this circle's vocabulary. That is an argument
-  for treating the water half as flexible figure rather than doctrine, and it
-  is why 2016-10-15-af-confucius is a witness here and not a member. It is the
-  same shape as the Francis valence question in Open questions, and the two
-  should be settled together.
+  The `fear-of-full-immersion` Reframe sets sipping against immersion and
+  makes drinking the half-measure it surpasses, while 2016-10-15-af-confucius
+  uses drinking and immersion together as one invitation. So the water images
+  were not fixed in opposition across this circle's vocabulary. That is an
+  argument for treating the water half as flexible figure rather than
+  doctrine, and it is why 2016-10-15-af-confucius is a witness here and not a
+  member. It is the same shape as the Open question on a minted thread's image
+  returning with the opposite meaning, and the two should be settled together.
 
 - `bell-toll-instrumentality`: running
   from the awakened soul's Light reaching others like a bell toll to that
@@ -1110,15 +1110,25 @@ message_ids already carry the dates.
   each effort keeping its gain, and belongs in that facet with
   2019-04-04-af-matthew, in date order, if it is promoted from the log.
 
-- `judgment-to-love`: running from the
-  impulse to correct another through what judgment costs on both sides to
-  forgiveness as a measure of the soul's progress. It has no Foundation; see
-  the structural note.
+- `judgment-to-love`: running from the impulse to correct another through what
+  judgment costs on both sides to forgiveness as a measure of the soul's
+  progress.
+  Foundation, anchor: 2017-06-15-af-augustine, a talk on judgment given at the
+  circle's request, which opens on the premise: "The desire to judge, those
+  feelings that you are uncomfortable with, how another is in the world,
+  express to you things that reflect back to you your own soul condition and
+  personality." Perception is not the fault, "It is your reaction to that
+  perception which is a good indicator of your own soul progression," and the
+  rest of the thread is built on that ground: the judged side, "When someone
+  is judging you, my beloveds, say a prayer for them"; love as what makes
+  judging impossible, "When you send love how can judgement survive the
+  infusion of love?"; and conscious choice as the method, with a first-person
+  template for choosing Love in the moment.
   The Elaboration section divides into facet groups, chronological within
-  each; the groups subdivide that one role section and do not add a
-  structural level.
-  Why the correction is not yours. 2015-10-26-af-faith-nyquist grants that
-  the error is real, "there are times when you see error and disharmony in
+  each; the groups subdivide that one role section and do not add a structural
+  level.
+  Why the correction is not yours. 2015-10-26-af-faith-nyquist grants that the
+  error is real, "there are times when you see error and disharmony in
   another," and hands the correcting to two other agents, "It is for God to
   lead them into the Light and for their souls to draw them into the Light,"
   which is what makes the restraint something other than indifference;
@@ -1130,36 +1140,37 @@ message_ids already carry the dates.
   practical reason, that confrontation hardens the position one hoped to
   soften; 2016-09-03-af-mary measures judgment by its effect on the person
   judged rather than the one judging, "Judgement does not bring resolution,
-  love always does." From the judged side. 2016-07-04-af-jesus locates the
-  injury in the seeker's own consent, "It is only when you allow the criticism
-  of others...
-  to bruise you... that you allow negativity to enter into your being," with
-  his own experience of ridicule attached; 2016-09-15-af-augustine diagnoses
-  the judger and finds the hostility detached from his soul condition, "their
+  love always does"; 2018-06-24-af-luke names the impulse to correct as the
+  mind's bid for superiority, "desire to correct and to give advice as if you
+  are superior," and adds what judging costs the work, that judgment shown in
+  front of others means "you empower the minds of others to reject you and to
+  reject the message that you give."
+  From the judged side. 2016-07-04-af-jesus locates the injury in the seeker's
+  own consent, "It is only when you allow the criticism of others... to bruise
+  you... that you allow negativity to enter into your being," with his own
+  experience of ridicule attached; 2016-09-15-af-augustine diagnoses the
+  judger and finds the hostility detached from his soul condition, "their
   souls may indeed have the Love within yet their minds continue in their
-  reflexive responses towards you," and states the non-reciprocation rule,
-  "Do not react in the way of anger to anger, judgement to judgement, fear to
+  reflexive responses towards you," and states the non-reciprocation rule, "Do
+  not react in the way of anger to anger, judgement to judgement, fear to
   fear."
-  What lies beneath the impulse. 2016-02-29-af-confucius names judgment,
-  anger and fear as the conditions that pull a soul from the Light and makes
-  self-love the way through; 2018-06-26-af-matthew finds the hurt of feeling
-  unloved underneath, with the daily test of choosing love over the mind's
-  old patterns.
-  Where the rule bends and where it reaches. 2016-08-11-af-alec-gaunt
-  licenses a bounded exit, "to engage with love or to disengage where there
-  is no possibility of love. And this is not being weak," conditioned on
-  there being no possibility of love and framed as strength;
-  2019-04-05-af-augustine turns the argument inward on the fellowship, where
-  schisms come from differing approaches rather than error, the stronger in
-  love must be the example, and rejection is met with greater love because it
-  "is a cry for love."
-  Capstone, anchor: 2018-07-16-af-andrew makes forgiveness a direct measure of
-  the soul's progression in Divine Love, arriving reflexively as God infills
-  the soul, with even a small measure of true forgiveness greater than all
-  good deeds done in this world.
-  Section member: 2017-06-15-af-augustine gives the comprehensive lesson,
-  reactions revealing the seeker's own soul state, with conscious choice as
-  the antidote and a first-person template for choosing Love in the moment.
+  What lies beneath the impulse. 2018-06-26-af-matthew finds the hurt
+  underneath, "Beyond these feelings often lies a very deep feeling of being
+  unloved and unrecognized in the world," with a daily test whose pass mark is
+  recognizable: facing someone who has stirred the old feelings again and
+  again, and finding "love, compassion, and forgiveness" there instead.
+  Where the rule bends and where it reaches. 2016-08-11-af-alec-gaunt licenses
+  a bounded exit, "to engage with love or to disengage where there is no
+  possibility of love. And this is not being weak," conditioned on there being
+  no possibility of love and framed as strength; 2019-04-05-af-augustine turns
+  the argument inward on the fellowship, where schisms come from differing
+  approaches rather than error, the stronger in love must be the example, and
+  rejection is met with greater love because it "is a cry for love."
+  Capstone, anchor: 2018-07-16-af-andrew, a talk on forgiveness, makes it "a
+  measure of your own soul's progression, as God infills your soul with His
+  Love," until "you forgive reflexively, no matter the intention of others,"
+  with even a small measure of true forgiveness "greater than all good deeds
+  done in this world."
   Witnesses. Three of them give reasons for not judging that are worth
   weighing at build. 2016-09-02-af-confucius reaches it through comparison,
   since each soul's path is unique and cannot be measured against another's;
@@ -1168,37 +1179,28 @@ message_ids already carry the dates.
   it from joy, "How can you judge your brothers and sisters if you feel the
   joy and acknowledgement of how much you are all loved." The others:
   2014-07-26-af-augustine, the cost falling on the one who judges, with self
-  and others named together; 2016-08-26-af-brother-mandus;
+  and others named together; 2016-02-29-af-confucius, judgment named among the
+  conditions that pull a soul from the Light; 2016-08-26-af-brother-mandus;
   2016-09-01-af-jesus, on which see the structural note; 2016-09-12-af-jerome,
   participation in a service whose doctrine the servant believes false, with
   humility redefined as that acceptance; 2016-11-28-af-moses, the cost as a
   loss rather than a diagnosis, "When you push your brothers and sisters away
   in judgement or fear, you push God away, you push love away."
-  Structural note: the thread has no Foundation. The nearest thing to a
-  premise-statement sits inside the Capstone section, at
-  2017-06-15-af-augustine, where reactions revealing the seeker's own soul
-  state is the ground everything else rests on. That is what makes the thread
-  read as headless: its opening claim is held by its close. `religious-error`
-  has the same shape, and whether that is coincidence or something about how
-  the archive teaches is worth watching. If a Foundation is wanted,
-  2016-11-07-af-andrew is a candidate to weigh, since knowing yourself loved
-  making judgment impossible is a premise rather than an application; the log
-  holds it at witness. A second thing: an ordering tension runs between the
-  Capstone and one witness.
-  2016-09-01-af-jesus makes forgiveness the precondition that opens the door,
-  "Forgiveness, beloved souls, will open the door... Love will open the door
-  to God and God's Love will come rushing in like a mighty river," while the
-  2018-07-16-af-andrew Capstone makes it the consequence, arriving reflexively
-  as the Love infills. A dissolving reading is available, an initial act of
-  will against a matured reflex, and is recorded as a reading to weigh rather
-  than a ruling.
   Fences. Against `self-love-foundation`: that thread argues that you cannot
-  love others while condemning yourself; this one is about what to do with
-  the impulse to judge. The two meet at 2016-02-29-af-confucius, which is a
-  member of both, so the fence is worth stating before either is built.
-  Against `religious-error`: that thread corrects false doctrine; this one
-  counsels leaving another's error uncorrected, which is why
+  love others while condemning yourself; this one is about what to do with the
+  impulse to judge. The two meet at the Foundation, which also carries a
+  `self-love-foundation` witness, so the fence is worth stating before either
+  is built. Against `religious-error`: that thread corrects false doctrine;
+  this one counsels leaving another's error uncorrected, which is why
   2016-09-12-af-jerome reads as an adjacency to both.
+  Structural note: the order of forgiveness. 2016-09-01-af-jesus makes
+  forgiveness the precondition that opens the door, "Forgiveness, beloved
+  souls, will open the door... Love will open the door to God and God's Love
+  will come rushing in like a mighty river," while the Capstone makes it the
+  consequence, arriving reflexively as the Love infills. The Capstone holds
+  both: "you must be strong in your decision to seek forgiveness always" and
+  "you forgive reflexively." Forgiveness begins as an act of will and matures
+  into a reflex as the Love fills the soul, which reconciles the two.
 
 - `knowing-your-own-soul`: running from the part of yourself you know least to
   why knowing it and knowing God are one movement.
@@ -1354,11 +1356,13 @@ message_ids already carry the dates.
   the recognition faculty sits there. Reception:
   2016-09-04-af-john-the-beloved, what the Love does to perception, with the
   cost named. The two held at once: 2016-09-09-af-andrew, the material mind as
-  where the vestiges persist after the soul has changed, and
-  2018-05-12-af-luke, a candidate for promotion, which runs the counterfeit
-  the other way, the soul healed while the mind still remembers.
-  That pair with 2016-05-02-af-andrew gives the full asymmetry, and if a
-  message ever builds it the three read together would make a strong section.
+  where the vestiges persist after the soul has changed; 2018-05-12-af-luke, a
+  candidate for promotion, which runs the counterfeit the other way, the soul
+  healed while the mind still remembers; and 2018-06-26-af-matthew, the same
+  asymmetry, "because of the well-worn patterns of the mind, these conditions
+  continue to be active."
+  These with 2016-05-02-af-andrew give the full asymmetry, and if a message
+  builds it they would make a strong section read together.
   The rest are sightings, search-level adjacencies, and the anti-double-count
   records that sit with their own member lines.
   Structural note: the thread carries two pictures of the mind and should keep
@@ -2058,8 +2062,8 @@ message_ids already carry the dates.
   the cruelty of the world acutely and struggles to be in it is the saving
   grace of this world, progresses swiftly in spirit, refuses the darkness of
   judgement and fear, and serves as the redemptive example whose very presence
-  turns heads and sows seeds of Love. Role tagged [back-search], provisional
-  until confirmed at full text.
+  turns heads and sows seeds of Love, "Your example will turn heads, will
+  bring curiosity."
   Objection-removed: 2017-01-16-af-keea-atta-kem clears the fear that blocks
   the thread's next step. Increased sensitivity is a natural sign of soul
   growth rather than vulnerability, and the Love within the growing soul is
@@ -2089,8 +2093,8 @@ message_ids already carry the dates.
   own constitution and what it does for the world. Against
   `self-love-foundation`: that thread is how a person regards themselves; this
   is what their sensitivity is for.
-  Structural note: both members are tagged [back-search], so the thread's
-  shape is provisional until the two full texts are read.
+  Structural note: the Objection-removed, 2017-01-16-af-keea-atta-kem, is
+  tagged [back-search] and provisional until its full text is read.
 
 - `simplicity-of-the-path`: running from why the path is simple to why a soul
   stops complicating it.
@@ -3069,14 +3073,6 @@ Larger structural questions to revisit when building begins.
   Reframe is worded. The role question is closed (the message is recorded in
   the `fear-of-full-immersion` roster as a Chrysalis-shaped sighting, with the
   reasoning there); the wording question is open.
-
-- **Forgiveness ordering, to settle before `judgment-to-love` is built.**
-  2016-09-01-af-jesus makes forgiveness the precondition that opens the door
-  to the Love; the Capstone, 2018-07-16-af-andrew, makes it the consequence,
-  arriving of itself as the Love fills the soul. A reading that dissolves the
-  difference exists (an initial act of will against a matured reflex, two
-  moments of one spiral) and is recorded as a reading to weigh, not a ruling;
-  the messages interpret themselves.
 
 - **Natural-love rehabilitation: a decision for the curator.** Messages that
   decline to rank natural love lower: 2016-08-27-af-brother-mandus (natural
