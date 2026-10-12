@@ -359,7 +359,7 @@ are built.
 
 ### 2016-02-29-af-confucius | You Struggle but You Do Make Progress | 2016-02-29 [not publicly posted]
 - `soul-expiation` **[Elaboration]** : Confucius reframes the painful "welling up from your souls" as the cleansing itself: releasing the burdens to God is real progress toward lasting joy. Frames the surfacing of buried pain as forward motion, not setback.
-- `self-love-foundation` **[Elaboration]** : being loved by God as the ground of self-love, and self-love as what opens compassion for others: "You are precious to God, loved by God and you must start to love yourselves in this way. For when you can truly love yourselves you can look upon yourself with compassion, you can allow yourself to feel compassion and love for others and to be a great a mighty channel of Love in this world." The failure state is suppression, covering "your own soulful longings for Love and to love," which leaves the soul stuck until it acknowledges what it holds and lets God heal it.
+- `self-love-foundation` **[Foundation]** : presumptive anchor; the whole argument in one passage, being loved by God as the ground of self-love, and self-love as what opens compassion for others: "You are precious to God, loved by God and you must start to love yourselves in this way. For when you can truly love yourselves you can look upon yourself with compassion, you can allow yourself to feel compassion and love for others and to be a great a mighty channel of Love in this world." The failure state is suppression, covering "your own soulful longings for Love and to love," which leaves the soul stuck until it acknowledges what it holds and lets God heal it.
 - NOTE (witness, `judgment-to-love`): "thoughts of judgements and anger, fear" named among the human conditions that pull a soul from the Light, "this is when God makes effort to reach you to pull you back into the Light." Nothing here on judging others or the impulse to correct, so not a member.
 - NOTE (context): the closing prayer, introduced with "This is the power of faith, my beloveds, to say:", is preserved as a standalone practice file (content/practices/prayer-2016-02-29-af-confucius.md).
 
@@ -372,7 +372,7 @@ are built.
 
 ### 2016-03-07-af-augustine | Sensitive Souls Are the Saviours of This World | 2016-03-07
 - `sensitive-souls-redemptive` **[Foundation]** : anchors the thread. Given to a circle after the passing of a gentle man, whose swift progress in spirit is "often so for these gentle souls who find it so difficult to be in the world." The circle shares the sensitivity, and the claim follows: "it is the sensitive souls who are the saving grace in this world," those "who carry the pain of the knowledge of the cruelties of this world, but who overcome these," refusing "that place of judgment, fear and anger, error." The protection is stated, "you will not be hurt by the world... you are not vulnerable to the evil," and so is the redemptive example: "Your example will turn heads, will bring curiosity... many will be touched in some way as you sow these seeds of Love in the world."
-- NOTE (sighting, `self-love-foundation`): "to love yourselves, to love all around you", already carried in that thread's roster rather than a distinct contribution here.
+- NOTE (sighting, `self-love-foundation`): "to love yourselves, to love all around you," the two named together without argument.
 - NOTE (sighting, `judgment-to-love`): "to choose compassion over judgment," among the choices the sensitive soul makes; an adjacency, not a distinct contribution.
 
 ### 2016-03-10-af-augustine | Struggle of Soul and Mind | 2016-03-10 [not publicly posted]
@@ -380,12 +380,15 @@ are built.
 
 ### 2016-03-10-af-confucius | Struggle of Mind | 2016-03-10 [not publicly posted]
 - `mind-vs-soul` **[Elaboration]** : Confucius adds the free-will/willfulness angle: the mind's powers (free will, creative thought) burden the world when exerted without love; the soul must take precedence and inform the mind. Resolves not by rejecting the self but by strengthening the soul in Love through prayer. Companion to 2016-03-10-af-augustine, "Struggle of Soul and Mind."
+- NOTE (sighting, `self-love-foundation`): "This does not mean you should not love yourselves and acknowledge every aspect of who you are," a caution inside a message about taming the willful mind.
 
 ### 2016-03-11-af-luke | Encrustations of the Soul | 2016-03-11 [not publicly posted]
 - `soul-expiation` **[Reframe]** : Luke recasts the source of the soul's encrustations: they are NOT the mark of sin or depravity but simply the residue of having lived in this world, so the seeker is "in a way a victim," not to blame, and should meet their own cleansing with compassion. Distinct from the thread's other Reframe (2018-07-14, which recasts difficult times as greatest progress); this one reframes the cause of the conditions. Also gives the vivid mechanism: inner Light presses against the hardened shell, Divine Love raises the pressure, the cracks widen, the encrustations burst away.
+- NOTE (witness, `self-love-foundation`): the registry spine's second step in the message's own words, "continue to love one another, to love yourselves... You must have compassion for yourselves and know that you are not to blame for your condition. You are in a way a victim of these conditions because you have been buffeted by the world." The same passage holds the `soul-expiation` Reframe.
 
 ### 2016-03-12-af-john-the-beloved | God's Touch in the World | 2016-03-12 [not publicly posted]
 - `bell-toll-instrumentality` **[Elaboration]** : John teaches that prayers and loving intentions cause ripples that touch souls the one praying will never know of: "this is how change happens, true change happens by touching the souls of your brothers and sisters as God's channels." The same radiating-instrument mechanism as the bell toll, framed through prayer and Circles of Light. Names it the seeker's "greatest resource."
+- NOTE (sighting, `self-love-foundation`): "your capacity to love yourselves" named among the capacities that grow as the seeker moves forward.
 
 ### 2016-03-16-af-jesus | The Resonance of Love Amongst You | 2016-03-16 [not publicly posted]
 - `bell-toll-instrumentality` **[Chrysalis]** : Jesus opens the transformed vista the thread builds toward: once the soul sheds its conditions there is "no resistance, no fear, no concern for self, merely a passion, a passion so hot" to be "God's purveyor of Love, and in so doing this becoming the instrument of change in the world," continuing "for all eternity." Adds the loving-across-difference entry point the thread lacked, greet the soul not the surface, a channel of Love opens, the bond creates a Light, and God weaves the connections into a tapestry that changes the world soul to soul. -- logged as Chrysalis on the judgment that this is the vista rather than the mechanism; downgrade to Elaboration if it reads as the latter. Companion to the John the Beloved ripples teaching, 2016-03-12.
@@ -398,6 +401,9 @@ are built.
 - NOTE (sighting, `soul-expiation`): the shedding in progress, "you are shedding those conditions which hold you back. It is happening in its own way for each of you and this shall continue for a while."
 - NOTE (sighting, `incremental-journey`): "each day you will inch forward to that place of freedom," with the accumulation named, "Each day will build upon the other and the other."
 - NOTE (sighting, `judgment-to-love`): judgment set aside as the precondition of the encounter, "put aside your thoughts of judgments, of reticence, of fear but greet the soul with love." The same passage carries the Chrysalis above and is not counted twice.
+
+### 2016-03-16-af-seretta-kem | You Are Truly Beautiful Souls | 2016-03-16
+- NOTE (witness, `self-love-foundation`): a short message wholly on the thread's subject, self-love grounded in being loved: "You are truly beautiful souls, each one of you, and I hope that someday you can truly accept this, how beautiful you are, and to love yourselves fully with great joy and true knowledge that you are loved, that you carry love, that you are beautiful, truly beautiful."
 
 ### 2016-03-17-af-alec-gaunt | You Must Be the Examples | 2016-03-17 [not publicly posted]
 - `bell-toll-instrumentality` **[Elaboration]** : The most powerful tool for reaching others is not argument but exposing them to the experience of Divine Love and being the example oneself: "You must be the examples... at least half of that teaching is through your example." Truth is conveyed delicately, soul to soul, "in a way that will reach the soul of that individual." The teach-by-radiating-Love mechanism rather than by mental persuasion.
@@ -503,7 +509,7 @@ are built.
 
 ### 2016-05-09-af-augustine | Shedding Many Skins as the Love Transforms You | 2016-05-09 [not publicly posted]
 - `soul-expiation` **[Elaboration]** : names the three origins of the soul's conditions ("inherited from generations, created by your own choices, absorbed by the environment of this world") and applies one remedy to all: origin does not matter, "No other blessing can truly do this." Closest member 2016-03-11-af-luke (one origin, blame removed); 2018-04-03-af-luke develops the inherited strand alone; Augustine sets the three side by side.
-- NOTE (sighting, `self-love-foundation`): "Do not condemn yourselves... know with a deep compassion for yourselves"; witness level, consistent with 2016-03-07-af-augustine, and not an anchor candidate.
+- NOTE (witness, `self-love-foundation`): self-condemnation refused, "Do not condemn yourselves... know with a deep compassion for yourselves."
 
 ### 2016-05-09-af-seretta-kem | Working as a Group Has Many Benefits for the World | 2016-05-09 [not publicly posted]
 - NOTE (witness, `portals`): "For as a circle you become a portal for this to come and as you pray in this way, we are able to be with you in powerful and effective ways," with the opening condition named as prayer for the Divine Love ("With this a door is opened, indeed many doors are opened"). Distinctive contribution: the circle itself as the portal rather than something that uses one. Does not claim communication requires a portal (consistent with the 2019-04-06 boundary).
@@ -557,7 +563,7 @@ are built.
 
 ### 2016-06-04-af-marjorie-fike | Your Loved Ones Live On in Spirit | 2016-06-04
 - NOTE (sighting, `death-transition`): the continuity doctrine enacted in a personal message rather than taught ("though they are not with you they are still alive, experiencing life in a different way... whether it is here in spirit or in the flesh, it does not matter really"). Close in genre to the 2019-04-08-mc-mary Testimony but adds no doctrinal facet; its distinctive weight is pastoral, the griever's own healing, comparable to the 2018-09-29-af-goldie memorial NOTE.
-- NOTE (sighting, `self-love-foundation`): "the weight of your lack of self love" named as part of what must be released for healing; witness level, and as a personal message not an anchor candidate.
+- NOTE (sighting, `self-love-foundation`): "the weight of your lack of self love" named as part of what must be released for healing, in a personal message.
 
 ### 2016-06-06-af-john-the-beloved | Continue on This Path | 2016-06-06
 - NOTE (sighting, `bell-toll-instrumentality`): "this Love pours upon you and pours through you and reaches out to many in this world... to many more you do not know"; restates what the same spirit contributes as a member at 2016-03-12-af-john-the-beloved (ripples reaching souls the one who prays will never know of); a restated facet does not earn a second member role.
@@ -988,7 +994,7 @@ are built.
 - `armour-of-the-world` **[Capstone]** : completes the argument by making it an exchange rather than a removal. "As you shed your cloaks of error and don your cloak of Light you become a clear and effective channel." In the other messages of the cluster the clothing is taken off so that something can happen; this one says what is put on instead, which is what turns a repeated figure into an argument with an end.
 - NOTE (witness, `mind-vs-soul`): the agency axis restated, "As your minds acquiesce to the will of your soul, the Light within your soul and as your soul becomes more in alignment with God's Will". Nearest to it is 2016-08-19-af-andrew, on which faculty is permitted to direct a life.
 - NOTE (witness, `bell-toll-instrumentality`): "You must teach this by your example. You must bring inspiration to others through your love, through the words you speak, the actions you take." Nearest to it is 2016-03-17-af-alec-gaunt, at least half of that teaching is through your example.
-- NOTE (sighting, `self-love-foundation`): "a capacity to love yourself and to love others" in one clause, the entailment named without argument; the developed statement in this span is 2016-10-17-af-keea-atta-kem above.
+- NOTE (sighting, `self-love-foundation`): "a capacity to love yourself and to love others" in one clause, the entailment named without argument; developed at 2016-10-17-af-keea-atta-kem.
 - NOTE (build, `armour-of-the-world`): the image recorded at 2016-09-12-af-jerome runs through 2016-08-28-af-francis-of-assisi, 2016-09-09-af-andrew, 2016-09-10-af-augustine, 2016-09-12-af-jerome, and 2016-10-15-af-confucius on immersion. This message gives it a different form: not removal but exchange. "As you shed your cloaks of error and don your cloak of Light you become a clear and effective channel." In those messages the clothing is taken off so that something can happen; this one says what is put on instead. That matters for the scope question raised against `fear-of-full-immersion`, because a cluster with its own internal development, worn then removed then exchanged, begins to look like an argument rather than a shared figure of speech.
 - NOTE (context): "you gain the world, my beloveds, as you claim your soul and as your soul is claimed by God." The Francis of Assisi spirit file describes him as gaining the world by giving it up. Two spirits, the same paradox, different mechanisms. Recorded so the pair can be found together.
 
