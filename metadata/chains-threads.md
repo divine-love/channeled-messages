@@ -1462,7 +1462,8 @@ message_ids already carry the dates.
   faith, and the claim that a gathering can produce it, "Every gathering such
   as this has the potential to bring the Pentecost to your beings";
   2019-01-28-af-matthew-2, which refers back to the Foundation and makes
-  sudden or gradual a matter of how intensely the soul yearns.
+  sudden or gradual a matter of how intensely the soul yearns. Each witness
+  states a step of the argument without developing it.
   Sighting. 2015-08-17-af-peter uses the thread's two modes for purpose rather
   than awakening, "for some of you, the awareness of this purpose will come
   swiftly, and for others it will emerge as you progress upon your life's path
@@ -1810,6 +1811,11 @@ message_ids already carry the dates.
   including a monetary level," with worry, guilt and conflict named as
   self-raised barriers, provision meeting requirements rather than indulgence,
   and harmony as the mark of God's Hand upon the work.
+  Foundation section, beneath the anchor: 2015-08-20-af-faith-nyquist,
+  provision promised for a named work, the Centres of Light, "God will provide
+  the means, the buildings, the finances, all that is required will be
+  provided given your intention to work and support in loving harmony," stated
+  rather than argued, with intention and harmony as the human side.
   Elaborations. 2016-03-16-af-jesus states the provision against a named work
   rather than as general assurance, "God provides for you all that you require
   to do so. He opens doors, many, many doors. He provides the means for you to
@@ -1835,13 +1841,11 @@ message_ids already carry the dates.
   arranged to put people where they are needed, "many acts and actions had to
   take place for you to arrive at this very moment, and the angels indeed are
   kept very busy to orchestrate many, many things in this world," spoken as
-  gratitude rather than as teaching; 2015-08-20-af-faith-nyquist promises
-  provision for the Centres of Light, "God will provide the means, the
-  buildings, the finances, all that is required will be provided given your
-  intention to work and support in loving harmony";
-  2015-11-09-af-faith-nyquist encourages the same work, with prayer for "what
-  you require to bring this to fruition"; 2016-01-08-af-jesus carries it
-  alongside the commission;
+  gratitude rather than as teaching; 2015-11-09-af-faith-nyquist encourages
+  the same Centres of Light work through its setbacks, with the supply given
+  as help rather than money, "you will be surprised at the insights and
+  blessings and inspirations that will be given for you to accomplish this
+  work";
   2016-08-25-af-confucius asserts the provision without the causal account
   2016-08-19-af-andrew gives, "the means will be provided, the opportunities
   will be laid before you to continue upon this journey, this caravan of hope
@@ -1854,9 +1858,9 @@ message_ids already carry the dates.
   experiences and opportunities to serve," which is opportunity rather than
   provision. The thread answers what is supplied to a God-guided work, not
   what is opened to a soul in motion, and the sighting is fenced so it is not
-  mistaken for a provision claim. 2016-11-06-af-jesus and
-  2016-08-27-af-augustine sit on the same side of that fence, doors opened and
-  release asked for with nothing said about provision.
+  mistaken for a provision claim. 2016-01-08-af-jesus, 2016-08-27-af-augustine
+  and 2016-11-06-af-jesus sit on the same side of that fence, doors opened or
+  release asked for, with nothing said about provision.
   Fences. Against `vanguards-of-change`: that thread is the commission and the
   freedom it requires; this is what is supplied once the work is under way.
   The 2016-08-19 passage is shared with the `channel-of-love-in-the-material`
@@ -1867,10 +1871,10 @@ message_ids already carry the dates.
   through different spirits, "All that we require of you is for you to come
   together in harmony and prayer" and "What is required of you is that faith
   that you are indeed answering God's call." This thread is what is supplied.
-  Structural note: the anchor is not settled. 2016-03-16-af-jesus states the
-  claim against a named work and 2016-04-04-af-augustine states it in full, so
-  both belong in the Foundation section and the anchor is weighed between them
-  at build.
+  Structural note: the anchor is not settled. 2015-08-20-af-faith-nyquist and
+  2016-03-16-af-jesus state the claim against a named work and
+  2016-04-04-af-augustine states it in full, so the anchor is weighed among
+  them at build.
 
 - `redemption-universal`: running from the
   claim that no soul is excluded to the cases that prove it.
