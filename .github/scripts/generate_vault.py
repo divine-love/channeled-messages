@@ -31,8 +31,8 @@ What it builds:
   Subjects Index.md                 the full subjects.yml hierarchy as a
       linked tree - the taxonomy browser, replacing the old nested tags
   Chains/<Display Title>.md         one hub per thread: theme, argument, a
-      structural-health line (member count, missing Foundation/anchor,
-      unconfirmed back-search roles), then members grouped in role-section
+      structural-health line (member count, missing Foundation/anchor),
+      then members grouped in role-section
       order (Foundation first), chronological within each section, anchors
       marked (anchor). Each member carries the curator's EVIDENCE PROSE from
       chains-log.md - the facet claimed, the quoted passage, the fence - plus
@@ -554,9 +554,8 @@ def parse_chain_memberships():
         return True
 
     for lineno, line in enumerate(CHAINS_LOG.read_text(encoding="utf-8").splitlines(), 1):
-        # Heading format per schema.md: "### id | Title | date", with an
-        # optional trailing bracketed tag after the date (e.g.
-        # [back-search]), which re.match ignores as an unanchored suffix.
+        # Heading format per schema.md: "### id | Title | date". re.match
+        # ignores anything after the date as an unanchored suffix.
         # The log was migrated to pipes on 2026-07-19; legacy separator
         # support has been retired.
         h = re.match(r"### (\S+) \| .+ \| \d{4}-\d{2}-\d{2}", line)
@@ -1330,8 +1329,6 @@ def main():
         for role, anchor, mid, date, evidence, log_line in mem:
             by_role[role].append((date, anchor, mid, evidence, log_line))
 
-        provisional = sum(1 for _r, _a, _m, _d, ev, _l in mem
-                          if "[back-search]" in ev.lower())
         has_foundation = "Foundation" in by_role
         has_anchor = any(a for _r, a, _m, _d, _e, _l in mem)
         minted = chain_slug in registry
@@ -1345,8 +1342,6 @@ def main():
             flags.append("opening message not yet identified")
         if not has_anchor:
             flags.append("main statement not yet chosen")
-        if provisional:
-            flags.append(f"{provisional} message(s) awaiting a full reading")
         if mem and all(r in ("Testimony",) for r, *_ in mem):
             flags.append("first-hand accounts only so far")
         health_rows.append((chain_slug, cname, cdisp, len(mem),

@@ -134,10 +134,8 @@ threads this one is most likely to be conflated with. What is awaited, for
 conditions the material itself has raised. Structural note, for anomalies a
 builder would otherwise read as gaps.
 
-Anchors are marked in the section they anchor. Roles tagged [back-search]
-are provisional until confirmed at full text. Some names carried in a roster
-do not yet have a per-message log entry, and await migration as they are
-processed or back-searched in full.
+Anchors are marked in the section they anchor. A message named in a roster
+as a member or witness should have a log entry that agrees with it.
 
 An entry explains the thread, never its own existence. Nothing is recorded
 about why the entry was written, when it was filed, or when material was

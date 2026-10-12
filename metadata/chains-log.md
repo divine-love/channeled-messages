@@ -128,10 +128,8 @@ or reading dates, no curator attributions. This is the history of the messages,
 not the history of the log. Where a standing ruling governs a decision, name
 the ruling descriptively rather than by the date it was made.
 
-Entries marked [back-search] were logged from a message's description rather
-than from a full reading of the message. They can be any kind of message. Their
-roles are PROVISIONAL and should be confirmed against the full text when chains
-are built.
+Every entry is made from a full reading of the message, never from its
+description or summary, and every quote is checked against the message text.
 
 ---
 
@@ -150,9 +148,6 @@ are built.
 > each line covers a different passage. They count as one role for that
 > message; when the chain is built, the passages are read in the order the
 > lines give.
->
-> [back-search] marks entries logged from a description rather than a full
-> reading; their roles are provisional pending full-text confirmation.
 
 ---
 
