@@ -620,6 +620,12 @@ def wiki(msg_id, titles, notenames):
 
 MSGID_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z0-9-]*)\b")
 
+# Thread slugs written as code spans in chains-log.md prose (`healing-channel`).
+# Filled in main() with {slug: (hub note name, display title)} for every
+# thread that has a hub, so linkify_ids can turn those spans into links.
+CHAIN_LINKS = {}
+SLUG_SPAN_RE = re.compile(r"`([a-z0-9]+(?:-[a-z0-9]+)*)`")
+
 
 def linkify_ids(text, notenames):
     """
@@ -643,7 +649,27 @@ def linkify_ids(text, notenames):
             out.append(f"[[{name}|{mid}]]")
             last = m.end()
     out.append(text[last:])
-    return "".join(out)
+    return linkify_chain_slugs("".join(out))
+
+
+def linkify_chain_slugs(text):
+    """
+    Replace thread slugs written as code spans (`divine-love-healing`) with
+    wikilinks to the thread's hub, displaying the hub's title. A code span
+    cannot hold a link, so the backticks go. Only slugs that have a hub are
+    linked; any other code span (a candidate with no hub yet, a field name)
+    is left exactly as written, so no dead links are created.
+    """
+    if not text or not CHAIN_LINKS:
+        return text
+
+    def repl(m):
+        hub = CHAIN_LINKS.get(m.group(1))
+        if not hub:
+            return m.group(0)
+        name, disp = hub
+        return f"[[Chains/{name}|{disp}]]"
+    return SLUG_SPAN_RE.sub(repl, text)
 
 
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+?)(?:\s+\"[^\"]*\")?\)")
@@ -945,6 +971,15 @@ def main():
     def chain_link(cs):
         name, _disp = chain_notes.get(cs, (cs, cs))
         return f"[[Chains/{name}]]"
+
+    # Every thread that gets a hub (it has at least one member or note in the
+    # log), so slugs mentioned in log prose can link to it.
+    hub_slugs = {cs for _mems in memberships.values() for cs, *_ in _mems}
+    hub_slugs |= {cs for _nts in chain_notes_log.values() for cs, *_ in _nts
+                  if cs != "(general)"}
+    CHAIN_LINKS.clear()
+    CHAIN_LINKS.update({cs: chain_notes[cs] for cs in hub_slugs
+                        if cs in chain_notes})
 
     # Note filenames are DATE-PREFIXED titles ("YYYY-MM-DD Title") so the
     # file explorer sorts chronologically; the graph shows the human title
@@ -1334,7 +1369,7 @@ def main():
             lines += [f"> *{theme}*", ""]
             work += [f"> *{theme}*", ""]
         if argument:
-            lines += [f"**The argument it traces:** {argument}", ""]
+            lines += [f"**The argument it traces:** {linkify_chain_slugs(argument)}", ""]
 
         status = f"**{len(mem)}** messages"
         if chain_witnesses.get(chain_slug):
