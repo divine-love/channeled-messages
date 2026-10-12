@@ -655,8 +655,11 @@ message_ids already carry the dates.
   are for and what they ask of a prepared soul.
   Foundation, presumptive anchor: 2015-08-17-af-jesus, a developed statement
   of the premise, the cleansing of the Earth, environmental abuse, and a
-  coming time of chaos, "the storm is just upon the horizon." Role tagged
-  [back-search], provisional until confirmed at full text.
+  coming time of chaos, "the storm is just upon the horizon." The Earth "has
+  been abused so greatly by the will of men... and the Earth is fighting
+  back," the agent being "God's Creation, which responds to the actions of
+  men," and the end a cleansing followed by "a thousand years of peace upon
+  this world."
   Elaborations, what the changes are and what causes them.
   2017-09-13-af-keea-atta-kem gives the manifestation material, magnetic
   shifts, animal disruption, and the closed-system consequences of ignoring
@@ -664,8 +667,7 @@ message_ids already carry the dates.
   leaders and seekers; 2018-08-13-af-seretta-kem gives the intensifying
   imbalance and humanity's blindness to its causes, with the claim that true
   solutions will not come from more inventions or structures but from each
-  soul turning honestly inward and seeking God. Both roles tagged
-  [back-search], provisional until confirmed at full text.
+  soul turning honestly inward and seeking God.
   Elaborations, what the changes are for. 2016-10-15-af-seretta-kem makes the
   purpose the Earth's own readying, "There will be indeed many storms and
   shakings of the Earth, risings of the tide, as the Earth cleanses and
@@ -686,22 +688,17 @@ message_ids already carry the dates.
   great change as this world is transformed, as God places His Hand upon this
   planet to bring change and healing and balance. And he desires that his
   emissaries of Love will help ease the fears and the confusion that will
-  ensue from these changes." Unusually explicit that the Hand is God's and the
-  intended end is balance, where the other members describe the Earth acting
-  on itself.
+  ensue from these changes." Explicit that the Hand is God's and the intended
+  end is balance, as the Foundation also has it.
+  Witness. 2016-12-07-af-andrew, the world and the soul changing together,
+  "The world is changing and you are changing," with the Earth to be "healed
+  and brought back into balance."
   Fences. Against `preparation-to-be-a-rock`: that thread is the readying of
   souls; this is the Earth's own changes and their purpose. Against
   `earth-conditions-and-prayer`: that thread is the man-made darkness-field
-  acting on the individual soul; this is the planet. Two adjacencies hold no
-  role here: 2016-12-07-af-andrew in the prophecy register, and
-  2019-01-28-af-augustine on the limits of specific prophecy, whose primary
-  home is `preparation-to-be-a-rock`.
-  Structural note: most of the Elaborations and the Foundation reach this
-  thread through the 2016 and 2017 material or through back-search, and the
-  statements of what the changes are for sit at either end of the thread with
-  nothing logged between them. A builder reading the roster in date order will
-  find the thread's central claim, that the changes are for something, stated
-  at the ends and not in the middle.
+  acting on the individual soul; this is the planet. An adjacency holds no
+  role here: 2019-01-28-af-augustine on the limits of specific prophecy, whose
+  primary home is `preparation-to-be-a-rock`.
 
 - `earth-conditions-and-prayer`: running from a darkness-field
   that acts on every soul to the practice by which a soul meets it.
@@ -1617,7 +1614,10 @@ message_ids already carry the dates.
   discharge without the mechanism 2016-07-25-af-seretta-kem supplies, "the
   world is touched with Light as you make these efforts to connect with God";
   2016-08-26-af-jesus asserts the outward direction without the mechanism,
-  "You must pray and be that channel of Light that will beam upon every soul."
+  "You must pray and be that channel of Light that will beam upon every soul";
+  2018-08-13-af-seretta-kem asks intercession for the whole suffering world,
+  "You must pray for these lost souls. You must pray for the leaders of your
+  world."
   Witnesses, the route sketched and the claim seen from the far end.
   2016-05-09-af-seretta-kem sketches in clauses what 2016-07-25-af-seretta-kem
   develops, from the same spirit, prayer opening doors, the angels working in
@@ -1754,30 +1754,31 @@ message_ids already carry the dates.
   attachments, so that the storm finds the seeker clothed in the raiments of
   Light and strong enough to serve.
   Elaborations. 2016-05-12-af-alec-gaunt gives the readying a purpose the
-  Foundation does not state, deployability, "pick up at a moment's notice and
-  be guided to a place, a person, an opportunity," with "even material
-  encumbrances" among what is shed; 2016-08-11-af-alec-gaunt supplies the
-  outward half of a process otherwise described from the inside, the world's
-  resistance as proving ground, "the error, the hurtful allegations, the
-  difficulties, the complexities that are placed before you," with the turn
-  "And now the time has come"; 2016-09-16-af-john-the-beloved relocates the
-  footing and states the safety claim outright, "Anything that comes will
+  Foundation does not state, readiness to be sent, "pick up at a moment's
+  notice and be guided to a place, a person, an opportunity," with "even
+  material encumbrances" among what is shed; 2016-08-11-af-alec-gaunt supplies
+  the outward half of a process otherwise described from the inside, the
+  world's resistance as proving ground, "the error, the hurtful allegations,
+  the difficulties, the complexities that are placed before you," with the
+  turn "And now the time has come"; 2016-09-16-af-john-the-beloved relocates
+  the footing and states the safety claim outright, "Anything that comes will
   bypass you and you will be safe. You will stand upon the rock of God's great
   Will and lead others in this Truth," with the condition attached, that to
   understand God's Will the soul must be fully awakened by the Love;
-  2016-12-07-af-andrew gives the rock argument plainly, the calm steady souls
-  others look to for comfort, truth and guidance; 2017-09-13-af-keea-atta-kem
-  makes the readying God's own work, "this is God orchestrating your life,
-  preparing you for what is to come," and sends the prepared to scientists,
-  leaders and seekers; 2018-09-01-af-seretta-kem marks the readiness turn,
-  years of preparation near fruition and the readying completed through
-  mind-soul alignment, "strong with your feet firmly planted upon the ground
-  and your soul connected with Heaven," moving the argument from change is
-  coming to you are now ready; 2018-10-24-af-seretta-kem widens it to a
-  collective architecture, the prepared souls "one component of a vast network
-  that is being built" and coordinated by God and angels, with the caution
-  that "the future is not written in stone" so readiness is developed day by
-  day; 2019-03-13-af-stephen supplies the mechanism the thread otherwise only
+  2016-12-07-af-andrew gives the rock argument plainly, "For in any storm the
+  soul that is calm, the soul that steadies those around it is the one that
+  will be looked to"; 2017-09-13-af-keea-atta-kem makes the readying God's own
+  work, "this is God orchestrating your life, preparing you for what is to
+  come," and sends the prepared to scientists, leaders and seekers;
+  2018-09-01-af-seretta-kem marks the readiness turn, years of preparation
+  near fruition and the readying completed through mind-soul alignment,
+  "strong with your feet firmly planted upon the ground and your soul
+  connected with Heaven," moving the argument from change is coming to you are
+  now ready; 2018-10-24-af-seretta-kem widens it to a collective architecture,
+  the prepared souls "one component of a vast network that is being built" and
+  coordinated by God and angels, with the caution that "the future is not
+  written in stone" so readiness is developed day by day;
+  2019-03-13-af-stephen supplies the mechanism the thread otherwise only
   names, dreams, portents, insights and visions as God communicating through
   the soul in advance, "so that when that time to act comes, all is not
   confusing and foreign and misunderstood."
@@ -1857,11 +1858,13 @@ message_ids already carry the dates.
   arranged to put people where they are needed, "many acts and actions had to
   take place for you to arrive at this very moment, and the angels indeed are
   kept very busy to orchestrate many, many things in this world," spoken as
-  gratitude rather than as teaching; 2015-11-09-af-faith-nyquist encourages
-  the same Centres of Light work through its setbacks, with the supply given
-  as help rather than money, "you will be surprised at the insights and
-  blessings and inspirations that will be given for you to accomplish this
-  work";
+  gratitude rather than as teaching; 2015-06-29-af-confucius, provision
+  promised to those who release their attachments to serve, "all you require
+  will be provided... and you will not feel as if you are sacrificing and
+  compromising in your life"; 2015-11-09-af-faith-nyquist encourages the same
+  Centres of Light work through its setbacks, with the supply given as help
+  rather than money, "you will be surprised at the insights and blessings and
+  inspirations that will be given for you to accomplish this work";
   2016-08-25-af-confucius asserts the provision without the causal account
   2016-08-19-af-andrew gives, "the means will be provided, the opportunities
   will be laid before you to continue upon this journey, this caravan of hope
