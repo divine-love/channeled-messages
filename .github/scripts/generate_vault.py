@@ -1602,8 +1602,12 @@ def main():
     # Lint pass over chains-log.md: report rather than drop silently.
     orphan_ids = sorted(mid for mid in set(memberships) | set(chain_notes_log)
                         if mid not in messages)
+    # Context and pattern notes bear on no thread by design (the log's
+    # closed NOTE vocabulary), so only a graded note without a slug is a
+    # real problem worth reporting.
     slugless = [(mid, ln) for mid, nts in chain_notes_log.items()
-                for cs, _t, _e, ln in nts if cs == "(general)"]
+                for cs, t, _e, ln in nts
+                if cs == "(general)" and t not in ("context", "pattern")]
     unregistered = sorted({cs for cs, *_ in
                            ((c, ) for v in memberships.values() for c, *_r in v)}
                           - set(registry))
