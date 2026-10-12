@@ -200,10 +200,10 @@ message_ids already carry the dates.
 | `simplicity-of-the-path` | Simplicity as the effective register of the path and its ministry | The Divine Love path is inherently simple and complication is human-made → the simple register is what actually reaches the soul, and esoteric complexity has no effect (the failure mode) → lived simply, the complexities fall away or fall into place → the scope covers both the walking and the speaking: the seeker's life and the servant's ministry | Walking the Divine Path; Service, Ministry & Being a Channel of Love |
 | `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions → these block the inflowing of Love → expiation alternates joy and the surfacing of buried pain → Divine Love washes through and cleanses where effort alone cannot → the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
 | `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) → these are unique to each soul and must be experienced to be understood → Divine Love opens the chambers and refines each faculty | Soul Awakening; Nature of the Soul; Prism of the Soul |
-| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God entrusts each soul with a unique purpose and the gifts to fulfil it -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
+| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God designs a unique purpose for each soul and gives the gifts to fulfil it, and the soul's commitment to it is made before birth -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident, and where it has already been seen the soul still grows into it -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
 | `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
 | `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
-| `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
+| `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → natural love is itself a gift from God and its road leads to real harmony and joy, so the roads differ in how far they reach, not in whether the love is good → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
 | `vanguards-of-change` | The commission to mobile service | God has commissioned these souls as vanguards and will open the doors in His timing → answering the commission requires releasing material burdens to be free to go wherever guided → the release is operational, mobility at a moment's notice, and the fears blocking it are unfounded → the world changes through changed people walking through opened doors | Preparation for Earth Mission; Service & Mission |
 | `who-jesus-was` | Correcting the record on Jesus' nature and relationships | Jesus was not God incarnate but a man who found the way to the Father's Love → what made him able was the soul he incarnated with, complete and purified by prior agreement with God → so the doctrines resting on his divinity fall with it: the birth record, the soulmate legend, and the worship of him → the record went wrong because those closest to him did not understand him while he lived → what he did was open the door to Divine Love for mankind and all spirits, and he lives still, which is why impersonation is possible | Jesus Speaks; Religious Error & Reformation |
 
@@ -373,11 +373,11 @@ message_ids already carry the dates.
   in this Love," and "With each test you will let go of your fears and your
   deep pain," stated rather than argued; 2015-06-15-af-faith-nyquist asserts
   the walk-through-challenges teaching pastorally; 2015-11-02-af-augustine
-  carries the lessons framing, "lessons to be learned... this is the challenge
+  carries the lessons framing, "lessons to be learned... This is the challenge
   of life";
-  2016-02-29-af-confucius and 2018-08-06-af-solomon restate the same
-  principle; 2018-07-14-af-seretta-kem names what the hard tests did, "these
-  things have carried you forward, strengthened you, built wisdom within you."
+  2016-02-29-af-confucius restates the same principle;
+  2018-07-14-af-seretta-kem names what the hard tests did, "these things have
+  carried you forward, strengthened you, built wisdom within you."
   Fences. Against `soul-growth-through-challenges` as a subject rather than a
   thread, the membership bar is an argument that hardship is redeemed into
   growth, not a reassurance that it will be. Two neighbouring ideas should not
@@ -1083,6 +1083,9 @@ message_ids already carry the dates.
   you to climb back out of your condition";
   2016-10-16-af-augustine, the same gate with its law attached, "When you ask
   for our help you receive it... this is how the Law of Attraction works."
+  Witnesses, the release from other people's choices. 2015-11-02-af-augustine
+  states as part of daily choosing what 2016-04-04-af-augustine develops,
+  "each soul has their own unique journey in life and lessons to be learned."
   Fences. Against `free-will-and-gods-plan`: that thread is God's
   orchestration of His plan across generations through willing souls; this one
   is the individual's own will as the pivot of their own healing. The
@@ -1144,10 +1147,7 @@ message_ids already carry the dates.
   must be healed within to allow the love of God to do its work";
   2016-02-10-af-confucius gives the working method, "pray for God to touch
   that soul through you," with the precondition, "Remember to nourish your
-  soul foremost"; 2016-11-26-af-andrew says what singleness of purpose
-  consists of, not choosing for oneself who should be blessed, and gives words
-  to pray instead, "Father I am a channel of your love, whomever you desire to
-  touch... so be it. Make me that channel for you."
+  soul foremost."
   Elaborations, where the channel reaches. 2016-05-02-af-mary carries it into
   ordinary daily care, "whether it be your children, or the elderly or those
   in deep need, ask your Heavenly Father to make within you a channel of
@@ -1175,10 +1175,9 @@ message_ids already carry the dates.
   Against `prayer-changes-world-conditions`: 2016-07-25-af-seretta-kem is that
   thread's Foundation, where the route of prayer to distant souls is the
   subject; here it shows only what a clear channel's work becomes.
-  Structural note: 2016-11-26-af-andrew has no healing language and its
-  outcome is ignited longing rather than healing. Either the registry wording,
-  a channel for God's healing, widens to a channel of Love, or that message
-  moves; weigh at build.
+  Structural note: 2016-11-26-af-andrew, on being a channel of Love whose
+  outcome is ignited longing, is set aside here because it has no healing
+  language.
 
 - `incremental-journey`: running from why growth comes in increments to how a
   seeker can tell that it has happened.
@@ -1513,12 +1512,14 @@ message_ids already carry the dates.
   2016-10-16-af-augustine, the provenance of the mind's contents traced to
   other people's ideas arriving through education, with the consequence that
   inaccurate perception yields inaccurate choice. Governance:
+  2016-03-30-af-augustine, humility as the willful side yielding to the soul;
   2016-10-24-af-confucius, the agency axis restated, and
   2019-01-21-af-augustine, the succession stated as humanity's next step, the
   same claim as 2016-08-31-af-martin-luther. How the soul knows:
-  2016-09-02-af-augustine, the ineffability claim, and
-  2016-10-26-af-augustine, the soul as the image of God offered as the reason
-  the recognition faculty sits there. Reception:
+  2016-09-02-af-augustine, the ineffability claim; 2016-10-26-af-augustine,
+  the soul as the image of God offered as the reason the recognition faculty
+  sits there; and 2018-08-06-af-solomon, the soul's knowing as the test when
+  the mind finds an argument sound. Reception:
   2016-09-04-af-john-the-beloved, what the Love does to perception, with the
   cost named. The two held at once: 2016-09-09-af-andrew, the material mind as
   where the vestiges persist after the soul has changed; 2018-05-12-af-luke, a
@@ -1778,9 +1779,12 @@ message_ids already carry the dates.
   intervening, with the assurance that it lands, "your prayers...
   are answered and are always being answered as the angels draw close";
   2015-11-28-af-faith-nyquist, dual-logged as the `prayer-soul-longing`
-  Foundation; 2015-12-21-af-peter; 2016-07-27-af-confucius asserts the outward
-  discharge without the mechanism 2016-07-25-af-seretta-kem supplies, "the
-  world is touched with Light as you make these efforts to connect with God";
+  Foundation; 2015-12-21-af-peter, distance no bar, "just because you reside
+  in one part of your planet does not mean that through your collective
+  efforts you may not influence the conditions in anyplace in this world";
+  2016-07-27-af-confucius asserts the outward discharge without the mechanism
+  2016-07-25-af-seretta-kem supplies, "the world is touched with Light as you
+  make these efforts to connect with God";
   2016-08-26-af-jesus asserts the outward direction without the mechanism,
   "You must pray and be that channel of Light that will beam upon every soul";
   2018-08-13-af-seretta-kem asks intercession for the whole suffering world,
@@ -1964,11 +1968,17 @@ message_ids already carry the dates.
   Witnesses. 2015-05-18-af-augustine, readiness for what is coming tied to the
   soul's strength, "if you cannot rise above this to that soulful awareness,
   you will have great difficulties adjusting and dealing with what is to
-  come"; 2016-09-05-af-andrew, with the widening detail that others unknown
-  are coming to join the work; 2016-09-06-af-mary, which names at-onement
-  specifically as the qualifying condition, more doctrinally precise than the
-  thread's usual framing; 2016-10-15-af-seretta-kem, the readying strand of an
-  earth-changes message, carried with the fence.
+  come"; 2015-12-21-af-peter, the readying and the rock in a few sentences,
+  "You will become important anchors in this world for God to utilize, to
+  bring stability"; 2016-09-05-af-andrew, with the widening detail that others
+  unknown are coming to join the work; 2016-09-06-af-mary, which names
+  at-onement specifically as the qualifying condition, more doctrinally
+  precise than the thread's usual framing; 2016-10-15-af-seretta-kem, the
+  readying strand of an earth-changes message, carried with the fence;
+  2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
+  "As you hold on to one another as the winds blow, so you will support and
+  save many from the coming changes," with the bonds forged now for later
+  need.
   Structural note: the fence is that a message must carry the readying itself,
   God's preparation of a soul for what is coming, and not merely the coming
   changes or a general call to grow. It is not that the message must contain a
@@ -2217,8 +2227,13 @@ message_ids already carry the dates.
   great part in developing the church of Christ, and in so doing I encouraged
   many erroneous beliefs and understandings of Jesus' true message," and says
   what he does now about it.
-  Section members. 2018-11-05-af-john-wesley on the limitations of his earthly
-  ministry and institutional Christianity's failure to teach the higher truth.
+  Section members. 2016-03-30-af-augustine says why he taught error: the Love
+  received while he held power in the church, and the higher road refused out
+  of ambition and fear, "I did not listen to God, I listened to my own mind
+  and desire and fears, my own humanity," which is the registry's third step
+  seen from inside the man. 2018-11-05-af-john-wesley on the limitations of
+  his earthly ministry and institutional Christianity's failure to teach the
+  higher truth.
   2019-01-31-af-yogananda extends the arc beyond Christianity, on
   reincarnation taught from a young age and reinforced through his own
   spiritual pursuits. 2019-04-01-jw-yogananda gives the same correction in
@@ -2627,42 +2642,46 @@ message_ids already carry the dates.
   to do arrive as a by-product of the soul's growth, "what is necessary and
   required will be obvious as you look at the world through the eyes of your
   souls";
-  2016-09-06-af-joseph gives the mechanism in compact form, "The understandings
-  that God has placed within your souls will emerge into your consciousness and
-  be your guiding grace," and puts the answer inside the prompting rather than
-  at the end of a search, "within that call, that desire, that awareness is the
-  answer to all your questions"; 2016-11-06-af-jesus ties the emergence to the
-  Love's own work, "As the Love within builds and cleanses and ignites your
-  great souls, you will see more clearly, more emphatically, what it is that you
-  must do in this world," and makes the gifts collective as well as individual,
-  "in combination will make you a powerful teacher of these truths," held at
-  witness because 2016-03-29-af-james already carries the gifts lit up by the
-  Love; 2019-04-07-af-augustine has the gifts hidden within and blocked from
-  awareness by the mind, which "will become self-evident and will grow and grow"
-  as the soul awakens, the registry's own word for the step.
-  Witnesses, raising scope questions. 2016-09-11-af-francis-of-assisi, "It is
-  your destiny. You feel it; you know it; you have seen it and you will express
-  it but you must continue to grow and to grow into this role," where the
-  purpose has already been seen and what unfolds slowly is the growth into it;
+  2016-09-06-af-joseph gives the mechanism in compact form, "The
+  understandings that God has placed within your souls will emerge into your
+  consciousness and be your guiding grace," and puts the answer inside the
+  prompting rather than at the end of a search, "within that call, that
+  desire, that awareness is the answer to all your questions";
   2016-10-15-af-confucius, "the dawning awareness that there is a purpose for
-  each one of you," paired with a place in a collective work, "you will find
-  your place within this work"; 2019-01-30-af-seretta-kem, the purpose as a
-  commitment made before birth that the soul still knows, "your commitment in
-  this regard was made before you came to Earth... and that your soul knows."
+  each one of you," whose place in a collective work belongs to
+  `vanguards-of-change`; 2016-11-06-af-jesus ties the emergence to the Love's
+  own work, "As the Love within builds and cleanses and ignites your great
+  souls, you will see more clearly, more emphatically, what it is that you
+  must do in this world," and makes the gifts collective as well as
+  individual, "in combination will make you a powerful teacher of these
+  truths," held at witness because 2016-03-29-af-james already carries the
+  gifts lit up by the Love; 2019-04-07-af-augustine has the gifts hidden
+  within and blocked from awareness by the mind, which "will become
+  self-evident and will grow and grow" as the soul awakens, the registry's own
+  word for the step.
+  Witnesses, growing into a purpose already seen.
+  2016-09-11-af-francis-of-assisi, "It is your destiny. You feel it; you know
+  it; you have seen it and you will express it but you must continue to grow
+  and to grow into this role," where what unfolds slowly is the growth into
+  the purpose rather than the knowing of it.
+  Witnesses, where the purpose comes from. 2019-01-30-af-seretta-kem, the
+  purpose as a commitment made before birth that the soul still knows, "your
+  commitment in this regard was made before you came to Earth... and that your
+  soul knows." 2016-03-18-af-john-the-beloved carries the same choice before
+  incarnation, "Each one of you has incarnated into this world for this
+  purpose. You chose this," as a `free-will-and-gods-plan` Elaboration.
   Fences. Against `free-will-and-gods-plan`: that thread asks whether free will
   and God's plan conflict; this one asks how a soul's unique purpose surfaces.
   The Foundation touches both and is reducible to neither. Against
   `knowing-your-own-soul`: that thread is knowing what you are, this one is
   knowing what you are for, which is why 2016-03-29-af-james sits on both.
   Against the `purpose-of-life` pen candidate: that is life's general meaning,
-  this is each soul's particular part in it.
-  What is awaited. Two scope questions the witnesses raise. Whether the thread
-  covers growing into a purpose already known, as at
-  2016-09-11-af-francis-of-assisi, as well as coming to know it. And whether a
-  place within a collective work, as at 2016-10-15-af-confucius, belongs here
-  or to `vanguards-of-change`. And whether a commitment made before birth, as
-  at 2019-01-30-af-seretta-kem, belongs in the thread's account of where the
-  purpose comes from.
+  this is each soul's particular part in it. Against `vanguards-of-change`: a
+  place within a collective work belongs to that thread; this one is each
+  soul's own purpose.
+  What is awaited: a message that develops the commitment made before birth,
+  which the thread's account of where the purpose comes from includes and
+  which 2019-01-30-af-seretta-kem states in passing.
   Structural note: 2015-08-17-af-peter does not take the anchor, for two
   reasons the text supplies. He does not carry the free-will step: where the
   anchor has an invitation free will may decline, Peter has incapacity, "for
@@ -2853,21 +2872,30 @@ message_ids already carry the dates.
   but the depth and acuity of the knowings of the soul will not be part of
   this reality," then sets the contrast at the scale of humanity's need
   rather than the soul's destination.
+  Objection removed, that the teaching makes natural love worthless; anchor:
+  2016-09-02-af-augustine names the loves of parents, mates and children
+  "beautiful attributes of the natural love not to be denied nor to be pushed
+  aside as something inferior," and gives the reason, "it is a gift from God."
+  Section member: 2018-05-12-af-luke honours the natural destination from the
+  inside, "Their interactions with one another are harmonious and joyful,"
+  while keeping the ceiling, "There is a state of harmony but it can go no
+  further than this." So the roads differ in how far they reach, not in
+  whether the love is good.
   Testimony, anchor: 2016-05-29-af-aman, the whole architecture walked by a
   single soul: the refusal, the fall, the climb up the natural path to "our
   previous exalted state within the sixth sphere or natural heavens," and
   then, once the door reopens, "we were able to choose, this time more wisely,
-  the way of the Divine Love."
-  Section members. 1963-12-26-ds-mary shows one love becoming the other in two
-  lives, of Jesus, "Jeshu's love for his family was a natural love, purified.
-  It later became Divine through prayer," and of herself, her love deepening
-  into the Divine Love only after his death. 2018-11-22-af-yogananda testifies
-  from the Celestial Kingdom looking back, that the natural love spheres are
-  real but not the summit. 2019-02-12-af-osho-bhagwan testifies from inside
-  the climb, a guru who taught the natural road, has "not entered into the
-  Celestial Spheres," and confirms the higher road from below, naming his own
-  reach as partial. 2019-04-01-jw-yogananda gives the compressed sphere
-  progression with prayer for God's Love as "my principal practice."
+  the way of the Divine Love." Section members. 1963-12-26-ds-mary shows one
+  love becoming the other in two lives, of Jesus, "Jeshu's love for his family
+  was a natural love, purified. It later became Divine through prayer," and of
+  herself, her love deepening into the Divine Love only after his death.
+  2018-11-22-af-yogananda testifies from the Celestial Kingdom looking back,
+  that the natural love spheres are real but not the summit.
+  2019-02-12-af-osho-bhagwan testifies from inside the climb, a guru who
+  taught the natural road, has "not entered into the Celestial Spheres," and
+  confirms the higher road from below, naming his own reach as partial.
+  2019-04-01-jw-yogananda gives the compressed sphere progression with prayer
+  for God's Love as "my principal practice."
   Capstone: 2016-05-02-af-andrew, which picks up directly from Mary in the
   same circle and states the thread whole. The premise, that at death the
   soul holds "the memory of every minute and second of your life"; the fork
@@ -2879,9 +2907,9 @@ message_ids already carry the dates.
   2016-05-02-af-mary, the Love over-riding the Law of Compensation, given in
   the same circle as the Capstone;
   2016-08-25-af-matthew, the innateness denial stated and not developed;
-  2016-09-02-af-augustine, declining plainly to call natural love inferior;
-  2016-09-08-af-jesus, the choice put as a formal question with two named
-  alternatives.
+  2016-08-27-af-brother-mandus, the two loves named without ranking, either
+  one dispersing "those clouds of the human condition"; 2016-09-08-af-jesus,
+  the choice put as a formal question with two named alternatives.
   Structural note: the Capstone section has two candidates and the choice is
   only the anchor, since both belong in the section either way.
   2016-05-02-af-andrew holds it, stating the fork as a choice, carrying the
@@ -2905,18 +2933,11 @@ message_ids already carry the dates.
   spheres to mark how far each road reaches. Against
   `divine-love-without-knowing`: that thread is about receiving the Love
   without recognising it; this one is about a choice made knowingly.
-  What is awaited: a decision on natural-love rehabilitation (see Open
-  questions), which bears on the qualifying clauses of this thread's spine.
-  2016-08-27-af-brother-mandus and 2016-09-02-af-augustine decline to call
-  natural love inferior, and 2018-05-12-af-luke dignifies the natural
-  destination at length while keeping the ceiling explicit, "There is a state of
-  harmony but it can go no further than this." 2016-04-12-af-moses may belong
-  with them, though its passage is about progression generally rather than the
-  two paths as such, which is the curator's call. Also outstanding, the
-  sphere-numbering question raised at 2016-11-27-af-james-reid, a Divine Love
-  seeker placing himself in the fifth sphere and inviting the circle to join him
-  there, a Divine Love communicator locating himself by sphere number where the
-  thread treats the numbered spheres as the natural path's progression.
+  What is awaited: the sphere-numbering question raised at
+  2016-11-27-af-james-reid, a Divine Love seeker placing himself in the fifth
+  sphere and inviting the circle to join him there, a Divine Love communicator
+  locating himself by sphere number where the thread treats the numbered
+  spheres as the natural path's progression.
 
 - `vanguards-of-change`: running from the commission itself to the freedom it
   requires.
@@ -2951,9 +2972,12 @@ message_ids already carry the dates.
   2016-09-04-af-augustine states it as a travel programme rather than a
   readiness condition, "For we will be calling you to many places in the
   world," with "you come as missionaries" naming the role and no release asked
-  for; 2016-11-06-af-jesus restates it with the opened-door promise, "God will
-  take you by the hand and show you the way, open the doors and connect you
-  with all the loving souls," which is what Jesus said in 2016-01-08-af-jesus;
+  for; 2016-10-15-af-confucius gives it in collective form, a place for each
+  willing soul in an expanding work, "you will find your place within this
+  work"; 2016-11-06-af-jesus restates it with the opened-door promise, "God
+  will take you by the hand and show you the way, open the doors and connect
+  you with all the loving souls," which is what Jesus said in
+  2016-01-08-af-jesus;
   2018-06-18-af-matthew carries the vanguard title as its door, "You are the
   vanguards seeking to move forward... into a new dawn of Love and Truth that
   God intends for this world," with the circle cast as explorers rather than
@@ -3002,11 +3026,7 @@ message_ids already carry the dates.
   2016-09-16-af-john-the-beloved. If they are three claims the last is
   promotable; if one, it stays a witness.
   Structural note: 2016-01-08-af-jesus also carries a `healing-channel`
-  witness for its "great channel of service." Separately,
-  2016-10-15-af-confucius pairs an individual purpose with a place in a
-  collective work, "you will find your place within this work," and whether
-  the place-in-the-work facet belongs to this thread or to
-  `soul-purpose-emergence` is worth weighing at build.
+  witness for its "great channel of service."
 
 - `who-jesus-was`: running from what he was not to what he actually did, by way
   of why the record went wrong.
@@ -3261,21 +3281,37 @@ only stating it.
   enough rather than stating it, or when the two halves appear together in one
   message, which would raise the question of whether this belongs inside
   `provision-for-service` instead.
-- `angelic-accompaniment`, an angel attends each soul, permanently and by
-  default rather than on request. Seen: 2014-07-26-af-augustine, the
-  accompaniment in the attending spirit's own voice, "we will always be with
-  you no matter the difficulties"; 2016-10-26-af-augustine, "with each one of
-  you stands an angel and with each one will come a blessing as you open";
-  2018-07-07-af-aaron, "you shall always be accompanied by an angel, who will
-  protect and guide, teach and inspire"; 2019-02-18-af-augustine, the
-  Celestial angels assigned to each earnest soul. None argues it.
-  2016-09-10-af-andrew has the request-and-dispatch form instead, "if you ask
-  for help in your prayers... God will send an angel to you": an angel sent on
-  an asking rather than one already standing there. 2019-02-18-af-augustine
-  sits between the two, the accompaniment standing but conditioned on
-  earnestness. So the first thing to settle is whether the candidate covers
-  the default form, the conditioned form and the dispatched form. Mint when a
-  message develops the accompaniment rather than asserting it.
+- `divine-accompaniment`, the soul that earnestly seeks Divine Love is
+  accompanied from spirit, and how closely depends on how it seeks. The steps
+  run from asking, to praying, to persisting, to being assigned a guide. Help
+  comes on the asking: 2016-09-10-af-andrew, "if you ask for help in your
+  prayers... God will send an angel to you, to help you in this struggle."
+  Earnest prayer for the Love brings an angel close, one God assigns to each
+  earnest soul and present when it prays, not necessarily at other times:
+  2016-05-30-af-augustine, "when you earnestly long for the Father's Love and
+  so you bring the angels close"; 2016-10-26-af-augustine, "as you are earnest
+  and pray for this opening of Love"; 2019-01-30-af-seretta-kem, tied to
+  humbly asking to be used as an instrument, "you will always be assured that
+  an angel will be with you and often speak to you"; 2019-02-18-af-augustine,
+  "God assigns an angel to each soul that is earnest in their efforts to
+  receive this gift of Love." Those who keep praying for the Love are promised
+  a standing accompaniment in their lives, addressed to that company rather
+  than to everyone: 2014-07-26-af-augustine, a teacher to his circle, "Your
+  teacher Augustine is always by your side"; 2017-05-11-af-jesus, "we, the
+  angels of Heaven, will surround you and support you and inspire you and
+  protect you"; 2018-07-07-af-aaron, "For those of you who seek this truth of
+  love, you shall always be accompanied by an angel"; 2019-02-18-af-augustine,
+  "We will be with you clearly and powerfully in your life";
+  2019-02-27-af-andrew, "every soul who desires to be guided is blessed and
+  accompanied by an angel or many angels." And Jesus assigns Celestial spirits
+  as guides to mortals who walk the path of Love: 2019-01-30-af-seretta-kem,
+  "Jesus assigns these guides in his wisdom," a role given to "many of us in
+  the Celestial Kingdom"; 2019-02-21-af-elijah, a guide naming himself to one
+  man, "My son, I continue to guide you." None argues it; each message asserts
+  its step. Fence: `free-will-and-self-responsibility` carries help waiting on
+  the asking as part of a law about the seeker's own will; this candidate is
+  about who accompanies the seeker and when. Mint when a message develops the
+  accompaniment rather than asserting it.
 - `unlimited-reception`, the soul's capacity to receive Divine Love is
   unbounded, so reception never completes and at-onement is an endless
   approach rather than a destination. Seen: 2015-10-12-af-augustine ("shall
@@ -3420,21 +3456,6 @@ Larger structural questions to revisit when building begins.
   Reframe is worded. The role question is closed (the message is recorded in
   the `fear-of-full-immersion` roster as a Chrysalis-shaped sighting, with the
   reasoning there); the wording question is open.
-
-- **Natural-love rehabilitation: a decision for the curator.** Messages that
-  decline to rank natural love lower: 2016-08-27-af-brother-mandus (natural
-  love is enough to disperse the clouds of the human condition);
-  2016-09-02-af-augustine (a gift from God, not to be pushed aside as
-  inferior); and 2018-05-12-af-luke, which honours the natural destination
-  from the inside, "Many souls are content to reside within this sphere...
-  Their interactions with one another are harmonious and joyful," with the
-  concession that from where the hearer stands "it would be difficult to truly
-  discern between the joy of the perfect heaven and the joy of the Celestial
-  Heavens", while keeping the ceiling explicit ("it can go no further than
-  this") and the difference in quality intact. 2016-04-12-af-moses may belong
-  with them, since it counts both loves toward progression. The question is
-  whether these call for qualifying clauses on the `two-paths` spine and the
-  `earth-conditions-and-prayer` remedy wording; it is not a new thread.
 
 - **A possible `free-will-and-gods-plan` connection.**
   2016-03-13-af-faith-nyquist ("Keep the Flame Burning") echoes the thread's
