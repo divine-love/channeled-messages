@@ -41,7 +41,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  John identifies himself simply as "John" but is confirmed as John the Beloved. Not publicly posted online.
+  John identifies himself simply as "John" but is confirmed as John the Beloved.
 essential_teachings: []
 language: en
 excerpt: >

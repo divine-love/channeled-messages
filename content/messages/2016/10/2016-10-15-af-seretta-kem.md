@@ -46,8 +46,7 @@ related_messages:
   - 2017-09-13-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: ["Prophecy"]
 language: en
 excerpt: >

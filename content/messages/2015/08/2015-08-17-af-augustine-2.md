@@ -35,7 +35,7 @@ related_messages:
   - 2016-11-28-af-luke
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online. Closing blessing at the end of the August 2015 Gibsons Retreat."
+notes: "Closing blessing at the end of the August 2015 Gibsons Retreat."
 essential_teachings: []
 language: en
 excerpt: >

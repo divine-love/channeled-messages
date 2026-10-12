@@ -46,9 +46,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. John speaks near the close of several days of
-  meetings, referring to "these last few days, we have attempted to teach and
-  to encourage".
+  John speaks near the close of several days of meetings, referring to "these
+  last few days, we have attempted to teach and to encourage".
 essential_teachings: []
 language: en
 excerpt: >

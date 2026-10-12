@@ -48,7 +48,7 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Delivered in New York, NY — the day following the March 23 New York
-  gathering. Not publicly posted online.
+  gathering.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

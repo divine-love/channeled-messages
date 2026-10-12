@@ -49,8 +49,7 @@ door: >
   You gather hoping to change the world. Confucius gently corrects you: you are not the one who changes it.
 collections: ["Mind & Soul"]
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-06-17
 ---
 

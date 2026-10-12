@@ -34,7 +34,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Closing blessing of an evening gathering, received on the same day as the Andrew and Augustine messages.
+  Closing blessing of an evening gathering, received on the same day as the Andrew and Augustine messages.
 essential_teachings: []
 language: en
 excerpt: >

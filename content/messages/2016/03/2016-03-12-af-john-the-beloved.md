@@ -48,8 +48,7 @@ door: >
   Your prayers are sending ripples to souls you will never meet. You feel nothing happen, and yet it is the most powerful thing you do.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-08
 ---
 

@@ -36,8 +36,8 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. The communicator does not give a name; the source
-  header records the spirit as "Anonymous".
+  The communicator does not give a name; the source header records the spirit
+  as "Anonymous".
 essential_teachings: []
 language: en
 excerpt: >

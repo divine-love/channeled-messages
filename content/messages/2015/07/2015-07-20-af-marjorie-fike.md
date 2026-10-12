@@ -44,8 +44,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Personal message from Al Fike's mother in spirit,
-  addressed to her grandson. Questions reframed universally per archive convention.
+  Personal message from Al Fike's mother in spirit, addressed to her grandson.
+  Questions reframed universally per archive convention.
 essential_teachings: []
 language: en
 excerpt: >

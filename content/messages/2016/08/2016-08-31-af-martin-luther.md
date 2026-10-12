@@ -44,10 +44,10 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Delivered in Frankfurt as the opening address of
-  a multi-day gathering; Martin Luther says he worked with those who arranged
-  it, that he opens the circle, and that many spirits will speak over the days
-  that follow. He notes that he cannot speak German through this medium.
+  Delivered in Frankfurt as the opening address of a multi-day gathering;
+  Martin Luther says he worked with those who arranged it, that he opens the
+  circle, and that many spirits will speak over the days that follow. He notes
+  that he cannot speak German through this medium.
 essential_teachings: []
 language: en
 excerpt: >

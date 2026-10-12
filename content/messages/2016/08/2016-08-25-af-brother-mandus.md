@@ -46,8 +46,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Received at Brother Mandus's former home in
-  Blackpool, which he refers to in the message as his house and as the sanctuary.
+  Received at Brother Mandus's former home in Blackpool, which he refers to in
+  the message as his house and as the sanctuary.
 essential_teachings: ["Spirit Biography", "Historical"]
 language: en
 excerpt: >

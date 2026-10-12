@@ -40,9 +40,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Third message from Augustine on August 16,
-  2015 during the August 2015 Gibsons Retreat. Closes the day's exercises
-  and sets the task for the following day's circle.
+  Third message from Augustine on August 16, 2015 during the August 2015
+  Gibsons Retreat. Closes the day's exercises and sets the task for the
+  following day's circle.
 essential_teachings: []
 language: en
 excerpt: >

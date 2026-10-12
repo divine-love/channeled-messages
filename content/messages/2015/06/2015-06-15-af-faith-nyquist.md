@@ -46,7 +46,7 @@ related_messages:
   - 2015-05-04-af-augustine
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online."
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >

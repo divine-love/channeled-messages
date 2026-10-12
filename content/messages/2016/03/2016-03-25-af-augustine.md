@@ -36,7 +36,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Augustine refers to the circle's prayer as "this channel, this portal of Light in the world," an early and informal use of portal language; the detailed teaching on Portals of Light as concentrated mechanisms built by spirit teams comes in later messages.
+  Augustine refers to the circle's prayer as "this channel, this portal of Light in the world," an early and informal use of portal language; the detailed teaching on Portals of Light as concentrated mechanisms built by spirit teams comes in later messages.
 essential_teachings: []
 language: en
 excerpt: >

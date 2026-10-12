@@ -40,10 +40,10 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Delivered during the August 2015 Gibsons
-  Retreat. Confucius references an encounter one retreat participant had
-  with whales, describing it as God's answer to the call of their love
-  and light. Personal reference noted; questions reframed universally.
+  Delivered during the August 2015 Gibsons Retreat. Confucius references
+  an encounter one retreat participant had with whales, describing it as
+  God's answer to the call of their love and light. Personal reference
+  noted; questions reframed universally.
 essential_teachings: []
 language: en
 excerpt: >

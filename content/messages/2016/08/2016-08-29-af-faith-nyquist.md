@@ -45,9 +45,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. The message addresses a specific and then
-  unresolved situation concerning the building, its trustees, and those with
-  authority to make decisions about it. None of the individuals is named.
+  The message addresses a specific and then unresolved situation concerning
+  the building, its trustees, and those with authority to make decisions
+  about it. None of the individuals is named.
 essential_teachings: ["Prophecy"]
 language: en
 excerpt: >

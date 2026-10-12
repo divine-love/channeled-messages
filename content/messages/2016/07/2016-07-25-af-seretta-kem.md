@@ -49,8 +49,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. The recording was truncated at the start; the
-  opening identification "[I am Seretta Kem]" was supplied by the transcriber.
+  The recording was truncated at the start; the opening identification "[I am
+  Seretta Kem]" was supplied by the transcriber.
 essential_teachings: ["Core Teaching", "Divine Healing"]
 language: en
 excerpt: >

@@ -43,8 +43,7 @@ door: >
   On the coldest night, the warmth you are looking for is not in the room. It is waiting inside your own soul.
 collections: []
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-06-16
 ---
 

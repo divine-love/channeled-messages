@@ -41,9 +41,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. The source header carries no title; the title
-  here is curator-supplied, marked with an asterisk. Received the same day as
-  2016-11-27-af-james-reid.
+  The source header carries no title; the title here is curator-supplied,
+  marked with an asterisk. Received the same day as 2016-11-27-af-james-reid.
 essential_teachings: []
 language: en
 excerpt: >

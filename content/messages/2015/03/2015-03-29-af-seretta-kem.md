@@ -51,8 +51,7 @@ canonical_url: ""
 notes: >
   Seretta Kem identifies himself as having lived in Egypt many generations ago
   when the culture was at its peak, confirms he walks the Divine Path and
-  inhabits the Celestial Kingdom. Delivered in New York, NY. Not publicly
-  posted online.
+  inhabits the Celestial Kingdom. Delivered in New York, NY.
 essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >

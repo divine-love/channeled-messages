@@ -48,8 +48,7 @@ door: >
   The sensitivity that makes the world so hard to bear is not a weakness to fix. It is the very thing that makes you a saviour.
 collections: ["Awakening Humanity", "Service & Mission", "The Saints & Apostles Speak"]
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-08
 ---
 

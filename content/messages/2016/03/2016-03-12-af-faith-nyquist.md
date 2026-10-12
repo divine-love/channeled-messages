@@ -45,8 +45,7 @@ excerpt: >
 door: >
   A door has opened. You cannot see the plan behind it, but your part is only to walk through in joy.
 notes: >
-  Given in response to the approval of an August gathering at the WHC AGM. Not
-  publicly posted online.
+  Given in response to the approval of an August gathering at the WHC AGM.
 last_edited: 2026-06-18
 ---
 

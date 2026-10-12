@@ -38,13 +38,13 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Seretta Kem provides significant biographical
-  detail: identifies as being from Egypt, having lived approximately 4000
-  years ago during a time when Egypt was a great nation and revered the
-  Creator. Note: his spirit file places him as son of Ramses II (c.1279-1213
-  BC), approximately 3,300 years before this message. The discrepancy between
-  "approximately 4000 years ago" and the Ramses II timeframe is noted here
-  for curator awareness. Spirit file updated with source message cited.
+  Seretta Kem provides significant biographical detail: identifies as being
+  from Egypt, having lived approximately 4000 years ago during a time when
+  Egypt was a great nation and revered the Creator. Note: his spirit file
+  places him as son of Ramses II (c.1279-1213 BC), approximately 3,300 years
+  before this message. The discrepancy between "approximately 4000 years ago"
+  and the Ramses II timeframe is noted here for curator awareness. Spirit
+  file updated with source message cited.
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >

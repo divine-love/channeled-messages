@@ -45,7 +45,7 @@ notes: >
   brother, both in spirit, and speaks to the recipient as her aunt. The recipient's name
   has been redacted from the body as [name-removed], at the curator's direction, this
   being an unpublished personal message. The message opens mid-recording and the leading
-  ellipsis is preserved as received. Not publicly posted online.
+  ellipsis is preserved as received.
 essential_teachings: []
 language: en
 excerpt: >

@@ -45,9 +45,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Faith greets by name two friends still living at
-  the time of the message, Anne and Timothy, saying of Anne that she is with
-  her often.
+  Faith greets by name two friends still living at the time of the message,
+  Anne and Timothy, saying of Anne that she is with her often.
 essential_teachings: []
 language: en
 excerpt: >

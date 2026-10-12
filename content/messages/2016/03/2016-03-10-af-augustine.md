@@ -54,8 +54,7 @@ door: >
   When you face a choice, your mind offers a hundred plans. Augustine says the answer is in the one place you keep overlooking.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-21
 ---
 

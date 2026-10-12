@@ -45,8 +45,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. The message is addressed throughout to one man,
-  called only "my son" and "my brother"; no name appears in the source.
+  The message is addressed throughout to one man, called only "my son" and
+  "my brother"; no name appears in the source.
 essential_teachings: []
 language: en
 excerpt: >

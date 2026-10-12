@@ -43,8 +43,7 @@ related_messages:
   - 2016-11-21-af-confucius
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

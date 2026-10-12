@@ -41,12 +41,11 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Faith Nyquist provides biographical detail:
-  she walked the Earth "not too long ago," dedicated her life to following
-  God's Will on a great and beautiful journey of Love, but did not understand
-  the power of Divine Love as fully as the current circle does. She confirms
-  she now resides in the Celestial Kingdom. Spirit file updated with source
-  message cited.
+  Faith Nyquist provides biographical detail: she walked the Earth "not too
+  long ago," dedicated her life to following God's Will on a great and
+  beautiful journey of Love, but did not understand the power of Divine Love
+  as fully as the current circle does. She confirms she now resides in the
+  Celestial Kingdom. Spirit file updated with source message cited.
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >

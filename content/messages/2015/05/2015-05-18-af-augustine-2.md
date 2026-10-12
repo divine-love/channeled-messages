@@ -42,7 +42,7 @@ related_messages:
   - 2016-04-04-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online. Second Augustine message received on this date."
+notes: "Second Augustine message received on this date."
 essential_teachings: []
 language: en
 excerpt: >

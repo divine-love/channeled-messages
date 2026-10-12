@@ -46,8 +46,7 @@ related_messages:
   - 2018-09-01-af-augustine
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

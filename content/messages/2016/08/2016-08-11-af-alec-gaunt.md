@@ -47,8 +47,7 @@ related_messages:
   - 2019-02-22-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

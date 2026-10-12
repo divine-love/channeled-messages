@@ -49,7 +49,7 @@ door: >
 collections: ["Service & Mission"]
 essential_teachings: []
 notes: >
-  John the Beloved names Jesus as leading the way. Not publicly posted online.
+  John the Beloved names Jesus as leading the way.
 last_edited: 2026-06-26
 ---
 

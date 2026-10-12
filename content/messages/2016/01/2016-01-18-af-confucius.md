@@ -51,8 +51,7 @@ door: >
   You may never say a word. The Love in your soul rings like a bell, and souls
   you will never meet turn toward the sound.
 collections: ["Service & Mission", "Awakening Humanity"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-08-25
 ---
 

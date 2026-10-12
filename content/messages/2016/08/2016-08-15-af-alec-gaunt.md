@@ -49,9 +49,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Opens by addressing two members of the circle,
-  described only as "my two charges", on the anniversary of their marriage;
-  neither is named in the message.
+  Opens by addressing two members of the circle, described only as "my two
+  charges", on the anniversary of their marriage; neither is named in the
+  message.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

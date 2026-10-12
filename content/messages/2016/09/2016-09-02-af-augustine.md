@@ -43,9 +43,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Occasioned by a conversation among those present
-  following a visit from someone who had expressed his own beliefs about
-  Divine Love; the visitor is not named.
+  Occasioned by a conversation among those present following a visit from
+  someone who had expressed his own beliefs about Divine Love; the visitor is
+  not named.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

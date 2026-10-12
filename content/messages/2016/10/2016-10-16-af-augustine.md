@@ -46,8 +46,7 @@ related_messages:
   - 2019-02-01-af-josephus
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

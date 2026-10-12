@@ -36,7 +36,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Faith counsels the circle regarding their visits to "my old home," which the title abbreviates as WHC; the body refers to it only as her old home and "those hallowed halls."
+  Faith counsels the circle regarding their visits to "my old home," which the title abbreviates as WHC; the body refers to it only as her old home and "those hallowed halls."
 essential_teachings: []
 language: en
 excerpt: >

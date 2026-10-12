@@ -41,7 +41,7 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online. Part of the August 2015 pre-retreat series."
+notes: "Part of the August 2015 pre-retreat series."
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

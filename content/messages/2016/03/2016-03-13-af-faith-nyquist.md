@@ -49,8 +49,7 @@ door: >
   No one may ever thank you or even notice. God sees the flame you keep burning, and that is the whole point.
 notes: >
   Given in support of an ongoing prayer commitment to the WHC, a place Faith
-  refers to as one where she resided during her Earth life. Not publicly posted
-  online.
+  refers to as one where she resided during her Earth life.
 last_edited: 2026-06-18
 ---
 

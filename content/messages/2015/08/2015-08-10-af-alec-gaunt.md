@@ -38,9 +38,9 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Message addressed to a group preparing for
-  a gathering or retreat. Alec speaks of their preparations being complete
-  and encourages them to now relax into God's guidance.
+  Message addressed to a group preparing for a gathering or retreat. Alec
+  speaks of their preparations being complete and encourages them to now
+  relax into God's guidance.
 essential_teachings: []
 language: en
 excerpt: >

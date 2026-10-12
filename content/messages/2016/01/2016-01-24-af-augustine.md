@@ -51,8 +51,7 @@ door: >
   Your soul may be reaching for God while your mind insists you are unworthy. Which one is doing the praying?
 collections: ["Mind & Soul"]
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-08-19
 ---
 

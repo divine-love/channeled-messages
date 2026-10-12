@@ -41,9 +41,8 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  A transcriber's parenthetical note prefaces the source text and is kept out of the
-  message body per the medium's-editorial-notes convention, preserved here verbatim:
-  "(From this day forward I plan to reduce the heavy use of “my beloveds” after someone pointed out that its Al Fike's trademark.)" Not publicly posted online.
+  A transcriber's parenthetical note prefaces the source text and is kept out of the message body per the medium's-editorial-notes convention, preserved here
+  verbatim: "(From this day forward I plan to reduce the heavy use of “my beloveds” after someone pointed out that its Al Fike's trademark.)"
 essential_teachings: []
 language: en
 excerpt: >

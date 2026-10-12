@@ -35,11 +35,11 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Six spirits spoke in sequence during the
-  August 2015 Gibsons Retreat: Confucius (primary), followed by Mary,
-  John the Beloved, Peter, Goldie, and Jesus in that order. All are
-  listed in spirits[]. Jesus speaks last, identified in the message text
-  by the parenthetical "(Jesus)."
+  Six spirits spoke in sequence during the August 2015 Gibsons Retreat:
+  Confucius (primary), followed by Mary, John the Beloved, Peter,
+  Goldie, and Jesus in that order. All are listed in spirits[]. Jesus
+  speaks last, identified in the message text by the parenthetical
+  "(Jesus)."
 essential_teachings: []
 language: en
 excerpt: >

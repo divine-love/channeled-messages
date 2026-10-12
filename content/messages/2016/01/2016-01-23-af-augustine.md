@@ -54,8 +54,7 @@ door: >
   God does not answer the words. He answers the longing underneath them.
 collections: []
 essential_teachings: ["Core Teaching"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-08-09
 ---
 

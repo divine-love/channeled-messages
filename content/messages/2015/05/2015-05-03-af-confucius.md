@@ -42,7 +42,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Comma removed after "judgements" in the sentence beginning "All of these emotions and thoughts and judgements can be turned into opportunities."
+  Comma removed after "judgements" in the sentence beginning "All of these emotions and thoughts and judgements can be turned into opportunities."
 essential_teachings: []
 language: en
 excerpt: >

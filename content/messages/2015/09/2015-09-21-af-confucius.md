@@ -39,9 +39,9 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. First paragraph addressed personally to a
-  specific individual in the circle whose name has been redacted in the
-  transcript. Questions reframed universally.
+  First paragraph addressed personally to a specific individual in the
+  circle whose name has been redacted in the transcript. Questions
+  reframed universally.
 essential_teachings: []
 language: en
 excerpt: >

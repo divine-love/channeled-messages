@@ -44,9 +44,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. James Reid addresses a living friend, Geoff, as
-  his staunch supporter. He states that the medium lowered a barrier allowing
-  spirits who are not yet Celestial Angels to speak.
+  James Reid addresses a living friend, Geoff, as his staunch supporter. He
+  states that the medium lowered a barrier allowing spirits who are not yet
+  Celestial Angels to speak.
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >

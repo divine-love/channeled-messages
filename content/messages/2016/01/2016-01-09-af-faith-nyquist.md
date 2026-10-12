@@ -48,8 +48,7 @@ door: >
   The work of God needs no grand structures. It needs only your willingness to
   let go and reach.
 collections: ["Service & Mission", "Mind & Soul"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-06-26
 ---
 

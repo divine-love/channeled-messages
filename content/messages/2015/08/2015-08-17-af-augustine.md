@@ -34,7 +34,7 @@ related_messages:
   - "2015-08-16-af-augustine-3"
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online."
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >

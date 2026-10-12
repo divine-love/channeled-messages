@@ -49,9 +49,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Message addressed partly to a specific individual
-  within the Mormon Church. Questions reframed universally per archive convention.
-  First and only message from Joseph Smith in the archive.
+  Message addressed partly to a specific individual within the Mormon Church.
+  Questions reframed universally per archive convention. First and only message
+  from Joseph Smith in the archive.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

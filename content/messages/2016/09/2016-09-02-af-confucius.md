@@ -44,9 +44,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Confucius refers to "this time of prayer and
-  teaching", placing the message after a teaching session within the same
-  gathering.
+  Confucius refers to "this time of prayer and teaching", placing the
+  message after a teaching session within the same gathering.
 essential_teachings: []
 language: en
 excerpt: >

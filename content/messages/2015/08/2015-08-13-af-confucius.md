@@ -43,11 +43,11 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Part of a series of pre-retreat messages
-  delivered on August 13, 2015 alongside Augustine and Andrew messages,
-  likely in preparation for the August 2015 Gibsons Retreat. Confucius
-  references his "precious birds" imagery, suggesting prior use of this
-  metaphor with this group.
+  Part of a series of pre-retreat messages delivered on August 13, 2015
+  alongside Augustine and Andrew messages, likely in preparation for
+  the August 2015 Gibsons Retreat. Confucius references his "precious
+  birds" imagery, suggesting prior use of this metaphor with this
+  group.
 essential_teachings: []
 language: en
 excerpt: >

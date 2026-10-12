@@ -44,8 +44,7 @@ related_messages:
   - 2019-02-18-af-augustine
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >

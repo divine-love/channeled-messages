@@ -35,10 +35,10 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Confucius follows immediately after
-  2015-08-16-af-augustine-3 to amend Augustine's instruction about
-  bringing five questions to the next circle. Delivered during the
-  August 2015 Gibsons Retreat.
+  Confucius follows immediately after 2015-08-16-af-augustine-3 to
+  amend Augustine's instruction about bringing five questions to
+  the next circle. Delivered during the August 2015 Gibsons
+  Retreat.
 essential_teachings: []
 language: en
 excerpt: >

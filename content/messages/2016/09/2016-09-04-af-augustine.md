@@ -44,9 +44,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Augustine speaks near the close of several days of
-  meetings, referring to "this gathering of souls in a country that is foreign
-  to many of you".
+  Augustine speaks near the close of several days of meetings, referring to
+  "this gathering of souls in a country that is foreign to many of you".
 essential_teachings: []
 language: en
 excerpt: >

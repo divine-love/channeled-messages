@@ -5,7 +5,7 @@ All contributors should follow these conventions to ensure consistency, searchab
 
 This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
-Last updated: 2026-10-11
+Last updated: 2026-10-12
 
 ---
 
@@ -223,7 +223,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **questions** | array of strings | Natural language questions this message addresses, written as a seeker might type them into a search engine. Include as many as are relevant, the more specific, the better for discoverability. | `["How does Divine Love change the soul?", "Can any soul be redeemed?"]` |
 | **related_messages** | array of strings | Message IDs of other texts connected by subject only, never by date proximity, same retreat, or same location. Listed chronologically by message date, earliest first. Use full ID format, **always lowercase**, matching the same convention as `message_id`. | `["2015-11-28-af-mary", "2015-11-30-af-augustine"]` |
 | **audio_url** | string (URL) | A direct link to an audio recording of the message (MP3 or stream). Leave blank (`""`) if none. | `https://example.org/audio/2015-11-30-jesus.mp3` |
-| **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none, and add "Not publicly posted online." to the `notes` field. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
+| **canonical_url** | string (URL) | The permanent public URL where the message is officially published. Used for citation and linking. Leave blank (`""`) if none. | `https://divinelovesanctuary.com/messages/2015-11-30-jesus` |
 | **notes** | string | Optional free-text field for contextual notes. Leave blank (`notes: ""`) if none. Use YAML block scalar format (`>`) when content is present. | `notes: ""` or `notes: >`<br>`  Message received during evening circle.` |
 | **essential_teachings** | array of strings | Optional flags marking a message as particularly important. Values: `Core Teaching`, `Prophecy`, `Historical`, `Divine Healing`, `Spirit Biography`, `Milestone`. Use sparingly. See Section 4a for definitions. | `["Core Teaching"]` |
 | **language** | string | Language code (ISO 639-1). Always include. Defaults to `en` for English. Required for multilingual site rendering. | `en` |

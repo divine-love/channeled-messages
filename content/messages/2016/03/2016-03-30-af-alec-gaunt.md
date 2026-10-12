@@ -37,7 +37,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Delivered to welcome newcomers present in the circle.
+  Delivered to welcome newcomers present in the circle.
 essential_teachings: []
 language: en
 excerpt: >

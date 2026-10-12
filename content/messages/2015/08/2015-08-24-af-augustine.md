@@ -38,7 +38,7 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Delivered at the close of the August 2015 Gibsons Retreat. Augustine opens by correcting a misperception expressed by the medium, who had said that a special spiritual dispensation given during the retreat had been withdrawn; Augustine clarifies the medium was feeling the effects of an undisciplined diet, not a withdrawal of blessing. Not publicly posted online.
+  Delivered at the close of the August 2015 Gibsons Retreat. Augustine opens by correcting a misperception expressed by the medium, who had said that a special spiritual dispensation given during the retreat had been withdrawn; Augustine clarifies the medium was feeling the effects of an undisciplined diet, not a withdrawal of blessing.
 essential_teachings: []
 collections: ["Service & Mission"]
 language: en

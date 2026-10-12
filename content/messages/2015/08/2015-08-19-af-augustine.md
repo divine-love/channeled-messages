@@ -38,10 +38,9 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Grammatical fragment corrected in paragraph 1:
-  "the power of your prayer is the power of the longing of your souls will
-  change the world" amended to "...and will change the world" to restore
-  the likely intended meaning.
+  Grammatical fragment corrected in paragraph 1: "the power of your prayer
+  is the power of the longing of your souls will change the world" amended
+  to "...and will change the world" to restore the likely intended meaning.
 essential_teachings: []
 language: en
 excerpt: >

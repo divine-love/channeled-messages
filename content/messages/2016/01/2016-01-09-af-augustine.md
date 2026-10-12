@@ -47,8 +47,7 @@ door: >
   What you think of as tending a small garden, God sees as the beginning of a
   paradise.
 collections: ["Service & Mission"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-08
 ---
 

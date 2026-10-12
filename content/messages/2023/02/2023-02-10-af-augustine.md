@@ -53,7 +53,7 @@ collections: ["Awakening Humanity", "Mind & Soul", "The Saints & Apostles Speak"
 essential_teachings: ["Core Teaching"]
 notes: >
   Received aboard a Caribbean cruise during the Eastern US and Caribbean Soul
-  Awakening Tour. Not publicly posted online.
+  Awakening Tour.
 last_edited: 2026-07-08
 ---
 

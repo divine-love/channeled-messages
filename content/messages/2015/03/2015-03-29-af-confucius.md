@@ -43,8 +43,7 @@ notes: >
   Confucius opens with a gentle comment about some present not understanding
   the courtesies of prayer, suggesting some Chinese attendees were unfamiliar
   with the circle's approach. He addresses two souls who have "journeyed
-  far" - likely Al Fike and his partner. Delivered in New York, NY. Not
-  publicly posted online.
+  far" - likely Al Fike and his partner. Delivered in New York, NY.
 essential_teachings: []
 language: en
 excerpt: >

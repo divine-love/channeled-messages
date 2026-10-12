@@ -39,7 +39,7 @@ canonical_url: ""
 notes: >
   Delivered in New York, NY on the same day as 2015-03-27-af-andrew, to a
   larger and more diverse gathering. Confucius promises to return to speak
-  again during the gathering. Not publicly posted online.
+  again during the gathering.
 essential_teachings: []
 language: en
 excerpt: >

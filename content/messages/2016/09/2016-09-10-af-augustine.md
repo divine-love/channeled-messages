@@ -48,8 +48,7 @@ audio_url: ""
 canonical_url: ""
 notes: >
   Augustine identifies himself as the former Bishop of Hippo and as
-  responsible for establishing many of the tenets of the churches. Not
-  publicly posted online.
+  responsible for establishing many of the tenets of the churches.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

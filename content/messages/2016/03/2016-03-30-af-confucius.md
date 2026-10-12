@@ -37,7 +37,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Delivered to greet beginners present in the West Vancouver circle.
+  Delivered to greet beginners present in the West Vancouver circle.
 essential_teachings: []
 language: en
 excerpt: >

@@ -49,8 +49,7 @@ door: >
   The painful welling-up you are trying to push back down is not a setback. It is the cleansing itself.
 collections: ["Healing Path"]
 essential_teachings: []
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-06-16
 ---
 

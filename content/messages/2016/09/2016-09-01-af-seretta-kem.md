@@ -45,8 +45,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Seretta Kem invites those present to call on him
-  by name when they need help.
+  Seretta Kem invites those present to call on him by name when they need
+  help.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

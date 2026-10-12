@@ -43,11 +43,11 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Francis of Assisi confirms key biographical
-  details: he walked away from material wealth and comfort to follow God's
-  Will, going from wealth to poverty and from power to innocence, gaining
-  contentment and joy. His gifts flourished and he came to know God deeply.
-  Spirit file updated with source message cited.
+  Francis of Assisi confirms key biographical details: he walked away from
+  material wealth and comfort to follow God's Will, going from wealth to
+  poverty and from power to innocence, gaining contentment and joy. His
+  gifts flourished and he came to know God deeply. Spirit file updated with
+  source message cited.
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >

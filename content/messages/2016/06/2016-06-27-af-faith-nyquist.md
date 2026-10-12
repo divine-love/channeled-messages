@@ -42,9 +42,9 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Faith's father-in-law, referred to at the opening ("my father-in-law is very
-  pleased"), is Brother Mandus (Mandus Nyquist); Brother Mandus channelled a message to
-  the same circle the same day, 2016-06-27-af-brother-mandus. Not publicly posted online.
+  Faith's father-in-law, referred to at the opening ("my father-in-law is very pleased"),
+  is Brother Mandus (Mandus Nyquist); Brother Mandus channelled a message to the same
+  circle the same day, 2016-06-27-af-brother-mandus.
 essential_teachings: []
 language: en
 excerpt: >

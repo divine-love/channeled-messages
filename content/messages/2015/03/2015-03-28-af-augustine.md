@@ -51,7 +51,7 @@ notes: >
   Augustine identifies himself as the former bishop of Hippo and acknowledges
   his role in spreading erroneous beliefs during his Earth life. He describes
   his own ascension through the spirit spheres into the Celestial Kingdom
-  through Divine Love. Delivered in New York, NY. Not publicly posted online.
+  through Divine Love. Delivered in New York, NY.
 essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >

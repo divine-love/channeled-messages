@@ -43,7 +43,7 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online. Second message from Augustine on August 22, 2015."
+notes: "Second message from Augustine on August 22, 2015."
 essential_teachings: ["Core Teaching", "Prophecy"]
 language: en
 excerpt: >

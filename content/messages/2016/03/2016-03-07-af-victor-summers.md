@@ -48,8 +48,7 @@ excerpt: >
   progress and feel the bounty of God's Love welling up within my soul.
 door: >
   The doubt that troubled his ministry on Earth did not end him. From the doorstep of Heaven, he warns you not to repeat it.
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-06-17
 ---
 

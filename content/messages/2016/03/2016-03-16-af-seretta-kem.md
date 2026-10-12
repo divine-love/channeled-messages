@@ -32,7 +32,7 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Seretta Kem refers to an earlier message the group was taken with and promises to reiterate it through the instrument at a future time.
+  Seretta Kem refers to an earlier message the group was taken with and promises to reiterate it through the instrument at a future time.
 essential_teachings: []
 language: en
 excerpt: >

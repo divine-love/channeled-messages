@@ -40,7 +40,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Received on the same day as the Andrew message 2015-05-04-af-andrew.
+  Received on the same day as the Andrew message 2015-05-04-af-andrew.
 essential_teachings: []
 language: en
 excerpt: >

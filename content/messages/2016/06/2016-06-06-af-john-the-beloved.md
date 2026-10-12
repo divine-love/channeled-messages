@@ -42,8 +42,7 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Contains a spoken prayer for the Divine Love within the message body. Not publicly
-  posted online.
+  Contains a spoken prayer for the Divine Love within the message body.
 essential_teachings: []
 language: en
 excerpt: >

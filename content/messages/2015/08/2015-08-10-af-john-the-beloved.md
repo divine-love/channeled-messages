@@ -38,8 +38,8 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Message delivered in anticipation of an
-  upcoming gathering of souls, likely the August 2015 Gibsons Retreat.
+  Message delivered in anticipation of an upcoming gathering of souls,
+  likely the August 2015 Gibsons Retreat.
 essential_teachings: []
 language: en
 excerpt: >

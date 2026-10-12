@@ -48,8 +48,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. The reference to "the high road of which our
-  master speaks" refers to Jesus.
+  The reference to "the high road of which our master speaks" refers to
+  Jesus.
 essential_teachings: []
 language: en
 excerpt: >

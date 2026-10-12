@@ -44,7 +44,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Seretta Kem opens by noting that this message fulfils a promise to return and reiterate his teaching on mediumship.
+  Seretta Kem opens by noting that this message fulfils a promise to return and reiterate his teaching on mediumship.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >

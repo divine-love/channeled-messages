@@ -45,7 +45,7 @@ related_messages:
   - 2016-09-10-af-andrew
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online."
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >

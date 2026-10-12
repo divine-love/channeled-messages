@@ -47,8 +47,7 @@ related_messages:
   - 2018-07-14-af-seretta-kem
 audio_url: ""
 canonical_url: ""
-notes: >
-  Not publicly posted online.
+notes: ""
 essential_teachings: ["Core Teaching", "Divine Healing"]
 language: en
 excerpt: >

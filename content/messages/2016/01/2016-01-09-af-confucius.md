@@ -46,8 +46,7 @@ door: >
   The gifts you are waiting to discover are already inside you, already eager to
   be found.
 collections: ["Service & Mission", "Prism of the Soul"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-08
 ---
 

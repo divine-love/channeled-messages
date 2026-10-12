@@ -47,7 +47,7 @@ related_messages:
   - 2018-07-30-mc-augustine
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online."
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >

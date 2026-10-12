@@ -44,8 +44,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Message addressed to a specific individual concerning
-  a specific ministry situation. Questions reframed universally per archive convention.
+  Message addressed to a specific individual concerning a specific ministry situation.
+  Questions reframed universally per archive convention.
 essential_teachings: []
 language: en
 excerpt: >

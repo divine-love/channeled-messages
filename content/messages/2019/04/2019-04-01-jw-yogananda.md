@@ -45,8 +45,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. "(2019 Personal)" in the source header is a
-  filing annotation and is not part of the title.
+  "(2019 Personal)" in the source header is a filing annotation and is
+  not part of the title.
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >

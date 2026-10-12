@@ -39,10 +39,10 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Addressed specifically to the men of the
-  circle during the August 2015 Gibsons Retreat. Confucius opens with
-  characteristic humour about carrying "the burden of the men."
-  "(laughter)" changed to "[laughter]" per schema convention.
+  Addressed specifically to the men of the circle during the August
+  2015 Gibsons Retreat. Confucius opens with characteristic humour
+  about carrying "the burden of the men." "(laughter)" changed to
+  "[laughter]" per schema convention.
 essential_teachings: []
 language: en
 excerpt: >

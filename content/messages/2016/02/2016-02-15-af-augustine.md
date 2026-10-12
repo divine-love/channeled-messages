@@ -52,8 +52,7 @@ door: >
   You know your own mind better than you know your own soul. Augustine says that is exactly backwards.
 collections: ["Mind & Soul", "Two Paths", "The Saints & Apostles Speak"]
 essential_teachings: ["Core Teaching"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-29
 ---
 

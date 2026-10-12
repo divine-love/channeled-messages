@@ -37,7 +37,7 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: "Not publicly posted online. Augustine gives a practical discernment exercise to retreat participants."
+notes: "Augustine gives a practical discernment exercise to retreat participants."
 essential_teachings: []
 language: en
 excerpt: >

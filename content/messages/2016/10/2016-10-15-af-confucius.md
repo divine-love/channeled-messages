@@ -46,7 +46,7 @@ canonical_url: ""
 notes: >
   Received after the circle's return to Gibsons from travels in England,
   Germany and Serbia; the square-bracketed note to that effect is in the
-  source transcript. Not publicly posted online.
+  source transcript.
 essential_teachings: []
 language: en
 excerpt: >

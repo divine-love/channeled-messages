@@ -48,7 +48,7 @@ canonical_url: ""
 notes: >
   Francis speaks of the beginning of his own ministry, when he was shunned
   and thought unsound of mind, and of persisting in intense prayer rather
-  than attending to the judgements of others. Not publicly posted online.
+  than attending to the judgements of others.
 essential_teachings: []
 language: en
 excerpt: >

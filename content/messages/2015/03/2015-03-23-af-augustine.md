@@ -38,7 +38,7 @@ canonical_url: ""
 notes: >
   Delivered in New York, NY — Al Fike appears to have been visiting or on a
   trip. "This building" refers to a specific venue in New York whose identity
-  is not recorded. Not publicly posted online.
+  is not recorded.
 essential_teachings: ["Prophecy"]
 language: en
 excerpt: >

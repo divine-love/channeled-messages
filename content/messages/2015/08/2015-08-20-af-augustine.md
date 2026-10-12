@@ -36,9 +36,9 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Some transcripts carry the date August 21
-  for this message; August 20 used as given in the primary source.
-  Delivered during the August 2015 Gibsons Retreat.
+  Some transcripts carry the date August 21 for this message; August 20
+  used as given in the primary source. Delivered during the August 2015
+  Gibsons Retreat.
 essential_teachings: []
 language: en
 excerpt: >

@@ -47,8 +47,7 @@ door: >
   This year you will do the things you fear you cannot do, carried by a Love that
   asks no passport and speaks every language.
 collections: ["Service & Mission", "Awakening Humanity"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-06-26
 ---
 

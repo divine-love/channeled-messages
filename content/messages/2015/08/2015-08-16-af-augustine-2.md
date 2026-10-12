@@ -40,9 +40,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Second message from Augustine on August 16,
-  2015 during the August 2015 Gibsons Retreat. Continues directly from
-  the discernment exercise introduced in 2015-08-16-af-augustine.
+  Second message from Augustine on August 16, 2015 during the August 2015
+  Gibsons Retreat. Continues directly from the discernment exercise
+  introduced in 2015-08-16-af-augustine.
 essential_teachings: []
 language: en
 excerpt: >

@@ -50,8 +50,7 @@ door: >
   Before you can pour healing into another soul, there is one soul you must tend first - your own.
 collections: ["Healing Path"]
 essential_teachings: ["Divine Healing"]
-notes: >
-  Not publicly posted online.
+notes: ""
 last_edited: 2026-07-08
 ---
 

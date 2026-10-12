@@ -38,12 +38,11 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Not publicly posted online. Message addressed to a small group preparing
-  for an upcoming gathering, likely the August 2015 Gibsons Retreat.
-  Augustine speaks directly about Al Fike's mediumship gifts reaching a
-  new level, with preparation made "down to the cellular structure" of
-  his brain. Personal references to Al Fike noted; questions reframed
-  universally.
+  Message addressed to a small group preparing for an upcoming gathering,
+  likely the August 2015 Gibsons Retreat. Augustine speaks directly about
+  Al Fike's mediumship gifts reaching a new level, with preparation made
+  "down to the cellular structure" of his brain. Personal references to Al
+  Fike noted; questions reframed universally.
 essential_teachings: []
 language: en
 excerpt: >

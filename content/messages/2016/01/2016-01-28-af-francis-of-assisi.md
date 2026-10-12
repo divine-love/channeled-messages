@@ -54,11 +54,10 @@ door: >
 collections: ["Letters from History", "The Saints & Apostles Speak"]
 essential_teachings: ["Spirit Biography"]
 notes: >
-  Francis of Assisi gives first-person testimony of his Earth life: communing
-  with animals and plants, and walking to many places reaching out to many souls
-  in a humble life. He names Jesus as head of the Celestial Heavens. Transcription
-  artifact corrected silently: "to each one., eEach" to "to each one. Each". Not
-  publicly posted online.
+  Francis of Assisi gives first-person testimony of his Earth life: communing with
+  animals and plants, and walking to many places reaching out to many souls in a
+  humble life. He names Jesus as head of the Celestial Heavens. Transcription
+  artifact corrected silently: "to each one., eEach" to "to each one. Each".
 last_edited: 2026-06-26
 ---
 
