@@ -1185,7 +1185,10 @@ message_ids already carry the dates.
   participation in a service whose doctrine the servant believes false, with
   humility redefined as that acceptance; 2016-11-28-af-moses, the cost as a
   loss rather than a diagnosis, "When you push your brothers and sisters away
-  in judgement or fear, you push God away, you push love away."
+  in judgement or fear, you push God away, you push love away";
+  2018-03-02-af-andrew, non-judgment given as his own example, "I could judge
+  my brother for what he did... but where would that thought originate? Not of
+  the soul."
   Fences. Against `self-love-foundation`: that thread argues that you cannot
   love others while condemning yourself; this one is about what to do with the
   impulse to judge. The two meet at the Foundation, which also carries a
@@ -1294,6 +1297,8 @@ message_ids already carry the dates.
   and distorted as it passes into the material mind; 2017-08-21-af-matthew,
   soul-knowing arriving as feeling because the whole soul is engaged in it;
   2018-03-02-af-andrew, impressions coloured by the receiver's own condition;
+  2018-11-28-af-augustine, the soul absorbing truth where the mind constructs
+  it, with resonance in the soul as the test for what others say;
   2019-01-31-af-yogananda, the soul knowing truth where the mind perpetuates
   error; 2019-02-01-af-josephus, the faculties experienced rather than
   understood; 2019-02-18-af-augustine, turned toward perceiving the angels.
@@ -1329,10 +1334,12 @@ message_ids already carry the dates.
   doctrine invites, "There is no formula for this. There is no standard."
   2018-06-18-af-matthew answers the fear that the shift is a kind of madness,
   conceding the other side of the case rather than dismissing it.
-  Reframe. 2018-05-17-af-augustine corrects the misreading that the soul is
-  to replace the mind: soul predominance in harmonious intermingling, the
-  yellow and the red making an orange. Clear this before the Chrysalis
-  section, which does not read correctly without it.
+  Reframe. 2018-05-17-af-augustine corrects the misreading that the soul is to
+  replace the mind: soul predominance in harmonious intermingling, the yellow
+  and the red making an orange. Clear this before the Chrysalis section, which
+  does not read correctly without it. From the same spirit,
+  2015-05-18-af-augustine asks the human part to "essentially fall away,"
+  which this Reframe refines.
   Chrysalis, anchor: 2018-10-09-af-seretta-kem, the two minds merging until
   "there will be no sense of separation," with oneness denied the status of an
   ending, "even this is not the end but merely the beginning." Section member:
@@ -1344,10 +1351,12 @@ message_ids already carry the dates.
   for any new idea, "how does this increase the love in my life."
   Double roles on separable passages: 2017-08-21-af-matthew,
   2018-06-18-af-matthew, 2018-10-09-af-seretta-kem.
-  Witnesses. What the mind is: 2016-07-11-af-confucius, the durability claim,
-  and 2016-10-16-af-augustine, the provenance of the mind's contents traced
-  to other people's ideas arriving through education, with the consequence
-  that inaccurate perception yields inaccurate choice. Governance:
+  Witnesses. The premise: 2015-05-18-af-augustine, the two selves stated
+  pastorally. What the mind is: 2015-05-11-af-andrew, the mind's limit as a
+  missing dimension; 2016-07-11-af-confucius, the durability claim; and
+  2016-10-16-af-augustine, the provenance of the mind's contents traced to
+  other people's ideas arriving through education, with the consequence that
+  inaccurate perception yields inaccurate choice. Governance:
   2016-10-24-af-confucius, the agency axis restated, and
   2019-01-21-af-augustine, the succession stated as humanity's next step, the
   same claim as 2016-08-31-af-martin-luther. How the soul knows:
@@ -1779,11 +1788,14 @@ message_ids already carry the dates.
   have within you a compass." The preparation is therefore inner rather than
   informational, which clears the expectation that being a rock depends on
   knowing the future.
-  Witnesses. 2016-09-05-af-andrew, with the widening detail that others
-  unknown are coming to join the work; 2016-09-06-af-mary, which names
-  at-onement specifically as the qualifying condition, more doctrinally
-  precise than the thread's usual framing; 2016-10-15-af-seretta-kem, the
-  readying strand of an earth-changes message, carried with the fence.
+  Witnesses. 2015-05-18-af-augustine, readiness for what is coming tied to the
+  soul's strength, "if you cannot rise above this to that soulful awareness,
+  you will have great difficulties adjusting and dealing with what is to
+  come"; 2016-09-05-af-andrew, with the widening detail that others unknown
+  are coming to join the work; 2016-09-06-af-mary, which names at-onement
+  specifically as the qualifying condition, more doctrinally precise than the
+  thread's usual framing; 2016-10-15-af-seretta-kem, the readying strand of an
+  earth-changes message, carried with the fence.
   Structural note: the fence is that a message must carry the readying itself,
   God's preparation of a soul for what is coming, and not merely the coming
   changes or a general call to grow. It is not that the message must contain a
@@ -2123,7 +2135,9 @@ message_ids already carry the dates.
   consequence attached, "it really is so very simple and as you live this
   simple life all the complexities will fall away or fall into place";
   2016-11-26-af-andrew, "It is so simple, my beloveds, so simple," with the
-  manner named as innocence, simplicity and grace.
+  manner named as innocence, simplicity and grace; 2018-11-28-af-augustine,
+  "Yes, it is a simple path, is it not? It is not adorned with many complex
+  ideas and this is for a reason."
   Witnesses, where the complication is located. 2016-09-04-af-augustine
   forbids argument itself rather than complexity, "Do not argue with others.
   Be sure of the Love. Do not express contrary opinions, but be sure in the
@@ -2276,13 +2290,16 @@ message_ids already carry the dates.
   Witnesses, knowing arriving through growth. 2015-09-21-af-mary has each soul
   carry a unique purpose and Light, the gifts awaiting the transformation of
   consciousness into soul awareness, with God's Love flushing away whatever
-  obscures the knowing, tagged [back-search] and provisional until confirmed at
-  full text; 2015-10-26-af-faith-nyquist states the claim in its opening line,
-  "every soul must take its unique journey, an enfoldment and an unfolding of
-  his path and purpose... as the soul becomes infused with the Father's Love and
-  your Gifts emerge accordingly"; 2016-09-03-af-james has knowing what to do
-  arrive as a by-product of the soul's growth, "what is necessary and required
-  will be obvious as you look at the world through the eyes of your souls";
+  obscures the knowing, tagged [back-search] and provisional until confirmed
+  at full text; 2015-10-26-af-faith-nyquist states the claim in its opening
+  line, "every soul must take its unique journey, an enfoldment and an
+  unfolding of his path and purpose... as the soul becomes infused with the
+  Father's Love and your Gifts emerge accordingly"; 2015-12-14-af-augustine,
+  "each soul is imbued with a great purpose which is reflected by the many
+  Gifts which God has given you," known through the soul enlivened by the
+  Love; 2016-09-03-af-james has knowing what to do arrive as a by-product of
+  the soul's growth, "what is necessary and required will be obvious as you
+  look at the world through the eyes of your souls";
   2016-09-06-af-joseph gives the mechanism in compact form, "The understandings
   that God has placed within your souls will emerge into your consciousness and
   be your guiding grace," and puts the answer inside the prompting rather than
@@ -3098,16 +3115,16 @@ Larger structural questions to revisit when building begins.
 
 - **Messages that may need anchoring below the whole message.** Some long
   teaching messages move through several distinct ideas, which breaks the
-  assumption that a whole message is the unit (for example the Augustine "All
-  Truth Comes from the Soul" pieces). Known case: 2015-03-24-af-augustine
+  assumption that a whole message is the unit. Known case: 2015-03-24-af-augustine
   ("There Is Fate and Yet There Is No Fate") moves through fate and free will,
   the laws of cause and effect, angelic orchestration through circuitous
   routes, the willing soul as treasure, and the invitation to lost souls. It
   is anchored in `free-will-and-gods-plan` as Foundation, but its material
   close to the bell-toll thread and its "seek ye the Heavenly Father" material
-  may belong to other threads below the message level. The same message holds
-  more than one `free-will-and-gods-plan` Foundation line in the log, which is
-  the same question from the other side. Note other cases as they are found.
+  may belong to other threads below the message level. Its several
+  `free-will-and-gods-plan` Foundation lines are covered by the log's rule for
+  repeated lines (one role, passages read in order). Note other cases as they
+  are found.
 
 - **`[back-search]` entries** need their roles confirmed at full text before
   chains are finalised, anchors and presumptive anchors first.
