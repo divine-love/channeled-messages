@@ -3085,24 +3085,24 @@ message gives them an argument to trace.
   summary of three arguments. Needs a second message that narrates the same
   lost-found-lost-found shape before that can be judged.  
 - `short-life-long-road`, the choices of a short life on Earth have a great
-  bearing on the soul's journey in spirit, more than most people know: they
-  set where the soul begins and how long its road is from there. A lifetime of
-  choices made in ignorance can mean a very long journey toward the lighter
-  realms, especially on the natural love path, while a life in which the soul
-  prays for Divine Love builds "a wonderful heritage of Light". Seen:
-  2016-05-02-af-andrew ("your journey of life upon this Earth-plane is short
-  but has a great bearing upon where you will continue life in spirit");
-  2019-02-10-af-augustine ("you are destined to enter some place in this world
-  of spirit that is determined by the condition of your soul", a place that
-  "will reinforce your own condition"). Read with 2019-01-31-af-yogananda, who
-  says progression in spirit "can be swift indeed once there is a desire and
-  the knowledge to do so": the two agree, since the road is swift for the soul
-  that knows the way and long for the soul that arrives without it. Fenced
-  from `death-transition`, which is about what death is; from `two-paths`,
-  which is about the two destinations; and from `redemption-universal`, which
-  is about every soul arriving in the end. This candidate is about how the
-  choices of an Earth life set the length of the road. Mint when a message
-  builds this into an argument rather than stating it.
+  bearing on the soul's journey in spirit: they set where the soul begins and
+  how long its road is from there. A lifetime of choices made in ignorance can
+  mean a very long journey toward the lighter realms, especially on the
+  natural love path, while a life in which the soul prays for Divine Love
+  builds "a wonderful heritage of Light". Seen: 2016-05-02-af-andrew ("your
+  journey of life upon this Earth-plane is short but has a great bearing upon
+  where you will continue life in spirit"); 2019-02-10-af-augustine ("you are
+  destined to enter some place in this world of spirit that is determined by
+  the condition of your soul", a place that "will reinforce your own
+  condition"). Read with 2019-01-31-af-yogananda, who says progression in
+  spirit "can be swift indeed once there is a desire and the knowledge to do
+  so": the two agree, since the road is swift for the soul that knows the way
+  and long for the soul that arrives without it. Fenced from
+  `death-transition`, which is about what death is; from `two-paths`, which is
+  about the two destinations; and from `redemption-universal`, which is about
+  every soul arriving in the end. This candidate is about how the choices of
+  an Earth life set the length of the road. Mint when a message builds this
+  into an argument rather than stating it.
 
 ---
 
