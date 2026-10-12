@@ -509,6 +509,50 @@ message_ids already carry the dates.
   be a witness rather than a member, since it shows the conduit relationship
   without denying scriptural status.
 
+- `death-transition`: running from the fear of death to death as a change of
+  conditions, and from where a soul arrives to how far it can go.
+  Foundation, anchor: 2018-07-19-af-matthew. Death is a change of conditions
+  and nothing more, "the transition to the world of spirit will be celebrated,
+  a changing of the conditions in which a soul lives and operates, which is
+  the truth. It is nothing more than this." The fear belongs to the mind,
+  "much of this comes from the mind, beloved souls, the mind that is so
+  reliant upon the five senses of the body," and the self crosses whole, "All
+  that you are beloved souls, without your physical bodies, is the same as you
+  are now. It does not diminish or disappear," within a progression that for
+  the soul seeking God's Love has no limit.
+  Elaborations. 2015-10-26-af-aman has the change as one of conditions rather
+  than of kind, "When the soul sheds its body of flesh is there such a great
+  difference in existence? No, my beloveds, it is merely a transition," the
+  lower planes close to earthly life and existence growing "more ethereal" as
+  the soul purifies; 2019-02-10-af-augustine supplies where a soul arrives,
+  "By the Laws of Creation, you are destined to enter some place in this world
+  of spirit that is determined by the condition of your soul," a place that
+  "will reinforce your own condition, your own level of light";
+  2019-04-08-jw-yogananda turns the grief around, "it is we who grieve. It is
+  our loss but their gain," with the bond continuing, the departed coming when
+  called and thought of.
+  Testimony: 2019-04-08-mc-mary, a soul newly passed sending word back through
+  Mary, personality intact, already "in a beautiful place," with the
+  continuing bond made concrete, "Only think of me and I am there." Given in
+  the same circle as 2019-04-08-jw-yogananda: one teaches that the departed
+  progress in realms of light, the other shows one doing it.
+  Witnesses, the soul's condition deciding its place. 2016-05-02-af-andrew,
+  "your journey of life upon this Earth-plane is short but has a great bearing
+  upon where you will continue life in spirit"; 2016-05-11-af-james-padgett,
+  the starting plane set by soul condition; 2018-05-12-af-luke, the same as
+  preparation in this life, "so that you will progress into higher spheres
+  when that time comes of your passing to spirit."
+  Witnesses, the transition lived. 2016-11-27-af-james-reid, a report from the
+  fifth sphere, "I am very happy in the realms of spirit," with an invitation
+  to join him there; 2018-09-29-af-goldie, a memorial at which a passing is
+  called a birth, "celebrating the birth of Vicky into the world of spirit."
+  Fences. Against `reincarnation-progression`: that thread is that the soul
+  takes flesh once and does not return; this one is what dying is and what
+  follows it. Against `two-paths`: that thread is which road a soul takes;
+  this one is the crossing itself, on either road. Against `soul-expiation`:
+  what a soul carries across is that thread's subject; here it matters only
+  for where the soul begins.
+
 - `divine-love-healing`: running from the superlative claim and its reach to
   the ground the primacy rests on.
   Foundation, presumptive anchor: 2015-03-29-af-seretta-kem. Seretta Kem
@@ -1994,6 +2038,43 @@ message_ids already carry the dates.
   reception without recognising it; this one is reception after refusing it.
   What is awaited: a message that argues that hell is not eternal and that the
   dark spheres are a condition and not a sentence.
+
+- `reincarnation-progression`: running from why a soul takes flesh once to the
+  planes it grows through afterwards, and why the belief in many lives
+  persists.
+  Foundation, anchor: 2015-10-26-af-aman, an answer to a woman in the circle
+  who believes in reincarnation, given as testimony by the first parent, "I
+  have never observed a spirit returning to this Earth in the flesh," with its
+  limits stated. The positive doctrine replaces the belief: souls pre-exist,
+  and the one incarnation individuates them, "The earth plane is but one plane
+  of existence. Its function, primarily, is to give a soul identity for there
+  is a pre-existence of souls," after which growth continues in spirit, "there
+  are many more lives to live in spirit as you pass from one plane to
+  another," and "never more will you dwell in the flesh once you walk upon
+  this Path Divine."
+  Elaboration. 2016-03-29-af-james gives the same purpose as the gift of life
+  rather than as a rebuttal, "a soul incarnates into the world so that it may
+  acquire identity, a sense of self, personality and expression of their
+  soul," passing through this plane "very briefly" as "the first step in the
+  flow of life that goes on and on."
+  Objection-removed: 2019-01-31-af-yogananda clears the experience that seems
+  to prove reincarnation by explaining it: spirits of the same belief are
+  drawn close by the Law of Attraction, "these spirits may come so close that
+  the mortal believes they are one and the same as that individual."
+  Testimony: 2018-11-22-af-yogananda, the progression told from the inside,
+  from the 4th sphere through the Natural Heavens, where "I was merely on the
+  doorstep to heaven," to the Celestial Kingdom once he "released my erroneous
+  beliefs."
+  Witness. 2019-04-01-jw-yogananda, the belief dropped in spirit once he found
+  that among his loved ones and the ancient teachers "NONE of them had ever
+  had any experience of reincarnation on earth."
+  Fences. Against `religious-error`: Yogananda's corrections of his own
+  tradition are Testimony there, as a teacher testifying against what he
+  taught; here the subject is the doctrine itself, one incarnation and
+  progression through the planes. Against `death-transition`: that thread is
+  what dying is; this one is that it happens once. Against `two-paths`: the
+  planes here are the course of growth after death; there they mark how far
+  each road reaches.
 
 - `religious-error`: running from
   specific doctrinal corrections to the faculty that replaces reliance on the

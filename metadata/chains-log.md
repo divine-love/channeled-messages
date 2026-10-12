@@ -1245,7 +1245,7 @@ are built.
 - NOTE (pattern, described and not penned): the lattice of Light named as the structure portals connect to and feed; the lattice material remains its own layer, recorded so the join is findable.
 
 ### 2018-11-22-af-yogananda | Yogananda Describes His Journey Through the Spheres Towards the Celestial Heavens | 2018-11-22
-- `reincarnation-progression` **[Testimony]** : First-person account of progressing 4th sphere -> Celestial Kingdom after releasing Eastern beliefs; demonstrates the progression Aman describes, from the inside.
+- `reincarnation-progression` **[Testimony]** : the progression the Foundation describes, told from the inside. He arrived in spirit with the ideas of the Eastern religions, "upon my passing I came to the 4th sphere and found many wonderments, experiences within that sphere that satisfied the edicts of my mind and my religious ideas," then rose through the 5th, 6th and 7th, "a sphere of the Natural Heavens. I thought I had achieved my goal of knowing heaven, but alas, it became evident quite quickly that I was merely on the doorstep to heaven," and crossed into the Celestial Kingdom once he "released my erroneous beliefs." Growth through the planes of spirit, with no return to the flesh.
 - `two-paths` **[Testimony]** : Lived witness that the natural love spheres are real but not the summit; only Divine Love crosses into the Celestial.
 
 ### 2018-11-26-af-jesus | Clarification on the Existence of Jesus | 2018-11-26
@@ -1323,7 +1323,7 @@ are built.
 - `mind-vs-soul` **[Elaboration]** : The mind can restrict and constrict the inflowing of Love; the soul receives on its own accord.
 
 ### 2019-01-31-af-yogananda | Reincarnation and the Perception of It Proliferated by Many Yogis and Gurus of the East | 2019-01-31
-- `reincarnation-progression` **[Objection-removed]** : Explains WHY people believe in reincarnation (Law of Attraction drawing like-believing spirits into close rapport), clearing the experiential evidence that seems to support it. Pairs with Aman's foundation.
+- `reincarnation-progression` **[Objection-removed]** : clears the experience that seems to prove reincarnation by explaining where it comes from: spirits of the same belief are drawn close by the Law of Attraction, "The beliefs are reinforced because they draw to them those spirits with the same beliefs. Indeed they feel as if they have been a part of that personality that comes," and "these spirits may come so close that the mortal believes they are one and the same as that individual." Pairs with Aman's Foundation.
 - `mind-vs-soul` **[Elaboration]** : Reinforces that the soul knows truth where the mind perpetuates error.
 - `religious-error` **[Testimony]** : Yogananda on his own tradition's perpetuated error: taught reincarnation from a young age as part of his culture, believed and reinforced it through his spiritual pursuits, and corrects it now from spirit. Extends the thread's reformer arc beyond Christianity for the first time.
 
@@ -1419,6 +1419,7 @@ are built.
 - NOTE (context): a message from medium Rev. Jimbeau Walsh, with rich medium biography: the two religious mothers, priest-versus-guru training, 1960s counterculture and esoteric study, the soulmate "Care," thirty years with Padgett's writings.
 - NOTE (sighting, `divine-love-without-knowing`): Yogananda "knew of this Love too but within the confines... of Hinduism."
 - NOTE (sighting, `who-jesus-was`): Jesus "the highest soul in God's kingdom."
+- NOTE (witness, `reincarnation-progression`): the correction from the spirit side, his guru's teaching dropped once he found that among his loved ones and the ancient teachers "NONE of them had ever had any experience of reincarnation on earth."
 
 ### 2019-04-03-af-joseph | The Gift of Divine Love Is the Greatest Truth You May Know | 2019-04-03
 - `who-jesus-was` **[Testimony]** : Joseph, the earthly father, testifies that during his Earth life he did not understand his son's mission or the power of the Love, and proclaims Jesus as the Messiah "not just the Messiah for the Jews but for all of humanity," who "opened the doors to this gift." Read beside 2016-03-31-af-judas, a disciple who could not work him out at the time, and 1963-12-26-ds-mary, a mother correcting the record of her own son, the three carry the thread's why-the-record-went-wrong step: the people closest to him did not understand him while he lived.
