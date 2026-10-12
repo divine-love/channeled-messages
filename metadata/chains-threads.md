@@ -318,10 +318,12 @@ message_ids already carry the dates.
   all eternity," and it supplies the loving-across-difference entry point,
   greeting the soul rather than the surface so that God weaves the
   connections into a tapestry.
-  Capstone, anchor: 2018-09-01-af-augustine, the full form, every
-  Divine-Love-bearing soul sending out a signal of light like a tolling bell
-  even in idle silence at home, inseparable from the soul. -- the Capstone
-  role is provisional; confirm against full text when building.
+  Capstone, anchor: 2018-09-01-af-augustine, the full form, in the thread's
+  own image, "As you walk in the world a bell tolls with your presence," the
+  signal going out even in idle silence at home, "It is with you. It is always
+  with you for it is truly a part of you," and growing with prayer, "calling
+  your brothers and sisters to prayer, stimulating that part of their souls
+  that longs for God."
   Witnesses. 2015-10-26-af-faith-nyquist, 2016-03-31-af-judas,
   2016-04-12-af-moses, 2016-09-06-af-joseph, 2016-10-17-af-keea-atta-kem,
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
@@ -621,13 +623,15 @@ message_ids already carry the dates.
   Jesus' name are from Jesus, naming widespread impersonation in the spirit
   world and well-meaning mediums influenced unawares.
   2019-01-30-af-seretta-kem clears the belief that Jesus can be summoned on
-  demand or claimed as any individual's exclusive guide.
+  demand or claimed as any individual's exclusive guide, "Jesus assigns these
+  guides in his wisdom," with humility as the condition of genuine
+  communication.
   Testimony. 2019-01-30-af-jesus grounds the thread experientially: no medium
   is one hundred percent accurate, the harmonisation of mind and soul bears
   directly on the quality of a celestial message, and excessive mental
   expectation draws eager higher spirits mistaken for Celestials. It also
-  carries the archive's key statement on the instrument, and on how a channel
-  is designated by soul progression rather than by the mind's ambition.
+  speaks to the instrument, and to how a channel is designated by soul
+  progression rather than by the mind's ambition.
   2016-05-11-af-james-padgett testifies to authorship rather than reception,
   "written by me, but not of me, but by spirit who used me... in ways similar
   to that way I use this instrument", drawing the line from the archive's
@@ -1423,6 +1427,9 @@ message_ids already carry the dates.
   human and undirected, and it is in scope: a servant's exposure to scorn is
   one of the three directions the opposition comes from, alongside the
   organized forces and the energies drawn by the seeker's own reactivity.
+  2018-09-01-af-augustine gives the same split reaction to the light itself,
+  "Some are intrigued, while others respond with suspicion, some with anger
+  because you challenge the world."
   Witness, the defence without an account of what opposes.
   2016-09-03-af-mary asks protection for a third party rather than mounting it
   as the seeker, "ask for the cloak of protection to surround her and those who
@@ -2021,7 +2028,10 @@ message_ids already carry the dates.
   his own published books, "I desire to rectify the error... and to bring the
   Truth of Divine Love in these teachings."
   Witnesses. 2016-09-02-af-jesus, the worship-misdirection facet;
-  2016-09-10-af-augustine, the corrected term given positive content.
+  2016-09-10-af-augustine, the corrected term given positive content;
+  2018-11-26-af-jesus, error entering through well-meaning mediums, who have
+  "brought forth many errors within the Bible, many errors in doctrines of
+  religion."
   Considered and not logged: 2016-03-25-af-mary gestures at the territory,
   "the distortions that have gone through the centuries creating great myths
   and errors" about Jesus' message, but only invokes it, correcting no
@@ -2322,7 +2332,9 @@ message_ids already carry the dates.
   purpose has already been seen and what unfolds slowly is the growth into it;
   2016-10-15-af-confucius, "the dawning awareness that there is a purpose for
   each one of you," paired with a place in a collective work, "you will find
-  your place within this work."
+  your place within this work"; 2019-01-30-af-seretta-kem, the purpose as a
+  commitment made before birth that the soul still knows, "your commitment in
+  this regard was made before you came to Earth... and that your soul knows."
   Fences. Against `free-will-and-gods-plan`: that thread asks whether free will
   and God's plan conflict; this one asks how a soul's unique purpose surfaces.
   The Foundation touches both and is reducible to neither. Against
@@ -2333,8 +2345,10 @@ message_ids already carry the dates.
   What is awaited. Two scope questions the witnesses raise. Whether the thread
   covers growing into a purpose already known, as at
   2016-09-11-af-francis-of-assisi, as well as coming to know it. And whether a
-  place within a collective work, as at 2016-10-15-af-confucius, belongs here or
-  to `vanguards-of-change`.
+  place within a collective work, as at 2016-10-15-af-confucius, belongs here
+  or to `vanguards-of-change`. And whether a commitment made before birth, as
+  at 2019-01-30-af-seretta-kem, belongs in the thread's account of where the
+  purpose comes from.
   Structural note: 2015-08-17-af-peter does not take the anchor, for two
   reasons the text supplies. He does not carry the free-will step: where the
   anchor has an invitation free will may decline, Peter has incapacity, "for
