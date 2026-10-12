@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-10-11
+last_updated: 2026-10-12
 ---
 
 # Browse All Messages
@@ -420,7 +420,7 @@ last_updated: 2026-10-11
 | [Law of Compensation: Natural Compared with the Divine Path](messages/2018/05/2018-05-12-af-luke.md) | [Luke](../spirits/luke.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑12 | The Law of Compensation insists that every dark condition in your soul be reconciled and brought to Light. Divine Love does this not consciously but as a reflexive response to God's Touch within you |
 | [60/40 Soul Mind Guidance](messages/2018/05/2018-05-17-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑17 | The goal is not soul or mind. It is a beautiful orange - predominantly soul, but with the mind mixed in to create something harmonious and whole |
 | [Make Arrangements to Come Together](messages/2018/05/2018-05-20-af-keea-atta-kem.md) | [Keea Atta Kem](../spirits/keea-atta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑20 | When you are together in love and harmony, sitting and praying in the flesh, the possibilities of awakening are far greater than when you are apart |
-| [Awaken to the Greater Love](messages/2018/05/2018-05-21-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑21 | Those parts of you that have lain dormant for many years are now eager for the light of day. They come from your soul |
+| [Awaken to the Greater Love](messages/2018/05/2018-05-21-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑21 | What has lain dormant in you for years is not lost. It is eager for the light of day. |
 | [Live Each Day in the Flow of God's Will and Love for You](messages/2018/05/2018-05-28-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑28 | Do not place before you any restrictions as to where God will take you. Live each day in the flow and beauty of His Will |
 | [Be Part of the Plan for the Salvation of Mankind](messages/2018/05/2018-05-28-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑28 | You just begin this journey. And yet already you are part of a great association of souls of Light coalescing into a movement that will push back the darkness |
 | [Receiving the Love of God Brings Both Pain and Joy](messages/2018/05/2018-05-28-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2018‑05‑28 | The innocent child knows its own soul naturally. Then the world buries it. Your whole spiritual journey is simply learning to find it again |
