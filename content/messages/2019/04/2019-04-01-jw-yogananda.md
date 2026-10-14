@@ -54,7 +54,7 @@ excerpt: >
 door: >
   The guru spent a lifetime teaching reincarnation. Death was where he learned it was never true.
 collections: ["Letters from History"]
-last_edited: 2026-10-12
+last_edited: 2026-10-13
 ---
 
 My dear boy, my dear friend, I wish to start at the beginning as this seems the best place to begin.
