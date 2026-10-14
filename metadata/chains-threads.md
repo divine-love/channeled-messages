@@ -325,7 +325,7 @@ message_ids already carry the dates.
   Witnesses. 2015-10-26-af-faith-nyquist, 2016-03-31-af-judas,
   2016-04-12-af-moses, 2016-09-06-af-joseph, 2016-10-17-af-keea-atta-kem,
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
-  2019-01-21-af-augustine.
+  2016-11-28-af-seretta-kem, 2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while
   2016-08-02-af-augustine grounds the toll in active expression, "It matters
@@ -1798,7 +1798,12 @@ message_ids already carry the dates.
   a spirit-side company gathered around the praying circle and touched by it,
   "so we gather many souls on our side of life, vastly more than are in the
   flesh," which sits nearer the lattice material than the thread's outward
-  mechanism; 2019-02-06-af-francis-of-assisi states the argument strongly
+  mechanism; 2016-11-28-af-seretta-kem runs the route along bonds of love,
+  "From each one of you a great network of light extends out to those you
+  love," multiplied "exponentially" when the circle gathers, and sees the same
+  spirit company at the circle, the ancestors of those prayed for "observing
+  and being taught the way of God's Love"; 2019-02-06-af-francis-of-assisi
+  states the argument strongly
   without developing it, "Prayer can change conditions.
   Prayer can change the behavior of those who violate and are in ignorance and
   error."
@@ -2664,7 +2669,10 @@ message_ids already carry the dates.
   it; you have seen it and you will express it but you must continue to grow
   and to grow into this role," where what unfolds slowly is the growth into
   the purpose rather than the knowing of it.
-  Witnesses, where the purpose comes from. 2019-01-30-af-seretta-kem, the
+  Witnesses, where the purpose comes from. 2016-11-28-af-seretta-kem, the
+  purpose given by God and left to the soul to find, "God has a plan and
+  purpose for each one of you. It is for you to discover this."
+  2019-01-30-af-seretta-kem, the
   purpose as a commitment made before birth that the soul still knows, "your
   commitment in this regard was made before you came to Earth... and that your
   soul knows." 2016-03-18-af-john-the-beloved carries the same choice before
@@ -2909,7 +2917,10 @@ message_ids already carry the dates.
   2016-08-25-af-matthew, the innateness denial stated and not developed;
   2016-08-27-af-brother-mandus, the two loves named without ranking, either
   one dispersing "those clouds of the human condition"; 2016-09-08-af-jesus,
-  the choice put as a formal question with two named alternatives.
+  the choice put as a formal question with two named alternatives;
+  2016-11-28-af-seretta-kem, both roads named as roads to the light, "Be it
+  upon the path of the Natural Love or the path of God's Divine Love, but
+  choose they must a path to the light."
   Structural note: the Capstone section has two candidates and the choice is
   only the anchor, since both belong in the section either way.
   2016-05-02-af-andrew holds it, stating the fork as a choice, carrying the
@@ -3177,7 +3188,10 @@ only stating it.
   (with the incremental arc), 2016-09-02-af-confucius, and
   2016-09-03-af-james, which states both directions in one message, "the world
   will continue to darken to the point that all will unravel" set against
-  "This tiny droplet of Light will expand and expand". Mint when a message
+  "This tiny droplet of Light will expand and expand"; and
+  2016-11-28-af-seretta-kem, with the circles' gathered prayer as what carries
+  the change, "to continue the momentum of this great force of change that is
+  coming to the world". Mint when a message
   develops the two-currents framing rather than restating it.
 - `affect-as-soul-marker`, an inner feeling given by the Love, such as joy or
   peace, as a sign by which the soul's condition can be known. The candidate
@@ -3436,8 +3450,14 @@ Larger structural questions to revisit when building begins.
   governing variable, which is the bell-toll thread's own move. Neither breaks
   the direction, but the fence will need a sentence about intercession aimed
   at one person, which belongs to the prayer thread by intent while looking
-  person to person by scale. The lattice of Light (see Patterns) is a third
-  direction that belongs to neither.
+  person to person by scale. 2016-11-28-af-seretta-kem tests it in a
+  different way: one sentence runs from what goes out from each person to the
+  group multiplying it, "So much extends and expands out from each one of you
+  and when you come together in groups, you increase the power of this
+  exponentially." The direction splits the sentence at the "and", but what is
+  multiplied is the same thing that went out, so the fence will also need to
+  say how one flow is divided between the two threads. The lattice of Light
+  (see Patterns) is a third direction that belongs to neither.
 
 - **Consequences of two promotions.** 2016-09-09-af-andrew is an Elaboration
   in `simplicity-of-the-path`, and 2016-09-04-af-john-the-beloved is an

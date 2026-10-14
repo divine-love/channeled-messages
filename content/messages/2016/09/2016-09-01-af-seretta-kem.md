@@ -42,6 +42,7 @@ questions:
   - "What does the Bible mean by seek ye first the Kingdom of Heaven?"
 related_messages:
   - 2016-07-25-af-seretta-kem
+  - 2016-11-28-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -55,7 +56,7 @@ door: >
   Praying together does not divide the blessing between you. It multiplies
   what each one of you receives.
 collections: ["Awakening Humanity", "Service & Mission"]
-last_edited: 2026-08-06
+last_edited: 2026-10-13
 ---
 
 And may the Father’s Love find a constant inflowing into your souls that that Light might burn brighter and brighter till it is bright like the sun, illuminating all that which is around you, beloved souls. For God’s Love is unlimited, the capacity to receive this Love is unlimited, only restricted by your own desires and longings. The more passionate you are to receive this gift the greater will be the inflowing of this blessing. And so it is in a group of souls praying together, it is your longing, your passion, your focus, and your efforts to receive and to be in harmony together to create those conditions amongst you that draws this great blessing to you. And the great benefit of group prayer is how the longing, the desire is multiplied by each individual coming together, harmonizing and resonating with one another. And in this way a great inflowing is possible for each one of you. You benefit from the prayers of your brothers and sisters who join you. You come to a place of harmony and so the energy of the group, the flow of that energy within a group generates the conditions required for these great blessings to be given.
