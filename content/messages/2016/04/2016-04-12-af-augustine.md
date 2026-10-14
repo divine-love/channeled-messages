@@ -42,6 +42,7 @@ related_messages:
   - 2015-09-27-af-augustine
   - 2015-12-14-af-augustine
   - 2016-04-04-af-jesus
+  - 2016-11-29-af-care
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/expectations-of-the-mind-on-releasing-control/"
 notes: ""
@@ -53,7 +54,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   Think how much freedom you will obtain by simply letting go
-last_edited: 2026-08-19
+last_edited: 2026-10-13
 ---
 
 God bless you, it is your teacher Augustine.

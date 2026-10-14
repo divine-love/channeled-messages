@@ -200,7 +200,7 @@ message_ids already carry the dates.
 | `simplicity-of-the-path` | Simplicity as the effective register of the path and its ministry | The Divine Love path is inherently simple and complication is human-made → the simple register is what actually reaches the soul, and esoteric complexity has no effect (the failure mode) → lived simply, the complexities fall away or fall into place → the scope covers both the walking and the speaking: the seeker's life and the servant's ministry | Walking the Divine Path; Service, Ministry & Being a Channel of Love |
 | `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions → these block the inflowing of Love → expiation alternates joy and the surfacing of buried pain → Divine Love washes through and cleanses where effort alone cannot → the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
 | `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) → these are unique to each soul and must be experienced to be understood → Divine Love opens the chambers and refines each faculty | Soul Awakening; Nature of the Soul; Prism of the Soul |
-| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God designs a unique purpose for each soul and gives the gifts to fulfil it, and the soul's commitment to it is made before birth -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as Divine Love awakens the soul and its gifts become self-evident, and where it has already been seen the soul still grows into it -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
+| `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God designs a unique purpose for each soul and gives the gifts to fulfil it, and the soul's commitment to it is made before birth -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as the soul awakens and its gifts become self-evident, on the natural love path as well as the Divine, with Divine Love making it clearer where it is received, and where it has already been seen the soul still grows into it -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
 | `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
 | `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
 | `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → natural love is itself a gift from God and its road leads to real harmony and joy, so the roads differ in how far they reach, not in whether the love is good → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
@@ -1012,7 +1012,8 @@ message_ids already carry the dates.
   understand it; 2016-09-05-af-andrew, the willing soul as the means;
   2016-10-15-af-confucius, "though within your minds you do not see the
   plan"; 2016-10-19-af-goldie, the plan asserted at the level of the
-  individual; 2018-11-29-af-abdullah-latif, the limit on intercession.
+  individual; 2016-11-29-af-care, letting God plan rather than planning for
+  Him; 2018-11-29-af-abdullah-latif, the limit on intercession.
   Structural note: the Foundation section holds more than one role from the
   same message, which the revised section structure allows, and
   2015-03-24-af-augustine is the anchor as the message that states the premise
@@ -2627,7 +2628,13 @@ message_ids already carry the dates.
   of gifts to yourself and the greatest gift of all is God's Love which
   ignites further aspects of your identity with the Gifts inherent within your
   soul," where 2019-01-29-af-augustine stresses the slow gravitation toward
-  one's purpose; 2019-02-03-af-andrew restates the Foundation's claim as its
+  one's purpose; 2016-11-29-af-care says how quickly the purpose is revealed
+  and what holds it back: the plan opens like a rose "one petal at a time,"
+  so that "Every day you will come to know a little more," and the mind's
+  expectations divert it, "if you decide to plan for God, you will divert
+  your efforts," with a plan "for each one of you and all of you together"
+  that sits close to the fence with `vanguards-of-change`;
+  2019-02-03-af-andrew restates the Foundation's claim as its
   companion, true self and true purpose coming not as a sudden revelation "but
   comes with the slow awakening and expression of your soul within your lives
   until you find yourself walking upon a path that is truly in harmony with
@@ -2697,6 +2704,11 @@ message_ids already carry the dates.
   What is awaited: a message that develops the commitment made before birth,
   which the thread's account of where the purpose comes from includes and
   which 2019-01-30-af-seretta-kem states in passing.
+  Structural note: the purpose can surface on the natural love path as well
+  as the Divine, so the registry does not make the Love its cause. Members
+  that name the Love give it as what makes the purpose clearer,
+  2015-08-17-af-peter and 2016-11-06-af-jesus among them;
+  2016-11-29-af-care has the plan unfold petal by petal without naming it.
   Structural note: 2015-08-17-af-peter does not take the anchor, for two
   reasons the text supplies. He does not carry the free-will step: where the
   anchor has an invitation free will may decline, Peter has incapacity, "for
