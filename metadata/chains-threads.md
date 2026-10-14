@@ -3364,12 +3364,14 @@ only stating it.
   always, embrace always, and when another refuses your embrace say a prayer
   for them and move on," in a message that also promises the provision half,
   "God will provide you with the means to deal with any and all
-  circumstances." `provision-for-service` holds the other half of the same
-  bargain, what God supplies when the work is His; this candidate holds the
-  requirement side, stated as a complete minimum. Mint when a message argues
-  that the list is enough rather than stating it, or when the two halves
-  appear together in one message, which would raise the question of whether
-  this belongs inside `provision-for-service` instead.
+  circumstances," though the provision there is for hard encounters with
+  people rather than the supply of an undertaking, so it is not taken as the
+  case that settles the question. `provision-for-service` holds the other half
+  of the same bargain, what God supplies when the work is His; this candidate
+  holds the requirement side, stated as a complete minimum. Mint when a
+  message argues that the list is enough rather than stating it, or when the
+  two halves appear together in one message, which would raise the question of
+  whether this belongs inside `provision-for-service` instead.
 - `two-currents-cosmology`, the world framed as a contest between two
   currents, one toward darkness and one toward light, with the collective
   movement of awakened souls as the means by which Light overcomes the
