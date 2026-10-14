@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -1231,7 +1231,10 @@ message_ids already carry the dates.
   longing you make to God";
   2016-11-21-af-confucius itemizes what changes each time, "your consciousness
   shifts, your soul awakens, your understanding grows, your perceptions deepen
-  and you are changed"; 2017-05-11-af-jesus names and dignifies the gradual
+  and you are changed"; 2016-11-29-af-andrew, "Bit by bit, incrementally you
+  will rise up above your own human condition," with the reassurance "You are
+  further along this journey than you may think"; 2017-05-11-af-jesus names
+  and dignifies the gradual
   road, "in many cases it is a gradual experience. Bit by bit, you continue to
   inch your way forward"; 2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
@@ -1518,7 +1521,9 @@ message_ids already carry the dates.
   same claim as 2016-08-31-af-martin-luther. How the soul knows:
   2016-09-02-af-augustine, the ineffability claim; 2016-10-26-af-augustine,
   the soul as the image of God offered as the reason the recognition faculty
-  sits there; and 2018-08-06-af-solomon, the soul's knowing as the test when
+  sits there; 2016-11-29-af-andrew, seeing and knowing as capacities of the
+  soul once the Love awakens it; and 2018-08-06-af-solomon, the soul's knowing
+  as the test when
   the mind finds an argument sound. Reception:
   2016-09-04-af-john-the-beloved, what the Love does to perception, with the
   cost named. The two held at once: 2016-09-09-af-andrew, the material mind as
@@ -2660,7 +2665,9 @@ message_ids already carry the dates.
   must do in this world," and makes the gifts collective as well as
   individual, "in combination will make you a powerful teacher of these
   truths," held at witness because 2016-03-29-af-james already carries the
-  gifts lit up by the Love; 2019-04-07-af-augustine has the gifts hidden
+  gifts lit up by the Love; 2016-11-29-af-andrew, "becoming aware of your own
+  personal capacities and gifts, all illuminated by God's Love";
+  2019-04-07-af-augustine has the gifts hidden
   within and blocked from awareness by the mind, which "will become
   self-evident and will grow and grow" as the soul awakens, the registry's own
   word for the step.
@@ -3273,16 +3280,20 @@ only stating it.
   limit on what they can receive from God. Seen: 2016-10-26-af-augustine, in a
   clause, "each and every one of you is worthy, is precious and beautiful.
   Each one of you is able to receive this gift as long as you allow this
-  Touch"; and 2016-11-07-af-andrew, which builds a whole address on it, "All
-  that inhibits this blessing from flowing into yourselves in great abundance
-  is that doubt within you, that you are loved". `fear-of-full-immersion` and
-  `self-love-foundation` each touch it without holding it:
-  `fear-of-full-immersion` rules unworthiness out of the obstacle it names,
-  and `self-love-foundation` is about how a person regards themselves rather
-  than what they can receive from God. That first fence is also a live tension
-  recorded in the `fear-of-full-immersion` roster, and settling it may settle
-  this candidate too, in either direction. Mint when a message develops the
-  gate rather than asserting it.
+  Touch"; 2016-11-07-af-andrew, which builds a whole address on it, "All that
+  inhibits this blessing from flowing into yourselves in great abundance is
+  that doubt within you, that you are loved"; and 2016-11-29-af-andrew, which
+  puts the gate on the love that flows out through a person rather than the
+  Love received, "all that stands in the way of this immense flood of love
+  that can and will come through you... is your thought that you are unworthy,
+  or that you are not loved, or that you cannot love".
+  `fear-of-full-immersion` and `self-love-foundation` each touch it without
+  holding it: `fear-of-full-immersion` rules unworthiness out of the obstacle
+  it names, and `self-love-foundation` is about how a person regards
+  themselves rather than what they can receive from God. That first fence is
+  also a live tension recorded in the `fear-of-full-immersion` roster, and
+  settling it may settle this candidate too, in either direction. Mint when a
+  message develops the gate rather than asserting it.
 - `the-whole-requirement`, what is asked of the human side, stated as a closed
   and sufficient list, with the question of how the work will get done
   refused. Seen: 2016-11-27-af-confucius, "All that we require of you is for
@@ -3311,7 +3322,9 @@ only stating it.
   receive this gift of Love." Those who keep praying for the Love are promised
   a standing accompaniment in their lives, addressed to that company rather
   than to everyone: 2014-07-26-af-augustine, a teacher to his circle, "Your
-  teacher Augustine is always by your side"; 2017-05-11-af-jesus, "we, the
+  teacher Augustine is always by your side"; 2016-11-29-af-andrew, "we who
+  love you and serve God and serve you in love will continue to support and
+  carry you through the difficult times"; 2017-05-11-af-jesus, "we, the
   angels of Heaven, will surround you and support you and inspire you and
   protect you"; 2018-07-07-af-aaron, "For those of you who seek this truth of
   love, you shall always be accompanied by an angel"; 2019-02-18-af-augustine,
