@@ -376,6 +376,9 @@ message_ids already carry the dates.
   carries the lessons framing, "lessons to be learned... This is the challenge
   of life";
   2016-02-29-af-confucius restates the same principle;
+  2016-11-29-af-judas, "once you face them you become stronger," with the
+  Foundation's failure, turning away from the challenge to love, named
+  alongside;
   2018-07-14-af-seretta-kem names what the hard tests did, "these things have
   carried you forward, strengthened you, built wisdom within you."
   Fences. Against `soul-growth-through-challenges` as a subject rather than a
@@ -1087,6 +1090,9 @@ message_ids already carry the dates.
   Witnesses, the release from other people's choices. 2015-11-02-af-augustine
   states as part of daily choosing what 2016-04-04-af-augustine develops,
   "each soul has their own unique journey in life and lessons to be learned."
+  2016-11-29-af-judas states it plainly and widens it to the world, "none of
+  you are responsible for another in regards to their choices and their path
+  to God," and "only God can save the world."
   Fences. Against `free-will-and-gods-plan`: that thread is God's
   orchestration of His plan across generations through willing souls; this one
   is the individual's own will as the pivot of their own healing. The
@@ -1317,7 +1323,11 @@ message_ids already carry the dates.
   Where the rule bends and where it reaches. 2016-08-11-af-alec-gaunt licenses
   a bounded exit, "to engage with love or to disengage where there is no
   possibility of love. And this is not being weak," conditioned on there being
-  no possibility of love and framed as strength; 2019-04-05-af-augustine turns
+  no possibility of love and framed as strength; 2016-11-29-af-judas limits
+  the same exit from the other side, "when another refuses your embrace say a
+  prayer for them and move on," but "You cannot turn away forever," and names
+  the mind's part in withdrawing, "to fabricate within your minds reasons and
+  explanations for these behaviours"; 2019-04-05-af-augustine turns
   the argument inward on the fellowship, where schisms come from differing
   approaches rather than error, the stronger in love must be the example, and
   rejection is met with greater love because it is "a cry for love."
@@ -2064,7 +2074,11 @@ message_ids already carry the dates.
   taking you from one place to another"; 2016-11-27-af-confucius answers worry
   not with provision but by shrinking the human requirement to a closed list,
   "All that we require of you is for you to come together in harmony and
-  prayer," with provision itself never mentioned.
+  prayer," with provision itself never mentioned; 2016-11-29-af-judas gives
+  provision for the hard encounters of service rather than the supply of an
+  undertaking, "God will provide you with the means to deal with any and all
+  circumstances but you must have faith that this will be so," in a message
+  that also states what is asked as a short list.
   Sighting, kept for the fence it marks. 2016-09-13-af-goldie, "God will bring
   towards you as you move towards His intention there will be many blessings,
   experiences and opportunities to serve," which is opportunity rather than
@@ -3235,34 +3249,36 @@ only stating it.
   accompanied from spirit, and how closely depends on how it seeks. The steps
   run from asking, to praying, to persisting, to being assigned a guide. Help
   comes on the asking: 2016-09-10-af-andrew, "if you ask for help in your
-  prayers... God will send an angel to you, to help you in this struggle."
-  Earnest prayer for the Love brings an angel close, one God assigns to each
-  earnest soul and present when it prays, not necessarily at other times:
-  2016-05-30-af-augustine, "when you earnestly long for the Father's Love and
-  so you bring the angels close"; 2016-10-26-af-augustine, "as you are earnest
-  and pray for this opening of Love"; 2019-01-30-af-seretta-kem, tied to
-  humbly asking to be used as an instrument, "you will always be assured that
-  an angel will be with you and often speak to you"; 2019-02-18-af-augustine,
-  "God assigns an angel to each soul that is earnest in their efforts to
-  receive this gift of Love." Those who keep praying for the Love are promised
-  a standing accompaniment in their lives, addressed to that company rather
-  than to everyone: 2014-07-26-af-augustine, a teacher to his circle, "Your
-  teacher Augustine is always by your side"; 2016-11-29-af-andrew, "we who
-  love you and serve God and serve you in love will continue to support and
-  carry you through the difficult times"; 2017-05-11-af-jesus, "we, the
-  angels of Heaven, will surround you and support you and inspire you and
-  protect you"; 2018-07-07-af-aaron, "For those of you who seek this truth of
-  love, you shall always be accompanied by an angel"; 2019-02-18-af-augustine,
-  "We will be with you clearly and powerfully in your life";
-  2019-02-27-af-andrew, "every soul who desires to be guided is blessed and
-  accompanied by an angel or many angels." And Jesus assigns Celestial spirits
-  as guides to mortals who walk the path of Love: 2019-01-30-af-seretta-kem,
-  "Jesus assigns these guides in his wisdom," a role given to "many of us in
-  the Celestial Kingdom"; 2019-02-21-af-elijah, a guide naming himself to one
-  man, "My son, I continue to guide you." None argues it; each message asserts
-  its step. Fence: `free-will-and-self-responsibility` carries help waiting on
-  the asking as part of a law about the seeker's own will; this candidate is
-  about who accompanies the seeker and when. Mint when a message develops the
+  prayers... God will send an angel to you, to help you in this struggle"; and
+  2016-11-29-af-judas, a spirit offering himself by name, "Ask for my
+  assistance and I will come to you." Earnest prayer for the Love brings an
+  angel close, one God assigns to each earnest soul and present when it prays,
+  not necessarily at other times: 2016-05-30-af-augustine, "when you earnestly
+  long for the Father's Love and so you bring the angels close";
+  2016-10-26-af-augustine, "as you are earnest and pray for this opening of
+  Love"; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
+  instrument, "you will always be assured that an angel will be with you and
+  often speak to you"; 2019-02-18-af-augustine, "God assigns an angel to each
+  soul that is earnest in their efforts to receive this gift of Love." Those
+  who keep praying for the Love are promised a standing accompaniment in their
+  lives, addressed to that company rather than to everyone:
+  2014-07-26-af-augustine, a teacher to his circle, "Your teacher Augustine is
+  always by your side"; 2016-11-29-af-andrew, "we who love you and serve God
+  and serve you in love will continue to support and carry you through the
+  difficult times"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
+  surround you and support you and inspire you and protect you";
+  2018-07-07-af-aaron, "For those of you who seek this truth of love, you
+  shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will
+  be with you clearly and powerfully in your life"; 2019-02-27-af-andrew,
+  "every soul who desires to be guided is blessed and accompanied by an angel
+  or many angels." And Jesus assigns Celestial spirits as guides to mortals
+  who walk the path of Love: 2019-01-30-af-seretta-kem, "Jesus assigns these
+  guides in his wisdom," a role given to "many of us in the Celestial
+  Kingdom"; 2019-02-21-af-elijah, a guide naming himself to one man, "My son,
+  I continue to guide you." None argues it; each message asserts its step.
+  Fence: `free-will-and-self-responsibility` carries help waiting on the
+  asking as part of a law about the seeker's own will; this candidate is about
+  who accompanies the seeker and when. Mint when a message develops the
   accompaniment rather than asserting it.
 - `divine-love-history`, the whole arc told as a single history rather than as
   separate episodes: God's individuated reflection placed in the first
@@ -3341,15 +3357,19 @@ only stating it.
 - `the-whole-requirement`, what is asked of the human side, stated as a closed
   and sufficient list, with the question of how the work will get done
   refused. Seen: 2016-11-27-af-confucius, "All that we require of you is for
-  you to come together in harmony and prayer"; and 2016-11-27-af-james-reid-2,
+  you to come together in harmony and prayer"; 2016-11-27-af-james-reid-2,
   through a different spirit, "What is required of you is that faith that you
-  are indeed answering God's call and doing your part in this effort."
-  `provision-for-service` holds the other half of the same bargain, what God
-  supplies when the work is His; this candidate holds the requirement side,
-  stated as a complete minimum. Mint when a message argues that the list is
-  enough rather than stating it, or when the two halves appear together in one
-  message, which would raise the question of whether this belongs inside
-  `provision-for-service` instead.
+  are indeed answering God's call and doing your part in this effort"; and
+  2016-11-29-af-judas, "what you can do and what you must do is give love
+  always, embrace always, and when another refuses your embrace say a prayer
+  for them and move on," in a message that also promises the provision half,
+  "God will provide you with the means to deal with any and all
+  circumstances." `provision-for-service` holds the other half of the same
+  bargain, what God supplies when the work is His; this candidate holds the
+  requirement side, stated as a complete minimum. Mint when a message argues
+  that the list is enough rather than stating it, or when the two halves
+  appear together in one message, which would raise the question of whether
+  this belongs inside `provision-for-service` instead.
 - `two-currents-cosmology`, the world framed as a contest between two
   currents, one toward darkness and one toward light, with the collective
   movement of awakened souls as the means by which Light overcomes the
