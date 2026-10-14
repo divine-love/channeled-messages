@@ -27,7 +27,7 @@ secondary_subjects:
   - "Mediumship & Developing as an Instrument"
   - "Natural Love Path vs Divine Love Path"
 people: ["Al Fike"]
-spirits: ["sri-yukteswar", "jesus", "james-padgett"]
+spirits: ["sri-yukteswar", "jesus", "james-padgett", "care"]
 keywords: ["shared path", "Hindu tradition", "priesthood", "reincarnation corrected", "1960s counterculture", "soulmate", "esoteric studies", "pointing to God", "rapport", "spheres", "spiritual autobiography"]
 questions:
   - "Do different religions lead to the same truth?"
