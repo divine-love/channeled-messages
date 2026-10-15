@@ -115,8 +115,10 @@ before adding new ones.
 
 ### Roster entry shape
 
-An entry is a single indented block, no blank lines and no headings, with its
-internal structure carried by labelled sentence openings.
+Each entry sits under a `###` heading carrying its slug, so the file can be
+navigated by thread. The entry itself is a single indented block, no blank
+lines and no headings, with its internal structure carried by labelled
+sentence openings.
 
 The opening line names the thread and the arc it traces in one clause.
 
@@ -211,6 +213,8 @@ message_ids already carry the dates.
 
 ## Thread rosters
 
+### armour-of-the-world
+
 - `armour-of-the-world`: running from why the armour is worn to what is put on
   in its place.
   Foundation, presumptive anchor: 2016-08-28-af-francis-of-assisi names the
@@ -262,6 +266,8 @@ message_ids already carry the dates.
   doctrine, and it is why 2016-10-15-af-confucius is a witness here and not a
   member. It is the same shape as the Open question on a minted thread's image
   returning with the opposite meaning, and the two should be settled together.
+
+### bell-toll-instrumentality
 
 - `bell-toll-instrumentality`: running
   from the awakened soul's Light reaching others like a bell toll to that
@@ -340,6 +346,8 @@ message_ids already carry the dates.
   that thread is a commission given to particular souls for particular work;
   this one is a property of any soul carrying the Love.
 
+### challenges-as-blessings
+
 - `challenges-as-blessings`: running from why hardship strengthens a soul to
   what the strengthened soul is for.
   Foundation, presumptive anchor: 2016-08-11-af-alec-gaunt, the message the
@@ -398,6 +406,8 @@ message_ids already carry the dates.
   `incremental-journey` role on the same passage, since the backward look is
   precisely what reads the evidence.
 
+### conditions-of-a-people
+
 - `conditions-of-a-people`: running from a condition a people's history lays
   down to the posture that neither takes it on nor defends against it.
   Foundation, anchor: 2016-09-09-af-andrew, which builds the argument rather
@@ -443,6 +453,8 @@ message_ids already carry the dates.
   roles in `free-will-and-self-responsibility`, `armour-of-the-world` and
   `simplicity-of-the-path` besides this one, so the Foundation role here rests
   on the opening passage rather than on the message as a whole.
+
+### conduit-not-scripture
 
 - `conduit-not-scripture`: running from how guidance reaches a soul to why the
   record of it is an instrument and never a sacred object.
@@ -510,6 +522,8 @@ message_ids already carry the dates.
   be a witness rather than a member, since it shows the conduit relationship
   without denying scriptural status.
 
+### death-transition
+
 - `death-transition`: running from the fear of death to death as a change of
   conditions, and from where a soul arrives to how far it can go.
   Foundation, anchor: 2018-07-19-af-matthew. Death is a change of conditions
@@ -553,6 +567,8 @@ message_ids already carry the dates.
   this one is the crossing itself, on either road. Against `soul-expiation`:
   what a soul carries across is that thread's subject; here it matters only
   for where the soul begins.
+
+### divine-love-healing
 
 - `divine-love-healing`: running from the superlative claim and its reach to
   the ground the primacy rests on.
@@ -624,6 +640,8 @@ message_ids already carry the dates.
   messages and came back unengaged, the nearest miss being
   2016-09-06-af-joseph, "there is no other source that will bring the healing
   and the answers to mankind."
+
+### divine-love-mediumship
 
 - `divine-love-mediumship`: running from
   how a truth crosses into a mortal mind at all to how any soul may open the
@@ -700,6 +718,8 @@ message_ids already carry the dates.
   one takes the distinction as given and asks what the mind does to a message
   in transit.
 
+### divine-love-without-knowing
+
 - `divine-love-without-knowing`: running from what the mind does not need to
   know, through what the soul receives anyway, to where the seed opens later.
   Foundation, anchor: 2019-01-31-af-augustine, an answer to the thread's own
@@ -747,6 +767,8 @@ message_ids already carry the dates.
   teaching: the Foundation itself says understanding "does lead more quickly
   to being receptive," and 2016-04-02-af-jesus gives the reason to teach,
   "first they must know and understand what it is that they yearn for."
+
+### earth-changes
 
 - `earth-changes`: running from why the Earth is changing to what the changes
   are for and what they ask of a prepared soul.
@@ -797,6 +819,8 @@ message_ids already carry the dates.
   acting on the individual soul; this is the planet. An adjacency holds no
   role here: 2019-01-28-af-augustine on the limits of specific prophecy, whose
   primary home is `preparation-to-be-a-rock`.
+
+### earth-conditions-and-prayer
 
 - `earth-conditions-and-prayer`: running from a darkness-field
   that acts on every soul to the practice by which a soul meets it.
@@ -852,6 +876,8 @@ message_ids already carry the dates.
   permanent condition of souls. Watch equally for the converse, any message
   describing the world's conditions reaching souls in spirit, which would
   close the question the other way and faster.
+
+### fear-of-full-immersion
 
 - `fear-of-full-immersion`: running from what a soul is afraid to lose to what
   it is actually asked to take off.
@@ -943,6 +969,8 @@ message_ids already carry the dates.
   sipping are complementary rather than opposed, which would soften the
   Reframe's wording.
 
+### free-will-and-gods-plan
+
 - `free-will-and-gods-plan`: running from
   God holding an intended end that free will constantly deflects, to the
   soul's free choice to align being itself the fulfilment of the plan rather
@@ -1032,6 +1060,8 @@ message_ids already carry the dates.
   Against `provision-for-service`: that thread is about what is supplied to
   the work; this one about whose work it is.
 
+### free-will-and-self-responsibility
+
 - `free-will-and-self-responsibility`: running from why God will not lift a
   self-created pain to why you carry no responsibility for another soul's
   choice.
@@ -1110,6 +1140,8 @@ message_ids already carry the dates.
   is stronger for holding its reason. Demote if the roster prefers members at
   argument length.
 
+### guidance-as-seed
+
 - `guidance-as-seed`: running from how God's Will announces itself to what
   the soul owes the announcement.
   Foundation, anchor: 2016-02-02-af-jesus. God's Will comes "as a seed of a
@@ -1138,6 +1170,8 @@ message_ids already carry the dates.
   witnesses restate; neither develops.
   Structural note: the Foundation had no log entry; one is added at
   2016-02-02-af-jesus so the log and the roster agree.
+
+### healing-channel
 
 - `healing-channel`: running from where healing comes from, through what makes
   a person a clear channel for it, to what a few such channels do.
@@ -1185,6 +1219,8 @@ message_ids already carry the dates.
   Structural note: 2016-11-26-af-andrew, on being a channel of Love whose
   outcome is ignited longing, is set aside here because it has no healing
   language.
+
+### incremental-journey
 
 - `incremental-journey`: running from why growth comes in increments to how a
   seeker can tell that it has happened.
@@ -1270,6 +1306,8 @@ message_ids already carry the dates.
   2016-05-30-af-augustine carries the same two-steps-forward pattern, with
   each effort keeping its gain, and belongs in that facet with
   2019-04-04-af-matthew, in date order, if it is promoted from the log.
+
+### judgment-to-love
 
 - `judgment-to-love`: running from the impulse to correct another through what
   judgment costs on both sides to forgiveness as a measure of the soul's
@@ -1374,6 +1412,8 @@ message_ids already carry the dates.
   "you forgive reflexively." Forgiveness begins as an act of will and matures
   into a reflex as the Love fills the soul, which reconciles the two.
 
+### knowing-your-own-soul
+
 - `knowing-your-own-soul`: running from the part of yourself you know least to
   why knowing it and knowing God are one movement.
   Foundation, anchor: 2016-02-15-af-augustine states the gap, the claim and
@@ -1433,6 +1473,8 @@ message_ids already carry the dates.
   it.
   What is awaited. A Capstone, saying what a soul that has come to know itself
   then does, or what the knowing feels like once arrived.
+
+### mind-vs-soul
 
 - `mind-vs-soul`: running from a
   definition of the two minds to their ceasing to be two.
@@ -1563,6 +1605,8 @@ message_ids already carry the dates.
   since the Chains Index health line will otherwise keep reporting it as
   incomplete.
 
+### opposition-to-the-light-worker
+
 - `opposition-to-the-light-worker`: running from why a soul carrying Light is
   opposed to why the answer is never counter-attack.
   Foundation, presumptive anchor: 2016-06-04-af-confucius, opposition as
@@ -1626,6 +1670,8 @@ message_ids already carry the dates.
   argument governs, which is why the thread is scoped to opposition in general
   and not to the fortress.
 
+### pentecost
+
 - `pentecost`: running from what the Pentecost was to what decides whether it
   comes.
   Foundation, anchor: 2017-05-11-af-jesus explains why the Pentecost came to
@@ -1665,6 +1711,8 @@ message_ids already carry the dates.
   the sudden mode needs. 2016-09-18-af-jesus has a claim on both; see that
   roster. Against `soul-expiation`: that thread is what is cleansed; this one
   is how the awakening arrives.
+
+### portals
 
 - `portals`: running from what a portal is to what it is not needed for.
   Foundation, presumptive anchor: 2019-01-26-af-seretta-kem, the doctrine
@@ -1746,6 +1794,8 @@ message_ids already carry the dates.
   to this place," arguably not a sighting at all. The Frankfurt messages say
   almost nothing about portals, unlike the Blackpool messages before them,
   which looks like a feature of that gathering.
+
+### prayer-changes-world-conditions
 
 - `prayer-changes-world-conditions`: running from what happens to a prayer
   after it is offered to why mankind is the thing prayed for.
@@ -1846,6 +1896,8 @@ message_ids already carry the dates.
   personal and private prayers that the substantial portion of Love is given,"
   which is to be weighed against the registry wording at build.
 
+### prayer-soul-longing
+
 - `prayer-soul-longing`: running from what prayer essentially is, beneath the
   words, to the named law that answers it.
   Foundation, anchor: 2015-11-28-af-faith-nyquist. Faith establishes that
@@ -1936,6 +1988,8 @@ message_ids already carry the dates.
   cloak of pain." Nothing is claimed about it here, but a builder will meet
   it.
 
+### preparation-to-be-a-rock
+
 - `preparation-to-be-a-rock`: running from
   a storm on the horizon to a readiness declared complete and set inside a
   network. The Elaborations run chronologically and the argument runs with
@@ -2024,6 +2078,8 @@ message_ids already carry the dates.
   2017-09-13-af-keea-atta-kem, where the earth-changes reading was called the
   primary home, and at 2016-10-15-af-seretta-kem.
 
+### provision-for-service
+
 - `provision-for-service`: running from what God supplies a guided work to why
   the only obstacles are the servant's own.
   Foundation, presumptive anchor: 2016-04-04-af-augustine, the developed
@@ -2102,6 +2158,8 @@ message_ids already carry the dates.
   2016-04-04-af-augustine states it in full, so the anchor is weighed among
   them at build.
 
+### redemption-universal
+
 - `redemption-universal`: running from the
   claim that no soul is excluded to the cases that prove it.
   Foundation, anchor: 2014-10-11-af-judas, which states the premise as a rule
@@ -2171,6 +2229,8 @@ message_ids already carry the dates.
   What is awaited: a message that argues that hell is not eternal and that the
   dark spheres are a condition and not a sentence.
 
+### reincarnation-progression
+
 - `reincarnation-progression`: running from why a soul takes flesh once to the
   planes it grows through afterwards, and why the belief in many lives
   persists.
@@ -2207,6 +2267,8 @@ message_ids already carry the dates.
   what dying is; this one is that it happens once. Against `two-paths`: the
   planes here are the course of growth after death; there they mark how far
   each road reaches.
+
+### religious-error
 
 - `religious-error`: running from
   specific doctrinal corrections to the faculty that replaces reliance on the
@@ -2308,6 +2370,8 @@ message_ids already carry the dates.
   accumulate. Against `who-jesus-was`: that thread establishes the record;
   this one is about how the record was distorted and by whom.
 
+### self-love-foundation
+
 - `self-love-foundation`: running from being loved by God, through loving
   oneself, to the love that then reaches others.
   Foundation, presumptive anchor: 2016-02-29-af-confucius carries the whole
@@ -2367,6 +2431,8 @@ message_ids already carry the dates.
   2016-03-16-af-seretta-kem makes self-love its whole subject but does not
   argue it. Weigh the two at build.
 
+### sensitive-souls-redemptive
+
 - `sensitive-souls-redemptive`: running from what the sensitive soul suffers
   in this world to why that soul is what redeems it.
   Foundation, anchor: 2016-03-07-af-augustine. The sensitive soul who feels
@@ -2405,6 +2471,8 @@ message_ids already carry the dates.
   own constitution and what it does for the world. Against
   `self-love-foundation`: that thread is how a person regards themselves; this
   is what their sensitivity is for.
+
+### simplicity-of-the-path
 
 - `simplicity-of-the-path`: running from why the path is simple to why a soul
   stops complicating it.
@@ -2470,6 +2538,8 @@ message_ids already carry the dates.
   Structural note: 2016-09-10-af-augustine is a full doctrinal address whose
   arguments are each carried by members elsewhere, so it sits at witness in
   every thread it touches.
+
+### soul-expiation
 
 - `soul-expiation`: running from the universality of hidden injury, through
   the mechanism by which it surfaces and is released, toward its completion.
@@ -2549,6 +2619,8 @@ message_ids already carry the dates.
   What is awaited: a message that develops the completion, which would promote
   2016-05-16-af-keea-atta-kem and give the thread its close.
 
+### soul-faculties
+
 - `soul-faculties`: running from the faculties the soul holds, through what
   opens and sustains them, to what they become.
   Foundation, anchor: 2019-02-01-af-josephus, a teaching given on request that
@@ -2615,6 +2687,8 @@ message_ids already carry the dates.
   gates the deeper faculties to the Divine road. The two fit if the natural
   faculties are refined and the deeper ones opened only by the Love; read them
   together at build.
+
+### soul-purpose-emergence
 
 - `soul-purpose-emergence`: running from the purpose God entrusts to each soul
   to finding oneself already walking it.
@@ -2744,6 +2818,8 @@ message_ids already carry the dates.
   claim that 2016-09-06-af-joseph states strongly is already carried by
   2015-08-17-af-peter in the Foundation section.
 
+### spiritual-fellowship
+
 - `spiritual-fellowship`: running from why a seeker cannot do this alone to
   what makes a gathering worth belonging to.
   Foundation, anchor: 2015-03-28-af-augustine argues for fellowship rather
@@ -2816,6 +2892,8 @@ message_ids already carry the dates.
   And Testimony is a defensible alternative reading for Moses, on the strength
   of the commission paragraph.
 
+### the-fall
+
 - `the-fall`: tracing the Gift offered, declined, withdrawn and restored.
   Foundation, anchor: 2016-05-29-af-aman, the refusal told by the one who made
   it. The original state is given in physical detail, bodies "perfectly
@@ -2886,6 +2964,8 @@ message_ids already carry the dates.
   that arc is an argument in its own right or simply the sum of this thread,
   `who-jesus-was` and `pentecost` is a `divine-love-history` candidate to
   decide at build.
+
+### two-paths
 
 - `two-paths`: running from every soul
   being wounded and needing healing, to the two roads by which the healing
@@ -2985,6 +3065,8 @@ message_ids already carry the dates.
   locating himself by sphere number where the thread treats the numbered
   spheres as the natural path's progression.
 
+### vanguards-of-change
+
 - `vanguards-of-change`: running from the commission itself to the freedom it
   requires.
   Foundation, presumptive anchor: 2016-01-08-af-jesus establishes the
@@ -3075,6 +3157,8 @@ message_ids already carry the dates.
   promotable; if one, it stays a witness.
   Structural note: 2016-01-08-af-jesus also carries a `healing-channel`
   witness for its "great channel of service."
+
+### who-jesus-was
 
 - `who-jesus-was`: running from what he was not to what he actually did, by way
   of why the record went wrong.
