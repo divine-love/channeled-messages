@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-13
+last_updated: 2026-10-15
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -2688,6 +2688,8 @@ message_ids already carry the dates.
   truths," held at witness because 2016-03-29-af-james already carries the
   gifts lit up by the Love; 2016-11-29-af-andrew, "becoming aware of your own
   personal capacities and gifts, all illuminated by God's Love";
+  2016-11-30-af-jesus, gifts "awakening one by one from their slumbers as the
+  great Love of God sparks and brings them alive";
   2019-04-07-af-augustine has the gifts hidden
   within and blocked from awareness by the mind, which "will become
   self-evident and will grow and grow" as the soul awakens, the registry's own

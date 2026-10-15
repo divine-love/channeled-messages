@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-13
+last_updated: 2026-10-15
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -1138,6 +1138,11 @@ description or summary, and every quote is checked against the message text.
 - NOTE (sighting, `divine-accompaniment`): help on the asking, offered by a spirit in his own name, "Ask for my assistance and I will come to you and help you in whatever way I can in love, in light, in truth."
 - NOTE (sighting, `opposition-to-the-light-worker`): "If you are afraid someone will hurt you or offend you, ask God for His cloak of protection to protect you." Fear of being hurt by others, met by asking for protection; nothing is said about the Light provoking it.
 - NOTE (context): Judas gives the circle words to pray, recorded separately as a practice, prayer-2016-11-29-af-judas. He says he was with the circle on its outing to a rocky point and in its conversations there, and that he does not speak often and wishes to speak more often.
+
+  ### 2016-11-30-af-jesus | Awaken from Your Slumbers | 2016-11-30
+- NOTE (witness, `soul-purpose-emergence`): gifts waking one at a time as the Love reaches them and coming into line with God's Will, "precious gifts which are awakening one by one from their slumbers as the great Love of God sparks and brings them alive and they will be expressed in the fullness of love and come into alignment to God's Will," given with a gift from Jesus "to give you deeper insights into your own true beings."
+- NOTE (sighting, `bell-toll-instrumentality`): the thread's image with a different ringer, "the angels come to toll the bell, to awaken, to open your eyes, to open your hearts, to open yourselves to God." Here the angels ring it and the seeker is the one woken, which is nearer to 2016-08-02-af-augustine, where the seeker hears the chime within, than to the thread's soul ringing for others.
+- NOTE (sighting, `vanguards-of-change`): the commission in Jesus' own voice, "you will do my work bringing this truth to mankind," and "continue to gather the souls who seek this Love and to be an open channel in this world for you are sorrowfully needed and the work is great." Nothing is said about what must be released to answer it.
 
 ### 2016-12-06-af-seretta-kem | Talk on Mediumship: The Laws of Communication and Rapport | 2016-12-06
 - `divine-love-mediumship` **[Elaboration]** : Develops the conditions and laws of communication that the Foundation (2016-03-27) opens. The circle's prime objective must be to seek the Divine Love, not a message; harmonious conditions built by prayer and desire draw the angels close, and the Laws of Communication and Rapport come into effect from those conditions. Carries the thread's discernment principle: if a message has no mention of God's Love and is not about the opening and flowering of the soul, it is not from an angel, and each must discern through their own soul what is true. Elaborates the mechanism into a practical account of what makes reception clear and how to test it.
