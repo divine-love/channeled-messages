@@ -3023,7 +3023,9 @@ message_ids already carry the dates.
   work"; 2016-11-06-af-jesus restates it with the opened-door promise, "God
   will take you by the hand and show you the way, open the doors and connect
   you with all the loving souls," which is what Jesus said in
-  2016-01-08-af-jesus;
+  2016-01-08-af-jesus; 2016-12-01-af-john-the-beloved, "the doors will open
+  and you will find your way as disciples of the Master," for souls "destined
+  to be lights in the world";
   2018-06-18-af-matthew carries the vanguard title as its door, "You are the
   vanguards seeking to move forward... into a new dawn of Love and Truth that
   God intends for this world," with the circle cast as explorers rather than
@@ -3327,6 +3329,28 @@ only stating it.
   (what makes the channel clear): this is what stays behind in the channel.
   Mint when a message develops the retention mechanism rather than asserting
   the reciprocity.
+- `no-turning-back`, once a soul has received enough Divine Love on the Divine
+  Love path it can no longer fall back into darkness, while a soul without
+  Divine Love can fall from however high its natural love has carried it. The
+  natural side is shown at 2016-05-29-af-aman: the first parents, "perfect in
+  every way," declined "a further gift of His Love, the essence of His soul
+  into our hearts," and "fell from grace quickly," regaining only long
+  afterwards "our previous exalted state within the sixth sphere or natural
+  heavens." The Divine side is told to praying seekers as a promise:
+  2015-11-02-af-seretta-kem, which comes nearest to a threshold by tying it to
+  the strength of the Touch, "when this Touch is powerful within you, you
+  cannot turn back"; 2015-12-14-af-faith-nyquist, "you cannot turn back,
+  beloveds, but only move forward"; 2016-01-09-af-faith-nyquist, "you cannot
+  turn back"; 2016-03-12-af-john-the-beloved, "There is no turning back for
+  any of you"; 2016-03-31-af-judas, "you cannot turn back on this path, you
+  only can move forward"; 2016-12-01-af-john-the-beloved, "There will be no
+  turning back to the darkness for any of you"; and 2017-01-02-af-jesus,
+  "There is no turning back my beloveds." Fenced from `incremental-journey`,
+  where the seeker steps back and forward within the path (two steps forward,
+  one back); this candidate is about not leaving the path once the Love has
+  reached a certain measure. Mint when a message states the threshold: that a
+  certain amount of Divine Love in the soul makes a return to darkness
+  impossible.
 - `purpose-of-life`, the simple teaching that the purpose of life is to
   discover who you truly are, to love and be loved, to receive God's Love, and
   to progress toward at-onement with Him; stated as something so simple most

@@ -43,6 +43,7 @@ questions:
 related_messages:
   - 2016-01-08-af-jesus
   - 2016-09-08-af-jesus
+  - 2016-12-01-af-john-the-beloved
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -55,7 +56,7 @@ door: >
   Knowing this truth was never the hard part. Standing on the sidelines once
   you know it is.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-08-10
+last_edited: 2026-10-15
 ---
 
 I am John. The world is in great need of change. The world hungers for love. The world suffers from the lack of love in mankind. Each of you has a ministry in this world to bring the Love to mankind, to demonstrate and teach the power of God’s Love. And each of you has been called by Jesus to be his disciple.

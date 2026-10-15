@@ -37,7 +37,8 @@ questions:
   - "How does praying together in a group create change?"
   - "What does it mean to be God's Touch in the world?"
   - "What does the Bible mean about not looking back once you put your hand to the plow?"
-related_messages: []
+related_messages:
+  - 2016-12-01-af-john-the-beloved
 audio_url: ""
 canonical_url: ""
 language: en
@@ -49,7 +50,7 @@ door: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: ""
-last_edited: 2026-07-08
+last_edited: 2026-10-15
 ---
 
 It is John. So you see how God works in your lives and there are times when God works in ways that are readily perceived, but God is working in your lives every moment, my beloveds. Every moment He Touches your life; He leads the way into Light; He opens doors, and opportunities. His invitation is always there, my beloveds, to receive His Love, to listen to His Voice, to be guided, to be shown the way, and to be embraced fully by your Heavenly Father whose love for you is greater than all the love of the angels, and all the love that you perceive in the world. It is greater, a mighty force in this universe, and in your life. God's Love carries you, embraces you, and keeps you within this Light of His presence.
