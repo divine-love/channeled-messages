@@ -616,6 +616,10 @@ message_ids already carry the dates.
   souls." He makes no comparison with the other healing energies, which is the
   move the thread is built on, so it sits alongside rather than within. A
   second ground is worth having if another message argues it.
+  Witness, the enhancing step in the first person. 2016-12-01-af-tahlia, a
+  healer whose gift "has evolved and strengthened and flourished" through the
+  spheres, credited to the Love, "the Father's Love has indeed transformed my
+  soul and my gifts."
   Sighting, kept for the scope question it raises. 2016-09-06-af-mary places
   spirit assistance alongside material medicine without ranking them, "Do not
   fear the hands of the physicians, they will heal you and we will be with
@@ -753,9 +757,11 @@ message_ids already carry the dates.
   Witnesses. 2016-10-29-af-andrew separates being embraced from knowing it,
   the embrace "always present, always there," while "to be embraced by God in
   a conscious way is to know your own soul," so knowing changes the experience
-  rather than causing the embrace; 2017-05-11-af-jesus, the thirst that does
-  not know itself, "They don't even know their own thirst, they don't know
-  where to turn."
+  rather than causing the embrace; 2016-12-01-af-tahlia, the seed that opens
+  later, often in spirit, planted by those who speak the truth, "a seed is
+  planted, something has changed, a shift, an opening"; 2017-05-11-af-jesus,
+  the thirst that does not know itself, "They don't even know their own
+  thirst, they don't know where to turn."
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth; this one asks whether the soul can receive while the mind does not
   understand. The Foundation serves both. Against `redemption-universal`: that
