@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-15
+last_updated: 2026-10-18
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -331,7 +331,7 @@ message_ids already carry the dates.
   Witnesses. 2015-10-26-af-faith-nyquist, 2016-03-31-af-judas,
   2016-04-12-af-moses, 2016-09-06-af-joseph, 2016-10-17-af-keea-atta-kem,
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
-  2016-11-28-af-seretta-kem, 2019-01-21-af-augustine.
+  2016-11-28-af-seretta-kem, 2016-12-02-af-augustine, 2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while
   2016-08-02-af-augustine grounds the toll in active expression, "It matters
@@ -1391,17 +1391,17 @@ message_ids already carry the dates.
   and others named together; 2015-06-15-af-faith-nyquist, judging others'
   behaviour as what diverts "the flow of God's Love"; 2016-02-29-af-confucius,
   judgment named among the conditions that pull a soul from the Light;
-  2016-08-26-af-brother-mandus;
-  2016-09-01-af-jesus, on which see the structural note; 2016-09-12-af-jerome,
-  participation in a service whose doctrine the servant believes false, with
-  humility redefined as that acceptance; 2016-11-28-af-moses, the cost as a
-  loss rather than a diagnosis, "When you push your brothers and sisters away
-  in judgement or fear, you push God away, you push love away";
-  2017-01-16-af-keea-atta-kem, learning "to not judge those who you find
-  different in this world" and to let each soul walk its own path;
-  2018-03-02-af-andrew, non-judgment given as his own example, "I could judge
-  my brother for what he did... but where would that thought originate? Not of
-  the soul."
+  2016-08-26-af-brother-mandus; 2016-09-01-af-jesus, on which see the
+  structural note; 2016-09-12-af-jerome, participation in a service whose
+  doctrine the servant believes false, with humility redefined as that
+  acceptance; 2016-11-28-af-moses, the cost as a loss rather than a diagnosis,
+  "When you push your brothers and sisters away in judgement or fear, you push
+  God away, you push love away"; 2016-12-02-af-augustine, "rather than insist
+  that another change, love them, be the Love"; 2017-01-16-af-keea-atta-kem,
+  learning "to not judge those who you find different in this world" and to
+  let each soul walk its own path; 2018-03-02-af-andrew, non-judgment given as
+  his own example, "I could judge my brother for what he did... but where
+  would that thought originate? Not of the soul."
   Fences. Against `self-love-foundation`: that thread argues that you cannot
   love others while condemning yourself; this one is about what to do with the
   impulse to judge. The two meet at the Foundation, which also carries a
@@ -1581,16 +1581,16 @@ message_ids already carry the dates.
   2016-09-02-af-augustine, the ineffability claim; 2016-10-26-af-augustine,
   the soul as the image of God offered as the reason the recognition faculty
   sits there; 2016-11-29-af-andrew, seeing and knowing as capacities of the
-  soul once the Love awakens it; and 2018-08-06-af-solomon, the soul's knowing
-  as the test when
-  the mind finds an argument sound. Reception:
-  2016-09-04-af-john-the-beloved, what the Love does to perception, with the
-  cost named. The two held at once: 2016-09-09-af-andrew, the material mind as
-  where the vestiges persist after the soul has changed; 2018-05-12-af-luke, a
-  candidate for promotion, which runs the counterfeit the other way, the soul
-  healed while the mind still remembers; and 2018-06-26-af-matthew, the same
-  asymmetry, "because of the well-worn patterns of the mind, these conditions
-  continue to be active."
+  soul once the Love awakens it; 2016-12-02-af-augustine, the soul as where
+  the knowing is, "the key is within your soul"; and 2018-08-06-af-solomon,
+  the soul's knowing as the test when the mind finds an argument sound.
+  Reception: 2016-09-04-af-john-the-beloved, what the Love does to perception,
+  with the cost named. The two held at once: 2016-09-09-af-andrew, the
+  material mind as where the vestiges persist after the soul has changed;
+  2018-05-12-af-luke, a candidate for promotion, which runs the counterfeit
+  the other way, the soul healed while the mind still remembers; and
+  2018-06-26-af-matthew, the same asymmetry, "because of the well-worn
+  patterns of the mind, these conditions continue to be active."
   These with 2016-05-02-af-andrew give the full asymmetry, and if a message
   builds it they would make a strong section read together.
   The rest are sightings, search-level adjacencies, and the anti-double-count
@@ -2500,7 +2500,15 @@ message_ids already carry the dates.
   truth is simple... when one is truly of faith there is no great desire to
   analyze, merely to act in accordance to the knowing of the soul." Where the
   Foundation and 2016-08-26-af-brother-mandus say the path is simple or show a
-  ministry being simple, this says why a person stops complicating it.
+  ministry being simple, this says why a person stops complicating it;
+  2016-12-02-af-augustine answers the complication of seeking more and more
+  spiritual knowledge, "It is simple, it does not require great learning,
+  research, building complex paradigms of understanding," since "it comes in
+  your relationship with God, it comes in your sincere prayers to your
+  Heavenly Father," keeps the simple register for ministry, "simple words,
+  simple prayer, simple love is all that is required," and separates simple
+  from easy, "It is very simple, my beloveds, but hard to do in a challenging
+  world."
   Witnesses, the claim asserted. 2016-08-26-af-augustine, "It is a simple
   opening of yourselves to this blessing of Love... Powerfully, beautifully,
   simply"; 2016-08-28-af-faith-nyquist, the path-and-life assertion with a
@@ -2518,11 +2526,11 @@ message_ids already carry the dates.
   components as speculation, doubt and fear; 2016-11-27-af-james-reid puts it
   in the seeker's accumulated spiritual information, judged from the far side
   of death, "You need to shake off the clutter and the error and the
-  irrelevant details and focus, focus, my friends, on love," which would widen
-  the scope to knowledge-hunger if promoted; 2016-11-28-af-goldie puts it in
-  the seeker's own heaviness and makes joy the thing that simplifies, "Oh, how
-  you wish to complicate life when it is so simple and joyful. Go with God and
-  go with joy and life will be simpler, easier, lighter."
+  irrelevant details and focus, focus, my friends, on love," which
+  2016-12-02-af-augustine develops; 2016-11-28-af-goldie puts it in the
+  seeker's own heaviness and makes joy the thing that simplifies, "Oh, how you
+  wish to complicate life when it is so simple and joyful. Go with God and go
+  with joy and life will be simpler, easier, lighter."
   Witness, the motive of complication. 2016-09-10-af-augustine gives
   complication a motive, "So many wish to complicate the truth, to control it,
   to have great power, the power to disseminate God's Will to mankind. This is
@@ -2752,8 +2760,7 @@ message_ids already carry the dates.
   through the soul enlivened by the Love; 2016-09-03-af-james has knowing what
   to do arrive as a by-product of the soul's growth, "what is necessary and
   required will be obvious as you look at the world through the eyes of your
-  souls";
-  2016-09-06-af-joseph gives the mechanism in compact form, "The
+  souls"; 2016-09-06-af-joseph gives the mechanism in compact form, "The
   understandings that God has placed within your souls will emerge into your
   consciousness and be your guiding grace," and puts the answer inside the
   prompting rather than at the end of a search, "within that call, that
@@ -2769,11 +2776,13 @@ message_ids already carry the dates.
   gifts lit up by the Love; 2016-11-29-af-andrew, "becoming aware of your own
   personal capacities and gifts, all illuminated by God's Love";
   2016-11-30-af-jesus, gifts "awakening one by one from their slumbers as the
-  great Love of God sparks and brings them alive";
-  2019-04-07-af-augustine has the gifts hidden
-  within and blocked from awareness by the mind, which "will become
-  self-evident and will grow and grow" as the soul awakens, the registry's own
-  word for the step.
+  great Love of God sparks and brings them alive"; 2016-12-02-af-augustine,
+  the purpose grasped by quieting the mind to listen to the Will of God, and
+  the path walked before it is recognized, "You are already on it and some of
+  you do not realize it"; 2019-04-07-af-augustine has the gifts hidden within
+  and blocked from awareness by the mind, which "will become self-evident and
+  will grow and grow" as the soul awakens, the registry's own word for the
+  step.
   Witnesses, growing into a purpose already seen.
   2016-09-11-af-francis-of-assisi, "It is your destiny. You feel it; you know
   it; you have seen it and you will express it but you must continue to grow

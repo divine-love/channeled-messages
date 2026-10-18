@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-15
+last_updated: 2026-10-18
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -1157,6 +1157,14 @@ description or summary, and every quote is checked against the message text.
 - NOTE (sighting, `spiritual-fellowship`): service as the parts of one whole, "Like the petals upon a beautiful flower, each one unique, each one joined to the other, and you all must be a single voice," with "Each one complementing the other, each one supporting the other." Nothing is said about fellowship holding the seeker or supplying what one cannot see alone.
 - NOTE (sighting, `vanguards-of-change`): the gathering seen as a foretaste, "are you not surprised that you are all together this day, in this place, for this is minor compared to what is to come."
 - NOTE (context): Tahlia speaks of a special bond with a circle member "who comes from where I came from," a place the message does not name.
+
+### 2016-12-02-af-augustine | Turn to the Soul Rather than the Mind | 2016-12-02
+- `simplicity-of-the-path` **[Elaboration]** : Augustine takes the complication of seeking more and more spiritual knowledge and answers it. Those who "go here and there speculating, trying to understand" are told "the key is within your soul, the key is in your communication with your Creator," and the path "does not require great learning, research, building complex paradigms of understanding. No, my beloveds, it comes in your relationship with God, it comes in your sincere prayers to your Heavenly Father, it comes with your willingness to open and be touched deep within you." He keeps the simple register for ministry, "You need not go into a deep dialogue, no my brethren, simple words, simple prayer, simple love is all that is required," and separates simple from easy, "It is very simple, my beloveds, but hard to do in a challenging world." -- This develops what 2016-11-27-af-james-reid states, complication located in the seeker's hunger for spiritual information.
+- NOTE (witness, `bell-toll-instrumentality`): how it travels, by presence rather than argument, "you teach by your embrace and your gaze and your smile and your presence. You heal by the very nature of your being attuned to God and the flow of His Love," and "In this there is no need to convince another but to be in the presence of another." 2016-11-27-af-augustine names the same carriers.
+- NOTE (witness, `mind-vs-soul`): the title's claim, "they use the instruments of their material minds too much, unaware that they must think deep within their souls," with the soul as where the knowing is, "the key is within your soul."
+- NOTE (witness, `soul-purpose-emergence`): the purpose known by listening rather than reasoning, "learn to quiet your minds and listen to the Will of God... to grasp what it is that you are meant to do," and the path walked before it is recognized, "You are already on it and some of you do not realize it and some of you do." The place "within that beautiful plan for the salvation of mankind" sits near the fence with `vanguards-of-change`.
+- NOTE (witness, `judgment-to-love`): "rather than judge you must love, rather than insist that another change, love them, be the Love."
+- NOTE (context): Augustine prepares the circle for a service the next day at a place of worship "in deep need of your service," which the message does not name.
 
 ### 2016-12-06-af-seretta-kem | Talk on Mediumship: The Laws of Communication and Rapport | 2016-12-06
 - `divine-love-mediumship` **[Elaboration]** : Develops the conditions and laws of communication that the Foundation (2016-03-27) opens. The circle's prime objective must be to seek the Divine Love, not a message; harmonious conditions built by prayer and desire draw the angels close, and the Laws of Communication and Rapport come into effect from those conditions. Carries the thread's discernment principle: if a message has no mention of God's Love and is not about the opening and flowering of the soul, it is not from an angel, and each must discern through their own soul what is true. Elaborates the mechanism into a practical account of what makes reception clear and how to test it.

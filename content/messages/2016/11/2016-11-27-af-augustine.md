@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2016-05-25-af-alec-gaunt
   - 2016-08-17-af-james-padgett
+  - 2016-12-02-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -53,7 +54,7 @@ excerpt: >
 door: >
   The truth is carried in a smile and a gaze as surely as in a sentence.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-08-25
+last_edited: 2026-10-18
 ---
 
 It is your teacher Augustine.
