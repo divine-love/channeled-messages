@@ -37,6 +37,7 @@ questions:
   - "What does the Bible mean by not forsaking the assembling of ourselves together?"
 related_messages:
   - 2016-11-27-af-confucius
+  - 2016-12-04-af-confucius
 audio_url: ""
 canonical_url: ""
 notes: ""

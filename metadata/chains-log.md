@@ -1187,6 +1187,10 @@ description or summary, and every quote is checked against the message text.
 - NOTE (sighting, `unlimited-reception`): the Love given without end, "in this touch you begin a journey that lasts for all eternity for this love may be blessed to you over and over again for all eternity," stated as a promise rather than argued.
 - NOTE (sighting, `mind-vs-soul`): the Love known only by experiencing it, "none can describe completely for in order to know it you must experience it."
 
+### 2016-12-04-af-confucius | Blessings of Healing and Love | 2016-12-04
+- NOTE (sighting, `incremental-journey`): change felt day by day, "you will see how you are lighter with each day, more joyful, and a deeper understanding will come with your prayers together."
+- NOTE (sighting, `spiritual-fellowship`): healing received through being together, "you will receive healing as you are together in this group." Nothing is said about what fellowship holds the seeker against.
+
 ### 2016-12-06-af-seretta-kem | Talk on Mediumship: The Laws of Communication and Rapport | 2016-12-06
 - `divine-love-mediumship` **[Elaboration]** : Develops the conditions and laws of communication that the Foundation (2016-03-27) opens. The circle's prime objective must be to seek the Divine Love, not a message; harmonious conditions built by prayer and desire draw the angels close, and the Laws of Communication and Rapport come into effect from those conditions. Carries the thread's discernment principle: if a message has no mention of God's Love and is not about the opening and flowering of the soul, it is not from an angel, and each must discern through their own soul what is true. Elaborates the mechanism into a practical account of what makes reception clear and how to test it.
 - NOTE (sighting, `mind-vs-soul`): the soul's wordless truth narrowed and distorted as it passes into the material mind, so no medium is perfect; shared with the 2016-03-27-af-seretta-kem entry rather than a separate contribution here.
