@@ -796,6 +796,39 @@ def rewrite_carried_front_matter(text, resolve):
     return "\n".join(lines), linked
 
 
+def add_title_heading(text):
+    """
+    Give a carried note a visible title when it has none.
+
+    Message notes are written with a `# Title` heading under their front
+    matter, and that heading is what Obsidian Publish shows at the top of the
+    page. Carried files that keep their title only in front matter, such as
+    the spirit-given prayer files in content/practices/, would otherwise
+    appear with no title at all. When the front matter has a `title` and the
+    body has no `# ` heading of its own, the heading is inserted directly
+    after the front matter. Files that already have a heading, or have no
+    front matter or no title field, are returned unchanged.
+    """
+    lines = text.split("\n")
+    if not lines or lines[0].strip() != "---":
+        return text
+    try:
+        end = next(i for i in range(1, len(lines)) if lines[i].strip() == "---")
+    except StopIteration:
+        return text
+    try:
+        fm = yaml.safe_load("\n".join(lines[1:end])) or {}
+    except yaml.YAMLError:
+        return text
+    title = fm.get("title") if isinstance(fm, dict) else None
+    body = lines[end + 1:]
+    if not title or any(line.startswith("# ") for line in body):
+        return text
+    while body and not body[0].strip():
+        body.pop(0)
+    return "\n".join(lines[:end + 1] + ["", f"# {str(title).strip()}", ""] + body)
+
+
 def link_table_cells(line, cols, row_targets, bar):
     """
     Link the Spirit and Medium cells of a browse-table row.
@@ -1117,6 +1150,7 @@ def main():
             body, n = rewrite_carried_links(body, notenames, hub_targets,
                                             row_targets)
             body, m = rewrite_carried_front_matter(body, resolve_fm)
+            body = add_title_heading(body)
             dest.write_text(body, encoding="utf-8")
             links_fixed += n + m
         else:
