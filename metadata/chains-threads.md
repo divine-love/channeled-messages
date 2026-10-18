@@ -2887,11 +2887,12 @@ message_ids already carry the dates.
   together." Where Joseph Smith has belonging bought at the cost of truth,
   Moses has belonging that never forms, and the cost is named for the work
   rather than for the individual.
-  Witness. 2016-03-16-af-jesus gives what binds a circle as shared longing
-  rather than shared belief, "in your small circle you each long for God... and
-  this desire that you share amongst you, my brethren, makes for a powerful
-  bond which shall last for all eternity," which 2016-11-28-af-luke carries
-  developed.
+  Witnesses. 2016-03-16-af-jesus gives what binds a circle as shared longing
+  rather than shared belief, "in your small circle you each long for God...
+  and this desire that you share amongst you, my brethren, makes for a
+  powerful bond which shall last for all eternity," which 2016-11-28-af-luke
+  carries developed; 2016-12-02-af-confucius, fellowship as a need, "continue
+  to bond together in love for you need one another."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the

@@ -38,6 +38,7 @@ questions:
   - "What is a portal of light?"
 related_messages:
   - 2016-05-09-af-seretta-kem
+  - 2016-12-02-af-confucius
   - 2018-11-03-af-confucius
 audio_url: ""
 canonical_url: ""
@@ -51,7 +52,7 @@ door: >
   Stop working out how it will happen and who will do it. Your only task is to
   come together.
 collections: []
-last_edited: 2026-08-25
+last_edited: 2026-10-18
 ---
 
 This is Confucius. My little birds you have flocked together once more and how we rejoice when this comes to be. When you come to pray together and come to form a great channel of love, a portal of light to this world.

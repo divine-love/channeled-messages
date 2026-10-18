@@ -1166,6 +1166,10 @@ description or summary, and every quote is checked against the message text.
 - NOTE (witness, `judgment-to-love`): "rather than judge you must love, rather than insist that another change, love them, be the Love."
 - NOTE (context): Augustine prepares the circle for a service the next day at a place of worship "in deep need of your service," which the message does not name.
 
+### 2016-12-02-af-confucius | Welcome to This Circle of Love | 2016-12-02
+- NOTE (witness, `spiritual-fellowship`): fellowship as a need rather than a comfort, "continue to bond together in love for you need one another, and in this beautiful fellowship will come many gifts." Stated, not argued.
+- NOTE (sighting, `prayer-changes-world-conditions`): the outward claim reaching both worlds, "this Light flows from your midst to many others in the worlds, both the material world and the spirit world." Stated without mechanism.
+
 ### 2016-12-06-af-seretta-kem | Talk on Mediumship: The Laws of Communication and Rapport | 2016-12-06
 - `divine-love-mediumship` **[Elaboration]** : Develops the conditions and laws of communication that the Foundation (2016-03-27) opens. The circle's prime objective must be to seek the Divine Love, not a message; harmonious conditions built by prayer and desire draw the angels close, and the Laws of Communication and Rapport come into effect from those conditions. Carries the thread's discernment principle: if a message has no mention of God's Love and is not about the opening and flowering of the soul, it is not from an angel, and each must discern through their own soul what is true. Elaborates the mechanism into a practical account of what makes reception clear and how to test it.
 - NOTE (sighting, `mind-vs-soul`): the soul's wordless truth narrowed and distorted as it passes into the material mind, so no medium is perfect; shared with the 2016-03-27-af-seretta-kem entry rather than a separate contribution here.
