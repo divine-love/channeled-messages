@@ -1180,7 +1180,12 @@ description or summary, and every quote is checked against the message text.
 - NOTE (sighting, `the-fall`): the gift given because it is accepted rather than because a soul is singled out, "This is God's gift to you, beloveds, not because He has pointed you out but because you have accepted this gift and you desire this gift." Nothing is said about the first parents.
 - NOTE (sighting, `bell-toll-instrumentality`): "Many await your declaration, many await the true expression of your souls, many await that clear channel of God's Love contained within you."
 - NOTE (sighting, `soul-faculties`): "there are many gifts within each one of you waiting to be expressed and amplified by His touch of Love."
-  - NOTE (context): Jesus prays to the Father for the circle, recorded separately as a practice, prayer-2016-12-02-af-jesus. The declaration he gives later, "I am a child of God," is a declaration rather than a prayer and has no practice file.
+- NOTE (context): Jesus prays to the Father for the circle, recorded separately as a practice, prayer-2016-12-02-af-jesus. The declaration he gives later, "I am a child of God," is a declaration rather than a prayer and has no practice file.
+
+### 2016-12-03-af-matthew | Open Your Souls to God's Love | 2016-12-03
+- NOTE (witness, `simplicity-of-the-path`): the simplicity put in terms of time and effort, "it is simple, it takes little time, it takes but a sincere effort and it will indeed change your life, given enough of this blessing within you."
+- NOTE (sighting, `unlimited-reception`): the Love given without end, "in this touch you begin a journey that lasts for all eternity for this love may be blessed to you over and over again for all eternity," stated as a promise rather than argued.
+- NOTE (sighting, `mind-vs-soul`): the Love known only by experiencing it, "none can describe completely for in order to know it you must experience it."
 
 ### 2016-12-06-af-seretta-kem | Talk on Mediumship: The Laws of Communication and Rapport | 2016-12-06
 - `divine-love-mediumship` **[Elaboration]** : Develops the conditions and laws of communication that the Foundation (2016-03-27) opens. The circle's prime objective must be to seek the Divine Love, not a message; harmonious conditions built by prayer and desire draw the angels close, and the Laws of Communication and Rapport come into effect from those conditions. Carries the thread's discernment principle: if a message has no mention of God's Love and is not about the opening and flowering of the soul, it is not from an angel, and each must discern through their own soul what is true. Elaborates the mechanism into a practical account of what makes reception clear and how to test it.

@@ -2516,9 +2516,11 @@ message_ids already carry the dates.
   consequence attached, "it really is so very simple and as you live this
   simple life all the complexities will fall away or fall into place";
   2016-11-26-af-andrew, "It is so simple, my beloveds, so simple," with the
-  manner named as innocence, simplicity and grace; 2018-11-28-af-augustine,
-  "Yes, it is a simple path, is it not? It is not adorned with many complex
-  ideas and this is for a reason."
+  manner named as innocence, simplicity and grace; 2016-12-03-af-matthew, the
+  simplicity put in terms of time and effort, "it is simple, it takes little
+  time, it takes but a sincere effort"; 2018-11-28-af-augustine, "Yes, it is a
+  simple path, is it not? It is not adorned with many complex ideas and this
+  is for a reason."
   Witnesses, where the complication is located. 2016-09-04-af-augustine
   forbids argument itself rather than complexity, "Do not argue with others.
   Be sure of the Love. Do not express contrary opinions, but be sure in the
@@ -3531,17 +3533,18 @@ only stating it.
   2016-05-02-af-andrew ("there are unlimited possibilities, for God's Love,
   this energy, this Gift is unlimited. The potential for your soul to receive
   this Gift is unlimited"); 2016-09-01-af-seretta-kem ("the capacity to
-  receive this Love is unlimited"); 2019-01-21-af-augustine ("you will never
-  receive all that can be, for God's blessings are infinite as is the
-  awakening of your soul and at-onement with God"). In each the claim is a
-  clause inside a message arguing something else: an image several threads
-  reach for, not an argument any message builds.
-  2016-09-09-af-francis-of-assisi, "that thirst will never be quenched but
-  with each sip of this Love you will be stronger and more fulfilled," differs
-  in kind: it offers the endlessness as a reward rather than reporting it as a
-  fact, and suggests what the argument would sound like. Mint only when a
-  message argues the inexhaustibility itself, for instance by drawing the
-  consequence that at-onement has no end point.
+  receive this Love is unlimited"); 2016-12-03-af-matthew ("this love may be
+  blessed to you over and over again for all eternity");
+  2019-01-21-af-augustine ("you will never receive all that can be, for God's
+  blessings are infinite as is the awakening of your soul and at-onement with
+  God"). In each the claim is a clause inside a message arguing something
+  else: an image several threads reach for, not an argument any message
+  builds. 2016-09-09-af-francis-of-assisi, "that thirst will never be quenched
+  but with each sip of this Love you will be stronger and more fulfilled,"
+  differs in kind: it offers the endlessness as a reward rather than reporting
+  it as a fact, and suggests what the argument would sound like. Mint only
+  when a message argues the inexhaustibility itself, for instance by drawing
+  the consequence that at-onement has no end point.
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the
