@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-10-15
+last_updated: 2026-10-18
 ---
 
 # Browse All Messages
@@ -385,6 +385,7 @@ last_updated: 2026-10-15
 | [Awaken from Your Slumbers](messages/2016/11/2016-11-30-af-jesus.md) | [Jesus](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑11‑30 | Drink of the Love, and whatever in you is asleep cannot stay asleep. |
 | [Awaken to the Love Divine](messages/2016/12/2016-12-01-af-john-the-beloved.md) | [John the Beloved](../spirits/john-the-beloved.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑01 | There is no turning back to the darkness. Each year the light grows brighter. |
 | [Sowing Seeds of Truth](messages/2016/12/2016-12-01-af-tahlia.md) | [Tahlia](../spirits/tahlia.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑01 | No one thanked you, and nothing seemed to change. The seed is in the soul anyway. |
+| [Turn to the Soul Rather than the Mind](messages/2016/12/2016-12-02-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑02 | You do not have to convince anyone. You only have to be there, and be the Love. |
 | [The World Needs Your Prayers](messages/2016/12/2016-12-02-af-white-cloud.md) | [White Cloud](../spirits/white-cloud.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑02 | Love is not the soft option. It is the most powerful force in the universe |
 | [Talk on Mediumship: The Laws of Communication and Rapport](messages/2016/12/2016-12-06-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑06 | The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit |
 | [Be Calm in the Coming Storms](messages/2016/12/2016-12-07-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑07 | In any storm, the soul that is calm is the one others turn to |
