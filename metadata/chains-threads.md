@@ -244,9 +244,13 @@ message_ids already carry the dates.
   clothing is taken off so that something can happen; this message says what
   is put on instead, which is what turns a repeated figure into an argument
   with an end.
-  Witness. 2016-10-15-af-confucius carries the water half of the cluster rather
-  than the clothing, "Open your souls. Drink in these living waters. Allow
-  yourselves to be fully immersed in this great Love."
+  Witnesses. 2016-10-15-af-confucius carries the water half of the cluster
+  rather than the clothing, "Open your souls. Drink in these living waters.
+  Allow yourselves to be fully immersed in this great Love."
+  2016-12-05-af-augustine carries the exchange the Capstone makes, "remove
+  your old garments and don new garments of light," with its pace left to the
+  seeker, "some carry these dilemmas for a very long time while others have
+  gladly removed their old cloaks and donned the cloaks of light swiftly."
   Fences. Against `fear-of-full-immersion`, which is the fence that resolves
   the scope question raised four times: that thread argues why a soul will not
   go all the way into the Love and what it believes it will lose, and it keeps
@@ -817,9 +821,12 @@ message_ids already carry the dates.
   emissaries of Love will help ease the fears and the confusion that will
   ensue from these changes." Explicit that the Hand is God's and the intended
   end is balance, as the Foundation also has it.
-  Witness. 2016-12-07-af-andrew, the world and the soul changing together,
-  "The world is changing and you are changing," with the Earth to be "healed
-  and brought back into balance."
+  Witnesses. 2016-12-05-af-augustine, the cause and the remedy together,
+  humanity having "stressed many places upon this world to the point of
+  breaking" and God having "set in motion a change agent that will bring about
+  a balancing of the world, a healing of this planet"; 2016-12-07-af-andrew,
+  the world and the soul changing together, "The world is changing and you are
+  changing," with the Earth to be "healed and brought back into balance."
   Fences. Against `preparation-to-be-a-rock`: that thread is the readying of
   souls; this is the Earth's own changes and their purpose. Against
   `earth-conditions-and-prayer`: that thread is the man-made darkness-field
@@ -1117,7 +1124,9 @@ message_ids already carry the dates.
   non-coercion stated as invitation, "God does not command you to love him but
   God beseeches you to know his Love. It is your choice";
   2016-09-10-af-augustine, the same spirit stating it again, recorded so the
-  repetition can be found.
+  repetition can be found; 2016-12-05-af-augustine, the choice to follow
+  guidance with no penalty for refusing, "it is always your choice. If you
+  refuse, it does not mean that God loves you any less."
   Witnesses, the assistance gate. 2016-09-14-af-augustine, help gated on the
   seeker's asking with the spirits' posture in the meantime named as enforced
   waiting, "we in spirit who watch you and watch over you can only wait for
@@ -1576,22 +1585,23 @@ message_ids already carry the dates.
   other people's ideas arriving through education, with the consequence that
   inaccurate perception yields inaccurate choice. Governance:
   2016-03-30-af-augustine, humility as the willful side yielding to the soul;
-  2016-10-24-af-confucius, the agency axis restated, and
-  2019-01-21-af-augustine, the succession stated as humanity's next step, the
-  same claim as 2016-08-31-af-martin-luther. How the soul knows:
-  2016-09-02-af-augustine, the ineffability claim; 2016-10-26-af-augustine,
-  the soul as the image of God offered as the reason the recognition faculty
-  sits there; 2016-11-29-af-andrew, seeing and knowing as capacities of the
-  soul once the Love awakens it; 2016-12-02-af-augustine, the soul as where
-  the knowing is, "the key is within your soul"; and 2018-08-06-af-solomon,
-  the soul's knowing as the test when the mind finds an argument sound.
-  Reception: 2016-09-04-af-john-the-beloved, what the Love does to perception,
-  with the cost named. The two held at once: 2016-09-09-af-andrew, the
-  material mind as where the vestiges persist after the soul has changed;
-  2018-05-12-af-luke, a candidate for promotion, which runs the counterfeit
-  the other way, the soul healed while the mind still remembers; and
-  2018-06-26-af-matthew, the same asymmetry, "because of the well-worn
-  patterns of the mind, these conditions continue to be active."
+  2016-10-24-af-confucius, the agency axis restated; 2016-12-05-af-augustine,
+  the soul taking "ascendency over your mind" and the mind beginning "to
+  acquiesce to your soul"; and 2019-01-21-af-augustine, the succession stated
+  as humanity's next step, the same claim as 2016-08-31-af-martin-luther. How
+  the soul knows: 2016-09-02-af-augustine, the ineffability claim;
+  2016-10-26-af-augustine, the soul as the image of God offered as the reason
+  the recognition faculty sits there; 2016-11-29-af-andrew, seeing and knowing
+  as capacities of the soul once the Love awakens it; 2016-12-02-af-augustine,
+  the soul as where the knowing is, "the key is within your soul"; and
+  2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
+  argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
+  does to perception, with the cost named. The two held at once:
+  2016-09-09-af-andrew, the material mind as where the vestiges persist after
+  the soul has changed; 2018-05-12-af-luke, a candidate for promotion, which
+  runs the counterfeit the other way, the soul healed while the mind still
+  remembers; and 2018-06-26-af-matthew, the same asymmetry, "because of the
+  well-worn patterns of the mind, these conditions continue to be active."
   These with 2016-05-02-af-andrew give the full asymmetry, and if a message
   builds it they would make a strong section read together.
   The rest are sightings, search-level adjacencies, and the anti-double-count
@@ -2895,7 +2905,9 @@ message_ids already carry the dates.
   and this desire that you share amongst you, my brethren, makes for a
   powerful bond which shall last for all eternity," which 2016-11-28-af-luke
   carries developed; 2016-12-02-af-confucius, fellowship as a need, "continue
-  to bond together in love for you need one another."
+  to bond together in love for you need one another"; 2016-12-05-af-augustine,
+  the gathering as what holds the awakening in place, "you come together
+  because your souls draw you together to reinforce this new awakening."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the
@@ -3108,7 +3120,13 @@ message_ids already carry the dates.
   a specific way but to be open and flexible realizing that God has a plan for
   you that unfolds with each day," with the practice attached, "be open to
   whatever invitations come your way this day." It treats one's own intentions
-  as an encumbrance of the same kind as possessions.
+  as an encumbrance of the same kind as possessions. 2016-12-05-af-augustine
+  names the comfort of the circle itself as something to leave, "It is easy
+  for you to envelop yourself in your own little worlds, safe, filled with
+  love and comforts, joy and peace. Yes, my beloveds, this is the easy part,"
+  since "if you are not out amongst mankind there is no way that God can use
+  you as a channel to touch others," and gives the time together a purpose
+  beyond itself, "to replenish and to heal, to strengthen and to teach."
   Witnesses, the commission asserted without the release.
   2016-08-11-af-alec-gaunt has it materializing in the present tense, "You
   will travel the world to bring these truths to mankind and now you see this
@@ -3172,8 +3190,9 @@ message_ids already carry the dates.
   What is awaited. Whether the encumbrances form a series or one idea
   restated: material burdens at 2016-03-06-af-jesus, one's own intentions and
   plans at 2016-08-27-af-augustine, one's own needs at
-  2016-09-16-af-john-the-beloved. If they are three claims the last is
-  promotable; if one, it stays a witness.
+  2016-09-16-af-john-the-beloved, the safety of the loving circle at
+  2016-12-05-af-augustine. If they are three claims the last is promotable; if
+  one, it stays a witness.
   Structural note: 2016-01-08-af-jesus also carries a `healing-channel`
   witness for its "great channel of service."
 
@@ -3512,19 +3531,20 @@ only stating it.
   must prevail and spread to create Circles of Light against the negative
   forces of the world); 2018-05-28-af-jesus ("association of souls of Light
   and Truth that is coming together and coalescing into a beautiful movement
-  that shall indeed push back the darkness");
-  2018-10-24-af-seretta-kem ("nodes of deep darkness... surrounded and
-  neutralized by your efforts"); 2019-02-04-af-jesus ("two powerful
-  currents... beachheads of Light... nodes of Light expand and grow"; the
-  seeker carries "a powerful antidote to the darkness"). Light against
-  darkness at world scale, without the contest framing: 2016-08-15-af-jesus
-  (with the incremental arc), 2016-09-02-af-confucius, and
-  2016-09-03-af-james, which states both directions in one message, "the world
-  will continue to darken to the point that all will unravel" set against
-  "This tiny droplet of Light will expand and expand"; and
-  2016-11-28-af-seretta-kem, with the circles' gathered prayer as what carries
-  the change, "to continue the momentum of this great force of change that is
-  coming to the world". Mint when a message
+  that shall indeed push back the darkness"); 2018-10-24-af-seretta-kem
+  ("nodes of deep darkness... surrounded and neutralized by your efforts");
+  2019-02-04-af-jesus ("two powerful currents... beachheads of Light... nodes
+  of Light expand and grow"; the seeker carries "a powerful antidote to the
+  darkness"). Light against darkness at world scale, without the contest
+  framing: 2016-08-15-af-jesus (with the incremental arc),
+  2016-09-02-af-confucius, and 2016-09-03-af-james, which states both
+  directions in one message, "the world will continue to darken to the point
+  that all will unravel" set against "This tiny droplet of Light will expand
+  and expand"; 2016-11-28-af-seretta-kem, with the circles' gathered prayer as
+  what carries the change, "to continue the momentum of this great force of
+  change that is coming to the world"; and 2016-12-05-af-augustine, the
+  gathering movement itself, "you will all join together one day in a great
+  movement that cries out for healing of this world". Mint when a message
   develops the two-currents framing rather than restating it.
 - `unlimited-reception`, the soul's capacity to receive Divine Love is
   unbounded, so reception never completes and at-onement is an endless
@@ -3566,18 +3586,21 @@ only stating it.
   Each one of you is able to receive this gift as long as you allow this
   Touch"; 2016-11-07-af-andrew, which builds a whole address on it, "All that
   inhibits this blessing from flowing into yourselves in great abundance is
-  that doubt within you, that you are loved"; and 2016-11-29-af-andrew, which
-  puts the gate on the love that flows out through a person rather than the
-  Love received, "all that stands in the way of this immense flood of love
-  that can and will come through you... is your thought that you are unworthy,
-  or that you are not loved, or that you cannot love".
-  `fear-of-full-immersion` and `self-love-foundation` each touch it without
-  holding it: `fear-of-full-immersion` rules unworthiness out of the obstacle
-  it names, and `self-love-foundation` is about how a person regards
-  themselves rather than what they can receive from God. That first fence is
-  also a live tension recorded in the `fear-of-full-immersion` roster, and
-  settling it may settle this candidate too, in either direction. Mint when a
-  message develops the gate rather than asserting it.
+  that doubt within you, that you are loved"; 2016-11-29-af-andrew, which puts
+  the gate on the love that flows out through a person rather than the Love
+  received, "all that stands in the way of this immense flood of love that can
+  and will come through you... is your thought that you are unworthy, or that
+  you are not loved, or that you cannot love"; and 2016-12-05-af-augustine,
+  which makes accepting that one is loved the step that clears the way to
+  serve, "to accept that you are loved, that you are truly loved and that you
+  are precious in God's sight". `fear-of-full-immersion` and
+  `self-love-foundation` each touch it without holding it:
+  `fear-of-full-immersion` rules unworthiness out of the obstacle it names,
+  and `self-love-foundation` is about how a person regards themselves rather
+  than what they can receive from God. That first fence is also a live tension
+  recorded in the `fear-of-full-immersion` roster, and settling it may settle
+  this candidate too, in either direction. Mint when a message develops the
+  gate rather than asserting it.
 
 ---
 
