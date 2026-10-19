@@ -39,9 +39,10 @@ questions:
   - "What does it mean to treat myself with Love?"
   - "How do I build momentum in my spiritual growth rather than constantly starting over?"
 related_messages:
-  - 2017-09-12-af-martin-luther
-  - 2017-06-15-af-augustine
+  - 2016-12-05-af-goldie
   - 2017-01-23-af-alec-gaunt
+  - 2017-06-15-af-augustine
+  - 2017-09-12-af-martin-luther
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-responsibility-of-acting-in-love-lies-with-you/"
 notes: ""
@@ -54,8 +55,8 @@ excerpt: >
   possible.
 collections: ["Mind & Soul"]
 door: >
-  You are babies no longer. The phase of application has begun
-last_edited: 2026-04-23
+  You are babies no longer. The phase of application has begun.
+last_edited: 2026-10-18
 ---
 
 My beloveds, have faith in yourselves. I am Martin Luther. You have come to a most challenging time, my beloved souls. A time where you take your new sensibilities and sensitivities out into the world to bring them more fully into your consciousness and your expression in the world. It is these first tentative steps that are important, that you may consciously choose to express yourselves more fully within your soul rather than your mind.
