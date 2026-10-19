@@ -1143,7 +1143,10 @@ message_ids already carry the dates.
   "each soul has their own unique journey in life and lessons to be learned."
   2016-11-29-af-judas states it plainly and widens it to the world, "none of
   you are responsible for another in regards to their choices and their path
-  to God," and "only God can save the world."
+  to God," and "only God can save the world"; 2016-12-07-af-jesus adds what
+  the released seeker does instead, "it is your responsibility to lead your
+  own soul into the light and in so doing you become an example for other
+  souls and it then becomes their choice to open their eyes and to see."
   Fences. Against `free-will-and-gods-plan`: that thread is God's
   orchestration of His plan across generations through willing souls; this one
   is the individual's own will as the pivot of their own healing. The
