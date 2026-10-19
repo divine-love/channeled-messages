@@ -57,6 +57,7 @@ door: >
   your souls that you cannot see but will one day fully understand.
 collections:
   - "Healing Path"
+  - "Prism of the Soul"
 last_edited: 2026-10-18
 ---
 
