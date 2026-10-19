@@ -2,7 +2,7 @@
 
 # For use as project knowledge in Claude conversations
 
-# Last updated: 2026-10-12
+# Last updated: 2026-10-18
 
 # THE REPOSITORY IS CANONICAL. These instructions carry only what the repo
 
@@ -54,11 +54,11 @@ For published messages: the curator sends the URL; fetch and verify against the 
 
 ## Current state
 
-- Processing position: two fronts. The sequential catch-up through the 2016 backlog has reached 2016-11-27-af-james-reid-2. Messages from other dates are catalogued as they surface, so the archive already holds material through 2023 (latest: 2023-02-10-af-augustine), including some later 2016 messages (2016-11-28 onward). Check the index for collisions rather than assuming a message is unprocessed because of its date
+- Processing position: two fronts. The sequential catch-up through the 2016 backlog has reached 2016-12-05-af-augustine. Messages from other dates are catalogued as they surface, so the archive already holds material through 2023 (latest: 2023-02-10-af-augustine), including 2016-12-06-af-seretta-kem and 2016-12-07-af-andrew. Check the index for collisions rather than assuming a message is unprocessed because of its date
 - Archive spans 1963-2023; earliest message 1963-12-26-ds-mary (earliest member of any chain, via who-jesus-was)
-- Chains layer: 41 minted threads, every one with a roster; 17 candidates in the holding pen. Every log entry has been made from a full reading, and every quote in the log and rosters has been checked against its message. All validator debt counters are at 0, so a newly minted thread needs its roster in the same commit
+- Chains layer: 41 minted threads, every one with a roster (each under a ### slug heading); 18 candidates in the holding pen. Every log entry has been made from a full reading, and every quote in the log and rosters has been checked against its message. All validator debt counters are at 0, so a newly minted thread needs its roster in the same commit
 - Read the project doc `claude/chains-layer-handoff.md` before any chains work: it carries the standing rulings (no counts, intervals or rank claims; plain language; quotes are the message's own words; the six NOTE kinds), how the validator works, and the open questions
-- Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and the log carries a context note pointing to it
+- Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and the log carries a context note pointing to it. Declarations to affirm, and a circle's own prayer that a spirit quotes, get no practice file; the context note says so
 - "Not publicly posted online." is retired (2026-10-12): a blank `canonical_url` alone records that no public copy is known
 - Portal watch closed 2026-08-06 on the minting of `portals`; portal sightings continue as ordinary thread traffic (2016-03-25 loose → 2016-08-25 established → 2018-11-21 and 2019-01-26 doctrine → 2019-04-06 boundary)
 - Mediums on file: Al Fike (af), Barbara Davies (bd), Maureen Cardoso (mc), Dr. Daniel Samuels (ds), Jimbeau Walsh (jw), anonymous (xx)

@@ -9,23 +9,24 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   James Padgett reflects openly on his own fear and desire for recognition when
-  the truth of Divine Love first came to him, and uses it to teach that effective
-  ministry requires not perfect knowledge or a polished presentation, but a
-  humble, loving sharing of one's own unique experience of God — for it is the
+  the truth of Divine Love first came to him, and uses it to teach that sharing
+  the truth requires not perfect knowledge or a polished presentation but a
+  humble, loving sharing of one's own unique experience of God, for it is the
   embrace, not the argument, that touches another soul.
-primary_subjects: "Discipleship"
+primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
+  - "Overcoming Fear & Doubt"
   - "Humility"
-  - "Service, Ministry & Being a Channel of Love"
   - "Spirit Testimony & Personal Story"
   - "Unique Soul Gifts"
+  - "Discipleship"
 people: []
 spirits: ["jesus"]
-keywords: ["James Padgett", "fear", "ego", "recognition", "ministry", "testimony", "unique story", "embrace", "humility", "Natural Path", "Divine Path", "words", "love", "channel of love", "credibility", "mission"]
+keywords: ["fear", "ego", "recognition", "reputation", "ministry", "testimony", "speaking truth", "unique story", "embrace", "humility", "simplicity", "Natural Path", "Divine Path", "words", "love", "channel of love", "credibility", "mission"]
 questions:
   - "How do I share the truth of Divine Love with others without fear?"
   - "How do I overcome my ego when sharing spiritual truth?"
@@ -34,32 +35,31 @@ questions:
   - "How do I share my spiritual experience without claiming to have all the answers?"
   - "Why is my personal story of transformation more powerful than theological argument?"
   - "How do I embrace people on different spiritual paths?"
-  - "What did James Padgett regret about how he handled the Divine Love messages?"
+  - "Was James Padgett afraid to share the Divine Love messages?"
   - "How do I be a channel of Love rather than just a teacher of words?"
   - "What feeds the soul versus what feeds the mind?"
   - "How do I walk in humility while sharing profound spiritual truth?"
 related_messages:
   - 2015-08-20-af-james-padgett
-  - 2016-03-18-af-john-the-beloved  
+  - 2016-03-18-af-john-the-beloved
   - 2016-05-11-af-james-padgett
   - 2016-08-16-af-james
   - 2016-11-27-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/minds-men-hunger-reality-words-create-soul-hungers-love/"
 notes: >
-  James Padgett opens with a personal confession about initially hiding the
-  Divine Love truth out of fear for his reputation — significant biographical
-  content. Jesus mentioned as the example of teaching through personal example
-  and healing; added to spirits field.
+  Padgett says that when the truth of Divine Love came to him he was afraid
+  for his reputation and wanted to keep it a secret, "only letting in those
+  very few that I trusted."
 essential_teachings: ["Core Teaching", "Spirit Biography"]
 language: en
 excerpt: >
-  The minds of men hunger for the reality that words create, but the soul hungers
-  for Love — and it is your embrace that will touch another soul.
-collections: ["Service & Mission", "Letters from History"]
+  The minds of men hunger for the reality that words create but the soul
+  hungers for Love. Which do you wish to feed, beloved friends?
 door: >
-  Your unique story of Love is all you need, and your embrace will touch souls your words alone never could
-last_edited: 2026-08-25
+  Your unique story of Love is all you need, and your embrace will touch souls your words alone never could.
+collections: ["Service & Mission", "Letters from History"]
+last_edited: 2026-10-18
 ---
 
 It is James Padgett. Ah, how provocative is the Divine Love my friends? When this truth came to me I was afraid of it, afraid for my reputation. I wanted to keep it a secret, only letting in those very few that I trusted, only allowing the truth to become known to a very small degree.

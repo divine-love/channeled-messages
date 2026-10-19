@@ -2,8 +2,8 @@
 message_id: 2015-08-20-af-james-padgett
 title: "Express the Truth to Others: Padgett Talks of Why This Is So Important"
 date: 2015-08-20
-spirit_name: James Padgett
 spirit_id: james-padgett
+spirit_name: "James Padgett"
 medium: Al Fike
 location:
   city: Gibsons
@@ -19,34 +19,47 @@ description: >
   that even the smallest act of sharing the Truth can have great and enduring
   consequences for others.
 primary_subjects: "Padgett Messages & Legacy"
-secondary_subjects: ["Testimony of God's Love", "Discipleship", "Soul Spheres & Progression", "Spiritual Empowerment & Encouragement"]
+secondary_subjects:
+  - "Teaching & Sharing the Message"
+  - "Overcoming Fear & Doubt"
+  - "Testimony of God's Love"
+  - "Spirit Testimony & Personal Story"
+  - "Discipleship"
 people: []
 spirits: ["jesus"]
-keywords: ["Padgett", "automatic writing", "Padgett Messages", "Divine Love", "truth", "doubt", "fear", "courage", "testimony", "service", "spirit communication", "rewards", "celestial kingdom", "eternity", "commitment"]
+keywords: ["automatic writing", "Padgett Messages", "Divine Love", "truth", "speaking truth", "boldness", "doubt", "fear", "reputation", "courage", "testimony", "simplicity", "service", "spirit communication", "rewards", "celestial kingdom", "eternity", "commitment"]
 questions:
   - "Who was James Padgett?"
   - "What are the Padgett Messages?"
   - "How were the Divine Love messages received through automatic writing?"
   - "Did James Padgett doubt the messages he received?"
-  - "What rewards await those who share the Truth of Divine Love?"
   - "How do I share the Truth of Divine Love with others?"
-  - "What happens in the spirit world to those who live and share God's Love?"
   - "How do I overcome fear of what others think about my spiritual beliefs?"
+  - "Why am I afraid to tell people what I believe?"
   - "Can one person sharing a spiritual truth really change the world?"
+  - "What rewards await those who share the Truth of Divine Love?"
+  - "What happens in the spirit world to those who live and share God's Love?"
   - "What is the Celestial Kingdom?"
   - "How does the journey of spiritual growth continue after death?"
   - "What is the legacy of the Padgett Messages today?"
-related_messages: []
+related_messages:
+  - 2016-08-17-af-james-padgett
+  - 2018-11-05-af-john-wesley
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/express-the-truth-to-others-padgett-talks-of-why-this-is-so-important/"
-essential_teachings: ["Historical", "Spirit Biography"]
 notes: >
-  James Padgett speaks at the August 2015 international retreat. He reflects on
-  his own struggles with doubt and fear during his years as medium, and expresses
-  gratitude that his work has borne fruit in the lives of those gathered.
+  Padgett describes the work as begun by "one man who was filled with doubts
+  and grief for the loss of his wife," and speaks of having been fearful for
+  his career, his reputation, and his standing in the community.
+essential_teachings: ["Historical", "Spirit Biography"]
+language: en
+excerpt: >
+  Can you walk boldly and say, Dear brothers and sisters, I have something that
+  may change your life, a simple Truth so profound that it can change everything?
 door: >
-  The truth you carry is needed, and the world cannot hear it if you keep it to yourself
-last_edited: 2026-04-13
+  The truth you carry is needed, and the world cannot hear it if you keep it to yourself.
+collections: ["Letters from History", "Service & Mission"]
+last_edited: 2026-10-18
 ---
 
 Beloved souls, I am Padgett, James Padgett. I have been asked to speak to you and it is my honor and privilege to do so in this gathering of beautiful souls. The Light that you have created by your presence and prayers is tremendous. It reverberates far out into the spheres of spirit. It creates a place where many spirits are drawn and seek the Light. You do a great service, my friends, in your prayers, in your efforts to reach the highest, to reach for God's Love.

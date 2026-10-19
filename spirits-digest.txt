@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-10-12 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
+Generated 2026-10-18 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -794,6 +794,11 @@ notes: >
   He opens 2014-10-11-af-judas with "I have not spoken through this instrument
   for quite some time," so communications through Al Fike predate the earliest
   Judas message held in the archive.
+
+  In 2016-11-29-af-judas he says he does not speak often and wishes to speak
+  more often to his brothers and sisters in this world, and he invites anyone
+  to call on him: "Ask for my assistance and I will come to you and help you
+  in whatever way I can in love, in light, in truth."
 
 ========================================================================
 FILE: spirits/keea-atta-kem.yml

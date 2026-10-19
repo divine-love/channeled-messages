@@ -42,10 +42,11 @@ questions:
   - "How do soul perceptions help me understand the person I am talking to?"
   - "How does God work through a conversation even when I say the wrong thing?"
 related_messages:
-  - 2018-09-15-af-augustine
-  - 2018-09-01-af-augustine
   - 2016-08-17-af-james-padgett
   - 2016-11-06-af-jesus
+  - 2016-12-02-af-white-cloud
+  - 2018-09-01-af-augustine
+  - 2018-09-15-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/time-to-speak-the-truth/"
 notes: ""
@@ -57,7 +58,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Silence in the presence of error is an acceptance of error
-last_edited: 2026-08-19
+last_edited: 2026-10-18
 ---
 
 You have been discussing ways in which to communicate with your brothers and sisters, those who do not understand nor have experience the blessing of the Divine Love. You will meet many in your time on Earth who may not know your experience or understand your way of prayer. I say to you, beloved souls, ask to be guided when you are reaching out to another or another reaches out to you. We will assist you and inspire within you the words to be spoken. For this to happen, you must have a loving appreciation of each soul, an understanding of their condition and state of mind. With your soul perceptions, this is possible, to truly receive insight into another in a way that increases your own sense of love and compassion for another.

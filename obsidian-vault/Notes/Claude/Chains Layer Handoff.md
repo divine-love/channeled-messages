@@ -1,5 +1,5 @@
 
-State as of 2026-10-12. Read this before any work on `metadata/chains-log.md` or `metadata/chains-threads.md`.
+State as of 2026-10-18. Read this before any work on `metadata/chains-log.md` or `metadata/chains-threads.md`.
 
 ## Starting a session
 
@@ -10,6 +10,7 @@ State as of 2026-10-12. Read this before any work on `metadata/chains-log.md` or
 5. Commit text fixes and validator changes together, or the build fails on the gap between them.
 6. When rewrapping roster prose, keep each section label (Foundation, Elaborations, Witnesses, Fences, What is awaited, Structural note and the rest) at the start of its own line. A line ending in a closing quote (`."`) is a sentence end too.
 7. Anything in quotation marks in the log or a roster is the message's own words. Check every quote against the message text before delivering.
+8. Log lines start at column 0. A heading or NOTE line pasted with leading spaces breaks the build; check new entries for indentation before delivering.
 
 ## Standing rulings
 
@@ -50,9 +51,13 @@ Instead, state the relation between named messages: one develops what another as
 
 A note touching several threads is split into one NOTE per thread. Notes made redundant by a later role line are kept as `build` notes, not deleted.
 
-**Roster entries** follow the shape in the chains-threads design block: an opener naming the thread and its arc, then role sections in argument order (facet groups allowed within a section), then Witnesses, Fences, What is awaited, Structural note, in that order. Sightings stay in the log, except where one marks a thread's boundary. A message named in a roster as a member or witness should have a log entry that agrees with it. Rosters are alphabetical.
+**Roster headings.** Each roster sits under its own `### slug` heading, so it can be found and linked; the validator accepts the headings.
 
-**Prayer files.** Spirit-given prayers, including prayers a spirit offers for the circle and words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, template in `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and the log carries a context note pointing to it.
+**Roster entries** follow the shape in the chains-threads design block: an opener naming the thread and its arc, then role sections in argument order (facet groups allowed within a section), then Witnesses, Fences, What is awaited, Structural note, in that order. Sightings stay in the log, except where one marks a thread's boundary. A message named in a roster as a member or witness should have a log entry that agrees with it. Rosters are alphabetical, and so is the holding pen. When a roster's single "Witness." gains a second message, the label becomes "Witnesses."
+
+**Prayer files.** Spirit-given prayers, including prayers a spirit offers for the circle and words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, template in `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and the log carries a context note pointing to it. Two kinds of words get no practice file, and the log's context note says why: a declaration the seeker is given to affirm rather than a prayer addressed to God (2016-12-02-af-jesus, "I am a child of God"), and a prayer the circle already says that a spirit quotes rather than gives (2016-12-05-af-augustine, "Dear Father make me an instrument of your peace, a channel of your love"). Prayer files show their title as a heading in the Obsidian vault, through `add_title_heading` in `generate_vault.py`.
+
+**Questions in message files** never imply something the messages deny for the Divine Love path. For example, a question must not suggest that a soul far enough along that path could fall back into darkness.
 
 **Posted or not.** `canonical_url` alone records whether a message is posted online: blank means no known public URL. The notes field does not carry "Not publicly posted online.", because messages are still being posted and the note goes stale.
 
@@ -60,7 +65,9 @@ A note touching several threads is split into one NOTE per thread. Notes made re
 
 - `divine-accompaniment` (pen; replaced `angelic-accompaniment`) is one argument in steps: the soul that earnestly seeks Divine Love is accompanied from spirit, and how closely depends on how it seeks. Help comes on the asking (an angel sent in answer to a request). Earnest prayer for the Love brings an angel close, one God assigns to each earnest soul and present when it prays, not necessarily at other times. Those who keep praying for the Love are promised a standing accompaniment in their lives; promises worded as "always" or "in your life" (2018-07-07-af-aaron, 2019-02-18-af-augustine) are personal to that company, not addressed to everyone in the world. And Jesus assigns Celestial spirits as guides to mortals who walk the path of Love (2019-01-30-af-seretta-kem). Fence against the assistance gate in `free-will-and-self-responsibility`.
 - `two-paths` includes natural love as a gift from God whose road leads to real harmony and joy: the roads differ in how far they reach, not in whether the love is good. This is a step in the registry spine, carried by an Objection-removed section (anchor 2016-09-02-af-augustine).
-- `soul-purpose-emergence` covers a purpose designed by God, the soul's commitment to it made before birth, and growing into a purpose already seen as well as coming to know it. A place within a collective work belongs to `vanguards-of-change`.
+- `soul-purpose-emergence` covers a purpose designed by God, the soul's commitment to it made before birth, and growing into a purpose already seen as well as coming to know it. A place within a collective work belongs to `vanguards-of-change`. The purpose can surface on the natural love path as well as the Divine, so the registry does not make the Love its cause: members that name the Love give it as what makes the purpose clearer, and 2016-11-29-af-care has the plan unfold without naming it.
+- `no-turning-back` (pen): once a soul has received enough Divine Love on the Divine Love path it cannot fall back into darkness; a soul with natural love only can fall from however high it has risen (the first parents at 2016-05-29-af-aman). Mint when a message states the threshold itself rather than promising the seekers they cannot turn back.
+- `the-whole-requirement` (pen) stays open until a message settles it beyond doubt. 2016-11-29-af-judas promises provision, but for hard encounters with people rather than for an undertaking, so it is recorded as not the settling case.
 - `healing-channel` is a channel for healing; a channel of Love with no healing language is set aside (2016-11-26-af-andrew).
 
 ## The validator
@@ -69,7 +76,7 @@ A note touching several threads is split into one NOTE per thread. Notes made re
 
 **Hard checks (any occurrence fails the build):** both files carry an ISO `last_updated`; the registry and rosters are alphabetical and every roster has a registry row; every slug in the log is in the registry or the holding pen; one record per line; entries chronological with no duplicate message_id; role lines match `-` slug`**[Role]** :` and use the seven link roles; every NOTE uses one of the six kinds.
 
-**Debt counters** (fail only if a count rises above its baseline), as of 2026-10-12: all nine at 0, including `minted_without_roster`. Every minted thread now has a roster, so a newly minted thread needs its roster in the same commit.
+**Debt counters** (fail only if a count rises above its baseline), as of 2026-10-18: all nine at 0, including `minted_without_roster`. Every minted thread has a roster, so a newly minted thread needs its roster in the same commit.
 
 When work clears items, the script prints the new baseline to set. To get a worklist for a category, set its baseline to 0 temporarily: the run lists the items with line numbers. Restore the real count before committing.
 
@@ -95,8 +102,10 @@ The Obsidian vault generator now links thread slugs written in backticks (in log
 
 ## Next
 
-- **Cataloguing resumes with the 2016 backlog after 2016-11-27-af-james-reid-2**, the last message batch-processed. Some later messages (2016-11-28 onward, and material through 2023) are already catalogued, so check the index for collisions. Log each new message at full reading, with quotes checked, and add it to the rosters it joins. Watch for messages that develop `divine-accompaniment` rather than asserting a step of it.
+- **Cataloguing continues through the 2016 backlog after 2016-12-05-af-augustine.** 2016-12-06-af-seretta-kem, 2016-12-07-af-andrew and material through 2023 are already catalogued, so check the index for collisions. Log each new message at full reading, with quotes checked, and add it to the rosters it joins. Watch for messages that develop `divine-accompaniment` rather than asserting a step of it.
+- **2016-12-02-af-white-cloud has a message file but no log entry.** It needs a full reading and an entry at its date's position, between 2016-12-02-af-jesus and 2016-12-03-af-matthew.
+- **`vanguards-of-change`, What is awaited.** The things to give up now read as a series, each closer to the self than the last: possessions (2016-03-06-af-jesus), one's own plans (2016-08-27-af-augustine), one's own needs (2016-09-16-af-john-the-beloved), and the safety of the loving circle (2016-12-05-af-augustine). A message that names the series, or carries it further, may settle that question.
 
 ## Open questions awaiting the curator
 
-None from the cleanup. The Open questions section of `chains-threads.md` holds the longer-running ones (the fence between `prayer-changes-world-conditions` and `bell-toll-instrumentality`, the consequences of two promotions, a minted thread's image returning with the opposite meaning, the `free-will-and-gods-plan` connection, anchoring below the whole message, and two possible collections). The `earth-conditions-and-prayer` remedy wording is settled at build, per that roster's structural note.
+None new. The Open questions section of `chains-threads.md` holds the longer-running ones (the fence between `prayer-changes-world-conditions` and `bell-toll-instrumentality`, the consequences of two promotions, a minted thread's image returning with the opposite meaning, the `free-will-and-gods-plan` connection, anchoring below the whole message, two possible collections, and the fence test case recorded there). The `earth-conditions-and-prayer` remedy wording is settled at build, per that roster's structural note.

@@ -203,6 +203,7 @@ message_ids already carry the dates.
 | `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions → these block the inflowing of Love → expiation alternates joy and the surfacing of buried pain → Divine Love washes through and cleanses where effort alone cannot → the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
 | `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) → these are unique to each soul and must be experienced to be understood → Divine Love opens the chambers and refines each faculty | Soul Awakening; Nature of the Soul; Prism of the Soul |
 | `soul-purpose-emergence` | Each soul's unique purpose emerges through awakening rather than arriving as a revelation | God designs a unique purpose for each soul and gives the gifts to fulfil it, and the soul's commitment to it is made before birth -> the invitation is deeply embedded but free will may decline it -> the purpose is not grasped by the mind nor handed over in a single revelation -> it surfaces as the soul awakens and its gifts become self-evident, on the natural love path as well as the Divine, with Divine Love making it clearer where it is received, and where it has already been seen the soul still grows into it -> until one finds oneself already walking a path in harmony with God's Will | Unique Soul Gifts; Divine Purpose |
+| `speaking-the-truth` | The truth of God's Love must be spoken, plainly and in love | Silence before error is itself a failure, so the truth must be spoken → what holds the speaker back is fear for reputation and the desire for recognition → it is spoken best as one's own experience, plainly and in love, with calm resolution rather than argument or anger → the occasions and the words are asked of God → many will turn away and some will hear, and the cost is accepted | Teaching & Sharing the Message; Overcoming Fear & Doubt |
 | `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
 | `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
 | `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → natural love is itself a gift from God and its road leads to real harmony and joy, so the roads differ in how far they reach, not in whether the love is good → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
@@ -247,6 +248,9 @@ message_ids already carry the dates.
   Witnesses. 2016-10-15-af-confucius carries the water half of the cluster
   rather than the clothing, "Open your souls. Drink in these living waters.
   Allow yourselves to be fully immersed in this great Love."
+  2016-12-02-af-white-cloud carries the clothing as pain and error, shed
+  rather than exchanged, "you will shed whatever mantle of pain and error that
+  you carry and walk forth in this freedom and this liberation of your souls."
   2016-12-05-af-augustine carries the exchange the Capstone makes, "remove
   your old garments and don new garments of light," with its pace left to the
   seeker, "some carry these dilemmas for a very long time while others have
@@ -335,7 +339,8 @@ message_ids already carry the dates.
   Witnesses. 2015-10-26-af-faith-nyquist, 2016-03-31-af-judas,
   2016-04-12-af-moses, 2016-09-06-af-joseph, 2016-10-17-af-keea-atta-kem,
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
-  2016-11-28-af-seretta-kem, 2016-12-02-af-augustine, 2019-01-21-af-augustine.
+  2016-11-28-af-seretta-kem, 2016-12-02-af-augustine,
+  2016-12-02-af-white-cloud, 2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while
   2016-08-02-af-augustine grounds the toll in active expression, "It matters
@@ -1870,6 +1875,9 @@ message_ids already carry the dates.
   make these efforts to connect with God";
   2016-08-26-af-jesus asserts the outward direction without the mechanism,
   "You must pray and be that channel of Light that will beam upon every soul";
+  2016-12-02-af-white-cloud names the whole world as what is prayed for, "This
+  world needs your prayers," and traces its abuses to a lack of love, the
+  target and grounding 2016-09-03-af-james develops;
   2018-08-13-af-seretta-kem asks intercession for the whole suffering world,
   "You must pray for these lost souls. You must pray for the leaders of your
   world."
@@ -2845,6 +2853,74 @@ message_ids already carry the dates.
   else, where the Foundation carries the whole shape, and the embedded-purpose
   claim that 2016-09-06-af-joseph states strongly is already carried by
   2015-08-17-af-peter in the Foundation section.
+
+### speaking-the-truth
+
+- `speaking-the-truth`: running from why the truth must be spoken to how it is
+  spoken and what speaking it costs.
+  Foundation, anchor: 2018-09-30-af-augustine, given to a circle discussing
+  how to reach people who do not share its experience. The call, "it is time
+  to stand up and make your statements, beloved souls, in loving ways, in ways
+  that are wise and that reach others. It is not time to be meek in your
+  approach. Yet, humility is important." The register, "plainly, simply,
+  powerfully," and "strong and forthright, clear and insistent." Silence named
+  as a failure, "a sin of omission, but a sin nonetheless," since "silence in
+  the presence of error is an acceptance of error." The cost accepted, "Though
+  the minds of many will reject your words and may turn away, there are those
+  who will hear you." Help for the words, "ask us here for our help," and
+  Jesus as the example, "He spoke the truth despite the angry reactions of his
+  elders, those in power."
+  Elaborations. 2016-08-17-af-james-padgett names what holds the speaker back,
+  "it is fear and it is a desire for recognition, these two opposite
+  conditions which do inhibit the teaching of the Divine Love," and how to
+  speak instead, as one's own experience rather than a claim on others, "not
+  saying, 'This is the Truth' but, 'This is my Truth'," since "it is not for
+  you to ensure that their interpretation is correct," and with love carrying
+  it, "It matters how you say it, how Love infuses all that you say";
+  2016-12-02-af-white-cloud asks for the truth spoken aloud and gently, "it is
+  for you to shout out this truth to the world... not in an insistent way but
+  in a gentle way," with the occasions prayed for rather than forced, "Pray for
+  those opportunities to come to you," and the division it may cause accepted,
+  "there needs to be a voice crying for truth and love in the world";
+  2018-11-05-af-john-wesley makes the claim about how change happens at all,
+  "It is that individuals stand up and speak the truth no matter the
+  consequences or reactions from those around them," gives the manner in
+  Jesus, who "merely stated the truth with calm resolution," and asks for
+  persistence, "to not give up ever but to carry on."
+  Testimony, anchor: 2015-08-20-af-james-padgett, the medium of the
+  foundational messages on his own fear, "I was afraid of what others thought
+  of me. I was fearful for my career, my reputation, my standing in the
+  community because to hold up the Truth in this way is unusual," and "I must
+  confess that my fears held me back to some degree," with the call he draws
+  from it, "Can you walk boldly and say, Dear brothers and sisters, I have
+  something that may change your life, a simple Truth so profound that it can
+  change everything?"
+  Witnesses. 2016-04-12-af-moses marks where restraint ends, "there are times
+  when a gross error, when those around you speak blatant error and express
+  profound negativity, in these times you must confront error. In these times
+  you must speak truth"; 2016-09-04-af-augustine gives the restraint side, "Do
+  not argue with others. Be sure of the Love"; 2016-11-06-af-jesus, "Each of
+  you must stand up and be counted, each must speak these truths where the
+  opportunity and God's guiding hand brings you forth in this world."
+  Fences. Against `judgment-to-love`: that thread counsels leaving another's
+  honest error uncorrected; this one argues that the truth itself must be
+  spoken. 2016-04-12-af-moses draws the line between them, and its exception
+  belongs to both. Against `simplicity-of-the-path`: that thread is the
+  register that reaches a soul; this one is whether to speak at all, though
+  the two share the plain register, "plainly, simply, powerfully." Against
+  `bell-toll-instrumentality`: that thread is the signal that goes out
+  without words; this one is the words. Against `vanguards-of-change`: that
+  thread is the commission to go where sent; this one is what to say once
+  there. Against `religious-error`: 2018-11-05-af-john-wesley is a Testimony
+  there for what he got wrong, and an Elaboration here for what he asks of
+  others.
+  Structural note: the register question. 2016-12-02-af-white-cloud asks for
+  the truth spoken "not in an insistent way," while the Foundation asks for
+  "strong and forthright, clear and insistent." The thread suggests a reading
+  that reconciles them, firm in what is said and gentle in how it is said: the
+  Foundation asks for it "in loving ways" and keeps humility, and
+  2018-11-05-af-john-wesley gives Jesus' manner as "calm resolution," without
+  anger. Held as a reading to weigh at build, not as settled.
 
 ### spiritual-fellowship
 

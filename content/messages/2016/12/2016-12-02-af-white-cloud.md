@@ -6,55 +6,60 @@ spirit_id: white-cloud
 spirit_name: "White Cloud"
 medium: Al Fike
 location:
-  city: Hawaii
-  region: HI
-  country: United States of America
-gathering:
+  city: ""
+  region: Hawaii
+  country: United States
+gathering: ""
 message_type: ["Guidance"]
 description: >
-  White Cloud responds to the circle's prayers for a struggling world, affirming
-  that those who speak truth do so because they know it in their hearts, and
-  urging all who carry the truth of God's Love to pray for the world — its lost
-  souls, its children, its hungry — and to express that Love gently, daily, and
-  with dignity, for love is the only true agent of healing and change.
-primary_subjects: "Collective Awakening & Redemption"
+  White Cloud answers the circle's prayers for those who struggle in the world
+  and for a planet struggling to keep its balance. He affirms that those who
+  call out the truth do so because they know it in their hearts, and urges all
+  who know God's Love to carry and speak that truth gently rather than
+  insistently, to pray for the world's children, lost souls, hungry and
+  suffering, and to express love in all they do, since love, not violence or
+  insistence, is what will save the world.
+primary_subjects: "Healing Through Prayer"
 secondary_subjects:
-  - "Prayer & Devotion"
-  - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Empowerment & Encouragement"
-  - "Earth Changes & Prophecy"
+  - "Redemption of Humanity"
+  - "Teaching & Sharing the Message"
+  - "Global Spiritual Work"
+  - "Humility"
+  - "Cleansing & Expiation"
 people: []
 spirits: []
-keywords: ["White Cloud", "prayer", "world healing", "truth", "division", "love", "greed", "lost souls", "children", "hungry", "humility", "gentleness", "channel of love", "dignity", "liberation"]
+keywords: ["prayer", "world healing", "intercession", "truth", "speaking truth", "division", "love", "greed", "abuse", "lack of love", "lost souls", "children", "hungry", "humility", "gentleness", "strength", "channel of love", "dignity", "liberation"]
 questions:
   - "How do I pray for a world in crisis?"
-  - "How do I speak the truth of God's Love without being insistent or divisive?"
-  - "Why is love the most powerful agent for change in the world?"
-  - "How do I carry God's Love as a living truth in my daily life?"
-  - "What does it mean to be strong and gentle at the same time?"
   - "How do I pray for those who are suffering in the world?"
-  - "How do I let go of painful experiences I can never forget?"
+  - "What will save the world?"
+  - "Why is love the most powerful agent for change in the world?"
+  - "Why is there so much abuse and greed in the world?"
+  - "How do I speak the truth of God's Love without being insistent or divisive?"
+  - "Should I speak up for the truth even if it causes conflict?"
   - "Why do those who speak truth often cause division?"
   - "How do I demonstrate God's Love rather than just argue for it?"
-  - "How does the world's lack of love manifest in suffering and abuse?"
-  - "Can a lack of love create an abuser?"
+  - "How do I carry God's Love as a living truth in my daily life?"
+  - "What does it mean to be strong and gentle at the same time?"
+  - "What does the Bible mean by a voice crying in the wilderness?"
 related_messages:
-  - 2016-03-21-af-augustine
-  - 2016-08-15-af-mary
-  - 2016-09-03-af-james
+  - 2015-11-25-af-white-cloud
   - 2015-12-21-af-peter
+  - 2016-09-03-af-james
+  - 2018-09-30-af-augustine
+  - 2019-02-06-af-francis-of-assisi
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/world-needs-prayers/"
 notes: ""
 essential_teachings: []
 language: en
 excerpt: >
-  What will save the world? Not violence, not insistence, but love — and the
-  strongest man and woman is the one who can express love.
-collections: ["Awakening Humanity"]
+  What will save the world? Not violence, not insistence, but love, and the
+  strongest man and woman is the one who can express love
 door: >
-  Love is not the soft option. It is the most powerful force in the universe
-last_edited: 2026-08-07
+  Love is not the soft option. It is the most powerful force in the universe.
+collections: ["Awakening Humanity"]
+last_edited: 2026-10-18
 ---
 
 Blessings to you brothers and sisters, I am White Cloud. I have heard your prayers for my brothers and sisters who struggled mightily in this world and for this planet that also struggles to retain its equilibrium and I tell you that those who are resisting and calling out the truth, do so because in their hearts they know the truth and there will be many more in this world who will gather together and speak the truth, and this may cause division in the world but there needs to be a voice crying for truth and love in the world. For too long the world has suffered from the abuses of man, the greed, the inability to love.

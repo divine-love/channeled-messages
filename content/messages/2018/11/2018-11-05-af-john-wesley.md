@@ -39,6 +39,7 @@ questions:
   - "What is the difference between religious doctrine and true spiritual awakening?"
   - "How can I share spiritual truth in a way that others will actually receive it?"
 related_messages:
+  - 2015-08-20-af-james-padgett
   - 2019-03-14-af-jesus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/speak-up-for-truth-and-change/"
@@ -57,7 +58,7 @@ collections:
   - "Letters from History"
   - "Awakening Humanity"
   - "Service & Mission"
-last_edited: 2026-07-08
+last_edited: 2026-10-18
 ---
 
 I am John Wesley and I am happy that this individual has accepted my presence and is able to speak the words which I wish to convey. I am now an inhabitant of the Celestial Kingdom and in order to do so, many of my attitudes and ideas had to be changed and reconstructed within the Truth of Divine Love. This happens to many of us who pass into spirit. We must rethink everything because the spiritual planes are so different, and the options and possibilities of life are widened substantially in these higher planes of existence.

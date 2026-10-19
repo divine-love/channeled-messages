@@ -33,6 +33,7 @@ questions:
   - "What does it mean to play my part in the salvation of mankind?"
 related_messages:
   - 2015-11-28-af-faith-nyquist
+  - 2016-12-02-af-white-cloud
   - 2018-11-29-af-abdullah-latif
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/your-prayers-may-change-the-conditions-of-the-world/"
@@ -45,7 +46,7 @@ excerpt: >
 door: >
   You cannot reach the hearts hardened against love. Francis says your prayers can go where you cannot.
 collections: ["Service & Mission"]
-last_edited: 2026-06-25
+last_edited: 2026-10-18
 ---
 
 ….and against God's law. So humanity must come, through their own volition, to God, must come and receive God's blessings of His Love so that this may ignite within their souls and their minds the Truth that they may walk upon the Earth without treading so heavily upon her, that all may be in balance and harmony, and that the souls of humanity may walk in wisdom and in love. May your prayer be thus, beloved souls. I am with you, beloved daughter, in your concerns and as you pray, know that I will come and pray with you for all the beloved creatures of the world.
