@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Professor Salyards, a tireless worker in the development of Direct Voice mediumship, affirms the circle's progress and urges them to maintain their hopeful expectation of this gift. He speaks with urgency about humanity's need to awaken before the consequences of the human condition become irreversible, and assures them that even if Direct Voice is not achieved, they will bring Truth through other gifts - but that this gift is very much worth pursuing.
-primary_subjects: "Manifestations & Direct Voice"
+primary_subjects: "Direct Voice Communication"
 secondary_subjects:
   - "Collective Awakening & Redemption"
   - "Preparation for Earth Mission"
@@ -33,10 +33,10 @@ questions:
   - "Can spirits from the Padgett Messages era still communicate today?"
   - "What role do academic and intellectual spirits play in spiritual work?"
 related_messages:
-  - 2016-12-06-af-seretta-kem
-  - 2017-11-03-af-nikola-tesla
-  - 2017-09-13-af-keea-atta-kem
   - 2016-08-17-af-james-padgett
+  - 2016-12-06-af-seretta-kem
+  - 2017-09-13-af-keea-atta-kem
+  - 2017-11-03-af-nikola-tesla
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/who-will-bring-the-truth-to-this-world/"
 notes: >
@@ -48,7 +48,7 @@ excerpt: >
 collections: []
 door: >
   How will the world change if not by this awakening of the soul, the faculties of the soul, the connection of the soul to God?
-last_edited: 2026-04-23
+last_edited: 2026-10-19
 ---
 
 I am Professor Salyards. I have taken a keen interest in your work together. I have been with you all along.

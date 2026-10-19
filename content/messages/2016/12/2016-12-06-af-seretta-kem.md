@@ -7,12 +7,12 @@ spirit_name: "Seretta Kem"
 medium: Al Fike
 location:
   city: Oahu
-  region: HI
-  country: United States of America
-gathering:
+  region: Hawaii
+  country: United States
+gathering: ""
 message_type: ["Teaching"]
 description: >
-  Seretta Kem delivers a comprehensive teaching on the gift of mediumship — how
+  Seretta Kem delivers a comprehensive teaching on the gift of mediumship: how
   spirit communication works, the conditions required for it, the dangers of
   expectation and premature gift-opening, and the crucial discernment principle
   that any message not centred on God's Love and the flowering of the soul is not
@@ -24,6 +24,7 @@ secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Receiving the Divine Love through Prayer"
   - "Unique Soul Gifts"
+  - "Law of Communication & Rapport"
 people: []
 spirits: []
 keywords: ["mediumship", "spirit communication", "rapport", "laws of communication", "conditions", "discernment", "trance", "direct voice", "expectation", "gifts", "Divine Path", "Natural Path", "Celestial angels", "soul gifts", "circle of light"]
@@ -40,30 +41,25 @@ questions:
   - "Can every soul develop some form of mediumship?"
   - "What happens spiritually in a Circle of Light beyond what we can see?"
   - "How do I know if my desire for spiritual gifts is coming from ego or genuine service?"
-  - "What is more important — receiving a message from a spirit or receiving God's Love?"
-related_messages: 
+  - "What is more important, receiving a message from a spirit or receiving God's Love?"
+related_messages:
+  - 2015-08-20-af-james-padgett
+  - 2015-11-28-af-seretta-kem
   - 2016-03-27-af-seretta-kem
   - 2016-04-12-af-keea-atta-kem
   - 2016-04-13-af-seretta-kem
-  - 2015-11-28-af-seretta-kem
-  - 2015-08-20-af-james-padgett
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/talk-mediumship-laws-communication-rapport/"
-notes: >
-  Two minor transcription artifacts corrected: space before comma in 'When this
-  is so , many things' and missing space in 'acknowledgement of God.It is
-  useful.'
+notes: ""
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   If within a message there is no mention of God's Love, that it is not about the
-  opening and flowering of the soul — it is not from an angel. You must discern
-  for yourself through your own soul's acknowledgement what comes through as
-  true.
+  opening and flowering of the soul, it is not from an angel.
 collections: ["Healing Path"]
 door: >
-  The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit
-last_edited: 2026-07-19
+  The gift of Divine Love received wordlessly in prayer is greater than any message from a spirit.
+last_edited: 2026-10-19
 ---
 
 Greetings to you, my fellow travellers upon the Divine Path. I am Seretta Kem and I wish today to talk on the subject of mediumships since many of you are interested in this particular subject and it is a blessing indeed to be able to communicate to you in words through a medium in this circle.

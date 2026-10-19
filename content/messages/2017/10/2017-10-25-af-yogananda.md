@@ -15,7 +15,7 @@ description: >
   Yogananda addresses the group's deliberations about a journey to India, using
   his own experience of leaving India for America as a teaching on faith,
   service, and accepting God's invitations. He teaches that God never demands or
-  punishes, but lays opportunities before each soul — and that a soul filled with
+  punishes, but lays opportunities before each soul, and that a soul filled with
   Love, faith, and trust is the one most able to step forward into the unknown
   and discover what God has prepared.
 primary_subjects: "Divine Will, Guidance & Orchestration"
@@ -23,7 +23,7 @@ secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
   - "Faith & Trust"
   - "Free Will & Human Error"
-  - "Manifestations & Direct Voice"
+  - "Direct Voice Communication"
 people: []
 spirits: []
 keywords: ["India", "invitation", "faith", "service", "risk", "free will", "direct voice", "limitations", "journey", "disciples", "America", "choice", "God's plan", "reticence", "soul yearning"]
@@ -60,7 +60,7 @@ excerpt: >
 collections: ["Service & Mission", "Letters from History"]
 door: >
   God will never turn away from you no matter what you decide. But if every invitation is rejected, the invitations will cease
-last_edited: 2026-07-11
+last_edited: 2026-10-19
 ---
 
 And I heard your conversations regarding a journey to my country and this instrument's curiosity and concern about the guidance given by me some months past. He has a deep desire to fulfill God's Plan in this world and so he has cast about in his mind as to how can this be. How can I go to a place unknown and fulfill God's Will? I say, think of the disciples of Jesus. Did they not travel the world? Did they not have faith enough in God that upon their travels God presented many opportunities to serve in love. I learned this as well on my travels. I could have rejected the idea of going to America. I could have stayed in my safe place in a culture I understood, in a land of my birth but I chose to follow the yearnings of my soul. This brought me many experiences and opportunities to teach and serve and love.
