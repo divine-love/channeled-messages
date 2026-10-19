@@ -43,6 +43,7 @@ questions:
   - "What happens to me after this life ends?"
 related_messages:
   - 2016-08-15-af-alec-gaunt
+  - 2016-12-05-af-care
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -56,7 +57,7 @@ door: >
   People turn away not because it fails but because it works, and what it
   changes is them.
 collections: ["Awakening Humanity", "The Saints & Apostles Speak"]
-last_edited: 2026-08-07
+last_edited: 2026-10-18
 ---
 
 Blessings to you, beloved souls, I am John the Beloved. If you had the eyes to see, beloved souls, you would see that your numbers here on Earth are tiny compared to what surrounds you in spirit. Many, many souls are here, praying with you, observing and learning. For when you come together in this way, when you put your intentions to God to be in the Light, to be in that place of grace, you draw many to you, for a great Light is established amongst you and that Light draws many spirits to it; many spirits who are dark and in need of comfort and Light, many spirits who are connected to each one of you, who are your relatives who are on the other side and, of course, the angels surround you, keeping you protected, praying with you and supporting you in this great effort.
