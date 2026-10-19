@@ -1936,6 +1936,9 @@ message_ids already carry the dates.
   limit, "This is not the only way to receive Divine Love... it is in your
   personal and private prayers that the substantial portion of Love is given,"
   which is to be weighed against the registry wording at build.
+  2016-12-07-af-augustine states the same limit from the seeker's side,
+  intercession given "by all means" but never in place of communion, "always
+  come to that place where you and God are one."
 
 ### prayer-soul-longing
 
@@ -1956,7 +1959,14 @@ message_ids already carry the dates.
   remedy being to plumb the soul's true desire and make it the focus;
   2016-03-25-af-augustine locates the sufficient condition in sincerity, "each
   sincere prayer given to God will strike the mark and obtain a response from
-  your Heavenly Father," offered "in earnest longing and clear intention."
+  your Heavenly Father," offered "in earnest longing and clear intention";
+  2016-12-07-af-augustine sets the longing against the mind's sense of
+  obligation, intercession carried as a duty crowding out the prayer, "Prayer
+  cannot and should not be a burden nor should it be a distraction. It is an
+  expression of your soul," with the names of those prayed for placed in the
+  circle's prayer bowl so the seeker can "go deep," and communion defended
+  against the charge of selfishness, "It is not selfish, it is what is meant
+  to be for you, it is what God craves."
   Elaborations, what it asks of the seeker. 2016-07-11-af-confucius adds the
   cadence requirement and its cost, "you, my beloveds, must take the time,
   make the effort, say the prayers, sit in silence to receive God's answers to
