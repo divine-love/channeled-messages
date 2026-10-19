@@ -23,6 +23,7 @@ secondary_subjects:
   - "Nature of the Soul"
   - "Mediumship & Developing as an Instrument"
   - "Receiving the Divine Love through Prayer"
+  - "Spirit Testimony & Personal Story"
 people: []
 spirits: []
 keywords: ["angels", "chemical transferences", "soul bonds", "soul communication", "gifts", "Egypt", "soul faculties", "prayer gathering"]
@@ -34,17 +35,17 @@ questions:
   - "What invisible bonds are created between souls who pray together?"
   - "How does the soul communicate in ways the mind cannot perceive?"
   - "What gifts might be lying dormant within my soul right now?"
-related_messages: []
+  - "Why can't I see my own beauty?"
+  - "Did the ancient Egyptians worship God?"
+  - "What does the Bible mean when it says 'where two or three are gathered together in my name'?"
+related_messages:
+  - 2016-09-01-af-seretta-kem
+  - 2018-08-28-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: >
-  Seretta Kem provides significant biographical detail: identifies as being
-  from Egypt, having lived approximately 4000 years ago during a time when
-  Egypt was a great nation and revered the Creator. Note: his spirit file
-  places him as son of Ramses II (c.1279-1213 BC), approximately 3,300 years
-  before this message. The discrepancy between "approximately 4000 years ago"
-  and the Ramses II timeframe is noted here for curator awareness. Spirit
-  file updated with source message cited.
+  Seretta Kem says he is from Egypt and lived "approximately 4000 years ago,"
+  at a time "when Egypt was a great nation and we had a beautiful culture."
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >
@@ -56,7 +57,7 @@ door: >
   your souls that you cannot see but will one day fully understand.
 collections:
   - "Healing Path"
-last_edited: 2026-06-26
+last_edited: 2026-10-18
 ---
 
 I am Seretta Kem and I am from Egypt. I lived in this world approximately 4000 years ago. I lived at the time when Egypt was a great nation and we had a beautiful culture, and much is not truly known of how we lived and how we thought, for we did indeed revere the Creator and now I revere the Creator in a different way, through my soul. I love my God who truly loves me and loves all of you deeply, endlessly and completely.

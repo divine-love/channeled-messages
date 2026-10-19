@@ -43,9 +43,10 @@ questions:
   - "What does it mean to seek the highest in spiritual development?"
   - "Why can spiritual gifts not be forced or rushed?"
 related_messages:
-  - 2018-07-13-af-keea-atta-kem
-  - 2018-01-09-af-lotus-blossom
+  - 2015-08-19-af-seretta-kem
   - 2016-12-06-af-seretta-kem
+  - 2018-01-09-af-lotus-blossom
+  - 2018-07-13-af-keea-atta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/elevate-your-gifts-through-divine-love/"
 notes: ""
@@ -57,7 +58,7 @@ excerpt: >
 collections: []
 door: >
   Seek God above all else and your gifts will flourish in this one desire for the highest
-last_edited: 2026-05-01
+last_edited: 2026-10-18
 ---
 
 I am Seretta Kem. Some of you know me well while others do not know me. I lived in Egypt many thousands of years ago. I am a healer and a chemist. I work with those mortals who desire to develop their gifts and who also subscribe to the way of Divine Love. I am an inhabitant of the Celestial Kingdom and I, along with many others who live in these beautiful realms, come to assist mortals in their spiritual growth and soul awakening.

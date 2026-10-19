@@ -1450,7 +1450,15 @@ message_ids already carry the dates.
   God's creation and of who you are and why you are and where you are going."
   And the mechanism is named, "Continue, my beloveds, in your prayers for the
   Father's Love... this is the key to opening the door to the soul."
-  Elaboration: 2018-11-29-af-abdullah-latif extends the Foundation in two
+  Elaborations. 2016-12-05-af-keea-atta-kem sets the soul against the whole
+  accumulated knowledge of the world rather than against one person's mind,
+  "There are millions of books, filled with millions of facts... but the soul
+  has been pitifully neglected," and makes the knowing a discipline, "you, my
+  brothers and sisters, are scientists of the soul, it is your job, your
+  opportunity to research the development of the soul, your own soul and all
+  the souls who are with you in this greater effort," carried out "through
+  your prayers and efforts and contemplations and meditations."
+  2018-11-29-af-abdullah-latif extends the Foundation in two
   directions it does not reach. He makes the knowing a prerequisite for action
   rather than a route to God only, "you cannot know what it is to pray until
   you know your own heart and know your own soul in relationship with your
@@ -1494,6 +1502,9 @@ message_ids already carry the dates.
   it.
   What is awaited. A Capstone, saying what a soul that has come to know itself
   then does, or what the knowing feels like once arrived.
+  2016-12-05-af-keea-atta-kem points toward the first, the gathered knowing
+  translated "through your minds to others," but gives it as a promise rather
+  than developing it.
 
 ### mind-vs-soul
 
@@ -1585,10 +1596,15 @@ message_ids already carry the dates.
   2018-06-18-af-matthew, 2018-10-09-af-seretta-kem.
   Witnesses. The premise: 2015-05-18-af-augustine, the two selves stated
   pastorally. What the mind is: 2015-05-11-af-andrew, the mind's limit as a
-  missing dimension; 2016-07-11-af-confucius, the durability claim; and
+  missing dimension; 2016-07-11-af-confucius, the durability claim;
   2016-10-16-af-augustine, the provenance of the mind's contents traced to
   other people's ideas arriving through education, with the consequence that
-  inaccurate perception yields inaccurate choice. Governance:
+  inaccurate perception yields inaccurate choice; and
+  2016-12-05-af-keea-atta-kem, the same provenance ending in "mirror
+  reflections and shadows of truth," with the mind also given its place,
+  "God gave you a material mind in order to have the capacity to understand
+  material things," which bears on the structural note on the two pictures
+  of the mind. Governance:
   2016-03-30-af-augustine, humility as the willful side yielding to the soul;
   2016-10-24-af-confucius, the agency axis restated; 2016-12-05-af-augustine,
   the soul taking "ascendency over your mind" and the mind beginning "to
@@ -3467,7 +3483,9 @@ only stating it.
   2014-07-26-af-augustine, a teacher to his circle, "Your teacher Augustine is
   always by your side"; 2016-11-29-af-andrew, "we who love you and serve God
   and serve you in love will continue to support and carry you through the
-  difficult times"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
+  difficult times"; 2016-12-05-af-keea-atta-kem, the support tied to
+  commitment, "when you make these efforts and truly focus and are committed
+  you will have all the support from the angels"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
   shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will
