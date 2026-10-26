@@ -39,7 +39,7 @@ a feeling to be summoned, but a living gift, and God longs to give it to every
 soul.
 
 It differs from the natural, human love we are born with. Natural love is
-beautiful and real, a gift of God to every soul, yet it can reach only as far
+beautiful and real, yet it can reach only as far
 as the soul's own capacity allows. Divine Love is infinitely more: God's own
 nature, flowing into the soul in answer to sincere prayer and honest longing,
 finding lodgment there, and changing the soul from within.
