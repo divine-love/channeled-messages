@@ -1,140 +1,156 @@
 # The Divine Love Messages Archive
 
-If you have landed here with questions you cannot quite put into words, you
-are not alone. Many people find their way to these messages because they are
-searching for fulfillment, purpose, and meaning in their lives.
+Within the human soul is a longing that nothing in this world satisfies. It
+stirs in silence and stillness, a poignant reminder that there is more to life
+than what the material world gives us. If that longing has brought you here,
+you are in good company. Seekers in every age have felt it, and many
+understood that the desire of the soul was never meant to be answered by the
+world at all.
 
-This archive is a collection of just over {messages} messages from spirit. The
-messages talk about God, the soul, prayer, healing, and the road to at-onement
-with our Heavenly Father. They are catalogued so they can be found by seekers,
-teachers, ministers, historians, translators, and anyone whose heart is asking
-for something more. The majority of the messages have been channeled through
-@medium[Al Fike], a spiritual teacher, author, and ordained minister with the Foundation
-Church of Divine Truth, and co-founder of the Divine Love Sanctuary Foundation.
-Al has given his life to this work. Other mediums have received messages too,
-and that circle keeps widening. You can learn more at
+A longing sincerely felt is already a prayer, and the soul's sincere longing
+for God's Love is always answered. His response is the path that opens before
+you. It leads inward first, into a territory we forgot to explore, into the
+beauty and glory of the soul. The road becomes a journey of discovery, rich in
+miracles and wonders, in truths given as the soul is ready to receive them,
+and in the love of God. We come to know God, not as a theory the mind works
+out, but as a living, loving Presence, and in that same light we come to know
+our true selves, perhaps for the very first time. Step by step, the road leads
+home, to at-onement with our Heavenly Father.
+
+The messages gathered here are an invitation to begin. They come from spirits
+who once walked this earth. They speak of God, of the soul, of prayer and
+healing, of truth and error, of faith and service, and of love. This archive
+holds {messages} messages, each catalogued so that it may be found by the
+seeker, the teacher, the minister, the historian, the translator, and anyone
+whose soul is searching for something more. They are best read slowly, the
+way one reads a letter from someone who loves you.
+
+Most of these messages have come through @medium[Al Fike], a spiritual
+teacher, author, and ordained minister with the Foundation Church of Divine
+Truth, and co-founder of the Divine Love Sanctuary Foundation. Al has given
+his life to this work. Others have received messages as well, and that circle
+continues to widen. You can learn more at
 [divinelovesanctuary.com](https://divinelovesanctuary.com/).
 
 ## What Is Divine Love
 
-Divine Love is the Essence of God Himself. Not an idea, not a feeling, but a
-living gift that God longs to give to every soul who asks for it.
+Divine Love is the Essence of God Himself. It is not an idea to be grasped or
+a feeling to be summoned, but a living gift, and God longs to give it to every
+soul.
 
-It is not the same thing as natural human love. Natural love is beautiful, and
-it is real, but it is limited by the soul's capacity to love. Divine Love is
-God's own nature flowing into the soul, in answer to sincere prayer and honest
-longing.
+It differs from the natural, human love we are born with. Natural love is
+beautiful and real, a gift of God to every soul, yet it can reach only as far
+as the soul's own capacity allows. Divine Love is infinitely more: God's own
+nature, flowing into the soul in answer to sincere prayer and honest longing,
+finding lodgment there, and changing the soul from within.
 
-This is what @spirit[Jesus] came to teach. Not a doctrine and not a religion,
-but a living relationship with God through the inflowing of His Love into the
-soul. The messages here carry that same teaching forward, given by Jesus
-himself and by the many Celestial spirits who walk with him.
+This is what @spirit[Jesus] came to teach. Not doctrines or religion, but how
+to cultivate a living relationship with God through asking for and receiving
+the inflowing of God's Love into the depths of the soul. The messages gathered
+here carry that teaching forward, given by Jesus and many Celestial spirits
+who walk with him.
 
-It all comes down to the asking. God answers according to the depth of your
-desire, so the more truly you call out from your soul rather than from your
-mind or out of habit, the more deeply His Love comes. A soul sincerely longing
-for God's Love is never refused. Not once.
+God answers according to the depth of our desire, so the more truly we call to
+Him from the soul, rather than from the mind or out of habit, the more deeply
+His Love comes.
 
-When it comes, it begins a transformation the messages call the New Birth. The
-soul wakes up. It moves toward at-onement with God, its Creator and its eternal
-Source. Pain dissolves. Old wounds heal. Gifts you did not know were in you
-start to open.
-
-These messages are an invitation into that. They show you the way, in the words
-of people who have already walked it.
+As His Love enters, a transformation begins that the messages call the New
+Birth. The soul awakens. Little by little it is made new, drawing nearer to
+at-onement with God, its Creator and its eternal Source. Old wounds begin to
+heal, burdens long carried grow lighter, and gifts we never knew were within
+us begin to open.
 
 ## Where to start
 
-There is no wrong way in, but if you are standing at the door of the archive
-wondering which way to turn, here are three ways to navigate.
+There is no wrong way in. But if you are standing at the threshold, wondering
+which way to turn, here are three paths to begin your journey.
 
-If you would rather feel your way through the archive rather than study your
-way through, click [[Browse|Browse All Messages]]. It is a wide table, so it reads best on a larger screen. Every message in the archive is listed there alongside its "door," a single line describing where that message leads. The
-word is @spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
+If you would rather feel your way through the archive than study your way
+through it, open [[Browse|Browse All Messages]]. It is a wide table and reads
+best on a larger screen. Every message is listed there beside its "door," a
+single line that points toward where that message leads. The word is
+@spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
 growing your souls and making yourselves a clearer channel of Love in the
-world. Finding that door in each message, and writing it down, is how the
-browse index came to be built. Peruse the list until something pulls at your
-soul, then click on it to read that message. That "pull" is worth trusting; it
-is usually your soul recognizing something before your mind has caught up.
+world. Seeking out that door in each message, and setting it down in a single
+line, is how the browse index came to be. Read through the list slowly and
+prayerfully, and when something stirs your soul, follow it. That pull is worth
+trusting. It is often the soul recognizing a truth long before the mind has
+caught up.
 
-If you came with a question already formulated in your mind, [[Ask the Archive]]
-gathers every question these messages answer and sorts them by subject. Browse
-the list or start typing in the search bar, in whatever words you would use if
-you were asking someone sitting next to you.
+If you arrived carrying a question, [[Ask the Archive]] gathers every question
+these messages answer and arranges them by subject. Wander the list, or begin
+typing in the search bar, in the words you would use if you were asking a
+trusted friend sitting quietly beside you.
 
-And if you want the heart of the archive, read the
-[[Essential Teachings Index|Essential Teachings]]. These
-are the messages I would put in your hands if you told me you only had an hour
-and needed to understand what this is. If you read nothing else here, read
-those.
+And if you long for the heart of the archive, turn to the
+[[Essential Teachings Index|Essential Teachings]]. These are the messages I
+would place in your hands if you had only an hour and wished to understand
+what this is all about. If you read nothing else here, read those.
 
 ## What you will find here
 
-**Messages** are the archive itself, {messages} of them, each catalogued with
-its date, the spirit who channeled it, the medium who received it, where it was
-given, and what it touches on.
+**Messages** are the archive itself, {messages} of them, each carefully
+catalogued with its date, the spirit who gave it, the medium who received it,
+the place where it was given, and the subjects it touches.
 
-**Spirits** contains a page for every spirit who has channeled here, holding
-what is known of their lives in their own words. Everything on those pages is
-drawn from the messages themselves rather than from history books, so where the
-record is quiet, the page is quiet too.
+**Spirits** holds a page for each spirit who has spoken here, gathering what
+is known of their lives in their own words. Everything on those pages is drawn
+from the messages themselves, not from history books, so where the record is
+silent, the page keeps that silence too.
 
-**Mediums** does the same for those who received the messages, beginning with
-@medium[Al Fike].
+**Mediums** does the same for those who have received the messages, beginning
+with @medium[Al Fike].
 
-**Subjects** is how a single theme can be traced across the years and dozens of
-voices; {subjects} of them, arranged in categories. Start at
+**Subjects** allows a single theme to be traced across the years and through
+many voices. There are {subjects} of them, arranged in categories; begin at
 [[Subjects Index]].
 
-**Collections** groups messages by topic: @collection[Jesus Speaks],
+**Collections** gathers messages that belong together: @collection[Jesus Speaks],
 @collection[The Saints & Apostles Speak|The Saints & Apostles Speak],
 @collection[Two Paths], @collection[Healing Path], @collection[Mind & Soul],
 @collection[Service & Mission], @collection[Letters from History],
 @collection[Awakening Humanity], and @collection[Prism of the Soul].
 
-**Chains** is the newest layer, and the one still under construction. A chain
-follows a single argument across the whole archive, explaining important Divine
-Love teachings that may not align with traditional ideas held by religious and
-spiritual communities. This section contains those teachings, and refers to the
-messages to show how a teaching is founded, expanded, argued with, turned
-around, and finally brought to rest, often across years and through many
-different spirits. 
+**Chains** is the newest layer, and is still being built. A chain follows a
+single teaching through the archive, from message to message and spirit to
+spirit, showing how it is laid down, deepened, questioned, seen anew, and at
+last brought to rest. Many of these teachings depart from what religious and
+spiritual traditions have long held, and the chains allow the messages to make
+their case in their own words, often across many years and through many
+different voices.
 
-## Who is channeling here
+## Who speaks here
 
-They introduce themselves by name, and the names are not small ones. Jesus is
-here, and many who walked beside him: @spirit[Mary his mother|mary],
-@spirit[John the Beloved], @spirit[Andrew], @spirit[Peter], @spirit[James],
-@spirit[Matthew], @spirit[Luke], and @spirit[Mark].
+They introduce themselves by name, and the names are not small ones.
+@spirit[Jesus] is here, along with many who walked beside him in his earthly
+life: Mary his mother, John the Beloved, Andrew, Peter, James, Matthew, Luke,
+and Mark.
 
-Others come from well outside that circle. @spirit[Augustine] teaches here more
-often than anyone. @spirit[Confucius]. @spirit[Francis of Assisi].
-@spirit[Moses], @spirit[Isaiah], and @spirit[Solomon]. @spirit[Yogananda],
-@spirit[Martin Luther], and @spirit[Gandhi], along with others who were known in
+Others come from far beyond that circle. @spirit[Augustine] returns again and
+again to teach. Confucius. Francis of Assisi. Moses, Isaiah, and Solomon.
+Yogananda, Martin Luther, and Gandhi, along with others who were known in
 their own centuries and have since found their way to this path.
 
-And then there are spirits no one has ever heard of. @spirit[Goldie], who
-arrives when a room has grown too solemn and reminds everyone to laugh.
-@spirit[Faith Nyquist|faith-nyquist]. @spirit[Alec Gaunt].
-@spirit[Seretta Kem]. @spirit[Keea Atta Kem|keea-atta-kem]. Some of the most moving messages in this
-archive come from them, and I would not trade a single one for a more famous
-name.
+And then there are those whose names the world never knew. Goldie, who arrives
+when a room has grown too solemn and reminds everyone to laugh. Faith Nyquist.
+Alec Gaunt. Seretta Kem. Keea Atta Kem. Some of the most moving messages in
+this archive come from them, and I would not trade a single one for a more
+famous name.
 
-One thing worth knowing before you read far: these spirits do not always agree
-with the traditions that were built around their names, and several return
-specifically to set the record straight. @spirit[Solomon] comes to say that the
-wisdom he was celebrated for was wrong. @spirit[Martin Luther] comes to say he
-has since
-released much of what he spent his life fighting for. If you are hoping these
-messages will confirm what you were raised with, they may surprise you. They
-surprised me.
+One thing is worth knowing before you read far. These spirits do not always
+agree with the traditions built around their names, and several return
+expressly to set the record straight. @spirit[Solomon] comes to say that the
+wisdom he was celebrated for was mistaken. @spirit[Martin Luther] comes to say
+he has since released much of what he spent his life fighting for. If you hope
+these messages will confirm what you were raised to believe, they may surprise
+you. They surprised me.
 
 ## Praying together
 
-The Divine Love prayer circles are the living heart of all of this. Souls come
-together and pray for the inflowing of God's Love, and that is very nearly the
-whole of it. They are open to anyone, and there is nothing to prepare
-beforehand except the wanting itself, which you almost certainly already have
-or you would not have read this far.
+The Divine Love prayer circles are the living, beating heart of all this.
+Souls gather in prayer, asking for the inflowing of God's Love, and that is
+very nearly the whole of it. The circles are open to anyone, and nothing need
+be prepared beforehand except the longing itself, which you almost certainly
+carry already, or you would not have read this far.
 
 Come and pray with us: [divinelovesanctuary.com](https://divinelovesanctuary.com/).
