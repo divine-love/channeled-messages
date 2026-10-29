@@ -34,7 +34,10 @@ questions:
   - "How do my spiritual gifts open as I grow in God's Love?"
   - "How do I work together with others in spiritual service despite being far apart?"
   - "What is the bond that unites souls who walk the Divine Path together?"
-related_messages: ["2015-08-22-af-augustine", "2015-08-22-af-confucius"]
+related_messages:
+  - 2015-08-22-af-augustine
+  - 2015-08-22-af-confucius
+  - 2016-12-10-af-andrew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/work-together-in-love/"
 notes: ""
