@@ -46,9 +46,9 @@ excerpt: >
 door: >
   This year you will do the things you fear you cannot do, carried by a Love that
   asks no passport and speaks every language.
-collections: ["Service & Mission", "Awakening Humanity"]
+collections: ["Service & Mission", "Awakening Humanity", "The Saints & Apostles Speak"]
 notes: ""
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 God bless you, beloved souls, I am Matthew and I have come to speak with you about the year that is to come as you mark the passing of each year and this becomes a milestone for what you have accomplished within your own lives and within your own souls, the growth and expansion of the Father's Love and you look ahead for what might be in service, in growth, in changes within your life. And I tell you, my beloveds, there is much change ahead for each one of you, many shifts within your beings, for many of you are on the verge of awakenings, openings, shiftings and understanding much deeper, more fully in your awareness of God's Truth within you, as the love continues to flow abundantly within your souls, my beloveds. Indeed your eyes begin to open, you begin to bloom in the warmth of God's beautiful Love.

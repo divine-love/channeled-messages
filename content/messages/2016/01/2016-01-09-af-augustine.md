@@ -46,9 +46,9 @@ excerpt: >
 door: >
   What you think of as tending a small garden, God sees as the beginning of a
   paradise.
-collections: ["Service & Mission"]
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
 notes: ""
-last_edited: 2026-07-08
+last_edited: 2026-10-29
 ---
 
 It is Augustine who loves you so and is so joyed at your accomplishments, your willingness to be loving channels for one another and you have been the gardeners, my beloveds, along with we in the spirit, and God in His Heavens have brought about the fruition, the blooming of a beautiful flower and you have tended and nurtured this flower, this bud, for a long time and now it blooms. It shall do great service in this world, this beautiful thing that you have created, that we all have encouraged and nurtured and in time you will bring forward a beautiful garden filled with many lovely and unique flowers, dedications to God grown in Love and wisdom nurtured by God's beautiful Light, and this process of growth and blooming, planting seeds that will come to create beautiful flowers shall continue as God inspires you to plant another seed here, another seed there until this beautiful garden is created and it shall be a paradise, a wondrous place where many can come and enjoy its beauty, be nourished by Love, be strengthened by respite and Truth and healing.

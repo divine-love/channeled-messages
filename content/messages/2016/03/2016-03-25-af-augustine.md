@@ -43,8 +43,8 @@ excerpt: >
   Each sincere prayer given to God will strike the mark and obtain a response from your Heavenly Father.
 door: >
   You wonder if your prayers reach Him. Augustine says every sincere one strikes the mark.
-collections: ["Service & Mission"]
-last_edited: 2026-06-19
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 Beloved souls, it is your teacher Augustine here.

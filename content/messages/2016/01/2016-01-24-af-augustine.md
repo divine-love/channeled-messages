@@ -49,10 +49,10 @@ excerpt: >
   And often you are in conflict when these two sets of desires do not match.
 door: >
   Your soul may be reaching for God while your mind insists you are unworthy. Which one is doing the praying?
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: ""
-last_edited: 2026-08-19
+last_edited: 2026-10-29
 ---
 
 I am your teacher Augustine. God bless you, my children. It is important to know the desire of your soul, for the desire of your soul may be quite different from the desires of your mind. And often you are in conflict when these two sets of desires do not match.

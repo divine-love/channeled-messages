@@ -39,8 +39,8 @@ excerpt: >
   Though you may not see the overt outcomes of your efforts, though you may feel that you are not at all effective, you are continuing to work in this great venture for the salvation of mankind.
 door: >
   You cannot see the results of your efforts. That does not mean the work is not being done.
-collections: []
-last_edited: 2026-06-26
+collections: ["The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 I am your teacher Augustine. How good it is to be speaking through this instrument in this place where I have spoken many times to my beloved brothers and sisters who are a part of this wondrous journey of Divine Love. There are changes coming for each one of you, my beloveds. There are surprises and opportunities opening and you must not set your sights to the future with too much anticipation and planning with your mindful ideas. Rather, to be within the flow of God's Love, to walk upon His path of Love, to follow His guidance of Love and allow whatever is to unfold to do so in harmony, in timing that is of God. Walk each day reaching ever closer to the Fountainhead of God's Love and the future will indeed take care of itself as God continues to incorporate each of you into His plans, His efforts to bring greater Light to this world.

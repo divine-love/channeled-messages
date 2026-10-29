@@ -44,8 +44,8 @@ excerpt: >
   We cannot steer the ship for you, beloveds. This is your responsibility. It is a gift from God that you have within you a compass that will guide you through.
 door: >
   Augustine admits what few guides will: even from the highest vantage, the future is not a fixed map. Trust your compass. Walk in the light. God's plan will not fail.
-collections: ["Awakening Humanity"]
-last_edited: 2026-07-04
+collections: ["Awakening Humanity", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. May the Father's Love continue to pour into your souls in ever greater abundance igniting the gifts and perceptions within so that you may be able to discern Truth at all times, know God's Will and guidance at all times, be in the flow of God's Will at all times. This is our desire for you, beloved souls, to know from that place deep within you all aspects and guided invitations and knowings that will inform your day as you seek to be the Father's instruments of Love in your world.

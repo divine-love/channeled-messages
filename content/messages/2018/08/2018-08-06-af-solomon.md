@@ -51,10 +51,10 @@ essential_teachings: []
 language: en
 excerpt: >
   Seek ye the Kingdom of Heaven and all things shall come unto you. It is a truth.
-collections: ["Mind & Soul"]
+collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   Give yourself up to your faith and trust in God and all things shall be delivered unto you, all answers, all knowings, all seeings, all understanding
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am Solomon and I have come to speak to you my son ( R………..), for you are in need of my guidance and indeed, I do guide you in your life.

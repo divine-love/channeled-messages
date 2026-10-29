@@ -40,8 +40,8 @@ excerpt: >
   You may not exchange words, but in your efforts as you walk, many things will flow and touch the souls who you encounter in your life. Your presence, your light can do this and be a blessing for many.
 door: >
   Everyone you walk past today can be blessed. No words required.
-collections: ["Service & Mission"]
-last_edited: 2026-06-26
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 Beloveds, I am your teacher Augustine. God will continue to gather you together, beloved souls. He continues to envelop you and press you to His bosom so that you know that you are not alone, that you are indeed part of this great family of God's children.

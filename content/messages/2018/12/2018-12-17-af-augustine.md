@@ -42,8 +42,8 @@ excerpt: >
   God awaits your choice, beloved souls. With the beginning of each day you must ask yourselves: what will I choose this day? How will I conduct myself? Am I willing to be close to God?
 door: >
   Every morning God waits. What will you choose today?
-collections: ["Two Paths"]
-last_edited: 2026-06-26
+collections: ["Two Paths", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 God awaits your choice, beloveds. God awaits the choice of all humanity, that your brothers and sisters, that you, may choose light and harmony, peace and love over the conditions that you now find yourself within in this world, a world that is burdened, a world that is suffering, a world that continues to be subjected to the choices of mankind that bring further darkness and deprivation. God awaits your choice, beloved souls.

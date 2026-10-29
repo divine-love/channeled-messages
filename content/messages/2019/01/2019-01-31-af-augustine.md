@@ -58,8 +58,8 @@ excerpt: >
 door: >
   You do not have to understand the gift to receive it. The soul knows how to
   long for God even when the mind has never heard His name.
-collections: ["Two Paths"]
-last_edited: 2026-10-15
+collections: ["Two Paths", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 God bless you, I am your Teacher Augustine. Now that this instrument has made himself comfortable, we may proceed with another answer. Indeed, he does not take seriously his condition and these discomforts are a reflection of this, a flaw in his physical functioning, and as he ages, these conditions will worsen if he does not make effort to correct them.

@@ -45,8 +45,8 @@ excerpt: >
   Each of you has a great purpose — and when you discover this and it blossoms within you, you will find a deep fulfillment and joy in the manifestation of this purposeful blessing in the world.
 door: >
   God placed your purpose within you before you were born. It is still there, waiting.
-collections: ["Prism of the Soul"]
-last_edited: 2026-08-08
+collections: ["Prism of the Soul", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 God bless you, your teacher Augustine is with you in your morning prayers in your small gathering of Love.

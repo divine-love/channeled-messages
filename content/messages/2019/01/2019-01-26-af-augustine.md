@@ -43,8 +43,8 @@ excerpt: >
   Those who have felt that they understand the structure of your world will have their theories and ideas dissolve in front of them as new realities take shape on this planet.
 door: >
   The world's disagreements are a function of the mind. When the changes come, it is the soul that will know how to respond.
-collections: ["Awakening Humanity", "Two Paths"]
-last_edited: 2026-06-26
+collections: ["Awakening Humanity", "Two Paths", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 May God bless you. I am Augustine, your teacher. This dear and beloved soul is a member of the Celestial Kingdom and a wonderful teacher and healer and we are pleased that he has come to help clarify your questions.

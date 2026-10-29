@@ -56,8 +56,8 @@ excerpt: >
   for it, this nurturance, this Divine Elixir that is the Essence of God.
 door: >
   Jesus said "seek ye the kingdom and all things shall come to you." His words refer to the blessing of Divine Love — for this creates the kingdom within your soul.
-collections: ["Two Paths", "Letters from History", "The Saints & Apostles Speak"]
-last_edited: 2026-07-08
+collections: ["Two Paths", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 I am Paul, Paul of Tarsus, Paul of the bible. I've come to speak to you about the value and purpose of your soul. When you pray together in a circle such as this you bring your spiritual energies and intentions into the circle. Depending upon your beliefs and your desires, you bring in certain energies, influences and blessings to you.

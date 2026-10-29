@@ -40,8 +40,8 @@ excerpt: >
   You cannot see the events forthcoming, but we are able to see what is coming over the horizon — and it is not helpful to give you all of this information, for it would influence your choices in ways not in harmony with God's Plan.
 door: >
   God withholds the future not to hide it, but to keep your choices free.
-collections: []
-last_edited: 2026-06-26
+collections: ["The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 God bless you. When the time comes you will know what to do, my children. You cannot see the events forthcoming, but we are able to see what is indeed coming over the horizon and it is not helpful for us to give you all of this information because it would influence your thinking and decisions in ways that are not in harmony with the flow of God's Plan and Will for you. For with your limited perceptions you are not able to make those choices which would be of the most benefit and assistance towards the goals of bringing greater Light and Truth to mankind.

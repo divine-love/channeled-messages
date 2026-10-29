@@ -38,14 +38,15 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/jesus-assigns-spirit-guides/"
 notes: >
-  Seretta Kem opens by referring to a prior teaching by "the beloved Master" on mediumship, likely a preceding session message not included in this batch.
+  Seretta Kem opens by referring to a prior teaching by "the beloved Master"
+  on mediumship.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
   Jesus does not guide any individual at this moment exclusively. He comes to many in response to prayer and God's Will. No one individual can claim this deep connection as their exclusive role.
 door: >
   Jesus answers to God, not to expectation. The humble instrument who asks for nothing specific will always find an angel present.
-collections: ["The Saints & Apostles Speak"]
+collections: []
 last_edited: 2026-10-29
 ---
 

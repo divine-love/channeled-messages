@@ -46,11 +46,11 @@ excerpt: >
   each of you have been called to be an instrument for change, a channel of Love.
 door: >
   Almost no one finds the door to their purpose while on Earth. It is standing right in front of you, and it opens from the inside.
-collections: ["Service & Mission"]
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: >
   John the Beloved names Jesus as leading the way.
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 God bless you, I am John, known as John the Beloved.

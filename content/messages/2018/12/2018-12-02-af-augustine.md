@@ -45,8 +45,8 @@ excerpt: >
   You are pioneers, my beloved friends. You are testing the waters, attempting to come to that place that is in greater harmony with God — the birthing of your soul, the dawning of a new reality.
 door: >
   You live in a fog of the mind's own making. Beyond it is a reality the soul has always known.
-collections: ["Mind & Soul", "Two Paths"]
-last_edited: 2026-06-26
+collections: ["Mind & Soul", "Two Paths", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 I wish to add to our discourse regarding how one comes to truth. In your world almost all souls start upon their journey towards truth with their minds seeking information, digesting this information, and assessing it. Of course with your scientific culture many things are tested and in this testing is either proven to be true or false. This is indeed one way of understanding material truth. It is not the only way, but it is the way that most in your world have adopted. It is always possible that the source or foundation of these truths derived in this way may be false and therefore a certain truth that is thought to be credible is not.

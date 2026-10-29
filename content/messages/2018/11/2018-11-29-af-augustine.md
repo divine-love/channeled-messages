@@ -45,8 +45,8 @@ excerpt: >
   In time, harmony will be struck. You will see and experience and witness in your own lifetime a miracle of the transformation of your world into greater light and harmony.
 door: >
   The bells are already pealing. Those walking in God's Love will find their way through.
-collections: ["Awakening Humanity"]
-last_edited: 2026-06-26
+collections: ["Awakening Humanity", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 I am Augustine. You know no true adversity, beloveds. Your life is well insulated from true adversity. You want for nothing. You have all that you required to be in God's grace. You are comfortable in your lives. Though there are imperfections, some difficulties and some challenges, compared to many in your world you live a life that is ideal. At times, we who are in charge of your progression and work and soul awakening worry that when true adversity comes your way, that you are strong enough to withhold against the onslaught of the chaotic world in which you live.

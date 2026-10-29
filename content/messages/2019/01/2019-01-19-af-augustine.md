@@ -43,8 +43,8 @@ excerpt: >
   All those who are willing to step beyond their safe and regimented lives to exert themselves, inspired and guided by the Will of God, will be blessed mightily and be provided for in every way.
 door: >
   Pray for the Portals of Light. Travel to them. God will provide everything else.
-collections: ["Service & Mission"]
-last_edited: 2026-06-26
+collections: ["Service & Mission", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 God bless you, it is your teacher Augustine. It is good that you pray for these Portals of Light, beloved souls. Just as the dear soul (M) has been guided to pray, so we guide you and whoever is willing to pray for the empowerment of these portals, to bring light to this world. These mechanisms of light, channels from God to bring healing and love and blessings to many are important. They are crucial in these vast plans to heal your world and all within it. And so, when you have an opportunity to be present in a place where one of these portals exist, it is important that you focus your prayers for the highest, to seek to be an instrument that sustains these places.

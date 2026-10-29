@@ -46,8 +46,8 @@ excerpt: >
   Beneath the superficial is something tremendous and beautiful that is beginning to germinate within this place. What will come of this will surprise all of you.
 door: >
   A small church. Humble participants. And beneath it, something tremendous already germinating.
-collections: ["Service & Mission", "Awakening Humanity"]
-last_edited: 2026-06-26
+collections: ["Service & Mission", "Awakening Humanity", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 I am your teacher Augustine. The pace of change in your world is quickening, beloved souls and the pace of change within your own lives is following suit, quickening as well. Many blessings are coming to you, each one of you, in order to bolster your efforts to serve humanity and to adjust to the coming times, the shifts and changes that are manifesting in your world.

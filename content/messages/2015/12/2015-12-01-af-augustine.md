@@ -44,8 +44,8 @@ excerpt: >
   The time for a casual commitment towards this is done. The time for a strong, steady, consistent, passionate commitment to this Path and these Truths is required at this time.
 door: >
   The time for casual commitment is over. The world is already changing.
-collections: ["Awakening Humanity"]
-last_edited: 2026-06-29
+collections: ["Awakening Humanity", "The Saints & Apostles Speak"]
+last_edited: 2026-10-29
 ---
 
 Bless you, your teacher Augustine is with you.

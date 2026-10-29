@@ -53,10 +53,10 @@ excerpt: >
   from your soul.
 door: >
   God does not answer the words. He answers the longing underneath them.
-collections: []
+collections: ["The Saints & Apostles Speak"]
 essential_teachings: ["Core Teaching"]
 notes: ""
-last_edited: 2026-10-19
+last_edited: 2026-10-29
 ---
 
 God bless you, beloved souls. Indeed it is important to pray. It is important to start your day in prayer and to set out your intentions to God, and to listen for God's intentions for you, my beloveds. For as you pray and open that channel and that connection with your Creator, as you receive His Love flowing in your souls, as you open your minds and your hearts, you then are receptive to God's guidance, you then draw us angels into your midst, you then set up the flow, the process, the unfolding of this Light and guided outpourings to all those you meet.
