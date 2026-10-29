@@ -15,7 +15,7 @@ description: >
   Francis of Assisi speaks of love as the great unifying force of the universe
   and the true currency of life, sharing how he found God's Love alone in the
   forest among creatures, and urging all who seek spiritually to beseech God for
-  this Love — whether through the natural or Divine Love path — for it will
+  this Love, whether through the natural or Divine Love path, for it will
   transform the soul, awaken its gifts, and lead to at-onement with God.
 primary_subjects: "Divine Love & Relationship with God"
 secondary_subjects:
@@ -25,7 +25,7 @@ secondary_subjects:
   - "Unique Soul Gifts"
 people: []
 spirits: []
-keywords: ["love", "currency of life", "unifying force", "nature", "creatures", "forest", "at-onement", "Holy Spirit", "transformation", "seeds", "gifts", "river of love", "natural love", "Divine Love", "beacon"]
+keywords: ["love", "currency of life", "unifying force", "nature", "creatures", "forest", "at-onement", "Holy Spirit", "transformation", "seeds", "gifts", "river of love", "natural love", "Divine Love", "beacon", "laws of love"]
 questions:
   - "What is the most important truth a spiritual seeker must come to know?"
   - "How did Francis of Assisi find God's Love?"
@@ -56,7 +56,7 @@ excerpt: >
 collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   Love is not something to find outside yourself. It is something God pours in when you simply ask
-last_edited: 2026-06-16
+last_edited: 2026-10-29
 ---
 
 …I am Francis, Francis of Assisi and I have come to speak to you of Love, since this is why you gather, to receive and to know and to express in your lives this great gift of Love. For Love is the great unifying force in the universe. Love is the essence of God's existence. Love is what brings harmony into all your world and all worlds. And for those who seek spiritually, this one great truth must come into their consciousness in order to progress within their souls, whether that be of the natural love or the Divine Love. It is important and crucial that one acknowledges the power of love, the currency of love, the necessity of love. For a heart cold and unloving does not truly live. A heart filled with love, beaming Light and feeling connected to all creation knows the deep joy that is unobtainable when there is no openness or acknowledgement of love.
