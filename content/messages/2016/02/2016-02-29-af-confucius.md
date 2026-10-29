@@ -38,7 +38,8 @@ questions:
   - "Why is loving myself the foundation for loving others?"
   - "How do I break through the barriers that block God's Love?"
   - "How does faith allow God to heal my deepest wounds?"
-related_messages: []
+related_messages:
+  - 2016-12-08-af-confucius
 audio_url: ""
 canonical_url: ""
 language: en

@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2016-04-13-af-seretta-kem
   - 2016-07-13-af-seretta-kem
+  - 2016-12-08-af-confucius
   - 2017-01-23-af-alec-gaunt
   - 2017-12-12-af-seretta-kem
   - 2019-02-16-mc-seretta-kem

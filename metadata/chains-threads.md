@@ -2636,7 +2636,13 @@ message_ids already carry the dates.
   world, and applies one remedy to all; 2016-07-13-af-seretta-kem widens the
   field to body and spirit body and adds a second source, material that never
   originated in the seeker, "you absorb many energies in the world and these
-  also must be released"; 2018-04-03-af-luke develops the inherited strand
+  also must be released"; 2016-12-08-af-confucius gives the order of
+  surfacing, the obvious errors expunged first and the subtle ones following,
+  "other issues less recognized also emerge from you, seeking to be released
+  for they cannot abide within your soul with the blessing of God's Love
+  within," with the Love as what pushes them out, "allow the love to push
+  forth all those things within that are not in harmony with God";
+  2018-04-03-af-luke develops the inherited strand
   alone, transmitted parent to child across history; 2018-05-12-af-luke names
   the Law and states its insistence, "The Laws of Compensation which insist
   that every part of your soul that is contaminated with darkness, memories
