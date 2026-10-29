@@ -43,11 +43,13 @@ questions:
   - "Why are magnetic pole shifts happening and what do they mean?"
   - "Can prayer really make a difference to what is happening in the world?"
 related_messages:
+related_messages:
   - 2015-12-21-af-peter
   - 2016-03-21-af-augustine
   - 2016-09-06-af-mary
   - 2016-10-15-af-seretta-kem
   - 2016-12-07-af-andrew
+  - 2016-12-08-af-augustine
   - 2017-09-12-af-augustine
   - 2017-09-12-af-confucius
   - 2017-09-12-af-martin-luther

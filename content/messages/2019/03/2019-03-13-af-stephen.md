@@ -40,6 +40,8 @@ questions:
   - "How do I trust the sense of destiny I feel within me?"
   - "What does the Bible say about God speaking through dreams and visions?"
 related_messages:
+related_messages:
+  - 2016-12-08-af-augustine
   - 2017-09-13-af-keea-atta-kem
   - 2019-01-28-af-augustine
 audio_url: ""

@@ -2072,7 +2072,14 @@ message_ids already carry the dates.
   understand God's Will the soul must be fully awakened by the Love;
   2016-12-07-af-andrew gives the rock argument plainly, "For in any storm the
   soul that is calm, the soul that steadies those around it is the one that
-  will be looked to"; 2017-09-13-af-keea-atta-kem makes the readying God's own
+  will be looked to"; 2016-12-08-af-augustine gives the readying through the
+  soul's own perceptions sharpened by the angels, "you need these perceptions
+  of what I speak, you need to be able to know the will of God, to be able to
+  perceive the support and protection and guidance that the angels will give
+  you to navigate through a world that will have many difficulties and
+  upheavals," the glimpse being of possibilities and of what to do in the
+  moment, "It will be clear and obvious what you must do in any given moment";
+  2017-09-13-af-keea-atta-kem makes the readying God's own
   work, "this is God orchestrating your life, preparing you for what is to
   come," and sends the prepared to scientists, leaders and seekers;
   2018-09-01-af-seretta-kem marks the readiness turn, years of preparation
@@ -2083,8 +2090,8 @@ message_ids already carry the dates.
   the prepared souls "one component of a vast network that is being built" and
   coordinated by God and angels, with the caution that "the future is not
   written in stone" so readiness is developed day by day;
-  2019-03-13-af-stephen supplies the mechanism the thread otherwise only
-  names, dreams, portents, insights and visions as God communicating through
+  2019-03-13-af-stephen gives the same mechanism in another form,
+  dreams, portents, insights and visions as God communicating through
   the soul in advance, "so that when that time to act comes, all is not
   confusing and foreign and misunderstood."
   Objection removed. 2019-01-28-af-augustine answers the demand the readying
