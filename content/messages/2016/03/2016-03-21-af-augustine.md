@@ -16,12 +16,12 @@ description: >
   gathered are the first tender shoots of a great awakening dawning for mankind —
   called to drink deep of God's Love, release all barriers, and emerge into the
   Light of their unique purpose and service.
-primary_subjects: "Collective Awakening & Redemption"
+primary_subjects: "Awakening Mass Consciousness"
 secondary_subjects:
   - "Soul Awakening"
-  - "Preparation for Earth Mission"
-  - "Spiritual Empowerment & Encouragement"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Readiness & Spiritual Maturity"
+  - "Confidence in the Path"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["awakening", "humanity", "slumber", "spring", "tender shoots", "soul", "enlightenment", "barriers", "channel of love", "purpose", "service", "compassion", "material mind", "God's Love", "testimony"]
@@ -51,7 +51,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   You are the first tender shoots of a spring that is dawning for all of mankind
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 Humanity is in a deep slumber, my children. Each soul is buried under layers of the human condition, revering the intellect of the material mind, seeking the accumulation of material things and turning their faces from God. But I tell you, there is an awakening coming and you, my beloveds, are the first tender shoots of this spring that is dawning for mankind. You are awakening, my beloveds. You feel it within your souls. You have a sense of newness, new understandings, new beginnings as God's Love burns more brightly within your souls, enlightening your consciousness, bringing you to a place of deeper understanding, of greater compassion and Love; not only for yourselves but for others, as God builds within you that great channel of Love and you release all of those obstacles, those barriers, those veils which inhibit this flow of Love.

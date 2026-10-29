@@ -17,11 +17,11 @@ description: >
   will open many doors of opportunity to bring Light, Truth, Peace, and Love to a
   world in desperate need - with the entire Celestial Kingdom watching and ready
   to guide and support each willing instrument.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Readiness & Spiritual Maturity"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
   - "Celestial Governance & Spiritual Law"
-  - "Spiritual Empowerment & Encouragement"
+  - "Confidence in the Path"
 people: []
 spirits: []
 keywords: ["time approaches", "many angels", "doors opening", "Celestial Kingdom", "instruments", "gifts", "guidance", "lost souls", "Light", "Truth", "mission", "prophecy", "prayer", "soul longing"]
@@ -52,7 +52,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   All those years of prayer are about to open doors you have not yet imagined
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 There are many angels who wish to speak to you, my beloveds. The time approaches when you will bring forth many blessings and truths to this world. All of those years of prayers, of coming together with the longing of the soul will open up these doors as God continues to bless you within your soul, beloveds, and helps you to see beyond the limitations of your minds to know the great gifts of your soul.

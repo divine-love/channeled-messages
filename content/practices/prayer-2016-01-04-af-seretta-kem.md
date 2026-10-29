@@ -7,7 +7,7 @@ spirit_id: seretta-kem
 spirit_name: "Seretta Kem"
 medium: Al Fike
 date_received: 2016-01-04
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Healing Through Prayer"
   - "Circle of Light & Prayer Circles"
@@ -26,7 +26,7 @@ notes: >
   have put within me") and back to the group at the close. Given to a group
   formed for healing work, as the simple statement of purpose that replaces
   the mind's plans for what the work should look like.
-last_edited: 2026-10-12
+last_edited: 2026-10-29
 ---
 I am here because I love my Heavenly Father. I wish to be a channel of Love and healing into the world with all of you who are my brothers and sisters and if we sit down and pray together for this, my soul, the power of my faith, the wonderment of the Love that You have put within me tells me that this shall be so. God shall use me and you and all of us in this great effort to serve the world as a healing channel within the world as God will use each one of you individually, in many different ways, as you live your daily lives in His world. God will use you.
 

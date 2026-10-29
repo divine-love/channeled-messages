@@ -17,7 +17,7 @@ description: >
   knowing it. He encourages the gathering to open themselves to receive
   God's blessings through all the avenues of His creation, and to walk
   in the world as a beautiful gift to every soul they encounter.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Soul Awakening"
@@ -54,7 +54,7 @@ door: >
   see yet which ones will bloom.
 collections:
   - "Service & Mission"
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Precious and beloved souls, I am Confucius and I come to greet you this morning with my love and to give you some guidance.

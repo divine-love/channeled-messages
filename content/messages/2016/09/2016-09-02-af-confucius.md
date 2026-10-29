@@ -20,10 +20,9 @@ description: >
   doing and the healing of their errors. Change always starts from within, each
   soul's path is unique and not to be judged, and God desires a channel of Love
   in every soul so that His Love may flow out to the world.
-primary_subjects: "Soul Transformation & Development"
+primary_subjects: "Soul Awakening"
 secondary_subjects:
-  - "Soul Awakening"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Releasing Judgment"
   - "Awakening Mass Consciousness"
 people: []
@@ -55,7 +54,7 @@ door: >
   God lit the spark without asking your permission. The only choice left to you
   is whether you resist what it burns away.
 collections: ["Awakening Humanity"]
-last_edited: 2026-08-07
+last_edited: 2026-10-29
 ---
 
 It is Confucius. God has lit a spark within each soul in this circle, a spark that will change you, beloved souls, and will inspire you upon a different path in your lives, will bring you to certain awarenesses and experiences that may not otherwise be a part of your life. The power of a soul that is blessed in this way will bring great change, will motivate each one to walk a path imbued with Light and that which is not in harmony with God’s Love, with this spark of Light will fall away from you, beloved souls. Do not resist this change within you, that which compels you to move forward. Listen to the desire of your soul. Listen to that truth that beats within you, each one of you, and be compelled to act upon that which is within you, to walk a path lit by God, guided by God and in so doing you contribute to the change that is required in this world. For each of you must change, each soul upon this planet must be ignited into change to release the dark conditions that beset humanity. You must become a Light. You must allow the flame which God has placed within you to burn bright, to seek God’s repeated Touch of His Love within you that will fuel the great revolution within your soul, the transformation of your being, which will in turn change your thinking and your doing, which will in turn heal your wounds and your errors.

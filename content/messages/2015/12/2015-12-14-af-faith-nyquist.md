@@ -18,9 +18,8 @@ description: >
   who they are.
 primary_subjects: "Soul Awakening"
 secondary_subjects:
-  - "Spiritual Community & Fellowship"
-  - "Soul Transformation & Development"
-  - "Preparation for Earth Mission"
+  - "Circle of Light & Prayer Circles"
+  - "Readiness & Spiritual Maturity"
   - "Walking the Divine Path"
 people: []
 spirits: []
@@ -51,7 +50,7 @@ excerpt: "You cannot turn back, beloveds, but only move forward, move forward in
 collections: []
 door: >
   You cannot turn back. You can only move forward in Love
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloveds, this is Faith and I love you.

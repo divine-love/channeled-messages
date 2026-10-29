@@ -7,7 +7,7 @@ spirit_id: seretta-kem
 spirit_name: "Seretta Kem"
 medium: Al Fike
 date_received: 2016-09-01
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Humility"
   - "Surrender to God's Will"
@@ -27,7 +27,7 @@ notes: >
   follows it, "Then you open a door that is powerful indeed." Standing alone,
   the prayer is completed here with "[I will]"; the square brackets mark words
   added by the curator. The message body is unchanged.
-last_edited: 2026-10-11
+last_edited: 2026-10-29
 ---
 God, you are the one who is all powerful. In my prayer and love for you I accept that you will bring these gifts and blessings to others and if in my own small way, I can be an instrument for this, if I can assist you in this, if I can bring my own gifts into play for you as a dedication of love towards you and a dedication of love towards my brothers and sisters [I will].
 

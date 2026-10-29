@@ -19,9 +19,9 @@ description: >
   of what may come through any instrument.
 primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
+  - "God's Guidance"
   - "Soul Awakening"
-  - "Spiritual Community & Fellowship"
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["amendment", "questions", "mediumship", "limitations", "discernment", "circle", "wisdom"]
@@ -48,7 +48,7 @@ door: >
   Even heaven works within limits; wisdom is knowing which question matters
   most and asking only that one.
 collections: []
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Beloveds, 'tis Confucius, I wish to amend this guidance somewhat for this instrument has not received in its entirety what is meant. For if you were to each put forward five questions, we would be answering questions till the day is done. Formulate these questions, my beloveds, and discuss amongst yourselves what is important and bring this forward, for I believe that many of your questions will be similar.

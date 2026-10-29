@@ -17,7 +17,7 @@ description: >
   He assures them that their souls committed to this path before birth, that God has carried
   them all their lives, and that as they continue to pray and reach upward, their wings will
   spread and their joy will rise ever higher into the ecstasy of God's Love.
-primary_subjects: "Spiritual Empowerment & Encouragement"
+primary_subjects: "Reassurance & Strength"
 secondary_subjects:
   - "Walking the Divine Path"
   - "Divine Purpose"
@@ -50,7 +50,7 @@ excerpt: >
 collections: []
 door: >
   My little birds, you will fly into the light of His Love, rising ever higher and higher, knowing the joy and the ecstasy of His Touch
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Oh, my precious little birds. How you love to flock together in the Light of the Father's Love and you sing your songs of truth and give your love to one another. And do you not see how wherever you go, God opens doors, opportunities to speak of God's Love, to speak of the truth, to speak of your own experiences? To exclaim to the world, I am loved, and this is how I am loved, how I see and know that I am loved in the world and it is in these heartfelt exclamations of truth and love that the hearts of others are touched, and they too are inspired, and they seek this blessing from God.

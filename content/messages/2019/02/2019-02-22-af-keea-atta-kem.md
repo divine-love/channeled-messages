@@ -21,10 +21,10 @@ description: >
   time.
 primary_subjects: "Soul Growth through Challenges"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Soul Awakening"
   - "Surrender & Trust in God"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["challenges", "tests", "struggles", "blessings", "soul strengthening", "channel of love", "planting seeds", "humility", "awakening", "latent potentials", "faculties of the soul", "service", "each day a gift", "prayer", "guidance"]
@@ -53,7 +53,7 @@ excerpt: >
 door: >
   The struggle you are enduring is not in the way of your awakening. It is the awakening.
 collections: []
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 May your journeys continue to bring deep soul awakenings, that you may come to know God in ways that are not familiar to you now, but will awaken as you walk upon this path of prayer, as your faculties open with the blessings of the Father's Love, clearing away all that which obstructs the pure sight of your soul, so that God may guide you upon your path, awaken you to the many possibilities that are latent within your soul, but eager to awaken.

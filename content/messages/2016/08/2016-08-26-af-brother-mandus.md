@@ -22,7 +22,7 @@ description: >
   only then can they love all.
 primary_subjects: "Sanctuary & Sacred Space"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Teaching & Sharing the Message"
   - "Releasing Judgment"
   - "Self-Love & Acceptance"
   - "Unique Soul Gifts"
@@ -58,7 +58,7 @@ door: >
   Your esoteric understanding falls at the feet of the person who walked in
   hurting. A simple hello goes further.
 collections: ["Letters from History", "Service & Mission"]
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 
 Brother Mandus here. How humbling it is for me to follow the presence of the master in your midst. And it is my wish that the Master Jesus may walk within this place freely and his truths may be taught freely within this building for they are the truths of love and liberation, of exploring and expanding of the soul, of expressing gratitude by bringing healing and peace and comfort to the lost souls in this world. And this is my wish, for this house was dedicated to God and it is to be used in God's service, to whomever may come through this door that a blessing will be given, a greeting, an embrace, that there be respect, that there be humility for the servants of God who come to minister upon the people.

@@ -17,12 +17,12 @@ description: >
   is through simplicity, authenticity, and the soul's own light — not
   argument or persuasion. He encourages patience, humility, and trust
   that God does the work of touching souls.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
   - "Discernment & Truth-Seeking"
   - "Perseverance & Steadfastness"
   - "Soul Awakening"
-  - "Collective Awakening & Redemption"
+  - "Global Spiritual Work"
 people: []
 spirits: []
 keywords: ["truth", "simplicity", "authenticity", "outreach", "humility", "patience", "soul", "channel of love"]
@@ -54,7 +54,7 @@ door: >
   and let God do the rest.
 collections:
   - "Service & Mission"
-last_edited: 2026-07-08
+last_edited: 2026-10-29
 ---
 
 God bless you my friends, my name is Michael and I am guiding the two dear souls whom you will meet. I am an inhabitant of the Celestial Kingdom, another angel amongst many who work with you all on earth. You have been invited in earnest to speak to those dear souls who will gather and be a part of your Circle of Light. We are busy arranging and urging others to come to be a part of this circle and we are very pleased that you have taken up this call.

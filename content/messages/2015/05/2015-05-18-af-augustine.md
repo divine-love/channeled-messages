@@ -21,8 +21,8 @@ description: >
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Soul Awakening"
-  - "Spiritual Discipline & Daily Living"
-  - "Earth Changes & Prophecy"
+  - "Walking the Divine Path"
+  - "Two Choices for Humanity"
   - "Self-Love & Acceptance"
 people: []
 spirits: []
@@ -53,7 +53,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   Do you recognize your two selves, the one which is human and the one which is your soul?
-last_edited: 2026-08-05
+last_edited: 2026-10-29
 ---
 
 Do you recognize your two selves, the one which is human and the one which is your soul? When you are born these two selves are distinct, and as you grow in this world most of humanity develops the human qualities, the natural love, the mind, the appetites of the flesh. And these become hardened within yourselves, a steady and great influence upon your being. Yet you have come together to develop your souls, to seek the ascension of your souls within you by receiving God's Love and abundance, by making your relationship with God the first and foremost part of yourselves, and this is what we who are with you in Love and support continue to encourage you to do. We walk with you each day. We are with you in your prayers. We pray for you and we make our efforts to support and teach you.

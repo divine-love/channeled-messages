@@ -15,7 +15,7 @@ description: >
   Francis of Assisi teaches that prayer is powerful enough to change the conditions of the world and even the behaviour of those living in ignorance and error, for as the circle asks the Creator for blessings of light, the minds of those in darkness may be awakened to truth and love. He calls them to release all resentment and barriers that add to the world's darkness, to be channels of love wherever they can, and to trust that God will open doors so that each may play their part in the plan for the salvation of mankind.
 primary_subjects: "Prayer & Devotion"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Divine Plan & Timing"
   - "Reverence for the Earth"
   - "Compassion & Empathy"

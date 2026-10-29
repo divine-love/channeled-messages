@@ -19,8 +19,8 @@ description: >
   in their efforts toward the fulfillment of God's Will and purpose.
 primary_subjects: "Preparation for Earth Mission"
 secondary_subjects:
-  - "Earth Changes & Prophecy"
-  - "Spiritual Empowerment & Encouragement"
+  - "Future World Events"
+  - "Confidence in the Path"
 people: []
 spirits: []
 keywords: ["New York", "building", "hosannas", "prophecy", "guidance", "fulfillment", "God's will", "short measure", "full measure"]
@@ -47,7 +47,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   They will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right
-last_edited: 2026-08-06
+last_edited: 2026-10-29
 ---
 
 And they will fill this building and the hosannas will rise to God. Guidance will be given concerning this place when the time is right. Continue in your efforts, work towards this fulfilling of God's will and purpose. You will find your way, my beloveds. This will come in short measure and in full measure. God bless you and keep you within the flow of His Love. I am Augustine and I love you, God bless you.

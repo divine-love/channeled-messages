@@ -25,7 +25,6 @@ primary_subjects: "Personal Transformation Journey"
 secondary_subjects:
   - "Soul Growth through Challenges"
   - "Mind vs Soul Conflict"
-  - "Service, Ministry & Being a Channel of Love"
   - "Teaching & Sharing the Message"
 people: []
 spirits: []
@@ -56,7 +55,7 @@ door: >
   The change you cannot feel happening is visible from behind you. Turn
   around and look.
 collections: ["Service & Mission"]
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 
 It is Confucius. Oh, how you struggle with the human condition, the great challenges that you face in this world. Each one surmounting those conditions and barriers in your life in order to be in harmony and in the flow of God’s Love. My beloved children, each one of you here is blessed by God and has an angel with you as you surmount the obstacles in your path and place your intentions and prayers to God, that He may open your souls to the inflowing of His Divine Essence, that mighty Love that gives you the strength and the insights, the power, and the joy so that you may live your life in greater harmony, that you may live your life within the flow of His Love.

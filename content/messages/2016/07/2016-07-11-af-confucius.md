@@ -23,11 +23,10 @@ description: >
   others.
 primary_subjects: "Prayer & Devotion"
 secondary_subjects:
-  - "Spiritual Discipline & Daily Living"
   - "Receiving the Divine Love through Prayer"
-  - "Earthly Challenges & Human Condition"
+  - "Mind vs Soul Conflict"
   - "Nature of the Soul"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["daily prayer", "discipline", "silence", "communion with God", "replenishing the soul", "distraction", "priorities", "putting God first", "transient mind", "eternal soul", "little birds", "channel of love", "harmony", "angels", "purpose"]
@@ -57,7 +56,7 @@ door: >
   Everything you build in your mind is on loan. Only what your soul absorbs is
   yours to keep.
 collections: []
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 Once again my little birds have gathered and oh how you love to chatter together, to share your lives with one another, and now you come into the peace and silence of God’s presence, opening your souls and releasing all those thoughts of your minds to be with God in communion, to feel that deep and peaceful presence of the Creator. My little birds, you must take time each day to replenish your souls, to be in this silence and Light, to put aside all those conditions and thoughts and concerns of your daily life and be with God, for without this Divine Touch bringing to you the message of Love, peace, and the equilibrium that God’s Touch does indeed bring, you become lost in the human condition, in the ebb and flow of all the disparate energies of this world and the disparate thoughts of your own minds, and you do not feel the harmony and the peace that is meant for each soul in this world given freely by God. But you, my beloveds, must take the time, make the effort, say the prayers, sit in silence to receive God’s answers to the longings of your souls, and you must allow the longings of your souls to reach God. Beloveds, it is your souls that will become eternal with the touch of this Love. It is your souls that will create the great foundation of your lives and that which you entertain within your minds, my beloveds, is transient and changeable, but that which you absorb within your souls and the Truth and understanding that comes with this experience with God will remain forever. Remember this, my beloveds. It is the effort to expand and develop your souls that will bring you deep and abiding joy and peace, truth and love, and this is what you must concentrate on for at least one portion of your day – to be with God, to intensify the Light around you, to beseech God’s guidance, to draw His angels with you, to walk in this Light, for when you do so you draw many of God’s blessings within your day, within your being and you encourage and widen the channel of Love within you so that God may use you as His instruments, and channels of Love and healing, wisdom and comfort.

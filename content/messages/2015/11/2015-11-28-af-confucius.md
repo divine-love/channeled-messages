@@ -17,7 +17,9 @@ description: >
   shackles of earthly conditions, and that they be uplifted into glorious Light
   and the joy of God's presence within.
 primary_subjects: "Prayer & Devotion"
-secondary_subjects: ["Joyful Living", "Soul Healing & Emotional Restoration"]
+secondary_subjects:
+  - "Joyful Living"
+  - "Healing Through Prayer"
 people: []
 spirits: []
 keywords: ["prayer", "freedom", "joy", "burdens", "Light", "shackles", "earthly conditions", "uplifted", "God's presence", "circle", "blessing"]
@@ -34,7 +36,7 @@ notes: ""
 essential_teachings: []
 door: >
   Prayer is not an obligation. It is the most direct path to freedom and joy
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 Father, bless these thy children and lift their burdens that they may feel the glory and joy of your Love, that they may be light of heart, clear of mind, filled with Love within their souls. That those burdens of their flesh and of their spirits may be lifted. That in this circle they be uplifted into glorious Light. Father lift their burdens, free them from the shackles of these earthly conditions and bring them the joy of Your presence within.

@@ -17,7 +17,8 @@ description: >
   through prayer and love, assuring them that they are deeply cared for and that
   God will provide all they need on their spiritual path.
 primary_subjects: "Free Will & Human Error"
-secondary_subjects: ["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]
+secondary_subjects:
+  - "Divine Plan & Timing"
 people: []
 spirits: []
 keywords: ["free will", "God's will", "chaos", "world events", "prayer", "faith", "patience", "light", "darkness", "love", "choice", "celestial heavens", "trust"]
@@ -38,7 +39,7 @@ essential_teachings: []
 door: >
   Freedom to choose is the very thing that makes love real
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-13
+last_edited: 2026-10-29
 ---
 
 Your teacher Augustine here. So as you see the events of the world do not unfold to the Will of God but to the will of man. And indeed, it is easy to blame God for the wrong doings of mankind but it is not correct. God gives to all the gift of free will. God gifts all with this power to choose and indeed in this way, great good and great negativity can be in the world at the same time, because of this choice, because of the efforts of man. Indeed you wish to align yourself with the will of God and you do in your prayers and you do often in your actions and for this you are mightily blessed. But yes, we cannot control the events of the world in the way that you would like us to, that you desire us to, to make all easy and orderly and without strife. But alas, we are limited in our efforts as well because of the power of free will and the grave conditions that mankind has established in this world. This is not to say that we are powerless to influence man, for we can and put forth our efforts on your behalf and for the benefit of many who pray and seek the light, who desire the Will of God to become the will of man. And in time, as you grow in the love and your soul grows in wisdom, in insight and perception with the love, you will see your way through more clearly. You will understand to some extent the events to come and will adjust accordingly.

@@ -18,7 +18,8 @@ description: >
   losing their inner freedom, and to accept God's Will joyfully even when it
   brings the unexpected.
 primary_subjects: "Surrender & Trust in God"
-secondary_subjects: ["Spiritual Discipline & Daily Living", "Service, Ministry & Being a Channel of Love"]
+secondary_subjects:
+  - "Service, Ministry & Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["ministry", "titles", "humility", "God's will", "church", "compliance", "soul progression", "fellowship", "Divine path", "grace", "acceptance", "light", "channel of love"]
@@ -39,7 +40,7 @@ essential_teachings: []
 door: >
   Surrender to God's Will is not defeat. It is the beginning of your true life
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-11
+last_edited: 2026-10-29
 ---
 
 May His Love find a constant inflowing into your souls. I am Augustine and I have come to make comment upon the efforts of these two precious souls who endeavour to become ministers of their church. For those who see these titles as important, the doors will be opened for these precious souls who seek this title. In this world such things have gravity and importance, while in our world it is the relationship of the soul to its Creator that is of all importance. So there are times when one must comply to the conditions of humanity which demand titles and formal recognition, and I wish to encourage my two precious charges in their efforts to attain these titles.

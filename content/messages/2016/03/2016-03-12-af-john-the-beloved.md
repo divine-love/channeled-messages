@@ -19,11 +19,11 @@ description: >
   touching souls they will never know of. This, he teaches, is their greatest
   resource and the way true change happens: by being God's Touch in the world
   through prayer.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Prayer & Devotion"
-  - "Collective Awakening & Redemption"
-  - "Divine Will, Guidance & Orchestration"
+  - "Redemption of Humanity"
+  - "God's Guidance"
   - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
@@ -50,7 +50,7 @@ door: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: ""
-last_edited: 2026-10-15
+last_edited: 2026-10-29
 ---
 
 It is John. So you see how God works in your lives and there are times when God works in ways that are readily perceived, but God is working in your lives every moment, my beloveds. Every moment He Touches your life; He leads the way into Light; He opens doors, and opportunities. His invitation is always there, my beloveds, to receive His Love, to listen to His Voice, to be guided, to be shown the way, and to be embraced fully by your Heavenly Father whose love for you is greater than all the love of the angels, and all the love that you perceive in the world. It is greater, a mighty force in this universe, and in your life. God's Love carries you, embraces you, and keeps you within this Light of His presence.

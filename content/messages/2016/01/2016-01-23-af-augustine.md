@@ -22,9 +22,9 @@ description: >
 primary_subjects: "Prayer & Devotion"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Soul Awakening"
-  - "Divine Will, Guidance & Orchestration"
+  - "God's Guidance"
 people: []
 spirits: []
 keywords: ["prayer", "power of prayer", "longing of the soul", "recitation", "anchor", "foundation", "channel of love", "Holy Spirit", "guidance", "angels", "free will", "discipline", "intentions", "outpouring", "Path Divine"]

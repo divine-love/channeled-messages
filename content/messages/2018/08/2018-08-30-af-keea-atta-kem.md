@@ -25,7 +25,6 @@ secondary_subjects:
   - "Lattice of Light & Global Prayer Network"
   - "Mediumship & Developing as an Instrument"
   - "Spirit Guides & Angels"
-  - "Interdimensional & Spirit Communication"
 people: []
 spirits: []
 keywords: ["circle of light", "portal of light", "angels", "prayer", "spirit world", "healing chemistry", "sitters", "medium", "trance mediumship", "spirit spheres", "Divine Love", "intentions", "blessings", "unity", "collective prayer", "God's will"]
@@ -60,7 +59,7 @@ excerpt: >
 collections: []
 door: >
   Each soul in the circle is supported by an angel who stands behind them, with their hands upon them in prayer
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 God bless you beloved souls I am Keea Atta Kem and you have questions regarding circles of light and the manifestations that happen in these circles and I'm happy to answer your questions beloveds.

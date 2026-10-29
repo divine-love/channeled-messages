@@ -21,7 +21,6 @@ description: >
 primary_subjects: "Grief & Loss"
 secondary_subjects:
   - "Death & Transition to Spirit"
-  - "Interdimensional & Spirit Communication"
   - "Letting Go of Wounds"
   - "Self-Love & Acceptance"
   - "God's Mercy & Unconditional Love"
@@ -55,7 +54,7 @@ door: >
   The ones you grieve are not gone. They are living, close, and cheering the
   life still ahead of you.
 collections: []
-last_edited: 2026-07-22
+last_edited: 2026-10-29
 ---
 
 …I have come to relay a message from your mother. She wants you to know that she is happy and the happiness that you so wish for her she now has in a life filled with beauty and creativity and joy. She continues to progress in the life of spirit and enjoys every moment of her life and she wants for you to have this life of joy too, to be free from your pain and yes she has regrets for what has happened in your childhood and she lacked the strength to curtail these difficulties but she wants you to know that her love for you has always been and will always be strong, and she prays for your healing and for your life to be a good life, as do many.

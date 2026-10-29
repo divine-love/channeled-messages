@@ -20,8 +20,8 @@ description: >
 primary_subjects: "Surrender & Trust in God"
 secondary_subjects:
   - "Beauty & Spiritual Joy"
-  - "Spiritual Community & Fellowship"
-  - "Divine Will, Guidance & Orchestration"
+  - "Circle of Light & Prayer Circles"
+  - "God's Guidance"
   - "Spirit Guides & Angels"
 people: []
 spirits: []
@@ -50,7 +50,7 @@ door: >
   You have done the preparing; now comes the part where you let go and let
   God turn your plans into something better than you imagined.
 collections: []
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Your friend Alec here. God bless you, my brothers and sisters. So you have made all your preparations, you have had all your conversations, you have decided the course to take. Now it is time to allow God to manifest His Love in all that you do, to trust that with the help of the angels and with your own skills and sure knowledge of the roles that you are to play that all will be well and everything will fall into place. And with this understanding, I want you all to enjoy yourselves, to feel the joy of fellowship, to know the joy that you do all within the Father's Will, and in this there will be Light and Laughter, a joyful reunion, a loving benediction upon all who come together. Embrace your brothers and sisters, dance with your brothers and sisters, smile and laugh, and know that you are all God's children in the Light of His Love and that your future bodes very bright, filled with promise, filled with service, filled with many surprises.

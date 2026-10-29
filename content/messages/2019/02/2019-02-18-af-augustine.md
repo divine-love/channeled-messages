@@ -17,8 +17,8 @@ primary_subjects: "Spirit Guides & Angels"
 secondary_subjects:
   - "Soul Awakening"
   - "Mind vs Soul Conflict"
-  - "Spiritual Community & Fellowship"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Circle of Light & Prayer Circles"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["Celestial angels", "angel assigned", "receptivity", "soul faculties", "put aside preconceptions", "perception of the soul", "unique to each soul", "cannot be forced", "carrying the flame", "loneliness of the path", "channels of love", "reach for the highest"]
@@ -48,7 +48,7 @@ excerpt: >
 door: >
   The angels are already with you. You miss them because you keep listening with your mind instead of your soul.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-19
+last_edited: 2026-10-29
 ---
 
 … Wherever there are those who have an interest and a desire to pursue this gift of Divine Love, we will be with you, beloved souls. We will be with you for God assigns an angel to each soul that is earnest in their efforts to receive this gift of Love. Now for you to know us you must put aside your preconceptions, your mental expectations and barriers, and allow our presence to be felt and known by the senses that are not of the mind and the physical but of the soul and the heart. We will be with you clearly and powerfully in your life. But it is within your will and desire to be open and receptive to this new awareness and presence in your life. This cannot be forced. It is a growing awakening that comes with the blessing of God's Love.

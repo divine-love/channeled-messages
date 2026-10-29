@@ -21,9 +21,9 @@ description: >
   and peace that is not dependent on outer conditions.
 primary_subjects: "Cleansing & Expiation"
 secondary_subjects:
-  - "Soul Healing & Emotional Restoration"
+  - "Letting Go of Wounds"
   - "Rebirth of the Soul (New Birth)"
-  - "Spiritual Discipline & Daily Living"
+  - "Perseverance & Steadfastness"
   - "Mediumship & Developing as an Instrument"
 people: []
 spirits: []
@@ -62,7 +62,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   When you look back upon your lives, you will feel as much gratitude for the difficult times as for the times of joy. It is in the difficult times that the greatest progress is made
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 I was very pleased to be able to speak to you through the instrument who sits in this circle, the dear soul who has a deep desire to serve God and utilize her gifts for the benefit of others.

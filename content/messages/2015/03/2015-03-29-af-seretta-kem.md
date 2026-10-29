@@ -19,12 +19,12 @@ description: >
   obstructions, human effort and free will choices in thought, diet, prayer,
   and daily life are necessary partners in this healing — for spirit assistance
   alone would not strengthen the soul's own resolve and capacity for growth.
-primary_subjects: "Soul Healing & Emotional Restoration"
+primary_subjects: "Divine Love Healing"
 secondary_subjects:
   - "Free Will & Human Error"
   - "Cleansing & Expiation"
   - "Spirit Testimony & Personal Story"
-  - "Spiritual Discipline & Daily Living"
+  - "Prayer & Devotion"
 people: []
 spirits: []
 keywords: ["greatest healing", "cellular healing", "diet", "discipline", "free will", "temple", "obstructions", "expiation", "Egyptian healer", "Celestial Kingdom", "partnership", "positive thoughts", "human condition", "choice"]
@@ -62,7 +62,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   The greatest healing of all is obtained through the inflowing of God's Essence. Every cell, every energy, every aspect of your mind is transformed
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 Beloved souls, I am Seretta Kem. When I was on Earth, I lived in what you call Egypt, many, many generations ago when my country and culture was at its peak, and I have studied the art of healing for a very long time and I walk upon the Divine Path and I inhabit the Celestial Kingdom.

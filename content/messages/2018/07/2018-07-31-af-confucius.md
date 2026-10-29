@@ -17,11 +17,11 @@ description: >
   this moment to strengthen and propel them on their path. He promises that as they
   carry the Truth beyond the measure of their own lives, they will quench the thirst
   of many souls.
-primary_subjects: "Spiritual Empowerment & Encouragement"
+primary_subjects: "Reassurance & Strength"
 secondary_subjects:
-  - "Preparation for Earth Mission"
+  - "Readiness & Spiritual Maturity"
   - "Teaching & Sharing the Message"
-  - "Divine Will, Guidance & Orchestration"
+  - "Divine Plan & Timing"
 people: []
 spirits: []
 keywords: ["blessing", "birds", "flight", "service", "protection", "doors opening", "gift", "waters of life", "truth", "instrumentality", "spirit world", "channel of love", "world mission"]
@@ -44,7 +44,7 @@ excerpt: >
 collections: []
 door: >
   Many, many doors are opening. Walk willingly into this lighted passage of service and many blessings and miracles will follow in your stead
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Ah my little birds, how you love to flock together and pray together in the light of God's beloved touch upon you. Indeed you will take flight as the world draws you to many places, many souls who are in deep need of this Truth that you carry, deep need of the comfort that you bring, deep need of the light and the blessings that comes with your instrumentalities in the world. May your flights be swift and reach its mark as God lights your way, beloved souls, and carries you into deeper service to God. You are protected and no harm will come to you, my beloveds. Many, many doors are opening. Walk willingly into this lighted passage of service and many blessings and miracles will follow in your stead.

@@ -18,10 +18,9 @@ description: >
   confirming their mission and calling, before turning to the broader gathering
   and urging all present to seek God together in fellowship and allow the bonds
   of love to support them to greater heights.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Readiness & Spiritual Maturity"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Spiritual Community & Fellowship"
   - "Teaching & Sharing the Message"
 people: []
 spirits: []
@@ -53,7 +52,7 @@ excerpt: >
 collections: []
 door: >
   The journeys will continue and you will come again and again to those who desire your presence. This is your purpose and calling
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 I am Confucius. It seems that some of my countrymen do not understand the courtesies of prayer and meditation. You must educate them. Tell them of God's Love and how to receive this Love.

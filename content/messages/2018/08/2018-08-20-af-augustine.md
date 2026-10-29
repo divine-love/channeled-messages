@@ -19,11 +19,11 @@ description: >
   motion, that those who have nourished their souls in Divine Love will be protected
   and will lead others through the transition, and that prayer with faith and joy is
   the single most important action each soul can take.
-primary_subjects: "Earth Changes & Prophecy"
+primary_subjects: "Cleansing of the Earth"
 secondary_subjects:
-  - "Collective Awakening & Redemption"
+  - "Awakening Mass Consciousness"
   - "Prayer & Devotion"
-  - "Preparation for Earth Mission"
+  - "Readiness & Spiritual Maturity"
   - "Law of Free Will"
   - "Laws of Creation"
 people: []

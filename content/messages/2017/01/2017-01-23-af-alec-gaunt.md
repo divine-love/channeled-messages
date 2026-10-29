@@ -18,12 +18,11 @@ description: >
   them to recognize that the outward conscious self they cling to is not their
   true self, and that as the fire of Divine Love burns brighter within, the
   treasures of their true souls will emerge in beauty and power.
-primary_subjects: "Soul Transformation & Development"
+primary_subjects: "Cleansing & Expiation"
 secondary_subjects:
-  - "Cleansing & Expiation"
   - "Self-Love & Acceptance"
   - "Mind vs Soul Conflict"
-  - "Spiritual Empowerment & Encouragement"
+  - "Overcoming Inadequacy & Doubt"
 people: []
 spirits: []
 keywords: ["paper tiger", "soul transformation", "cleansing", "fire", "old patterns", "true self", "angelic being", "precipice", "shedding", "conflagration", "shifting", "transition", "fellowship", "mentoring", "testimony"]
@@ -58,7 +57,7 @@ excerpt: >
 collections: ["Mind & Soul", "Healing Path"]
 door: >
   The outward self you cling to is a paper tiger. Your true self, with all its gifts and treasures, is waiting inside your soul
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 Each of you is on the precipice of great change. There is much happening within you that will manifest through you and around you in time and you feel the shifting and the changing energies within yourselves, within your soul. Each of you have spent many hours in prayer, have come together to receive God's Love and have received God's Love in abundance and this brings a result. It brings change within you, a shifting of the very core of your being as has been promised and guided. So your perspective changes and what is important changes - priorities, focus, service. All of these things become illuminated by the Love that is in your souls. These shifts of perception and attitude filter up through your minds and as you are in transition, as you absorb and adjust to these new conditions within you, you often feel discomfort, somewhat challenged and maybe confused, but I tell you my friends, you will reach a higher level of understanding and perception and gifts will flow from this in powerful and beautiful ways.

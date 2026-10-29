@@ -21,7 +21,7 @@ description: >
   befriending it so that mind and soul may work in harmony.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
-  - "Soul Healing & Emotional Restoration"
+  - "Letting Go of Wounds"
   - "Cleansing & Expiation"
   - "Perseverance & Steadfastness"
   - "Circle of Light & Prayer Circles"
@@ -56,7 +56,7 @@ excerpt: >
 door: >
   The pain is not the enemy. It is your soul asking you to look at something you have been unwilling to see.
 collections: []
-last_edited: 2026-07-03
+last_edited: 2026-10-29
 ---
 
 Beloved souls, I am Keea, Keea Atta Kem and I join you in your time of prayer, in your Circle of Light. Beloved son, what a heart-felt and soul-felt prayer you shared to open this circle. God bless you for speaking from your soul.

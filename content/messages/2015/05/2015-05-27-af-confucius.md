@@ -17,7 +17,9 @@ description: >
   souls they encounter with pure, unconditional Love, as many are coming who will
   turn their eyes toward them.
 primary_subjects: "Prayer & Devotion"
-secondary_subjects: ["Mind vs Soul Conflict", "Preparation for Earth Mission"]
+secondary_subjects:
+  - "Mind vs Soul Conflict"
+  - "Readiness & Spiritual Maturity"
 people: []
 spirits: []
 keywords: ["soul ascendency", "prayer", "human condition", "change", "love", "judgment", "fear", "bias", "example", "service", "preparation", "growth", "consciousness", "harmony"]
@@ -37,7 +39,7 @@ notes: ""
 essential_teachings: []
 door: >
   The change you feel stirring within is not disruption. It is growth
-last_edited: 2026-08-19
+last_edited: 2026-10-29
 ---
 
 Blessed and beloved souls, I am Confucius. You are all eager and beautiful, my beloveds. Your souls eagerly beseech our Heavenly Father to receive His benediction of Love within you and there is indeed great work ahead for all of you, my beloveds. And what you are experiencing now is preparation for what is to come, the acceleration of your growth. Great effort from our side of life is made with each one of you, my beloveds to help you, to assist you, to grow in the Love, to grow in your consciousness, to be equipped to deal with the many challenges which come ahead of you. For the world will challenge you, my beloveds, and you need to be strong and able to face head on what is a great resistance from many to accept Love and to allow Love to change them irrevocably.

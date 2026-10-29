@@ -22,7 +22,7 @@ primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Faith & Trust"
   - "Perseverance & Steadfastness"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Mind vs Soul Conflict"
 people: []
 spirits: []
@@ -52,7 +52,7 @@ door: >
   You carry a flame in your soul that God has been stoking for years; doubt
   is the only water that can put it out.
 collections: []
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am Confucius, and I carry the burden of the men [laughter].

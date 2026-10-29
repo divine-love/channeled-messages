@@ -19,9 +19,8 @@ description: >
 primary_subjects: "Spirit Guides & Angels"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Spiritual Community & Fellowship"
   - "Beauty & Spiritual Joy"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Teaching & Sharing the Message"
 people: []
 spirits: ["mary", "john-the-beloved", "peter", "goldie", "jesus"]
 keywords: ["multiple spirits", "blessing", "retreat", "encouragement", "fellowship", "disciples", "joy", "flowers"]
@@ -51,7 +50,7 @@ door: >
 collections:
   - "The Saints & Apostles Speak"
   - "Jesus Speaks"
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am Confucius, I bring my Love. Precious, precious souls. Continue to walk together and many will walk with you….. many, many await you upon the Path. God bless you.

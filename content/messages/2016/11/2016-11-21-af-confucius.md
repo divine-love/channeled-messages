@@ -23,7 +23,7 @@ description: >
 primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Soul Healing & Emotional Restoration"
+  - "Divine Love Healing"
   - "At-onement"
   - "Personal Transformation Journey"
 people: []
@@ -54,7 +54,7 @@ door: >
   Something is moving in you, and it is not restlessness. It is the Love,
   changing you for all eternity.
 collections: []
-last_edited: 2026-08-19
+last_edited: 2026-10-29
 ---
 
 Bless you, my beloveds, Confucius is with you in your prayers.

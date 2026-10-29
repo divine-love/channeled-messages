@@ -16,7 +16,7 @@ description: >
 primary_subjects: "Soul Mates & Sacred Union"
 secondary_subjects:
   - "Soul Awakening"
-  - "Earthly Challenges & Human Condition"
+  - "Emotional Struggles"
   - "Knowing God"
 people: []
 spirits: []
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   Half a soul finding its other half on Earth: rare, difficult, and when it happens, unlike anything else.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-27
+last_edited: 2026-10-29
 ---
 
 It is indeed a great boon to the mortals of Earth who are able to work together with their soul mate in harmony and purposefully. This gift is desired by many, but accomplished by few. For the many avenues that a soul takes upon this world often does not bring a unity and a synchronicity amongst those who are soul mates for their life experiences are so different. And yet the souls are drawn together are they not, drawn in love? If the differences can be overcome, if there is a willingness an openness and an opportunity to be together while on Earth, then this is indeed a great blessing and a powerful union that may bring powerful blessings and gifts.

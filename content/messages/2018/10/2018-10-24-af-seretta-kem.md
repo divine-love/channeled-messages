@@ -19,11 +19,11 @@ description: >
   as materialism loses its hold, and calls each soul to accept their role with
   humility and faith, trusting the day-by-day flow of God's guidance rather than
   seeking fixed dates or certainties.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "Earth Changes & Prophecy"
+  - "Future World Events"
   - "Lattice of Light & Global Prayer Network"
-  - "Collective Awakening & Redemption"
+  - "Global Spiritual Work"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -56,7 +56,7 @@ excerpt: >
 door: >
   You are but one component of a vast network that is being built and will flourish with the hand of God upon it.
 collections: ["Awakening Humanity"]
-last_edited: 2026-05-05
+last_edited: 2026-10-29
 ---
 
 I am Seretta Kem. I wish to speak to you today of what may come in the future for each one of you, as you continue upon this course of soul awakening and the awakening of your gifts as they are being nurtured and assisted by we in spirit. There is much that is possible in your life, many opportunities, many things that will surprise you. We have talked of God's plan for the salvation of mankind, how this intricate plan continues to unfold in your world and bring you to that place of alignment, awakening, service, and greater love.

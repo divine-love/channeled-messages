@@ -21,9 +21,9 @@ description: >
   the right words when they ask.
 primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
-  - "Preparation for Earth Mission"
-  - "Spiritual Discipline & Daily Living"
-  - "Collective Awakening & Redemption"
+  - "Overcoming Fear & Doubt"
+  - "Walking the Divine Path"
+  - "Awakening Mass Consciousness"
   - "Mind vs Soul Conflict"
 people: []
 spirits: ["jesus"]
@@ -58,7 +58,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Silence in the presence of error is an acceptance of error
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 
 You have been discussing ways in which to communicate with your brothers and sisters, those who do not understand nor have experience the blessing of the Divine Love. You will meet many in your time on Earth who may not know your experience or understand your way of prayer. I say to you, beloved souls, ask to be guided when you are reaching out to another or another reaches out to you. We will assist you and inspire within you the words to be spoken. For this to happen, you must have a loving appreciation of each soul, an understanding of their condition and state of mind. With your soul perceptions, this is possible, to truly receive insight into another in a way that increases your own sense of love and compassion for another.

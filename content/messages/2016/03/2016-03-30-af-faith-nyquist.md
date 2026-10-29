@@ -16,7 +16,7 @@ description: >
 primary_subjects: "Humility"
 secondary_subjects:
   - "Surrender to God's Will"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Releasing Judgment"
   - "Faith & Trust"
 people: []
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   You think you need a strategy for the hard room. Faith says walk in with love and watch the walls come down.
 collections: []
-last_edited: 2026-06-29
+last_edited: 2026-10-29
 ---
 
 God bless you, this is Faith.

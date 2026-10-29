@@ -23,7 +23,6 @@ secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
   - "Healing Through Prayer"
   - "Lattice of Light & Global Prayer Network"
-  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["circles of light", "group prayer", "healing", "outreach", "love", "warmth", "lost souls", "channel of love"]
@@ -55,7 +54,7 @@ door: >
 collections:
   - "Service & Mission"
   - "Awakening Humanity"
-last_edited: 2026-08-07
+last_edited: 2026-10-29
 ---
 
 Beloved, beautiful souls, I am Confucius. You did indeed come together to give healing to the world and healing to yourselves. And it was demonstrated to you the power of group prayer and the wonderment of this blessing that came through you for the world. Much was accomplished in this effort that you made together and some of you felt the power of it and perceived its beauty.

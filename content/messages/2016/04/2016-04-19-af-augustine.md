@@ -16,11 +16,11 @@ description: >
   much has been accomplished, promising the group will be summoned together
   again, and urging them to carry the treasure of Truth they have received —
   sharing it in love, humility, and joy.
-primary_subjects: "Spiritual Community & Fellowship"
+primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Spiritual Empowerment & Encouragement"
+  - "Confidence in the Path"
   - "Walking the Divine Path"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Teaching & Sharing the Message"
 people: []
 spirits: []
 keywords: ["farewell", "reunion", "treasure", "sharing truth", "bonds of love", "teaching", "healing", "channel of love", "patience", "transition", "Grace", "redeemed"]
@@ -46,7 +46,7 @@ excerpt: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Hidden within each lesson is a great door to growing your souls
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 God bless you, it is your teacher Augustine.

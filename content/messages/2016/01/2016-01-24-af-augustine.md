@@ -24,7 +24,6 @@ secondary_subjects:
   - "Prayer & Devotion"
   - "Soul Awakening"
   - "Self-Love & Acceptance"
-  - "Spiritual Discipline & Daily Living"
 people: []
 spirits: []
 keywords: ["soul desire", "mind desire", "unworthiness", "material mind", "conflict", "alignment", "longing", "prayer", "discipline", "self-love", "obstruction", "communion with God", "wordless prayer", "honesty"]

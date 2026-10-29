@@ -22,7 +22,6 @@ description: >
 primary_subjects: "Discernment & Truth-Seeking"
 secondary_subjects:
   - "Teaching & Sharing the Message"
-  - "Spiritual Discipline & Daily Living"
   - "Faith & Trust"
   - "Protection from Negative Influences"
 people: []
@@ -56,7 +55,7 @@ excerpt: >
 collections: []
 door: >
   Much of the work you do is hidden but goes very deep as you plant seeds of truth, as God blesses many through you, soul to soul
-last_edited: 2026-10-15
+last_edited: 2026-10-29
 ---
 
 You feel many souls drawn to you. It seems like an endless parade of souls wanting to be with you, to pray with you, to share for some moments with you in your life. This is the power of love, beloveds. This is power of love. For as you continue to grow in the Father's Love, it acts like a magnet, the souls who are seeking, who feel the resonance of their longing and your light. So my beloveds, this is the way it will be in your world. Many souls seeking you out, seeking something often that they know not what, but nonetheless seeking, drawing to you. This will indeed be a more prolific, greater flow, and a powerful connection will be made with each of these souls.

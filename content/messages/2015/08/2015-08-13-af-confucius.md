@@ -21,7 +21,7 @@ description: >
   ever can.
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
+  - "God's Guidance"
   - "Soul Awakening"
   - "Faith & Trust"
   - "Nature of the Soul"
@@ -58,7 +58,7 @@ door: >
   blooms in the soul the moment you stop trying to figure it out.
 collections:
   - "Mind & Soul"
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Did I not say that my precious birds will come together, to flock together? God draws you together, my beloveds, for a great purpose. And when these days are done you will know with surety and a powerful clarity what you must do, the steps you must take forward. In many ways you have tried to discern and decipher the Will of God through your minds and speculations. And I tell you, now comes the time to know the Will of God. But this, my beloveds, is not through your minds, it is through your souls. And we have made great preparations for you to come to this place of clarity, of awakening in this way so that your souls may come to understand your purpose, that road which God has placed you upon and the service which is uniquely yours as your gifts unfold, as the Love continues to pour within your souls. Long for this, my beloveds, this understanding, this soul awareness, this soul wisdom. You are ready to allow this awakening, to embrace it. And the dilemmas which you hold within your mind will melt away. And your mind will truly accept what will be given.

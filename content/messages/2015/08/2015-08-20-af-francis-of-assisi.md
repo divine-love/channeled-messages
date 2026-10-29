@@ -21,9 +21,8 @@ description: >
 primary_subjects: "Faith & Trust"
 secondary_subjects:
   - "Soul Awakening"
-  - "Spiritual Discipline & Daily Living"
   - "Receiving the Divine Love through Prayer"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["letting go", "attachments", "walls", "poverty", "simplicity", "freedom", "gifts", "cloak", "innocence", "nature"]
@@ -61,7 +60,7 @@ collections:
   - "Letters from History"
   - "Awakening Humanity"
   - "The Saints & Apostles Speak"
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 God bless you, I am Francis, known as St. Francis of Assisi and I come to you, my beloved brothers and sisters, to encourage you to build within your life Circles of Light, to build all about you Light, to be that beacon and source of Light as the Father's channels of Love and Truth and Peace and Healing. I walked away from a life filled with all the material wealth and comfort to do this very thing, to commune with God and to start out again in innocence in my love for my Heavenly Father I walked away. And in this act, rejecting the human situation that was my life, I made a commitment to my Heavenly Father that I would do His Will, that I would be in His Grace and that I would love. And in this, my gifts flourished and I found contentment, I found joy, I found simplicity in my life, and all of those things that held me from this fell away and I knew deeply my God who loved me.

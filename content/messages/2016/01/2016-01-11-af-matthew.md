@@ -17,10 +17,9 @@ description: >
   He urges the circle to embrace all without prejudice, to make love the currency
   of their lives and the focus of their mission, and to pray often in preparation,
   promising that what flows from their efforts will astonish them.
-primary_subjects: "Earth Changes & Prophecy"
+primary_subjects: "Future World Events"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
-  - "Preparation for Earth Mission"
+  - "Readiness & Spiritual Maturity"
   - "Interfaith & Universal Truth"
   - "Soul Awakening"
 people: []

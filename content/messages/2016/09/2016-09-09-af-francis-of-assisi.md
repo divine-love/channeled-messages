@@ -24,8 +24,8 @@ primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Spirit Guides & Angels"
   - "Self-Love & Acceptance"
-  - "Preparation for Earth Mission"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Unique Soul Gifts"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["spirit guide", "love of animals", "nurturing the soul", "fervent prayer", "preparation", "true self", "old feelings", "unconditional love", "child of God", "thirst", "drinking the Love", "barriers broken", "drawing others"]
@@ -55,7 +55,7 @@ excerpt: >
 door: >
   The thirst is never quenched, and that is not the problem. That is the point.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-08
+last_edited: 2026-10-29
 ---
 
 And I am your guide, my son. Yes, your love of animals makes us brothers and your desire to serve your brothers and sisters makes us allies in service to God and His Love and I come to tell you that I have been with you often and will be by your side as you continue in this work bringing truth to those who are receptive to receive it, bringing Love wherever you go, showing the way. You must pray fervently to God to guide you and open your sensibilities that you may be in that flow of God's guided intention and Will. And in this way you will find your way, you will draw many bright souls to you who will support you and will add their Light to your Light and bring change into this part of the world so in need.

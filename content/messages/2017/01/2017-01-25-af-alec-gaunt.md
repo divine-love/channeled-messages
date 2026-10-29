@@ -19,9 +19,9 @@ description: >
   every joy, and every aspect of their lives.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Spiritual Discipline & Daily Living"
+  - "Prayer & Devotion"
   - "Circle of Light & Prayer Circles"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["living waters", "foundation", "spiritual growth", "church", "Burnaby", "prayer", "nourishment", "soul", "bond with God", "presence", "healing", "circle of light", "relationship with God", "awakening"]
@@ -55,7 +55,7 @@ excerpt: >
 collections: []
 door: >
   The greatest fulfillment your soul can experience is simply to be with God
-last_edited: 2026-06-25
+last_edited: 2026-10-29
 ---
 
 I am Alec and I have come to this church many times over the many years I have had an association here. I have come in the flesh. I have come in spirit. I have worked with many of you who are here. I come to serve God in love, in my desire to support you in your spiritual development. Beloved souls, do you not feel these living waters pouring over you, this blessing of God's Love, washing over you, through you, carrying you to another place in light? Beloved souls open yourselves to this blessing. Allow God to lift you up and bring you to that place of peace, and joy, comfort, healing and love. So many in your world do not know how to refresh themselves in this way, to reach out to God in prayer and supplication, in openness and humility, to seek this nourishment from the Creator, to carry this light wherever they go. Beloved souls this is available to each and every one of you and to each and everyone in this world if they but take the time and make their prayers be known to God and open themselves to that touch, that step in faith that says, "I am with you. I love you. Dear God be with me that I might feel your love. Be with me that your peace may rest as a mantle upon me. Be with me so that I know I am never alone, that you are with me always."

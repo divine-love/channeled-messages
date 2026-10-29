@@ -19,11 +19,11 @@ description: >
   He assures them that though the work will begin small and humble, it will grow
   as they persist in faith, and that each of them will find their unique role in
   the coming Dawn of Love.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Soul Awakening"
   - "Faith & Trust"
-  - "Collective Awakening & Redemption"
+  - "Global Spiritual Work"
   - "Supporting One Another"
 people: []
 spirits: []
@@ -57,7 +57,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You are on the verge of great transformation, not only personally but in this world. You will know a great joy as God's plan unfolds and you awaken to a new dawn, the Dawn of Love
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am Seretta Kem. There is a change coming to your circles, a deep change, for gifts are being developed that will garner more attention to you and work that is coming that will draw you out into the world. You must prepare yourselves, beloved souls, within your souls. Have a deep connection with God, a connection that is strong and clear with each day of your life, a commitment to serving your Heavenly Father in a way that may reach wide, out into the world to the many souls who are waiting, to the many opportunities that God is going to place before you. Each of you will have a role to play, opportunities are coming, doors are opening, possibilities are being realized. For as change comes to this world so your responsibilities will deepen. We come to you in these ways to gather you together in Circles of Light, to prepare you, to awaken you, to educate you that you may walk with a clarity and wisdom and light and love that will touch many souls, will be used by God in many ways.

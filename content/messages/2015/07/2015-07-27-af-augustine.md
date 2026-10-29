@@ -17,7 +17,9 @@ description: >
   detail of the gathering and that a multitude of angels will be present,
   bringing a great Light and abundance of Divine Love to all who come.
 primary_subjects: "Surrender & Trust in God"
-secondary_subjects: ["Preparation for Earth Mission", "Circle of Light & Prayer Circles"]
+secondary_subjects:
+  - "Readiness & Spiritual Maturity"
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["retreat", "preparation", "trust", "God's will", "obedience", "faith", "angels", "banquet", "blessing", "abundance", "humility", "at-onement", "surrender", "channel of love"]
@@ -43,7 +45,7 @@ essential_teachings: []
 door: >
   What God prepares for a gathering of souls is far greater than what any one of them imagined
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 It is Augustine, your teacher. So you have made your plans and you have looked at all the details, mulled over the scenarios, the possibilities and now it is time for you to have confidence that what you have planned and how you have planned it will be executed in Light and harmony. And remember that when the Father opens a door for you to do a task, blessings come on many different levels and in many different ways. And though you may be challenged by certain circumstances, that challenge is an opportunity to allow God to bring His Light and His influence of Love into that condition and situation. And in order to allow this, you must put aside your reticence and fears and have faith that God's Hand will touch all that you do as long as you do so in alignment with God's Will and Love.

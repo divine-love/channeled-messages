@@ -17,12 +17,12 @@ description: >
   specific act of service. He assures them that every soul who assists
   another in light and love will be blessed abundantly, and that stretching
   beyond comfort in service opens a greater channel of Love within.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
-  - "Spiritual Discipline & Daily Living"
+  - "God's Guidance"
+  - "Walking the Divine Path"
   - "Mediumship & Developing as an Instrument"
-  - "Spiritual Community & Fellowship"
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["service", "commitment", "questions", "gifts", "one thing", "God's will", "retreat", "dedication"]
@@ -52,7 +52,7 @@ door: >
   God is not asking for everything at once; He is asking for one thing,
   done in love, with everything you have.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Augustine here. You have done good work today, my dear students. You have looked within yourselves and you have assessed your desires, and you have reflected upon who you are in the world and what you are willing to do in the world on behalf of God and His Will, and you have seen the needs that are ever-present in this world and you have thought about where you may meet those needs and you have written your statements and drawn your pictures and this is all important work and I task you with another: I wish for you each one to list five questions you wish to ask of God and to bring them to your circle tomorrow.

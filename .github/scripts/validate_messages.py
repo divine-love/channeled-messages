@@ -366,17 +366,27 @@ def main():
 
     # ── NEW: subject usage census ─────────────────────────────────────────────
     census = build_subject_census(subject_names)
-    used = [(n, c) for n, c in census.items() if c > 0]
-    unused = [n for n, c in census.items() if c == 0]
+    with open(SUBJECTS_PATH, "r", encoding="utf-8") as f:
+        categories = {c["name"] for c in (yaml.safe_load(f.read()) or {}).get("main_categories", [])}
+    subs = [n for n in subject_names if n not in categories]
+    used = [(n, census[n]) for n in subs if census[n] > 0]
+    unused = [n for n in subs if census[n] == 0]
     print("─" * 60)
     print("SUBJECT USAGE CENSUS")
-    print(f"  {len(used)} of {len(subject_names)} subjects in use across {len(message_files)} message(s)\n")
+    print(f"  {len(used)} of {len(subs)} subjects in use across {len(message_files)} message(s)\n")
     for name, count in sorted(used, key=lambda x: (-x[1], x[0])):
         print(f"  {count:4d}  {name}")
     if unused:
         print(f"\n  Not yet used ({len(unused)}) - expected while the archive backlog is being processed:")
         for name in unused:
             print(f"     -  {name}")
+    # Top-level categories are tagged directly only when a message spans
+    # several of their subjects or names a theme none of them covers
+    # (schema.md, Subjects), so a count of zero here is normal.
+    cat_used = [(n, census[n]) for n in subject_names if n in categories and census[n] > 0]
+    print(f"\n  Top-level categories tagged directly ({len(cat_used)} of {len(categories)}):")
+    for name, count in sorted(cat_used, key=lambda x: (-x[1], x[0])):
+        print(f"  {count:4d}  {name}")
     print()
 
     # ── Summary ───────────────────────────────────────────────────────────────

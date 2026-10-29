@@ -18,9 +18,8 @@ description: >
   gifts and the one that will change the world, urging the circle to nurture it
   through prayer, to release their willful resistance, and to choose the path of
   becoming God's clear and vibrant channels of Love.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
-  - "Teaching & Sharing the Message"
   - "Receiving the Divine Love through Prayer"
   - "At-onement"
   - "Surrender to God's Will"
@@ -52,7 +51,7 @@ door: >
   you will never meet turn toward the sound.
 collections: ["Service & Mission", "Awakening Humanity"]
 notes: ""
-last_edited: 2026-08-25
+last_edited: 2026-10-29
 ---
 
 God bless you, my children, I am Confucius.

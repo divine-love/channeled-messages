@@ -16,7 +16,6 @@ description: >
 primary_subjects: "Personal Transformation Journey"
 secondary_subjects:
   - "Soul Growth through Challenges"
-  - "Spiritual Community & Fellowship"
   - "Walking the Divine Path"
   - "Supporting One Another"
 people: []
@@ -50,7 +49,7 @@ excerpt: >
 collections: []
 door: >
   Each time you make this effort, the struggle for something higher, you feel a little more joy within your souls
-last_edited: 2026-08-09
+last_edited: 2026-10-29
 ---
 
 God Bless you. I am Confucius. Each of you has been called to do this work, to further God's Will in this world, to work together, to pray together, to be as God intended you to be, my beloveds, in harmony, in strength, in Love and in purpose. Each of you has a gift and many gifts to contribute to the greater whole of your work. Each of you has a role to play, my beloveds. And indeed, as this instrument has indicated, each of you are able to receive your guidance. Have faith and trust in this, my beloveds. For God speaks to each one of you, and it is for you to listen and to be in harmony with your souls, to allow the consciousness of your souls to truly be a part of you.

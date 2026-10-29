@@ -18,9 +18,9 @@ description: >
   them as channels of Divine Love at his house will manifest — and that what is
   needed is not a strong personality but a humble, prayerful, soul-centred
   servant of God's Will.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Overcoming Fear & Doubt"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
+  - "Divine Plan & Timing"
   - "Humility"
   - "Service, Ministry & Being a Channel of Love"
   - "Spirit Testimony & Personal Story"
@@ -57,7 +57,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   What is needed is not a strong personality but a humble, prayerful soul
-last_edited: 2026-08-02
+last_edited: 2026-10-29
 ---
 
 …. to receive the benediction of God's Great Love, I am Brother Mandus and I come because, my daughter, of your service to my house and because of all of your connections and desires to serve though this channel in that far off place. And I come to reassure you that the door still remains open for God to work through all of you to bring Light to my country, to bring Truth of God's Love into the rooms and hallways of that place. Yes, the door remains open and though with your minds you see many obstacles and judgements directed towards you, towards all of you, I would say that the time fast approaches when the tables will be turned and that door which is opened will allow you to walk through and do God's work there.

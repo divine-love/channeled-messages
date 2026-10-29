@@ -21,10 +21,9 @@ description: >
   the soul continues in Light while free will places consciousness
   elsewhere, and he asks for the maturity of a channel who can walk in Light
   always.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Prayer & Devotion"
 secondary_subjects:
   - "Mind vs Soul Conflict"
-  - "Prayer & Devotion"
   - "Protection from Negative Influences"
   - "Law of Attraction"
   - "Readiness & Spiritual Maturity"
@@ -56,7 +55,7 @@ door: >
   Your soul is already standing in the Light. The only question is where you
   keep putting your attention.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-08-08
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. It appears you have learned a valuable lesson about your thoughts, the importance of keeping your thoughts on the highest, conducting yourselves with integrity, disciplining your emotions. All of these aspects of your character, emanations of your being are very important, regarding how you move in this world as a channel of God’s Love. Yes, there are many variables that determine how one behaves, what thoughts one has and the emotional well-being of the individual.

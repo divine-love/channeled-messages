@@ -20,9 +20,9 @@ description: >
 primary_subjects: "Walking the Divine Path"
 secondary_subjects:
   - "Faith & Trust"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
   - "Soul Awakening"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["threshold", "change", "new life", "timing", "transition", "soul faculties", "gifts", "courage", "bravery", "dynamic life", "surprises", "harmony", "channel of love", "scales", "wisdom"]
@@ -52,7 +52,7 @@ excerpt: >
 collections: []
 door: >
   Life conspires to bring growth. It is not stale and static but full of movement and openings
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 Alec here and I am happy to be with you and I have been with you for this whole day and have enjoyed your conversations and your prayers and your desires to be in the highest condition and Light. How beautiful it is to see a group of people who are not so much engaged in the material but in the spiritual. How important this is to take time to discuss and to contemplate and to be within the Light of the spiritual.

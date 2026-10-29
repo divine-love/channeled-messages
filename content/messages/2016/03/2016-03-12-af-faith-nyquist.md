@@ -18,11 +18,11 @@ description: >
   be an integral part of God's plan for the salvation of mankind, that travelling
   the world in prayer as a channel of Love plants seeds whose harvest will be
   great, and that every prayer they make furthers that plan.
-primary_subjects: "Divine Will, Guidance & Orchestration"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
   - "Surrender & Trust in God"
-  - "Collective Awakening & Redemption"
+  - "Global Spiritual Work"
 people: []
 spirits: []
 keywords: ["open door", "God's plan", "orchestration", "trust", "do not worry", "material provision", "channel of love", "planting seeds", "prayer", "salvation of mankind", "guidance", "harvest", "faith"]
@@ -46,7 +46,7 @@ door: >
   A door has opened. You cannot see the plan behind it, but your part is only to walk through in joy.
 notes: >
   Given in response to the approval of an August gathering at the WHC AGM.
-last_edited: 2026-06-18
+last_edited: 2026-10-29
 ---
 
 It is Faith. A door has opened for you. Walk through that door in joy and know that God will orchestrate your gathering and bring the blessings to all those present. And do not worry and fuss about the outcomes and how this is done but be a channel of Love. Bind all your brothers and sisters together in prayer, bring love and Light. All will be well, all will be well. We are joyed at the outcome and a door has been opened and you, my daughter, have helped to facilitate this, by your prayers and your presence. Continue to be an ally for God in this place. It is important and you cannot see the plans that are unfolding, but God does have a plan and as long as you listen to your guidance and enact this guidance in accordance to God's Will, you will be an integral part of this plan. Each of you has an opportunity to be a part of God's plan for the salvation of mankind and there are many who will join you in this unfolding, unfolding events that will bring about great change, great Light in this world. Seek to be a part of this, have faith you are a part of this. And every prayer that you make for this world furthers God's plan.

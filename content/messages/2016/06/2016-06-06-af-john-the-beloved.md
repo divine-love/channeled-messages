@@ -22,7 +22,7 @@ description: >
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Prayer & Devotion"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Interfaith & Universal Truth"
   - "Confidence in the Path"
   - "Unity in Diversity"
   - "Teaching the Prayer Practice"
@@ -52,7 +52,7 @@ door: >
   Your longing did not go unheard. It is the very thing that drew an apostle
   to your side.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-07-23
+last_edited: 2026-10-29
 ---
 
 I am John, John the Beloved, and I have been drawn here because each of you have made an earnest prayer to receive Love. Your longings rise up from your souls to the Creator and though you come from many different places, many different cultures, many different ideas of what spirituality is, you each have a soul that resonates with this Truth. You each long from that place deep within you to have your souls filled with Light, to be an expression of Light, to walk in this world as a Light in service and love to others.

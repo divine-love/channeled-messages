@@ -20,7 +20,7 @@ description: >
   they meet is precious, and the capacity to see that in another begins with
   turning the gaze on oneself, since it is those who acknowledge their own
   beauty who have eyes to see it in others.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Self-Love & Acceptance"
   - "Joyful Living"
@@ -53,7 +53,7 @@ door: >
   You will not see the beauty in anyone else until you stop refusing to see
   it in yourself.
 collections: ["Service & Mission"]
-last_edited: 2026-08-09
+last_edited: 2026-10-29
 ---
 
 It is Keea Atta Kem. Do not restrict the flow of Love through you, my beloveds, at any time for God puts upon your path many souls so that they may be blessed through your channel of Love, that there be some Light given to all that you meet. And you will be surprised at whom you will meet as you continue to go out into the world and be that channel of Love that God desires you to be.

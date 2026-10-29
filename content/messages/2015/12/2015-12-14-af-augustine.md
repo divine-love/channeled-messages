@@ -20,9 +20,9 @@ description: >
 primary_subjects: "Free Will & Human Error"
 secondary_subjects:
   - "Mind vs Soul Conflict"
-  - "Divine Will, Guidance & Orchestration"
+  - "God's Guidance"
   - "Soul Awakening"
-  - "Preparation for Earth Mission"
+  - "Readiness & Spiritual Maturity"
   - "Knowing God"
 people: []
 spirits: []
@@ -57,7 +57,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You cannot know God's Will from your mind. You can only know it from your soul
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 God bless you beloveds, it is your teacher Augustine.

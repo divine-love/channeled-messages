@@ -23,7 +23,6 @@ secondary_subjects:
   - "Humility"
   - "Cleansing & Expiation"
   - "Walking the Divine Path"
-  - "Spiritual Discipline & Daily Living"
 people: []
 spirits: []
 keywords: ["judgement", "judgment", "self-judgment", "acceptance", "compassion", "perception", "anger", "resentment", "superiority", "Divine Love", "inner monologue", "choice", "Light", "soul condition", "vulnerability"]
@@ -61,7 +60,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot judge
-last_edited: 2026-08-07
+last_edited: 2026-10-29
 ---
 
 You have requested a talk on judgment. So I will talk about the urge to judge your brothers and sisters in this world.

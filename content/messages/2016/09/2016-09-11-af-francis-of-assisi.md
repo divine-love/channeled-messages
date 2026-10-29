@@ -20,7 +20,7 @@ description: >
   and that he persisted and prayed rather than attend to the judgements of
   others. He counsels patience as the work unfolds slowly, and gives three
   things to say against the negative thoughts placed within him.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
   - "Perseverance & Steadfastness"
@@ -58,7 +58,7 @@ door: >
   They thought he was out of his mind too. Only God could hear what his soul
   was longing for, and only God can hear yours.
 collections: ["Letters from History", "Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-08-08
+last_edited: 2026-10-29
 ---
 
 Bless you, beloveds. You did well with the gathering [in Frankfurt] for you planted seeds within those souls who attended and I must tell you that there were many spirits with you at that time in which seeds were planted. In this simple way you do God’s work. You bring the Truth, you speak the Truth, you pray the Truth, and you sit listening in a circle of Light for God to respond, and indeed God did respond and Touch each soul. It is not for you to determine their fate, their choice, but you, in a loving way, offered the Truth as simply and powerfully as you could. Therefore, you have done God’s Will and you need not question your endeavours in any way but to continue to seek inspiration and guidance, to touch the souls you feel drawn to and who are drawn to you and to offer this experience for those who may be interested. Circles of Light, beloveds. Yes, Circles of Light. They form in accordance to God’s Will and the desire of others who are drawn. You will be inspired. You will continue to bring together souls who are curious, souls who are longing, souls who desire comfort, souls who desire truth. This will continue.

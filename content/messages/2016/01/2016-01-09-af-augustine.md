@@ -18,10 +18,10 @@ description: >
   God inspires, assuring them that what seems like simple effort will bring
   wondrous blessing to the world and that their bonds of love will become a great
   channel for God.
-primary_subjects: "Spiritual Community & Fellowship"
+primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
-  - "Soul Transformation & Development"
+  - "Being a Channel of Love"
+  - "Personal Transformation Journey"
   - "Surrender & Trust in God"
   - "Reassurance & Strength"
 people: []

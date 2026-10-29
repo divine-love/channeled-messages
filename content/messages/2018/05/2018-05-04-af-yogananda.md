@@ -18,12 +18,11 @@ description: >
   wanderer, and minstrel - drawing parallels to his own journey from India to
   America, and assuring this soul that many celestial helpers will accompany
   him as the path opens and revelation follows revelation.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
+  - "Divine Plan & Timing"
   - "Service, Ministry & Being a Channel of Love"
   - "Faith & Trust"
-  - "Unique Soul Gifts"
 people: []
 spirits: []
 keywords: ["India", "journey", "wanderer", "minstrel", "healer", "teacher", "music", "song", "revelation", "momentum", "timing", "guru", "humble servant", "path opening", "faith"]
@@ -56,7 +55,7 @@ excerpt: >
 collections: ["Letters from History", "Service & Mission"]
 door: >
   Everything has led to this point. From this point many things will flow in harmony. You will not have to struggle to find your way - the path will open
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 I was pleased that you reviewed my message of some months back and my invitation to proceed to India to do your work. As you can see, God has timing in His Plans, the sense of the right time and the right place, the right attitude and the right motivation. It is important to take all of these things into consideration when one dedicates oneself to service to humanity.

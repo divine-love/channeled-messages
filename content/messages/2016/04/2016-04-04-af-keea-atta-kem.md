@@ -20,7 +20,7 @@ description: >
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Soul Awakening"
-  - "Spiritual Identity & Destiny"
+  - "Soul's True Nature"
   - "Mind vs Soul Conflict"
   - "Mediumship & Developing as an Instrument"
 people: []
@@ -58,7 +58,7 @@ excerpt: >
 collections: ["Prism of the Soul"]
 door: >
   The light within your soul refracts through the prism of God's Love, each colour a unique gift
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 I am Keea and I have come to speak on the subject of the gifts of the soul.

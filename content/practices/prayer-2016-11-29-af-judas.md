@@ -7,7 +7,7 @@ spirit_id: judas
 spirit_name: "Judas of Kerioth"
 medium: Al Fike
 date_received: 2016-11-29
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Prayer & Devotion"
   - "Teaching the Prayer Practice"
@@ -26,7 +26,7 @@ notes: >
   every situation yourself: Judas follows it with the assurance that when you
   do this to the best of your ability and give over to God's Will, you are in
   harmony with God. A final full stop is supplied.
-last_edited: 2026-10-13
+last_edited: 2026-10-29
 ---
 Father I am here to be your channel of love, guide me, lead me through and help me to be someone who brings peace, brings love, brings truth wherever I may go.
 

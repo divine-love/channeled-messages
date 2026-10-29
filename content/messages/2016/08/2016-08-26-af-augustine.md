@@ -20,9 +20,8 @@ description: >
   upon, insists it is available to all whatever their position or condition,
   and reminds his listeners that God does not command their love but beseeches
   them to know His Love, leaving the choice with them.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Receiving the Divine Love through Prayer"
   - "Personal Transformation Journey"
   - "Reassurance & Strength"
   - "God's Mercy & Unconditional Love"
@@ -53,7 +52,7 @@ door: >
   Everything you lean on for security can be taken from you. The one thing that
   cannot is never commanded, only offered.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-05
+last_edited: 2026-10-29
 ---
 
 Your teacher Augustine. May each one of you come to truly recognize the touch of God within your souls, that you come to recognize how God may touch your souls over and over again bringing about transformation, bringing about greater awareness, opening your eyes, awakening your beings, all from the touch of God. His Love brings within you great change, an evolution, a transformation that will radiate out from the center of your being into your consciousness, into your mind, into your body and into your spirit. It causes harmony, peace, joy, and a great capacity to love, to love all in creation, to love all your brothers and sisters, to be in that flow of Love, that Divine Grace that you all seek, that your souls are compelled to seek. This change within, this shift also brings a strengthening of your being, a resilience so that when all that around you changes and your comfort and your sense of security is gone you're able to have this strength within you which allows you to feel comfort, to know security in God. This is the only constant in a life that can be relied upon - your relationship with your Heavenly Father, your relationship with the Truth that is Love.

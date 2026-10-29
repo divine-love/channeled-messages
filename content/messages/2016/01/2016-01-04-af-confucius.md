@@ -21,7 +21,6 @@ description: >
 primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Soul Awakening"
-  - "Spiritual Discipline & Daily Living"
   - "Faith & Trust"
   - "Darkness vs Light"
 people: []
@@ -55,7 +54,7 @@ excerpt: >
 collections: ["Mind & Soul"]
 door: >
   There may be nothing between your mind and your soul - a merging of consciousness
-last_edited: 2026-07-04
+last_edited: 2026-10-29
 ---
 
 Every moment, every effort you make is an opportunity to learn and to grow within your souls, and your sincere desire to increase the channel of healing and Love in this world is beautiful to behold, my beloveds.

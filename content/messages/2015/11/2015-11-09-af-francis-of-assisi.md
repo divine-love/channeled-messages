@@ -18,8 +18,11 @@ description: >
   — disruptions and adjustments necessary for the survival of all creatures — and
   assures those present that with the eyes and ears of their souls they will
   guide many through these changes as God's channels of Love.
-primary_subjects: "Nature, Environment & God's Creation"
-secondary_subjects: ["Earth Changes & Prophecy", "Service, Ministry & Being a Channel of Love", "Reverence for the Earth", "Unique Soul Gifts"]
+primary_subjects: "Reverence for the Earth"
+secondary_subjects:
+  - "Future World Events"
+  - "Being a Channel of Love"
+  - "Unique Soul Gifts"
 people: []
 spirits: []
 keywords: ["healing", "world", "creation", "beauty", "creativity", "harmony", "balance", "creatures", "disruptions", "earth changes", "God's handiwork", "channels of love", "soul faculties", "garden"]
@@ -44,7 +47,7 @@ essential_teachings: []
 door: >
   The world is not beyond healing, but it needs souls willing to be instruments of that healing
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 It is Francis of Assisi and I was with this instrument in the garden and we enjoyed some moments together in the sunlight surrounded by God's beautiful creation and his beautiful creations which he has made in his place of residence.

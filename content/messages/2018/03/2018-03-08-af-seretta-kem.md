@@ -21,7 +21,7 @@ primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "At-onement"
   - "Unique Soul Gifts"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
   - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
@@ -51,7 +51,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   Even those in the Celestial Kingdom do not know all the wonders of God's Love. It continues to unfold for them as it does for you
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 Beloved souls, I am Seretta Kem. I see that your circle continues to grow and I welcome these two beautiful souls into our circle of Love. May the Father's Love continue to pour into each of your souls, connecting you with God, connecting you with one another, creating bonds that will indeed last forever.

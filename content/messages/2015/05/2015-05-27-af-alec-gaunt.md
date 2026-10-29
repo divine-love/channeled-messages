@@ -16,8 +16,10 @@ description: >
   flow of God's Love and Will, and be fully engaged in the great transformation
   unfolding in the world, assuring them that he will continue to walk by their
   side as friend, guide, and protector.
-primary_subjects: "Preparation for Earth Mission"
-secondary_subjects: ["Earth Changes & Prophecy", "Divine Will, Guidance & Orchestration"]
+primary_subjects: "Readiness & Spiritual Maturity"
+secondary_subjects:
+  - "Acceleration of Change"
+  - "Alignment with Divine Flow"
 people: []
 spirits: []
 keywords: ["preparation", "step forward", "earth changes", "transformation", "God's will", "crossroads", "light", "harmony", "peace", "resistance", "flow", "mission", "friendship", "guide"]
@@ -37,7 +39,7 @@ notes: ""
 essential_teachings: []
 door: >
   The season of preparation is over. It is time to act
-last_edited: 2026-04-11
+last_edited: 2026-10-29
 ---
 
 God bless you, my friends. Yes, we have worked hard together, have we not, to lay the foundations, to prepare the ground, to prepare yourselves within? And now you come to a great crossroads, a time of reckoning where all this preparation, all of the changes within you, all that Love accumulated within your souls, all the books that you've read, all the conversations that you've had, and the great efforts you've made together to grow and expand in God's Love, to understand the truth. It is now time to put forth all of those energies and efforts and Love in an effort which is orchestrated by the Heavenly Father, by His Angels and by many spirits to make a deep and profound change in this world. For the world is indeed changing. The conditions of the Earth, even the physical conditions of this Earth are changing and will continue to make this journey of transformation, which will invariably lead to Light and harmony and peace. And as for you, my friends, the more you resist the change within you and the change all about you, the more difficult it will be for you. And the more you are willing to accept and go with the flow of God's Love and Will, the happier will be your person and the outcomes within your lives.

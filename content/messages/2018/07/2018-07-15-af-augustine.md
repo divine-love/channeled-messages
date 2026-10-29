@@ -18,9 +18,9 @@ description: >
   truth in their service, affirms the power of the bonds of love in the
   community, and urges them to be open and vulnerable with one another, for
   this engenders more love and light.
-primary_subjects: "Spiritual Empowerment & Encouragement"
+primary_subjects: "Confidence in the Path"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Teaching & Sharing the Message"
   - "Spiritual Community & Fellowship"
   - "Humility"
 people: []
@@ -50,7 +50,7 @@ excerpt: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Any small effort you make, even in prayer, is blessed ten times over by God. This is the generosity of God's Love for you
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 I am your teacher Augustine. All those who commit to doing this work shall receive the blessings and support of the angels. How few there are in this world, who are willing to step forward in this way. How few are prepared to engage in this great task of bringing the truth of God's Love to the world in ways and means that are clear and loving and consistent. How precious are all of you, beloved souls, who have committed your soul to seeking at-onement with God through His Love.

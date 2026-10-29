@@ -18,12 +18,11 @@ description: >
   responsibility for their choices. He assures them that the Light built
   within the soul lasts for all eternity and is worth every effort and
   sacrifice the path requires.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Faith & Trust"
 secondary_subjects:
   - "Soul Awakening"
-  - "Faith & Trust"
   - "Receiving the Divine Love through Prayer"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Discipleship"
   - "Law of Attraction"
 people: []
 spirits: []

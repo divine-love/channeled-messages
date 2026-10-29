@@ -21,7 +21,7 @@ description: >
 primary_subjects: "Soul Awakening"
 secondary_subjects:
   - "Mind vs Soul Conflict"
-  - "Collective Awakening & Redemption"
+  - "Awakening Mass Consciousness"
   - "Knowing God"
   - "Spirit Testimony & Personal Story"
 people: []
@@ -57,7 +57,7 @@ excerpt: >
 collections: ["Letters from History", "Mind & Soul", "Awakening Humanity"]
 door: >
   All Truth begins with Love. For Love is what makes the universe what it is. It brings life
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 I am John Wesley. For many of you, your lives are a dream that you need to wake from. For you live within your mind, and the minds of mankind are shrouded in illusion, yet believes it knows the Truth. The only way that one can awaken from the illusions of mankind is through your souls. For within your soul is the capacity to know the Truth, to awaken to God's Creation rather than to be asleep within the illusion of man. The world needs to awaken my friends, before it is too late and the illusions of mankind bring its own destruction. The world needs to awaken my friends, because God desires that all who live in this world will come to know the Truth of their own existence, and come to know the power of God and His Love, the power to awaken mankind from its slumbers and bring that clear and crisp knowing that comes from the faculties of the soul that are awakened by the touch of God.

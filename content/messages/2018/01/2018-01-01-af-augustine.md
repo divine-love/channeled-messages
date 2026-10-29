@@ -20,10 +20,10 @@ description: >
   God in prayer for themselves.
 primary_subjects: "Discipleship"
 secondary_subjects:
-  - "Preparation for Earth Mission"
+  - "Readiness & Spiritual Maturity"
   - "Humility"
   - "Prayer & Devotion"
-  - "Divine Will, Guidance & Orchestration"
+  - "God's Guidance"
 people: []
 spirits: []
 keywords: ["new year", "new phase", "doors opening", "God's will", "adulation", "dependence", "source", "channel", "teaching", "prayer", "guidance", "humility", "soul awakening", "whisperings of God"]
@@ -54,7 +54,7 @@ excerpt: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Resist the temptation of adulation. Humbly point every soul to God as the Source of all gifts
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 This is your teacher Augustine. You enter a new phase of your service to God, for this is a time when doors will open for you my beloved souls, doors of awareness within your soul, doors of service within this world. As your minds adjust to the awakenings of your souls, so you will be able to perceive and to accept what is coming for each one of you. There will be no doubt, no confusion, no misunderstanding. God's Will will be laid plainly before you my beloved souls, in all its power and simplicity. It is for you to accept and gladly allow the Will of God to manifest through you. You are ready for this beloveds. You have prayed for this and you have sought the Father's Love to make those healings and changes within you and you begin to awaken and understand your purpose as given to you by God.

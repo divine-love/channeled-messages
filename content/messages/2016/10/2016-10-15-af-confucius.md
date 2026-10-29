@@ -25,7 +25,7 @@ secondary_subjects:
   - "Divine Plan & Timing"
   - "Unique Soul Gifts"
   - "Faith & Trust"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["homecoming", "travels", "expanding work", "calling", "unseen plan", "finding your place", "purpose", "soulful gifts", "trust", "living waters", "full immersion", "peace that passes all understanding", "storm", "family of the children of God"]
@@ -56,7 +56,7 @@ door: >
   You cannot see the plan you are already standing inside of. That is not a
   sign it is missing.
 collections: ["Service & Mission"]
-last_edited: 2026-08-08
+last_edited: 2026-10-29
 ---
 
 It is Confucius. I see my little birds have come back to roost. [Return from England, Germany and Serbia] How pleased we are with their efforts. They have completed yet another journey, bringing the Light of God’s Love wherever they went and many souls were touched by their efforts and their prayers and their conversations with so many. Each day was a dedication to this work and we are pleased with their efforts.

@@ -19,12 +19,11 @@ description: >
   faculties opened by Divine Love, and gently redirects the circle toward simplicity,
   urging them to focus on their souls, their relationship with God, and the truths
   they are currently able to absorb.
-primary_subjects: "Interdimensional & Spirit Communication"
+primary_subjects: "Spirit Guides & Angels"
 secondary_subjects:
   - "Soul Awakening"
   - "Discernment & Truth-Seeking"
   - "God's Nature & Essence"
-  - "Spirit Guides & Angels"
 people: []
 spirits: []
 keywords: ["hierarchy of heaven", "angels", "non-human angels", "angelic forces", "Celestial Angels", "creation", "soul faculties", "truth incremental", "simplicity", "soul growth", "comprehension", "universe", "curiosity of mind", "elements of creation", "soul perception"]
@@ -57,7 +56,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Simplicity, my beloveds, simplicity is the key. Do not overtax yourselves with mindful considerations that do not lead to greater understanding
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 You have asked a question regarding the hierarchy of Heaven and are there creatures, angels created by God that are not of the same quality as the angels of the Celestial Heavens. I wish to say that these angelic forces, these creatures do exist. There are not many that exist, but each one is assigned a specific task by God and are endowed with great abilities and capacities to influence your world. We are aware of these angelic forces, as with anything in God's Universe, all works together in harmony. We are not always subject to the desires of these angels and influence upon us, for with our souls awakened with Love, we are able to go to God directly to receive our guidance, to be able to administer to your earth and others. Yet these un-human forces are powerful and influential upon the earth and the Heavens and they too have love for humanity and for all creatures upon the earth, a deep compassion. They are more aligned with the elements of creation and they are aligned with specific elements, which foster the evolution and growth of the universe. They are not so much engaged in the welfare of specific mortals and spirits, but oversee the workings of God's Creation as His active agents in the universe. As such, one need not be so concerned with these angelic forces, for they are not at your disposal beloveds. It is the Celestial Angels that may work with you and bless you and guide you.

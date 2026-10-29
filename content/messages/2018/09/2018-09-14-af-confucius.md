@@ -21,7 +21,7 @@ description: >
 primary_subjects: "Discernment & Truth-Seeking"
 secondary_subjects:
   - "Protection from Negative Influences"
-  - "Preparation for Earth Mission"
+  - "Mediumship & Developing as an Instrument"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -51,7 +51,7 @@ excerpt: >
 collections: []
 door: >
   You are my little birds and I keep you in my nest of love, beloveds
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 It is not easy to walk in these conditions with so many who are so psychically gifted. There are many there who will take as much as they give. You must be careful to guard your own condition, to not open too wide to those who you may be impressed with, with their gifts, but are not so spiritually inclined. This is the dilemma of the gifted souls. They manifest physical gifts but do not know their own souls. It is for you, beloveds, to discern this when you are with others. It is a test and it is an opportunity to learn.

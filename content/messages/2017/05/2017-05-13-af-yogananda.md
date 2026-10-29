@@ -18,12 +18,11 @@ description: >
   gathered to accept the diversity of God's creation, embrace all souls
   regardless of background or belief, and understand that each unique voice adds
   to the full and beautiful truth of God's Love in the world.
-primary_subjects: "Collective Awakening & Redemption"
+primary_subjects: "Awakening Mass Consciousness"
 secondary_subjects:
   - "Interfaith & Universal Truth"
   - "Unique Soul Gifts"
-  - "Spiritual Community & Fellowship"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Unity in Diversity"
 people: ["J W"]
 spirits: []
 keywords: ["Self-Realization", "Encinitas", "diversity", "acceptance", "tolerance", "interfaith", "Celestial Kingdom", "candle", "garden", "biases", "unique voice", "soul awakening", "bliss"]
@@ -59,7 +58,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   When different souls bring their truth together, they create something more beautiful than any one of them could alone
-last_edited: 2026-08-25
+last_edited: 2026-10-29
 ---
 
 Friends, I am indeed Yogananda and I thank you for coming to my sanctuary, for being in this place and adding your prayers to this beautiful garden. You see, Light is everywhere beloveds, Light is everywhere.

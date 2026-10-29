@@ -18,11 +18,10 @@ description: >
   consequences of humanity's disregard for God's Laws of Creation, and that those
   who carry Divine Love will be guided to scientists, leaders, and seekers as
   rocks of stability and truth in the coming storms.
-primary_subjects: "Earth Changes & Prophecy"
+primary_subjects: "Acceleration of Change"
 secondary_subjects:
-  - "Collective Awakening & Redemption"
-  - "Preparation for Earth Mission"
-  - "Celestial Governance & Spiritual Law"
+  - "Awakening Mass Consciousness"
+  - "Readiness & Spiritual Maturity"
   - "Lattice of Light & Global Prayer Network"
   - "Laws of Creation"
 people: []

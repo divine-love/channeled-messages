@@ -23,7 +23,6 @@ primary_subjects: "Death & Transition to Spirit"
 secondary_subjects:
   - "Grief & Loss"
   - "Soul Spheres & Progression"
-  - "Interdimensional & Spirit Communication"
   - "Joyful Living"
 people: []
 spirits: ["mary"]
@@ -55,7 +54,7 @@ excerpt: >
 door: >
   The grief is real, but it is yours, not theirs. They have gone toward the light, and they have not gone far.
 collections: ["Letters from History"]
-last_edited: 2026-07-15
+last_edited: 2026-10-29
 ---
 
 I am Yogananda. I come with God’s Love for all.

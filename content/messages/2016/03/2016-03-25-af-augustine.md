@@ -16,9 +16,9 @@ description: >
 primary_subjects: "Prayer & Devotion"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Divine Will, Guidance & Orchestration"
+  - "Divine Plan & Timing"
   - "Soul Awakening"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["prayer", "sincere prayer", "group prayer", "strike the mark", "guidance", "promptings", "circles of light", "centres of light", "portal of light", "soul growth", "purpose", "intention"]

@@ -22,7 +22,6 @@ secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
   - "Circle of Light & Prayer Circles"
   - "Receiving the Divine Love through Prayer"
-  - "Spiritual Community & Fellowship"
 people: []
 spirits: []
 keywords: ["mediumship", "preparation", "support", "gifts", "gathering", "cellular", "transformation", "prayer"]
@@ -52,7 +51,7 @@ door: >
   God's preparation goes deeper than you know, right down to the cellular
   level; the work ahead has already begun within you.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 It is Augustine here.

@@ -13,7 +13,7 @@ gathering:
 message_type: ["Blessing"]
 description: >
   Seretta Kem closes an evening of healing and prayer with a tender blessing, affirming that the group's efforts to bare their souls and reach for something higher have been witnessed and celebrated in spirit. He assures them that the next steps lie easily within their grasp and that God's Love will continue to change them and unfold their gifts.
-primary_subjects: "Spiritual Empowerment & Encouragement"
+primary_subjects: "Confidence in the Path"
 secondary_subjects:
   - "Soul Growth through Challenges"
   - "Receiving the Divine Love through Prayer"
@@ -42,7 +42,7 @@ excerpt: >
 collections: []
 door: >
   Bless you, beloved souls, who reach eagerly for greater Light and service
-last_edited: 2026-04-30
+last_edited: 2026-10-29
 ---
 
 God bless you, this is Seretta Kem. You have each received healing this night and received the Love of God within your souls and I wish to say to you, those who were here for the day that we are very pleased with what you have accomplished and that you have bared your souls to one another and made efforts to reach for something higher. And you have great aspirations, my beloved beautiful souls, to be God's willing channels in the world of Love. And as you so desire this and you reach for the highest, you will be those channels of love, you will bring blessings through you to many, and there will be many opportunities to walk in the world in Light, in service, in Love.

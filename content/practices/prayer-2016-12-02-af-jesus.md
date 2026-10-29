@@ -9,7 +9,7 @@ medium: Al Fike
 date_received: 2016-12-02
 primary_subjects: "Prayer & Devotion"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Soul Awakening"
   - "Humility"
 description: >
@@ -24,7 +24,7 @@ notes: >
   quotation marks in the source; the first two paragraphs are the prayer. Like
   2015-08-17-af-jesus, it is a prayer for others rather than words given for
   the seeker to say.
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 Father, bless these, my children, who bear the flame of Your Love, who carry the mantle of Truth within them, who are truly Your Children as they walk through this world. May Your grace enfold them, as they yearn and grow within themselves. May Your Love transform them as they go amongst their brothers and sisters. May Your blessings flow from them, that they may carry this blessed purpose to bring the seeds of Truth, to show the way of Love, to carry the Light of purity as they continue to yearn for You, my beloved Father.
 

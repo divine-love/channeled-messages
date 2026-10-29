@@ -18,12 +18,11 @@ description: >
   and seeking God. He calls those who carry the Truth of Divine Love to pray
   earnestly, be examples of the awakened life, and trust that the light they
   build within themselves is the greatest service they can render to a suffering world.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Readiness & Spiritual Maturity"
 secondary_subjects:
-  - "Earth Changes & Prophecy"
-  - "Collective Awakening & Redemption"
+  - "Cleansing of the Earth"
+  - "Awakening Mass Consciousness"
   - "Prayer & Devotion"
-  - "Spiritual Discipline & Daily Living"
 people: []
 spirits: []
 keywords: ["earth changes", "imbalance", "harmony", "prayer", "light", "darkness", "service", "awakening", "humanity", "suffering", "wisdom", "God's plan", "channel of love", "salvation of mankind", "truth", "integrity"]
@@ -54,7 +53,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   No matter what situation you are in in your life, it is the light that you carry and the light that builds within you that will have the greatest effect
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 Yes, you can see plainly the changes that are happening in your world, how the earth is imbalanced and needs to come back into balance, back into harmony with the rhythms and cycles that God has created in your world. These conditions will unfortunately intensify, as so many blindly ignore the warnings and the manifestations that have come because humanity has not lived in this world with a sense of love, kindness, respect, wisdom. Beloved souls, God compels you and every soul in this world, to seek to uplift your thinking and to uplift your souls in love. That you may walk the world in peace and harmony, in wisdom and love. What greater thing can you do at this time than to do this; to pray and be close to God, to seek to be in harmony within yourself and at harmony with the world.

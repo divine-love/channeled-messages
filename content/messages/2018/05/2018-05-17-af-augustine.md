@@ -23,7 +23,7 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Soul Awakening"
   - "Unique Soul Gifts"
-  - "Spiritual Discipline & Daily Living"
+  - "Walking the Divine Path"
   - "Knowing God"
 people: []
 spirits: []
@@ -58,7 +58,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The goal is not soul or mind. It is a beautiful orange - predominantly soul, but with the mind mixed in to create something harmonious and whole
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 God bless you, it is your teacher Augustine. Yes I have come to clarify your questions regarding the guidance that I gave through this instrument a few days ago. For the most part, I wish to say that I'm not indicating that 60% of your day must be within your soul and 40% within your mind. This is not the goal. The goal is to have the mind dominated by the soul at all times. That when you are perceiving the world, interacting with the world, that the root expression of your being may come from the soul. And if you think of the soul as a light, then that light must shine bright and influence the mind. So that this combination; this marriage of soul and mind may involve the dominance of the soul guiding the mind, guiding your consciousness. That when you are in this circumstance of the dominance of the soul, you become aware of its influence, the mind of the soul, the light of the soul, the love of the soul, the faculties of the soul and that you carry this consciousness with you wherever you go and whatever you do. To put forth an expectation that you would express the consciousness of the soul in its completeness and all its power and beauty to such a degree that the mind is completely subjugated by the soul is an unrealistic expectation at this time of any of you who are progressing with the Divine Love. I was merely attempting to encourage you to bring the soul consciousness to a more acute realization, that it may dominate the consciousness of your being, yet still operating in conjunction with the consciousness of your mind. The soul consciousness would be the dominant factor as the mind contributes and adds to this level of awareness, this shift of thinking, being and perceiving. This is possible my beloveds. This is possible.

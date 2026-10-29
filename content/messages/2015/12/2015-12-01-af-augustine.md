@@ -13,9 +13,8 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine delivers an urgent call to move beyond casual commitment, warning that rapid world changes are coming and that each soul must be fervent in prayer, self-examination, and alignment with God's Will to be ready. He teaches that spirits cannot do this preparation for those gathered — it requires the free will choice of each individual to step forward in passionate and consistent dedication to the path.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Perseverance & Steadfastness"
 secondary_subjects:
-  - "Perseverance & Steadfastness"
   - "Law of Free Will"
   - "Redemption of Humanity"
   - "Walking the Divine Path"

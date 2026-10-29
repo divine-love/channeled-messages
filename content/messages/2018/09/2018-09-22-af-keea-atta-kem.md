@@ -22,8 +22,7 @@ description: >
 primary_subjects: "Spirit Guides & Angels"
 secondary_subjects:
   - "Prayer & Devotion"
-  - "Spiritual Discipline & Daily Living"
-  - "Collective Awakening & Redemption"
+  - "Global Spiritual Work"
   - "Faith & Trust"
 people: []
 spirits: []
@@ -55,7 +54,7 @@ excerpt: >
 collections: []
 door: >
   None of you can do this alone. Ask for us. Ask for the angels to assist you. Ask for God to continue to open your soul that you may be awakened in love
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 God bless you, I am Keea Atta Kem. Along with your prayers to God, you may call upon us to help you in your efforts to be more spiritually attuned and in a state of higher light and consciousness. As you receive the Divine Love of God, so these conditions that are around you from the world often hamper your efforts in prayers, clouding your desires, distracting you from God. Beloveds, we are here. We wish to assist you in your efforts to be in the light, to adjust your thinking, to adjust your desires and motivations so that you may be in the flow of God's Love, that you may be immersed in this river of Love and feel and know these blessings as real, substantial and beneficial. None of you can do this alone. You must seek the help and assistance that is available to you and which God brings to you so that you may overcome the barriers and the difficulties that are associated with opening your own souls, knowing your own souls in this world that is so materially engaged and difficult to navigate.

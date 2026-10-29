@@ -22,9 +22,9 @@ description: >
 primary_subjects: "Natural Love Path vs Divine Love Path"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Earth Changes & Prophecy"
+  - "Future World Events"
   - "Soul Awakening"
-  - "Collective Awakening & Redemption"
+  - "Global Spiritual Work"
   - "Laws of Creation"
 people: []
 spirits: []

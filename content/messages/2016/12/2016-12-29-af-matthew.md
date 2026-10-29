@@ -20,9 +20,9 @@ description: >
 primary_subjects: "Personal Transformation Journey"
 secondary_subjects:
   - "Mind vs Soul Conflict"
-  - "Earth Changes & Prophecy"
-  - "Preparation for Earth Mission"
-  - "Collective Awakening & Redemption"
+  - "Future World Events"
+  - "Readiness & Spiritual Maturity"
+  - "Awakening Mass Consciousness"
 people: []
 spirits: []
 keywords: ["Matthew", "change", "new year", "illusion", "reality", "soul awakening", "mind", "habits", "cleansing", "transition", "threshold", "truth", "light", "Padgett Messages", "Judas of Kerioth"]
@@ -56,7 +56,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The reality you have built in your mind is not the only reality. Letting go of it is liberation, not loss
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 God bless you, and I have come because this instrument read a message of mine within the book, the Judas book. I have come to speak to you about change, for the coming year will reflect many changes for you personally and for this world.

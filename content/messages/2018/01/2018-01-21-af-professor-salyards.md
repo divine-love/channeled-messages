@@ -15,9 +15,8 @@ description: >
   Professor Salyards, a tireless worker in the development of Direct Voice mediumship, affirms the circle's progress and urges them to maintain their hopeful expectation of this gift. He speaks with urgency about humanity's need to awaken before the consequences of the human condition become irreversible, and assures them that even if Direct Voice is not achieved, they will bring Truth through other gifts - but that this gift is very much worth pursuing.
 primary_subjects: "Direct Voice Communication"
 secondary_subjects:
-  - "Collective Awakening & Redemption"
-  - "Preparation for Earth Mission"
-  - "Earth Changes & Prophecy"
+  - "Global Spiritual Work"
+  - "Future World Events"
   - "Mediumship & Developing as an Instrument"
 people: []
 spirits: []
@@ -48,7 +47,7 @@ excerpt: >
 collections: []
 door: >
   How will the world change if not by this awakening of the soul, the faculties of the soul, the connection of the soul to God?
-last_edited: 2026-10-19
+last_edited: 2026-10-29
 ---
 
 I am Professor Salyards. I have taken a keen interest in your work together. I have been with you all along.

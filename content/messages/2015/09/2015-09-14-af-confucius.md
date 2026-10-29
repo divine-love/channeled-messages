@@ -15,10 +15,9 @@ description: >
   Confucius speaks of God drawing together souls from many cultures, backgrounds, and spiritual traditions, urging the group to embrace all without judgment, fear, or preference. He teaches that differences between people are conditions of the material mind, while every soul equally longs for Love and is precious in God's eyes.
 primary_subjects: "Unity in Diversity"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Interfaith & Universal Truth"
   - "Circle of Light & Prayer Circles"
   - "Soul Awakening"
-  - "Unity in Diversity"
   - "Divine Plan & Timing"
 people: []
 spirits: []
@@ -43,7 +42,7 @@ excerpt: >
   Every soul longs for Love, every soul must be given this opportunity to be in prayer together, to receive this Love and you must do so as God's channels of Love, not judging but embracing.
 door: >
   Every soul longs for the same thing. The differences are only in the mind.
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 God bless you. Yes, now is the time when God will draw many of you together from many different places in the world, many different cultures, and ideas, and perceptions of God, and He will draw you all together, my beloveds, for you are ready to open your hearts to many, to be accepting and loving and embracing all. This is important, my beloveds, to embrace all you meet, no matter their heritage, their attitudes, the color of their skin, or what social status from which they come. The very poor and the very rich and all in between are welcome in God's house in this Light, and you will have many opportunities, my beloveds, to invite them into the fold of this Light, this circle of Light.

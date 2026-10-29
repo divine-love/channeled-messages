@@ -19,7 +19,10 @@ description: >
   pride but because hiding them inhibits their own growth and withholds blessings
   from many others.
 primary_subjects: "Readiness & Spiritual Maturity"
-secondary_subjects: ["Overcoming Fear & Doubt", "Unique Soul Gifts", "Spiritual Empowerment & Encouragement"]
+secondary_subjects:
+  - "Overcoming Fear & Doubt"
+  - "Unique Soul Gifts"
+  - "Overcoming Inadequacy & Doubt"
 people: []
 spirits: []
 keywords: ["gifts", "express", "hiding", "boldness", "humility", "reluctance", "fear", "purpose", "unique soul", "channel of love", "family", "torch", "truth", "flowering"]
@@ -42,7 +45,7 @@ notes: >
 essential_teachings: []
 door: >
   Hiding your gifts is not humility. It is withholding blessings from those who need them
-last_edited: 2026-07-08
+last_edited: 2026-10-29
 ---
 
 Yes, I have been with you, many of you of late. I have been very close and you have been delving into my history, the history of my family and those who have gone before you creating the conditions to nurture and to bring forth souls in the understanding of the Love. And I must tell you that I am working diligently to help open doors for each one of you, to increase your service in this world, and this is done through the nurturing and discovery of your individual gifts and purpose. For each soul is unique. Each soul has a purpose in the world, special gifts to share, their own unique individuality and personality to contribute to the world. The time has come for each one of you to set aside your reluctance, to not be shy or reticent or fearful of what others think of you, but to step boldly into the Light, to express yourselves in clear and beautiful ways in the world. This does not mean that you lack humility for each of you has humility, but it means that each of you recognize and acknowledge the beauty which God has created, which is you, that beautiful being brimming with gifts and insights and beautiful expressions of God's Love. For if you hide away, if you keep all to yourselves you inhibit your own growth, your own expression of yourselves in the world, which leads to many blessings, my beloveds, not only for you but for many others. For a soul who walks in the Light and carries themselves in the joyous flow of God's Love will draw many to them and will perceive the many opportunities that God has placed before them in service and Love.

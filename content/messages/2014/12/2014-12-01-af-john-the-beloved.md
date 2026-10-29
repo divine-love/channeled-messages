@@ -16,7 +16,8 @@ description: >
   continue in prayer, release self-doubt, and trust that God's Love will become a
   mighty river flowing through them to the world.
 primary_subjects: "Prayer & Devotion"
-secondary_subjects: ["Spiritual Community & Fellowship", "Circle of Light & Prayer Circles", "Spiritual Discipline & Daily Living"]
+secondary_subjects:
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["prayer", "yearning", "soul longing", "fellowship", "prayer circle", "light", "faith", "humility", "service", "God's will", "channel of love", "self-love", "guidance", "divine love"]
@@ -38,7 +39,7 @@ essential_teachings: []
 door: >
   Your longing is already a prayer and God hears it before you find the words
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-11
+last_edited: 2026-10-29
 ---
 
 God bless you, beloved souls, who come together in prayer, who come together because they desire fellowship, who come because their souls yearn for the love of God. And in this yearning, you all express yourselves to God and create a light amongst you that is powerful and beautiful as God responds to your prayers, your soul longings and bring you fully into His presence. Beloved souls, can you see how precious is this circle and how rare this is for mortals to come together in this way with this purity of intention, with this soul desire?

@@ -17,8 +17,9 @@ description: >
   assures them that this release is not done out of desperation but joyful
   anticipation, and that once freed they will be used in miraculous ways as true
   disciples of the Master.
-primary_subjects: "Soul Healing & Emotional Restoration"
-secondary_subjects: ["Preparation for Earth Mission", "Letting Go of Wounds"]
+primary_subjects: "Letting Go of Wounds"
+secondary_subjects:
+  - "Readiness & Spiritual Maturity"
 people: []
 spirits: ["jesus"]
 keywords: ["soul healing", "release", "inharmony", "transformation", "God's channels", "discipleship", "garden", "sanctuary", "earth changes", "two choices", "preparation", "angels", "healing touch", "honesty"]
@@ -44,7 +45,7 @@ notes: >
 essential_teachings: []
 door: >
   God cannot fully use you until you are willing to let Him heal the places you are still protecting
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 God bless you my friends.

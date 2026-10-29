@@ -20,9 +20,8 @@ description: >
   share it, and says the sharing happens not only in words but in a smile, a
   gaze, a touch, so that the channel completes the connection between God and
   the soul before them.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Interfaith & Universal Truth"
 secondary_subjects:
-  - "Interfaith & Universal Truth"
   - "Law of Attraction"
   - "Teaching & Sharing the Message"
   - "Surrender to God's Will"
@@ -54,7 +53,7 @@ excerpt: >
 door: >
   The truth is carried in a smile and a gaze as surely as in a sentence.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine.

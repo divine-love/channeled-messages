@@ -20,9 +20,9 @@ description: >
   shared openly.
 primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
-  - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Community & Fellowship"
+  - "God's Guidance"
+  - "Teaching & Sharing the Message"
+  - "Circle of Light & Prayer Circles"
   - "Soul Awakening"
 people: []
 spirits: []
@@ -52,7 +52,7 @@ door: >
   You already have the gifts; the only thing left is to decide how much of
   your life you are willing to give to using them.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. God bless you, my students. To share in this way, in your own personal way, not only reflects your own personality, but reflects your approach to your spiritual life and your life in general, and I think each have learned much of the others through this sharing. It is not so much the words that you speak but the feelings that you carry, the intentions that you have, the thoughts that roll around within your minds which then encounters the wisdom of your souls.

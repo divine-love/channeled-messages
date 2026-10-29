@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine teaches that simply walking through the world with a soul ignited in love is enough to bless and awaken longing in the souls of all who are encountered, even without a word being spoken. He calls those gathered to walk in faith and high intention, trusting that God will orchestrate all that flows through them as they move through their daily lives.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Walking the Divine Path"
   - "Soul Awakening"

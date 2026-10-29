@@ -13,11 +13,10 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Yogananda arrives drawn by the group's loving conversation about him, affirming that each day lived in openness to God is a precious gift and an opportunity for service. He teaches that a quiet day of prayer may reach more souls than any overt outreach effort, and calls those gathered to release judgment and fear, allowing God to bring whomever He intends close so they may be touched by love.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Prayer & Devotion"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Releasing Judgment"
-  - "Prayer & Devotion"
   - "Surrender to God's Will"
 people: []
 spirits: []
@@ -43,7 +42,7 @@ excerpt: >
 door: >
   Every ordinary day is full of God's work. You just have to stay open.
 collections: ["Letters from History"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am Yogananda. You have drawn me to you with your conversations, speaking of me in loving terms. How can I resist your call? I see that you have increased your lights, my friends and your prayers and good works together. You have seen how God has guided you through these days together. His Will has been done as you have navigated through each day, desiring to be used as a channel of love, bringing light, peace, truth to those whom you speak and share some time together.

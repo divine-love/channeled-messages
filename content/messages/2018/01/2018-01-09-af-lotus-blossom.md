@@ -15,8 +15,7 @@ description: >
   Lotus Blossom addresses a circle of seven beloved souls, promising that gifts of spiritual perception are coming to each one in unique ways. sight of auras, perception of spirits, inner hearing, and deep intuitive knowing. She urges them to allow these gifts to unfold naturally without forcing or formulating them through the mind, to support one another, and to trust that each moment lived in harmony with God is already an expression of His Will.
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "Spiritual Community & Fellowship"
-  - "Preparation for Earth Mission"
+  - "Circle of Light & Prayer Circles"
   - "Mediumship & Developing as an Instrument"
   - "Faith & Trust"
 people: []
@@ -46,7 +45,7 @@ excerpt: >
 collections: []
 door: >
   Like a flower emerging from the ground, your gifts are budding. They will come, and they will come quickly
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 How good it is to see you together in Love. To pray together in Love, to share your insights and your lives together in this deep friendship and bond of Love. For is it not a great comfort when you find others who share your experiences and your insights? To know that you have a deep trust and blessing together, a harmony and a resonance of being. And God brings these blessings to you my beloveds, as you traverse the world you find one another in this great flow of the Will of God.

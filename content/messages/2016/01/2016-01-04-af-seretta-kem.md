@@ -19,7 +19,7 @@ description: >
   influences. He calls each person to a simple, single purpose - to be a channel
   of God's Love and healing with every breath - and assures them that even a few
   souls living this way can change the world.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Divine Love Healing"
   - "Mind vs Soul Conflict"
@@ -56,7 +56,7 @@ door: >
   Your longing to heal the world is real. But ask where it begins - in the mind
   that wants to plan it, or the soul that simply loves.
 collections: ["Service & Mission", "Healing Path"]
-last_edited: 2026-07-21
+last_edited: 2026-10-29
 ---
 
 I am Seretta Kem and I come to guide you upon those questions and efforts that you have made to bring healing to this world. I would ask you to consider, my beloveds, what motivates you when you come together in this way to bring healing to the world? Is it your minds or is it your souls? Undoubtedly your answer would be both and the motivation to bring healing to the world is a desire that originates from your soul. It is a longing and a yearning to bring comfort to many. It is a reflection of the Father's Love within you.

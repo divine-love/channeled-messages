@@ -17,10 +17,10 @@ description: >
   the family of humanity. He invites them to discover their commonalities,
   to put aside judgment and fear, and to be open to one another as little
   children bathing in the warmth of God's Love.
-primary_subjects: "Spiritual Community & Fellowship"
+primary_subjects: "Unity in Diversity"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["family of humanity", "diversity", "commonality", "little children", "living waters", "warmth of the Son", "brothers and sisters", "New York", "judgment", "openness", "radiant", "gathering"]
@@ -49,7 +49,7 @@ excerpt: >
 collections: []
 door: >
   Put aside your judgments and fears. Be as little children, bathing in these beautiful waters of God's Love
-last_edited: 2026-08-29
+last_edited: 2026-10-29
 ---
 
 God bless you my beloved souls. I am Confucius.

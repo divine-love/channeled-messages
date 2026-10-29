@@ -15,7 +15,6 @@ description: >
   Augustine urges the group to keep building their Circle of Light as a place of sanctuary and welcome, teaching that their example of love and peace in the world quietly draws seeking souls toward God. He speaks of the coming times when such circles will be a necessity, and calls them to embrace every opportunity to share the key of Divine Love prayer with those who long for something they cannot name.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
   - "Teaching & Sharing the Message"
   - "Divine Plan & Timing"
   - "Walking the Divine Path"

@@ -19,9 +19,8 @@ description: >
   turmoil and cleansing they feel is a healing of the deep places within, and
   that God has chosen them to become rocks of strength and stability for those
   who will be lost amid the coming changes.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "Unique Soul Gifts"
   - "Future World Events"
   - "Cleansing & Expiation"
   - "Divine Purpose"
@@ -54,7 +53,7 @@ excerpt: >
 door: >
   The dreams you are tempted to dismiss are God preparing you. When the time to act comes, you will already know.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-03
+last_edited: 2026-10-29
 ---
 
 God bless you beloved souls. I am Stephen. You know me as St. Stephen of the Bible. There are many changes coming to your world and to your lives. When you have dreams and portents of what is to come, do not dismiss this, beloved souls, but know that God is communicating to you through your soul and that in this communication comes insights, visions, and things that are to come. Though, yes, your mind may interpret these things in certain ways, there is a kernel of truth.

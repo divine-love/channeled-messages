@@ -20,7 +20,6 @@ description: >
   beyond what is possible apart.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Spiritual Community & Fellowship"
   - "Preparation for Earth Mission"
 people: []
 spirits: []
@@ -47,7 +46,7 @@ excerpt: >
 collections: []
 door: >
   When you are together in love and harmony, sitting and praying in the flesh, the possibilities of awakening are far greater than when you are apart
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 I wish to encourage you to continue in your prayers, your routines, your thoughts that support your efforts to continue with the development of your souls and your spiritual selves. It's important at this time to continue to focus and redouble your efforts. You have been talking about coming together again in the flesh in the near future and I wish to encourage you to make these arrangements and to dedicate as much time as you can when you are together for prayer and development.

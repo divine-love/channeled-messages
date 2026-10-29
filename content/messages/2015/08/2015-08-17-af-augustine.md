@@ -16,11 +16,11 @@ description: >
   reminding the gathering that their soul purpose is already chosen within
   them and waiting to be uncovered. He encourages complete honesty in their
   sharing, whether lost or knowing, and assures them that help will come.
-primary_subjects: "Divine Will, Guidance & Orchestration"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
   - "Soul Awakening"
   - "Perseverance & Steadfastness"
-  - "Spiritual Community & Fellowship"
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["choice", "soul purpose", "honesty", "lost", "knowing", "help", "retreat"]
@@ -44,7 +44,7 @@ door: >
   The choice is already made within your soul; the work now is simply to
   uncover what is already there.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Your teacher Augustine here. What will you do, my beloveds? The choice is yours. What are you willing to do? The choice is yours. And that choice rests within your souls. That answer rests within your souls. And in fact, you have already made that choice. It is for you to uncover — your purpose, that gift that lies within.

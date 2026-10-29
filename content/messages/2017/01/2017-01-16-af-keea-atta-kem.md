@@ -18,9 +18,9 @@ description: >
   that the Love within a growing soul provides powerful protection — so there is
   no need for fear, only joyful acceptance of each unique soul walking their own
   path toward God.
-primary_subjects: "Spiritual Identity & Destiny"
+primary_subjects: "Soul's True Nature"
 secondary_subjects:
-  - "Earthly Challenges & Human Condition"
+  - "Emotional Struggles"
   - "Self-Love & Acceptance"
   - "Celestial Governance & Spiritual Law"
   - "Walking the Divine Path"
@@ -59,7 +59,7 @@ excerpt: >
 collections: ["Prism of the Soul"]
 door: >
   Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside
-last_edited: 2026-08-07
+last_edited: 2026-10-29
 ---
 
 Thank you for coming, for you were called. And your discussion of the morning was very good indeed, sharing your concerns and your perceptions, your ideas and your aspirations. This is good. It is good to reveal your inner thoughts and ideas, to bring forth what it is that is broiling about within your mind, your souls.

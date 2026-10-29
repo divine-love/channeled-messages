@@ -17,7 +17,8 @@ description: >
   dissolves the deep aloneness of the soul and begins an eternal journey of
   at-onement with God.
 primary_subjects: "Receiving the Divine Love through Prayer"
-secondary_subjects: ["Divine Love & Relationship with God", "Soul Transformation & Development"]
+secondary_subjects:
+  - "Soul Awakening"
 people: []
 spirits: []
 keywords: ["Divine Love", "natural love", "soul", "prayer", "at-onement", "aloneness", "longing", "God's presence", "eternity", "divine essence", "opening the heart", "fellowship"]
@@ -38,7 +39,7 @@ notes: ""
 essential_teachings: []
 door: >
   The loneliness you feel is a signpost pointing toward the Love that ends it
-last_edited: 2026-04-11
+last_edited: 2026-10-29
 ---
 
 God bless you, beloved souls, Confucius has come to see you and pray with you this day. Yes, my daughter (B), I did indeed call you to this group, for your soul longed to be a part of this beloved circle and to come to know more fully the Father's Love within you and to receive ever more of this blessing. Welcome all of you travelers who have come some distance to be together in love. Dear and beloved group, welcome. Indeed your souls long to be together in this way in light, in this beloved light of God's touch.

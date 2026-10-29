@@ -18,7 +18,9 @@ description: >
   consciously, and work together toward the goal of integrating the changes God
   has brought within them.
 primary_subjects: "Personal Transformation Journey"
-secondary_subjects: ["Spiritual Community & Fellowship", "Soul Awakening"]
+secondary_subjects:
+  - "Supporting One Another"
+  - "Soul Awakening"
 people: []
 spirits: []
 keywords: ["soul changes", "inner shifts", "consciousness", "awareness", "fellowship", "sharing", "retreat", "transformation", "harmony", "God's touch", "integration", "community"]
@@ -38,7 +40,7 @@ essential_teachings: []
 door: >
   Sharing your inner changes with others is itself an act of Love and courage
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine here. God bless you, beloved students, beautiful souls, children of our Creator. God has touched you deeply this day and has touched you deeply as you have come together in these past days. And we wish to talk to you about the shifts and changes that will be coming within your consciousness and in your beings and your lives. We will do so in the coming prayer on this day and I wish for you, my beloveds, to share with one another what you believe has happened within you. Is there something different and what might that be? Are you different and how is that within you? Do you feel closer to God? Do you feel more in harmony with His Love? And how will you express this when you leave for your homes and your lives in this world.

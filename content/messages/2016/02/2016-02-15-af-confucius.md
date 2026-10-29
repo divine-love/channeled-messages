@@ -20,8 +20,8 @@ description: >
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "At-onement"
-  - "Soul Healing & Emotional Restoration"
-  - "Spiritual Community & Fellowship"
+  - "Letting Go of Wounds"
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["open the soul", "longing", "warmth", "winter", "Father's Love", "healing", "comfort", "at-onement", "joy", "peace", "circle of light", "angels", "resistance", "doubt"]
@@ -44,7 +44,7 @@ door: >
 collections: []
 essential_teachings: []
 notes: ""
-last_edited: 2026-06-16
+last_edited: 2026-10-29
 ---
 
 God bless you, my little birds, 'tis Confucius and I see you alight again in this little circle of Light. You come for your nourishment to be together in this prayer for Love.

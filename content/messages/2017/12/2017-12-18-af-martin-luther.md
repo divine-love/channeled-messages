@@ -21,9 +21,8 @@ description: >
 primary_subjects: "Walking the Divine Path"
 secondary_subjects:
   - "Mind vs Soul Conflict"
-  - "Spiritual Discipline & Daily Living"
   - "Self-Love & Acceptance"
-  - "Spiritual Empowerment & Encouragement"
+  - "Confidence in the Path"
 people: []
 spirits: []
 keywords: ["responsibility", "application", "old patterns", "conscious choice", "human condition", "sensitivity", "soul expression", "maturity", "habits", "polluting the soul", "world", "test", "momentum", "channel of love"]
@@ -56,7 +55,7 @@ excerpt: >
 collections: ["Mind & Soul"]
 door: >
   You are babies no longer. The phase of application has begun.
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 
 My beloveds, have faith in yourselves. I am Martin Luther. You have come to a most challenging time, my beloved souls. A time where you take your new sensibilities and sensitivities out into the world to bring them more fully into your consciousness and your expression in the world. It is these first tentative steps that are important, that you may consciously choose to express yourselves more fully within your soul rather than your mind.

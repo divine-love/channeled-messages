@@ -23,8 +23,8 @@ primary_subjects: "Spirit Testimony & Personal Story"
 secondary_subjects:
   - "Soul Spheres & Progression"
   - "Self-Love & Acceptance"
-  - "Service, Ministry & Being a Channel of Love"
-  - "Soul Healing & Emotional Restoration"
+  - "Being a Channel of Love"
+  - "Divine Love Healing"
 people: []
 spirits:
   - james-padgett
@@ -49,7 +49,7 @@ excerpt: >
 door: >
   The doubt that troubled his ministry on Earth did not end him. From the doorstep of Heaven, he warns you not to repeat it.
 notes: ""
-last_edited: 2026-06-17
+last_edited: 2026-10-29
 ---
 
 It is your friend, Victor. My dear [name-removed], I love you so dearly and you were such a good friend to me when we walked together in this world. And I want you to know that you have a beautiful heart and a keen desire to serve God and you will find your way. You will find your way to this service, to bring Love into this world but first you must bring Love into yourself, to be healed by God's Love, to be at peace within yourself and to have the physical healing that you require, to be strong. God awaits you. God is ever waiting for you to reach to Him, to receive this Love, to receive the healing that you require, and to receive the peace within yourself, that passes all understanding. My beloved friend, reach to God always and know that God is with you and draws you into these circles of Light so that you may see more clearly and love more deeply.

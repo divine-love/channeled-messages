@@ -17,8 +17,11 @@ description: >
   that the barriers to Love are universal and can be overcome, and that looking
   back they will see these as the days they truly learned to love — one another,
   and all their brothers and sisters in the world.
-primary_subjects: "Spiritual Community & Fellowship"
-secondary_subjects: ["Self-Love & Acceptance", "Overcoming Fear & Doubt", "Walking the Divine Path"]
+primary_subjects: "Supporting One Another"
+secondary_subjects:
+  - "Self-Love & Acceptance"
+  - "Overcoming Fear & Doubt"
+  - "Walking the Divine Path"
 people: []
 spirits: []
 keywords: ["learning to love", "trust", "fellowship", "barriers to love", "commitment", "fear", "joy", "community", "shared journey", "human condition", "progress", "eternity", "love one another"]
@@ -38,7 +41,7 @@ essential_teachings: []
 door: >
   You are living in the very days that matter most, and learning to love is the work of these days
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 The Path has been set. All that is required is for you to follow. Follow with your eyes open, your hearts ablaze with Love, the wisdom of your souls informing every step that you take. How can you walk together other than in Love and acknowledge the deep commitment that you all carry, the deep Love that you share that has been built over many years and your feelings of being a part of one another as you have prayed together many, many times basking in the Father's Love and Light? Trust one another, my beloveds. Release your fears and walk in Love, the Love that shines in your eyes as you gaze upon your brothers and sisters in Love and appreciation for the beauty that is within them as you share this common desire to serve God, to walk in Light, to be a channel of Love for others.

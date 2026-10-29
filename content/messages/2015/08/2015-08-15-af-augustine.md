@@ -17,8 +17,10 @@ description: >
   fears of rejection and judgment, step out from behind their masks, and boldly
   offer their gifts in service — assuring them that as they do, God's Will shall
   be made manifest through them collectively.
-primary_subjects: "Preparation for Earth Mission"
-secondary_subjects: ["Spiritual Identity & Destiny", "Spiritual Community & Fellowship"]
+primary_subjects: "Unique Soul Gifts"
+secondary_subjects:
+  - "Divine Purpose"
+  - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
 keywords: ["retreat", "gifts", "purpose", "hidden treasures", "fear", "rejection", "judgment", "mask", "step forward", "God's will", "service", "salvation of mankind", "soul awareness", "revelation", "international gathering"]
@@ -45,7 +47,7 @@ essential_teachings: []
 door: >
   God is always opening new possibilities. Your only task is to remain open
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloved beautiful souls, it is your teacher Augustine, and I come to greet you as you come together to receive God's Love and to know God's Will. And some of you have struggled through the darkened conditions of this world and have triumphed in this struggle, have overcome the barriers presented, have come to understand and to feel the pull of God's Will in your lives. You have all been brought here for a purpose, my beloved, beloved students; to understand more fully God's will, to come together to strengthen the bonds with one another and to test the waters with one another, to see who is truly your brother and your sister, to see whether these bonds may bear fruit in service to bring further Love in this world.

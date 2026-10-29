@@ -18,9 +18,9 @@ description: >
   cleansing of their souls, and to release all attachments that pull them toward
   the earth condition, so that when the storm arrives they are clothed in the
   raiments of Light and strong enough to serve as God's channels of Truth.
-primary_subjects: "Preparation for Earth Mission"
+primary_subjects: "Readiness & Spiritual Maturity"
 secondary_subjects:
-  - "Earth Changes & Prophecy"
+  - "Acceleration of Change"
   - "Cleansing & Expiation"
   - "Faith & Trust"
   - "Prayer & Devotion"
@@ -56,7 +56,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You are entering the calm before the storm. When you enter the storm you must be clothed in the raiments of Light and strong in your relationship with your Heavenly Father
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 Beloveds, it is Confucius. My precious and beautiful souls, such a blessing it is for you to come together in this way to receive the Father's Love. And through the turmoil of this world and the challenges that you face you have each other to rely upon in prayer together, in loving outreach to one another and to support one another in Love, a blessing from God, my beloveds, a blessing from God.

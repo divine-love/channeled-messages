@@ -22,7 +22,7 @@ description: >
   them to dedicate themselves to prayer and to be with God.
 primary_subjects: "God's Protection & Care"
 secondary_subjects:
-  - "Soul Transformation & Development"
+  - "Cleansing & Expiation"
   - "Unique Soul Gifts"
   - "Overcoming Fear & Doubt"
   - "Prayer & Devotion"
@@ -53,7 +53,7 @@ door: >
   Your doubt is not depth. It is clutter, and it is standing between you and
   something very simple.
 collections: ["Awakening Humanity"]
-last_edited: 2026-08-25
+last_edited: 2026-10-29
 ---
 
 You are wanted and loved, precious children. God has you in His Hands, cradling you with His care and protection, the power of His Love, infusing every part of your being, beloved souls. You are cradled in the Hands of God. Allow His sweet Love and care to infuse you, to carry you, to guide you, for He wishes to heal every part of your being, every crevice of your soul. He wishes to heal you and make you whole, and filled with joy and wisdom and deep perceptions that will bring you into a new world, a world of God’s creation, a world that is revealed in all its glory, that your eyes be opened, that your heart be full and soul resonating with the Love, beloveds. In this way, God will carry you forward in that mighty river that will take you upon your destined paths.

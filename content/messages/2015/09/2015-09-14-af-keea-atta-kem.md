@@ -17,8 +17,7 @@ primary_subjects: "Joyful Living"
 secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Soul Awakening"
-  - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Discipline & Daily Living"
+  - "Being a Channel of Love"
   - "God's Protection & Care"
 people: []
 spirits: []
@@ -43,7 +42,7 @@ excerpt: >
   A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God.
 door: >
   A grateful soul is an open soul. It is that simple.
-last_edited: 2026-07-08
+last_edited: 2026-10-29
 ---
 
 A grateful soul is an open soul. When you look at your lives in this way, when you seek the Light, when you accentuate all that which is positive in your life, you are closer to God, you are closer to harmony and peace within yourselves. And when the blessing of God's Love clears away all the fear and the error, when you are in that place of gratitude and Love, when you find that deep peace within yourselves, the world changes around you, my beloveds, because you see the world differently, you know the world from a place of soul and Love and perception that comes from the soul.

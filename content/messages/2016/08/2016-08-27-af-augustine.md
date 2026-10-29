@@ -22,7 +22,7 @@ description: >
   accomplish once they let go of the old ways and trust God.
 primary_subjects: "Surrender to God's Will"
 secondary_subjects:
-  - "Preparation for Earth Mission"
+  - "Readiness & Spiritual Maturity"
   - "Temptations & Attachments"
   - "Divine Plan & Timing"
   - "Faith & Trust"
@@ -54,7 +54,7 @@ door: >
   The plan you are holding for your own future is one more attachment to set
   down. God's unfolds a day at a time.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-08-09
+last_edited: 2026-10-29
 ---
 
 Yes, you will be needed soon in many ways, and you must not project your intentions too far into the future in a specific way but to be open and flexible realizing that God has a plan for you that unfolds with each day. You must be able to drop whatever attachments you may have to your ambitions, and material things in this world, to be that pure channel of God's Love, to walk in this world free of encumbrances, free of expectations, free of the human condition, but captured in the flow of God's Love which will take you very far, my beloved souls. So much rests upon your desire and your efforts to be in that condition of Love that is powerful, and free flowing. And as you trust in God in this way and let go of the old ways you will be astounded at what you will accomplish as God's instruments in the world, as this Love flows freely and vigorously.

@@ -19,7 +19,10 @@ description: >
   a soul, and that soul-to-soul connection and the words of Truth are the higher
   expression of God's plan.
 primary_subjects: "Physical Manifestations"
-secondary_subjects: ["Service, Ministry & Being a Channel of Love", "Divine Will, Guidance & Orchestration", "Faith & Trust"]
+secondary_subjects:
+  - "Being a Channel of Love"
+  - "Divine Plan & Timing"
+  - "Faith & Trust"
 people: []
 spirits: []
 keywords: ["manifestations", "spirit laws", "material objects", "healing", "Love", "focus", "curiosity", "soul to soul", "truth", "God's plan", "faith", "light", "power of spirit"]
@@ -41,7 +44,7 @@ notes: ""
 essential_teachings: []
 door: >
   The most powerful healing manifestation is not a miracle. It is Love
-last_edited: 2026-10-19
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloveds. You have had a discussion about manifestations bringing the laws of spirit clearly into this world and utilizing the ability of spirit to show material objects and manifestations of spirit.

@@ -18,7 +18,7 @@ secondary_subjects:
   - "Lattice of Light & Global Prayer Network"
   - "Perseverance & Steadfastness"
   - "Faith & Trust"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["God's plan", "Lattice of Light", "sleep states", "trust", "flow of love", "effectiveness", "doubt", "world connections", "future", "surrender"]

@@ -15,11 +15,9 @@ description: >
   Augustine calls the circle to carry the Light they have received boldly into
   the world, walking as true children of God and allowing His Love to work
   through them as agents of change for all they encounter.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Discipleship"
 secondary_subjects:
-  - "Discipleship"
-  - "Spiritual Empowerment & Encouragement"
-  - "Spiritual Discipline & Daily Living"
+  - "Confidence in the Path"
   - "Walking the Divine Path"
 people: []
 spirits: []
@@ -45,7 +43,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Carry it held high with Love and with the sure knowledge that God has touched your souls
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 May God's peace be with you, my beloveds, and may you carry the Light that you have received this night into the darkened world, for each of you has prayed for this to bring Light to this darkened world and each of you, in your own way, may do so as God's channel of Love as you carry this Light within you. Do not hide it, do not forget it, but carry it held high with Love, with the sure knowledge that God has touched your souls deeply with His Mighty Hand and Light and Love. And you must carry this high and walk boldly in the world acknowledging that you are a true child of the Heavenly Father and you are loved and a beautiful creation of God.

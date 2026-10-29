@@ -24,7 +24,7 @@ secondary_subjects:
   - "Darkness vs Light"
   - "God's Protection & Care"
   - "Reassurance & Strength"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["protection", "dark forces", "negativity", "fortress of Light", "targets", "vulnerability", "steady hand", "storm", "daily prayer", "gratitude", "light-workers"]
@@ -51,7 +51,7 @@ door: >
   The stronger your Light, the more you are worth pulling down. Build the
   fortress before you need it.
 collections: ["Letters from History"]
-last_edited: 2026-07-21
+last_edited: 2026-10-29
 ---
 
 Dear, beloved and precious souls, I am Confucius. Each of you have been drawn here because your souls wish to unite together in prayer, to know this fellowship and to be in this Light. Always acknowledge the power of your soul’s desires, my beautiful souls, and acknowledge the power of God in your lives and how you may be touched by this powerful hand of Love and healing and peace. And each soul, no matter the conditions which they find themselves in or must deal with in this world, has the possibility to ascend into Light, to receive the healing that they need and to bring the wisdom required, to bring harmony into their lives and the potential to bring harmony into the lives of those around them. But it is important, my beloveds, to set your intention for Light, to be an example of Light, to be strong within your souls, to be close to God always. For in this relationship with the Creator, in this beautiful flow of Love that comes from God, you are able to surmount all difficulties, to not allow the human condition that is so difficult and heavy, negative and chaotic to overwhelm you when you are in the flow of God’s Love, and when you are open to this Gift of His presence within you and about you.

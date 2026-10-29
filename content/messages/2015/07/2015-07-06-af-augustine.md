@@ -17,7 +17,8 @@ description: >
   of His Love, and encourages those further along the path to reach back and
   welcome those just beginning.
 primary_subjects: "Circle of Light & Prayer Circles"
-secondary_subjects: ["Spiritual Community & Fellowship", "Receiving the Divine Love through Prayer"]
+secondary_subjects:
+  - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
 keywords: ["retreat", "gathering", "fellowship", "Divine Love", "embrace", "preparation", "international", "living waters", "opening", "soul awakening", "Light", "unity", "God's children"]
@@ -41,7 +42,7 @@ essential_teachings: []
 door: >
   Every soul who comes to you is sent. Receive them accordingly
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-29
+last_edited: 2026-10-29
 ---
 
 It is your teacher, Augustine. May your souls open wide to the great inflowing of our Father's Divine Essence, the benediction of His Touch within you which will bring great change and transformation within your souls and lead you upon a path of Light and enlightenment that shall carry you far and beyond and into the flow of all eternity. This Love, this Path, this Light shall carry you and show you the way to all that your souls desire, to all Truth and all Love and all Being that is in the grace of God.

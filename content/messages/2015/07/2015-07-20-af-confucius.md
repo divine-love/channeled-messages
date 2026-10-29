@@ -16,8 +16,10 @@ description: >
   communion with the Heavenly Father. He promises that those who seek this gift
   earnestly will one day look back and barely recognize their former selves, so
   profound is the change that Love brings.
-primary_subjects: "Soul Transformation & Development"
-secondary_subjects: ["Receiving the Divine Love through Prayer", "At-onement"]
+primary_subjects: "Personal Transformation Journey"
+secondary_subjects:
+  - "Receiving the Divine Love through Prayer"
+  - "At-onement"
 people: []
 spirits: []
 keywords: ["soul transformation", "Divine Love", "immortal", "angel", "at-onement", "eternity", "redemption", "joy", "universe", "knowing God", "flower", "river of love", "blessing", "yearning"]
@@ -39,7 +41,7 @@ notes: ""
 essential_teachings: []
 door: >
   Divine Love does not just comfort the soul. It fundamentally changes its nature
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 It is Confucius. God bless you. God bless you with a mighty inflowing of His Love. May you be open and yearning from the very depths of your souls for this gift, this transformative gift that will make you into an angel. Yes, it will transform you from a mortal being into an immortal angel, my beloveds. This is a powerful gift, it is a unique gift, it is a blessing from your Heavenly Father and His Essence flows into your very being transforming you and making you whole and at-one with Him your Heavenly Father, your Creator; truly His Child, truly a being of Light.

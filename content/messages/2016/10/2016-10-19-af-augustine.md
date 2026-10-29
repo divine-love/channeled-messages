@@ -21,10 +21,9 @@ description: >
   Heavenly Father, whose touch heals the wounds that come with every mortal
   life and brings a release and a joy sourced from the soul rather than the
   mind.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Knowing God"
 secondary_subjects:
-  - "Knowing God"
-  - "Soul Healing & Emotional Restoration"
+  - "Divine Love Healing"
   - "Divine Purpose"
 people: []
 spirits: []
@@ -52,7 +51,7 @@ door: >
   Drifting is not a personality. It is what happens when nothing has been
   fastened to.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-19
+last_edited: 2026-10-29
 ---
 
 Your teacher Augustine is here with you in your prayer, encouraging you to seek God within your hearts, your minds, and your souls, for it is in this search for the Creator, the Source of all, that you will find a deep fulfillment and understanding, an acknowledgment of how loved you are, my beloved, beloved souls. For each soul here longs for that connection with God and each soul must open themselves to the inflowing of His Love, for in this the bond is created with God and that bond creates within you a great and deep strength, opens your awareness to many deep truths, brings meaning and purpose to your lives.

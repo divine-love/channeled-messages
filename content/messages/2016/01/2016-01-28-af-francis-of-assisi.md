@@ -19,11 +19,10 @@ description: >
   under Jesus, and assures the gathered that this same Gift — requiring no church
   or dogma, only an earnest request from the depths of the soul — is available to
   every soul and leads to at-onement with God for all eternity.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Receiving the Divine Love through Prayer"
   - "At-onement"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Celestial Heavens & At-onement"
 people: []
 spirits:
@@ -58,7 +57,7 @@ notes: >
   animals and plants, and walking to many places reaching out to many souls in a
   humble life. He names Jesus as head of the Celestial Heavens. Transcription
   artifact corrected silently: "to each one., eEach" to "to each one. Each".
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 God bless you and I am with you because you have requested my presence, because you prayed to know the Truth, because within your hearts you know that you love God and within my heart, I love God. And there are many in the Celestial Heavens, all within the Celestial Heavens, who love God, for those who reside there are close to God, are seeking to be close to God through knowing Him and receiving His Essence of Love.

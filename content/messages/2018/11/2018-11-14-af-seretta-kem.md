@@ -18,9 +18,9 @@ description: >
   to trust God's guidance, release the need to assess outcomes with the mind,
   and allow their individual gifts to unfold in harmony as God's channels of
   Love and Truth.
-primary_subjects: "Divine Will, Guidance & Orchestration"
+primary_subjects: "Divine Plan & Timing"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Lattice of Light & Global Prayer Network"
   - "Mediumship & Developing as an Instrument"
   - "Surrender & Trust in God"
@@ -58,7 +58,7 @@ door: >
   seeds whose fruit you may never see but others will taste.
 collections:
   - "Service & Mission"
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am very pleased to see the three of you together at this time and I wish to inform you that we do indeed have an agenda, a purpose to fulfill, while you are together. Primarily we wish to create within this place a node of light that will be used in this part of the world as your beloved brother continues in his prayer vigil and efforts here. So, with the three of you together, there is a possibility of being successful with this venture of creating a portal and Centre of Light here that will be useful in the future. You will be surprised what may come through your efforts, what is possible with your prayers, what can be accomplished through your dedications and ministrations together.

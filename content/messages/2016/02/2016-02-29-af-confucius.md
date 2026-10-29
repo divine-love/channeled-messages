@@ -23,7 +23,7 @@ primary_subjects: "Cleansing & Expiation"
 secondary_subjects:
   - "Self-Love & Acceptance"
   - "Compassion & Empathy"
-  - "Soul Healing & Emotional Restoration"
+  - "Letting Go of Wounds"
   - "Faith & Trust"
 people: []
 spirits:
@@ -50,7 +50,7 @@ door: >
 collections: ["Healing Path"]
 essential_teachings: []
 notes: ""
-last_edited: 2026-06-16
+last_edited: 2026-10-29
 ---
 
 My beloved children, it is your teacher and friend Confucius. I come to be with you in your prayers. Yes, you do struggle, my beloveds, at times you struggle, but you also make progress within your souls. At times the welling up from your souls is difficult and you find this painful, confusing. But I tell you, my beloveds, as you allow this cleansing of your souls to take place and you release within yourselves all the burdens and you give this to God, you are one step closer to the joy and happiness which our brother, Luke speaks about, and it becomes easier for you to rise above the conditions of this world. For yes, the soul generates a great energy within yourselves and each soul in this world generates a condition and that can be of Light or Darkness or something in between. And it is difficult because the power of what the soul generates in this world combined with the mind creates a reality, a condition which is difficult to navigate, and none of you are immune from the influence of the conditions of this world.

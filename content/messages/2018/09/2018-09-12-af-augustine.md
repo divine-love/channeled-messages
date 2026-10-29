@@ -18,10 +18,9 @@ description: >
   seeds of truth in their communities, and allow the gifts God has given them to
   awaken and expand, as great Circles of Light spread out into the world to bring
   hope and truth to those who are lost.
-primary_subjects: "Spiritual Empowerment & Encouragement"
+primary_subjects: "Confidence in the Path"
 secondary_subjects:
   - "Unique Soul Gifts"
-  - "Preparation for Earth Mission"
   - "Circle of Light & Prayer Circles"
   - "Faith & Trust"
 people: []
@@ -55,7 +54,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Allow these gifts that God has given you and will ignite within your soul to expand and be expressed and come awake within you
-last_edited: 2026-07-05
+last_edited: 2026-10-29
 ---
 
 Tis your teacher, Augustine. You have each received deep healings in your time together, healings that will help you in your work to come. Healings that will strengthen your bodies, will open gifts and will give insight and wisdom for the coming years where God will use you as His channels. There is much work to do, my beloveds. There are many opportunities awaiting each one of you. In your areas where you live, and beyond that, great Circles of Light will start to spread out into this world. Each servant of God, a channel of love, will be a part of this ever expanding Light that will come from God, to heal your world, to bring great change to the minds and souls of humanity. Those who are so lost will find some hope and truth and love.

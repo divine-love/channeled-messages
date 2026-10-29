@@ -17,11 +17,10 @@ description: >
   including those stricken with grief and in deep need.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Healing Through Prayer"
-  - "Soul Healing & Emotional Restoration"
   - "Grief & Loss"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords:
@@ -55,7 +54,7 @@ door: >
   When souls gather to pray, they become more than individuals — a living channel
   through which God's healing flows outward to a grieving world.
 collections: []
-last_edited: 2026-08-25
+last_edited: 2026-10-29
 ---
 
 Beloved souls, God's healing and pure waters of love wash over you at this time, that you may be cleansed of all conditions that are not of the purity and light of God's Love. He holds you close to His Bosom, beloveds. He draws you into the awakening that will open your eyes to His Presence, that will help you to release those things that burden you, that assures you that you are loved.

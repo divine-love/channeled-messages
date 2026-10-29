@@ -16,7 +16,6 @@ description: >
 primary_subjects: "Law of Free Will"
 secondary_subjects:
   - "Walking the Divine Path"
-  - "Spiritual Discipline & Daily Living"
   - "Surrender to God's Will"
   - "Overcoming Fear & Doubt"
 people: []

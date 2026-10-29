@@ -13,9 +13,8 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Matthew offers practical guidance to two men resting after a healing session, suggesting a day structured around three prayer sessions and rest so they may absorb spiritual blessings and open themselves to conscious soul awakenings. He speaks of angels building a portal of light at their location and urges them to give priority to spiritual work while the conditions are exceptionally favourable.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Prayer & Devotion"
 secondary_subjects:
-  - "Prayer & Devotion"
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
   - "Spirit Guides & Angels"
@@ -44,7 +43,7 @@ excerpt: >
 door: >
   Stop. Rest. Pray. It is the most productive thing you can do right now.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-05-27
+last_edited: 2026-10-29
 ---
 
 May I suggest an agenda for tomorrow? Since the two of you have indeed had a powerful healing and treatment, I would suggest that you take a day to absorb and integrate this blessing from the dear soul. I would further suggest that you take time to pray three times tomorrow and if this day is restful in between these sessions then you are assured to receive some of the messages that you are anticipating. To take time for this work and these efforts will bring the fruits of your labours.

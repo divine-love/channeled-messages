@@ -20,11 +20,11 @@ description: >
   the neediest and most resistant souls will be touched if they let God's Love
   flow through them unrestricted. God's Will, she assures them, will manifest,
   though it may take a circuitous route.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
+  - "God's Guidance"
   - "Surrender & Trust in God"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["keep the flame burning", "sowing seeds", "God's will", "circuitous route", "steadfast", "humility", "channel of love", "resistance", "recognition", "perseverance", "prayer presence", "on earth as it is in heaven", "service"]
@@ -50,7 +50,7 @@ door: >
 notes: >
   Given in support of an ongoing prayer commitment to the WHC, a place Faith
   refers to as one where she resided during her Earth life.
-last_edited: 2026-06-18
+last_edited: 2026-10-29
 ---
 
 My beloved friends, thank you for continuing with your commitment to this venture to bring Light to that place where I resided. Thank you that despite the barriers in place and the frustrations that you feel you have continued to listen to God's Desire and Will that you support this place in prayer and love, and I am well pleased that you will venture forth to that place to pray together and that you do so gently, with humility but with a firmness and a knowing that what you do there is God's Will. Do not feel ambivalent or hesitant but go there in faith expressing your true soul's desire in God's Will that you pray in that place, that source of Light, that you keep the flame burning, for that flame brings a great peace in the world and there will be those who gaze upon you and feel the strength of your commitment and feel the power of the Love that surrounds you and is within you and it will cause them to think, to pause, to wonder, and this is often how God moves in the world in these firm yet subtle ways, the flow of His Will, the flow of His Love, His blessings Touch those who are in darkness, there is an awakening, a glimmer, a touch of understanding, and when these seeds are sown there is great potential to bring greater Light, to bring Truth and Love.

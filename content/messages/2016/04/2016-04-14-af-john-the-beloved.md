@@ -16,11 +16,10 @@ description: >
   sincere desire to seek the highest, serve others, embrace all they meet, and
   push back the darkness creates real and lasting change in the world — magnified
   over and over as Divine Love deepens within.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Discipleship"
 secondary_subjects:
-  - "Spiritual Discipline & Daily Living"
-  - "Discipleship"
-  - "Spiritual Empowerment & Encouragement"
+  - "Walking the Divine Path"
+  - "Confidence in the Path"
   - "Circle of Light & Prayer Circles"
 people: []
 spirits: []
@@ -52,7 +51,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Like the butterfly that flutters its wings and creates the hurricane, these tiny flutters of Light will create change
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 God bless you, I am John the beloved.

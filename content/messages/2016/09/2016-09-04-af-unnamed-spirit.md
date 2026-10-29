@@ -17,11 +17,11 @@ description: >
   in peace to carry the newly found Light into their lives, to see everyone
   they meet with eyes of love, to embrace all as a channel of His Love, and to
   be filled with joy at having found something of great value and benefit.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Compassion & Empathy"
   - "Joyful Living"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: ["jesus"]
 keywords: ["blessing", "benediction", "new found Light", "eyes of love", "channel of love", "joy", "going out into the world", "seeing others", "peace"]
@@ -45,7 +45,7 @@ excerpt: >
 door: >
   You have found something of great value. Now look at everyone you meet with it.
 collections: []
-last_edited: 2026-08-07
+last_edited: 2026-10-29
 ---
 
 The Master has blessed each one. Go in peace, my beloveds, and bring this new found Light into your lives. See all you meet with eyes of love. Embrace all as a channel of His Love and be filled with joy that you have found, you have found something that is of great, great value and a benefit to your life. God bless you, beloved souls.

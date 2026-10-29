@@ -19,7 +19,7 @@ primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
   - "God's Mercy & Unconditional Love"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["Divine Love", "living waters", "openness", "soul", "blessing", "presence of God", "circle", "overflowing", "light", "gift"]
@@ -45,7 +45,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Drink deep these Living waters and open yourselves wide. It is yours, a Gift, a blessing, a touch
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 I am John.

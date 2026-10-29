@@ -18,7 +18,7 @@ secondary_subjects:
   - "Soul Awakening"
   - "Unique Soul Gifts"
   - "Spirit Guides & Angels"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["sleep state", "soul travel", "silver cord", "spirit body", "dreams", "soul service", "spirit clinics", "guides", "intention", "soul condition"]
@@ -47,7 +47,7 @@ excerpt: >
 door: >
   You think sleep is rest. John the Beloved knows better: your soul has been busy all night.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 God bless you, I am John the Beloved. Yes, you wonder about the flight of your souls as you sleep at night. Where do you go? Who do you talk to? Do you have purpose and mission during these times of sleep? God utilizes His instruments in many ways. When you are in this state of sleep, the mind is more relaxed and able to release its control, therefore there are more possibilities, flexibility in the movement of the soul in your world and in ours. For the veil between the two is very thin indeed.

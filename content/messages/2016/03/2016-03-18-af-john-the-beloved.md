@@ -16,13 +16,12 @@ description: >
   teaching that every soul aligned with God's Will serves Him in many ways — seen
   and unseen — and that as the soul deepens in Divine Love, service becomes
   clearer, more powerful, and more joyfully aligned with God's unfolding plan.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Discipleship"
 secondary_subjects:
-  - "Discipleship"
   - "Humility"
-  - "Divine Will, Guidance & Orchestration"
+  - "Alignment with Divine Flow"
   - "Faith & Trust"
-  - "Spiritual Empowerment & Encouragement"
+  - "Overcoming Inadequacy & Doubt"
 people: []
 spirits: []
 keywords: ["service", "channel of love", "humility", "adequacy", "soul progression", "God's will", "instruments", "chain of love", "purpose", "incarnation", "faith", "grace", "joy", "unanticipated", "history"]
@@ -52,7 +51,7 @@ excerpt: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   You and God are bonded for all eternity and you shall continue to serve Him in ever greater ways
-last_edited: 2026-04-17
+last_edited: 2026-10-29
 ---
 
 God bless you, beloved souls, it is John, John the Beloved, and I come to encourage you to serve God, to serve God with each day, to be His instruments and channels of Love with each day that passes. And service comes in many ways and many forms. God uses you in ways that you do not even know, but your soul knows. Your soul which resonates with the Touch of God's Love and that deep connection that you have with your Heavenly Father makes many things possible, my beloveds, makes many things possible.

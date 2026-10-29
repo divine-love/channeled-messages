@@ -15,7 +15,6 @@ description: >
   Seretta Kem explains the process of expiation, using one soul's recent experience, with her consent, as an example. He describes how the inflowing of Divine Love first brings warmth and joy, then loosens the conditions that inhibit the soul, surfacing buried pain, a stage when God can feel most distant though the angels are closest. He recounts a deep release that came when the angels called her into prayer with two others, followed by tears and a lasting peace. He assures all that these conditions are cleansed by the prayer for Divine Love, and that no soul is ever alone in the process.
 primary_subjects: "Cleansing & Expiation"
 secondary_subjects:
-  - "Soul Healing & Emotional Restoration"
   - "Divine Love Healing"
   - "Spirit Guides & Angels"
   - "Receiving the Divine Love through Prayer"
@@ -47,7 +46,7 @@ excerpt: >
 door: >
   When God feels furthest away, the angels are standing closest. They are not absent. They are letting the wound come up so it can leave.
 collections: ["Healing Path"]
-last_edited: 2026-06-29
+last_edited: 2026-10-29
 ---
 
 It is Seretta Kem. I am here to make comment and to give more explanation on the process of expiation. I wish to use the example of this dear soul's recent experience for she is willing to allow me to make reference to her current experience of expiating condition upon her soul.

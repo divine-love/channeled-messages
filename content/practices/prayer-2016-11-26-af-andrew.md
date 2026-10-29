@@ -7,7 +7,7 @@ spirit_id: andrew
 spirit_name: "Andrew"
 medium: Al Fike
 date_received: 2016-11-26
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Prayer & Devotion"
   - "Teaching the Prayer Practice"
@@ -24,7 +24,7 @@ notes: >
   sets it against saying "this person must be blessed, that soul will be
   touched", and follows it with the promise that in this way you will not be
   caught up in your mind about what you must do.
-last_edited: 2026-10-11
+last_edited: 2026-10-29
 ---
 Father I am a channel of your love, whomever you desire to touch, to ignite this longing within the souls of others, so be it. Make me that channel for you.
 

@@ -15,7 +15,7 @@ description: >
   Keea Atta Kem tells the group that the time has come to stop standing at the threshold and step fully into the flow of God's Love. She calls them to release judgment and division between themselves, to walk together in unity, and to open the mighty river of soul gifts within them to a world starving for spiritual nourishment.
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Releasing Judgment"
   - "Receiving the Divine Love through Prayer"
   - "Redemption of Humanity"
@@ -42,7 +42,7 @@ excerpt: >
 door: >
   There is a mighty river in your soul. Let go of the judgment that is holding back the flood.
 collections: ["Prism of the Soul"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 It is Keea. You have each received a blessing of Love within your souls and you have been given healing and peace and many blessings from God. And so it is as you come together in blessed harmony, so it is when you pray together in Love and you make those efforts within yourselves to be at peace, to be close to God with each day. And so it is that God wishes to give you these Gifts, a constant flow to you, my beloveds, a constant flow of Love.

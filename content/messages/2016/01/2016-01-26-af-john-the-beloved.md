@@ -18,9 +18,8 @@ description: >
   soul has been called to be an instrument for change and a channel of Love as
   the world approaches times of deep transition, and that fulfilling this
   purpose brings the deepest joy any soul can know.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Discipleship"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
   - "Unique Soul Gifts"
   - "Surrender to God's Will"
   - "Spirit Guides & Angels"

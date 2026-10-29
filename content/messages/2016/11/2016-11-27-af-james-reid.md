@@ -24,7 +24,7 @@ secondary_subjects:
   - "Spirit Testimony & Personal Story"
   - "Soul Spheres & Progression"
   - "Discernment & Truth-Seeking"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: ["Geoff"]
 spirits: []
 keywords: ["fifth sphere", "speaking from spirit", "changed beliefs", "clutter around the truth", "hunger for details", "foundation of love", "test for a new idea", "saved by love not facts", "intellectual ruminations", "knowing your souls", "gratitude", "lowered barrier", "progressing spirit"]
@@ -56,7 +56,7 @@ door: >
   Ask of every new idea only this: does it increase the love in my life? The
   rest is clutter.
 collections: ["Mind & Soul"]
-last_edited: 2026-08-25
+last_edited: 2026-10-29
 ---
 
 My friends, it is James, James Reid.

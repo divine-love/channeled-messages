@@ -18,10 +18,10 @@ description: >
   that God's Spirit of change is working upon every atom of creation, and that those
   who maintain their connection with God will be guided through the upheaval and given
   abundant opportunities to serve as channels of Truth and Love in the world.
-primary_subjects: "Earth Changes & Prophecy"
+primary_subjects: "Acceleration of Change"
 secondary_subjects:
-  - "Preparation for Earth Mission"
-  - "Collective Awakening & Redemption"
+  - "Readiness & Spiritual Maturity"
+  - "Awakening Mass Consciousness"
   - "Faith & Trust"
   - "Supporting One Another"
 people: []
@@ -56,7 +56,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You do indeed live in interesting times, a great shift of consciousness in the world. Very few will know what this means — and you will convey this knowledge and bring comfort to many
-last_edited: 2026-06-29
+last_edited: 2026-10-29
 ---
 
 Alec here, God bless you my friends and may your souls be full to the brim of God's Love. You have been discussing changes in the Earth and I am sad to say that these changes will continue to accelerate. The climate within this world will change dramatically as you have already witnessed. The Earth will become warmer and this will set off chain reactions which will melt the ice and cause further warming and greater disruptions. And the very core of the Earth is shifting and changing and this will cause further disruptions. You will have much to deal with in the future and I do not say this to cause fear and anxiety within you, for as you maintain your connection with your Creator you will be protected and guided through all of these obstructions and cataclysms and problems.

@@ -17,8 +17,7 @@ primary_subjects: "Releasing Judgment"
 secondary_subjects:
   - "Surrender to God's Will"
   - "Prayer & Devotion"
-  - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Discipline & Daily Living"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["non-judgment", "soul connection", "belief", "example", "prayer for others", "negative forces", "releasing will", "trust", "discipline", "channel of love"]
@@ -45,7 +44,7 @@ excerpt: >
   It is not for you to correct this, it is for you to show Truth within yourselves and who you are in the world, to be an example. It is for God to lead them into the Light.
 door: >
   Belief is of the mind. Love is of the soul. Only one of them changes anything.
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Yes, every soul must take its unique journey, an enfoldment and an unfolding of his path and purpose upon their journey which is guided and touched by God as the soul becomes infused with the Father's Love and your Gifts emerge accordingly. As you begin to release your will to the Father's Will, so your worries and cares are absorbed in your faith and trust in your Heavenly Father. And so you see, my beloveds, how God guides you along your chosen path, and you begin to see what opportunities are placed before you and what precious souls you meet upon your path and what opportunities to be a channel of Love that come with these connections with others.

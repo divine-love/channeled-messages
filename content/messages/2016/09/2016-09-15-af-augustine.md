@@ -26,7 +26,7 @@ secondary_subjects:
   - "Mind vs Soul Conflict"
   - "Protection from Negative Influences"
   - "Compassion & Empathy"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
 people: []
 spirits: []
 keywords: ["reaction to the Light", "recognition soul to soul", "suspicion", "jealousy", "competitiveness", "looking for flaws", "non-reaction", "integrity", "testimony", "heritage", "spheres of influence", "human condition", "imperfection", "head held high"]
@@ -55,7 +55,7 @@ door: >
   The people looking hardest for your flaws are reacting to your Light, and
   the brighter it burns the harder they will look.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-08-10
+last_edited: 2026-10-29
 ---
 
 The power of the Light, my beloveds, the power of the Light within your souls causes a response and a reaction in the world, and as your Light grows so will the reaction intensify. From some there is a beautiful desire and drawing close to you, a response of love, a recognition from their soul to your soul, a recognition of the Light. And this I know, my beloved students, you respond to and enjoy this interaction, this response. From others there is a negative response, a desire to snuff out your Light, a reaction of suspicion, of fear and anger from those who are not close to God. They do not understand the beauty and the power of God’s Love shining within and are afraid and feel confronted and they look to see your flaws. There are those who feel jealousy and who are competitive, and all of this is a condition of the mind, yet their souls may indeed have the Love within yet their minds continue in their reflexive responses towards you.

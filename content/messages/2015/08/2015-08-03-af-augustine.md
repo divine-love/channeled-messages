@@ -17,7 +17,9 @@ description: >
   longer serves them is not a struggle but an acceptance, and that God's Love,
   harmony, and joy await them just a prayer away.
 primary_subjects: "Letting Go of Wounds"
-secondary_subjects: ["Preparation for Earth Mission", "Spiritual Discipline & Daily Living"]
+secondary_subjects:
+  - "Readiness & Spiritual Maturity"
+  - "Prayer & Devotion"
 people: []
 spirits: []
 keywords: ["release", "conditions", "holding back", "prayer", "preparation", "gathering", "channel of love", "harmony", "God's Love", "freedom", "struggle", "threshold", "joy", "prayerful attitude"]
@@ -41,7 +43,7 @@ essential_teachings: []
 door: >
   The conditions holding you back are not permanent. They are ready to be released
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. Yes, many are coming, my beloveds. Many are coming and I urge you to prepare yourselves for those who come. You must build within you and around you the conditions that are required for God to do His work effectively and powerfully within each soul who comes to partake of fellowship and Love. For those who are receptive and open there will be a great shift in their consciousness and understanding which will change their lives, change the direction of their lives, change the purpose of their lives. And do you not all want to be a part of this and to be open to God's direction and plan for you? This requires a prayerful attitude, a setting aside of those conditions which tie you to this world and lower your consciousness from awareness to your Creator to awareness of your fellow human beings and those conditions.

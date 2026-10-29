@@ -23,8 +23,6 @@ primary_subjects: "Mediumship & Developing as an Instrument"
 secondary_subjects:
   - "Unique Soul Gifts"
   - "Receiving the Divine Love through Prayer"
-  - "Celestial Governance & Spiritual Law"
-  - "Preparation for Earth Mission"
   - "Law of Love"
 people: []
 spirits: []

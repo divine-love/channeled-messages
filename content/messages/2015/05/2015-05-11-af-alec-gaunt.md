@@ -20,8 +20,7 @@ description: >
   at home, as God's timing draws everything together.
 primary_subjects: "Lattice of Light & Global Prayer Network"
 secondary_subjects:
-  - "Divine Will, Guidance & Orchestration"
-  - "Spiritual Community & Fellowship"
+  - "Divine Plan & Timing"
   - "Law of Activation"
   - "Supporting One Another"
   - "Law of Love"

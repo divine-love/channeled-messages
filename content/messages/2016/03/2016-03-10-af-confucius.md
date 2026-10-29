@@ -23,7 +23,7 @@ primary_subjects: "Mind vs Soul Conflict"
 secondary_subjects:
   - "Free Will & Human Error"
   - "Self-Love & Acceptance"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
@@ -50,7 +50,7 @@ door: >
 collections: ["Mind & Soul"]
 essential_teachings: []
 notes: ""
-last_edited: 2026-06-17
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloveds, Confucius is with you. (Chuckles)  Ah, the power of your minds, my beloveds. Mortals are such a willful lot are they not? For they are imbued with much power, the power of free will, the power of creative thought, the power to do as they will in this world. The results of this powerful influence upon this world, as the willful mortals continue to exert themselves, often without love or wisdom, creates such a condition in this world, a burden upon this beautiful world. And it is for you, my beloveds, to show another way, the way the soul informs the mind, for the soul brings forth the expression of the individual in this world in harmony with God's Will.

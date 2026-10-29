@@ -13,12 +13,10 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine impresses upon the circle how closely they are watched and how much is entrusted to them as a force for Light in the world. He urges each one to be conscious of every step, word, and feeling, choosing Light over the negative conditions that conspire to create disharmony, and assures them that God's Love and protection are always available for the asking.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Faith & Trust"
 secondary_subjects:
-  - "Spiritual Community & Fellowship"
   - "Supporting One Another"
-  - "Preparation for Earth Mission"
-  - "Faith & Trust"
+  - "Readiness & Spiritual Maturity"
 people: []
 spirits: []
 keywords: ["awareness", "conscious choice", "Light", "dark forces", "disharmony", "prayer", "faith", "discipline", "fellowship", "soul growth", "love", "God's protection", "human condition", "negativity", "channel of light"]
@@ -48,7 +46,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   You must all be aware of each step that you take, each word that you speak, each feeling that you feel
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Your teacher Augustine is here. I am so very pleased that you have taken the time to come together in this way. And please do not feel that this time is wasted or problematic in any way, for it is important for all of you to come together in harmony, and that your thoughts harmonize with one another, and you become aware of that which is not in harmony within you, and about you, and amongst you.

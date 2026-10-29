@@ -23,7 +23,7 @@ description: >
 primary_subjects: "Sanctuary & Sacred Space"
 secondary_subjects:
   - "Unity in Diversity"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Interfaith & Universal Truth"
   - "Prayer & Devotion"
   - "Unique Soul Gifts"
   - "Joyful Living"
@@ -56,7 +56,7 @@ door: >
   A centre for healing the world is only that if the world can get through the
   door.
 collections: ["Service & Mission"]
-last_edited: 2026-08-06
+last_edited: 2026-10-29
 ---
 
 I am Faith and I greet you all in this beautiful room, a sanctuary of healing and peace where God’s presence touches the hearts of all who enter its threshold. And I greet my dear friend Anne, whom I love, and am with often, and Timothy and all my old friends who are still in this world.

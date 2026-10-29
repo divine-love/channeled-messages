@@ -11,7 +11,6 @@ primary_subjects: "Teaching the Prayer Practice"
 secondary_subjects:
   - "Prayer & Devotion"
   - "Discipleship"
-  - "Service, Ministry & Being a Channel of Love"
 description: >
   A brief prayer of dedication given by Jesus within the message "You Are My
   Disciple Here". Three lines by which a soul claims its identity as God's
@@ -25,7 +24,7 @@ notes: >
   calling. The prayer is quoted mid-sentence in the source and so carries no
   terminal punctuation there; a full stop is supplied here for the standalone
   text. The message body is unchanged.
-last_edited: 2026-10-11
+last_edited: 2026-10-29
 ---
 Father I am your child of Truth and Love, Father I will serve you in love, Father show me the way.
 

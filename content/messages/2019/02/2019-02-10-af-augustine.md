@@ -18,7 +18,7 @@ secondary_subjects:
   - "Darkness vs Light"
   - "Free Will & Human Error"
   - "Receiving the Divine Love through Prayer"
-  - "Soul Transformation & Development"
+  - "Personal Transformation Journey"
   - "Laws of Creation"
 people: []
 spirits: []

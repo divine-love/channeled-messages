@@ -20,7 +20,7 @@ description: >
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
   - "Service, Ministry & Being a Channel of Love"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
   - "Lattice of Light & Global Prayer Network"
 people: []
 spirits: []
@@ -52,7 +52,7 @@ excerpt: >
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
 door: >
   Open your doors. Let those who come feel the peace. In time they will carry this Light and create their own refuge wherever they are
-last_edited: 2026-04-23
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. How fortunate we are to have the blessings of the master, for his presence in your midst. It is the longings of your souls, my beloveds, that brings this gift and this blessing so close to you and may you continue to long for the highest and be in that great flow of God's Love that brings many of these gifts, in which you are grateful for, forward in your lives and expressed and manifest so powerfully.

@@ -13,9 +13,8 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Alec Gaunt welcomes newcomers to the circle, assuring them they are among friends in a place of love, safety, and nurturing where they need not feel vulnerable. He encourages those further along the path to mentor those just beginning, and urges the new arrivals to ask questions, set aside the doubts of the mind, and take the risk of listening to the stirrings of their souls. He promises that as they make even small efforts in prayer and openness, a great and sure response from God will come.
-primary_subjects: "Spiritual Community & Fellowship"
+primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
-  - "Circle of Light & Prayer Circles"
   - "Walking the Divine Path"
   - "Soul Awakening"
   - "Mind vs Soul Conflict"
@@ -45,7 +44,7 @@ excerpt: >
 door: >
   That stirring you cannot name is your soul. The mind will tell you to doubt it. Listen anyway.
 collections: []
-last_edited: 2026-06-29
+last_edited: 2026-10-29
 ---
 
 Good evening, my friends, this is Alec. Many of you have your feet firmly upon the Divine Path. You cannot be shaken off this Path and must move forward upon this Path, for God compels you forward with His Love for you to grow within your souls, to express your commitment as the channel of Love builds within your souls this great understanding that you have come to know through your prayers and your experiences and affirming the Truth within yourselves. Continue to express these wonderful truths in your lives and those who are further along must help those who are not, to mentor, to show the way, and those who just begin, I encourage you to ask questions, to affirm within yourselves that which is stirring within your souls, to discover what this is, this longing, this stirring, this desire.

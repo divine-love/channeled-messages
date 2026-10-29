@@ -18,7 +18,7 @@ secondary_subjects:
   - "Divine Will, Guidance & Orchestration"
   - "Service, Ministry & Being a Channel of Love"
   - "Soul Awakening"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
 people: []
 spirits: []
 keywords: ["circle of light", "prayer together", "harmony", "questions", "more to learn", "not lost", "God's path", "purpose", "service", "teacher", "portal opens wide", "many gifts coming", "thresholds"]
@@ -44,7 +44,7 @@ excerpt: >
 door: >
   You think you may be lost. Confucius answers: no, you have gained the world of God, and the portal is opening wide.
 collections: ["Service & Mission"]
-last_edited: 2026-06-25
+last_edited: 2026-10-29
 ---
 
 Beloved souls, this is Confucius. We are very happy that you have spent this time together in prayer, to listen to our words, to contemplate these Truths, to understand in deeper ways the progression of the soul through the Father's Love. We are happy that you have dedicated some time to be together in this prayerful way. For as this instrument has commented, there is a harmony amongst you, a blessing that comes with your presence together. I would urge you, beloved brothers and sisters, to be together again in some time coming in this year so that you may sit as you have and listen and formulate your questions, formulate your desire for more truth, given in prayer and quiet contemplation together.

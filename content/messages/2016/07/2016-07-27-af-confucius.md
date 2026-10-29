@@ -20,7 +20,7 @@ description: >
   that they are mostly unaware of this instrumentality because they see only
   the surface, and that a world crying out for healing is answered in part
   through their willingness to be a link in the chain.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Lattice of Light & Global Prayer Network"
   - "Healing Through Prayer"
@@ -54,7 +54,7 @@ door: >
   The blessing does not stop with you. It travels along every bond of love you
   have ever made.
 collections: ["Service & Mission"]
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 Precious and beautiful souls, I am Confucius. I come to bless you in your efforts and prayers to be with God and His Love. Yes, my beloveds, open yourselves to this mighty blessing of Love. It is the key to many blessings. It is the key to your journey to truly know yourselves and know your Heavenly Father and all the truths and wonderment of His Universe shall be laid at your feet. For with the opening of your soul and the awakening of your soul in this Love, the Essence of God, you become aware through the perceptions that awaken with this blessing of many aspects of the universe, many subtleties of Creation, many truths of love and understandings regarding your spiritual journey in life.

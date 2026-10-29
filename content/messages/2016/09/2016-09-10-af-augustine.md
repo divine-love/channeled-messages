@@ -21,10 +21,9 @@ description: >
   next. It comes by choice and desire alone. He closes by asking the world
   to release its error, anger, judgement and fear, and to be changed from
   within.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
   - "Religious Error & Reformation"
-  - "Receiving the Divine Love through Prayer"
   - "Free Will & Human Error"
   - "Soul Awakening"
   - "Redemption of Humanity"
@@ -59,7 +58,7 @@ door: >
   The man who helped write the doctrine has come back to say the truth was
   always simple, and always within your reach.
 collections: ["Letters from History", "The Saints & Apostles Speak"]
-last_edited: 2026-08-08
+last_edited: 2026-10-29
 ---
 
 I am Augustine, I was once Bishop of Hippo when I walked this Earth and I am responsible for establishing many of the tenets of your churches. Unfortunately, this does not give me a great deal of satisfaction, for much of what I established and the teachings of the church was incorrect and when I ventured into spirit I realized my great error and now I come back to all of the souls in this world who are willing to listen to teach the truth, the simple truth.

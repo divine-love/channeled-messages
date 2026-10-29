@@ -23,7 +23,7 @@ description: >
 primary_subjects: "Unique Soul Gifts"
 secondary_subjects:
   - "Soul Awakening"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Being a Channel of Love"
   - "Reassurance & Strength"
   - "Circle of Light & Prayer Circles"
   - "Grief & Loss"
@@ -54,7 +54,7 @@ excerpt: >
 door: >
   What you have become so far is a child barely aware of its surroundings. The awakening has only begun.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-05
+last_edited: 2026-10-29
 ---
 
 [Personal to Jeanne]

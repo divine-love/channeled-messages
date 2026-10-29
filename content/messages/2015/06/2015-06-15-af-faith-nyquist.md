@@ -18,12 +18,11 @@ description: >
   fear divert the flow of God's Love, while faith and peace amplify it, and that
   true strength lies in choosing the Light with every breath, even in the midst of
   life's testing conditions.
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Walking the Divine Path"
 secondary_subjects:
   - "Faith & Trust"
   - "Mind vs Soul Conflict"
   - "Releasing Judgment"
-  - "Walking the Divine Path"
 people: []
 spirits: []
 keywords: ["daily challenges", "beacon of light", "faith", "peace", "worry", "fear", "judgment", "human condition", "God's guidance", "soul versus mind", "choice", "strength", "flow of love", "harmony", "testing", "divine path"]
@@ -55,7 +54,7 @@ excerpt: >
 collections: []
 door: >
   'This is the time to be strong in the Light, to stand tall and say: I am with God. God will guide me through'
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 Reach for Love in all things that you do, my beloveds. Seek to know God's guidance and Will in all things that you do as you live your lives each day. God has a plan for you as you make decisions that affect the outcomes of your lives, go to God for His guidance and reassurance that you are upon the path intended. Do not let your worries and your cares influence your decisions and how you are in your day. Allow the flow of God's Love to permeate you and flow within you and all about you. Know peace. Having peace within you is so important, my beloveds. Have faith, faith that God will guide and protect you and provide what you require in your life and your day. For God has much to give to you, my beloveds, so much to give, can help you in so many ways, and can be there in every situation you encounter in your life. And if you get caught up in judgment and react to the behaviors of others which you do not approve of, you counteract the influence of God's Love, you take away from this Light, you divert the flow of God's Love.

@@ -19,12 +19,11 @@ description: >
   God will sustain both their spirit and physical bodies with waves of love
   and healing, increasing their faith, and that they carry the flame of the
   Father's Love to many.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Healing Through Prayer"
   - "Reassurance & Strength"
   - "Receiving the Divine Love through Prayer"
-  - "Spiritual Empowerment & Encouragement"
 people: []
 spirits: []
 keywords: ["instruments of love", "harbingers of truth", "healing sessions", "seeking souls", "teaching", "comfort", "sustenance", "spirit body", "flame of the Father's Love", "service", "humility", "God's chosen path", "angels surrounding", "blessing"]
@@ -53,7 +52,7 @@ excerpt: >
 door: >
   God is already using your soul in ways you cannot see. Your task is only to keep walking, and let Him bring the ones who are seeking.
 collections: ["Letters from History", "Healing Path"]
-last_edited: 2026-07-05
+last_edited: 2026-10-29
 ---
 
 I am Confucius. We continue with our healing sessions together, do we not, beloved children? We continue to help support and uplift, to bring healing to the body, peace to the mind, exulted love to the soul. We will bring souls of light into your midst. Souls who are seeking and hunger. Souls who are curious. Souls who wish clarity, understanding of truth. We will use you, beloved souls, to speak these words, to demonstrate the truth of God's Love, to be harbingers of love and comfort. For each of you has a beautiful soul and God uses that soul in many ways that you are not aware. You walk upon God's chosen path of love and you carry the matter of truth with you as you walk bravely into many conditions, praying to be used as an instrument of love and blessings for others, beseeching God to bless your loved ones, beseeching God to bless this world, to carry you ever upward in light and that the world may ascend into light. Thus, you become God's harbingers of truth, His instruments of peace, that you bring love and show the way to eternal love.

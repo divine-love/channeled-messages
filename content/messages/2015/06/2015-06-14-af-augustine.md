@@ -16,8 +16,10 @@ description: >
   encourages them to embrace those who will soon gather, to continue receiving
   the Father's Love, and to trust that as their soul perception deepens they will
   increasingly align with God's Will and flow within the river of His Love.
-primary_subjects: "Spiritual Community & Fellowship"
-secondary_subjects: ["Divine Will, Guidance & Orchestration", "Soul Transformation & Development"]
+primary_subjects: "Circle of Light & Prayer Circles"
+secondary_subjects:
+  - "God's Guidance"
+  - "Personal Transformation Journey"
 people: []
 spirits: []
 keywords: ["fellowship", "gathering", "prayer", "soul perception", "God's will", "river of love", "alignment", "embrace", "progression", "circle of light", "Divine Love", "harmony", "guidance"]
@@ -37,7 +39,7 @@ essential_teachings: []
 door: >
   The doors God opens are not always the ones you were expecting
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. We are pleased that you have heard our call to gather together in small and large groups, to be in prayer and conversation with one another. I think you have all benefitted from this time together. Each one has benefitted differently, has gleaned different perceptions and understandings within their minds. But truly the great benefit has been within your souls, receiving the Father's Love together, being in communion together and witnessing the power of this and the beauty of this.

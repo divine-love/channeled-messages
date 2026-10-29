@@ -17,8 +17,10 @@ description: >
   experience of opposition and persistence, assuring them that sincere prayer is
   more powerful than any human barrier and that God's plan for the salvation of
   mankind will be enacted.
-primary_subjects: "Divine Will, Guidance & Orchestration"
-secondary_subjects: ["Surrender & Trust in God", "Prayer & Devotion"]
+primary_subjects: "Surrender to God's Will"
+secondary_subjects:
+  - "Surrender & Trust in God"
+  - "Prayer & Devotion"
 people: []
 spirits: []
 keywords: ["God's will", "free will", "man's will", "prayer", "opposition", "salvation", "World Healing Centre", "alignment", "faith", "obstructions", "Celestial Heavens", "light", "peace", "flexibility"]
@@ -42,7 +44,7 @@ notes: >
 essential_teachings: []
 door: >
   Religious error can be held sincerely, and sincerely held error still needs to be released
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 I am Martin Luther and I come to speak about the Will of God.

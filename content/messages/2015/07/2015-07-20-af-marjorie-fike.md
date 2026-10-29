@@ -22,7 +22,7 @@ primary_subjects: "Spirit Testimony & Personal Story"
 secondary_subjects:
   - "Grief & Loss"
   - "Spirit Guides & Angels"
-  - "Spiritual Empowerment & Encouragement"
+  - "Reassurance & Strength"
   - "Prayer & Devotion"
 people: []
 spirits: []
@@ -54,7 +54,7 @@ excerpt: >
 collections: []
 door: >
   You create an oasis, a place of respite for all who wish to partake of this beautiful blessing and healing and peace
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 I am this instrument's mother and I wish to address my grandson who did not know me when I was on this Earth, but I want to reassure him that I have been with him very often in his trials and his struggles, and I want him to know how much he is loved by his grandmother and his grandfather, who he knew, and his other grandparents and relatives on this side of life. I want him to know that he is surrounded in Love and when he encounters troubles to ask for us who love him to be with him to help him through his struggles.

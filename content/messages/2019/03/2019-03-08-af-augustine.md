@@ -19,7 +19,7 @@ description: >
   changed, they may free themselves and others; and he calls them to contribute
   to the flame by loving and praying for one another. He also prays for the
   healing of one among them.
-primary_subjects: "Spiritual Community & Fellowship"
+primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
   - "Soul Awakening"
   - "Receiving the Divine Love through Prayer"
@@ -51,7 +51,7 @@ excerpt: >
 door: >
   The warmth in the room is not the room. It is the flame you carry, and God is asking you to feed it.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-03
+last_edited: 2026-10-29
 ---
 
 Yes, there will be many blessings and healings. This time that you spend together, love will flow, light will cascade down from the heavenly realms. Peace flows. The peace that passes all understanding will come as God touches your souls, beloveds. His Love will enter your soul, uplifting and bringing joy, all manner of blessings, beloveds.

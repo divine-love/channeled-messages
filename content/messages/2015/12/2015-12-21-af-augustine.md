@@ -13,7 +13,7 @@ gathering:
 message_type: ["Guidance"]
 description: >
   Augustine speaks at Christmas time, encouraging the group to take full advantage of the season's openness in the world to be channels of love. He warns of great and surprising changes coming and calls them to hold firm to their path without compromise, letting love inform every thought, word, and action.
-primary_subjects: "Service, Ministry & Being a Channel of Love"
+primary_subjects: "Being a Channel of Love"
 secondary_subjects:
   - "Walking the Divine Path"
   - "Redemption of Humanity"

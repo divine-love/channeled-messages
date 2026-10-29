@@ -17,7 +17,9 @@ description: >
   them that their unified longing toward God creates a great Light that brings
   healing, comfort, and Divine Love to many both seen and unseen.
 primary_subjects: "Circle of Light & Prayer Circles"
-secondary_subjects: ["Spiritual Community & Fellowship", "Interdimensional & Spirit Communication", "Law of Attraction"]
+secondary_subjects:
+  - "Spirit Guides & Angels"
+  - "Law of Attraction"
 people: []
 spirits: []
 keywords: ["prayer circle", "circle of light", "angels", "spirits", "law of attraction", "light", "healing", "fellowship", "global network", "Divine Love", "at-onement", "longing", "community", "bonds of love"]

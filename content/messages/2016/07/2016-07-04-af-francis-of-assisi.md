@@ -17,10 +17,9 @@ description: >
   forest among creatures, and urging all who seek spiritually to beseech God for
   this Love, whether through the natural or Divine Love path, for it will
   transform the soul, awaken its gifts, and lead to at-onement with God.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
-  - "Receiving the Divine Love through Prayer"
-  - "Soul Transformation & Development"
+  - "Personal Transformation Journey"
   - "Beauty & Spiritual Joy"
   - "Unique Soul Gifts"
 people: []

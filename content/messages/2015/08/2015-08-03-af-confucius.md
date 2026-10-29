@@ -16,8 +16,10 @@ description: >
   to life. He encourages each listener to seek the Father's Love earnestly,
   promising that as they do, their true selves will unfold in wondrous and
   surprising ways.
-primary_subjects: "Spiritual Identity & Destiny"
-secondary_subjects: ["Unique Soul Gifts", "Receiving the Divine Love through Prayer"]
+primary_subjects: "Divine Purpose"
+secondary_subjects:
+  - "Unique Soul Gifts"
+  - "Receiving the Divine Love through Prayer"
 people: []
 spirits: []
 keywords: ["soul gifts", "hidden gifts", "Divine Love", "activation", "potential", "rebirth", "true self", "service", "channel", "prayer", "transformation", "discovery", "purpose", "healing"]
@@ -42,7 +44,7 @@ notes: ""
 essential_teachings: []
 door: >
   The gifts you have been given are already within you, waiting to be recognised
-last_edited: 2026-07-11
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloveds, it is Confucius. The Light of God's Grace is upon you, my beloveds, your prayers have brought this. Feel the longing within your souls. Feel it touch God's Soul, the response of Light which pours down upon you, my beloveds. You bask in this Light. Allow yourselves to be open and to drink in this blessing. You are surrounded by angels, beloved beloved souls, and these angels pray with you as you discover your true soul's longings, as you put aside that part of you which hides from God and steps into the Light with eyes open and feelings of gratitude, refreshed by this beautiful touch from God.

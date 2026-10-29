@@ -16,7 +16,7 @@ description: >
   that God withholds nothing from His children but waits for each soul to open and
   receive. He calls them to seek God's Touch completely and to know the peace that
   passes all understanding.
-primary_subjects: "Spiritual Empowerment & Encouragement"
+primary_subjects: "Reassurance & Strength"
 secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "God's Mercy & Unconditional Love"
@@ -44,7 +44,7 @@ excerpt: >
 collections: []
 door: >
   God does not withhold His Love and blessings from His children but beseeches each child to partake of what God has to give
-last_edited: 2026-05-01
+last_edited: 2026-10-29
 ---
 
 God bless you beloveds, I am Confucius. May His Love find a constant inflowing into your souls. May you find your way in this dark world that your path may be lit by God, that you may know deep within yourself the journey you must take, the path that is indeed in harmony with God in His boon. Many blessings come to you beloved souls and many more shall come. For God does not withhold His Love and blessings to His children but beseeches each child to partake of what God has to give, this great onrushing flow of love and light, peace and healing. This bounty is unlimited but merely limited by you and your desire to receive in prayer and supplication. Seek these blessings, beloved souls. Open yourself completely to the presence of the Creator and know the peace that passes all understanding.

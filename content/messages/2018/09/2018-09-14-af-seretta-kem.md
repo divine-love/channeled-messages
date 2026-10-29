@@ -20,7 +20,6 @@ description: >
   will begin in earnest.
 primary_subjects: "Teaching & Sharing the Message"
 secondary_subjects:
-  - "Preparation for Earth Mission"
   - "Interfaith & Universal Truth"
   - "Unique Soul Gifts"
   - "Faith & Trust"
@@ -55,7 +54,7 @@ excerpt: >
 collections: []
 door: >
   You are the emissaries of truth, spoken not in words but in light and love
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 So you have learned much today. You have met many people. You've walked the halls and sat in these seminars as you call them. You have learned much and yet you have not seen evidence of the encouragement of the soul, rather you see how the minds of men have explored and utilized the natural phenomena that is available to humanity. This is an important work that they do to convince humanity of a very simple fact that life carries on. Yet in your dark world so many cannot even step beyond their disbelief of this truth. So many are mired in the material condition and cannot contemplate the very thought of death. They have great fear and misunderstanding. So these beautiful souls, they work and they make great effort to help those who are stuck within their scepticism.
