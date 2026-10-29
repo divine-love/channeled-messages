@@ -25,6 +25,7 @@ secondary_subjects:
   - "Receiving the Divine Love through Prayer"
   - "Celestial Governance & Spiritual Law"
   - "Preparation for Earth Mission"
+  - "Law of Love"
 people: []
 spirits: []
 keywords: ["soul gifts", "natural gifts", "Divine Love", "mediumship", "healing", "spiritualism", "elevation", "Pentecost", "Holy Spirit", "drop by drop", "laws of love", "at-onement", "channel of love", "chemicals and energies", "Egypt", "healer", "chemist"]
@@ -58,7 +59,7 @@ excerpt: >
 collections: []
 door: >
   Seek God above all else and your gifts will flourish in this one desire for the highest
-last_edited: 2026-10-18
+last_edited: 2026-10-29
 ---
 
 I am Seretta Kem. Some of you know me well while others do not know me. I lived in Egypt many thousands of years ago. I am a healer and a chemist. I work with those mortals who desire to develop their gifts and who also subscribe to the way of Divine Love. I am an inhabitant of the Celestial Kingdom and I, along with many others who live in these beautiful realms, come to assist mortals in their spiritual growth and soul awakening.

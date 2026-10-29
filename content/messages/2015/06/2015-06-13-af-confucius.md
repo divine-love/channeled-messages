@@ -17,7 +17,7 @@ description: >
   them that their unified longing toward God creates a great Light that brings
   healing, comfort, and Divine Love to many both seen and unseen.
 primary_subjects: "Circle of Light & Prayer Circles"
-secondary_subjects: ["Spiritual Community & Fellowship", "Interdimensional & Spirit Communication"]
+secondary_subjects: ["Spiritual Community & Fellowship", "Interdimensional & Spirit Communication", "Law of Attraction"]
 people: []
 spirits: []
 keywords: ["prayer circle", "circle of light", "angels", "spirits", "law of attraction", "light", "healing", "fellowship", "global network", "Divine Love", "at-onement", "longing", "community", "bonds of love"]
@@ -41,7 +41,7 @@ notes: ""
 essential_teachings: []
 door: >
   When souls pray together their Light multiplies beyond what any one could generate alone
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloved beloved souls, this is Confucius. Yes, the dear beloved mothers who have passed to this side of life are present with you, my beloveds, as are many many spirits. For each of you have many spirits of all levels of progression with you as you walk in this world. Your Light attracts this, my beloveds. How you are in the world brings those who are curious and those who are drawn by the law of attraction to you, and when you sit in this circle of Love and prayer many spirits are drawn to this Light. Some are curious, some have been brought and many angels surround you, my beloveds, for your work and your efforts to reach for God elicit many responses from my side of life. And as you draw in the angels, each one an angel to assist you in your prayers this night, a great Light is formed, a great Light of healing, and peace, and comfort, and God's Love and presence is part of your beloved circle of Light.

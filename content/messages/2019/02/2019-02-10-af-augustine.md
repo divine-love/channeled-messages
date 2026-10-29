@@ -19,6 +19,7 @@ secondary_subjects:
   - "Free Will & Human Error"
   - "Receiving the Divine Love through Prayer"
   - "Soul Transformation & Development"
+  - "Laws of Creation"
 people: []
 spirits: []
 keywords: ["choosing light", "darkness", "the soul absorbs", "condition of the soul", "spirit world planes", "where you begin", "Laws of Creation", "progression", "Divine Love", "healing the soul", "free choice", "harmony", "easier to grow on Earth"]
@@ -46,7 +47,7 @@ excerpt: >
 door: >
   Every choice you make is being absorbed by your soul. You are building the place where you will wake up next.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-29
+last_edited: 2026-10-29
 ---
 
 May God bless you with truth and light and that all understanding be a blessing for each of your souls, beloveds. I am Augustine, your teacher. I was once the Bishop of Hippo many hundreds of years ago when I walked your Earth and I have spent many, many years in the world of spirit and I inhabit the Celestial Kingdom. I am a redeemed child of God, for God has blessed me with an abundance of His Love. I come to you, my beloved friends, brothers and sisters all, with a message of hope, love and truth, that if you wish to follow you may find the many blessings of the spirit that come from God.

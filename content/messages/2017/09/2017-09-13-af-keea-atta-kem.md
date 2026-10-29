@@ -24,6 +24,7 @@ secondary_subjects:
   - "Preparation for Earth Mission"
   - "Celestial Governance & Spiritual Law"
   - "Lattice of Light & Global Prayer Network"
+  - "Laws of Creation"
 people: []
 spirits: []
 keywords: ["earth changes", "magnetic poles", "pole shift", "animal behaviour", "climate", "consequences", "free will", "harmony", "custodians", "scientists", "leaders", "closed system", "chaos", "sanctuary", "restoration"]
@@ -66,7 +67,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
-last_edited: 2026-08-08
+last_edited: 2026-10-29
 ---
 
 I am Keea Atta Kem. I have come to speak to you of the changes in this world, the changes that have already happened and the changes that are going to happen. At present those changes within the world are not particularly noticed except when they bring some heartache to those people who are directly affected as the weather changes.
