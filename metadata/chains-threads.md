@@ -3250,6 +3250,16 @@ message_ids already carry the dates.
   since "if you are not out amongst mankind there is no way that God can use
   you as a channel to touch others," and gives the time together a purpose
   beyond itself, "to replenish and to heal, to strengthen and to teach."
+  Objection-removed: 2016-12-10-af-james clears the belief that answering the
+  call costs the people who depend on you, "This does not mean that your life
+  will become chaos and those about you and who rely on you and who love you
+  will be hurt and distraught and you will sacrifice your love for the love of
+  God, no this is not the case," with the practice for those left uneasy,
+  "for those you love who will be afraid of your choices, you must ask God to
+  enfold them and care for them," and the promise that the change carries them
+  along, "you will bring those who are with you along into that greater
+  light." 2016-05-12-af-alec-gaunt gives the same assurance in one sentence
+  inside its Elaboration; this message makes it the argument.
   Witnesses, the commission asserted without the release.
   2016-08-11-af-alec-gaunt has it materializing in the present tense, "You
   will travel the world to bring these truths to mankind and now you see this

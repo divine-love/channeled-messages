@@ -43,6 +43,7 @@ related_messages:
   - 2016-03-06-af-jesus
   - 2016-05-12-af-alec-gaunt
   - 2016-10-19-af-goldie
+  - 2016-12-10-af-james
 audio_url: ""
 canonical_url: ""
 notes: ""
