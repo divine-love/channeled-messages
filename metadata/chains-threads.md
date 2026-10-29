@@ -2924,6 +2924,11 @@ message_ids already carry the dates.
   in a gentle way," with the occasions prayed for rather than forced, "Pray for
   those opportunities to come to you," and the division it may cause accepted,
   "there needs to be a voice crying for truth and love in the world";
+  2016-12-09-af-martin-luther makes confronting error a duty and pairs it with
+  love throughout, "stand up and bring love where there is error and
+  disharmony... and when someone speaks in terms that are grossly in error
+  stand up, speak the truth," carried to the institutions that deplete the
+  world and to prayer for those who confront them;
   2018-11-05-af-john-wesley makes the claim about how change happens at all,
   "It is that individuals stand up and speak the truth no matter the
   consequences or reactions from those around them," gives the manner in

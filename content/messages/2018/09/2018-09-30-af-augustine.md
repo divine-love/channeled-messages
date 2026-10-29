@@ -42,9 +42,11 @@ questions:
   - "How do soul perceptions help me understand the person I am talking to?"
   - "How does God work through a conversation even when I say the wrong thing?"
 related_messages:
+related_messages:
   - 2016-08-17-af-james-padgett
   - 2016-11-06-af-jesus
   - 2016-12-02-af-white-cloud
+  - 2016-12-09-af-martin-luther
   - 2018-09-01-af-augustine
   - 2018-09-15-af-augustine
 audio_url: ""

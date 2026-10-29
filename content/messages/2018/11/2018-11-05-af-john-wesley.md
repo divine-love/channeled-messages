@@ -40,6 +40,7 @@ questions:
   - "How can I share spiritual truth in a way that others will actually receive it?"
 related_messages:
   - 2015-08-20-af-james-padgett
+  - 2016-12-09-af-martin-luther
   - 2019-03-14-af-jesus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/speak-up-for-truth-and-change/"
