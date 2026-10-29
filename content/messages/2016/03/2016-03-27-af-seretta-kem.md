@@ -19,7 +19,7 @@ secondary_subjects:
   - "Law of Attraction"
   - "Law of Activation"
   - "Mind vs Soul Conflict"
-  - "Discernment & Truth-Seeking"
+  - "Law of Love"
 people: []
 spirits: []
 keywords: ["mediumship", "rapport", "spirit communication", "soul to mind", "distortion", "no perfect mediums", "Law of Love", "encrustations", "material mind", "send love to the medium", "spirit influence", "one truth at a time", "redemption", "control"]
@@ -38,7 +38,7 @@ questions:
 related_messages:
   - 2016-04-12-af-keea-atta-kem
   - 2016-05-09-af-seretta-kem
-  - 2016-07-04-af-jesus  
+  - 2016-07-04-af-jesus
   - 2016-12-06-af-seretta-kem
   - 2018-08-29-af-seretta-kem
 audio_url: ""
@@ -52,7 +52,7 @@ excerpt: >
 door: >
   What your soul knows wordlessly must squeeze up through a narrow, cluttered channel to reach your mind. This is why no message arrives whole.
 collections: ["Healing Path"]
-last_edited: 2026-07-29
+last_edited: 2026-10-29
 ---
 
 God bless you, my brothers and sisters, it is your servant and brother Seretta Kem, and I promised you that I would return to reiterate this message regarding mediumship.

@@ -25,7 +25,7 @@ secondary_subjects:
   - "Earth Changes & Prophecy"
   - "Soul Awakening"
   - "Collective Awakening & Redemption"
-  - "Service, Ministry & Being a Channel of Love"
+  - "Laws of Creation"
 people: []
 spirits: []
 keywords: ["soul encrustations", "group prayer", "Path Divine", "at-onement", "world changes", "climate", "prophecy", "earthquakes", "rising seas", "channel of love", "gifts"]
@@ -57,7 +57,7 @@ collections:
   - "Two Paths"
   - "Awakening Humanity"
   - "The Saints & Apostles Speak"
-last_edited: 2026-07-08
+last_edited: 2026-10-29
 ---
 
 God bless you, my beloved souls, it is Augustine, your teacher, and I promised you some commentary on the changes in the world and the changes within your souls, so I shall begin.

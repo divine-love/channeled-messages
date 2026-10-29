@@ -19,7 +19,7 @@ secondary_subjects:
   - "Surrender to God's Will"
   - "Divine Plan & Timing"
   - "Law of Attraction"
-  - "Perseverance & Steadfastness"
+  - "Laws of Creation"
 people: []
 spirits: []
 keywords: ["human condition", "collective darkness", "free will", "God's creation", "self-compassion", "energetic conditions", "darkness", "light bearers", "destiny", "Law of Attraction"]
@@ -40,11 +40,11 @@ notes: >
 essential_teachings: []
 language: en
 excerpt: >
-  What power you each hold, beloved souls, to form the reality and conditions of this world. God created a perfect world — yet with free will, humanity continues upon a course that proliferates darkness.
+  What power you each hold, beloved souls, to form the reality and conditions of this world. God created a perfect world, yet with free will, humanity continues upon a course that proliferates darkness.
 door: >
   God created a perfect world. Humanity created this one. The difference is free will, and the remedy is the same.
 collections: ["Letters from History", "Awakening Humanity"]
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 I am Abdullah Latif. I was once a philosopher, a mathematician, and had a high rank within the realm in which I lived on Earth.
