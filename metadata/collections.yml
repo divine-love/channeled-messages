@@ -64,6 +64,9 @@ collections:
     foremost teacher in the Divine Love archive, speaking on prayer,
     the soul, at-onement, service, and the truth of God's Love as the
     heart of his original mission.
+  # Checked by validate_messages.py, as for The Saints & Apostles Speak.
+  required_for_spirits:
+    - jesus
 
 - name: "Letters from History"
   definition: >
@@ -75,6 +78,33 @@ collections:
     figure alone does not qualify; the historical identity must do work
     in the message. A famous spirit's general guidance belongs to its
     subjects and spirit page, not here.
+  # Checked by validate_messages.py: a message whose spirit_id is listed here
+  # (a figure who appears in the Bible) may not carry this collection, unless
+  # spirits[] names another speaker who is not listed. Augustine and Francis
+  # of Assisi are saints outside the canon, so they are not listed.
+  excluded_spirits:
+    - aaron
+    - aman
+    - andrew
+    - elijah
+    - isaiah
+    - james
+    - jesus
+    - john-the-beloved
+    - joseph
+    - judas
+    - luke
+    - mark
+    - martha
+    - mary
+    - mary-magdalene
+    - matthew
+    - moses
+    - paul-of-tarsus
+    - peter
+    - simon
+    - solomon
+    - stephen
 
 - name: "Mind & Soul"
   definition: >
@@ -103,6 +133,31 @@ collections:
     Testament figures such as Moses and Mary. These spirits offer personal
     testimony, teaching, and encouragement grounded in their own experience
     of Divine Love. Jesus has his own collection and does not appear here.
+  # Checked by validate_messages.py: a message whose spirit_id is listed here must carry this collection, and the collection may appear only when spirit_id or an entry in spirits[] is listed here. Add a spirit_id here when a new biblical figure or named saint gets a spirit file.
+  required_for_spirits:
+    - aaron
+    - aman
+    - andrew
+    - augustine
+    - elijah
+    - francis-of-assisi
+    - isaiah
+    - james
+    - john-the-beloved
+    - joseph
+    - judas
+    - luke
+    - mark
+    - martha
+    - mary
+    - mary-magdalene
+    - matthew
+    - moses
+    - paul-of-tarsus
+    - peter
+    - simon
+    - solomon
+    - stephen
 
 - name: "Two Paths"
   definition: >

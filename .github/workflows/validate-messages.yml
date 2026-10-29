@@ -8,6 +8,8 @@ on:
       - 'spirits/**/*.yml'
       - 'mediums/**/*.yml'
       - 'metadata/subjects.yml'
+      - 'metadata/collections.yml'
+      - 'metadata/law-mentions-reviewed.yml'
       - 'schema/message.schema.yml'
       - '.github/scripts/**/*.py'
   pull_request:
@@ -17,6 +19,8 @@ on:
       - 'spirits/**/*.yml'
       - 'mediums/**/*.yml'
       - 'metadata/subjects.yml'
+      - 'metadata/collections.yml'
+      - 'metadata/law-mentions-reviewed.yml'
       - 'schema/message.schema.yml'
       - '.github/scripts/**/*.py'
 

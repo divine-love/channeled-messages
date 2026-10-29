@@ -24,6 +24,7 @@ secondary_subjects:
   - "Faith & Trust"
   - "Receiving the Divine Love through Prayer"
   - "Service, Ministry & Being a Channel of Love"
+  - "Law of Attraction"
 people: []
 spirits: []
 keywords: ["road less traveled", "discipline", "soul depth", "prayer", "priorities", "eternity", "choice", "Light", "responsibility"]
@@ -54,7 +55,7 @@ door: >
 collections:
   - "Awakening Humanity"
   - "The Saints & Apostles Speak"
-last_edited: 2026-06-26
+last_edited: 2026-10-29
 ---
 
 It is your teacher Augustine. You have been given much in these past days together, much in guidance and much in blessings. Your souls shine with the Love that you have received, and this will carry you forward and assist you in your soul's progression and the unfolding of those faculties of the soul which are ignited by this Love. Each of you will receive transcripts of these messages that were given in these past days. I ask you to read these messages again and again for I promise that every time you read this information you will glean something new from it. There is much in these messages, much in the words we have spoken and it takes time for the soul to bring forth into the consciousness of your mind the significance of these words and the depth of what is shared by the angels.

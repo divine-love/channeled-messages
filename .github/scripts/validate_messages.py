@@ -11,6 +11,13 @@ Also performs additional checks not covered by JSON Schema, such as:
   - primary_subjects and secondary_subjects match names defined in
     metadata/subjects.yml (the single source of truth for the vocabulary)
   - subjects.yml itself contains no duplicate names
+  - collection rules from metadata/collections.yml: a message by a spirit in a
+    collection's required_for_spirits list carries that collection, the
+    collection appears only when the speaker or a spirits[] entry is listed,
+    and no listed spirit in excluded_spirits carries the collection (errors)
+  - a message body that names a spiritual Law whose subject is not tagged,
+    whose phrase is not in keywords, and which is not recorded in
+    metadata/law-mentions-reviewed.yml (warning only, for review)
 
 After validation, prints a SUBJECT USAGE CENSUS: every subject in
 subjects.yml with the number of messages using it, so unpopulated
@@ -34,6 +41,8 @@ MESSAGES_DIR = ROOT / "content" / "messages"
 SPIRITS_DIR = ROOT / "spirits"
 MEDIUMS_DIR = ROOT / "mediums"
 SUBJECTS_PATH = ROOT / "metadata" / "subjects.yml"          # NEW
+COLLECTIONS_PATH = ROOT / "metadata" / "collections.yml"
+LAW_REVIEWED_PATH = ROOT / "metadata" / "law-mentions-reviewed.yml"
 
 # ── Colours for terminal output ───────────────────────────────────────────────
 RED = "\033[91m"
@@ -117,6 +126,90 @@ def extract_subjects(data):
     return used
 
 
+# ── Collection rules ──────────────────────────────────────────────────────────
+def get_collection_rules():
+    """
+    Read metadata/collections.yml and return {name: {"required": set, "excluded": set}}
+    for every collection that declares required_for_spirits or excluded_spirits.
+    """
+    with open(COLLECTIONS_PATH, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f.read()) or {}
+    rules = {}
+    for c in data.get("collections", []):
+        req = set(c.get("required_for_spirits") or [])
+        exc = set(c.get("excluded_spirits") or [])
+        if req or exc:
+            rules[c["name"]] = {"required": req, "excluded": exc}
+    return rules
+
+
+def check_collections(data, rules):
+    errors = []
+    speaker = data.get("spirit_id", "")
+    others = set(data.get("spirits") or [])
+    collections = set(data.get("collections") or [])
+    for name, rule in rules.items():
+        req, exc = rule["required"], rule["excluded"]
+        if req:
+            if speaker in req and name not in collections:
+                errors.append(f"collection '{name}' is required for spirit_id '{speaker}' (metadata/collections.yml)")
+            if name in collections and speaker not in req and not (others & req):
+                errors.append(f"collection '{name}' needs spirit_id or a spirits[] entry from its required_for_spirits list")
+        if exc and name in collections and speaker in exc and not (others - exc):
+            errors.append(f"collection '{name}' is excluded for spirit_id '{speaker}' (metadata/collections.yml)")
+    return errors
+
+
+# ── Named spiritual Laws ──────────────────────────────────────────────────────
+def law_patterns(subject_names):
+    """
+    Build a search pattern for every Law subject: 'Law of Love' matches
+    'law of love' and 'laws of love'; 'Law of Communication & Rapport'
+    matches either word after 'of'.
+    """
+    import re
+    pats = {}
+    for name in subject_names:
+        low = name.lower()
+        if not (low.startswith("law of ") or low.startswith("laws of ")):
+            continue
+        tail = low.split(" of ", 1)[1]
+        alts = [re.escape(t.strip()) for t in tail.split("&")]
+        pats[name] = re.compile(r"\blaws? of (?:" + "|".join(alts) + r")\b", re.I)
+    return pats
+
+
+def get_law_reviewed():
+    if not LAW_REVIEWED_PATH.exists():
+        return {}
+    with open(LAW_REVIEWED_PATH, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f.read()) or {}
+    return {k: set(v or []) for k, v in data.items()}
+
+
+def check_law_mentions(path, data, patterns, reviewed):
+    """Return a warning for each Law named in the body but not tagged or recorded."""
+    warnings = []
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
+    parts = content.split("---", 2)
+    body = parts[2] if len(parts) >= 3 else ""
+    tagged = set(extract_subjects(data))
+    keywords = {str(k).lower() for k in (data.get("keywords") or [])}
+    mid = data.get("message_id", "")
+    for name, pat in patterns.items():
+        m = pat.search(body)
+        if not m or name in tagged or mid in reviewed.get(name, set()):
+            continue
+        if m.group(0).lower() in keywords or name.lower() in keywords:
+            continue
+        warnings.append(
+            f"body names '{m.group(0)}' but '{name}' is not tagged; tag it if the message uses it "
+            f"as a working Law, or record the message under '{name}' in metadata/law-mentions-reviewed.yml"
+        )
+    return warnings
+
+
 def build_subject_census(subject_names):
     """Count how many messages use each subject (primary or secondary)."""
     census = Counter({name: 0 for name in subject_names})
@@ -132,7 +225,8 @@ def build_subject_census(subject_names):
 # ──────────────────────────────────────────────────────────────────────────────
 
 
-def validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_subjects):
+def validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_subjects,
+                  collection_rules=None, law_pats=None, law_reviewed=None):
     errors = []
     warnings = []
 
@@ -188,6 +282,14 @@ def validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_s
         if s not in valid_subjects:
             errors.append(f"subject '{s}' is not defined in metadata/subjects.yml")
 
+    # ── Collection rules ──────────────────────────────────────────────────────
+    if collection_rules:
+        errors.extend(check_collections(data, collection_rules))
+
+    # ── Named Laws not tagged (review only) ───────────────────────────────────
+    if law_pats:
+        warnings.extend(check_law_mentions(path, data, law_pats, law_reviewed or {}))
+
     return errors, warnings
 
 
@@ -207,6 +309,19 @@ def main():
         print(f"{RED}Could not load subjects.yml: {e}{RESET}")
         sys.exit(1)
     valid_subjects = set(subject_names)
+
+    print(f"Loading collection rules from {COLLECTIONS_PATH.relative_to(ROOT)}...")
+    try:
+        collection_rules = get_collection_rules()
+    except Exception as e:
+        print(f"{RED}Could not load collections.yml: {e}{RESET}")
+        sys.exit(1)
+    law_pats = law_patterns(subject_names)
+    try:
+        law_reviewed = get_law_reviewed()
+    except Exception as e:
+        print(f"{RED}Could not load law-mentions-reviewed.yml: {e}{RESET}")
+        sys.exit(1)
 
     spirit_ids = get_spirit_ids()
     medium_ids = get_medium_ids()
@@ -235,7 +350,8 @@ def main():
 
     for path in message_files:
         rel = path.relative_to(ROOT)
-        errors, warnings = validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_subjects)
+        errors, warnings = validate_file(path, schema, spirit_ids, medium_ids, all_message_ids, valid_subjects,
+                                         collection_rules, law_pats, law_reviewed)
 
         if errors or warnings:
             files_with_issues += 1

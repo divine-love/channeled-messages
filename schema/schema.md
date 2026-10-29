@@ -265,6 +265,8 @@ The `collections` field assigns a message to one or more thematic collections. C
 | `Prism of the Soul` | Messages exploring the nature and faculties of the soul. |
 | `The Saints & Apostles Speak` | **All** biblical figures speaking from spirit, apostles, saints, and Old and New Testament figures (Andrew, James, John the Beloved, Peter, Matthew, Mark, Luke, Francis of Assisi, Augustine, Moses, Mary, Martha, Joseph, and others). Every message delivered by a biblical figure must include this collection. Jesus is the sole exception, having his own collection. |
 
+The spirits each speaker collection requires or excludes are listed in `metadata/collections.yml` (`required_for_spirits`, `excluded_spirits`), and `validate_messages.py` checks every message against them. When a new biblical figure or named saint gets a spirit file, add the spirit_id there.
+
 ---
 
 ## 5. Example YAML Files
@@ -398,7 +400,7 @@ Questions should be written as a real seeker would type them into a search engin
 
 ### Subjects
 
-`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. If a needed subject does not exist, propose it to the curator first; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. When a named spiritual Law appears in a message body, add it as a secondary subject. When a message refers to a spiritual Law without naming it, that Law may also be added as a secondary subject, with the curator's approval.
+`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. If a needed subject does not exist, propose it to the curator first; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. When a message uses a named spiritual Law as a working Law, add it as a secondary subject. A Law is used as a working Law when it is named alongside other Laws as one that operates, or when the passage describes the Law doing what its definition in `subjects.yml` says. A general phrase such as "in harmony with God's laws of Love" does not count; record such a message in `metadata/law-mentions-reviewed.yml`, which keeps the validator's review warning from repeating. When a message refers to a spiritual Law without naming it, that Law may also be added as a secondary subject, with the curator's approval.
 
 ### Spirit Names in Keywords
 

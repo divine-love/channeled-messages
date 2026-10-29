@@ -1,0 +1,56 @@
+# law-mentions-reviewed.yml
+# Messages that name a spiritual Law in a general sense only, reviewed and
+# deliberately not tagged with that Law's subject.
+#
+# The rule (schema.md, Subjects): tag a Law when the message uses it as a
+# working Law, named alongside other Laws as one that operates, or described
+# doing what its definition in subjects.yml says. A general phrase such as
+# "in harmony with God's laws of Love" does not count.
+#
+# validate_messages.py warns when a message body names a Law whose subject is
+# not tagged, whose phrase is not in keywords, and which is not listed here.
+# A warning never fails the build. To clear one, either tag the subject or add
+# the message_id under the Law's subject name below.
+#
+# First reviewed: 2026-10-29.
+
+"Law of Love":
+  - 2015-03-23-af-john-the-beloved
+  - 2015-03-27-af-andrew
+  - 2015-05-27-af-confucius
+  - 2015-06-12-af-alec-gaunt
+  - 2015-06-15-af-faith-nyquist
+  - 2015-06-15-af-joseph-smith
+  - 2015-06-29-af-confucius
+  - 2015-07-25-af-andrew
+  - 2015-08-03-af-augustine
+  - 2015-09-14-af-keea-atta-kem
+  - 2015-11-23-af-professor-salyards
+  - 2015-11-28-af-seretta-kem
+  - 2015-12-01-af-augustine
+  - 2016-01-23-af-augustine
+  - 2016-02-02-af-jesus
+  - 2016-04-14-af-john-the-beloved
+  - 2016-05-11-af-james-padgett
+  - 2016-06-13-af-james
+  - 2017-06-15-af-augustine
+  - 2017-09-12-af-martin-luther
+  - 2018-05-12-af-luke
+  - 2018-07-22-af-seretta-kem
+  - 2018-10-25-af-augustine
+  - 2018-11-21-af-yogananda
+  - 2018-11-22-af-yogananda
+  - 2018-11-29-af-augustine
+
+"Laws of Creation":
+  - 2015-06-29-af-confucius
+  - 2015-09-21-af-andrew
+  - 2015-10-12-af-augustine
+  - 2015-11-02-af-seretta-kem
+  - 2016-03-27-af-seretta-kem
+  - 2017-03-27-af-james
+  - 2017-09-12-af-martin-luther
+  - 2018-08-28-af-seretta-kem
+  - 2018-10-08-af-andrew
+  - 2018-11-18-mc-mary
+  - 2018-12-17-af-augustine
