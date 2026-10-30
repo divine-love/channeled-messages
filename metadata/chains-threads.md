@@ -1523,7 +1523,9 @@ message_ids already carry the dates.
   2016-11-27-af-james-reid titles the claim and adds a shared frame, that
   knowing your souls is what a circle gathers to do and helps one another do,
   "This is your focus; this is why you come together... truly come to know
-  your souls."
+  your souls"; 2016-12-21-af-jesus gives the two knowings together as the
+  soul grows, "you will come to truly know yourselves and come to know how
+  God loves you."
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth and ends in the two minds integrating; this one asks what must be
   known first, and its move is sequence rather than comparison. The Foundation
@@ -2725,7 +2727,9 @@ message_ids already carry the dates.
   and we are very close... yet it may be a difficult sensation to feel us."
   Witnesses. 2016-05-16-af-keea-atta-kem, the completion described;
   2016-10-19-af-augustine, the universality premise in passing;
-  2016-11-21-af-confucius, the healing described from the gentle side.
+  2016-11-21-af-confucius, the healing described from the gentle side;
+  2016-12-21-af-jesus, the change made permanent, "change you forever and
+  bring to you the great liberation from your pain and darkness."
   Structural note: the members mostly describe the process and its pain.
   2016-05-16-af-keea-atta-kem describes the completion, "all that is not in
   harmony with God's Love will fall away from you and your souls are redeemed
@@ -3584,7 +3588,8 @@ only stating it.
   you will have all the support from the angels"; 2016-12-12-af-augustine,
   "You are never alone, beloveds, and we will never leave you";
   2016-12-21-af-alec-gaunt, "You will not be abandoned by us, not ever";
-  2017-05-11-af-jesus, "we, the angels of Heaven, will
+  2016-12-21-af-jesus, "God will send His angels to be with you, to support
+  you, to work through you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
   shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will
@@ -3661,7 +3666,8 @@ only stating it.
   turn back"; 2016-03-12-af-john-the-beloved, "There is no turning back for
   any of you"; 2016-03-31-af-judas, "you cannot turn back on this path, you
   only can move forward"; 2016-12-01-af-john-the-beloved, "There will be no
-  turning back to the darkness for any of you"; and 2017-01-02-af-jesus,
+  turning back to the darkness for any of you"; 2016-12-21-af-jesus, the
+  Essence that will "change you forever"; and 2017-01-02-af-jesus,
   "There is no turning back my beloveds." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
@@ -3817,7 +3823,10 @@ Recurring observations recorded but not penned as candidate threads.
   fence between those two recorded in Open questions: it is a third direction,
   belonging to neither. The same message draws the fence against `portals` in
   its own terms: portals attach to places and are conferred, while this
-  network joins people and is joined by praying. A decision is wanted at build
+  network joins people and is joined by praying. 2016-12-21-af-jesus adds a
+  direction between the members, the blessing of those who travelled reaching
+  those who stayed, "for when you step forward, you all step forward, my
+  beloveds. There is no distance between you." A decision is wanted at build
   time on whether the lattice becomes a thread or stays a layer.
 
 ---
