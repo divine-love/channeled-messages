@@ -340,7 +340,8 @@ message_ids already carry the dates.
   2016-04-12-af-moses, 2016-09-06-af-joseph, 2016-10-17-af-keea-atta-kem,
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
   2016-11-28-af-seretta-kem, 2016-12-02-af-augustine,
-  2016-12-02-af-white-cloud, 2019-01-21-af-augustine.
+  2016-12-02-af-white-cloud, 2016-12-28-af-alec-gaunt,
+  2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while
   2016-08-02-af-augustine grounds the toll in active expression, "It matters
@@ -1204,6 +1205,11 @@ message_ids already carry the dates.
   review this gift of inspiration." The seeker returns to prayer, "ask for
   confirmation of this guidance," and guidance acted on that turns out poorly
   is not failure, "You are guilty of nothing other than trying."
+  2016-12-28-af-alec-gaunt fits the form of the guidance to each soul's
+  gifts, "For some, it may be a thought that arises in your mind, a feeling to
+  do something," and "for others, you may have detailed visions, powerful
+  understandings, strong impressions," with the honour step and its reason,
+  "Be aware that God is trying to get through to your conscious self."
   Witnesses. 2016-09-02-af-confucius carries the instruction to act, "Listen
   to the desire of your soul. Listen to that truth that beats within you, each
   one of you, and be compelled to act upon that which is within you," in a
@@ -1226,10 +1232,15 @@ message_ids already carry the dates.
   What is awaited. A message that develops the growth claim, that the inkling
   grows as Love nurtures it, rather than restating the prompting. Both
   witnesses restate; neither develops. 2016-12-12-af-augustine has growth on
-  the receiving side instead, the soul clearing until the Will is plain, which
-  is a different claim.
+  the receiving side instead, the soul clearing until the Will is plain, and
+  2016-12-28-af-alec-gaunt has the faculties that receive it strengthened by
+  use; both are a different claim.
   Structural note: the Foundation had no log entry; one is added at
-  2016-02-02-af-jesus so the log and the roster agree.
+  2016-02-02-af-jesus so the log and the roster agree. Separately, the
+  Foundation has God's Will arrive as a seed of a thought, and
+  2016-12-28-af-alec-gaunt keeps that for some souls while giving others
+  "detailed visions." The two fit if the seed is the usual form rather than
+  the only one. Read together at build.
 
 ### healing-channel
 
@@ -1657,7 +1668,9 @@ message_ids already carry the dates.
   2016-10-26-af-augustine, the soul as the image of God offered as the reason
   the recognition faculty sits there; 2016-11-29-af-andrew, seeing and knowing
   as capacities of the soul once the Love awakens it; 2016-12-02-af-augustine,
-  the soul as where the knowing is, "the key is within your soul"; and
+  the soul as where the knowing is, "the key is within your soul"; 2016-12-28-af-alec-gaunt, the speculation
+  that comes "from the minds of individuals" set against truth discerned
+  "through your connection with God"; and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named. The two held at once:
@@ -2159,7 +2172,9 @@ message_ids already carry the dates.
   at-onement specifically as the qualifying condition, more doctrinally
   precise than the thread's usual framing; 2016-10-15-af-seretta-kem, the
   readying strand of an earth-changes message, carried with the fence;
-  2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
+  2016-12-28-af-alec-gaunt, "for you will be a rock. You will be steady in the
+  storms to come," with awareness of the world asked for alongside the gaze
+  on God; 2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
   "As you hold on to one another as the winds blow, so you will support and
   save many from the coming changes," with the bonds forged now for later
   need.
@@ -2767,7 +2782,10 @@ message_ids already carry the dates.
   gives the order, the gifts lying "dormant without the Love's influence,"
   then the soul influencing "your thinking and doing and being" as the
   encrustation falls away, and the limit on trusting what is seen, "even in
-  this you see but a reflection of the truth"; 2018-06-18-af-matthew has the
+  this you see but a reflection of the truth"; 2016-12-28-af-alec-gaunt
+  has use itself strengthen them, "as you exercise these faculties of the soul
+  they become stronger and clearer," with the Love as "the great activator
+  within your soul"; 2018-06-18-af-matthew has the
   faculties held open as well as opened, "It is only the Divine Love of God
   that not only awakens this new way, but sustains and develops and brings it
   into fruition"; 2018-10-09-af-seretta-kem brings them into line with
@@ -3574,7 +3592,9 @@ only stating it.
   not necessarily at other times: 2016-05-30-af-augustine, "when you earnestly
   long for the Father's Love and so you bring the angels close";
   2016-10-26-af-augustine, "as you are earnest and pray for this opening of
-  Love"; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
+  Love"; 2016-12-28-af-alec-gaunt, "your angel friends will gather around
+  you, supporting you, being with you in a conscious way," as the seeker
+  prays intensely for the Love; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
   instrument, "you will always be assured that an angel will be with you and
   often speak to you"; 2019-02-18-af-augustine, "God assigns an angel to each
   soul that is earnest in their efforts to receive this gift of Love." Those
@@ -3828,6 +3848,17 @@ Recurring observations recorded but not penned as candidate threads.
   those who stayed, "for when you step forward, you all step forward, my
   beloveds. There is no distance between you." A decision is wanted at build
   time on whether the lattice becomes a thread or stays a layer.
+
+- **Testing the truth against God rather than against other people.**
+  2016-12-28-af-alec-gaunt, "Remember to test the truth. Do not be
+  sidetracked with what another may wish to give to you in the way of
+  guidance or explanation," with the pull toward borrowed authority named,
+  "you are often vulnerable to strong personalities who have great
+  convictions as to what is truth"; 2018-08-06-af-solomon, "must test the
+  truth in their own way"; 2019-01-30-af-jesus, "always test the truth that
+  comes," there for what comes through mediums. It touches
+  `divine-love-mediumship`, which locates verification in the soul, and the
+  cost side of `spiritual-fellowship`, without belonging to either.
 
 ---
 
