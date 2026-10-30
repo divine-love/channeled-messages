@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-10-29
+last_updated: 2026-10-30
 ---
 
 # Browse All Messages
@@ -405,6 +405,9 @@ last_updated: 2026-10-29
 | [Stand Up for Truth](messages/2016/12/2016-12-09-af-martin-luther.md) | [Martin Luther](../spirits/martin-luther.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑09 | The world will not change until someone stands up, with love in one hand and truth in the other. |
 | [Closing Message for a Retreat That Increased Our Bonding](messages/2016/12/2016-12-10-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑10 | The bond does not end when the gathering does. Call your companions to mind and the peace returns. |
 | [Endings and a New Beginning](messages/2016/12/2016-12-10-af-james.md) | [James](../spirits/james.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑10 | Following God's guidance does not cost you the people you love. It brings them along. |
+| [The Will of God](messages/2016/12/2016-12-12-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑12 | God's Will is as clear as the sun. It is the weather down here that clouds it. |
+| [As You Grow Within Your Soul, You Will Be Able to Receive the Changes That Are Coming](messages/2016/12/2016-12-21-af-alec-gaunt.md) | [Alec Gaunt](../spirits/alec-gaunt.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑21 | As the storm draws closer, God grows you faster. |
+| [I Come to Take Your Burdens](messages/2016/12/2016-12-21-af-jesus.md) | [Jesus](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑21 | Christmas was the beginning of the soul's rebirth through Love, and it still is. |
 | [Time to Accept a New Way of Being](messages/2016/12/2016-12-29-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑29 | The reality you have built in your mind is not the only reality. Letting go of it is liberation, not loss |
 | [The Road Is Clear Before You](messages/2017/01/2017-01-02-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑02 | The road is already clear. The only obstructions are the ones you create yourself |
 | [Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually](messages/2017/01/2017-01-16-af-keea-atta-kem.md) | [Keea Atta Kem](../spirits/keea-atta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑16 | Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside |
