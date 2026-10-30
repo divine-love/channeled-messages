@@ -43,6 +43,7 @@ questions:
   - "What does the Bible mean when it says there will be signs in the earth?"
 related_messages:
   - 2015-08-17-af-jesus
+  - 2016-12-21-af-alec-gaunt
   - 2017-09-13-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
@@ -56,7 +57,7 @@ door: >
   You cannot be immune to a world that is answering what you have done to
   it.
 collections: ["Awakening Humanity"]
-last_edited: 2026-08-09
+last_edited: 2026-10-30
 ---
 
 It is Seretta Kem. I see amongst you a great Light and a deep desire to serve God and the beginnings of new awakenings within you as the eyes of your souls begin to open and the awarenesses that come with the soul enlivened with God’s Divine Essence, His Love. And I tell you many deep and powerful insights will come to each one of you as you continue to be affected by the changes that are wrought by this Love, the power of this Love flowing into you. And the power of the force of change that is coming to this world, you witness at this very moment, as a small aspect of the changes that are coming.

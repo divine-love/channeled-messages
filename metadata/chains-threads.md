@@ -798,6 +798,16 @@ message_ids already carry the dates.
   men," and the end a cleansing followed by "a thousand years of peace upon
   this world."
   Elaborations, what the changes are and what causes them.
+  2016-12-21-af-alec-gaunt gives the cause as scale and law together: the
+  world "at a breaking point, as the populations of your world put more and
+  more stress upon this beautiful planet," with the response built into
+  Creation, "there are safeguards in place in the laws of God's creation which
+  prevent the unravelling of the natural world," and the scale named as what
+  changed, "When the world had a small population such actions were absorbed
+  without any great detriment to the planet." The changes come "so that you
+  may adjust and prepare with each onslaught," and what follows is renewed
+  rather than undone, "many of your technologies and accomplishments will
+  remain but how they are used and utilized will change";
   2017-09-13-af-keea-atta-kem gives the manifestation material, magnetic
   shifts, animal disruption, and the closed-system consequences of ignoring
   the Laws of Creation, and sends those carrying Divine Love to scientists,
@@ -840,6 +850,13 @@ message_ids already carry the dates.
   acting on the individual soul; this is the planet. An adjacency holds no
   role here: 2019-01-28-af-augustine on the limits of specific prophecy, whose
   primary home is `preparation-to-be-a-rock`.
+  Structural note: the registry says the changes are a cleansing, not a
+  punishment, and 2016-12-21-af-alec-gaunt words them close to one, "a harsh
+  lesson is coming to the world," with "consequences for those who are
+  resolutely blind and deaf to the truth of Creation." The ground it gives is
+  law, "with each choice comes consequence," and it calls the outcome "a
+  blessing," so the two fit if the lesson is the working of the law rather
+  than a sentence. Read together at build.
 
 ### earth-conditions-and-prayer
 
@@ -2100,6 +2117,14 @@ message_ids already carry the dates.
   you to navigate through a world that will have many difficulties and
   upheavals," the glimpse being of possibilities and of what to do in the
   moment, "It will be clear and obvious what you must do in any given moment";
+  2016-12-21-af-alec-gaunt paces the readying to the changes, "as these coming
+  storms approach, so God accelerates your growth, opens your gifts, prepares
+  you for what is to come," names what is readied as riches already laid in
+  the soul, "This has purpose. This will be called upon," and the cost of the
+  use, "this will not often be in a way that is easy or gratifying to you,"
+  with the rock in an image of its own, "you must remain the pillar of
+  strength, the bearer of truth, the loving channel of God," as the way to
+  care for the loved ones the seeker fears for;
   2017-09-13-af-keea-atta-kem makes the readying God's own
   work, "this is God orchestrating your life, preparing you for what is to
   come," and sends the prepared to scientists, leaders and seekers;
@@ -2764,6 +2789,8 @@ message_ids already carry the dates.
   awareness, this consciousness goes on for all eternity";
   2016-12-12-af-augustine, sensing God's Will, "the faculties that enable you
   to hear and see and understand in a clear way what that will is";
+  2016-12-21-af-alec-gaunt, the perceptions flowering as the Love ignites the
+  gifts, opening "doors of perception, gifts of healing and communication";
   2017-05-11-af-jesus, the awakened soul known by what it does, "a soul
   awakened knows far greater than the greatest minds on your planet";
   2017-08-21-af-matthew, feeling as a faculty of the soul, "a soul can feel
@@ -2971,7 +2998,9 @@ message_ids already carry the dates.
   you must speak truth"; 2016-09-04-af-augustine gives the restraint side, "Do
   not argue with others. Be sure of the Love"; 2016-11-06-af-jesus, "Each of
   you must stand up and be counted, each must speak these truths where the
-  opportunity and God's guiding hand brings you forth in this world."
+  opportunity and God's guiding hand brings you forth in this world";
+  2016-12-21-af-alec-gaunt, the truth told when it is sought, "not to
+  reprimand and judge, but to show the way gently and firmly to God."
   Fences. Against `judgment-to-love`: that thread counsels leaving another's
   honest error uncorrected; this one argues that the truth itself must be
   spoken. 2016-04-12-af-moses draws the line between them, and its exception
@@ -2990,7 +3019,8 @@ message_ids already carry the dates.
   that reconciles them, firm in what is said and gentle in how it is said: the
   Foundation asks for it "in loving ways" and keeps humility, and
   2018-11-05-af-john-wesley gives Jesus' manner as "calm resolution," without
-  anger. Held as a reading to weigh at build, not as settled.
+  anger. 2016-12-21-af-alec-gaunt puts both words in one phrase, "gently and
+  firmly." Held as a reading to weigh at build, not as settled.
 
 ### spiritual-fellowship
 
@@ -3324,7 +3354,9 @@ message_ids already carry the dates.
   named as first-comers, "It is coming to mankind and you are the harbingers";
   2016-05-29-af-aman names the company itself, "You who are attempting to turn
   this tide are brave and blessed warriors who are moving in Light given by
-  God to assist you in your efforts to bring change."
+  God to assist you in your efforts to bring change"; 2016-12-21-af-alec-gaunt,
+  "It is dependent upon you and the few others that God will use to bring
+  this light and truth and change to the world."
   Witness, the regathering. 2016-08-26-af-jesus has God, who "continues to use
   you and bring you together in groupings for specific purposes in the
   world... in ways and means that may seem impossible to you at this time."
@@ -3550,7 +3582,9 @@ only stating it.
   difficult times"; 2016-12-05-af-keea-atta-kem, the support tied to
   commitment, "when you make these efforts and truly focus and are committed
   you will have all the support from the angels"; 2016-12-12-af-augustine,
-  "You are never alone, beloveds, and we will never leave you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
+  "You are never alone, beloveds, and we will never leave you";
+  2016-12-21-af-alec-gaunt, "You will not be abandoned by us, not ever";
+  2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
   shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will
