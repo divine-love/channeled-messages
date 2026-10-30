@@ -43,7 +43,6 @@ questions:
   - "Why are magnetic pole shifts happening and what do they mean?"
   - "Can prayer really make a difference to what is happening in the world?"
 related_messages:
-related_messages:
   - 2015-12-21-af-peter
   - 2016-03-21-af-augustine
   - 2016-09-06-af-mary
@@ -68,7 +67,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   You will be a rock in a world disrupted by change, and the chaos around you will be the very thing that sends people to your door
-last_edited: 2026-10-29
+last_edited: 2026-10-30
 ---
 
 I am Keea Atta Kem. I have come to speak to you of the changes in this world, the changes that have already happened and the changes that are going to happen. At present those changes within the world are not particularly noticed except when they bring some heartache to those people who are directly affected as the weather changes.

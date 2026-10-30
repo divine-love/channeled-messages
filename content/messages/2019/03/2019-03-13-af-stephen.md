@@ -40,7 +40,6 @@ questions:
   - "How do I trust the sense of destiny I feel within me?"
   - "What does the Bible say about God speaking through dreams and visions?"
 related_messages:
-related_messages:
   - 2016-12-08-af-augustine
   - 2017-09-13-af-keea-atta-kem
   - 2019-01-28-af-augustine
@@ -55,7 +54,7 @@ excerpt: >
 door: >
   The dreams you are tempted to dismiss are God preparing you. When the time to act comes, you will already know.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-10-29
+last_edited: 2026-10-30
 ---
 
 God bless you beloved souls. I am Stephen. You know me as St. Stephen of the Bible. There are many changes coming to your world and to your lives. When you have dreams and portents of what is to come, do not dismiss this, beloved souls, but know that God is communicating to you through your soul and that in this communication comes insights, visions, and things that are to come. Though, yes, your mind may interpret these things in certain ways, there is a kernel of truth.
