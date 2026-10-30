@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-18
+last_updated: 2026-10-30
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -396,6 +396,8 @@ message_ids already carry the dates.
   2016-11-29-af-judas, "once you face them you become stronger," with the
   Foundation's failure, turning away from the challenge to love, named
   alongside;
+  2016-12-12-af-augustine, "you have grown stronger with each day, each
+  prayer, each struggle, each triumph";
   2018-07-14-af-seretta-kem names what the hard tests did, "these things have
   carried you forward, strengthened you, built wisdom within you."
   Fences. Against `soul-growth-through-challenges` as a subject rather than a
@@ -871,7 +873,9 @@ message_ids already carry the dates.
   darkness will not beset you and cause you strife. But until that day, you
   are mortal"; 2015-03-29-af-seretta-kem; 2016-09-03-af-james, the generating
   side stated actively, humanity as an ongoing contributor rather than an
-  inheritor; 2016-11-07-af-andrew; 2018-06-18-af-matthew.
+  inheritor; 2016-11-07-af-andrew; 2016-12-12-af-augustine, the field
+  clouding God's guidance, "that clear sky often gets covered again by the
+  human condition"; 2018-06-18-af-matthew.
   Structural note: the remedy wording is under pressure from three
   directions, none of them a prayer practice. The registry line says daily
   prayer neutralizes the conditions, but 2016-08-27-af-brother-mandus widens
@@ -1063,7 +1067,9 @@ message_ids already carry the dates.
   2016-10-15-af-confucius, "though within your minds you do not see the
   plan"; 2016-10-19-af-goldie, the plan asserted at the level of the
   individual; 2016-11-29-af-care, letting God plan rather than planning for
-  Him; 2018-11-29-af-abdullah-latif, the limit on intercession.
+  Him; 2016-12-12-af-augustine, "God's Will cannot always be enacted in the
+  world in a pure and unadulterated way," with the human condition as the
+  cause; 2018-11-29-af-abdullah-latif, the limit on intercession.
   Structural note: the Foundation section holds more than one role from the
   same message, which the revised section structure allows, and
   2015-03-24-af-augustine is the anchor as the message that states the premise
@@ -1173,6 +1179,14 @@ message_ids already carry the dates.
   seed," and the soul is to "listen, to grasp, to honor" it and "act upon this
   in loving faith." The whole argument stands in this one message, which is
   why it anchors on its own.
+  Elaborations. 2016-12-12-af-augustine gives why guidance comes unclear and
+  what the soul does then, in a sun image where the Foundation has a seed: the
+  Will "obscured by the clouds of the human condition," with clearings that
+  bring "inspiration, even revelation," then reworked by the mind, "Whatever
+  God has guided you to do often gets distorted by your minds as you think and
+  review this gift of inspiration." The seeker returns to prayer, "ask for
+  confirmation of this guidance," and guidance acted on that turns out poorly
+  is not failure, "You are guilty of nothing other than trying."
   Witnesses. 2016-09-02-af-confucius carries the instruction to act, "Listen
   to the desire of your soul. Listen to that truth that beats within you, each
   one of you, and be compelled to act upon that which is within you," in a
@@ -1188,10 +1202,15 @@ message_ids already carry the dates.
   crosses from spirit into a mortal mind; this concerns how God's own guidance
   surfaces inside a soul. 2016-07-04-af-jesus was checked against this thread
   and is not a match on that boundary, guidance there arriving through a human
-  instrument rather than inwardly.
+  instrument rather than inwardly. Against `earth-conditions-and-prayer`:
+  that thread is the field pressing on every soul; this one is the guidance
+  the field obscures. 2016-12-12-af-augustine is an Elaboration here and a
+  witness there.
   What is awaited. A message that develops the growth claim, that the inkling
   grows as Love nurtures it, rather than restating the prompting. Both
-  witnesses restate; neither develops.
+  witnesses restate; neither develops. 2016-12-12-af-augustine has growth on
+  the receiving side instead, the soul clearing until the Will is plain, which
+  is a different claim.
   Structural note: the Foundation had no log entry; one is added at
   2016-02-02-af-jesus so the log and the roster agree.
 
@@ -1602,12 +1621,14 @@ message_ids already carry the dates.
   missing dimension; 2016-07-11-af-confucius, the durability claim;
   2016-10-16-af-augustine, the provenance of the mind's contents traced to
   other people's ideas arriving through education, with the consequence that
-  inaccurate perception yields inaccurate choice; and
+  inaccurate perception yields inaccurate choice;
   2016-12-05-af-keea-atta-kem, the same provenance ending in "mirror
   reflections and shadows of truth," with the mind also given its place,
   "God gave you a material mind in order to have the capacity to understand
   material things," which bears on the structural note on the two pictures
-  of the mind. Governance:
+  of the mind; and 2016-12-12-af-augustine, guidance reworked by the mind
+  that reviews it, "You filter the information, make it anew at times."
+  Governance:
   2016-03-30-af-augustine, humility as the willful side yielding to the soul;
   2016-10-24-af-confucius, the agency axis restated; 2016-12-05-af-augustine,
   the soul taking "ascendency over your mind" and the mind beginning "to
@@ -2741,6 +2762,8 @@ message_ids already carry the dates.
   snowflake, and the whole a kaleidoscope whose progression "is infinite."
   Witnesses. 2015-10-12-af-augustine, the expansion without end, "This
   awareness, this consciousness goes on for all eternity";
+  2016-12-12-af-augustine, sensing God's Will, "the faculties that enable you
+  to hear and see and understand in a clear way what that will is";
   2017-05-11-af-jesus, the awakened soul known by what it does, "a soul
   awakened knows far greater than the greatest minds on your planet";
   2017-08-21-af-matthew, feeling as a faculty of the soul, "a soul can feel
@@ -3526,7 +3549,8 @@ only stating it.
   and serve you in love will continue to support and carry you through the
   difficult times"; 2016-12-05-af-keea-atta-kem, the support tied to
   commitment, "when you make these efforts and truly focus and are committed
-  you will have all the support from the angels"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
+  you will have all the support from the angels"; 2016-12-12-af-augustine,
+  "You are never alone, beloveds, and we will never leave you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
   shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will
@@ -3574,7 +3598,9 @@ only stating it.
   alignment against turning away. Fenced from `free-will-and-gods-plan`, which
   asks whether the two wills conflict rather than presenting them as a choice
   a soul makes. The subject "Two Choices for Humanity" is its search-level
-  home meanwhile. Mint when another message states the choice in these terms.
+  home meanwhile. 2016-12-12-af-augustine sets the two side by side as light
+  and the clouds that diffuse it, not as a choice, so it is not the minting
+  case. Mint when another message states the choice in these terms.
 - `love-retained-in-the-channel`, a portion of the love that passes through a
   serving channel is retained and accumulates, so serving others is also how
   the servant grows. Seen: 2015-03-29-af-mary, in a general form ("As you give

@@ -40,9 +40,10 @@ questions:
   - "How do I know my soul's purpose?"
   - "Can I truly know God's Will for me?"
 related_messages:
-  - 2015-12-07-af-augustine
-  - 2015-09-27-af-augustine
   - 2015-08-03-af-augustine
+  - 2015-09-27-af-augustine
+  - 2015-12-07-af-augustine
+  - 2016-12-12-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
 notes: >
@@ -57,7 +58,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You cannot know God's Will from your mind. You can only know it from your soul
-last_edited: 2026-10-29
+last_edited: 2026-10-30
 ---
 
 God bless you beloveds, it is your teacher Augustine.
