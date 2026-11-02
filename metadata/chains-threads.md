@@ -347,7 +347,8 @@ message_ids already carry the dates.
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
   2016-11-28-af-seretta-kem, 2016-12-02-af-augustine,
   2016-12-02-af-white-cloud, 2016-12-28-af-alec-gaunt,
-  2017-01-02-af-seretta-kem, 2019-01-21-af-augustine.
+  2017-01-02-af-seretta-kem, 2017-02-15-af-confucius,
+  2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while
   2016-08-02-af-augustine grounds the toll in active expression, "It matters
@@ -1903,7 +1904,8 @@ message_ids already carry the dates.
   plainly and cleared completely, which is what the role requires.
   Witnesses, the term in loose use. 2016-03-25-af-augustine, the word in
   the circle's prayer, informal and metaphorical; 2016-05-09-af-seretta-kem,
-  2016-11-27-af-confucius and 2017-01-02-af-seretta-kem describe a praying
+  2016-11-27-af-confucius, 2017-01-02-af-seretta-kem and
+  2017-02-15-af-confucius describe a praying
   circle as forming a portal, the last a portal "built from your efforts"
   that brings "a powerful wave of healing and many angels who are healers,"
   which sits against the Foundation's "You cannot build a Portal of Light" and
@@ -1924,6 +1926,8 @@ message_ids already carry the dates.
   formation law for Circles of Light in two sentences, "They form in
   accordance to God's Will and the desire of others who are drawn," which
   stands next to the conferral law without being covered by it.
+  2017-02-15-af-confucius gives another, the Law of Attraction between the
+  light in souls, "that light within your souls draws other souls."
   2016-09-10-af-andrew is an explicit negative with the distinction stated,
   that portals attach to places and are conferred whereas a network of Light
   joins people and is joined by praying.
@@ -3203,7 +3207,10 @@ message_ids already carry the dates.
   forever bonded in this Love for you are each touched deeply in this way";
   2017-02-12-af-augustine, a gathering held by the felt blessing across
   difference of understanding, "They come together because they feel the
-  blessings of God's Love together. This is what is important."
+  blessings of God's Love together. This is what is important";
+  2017-02-15-af-confucius, the gathering formed by the Law of Attraction
+  between soul lights, "what is within the mind has very little bearing upon
+  this great Law of Attraction."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the
