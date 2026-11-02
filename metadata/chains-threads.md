@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-11-01
+last_updated: 2026-11-02
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -1338,7 +1338,11 @@ message_ids already carry the dates.
   blessing of Divine Love is an incremental thing. Each step brings you closer
   to God, every dollop of this Love brings greater light to your soul," then
   the turn, "when the awareness of this Love enters your being... then you
-  begin the journey"; 2019-01-28-af-matthew-2 develops the why from the human
+  begin the journey"; 2017-02-12-af-augustine gives the oscillation a
+  direction, the swing between the soul's security and the mind's "confusion
+  and eagerness to know" narrowing over time, "the pendulum will swing less
+  and less until you are indeed firmly with your soul perceptions,
+  understanding and knowing"; 2019-01-28-af-matthew-2 develops the why from the human
   side, the most tenacious soul conditions "stick to you with such tenacity"
   and require equal force of yearning to break, so the seeker chooses between
   the purposeful intense gaze into the dark chambers now and the drop-by-drop
@@ -1719,7 +1723,9 @@ message_ids already carry the dates.
   2016-09-09-af-andrew, the material mind as where the vestiges persist after
   the soul has changed; 2017-01-23-af-alec-gaunt, the soul "already at that
   point of awareness, knowing God's Will" while the mind's conditions "stand
-  in the way"; 2018-05-12-af-luke, a candidate for promotion, which
+  in the way"; 2017-02-12-af-augustine, the steadiness of the soul "anchored
+  with God" passed over for "your own thinking and imagination";
+  2018-05-12-af-luke, a candidate for promotion, which
   runs the counterfeit the other way, the soul healed while the mind still
   remembers; and 2018-06-26-af-matthew, the same asymmetry, "because of the
   well-worn patterns of the mind, these conditions continue to be active."
@@ -3194,7 +3200,10 @@ message_ids already carry the dates.
   the gathering as what holds the awakening in place, "you come together
   because your souls draw you together to reinforce this new awakening";
   2017-01-02-af-jesus, the bond as a shared experience of the Love, "you are
-  forever bonded in this Love for you are each touched deeply in this way."
+  forever bonded in this Love for you are each touched deeply in this way";
+  2017-02-12-af-augustine, a gathering held by the felt blessing across
+  difference of understanding, "They come together because they feel the
+  blessings of God's Love together. This is what is important."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the
@@ -3442,7 +3451,9 @@ message_ids already carry the dates.
   you with all the loving souls," which is what Jesus said in
   2016-01-08-af-jesus; 2016-12-01-af-john-the-beloved, "the doors will open
   and you will find your way as disciples of the Master," for souls "destined
-  to be lights in the world";
+  to be lights in the world"; 2017-02-12-af-augustine, travel to knit the
+  network, "God has entrusted you with this job, this role," and "to travel
+  in order to forge those connections";
   2018-06-18-af-matthew carries the vanguard title as its door, "You are the
   vanguards seeking to move forward... into a new dawn of Love and Truth that
   God intends for this world," with the circle cast as explorers rather than
@@ -3946,8 +3957,15 @@ Recurring observations recorded but not penned as candidate threads.
   network joins people and is joined by praying. 2016-12-21-af-jesus adds a
   direction between the members, the blessing of those who travelled reaching
   those who stayed, "for when you step forward, you all step forward, my
-  beloveds. There is no distance between you." A decision is wanted at build
-  time on whether the lattice becomes a thread or stays a layer.
+  beloveds. There is no distance between you." 2017-02-12-af-augustine gives
+  the mechanism strand by strand: a strand formed by "this love, this
+  connection, this soul recognition" between two people, reinforced by
+  sitting together and by praying for the other "wherever they be in the
+  world," energized by God, and joined into "a lattice that will encompass the
+  world," which "will change the conditions of this world." That is the
+  outward direction as well, which bears on the same fence. A decision is
+  wanted at build time on whether the lattice becomes a thread or stays a
+  layer.
 
 - **Testing the truth against God rather than against other people.**
   2016-12-28-af-alec-gaunt, "Remember to test the truth. Do not be
