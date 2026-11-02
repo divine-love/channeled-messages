@@ -261,6 +261,9 @@ message_ids already carry the dates.
   2017-01-30-af-augustine has the armour as protectiveness "that keeps them
   safe," with the Love entering while it is still worn, "God must find a crack
   in your armor, a place where His Love can flow and reach your soul."
+  2017-03-27-af-james gives the exchange in words to one man, "you are
+  shedding those old ways and soon you will see clearly the new ways that
+  will dawn as new garments upon you."
   Fences. Against `fear-of-full-immersion`, which is the fence that resolves
   the scope question raised four times: that thread argues why a soul will not
   go all the way into the Love and what it believes it will lose, and it keeps
@@ -1121,6 +1124,9 @@ message_ids already carry the dates.
   world in a pure and unadulterated way," with the human condition as the
   cause; 2017-01-15-af-peter, the world made by the sum of human choices,
   "You are able to choose, to make of this world what you will";
+  2017-03-27-af-james, the seeker's own will set against "the will of all
+  humanity which has built a great wave of energy, direction and purpose that
+  is not of God but of man";
   2018-11-29-af-abdullah-latif, the limit on intercession.
   Structural note: the Foundation section holds more than one role from the
   same message, which the revised section structure allows, and
@@ -1393,7 +1399,9 @@ message_ids already carry the dates.
   inch your way forward"; 2017-01-11-af-luke, "This is an incremental
   unfolding and opening of the channel of God's Love within you";
   2017-01-23-af-alec-gaunt, "Each new awareness, though ever so faint, is a
-  jewel," with one day "different from the next";
+  jewel," with one day "different from the next"; 2017-03-27-af-james, "at
+  times it is a struggle and at times it is a joy, but you are always moving
+  forward";
   2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
   very subtle indeed," and denies the process any shortcut;
@@ -1669,6 +1677,10 @@ message_ids already carry the dates.
   holding opposite conditions at the same time. The same asymmetry from
   opposite ends; they belong adjacent at build.
   Toward integration, which leads into the Chrysalis section.
+  2017-03-27-af-james, the confusion of the transition read as the
+  integration under way, "a sense of disconnection, of worry for your own
+  future, a confusion regarding your priorities... This is all part of the
+  transition of your soulful light infusing your beautiful minds";
   2018-10-09-af-seretta-kem, the reversal, the newly awakened soul as the
   weaker party needing the mind's accumulated strength;
   2019-03-03-mc-keea-atta-kem, befriending the mind rather than subduing it;
@@ -3490,7 +3502,8 @@ message_ids already carry the dates.
   and you will find your way as disciples of the Master," for souls "destined
   to be lights in the world"; 2017-02-12-af-augustine, travel to knit the
   network, "God has entrusted you with this job, this role," and "to travel
-  in order to forge those connections";
+  in order to forge those connections"; 2017-03-27-af-james, "you are at the
+  front of this line, this wave of change, and this is not easy";
   2018-06-18-af-matthew carries the vanguard title as its door, "You are the
   vanguards seeking to move forward... into a new dawn of Love and Truth that
   God intends for this world," with the circle cast as explorers rather than
@@ -3546,7 +3559,9 @@ message_ids already carry the dates.
   2016-12-05-af-augustine. If they are three claims the last is promotable; if
   one, it stays a witness. 2017-01-16-af-keea-atta-kem restates the circle
   step and softens it rather than carrying it further: the cocoon is not
-  wrong, and leaving it is a matter of times.
+  wrong, and leaving it is a matter of times. 2017-03-27-af-james restates
+  the plans step, "When those well laid plans that you make do not come to
+  fruition," without carrying it further.
   Structural note: 2016-01-08-af-jesus also carries a `healing-channel`
   witness for its "great channel of service."
 
@@ -3858,7 +3873,8 @@ only stating it.
   "There is no turning back, my beloveds"; and 2017-01-30-af-augustine,
   "Once you have tasted these Living Waters... you will not turn away";
   2017-02-23-af-andrew, the Light placed in the soul "Never to be
-  diminished." Fenced from `incremental-journey`,
+  diminished"; 2017-03-27-af-james, "This is inevitable upon your path for
+  you have already chosen." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
   reached a certain measure. Mint when a message states the threshold: that a

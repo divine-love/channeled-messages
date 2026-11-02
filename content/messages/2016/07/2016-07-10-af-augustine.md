@@ -52,6 +52,7 @@ related_messages:
   - 2016-07-09-af-confucius
   - 2016-08-25-af-matthew
   - 2017-01-23-af-alec-gaunt
+  - 2017-03-27-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/nurturing-the-mind-or-the-soul-its-a-choice/"
 notes: >
@@ -65,7 +66,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   The yearning itself is the prayer, and the crack in the armor of the mind is where God enters
-last_edited: 2026-11-01
+last_edited: 2026-11-02
 ---
 
 Your teacher Augustine is with you.
