@@ -910,7 +910,10 @@ message_ids already carry the dates.
   human condition"; 2017-01-16-af-keea-atta-kem, the field met on going out,
   "You cannot go out your door and be immune to these conditions and energies
   completely," neutralised with prayer, in the thread's weather image, "these
-  clouds will move on and the sun returns"; 2018-06-18-af-matthew.
+  clouds will move on and the sun returns"; 2017-03-09-af-aekarius, outside
+  conditions "changed or neutralized by the power of the Light within you,"
+  with another's condition reaching the seeker only "if you allow this";
+  2018-06-18-af-matthew.
   Structural note: the remedy wording is under pressure from three
   directions, none of them a prayer practice. The registry line says daily
   prayer neutralizes the conditions, but 2016-08-27-af-brother-mandus widens
@@ -1723,7 +1726,8 @@ message_ids already carry the dates.
   as capacities of the soul once the Love awakens it; 2016-12-02-af-augustine,
   the soul as where the knowing is, "the key is within your soul"; 2016-12-28-af-alec-gaunt, the speculation
   that comes "from the minds of individuals" set against truth discerned
-  "through your connection with God"; and
+  "through your connection with God"; 2017-03-09-af-aekarius, "a desire to
+  know not from the mind, but from the soul"; and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named. The two held at once:
@@ -2519,7 +2523,12 @@ message_ids already carry the dates.
   received while he held power in the church, and the higher road refused out
   of ambition and fear, "I did not listen to God, I listened to my own mind
   and desire and fears, my own humanity," which is the registry's third step
-  seen from inside the man. 2018-11-05-af-john-wesley on the limitations of
+  seen from inside the man. 2017-03-09-af-aekarius takes the testimony past
+  Christianity to a tradition older than it, an astrologer of Phoenicia on
+  the system his people built "for we did not have a clear understanding of
+  the Creator at that time," with idols and "many names" for God, now "put
+  aside" for the truth that "comes with the awakened soul."
+  2018-11-05-af-john-wesley on the limitations of
   his earthly ministry and institutional Christianity's failure to teach the
   higher truth.
   2019-01-31-af-yogananda extends the arc beyond Christianity, on
@@ -3040,6 +3049,8 @@ message_ids already carry the dates.
   2017-01-02-af-seretta-kem, the purpose "which God has implanted within your
   souls," come to know by exploring and prayer, "Continue to explore this and
   pray about this and come to know your purpose."
+  2017-03-09-af-aekarius, the purpose brought in at birth, "the young soul
+  brings in a sort of identity and a condition, and a purpose."
   2019-01-30-af-seretta-kem, the
   purpose as a commitment made before birth that the soul still knows, "your
   commitment in this regard was made before you came to Earth... and that your
