@@ -3820,6 +3820,24 @@ only stating it.
   (what makes the channel clear): this is what stays behind in the channel.
   Mint when a message develops the retention mechanism rather than asserting
   the reciprocity.
+- `love-the-greatest-influence`, many influences act on a person, and the
+  Divine Love, once received, becomes the greatest of them. The planets, the
+  Earth's emanations, other people's thoughts and intentions, parents,
+  experience and spirit all bear on a life and on the forming of a
+  personality, most of them subtly; once the soul opens to the Love it
+  becomes "the greatest influence upon your life," and outside influences are
+  "changed or neutralized by the power of the Light within you." Seen:
+  2017-03-09-af-aekarius, which ranks the influences, "The effects of the
+  planets and the stars play a very minor role in this," against "It is Love
+  that is the great influence, far greater than anything else."
+  2017-01-16-af-keea-atta-kem, "With the blessing of God's Love, you have a
+  great deal of immunity and protections from these conditions," points the
+  same way but stays on protection. Fenced from `earth-conditions-and-prayer`,
+  which is the world's darkness-field met by prayer, and from
+  `sensitive-souls-redemptive`, whose step on the Love as protection is about
+  the sensitive soul's safety; this candidate is about which influence shapes
+  a life. Mint when a message develops the ranking of influences rather than
+  promising protection.  
 - `no-turning-back`, once a soul has received enough Divine Love on the Divine
   Love path it can no longer fall back into darkness, while a soul without
   Divine Love can fall from however high its natural love has carried it. The
