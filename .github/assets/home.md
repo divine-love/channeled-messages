@@ -17,8 +17,7 @@ out, but as a living, loving Presence, and in that same light we come to know
 our true selves, perhaps for the very first time. Step by step, the road leads
 home, to at-onement with our Heavenly Father.
 
-The messages gathered here are an invitation to begin. They come from spirits
-who once walked this earth. They speak of God, of the soul, of prayer and
+The messages gathered here are an invitation to begin. They speak of God, of the soul, of prayer and
 healing, of truth and error, of faith and service, and of love. This archive
 holds {messages} messages, each catalogued so that it may be found by the
 seeker, the teacher, the minister, the historian, the translator, and anyone
@@ -26,7 +25,7 @@ whose soul is searching for something more. They are best read slowly, the
 way one reads a letter from someone who loves you.
 
 Most of these messages have come through @medium[Al Fike], a spiritual
-teacher, author, and ordained minister with the Foundation Church of Divine
+teacher, prophet, author, and ordained minister with the Foundation Church of Divine
 Truth, and co-founder of the Divine Love Sanctuary Foundation. Al has given
 his life to this work. Others have received messages as well, and that circle
 continues to widen. You can learn more at
@@ -98,7 +97,7 @@ is known of their lives in their own words. Everything on those pages is drawn
 from the messages themselves, not from history books, so where the record is
 silent, the page keeps that silence too.
 
-**Mediums** does the same for those who have received the messages, beginning
+**Mediums** does the same for the Divine Love mediums who have received the messages, beginning
 with @medium[Al Fike].
 
 **Subjects** allows a single theme to be traced across the years and through
@@ -147,7 +146,7 @@ you. They surprised me.
 
 ## Praying together
 
-The Divine Love prayer circles are the living, beating heart of all this.
+Divine Love prayer circles are the living, beating heart of all this.
 Souls gather in prayer, asking for the inflowing of God's Love, and that is
 very nearly the whole of it. The circles are open to anyone, and nothing need
 be prepared beforehand except the longing itself, which you almost certainly
