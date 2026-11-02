@@ -1904,8 +1904,8 @@ message_ids already carry the dates.
   plainly and cleared completely, which is what the role requires.
   Witnesses, the term in loose use. 2016-03-25-af-augustine, the word in
   the circle's prayer, informal and metaphorical; 2016-05-09-af-seretta-kem,
-  2016-11-27-af-confucius, 2017-01-02-af-seretta-kem and
-  2017-02-15-af-confucius describe a praying
+  2016-11-27-af-confucius, 2017-01-02-af-seretta-kem,
+  2017-02-15-af-confucius and 2017-02-23-af-andrew describe a praying
   circle as forming a portal, the last a portal "built from your efforts"
   that brings "a powerful wave of healing and many angels who are healers,"
   which sits against the Foundation's "You cannot build a Portal of Light" and
@@ -2021,7 +2021,10 @@ message_ids already carry the dates.
   "From each one of you a great network of light extends out to those you
   love," multiplied "exponentially" when the circle gathers, and sees the same
   spirit company at the circle, the ancestors of those prayed for "observing
-  and being taught the way of God's Love"; 2019-02-06-af-francis-of-assisi
+  and being taught the way of God's Love"; 2017-02-23-af-andrew has the
+  circle as the means by which God answers others' prayers, "You... have been
+  used by God to answer prayer," the souls touched being "those who are
+  connected to you," in this world and in spirit; 2019-02-06-af-francis-of-assisi
   states the argument strongly
   without developing it, "Prayer can change conditions.
   Prayer can change the behavior of those who violate and are in ignorance and
@@ -2829,7 +2832,9 @@ message_ids already carry the dates.
   2016-10-19-af-augustine, the universality premise in passing;
   2016-11-21-af-confucius, the healing described from the gentle side;
   2016-12-21-af-jesus, the change made permanent, "change you forever and
-  bring to you the great liberation from your pain and darkness."
+  bring to you the great liberation from your pain and darkness";
+  2017-02-23-af-andrew, the change of nature done "in a way that cannot be
+  done by mere effort of the mind."
   Structural note: the members mostly describe the process and its pain.
   2016-05-16-af-keea-atta-kem describes the completion, "all that is not in
   harmony with God's Love will fall away from you and your souls are redeemed
@@ -3783,7 +3788,9 @@ only stating it.
   Love so shall you receive Love"), and 2016-08-26-af-brother-mandus, the
   developed statement: "As you allow that love to flow, so a part of that love
   is retained within you, accumulating within your soul, bringing
-  enlightenment, true knowledge and understanding." Fenced from
+  enlightenment, true knowledge and understanding." 2017-02-23-af-andrew
+  asserts the reciprocity, "You receive as you give. You are loved as you
+  love," without the retention. Fenced from
   `bell-toll-instrumentality` (what radiates outward) and `healing-channel`
   (what makes the channel clear): this is what stays behind in the channel.
   Mint when a message develops the retention mechanism rather than asserting
@@ -3806,7 +3813,9 @@ only stating it.
   turning back to the darkness for any of you"; 2016-12-21-af-jesus, the
   Essence that will "change you forever"; 2017-01-02-af-jesus,
   "There is no turning back, my beloveds"; and 2017-01-30-af-augustine,
-  "Once you have tasted these Living Waters... you will not turn away." Fenced from `incremental-journey`,
+  "Once you have tasted these Living Waters... you will not turn away";
+  2017-02-23-af-andrew, the Light placed in the soul "Never to be
+  diminished." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
   reached a certain measure. Mint when a message states the threshold: that a
@@ -3903,7 +3912,9 @@ only stating it.
   differs in kind: it offers the endlessness as a reward rather than reporting
   it as a fact, and suggests what the argument would sound like. Mint only
   when a message argues the inexhaustibility itself, for instance by drawing
-  the consequence that at-onement has no end point.
+  the consequence that at-onement has no end point. 2017-02-23-af-andrew,
+  "Always to become brighter and more beautiful as you progress towards
+  at-onement to God," asserts it in the same way.
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the

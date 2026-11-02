@@ -42,6 +42,7 @@ related_messages:
   - 2016-03-27-af-seretta-kem
   - 2016-11-27-af-confucius
   - 2017-01-02-af-seretta-kem
+  - 2017-02-23-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -53,7 +54,7 @@ door: >
   A handful of people praying together is not a small thing. It is a door the
   angels come through.
 collections: ["Awakening Humanity", "Service & Mission"]
-last_edited: 2026-11-01
+last_edited: 2026-11-02
 ---
 
 There is much that we can accomplish with this group as it is if you wish to commit to sitting in circle in prayer, seeking for the highest as you do, for God’s Love and His blessing. And as you do so and are open to the energies, the currents and waves of Light, the blessings that come, we may utilise this group to help others in the world, to even change the conditions of this world, as we do with other groups around the world. And there is much work to be done, beloved souls, as you make these efforts in prayer together and as you connect with others in the world, as you all share your mutual desires for God’s Blessings and to be used as instruments and channels of Light and Love and healing for this world.
