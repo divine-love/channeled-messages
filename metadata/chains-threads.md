@@ -255,6 +255,9 @@ message_ids already carry the dates.
   your old garments and don new garments of light," with its pace left to the
   seeker, "some carry these dilemmas for a very long time while others have
   gladly removed their old cloaks and donned the cloaks of light swiftly."
+  2017-01-23-af-alec-gaunt has the clothing as coping that has outlived its
+  use, "ways of coping with life, patterns of avoiding difficulties," shed
+  rather than exchanged.
   Fences. Against `fear-of-full-immersion`, which is the fence that resolves
   the scope question raised four times: that thread argues why a soul will not
   go all the way into the Love and what it believes it will lose, and it keeps
@@ -956,7 +959,7 @@ message_ids already carry the dates.
   Objection-removed because no contrary belief is cleared; the obstacle is
   re-imaged. This message also holds the Foundation role on
   `armour-of-the-world` and is the hinge between the two threads.
-  Elaboration: 2016-09-04-af-john-the-beloved catches the fear at the point of
+  Elaborations. 2016-09-04-af-john-the-beloved catches the fear at the point of
   turning away and names it as fear of the change itself rather than of any
   particular loss. "Many decide to turn away from this once they feel the
   power and the wonderment and the potential of this great journey of Love.
@@ -966,7 +969,13 @@ message_ids already carry the dates.
   already tasted the gift and retreat because of what it did, which places the
   fear after the first reception rather than before it. The thread treats the
   obstacle as clothing that can be removed; here people put the clothing back
-  on.
+  on. 2017-01-23-af-alec-gaunt takes the identity step and says what is
+  actually held on to, an image rather than a self, "that outward conscious
+  manifestation of who you are is a sort of paper tiger... But it is not truly
+  who you are," with the Foundation's answer given again by the same spirit,
+  "Yet the essence of who you are will not be lost, just changed, enhanced."
+  It names a desire to hold on rather than a fear, and meets the thread's bar
+  through the feared loss.
   Witnesses. 2015-03-27-af-andrew takes the same subject from the other side,
   asking for the thing directly rather than accounting for the obstacle, "Will
   you open yourselves to this in a complete and vulnerable way? Be with God,
@@ -993,7 +1002,9 @@ message_ids already carry the dates.
   this one argues why a soul will not go all the way into the Love, and what
   it believes it will lose by doing so. A message can carry both, as the
   Reframe does.
-  What is awaited. A Chrysalis, which this thread has none of. If a later
+  What is awaited. A Chrysalis, which this thread has none of.
+  2017-01-23-af-alec-gaunt names the end, "that angelic being," as a goal
+  rather than describing it. If a later
   message develops the claim that the unquenchable thirst is itself the good,
   that message is the Chrysalis and 2016-09-09-af-francis-of-assisi becomes
   its witness. Also awaited, a settling of the obstacle question:
@@ -1370,6 +1381,8 @@ message_ids already carry the dates.
   road, "in many cases it is a gradual experience. Bit by bit, you continue to
   inch your way forward"; 2017-01-11-af-luke, "This is an incremental
   unfolding and opening of the channel of God's Love within you";
+  2017-01-23-af-alec-gaunt, "Each new awareness, though ever so faint, is a
+  jewel," with one day "different from the next";
   2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
   very subtle indeed," and denies the process any shortcut;
@@ -1701,7 +1714,9 @@ message_ids already carry the dates.
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named. The two held at once:
   2016-09-09-af-andrew, the material mind as where the vestiges persist after
-  the soul has changed; 2018-05-12-af-luke, a candidate for promotion, which
+  the soul has changed; 2017-01-23-af-alec-gaunt, the soul "already at that
+  point of awareness, knowing God's Will" while the mind's conditions "stand
+  in the way"; 2018-05-12-af-luke, a candidate for promotion, which
   runs the counterfeit the other way, the soul healed while the mind still
   remembers; and 2018-06-26-af-matthew, the same asymmetry, "because of the
   well-worn patterns of the mind, these conditions continue to be active."
@@ -2561,7 +2576,9 @@ message_ids already carry the dates.
   placed before forgiveness of others; 2016-09-11-af-francis-of-assisi, a
   practice against negative thoughts "placed within you," saying to oneself
   "you are worthy, you are loved, and you are beautiful"; 2017-01-11-af-luke,
-  "You must be patient, you must forgive yourselves"; 2018-06-24-af-luke,
+  "You must be patient, you must forgive yourselves"; 2017-01-23-af-alec-gaunt,
+  "Have patience and compassion for yourselves, for each other";
+  2018-06-24-af-luke,
   "you must have compassion for yourselves, beloveds"; 2018-06-26-af-matthew,
   "Stop judging yourselves. Stop condemning yourselves and condemning others."
   Witness, the subject on its own. 2016-03-16-af-seretta-kem, a short message
@@ -2746,7 +2763,11 @@ message_ids already carry the dates.
   so that "At times you do not see yourselves in a favourable light," with
   patience and self-forgiveness as the answer while the Love does the work,
   "you must forgive yourselves and allow the power of God's Love to burn away
-  these impurities";
+  these impurities"; 2017-01-23-af-alec-gaunt has the surfacing met by the
+  seeker's own resistance, the old coping patterns rising "in a form of
+  confrontation as you cling to these old things" and the seeker turning
+  "upon yourself in criticism," with the pain placed in the holding on, "The
+  pain is caused by your desire to hold on to what you see as who you are";
   2018-04-03-af-luke develops the inherited strand
   alone, transmitted parent to child across history; 2018-05-12-af-luke names
   the Law and states its insistence, "The Laws of Compensation which insist
@@ -2962,7 +2983,8 @@ message_ids already carry the dates.
   great Love of God sparks and brings them alive"; 2016-12-02-af-augustine,
   the purpose grasped by quieting the mind to listen to the Will of God, and
   the path walked before it is recognized, "You are already on it and some of
-  you do not realize it"; 2019-04-07-af-augustine has the gifts hidden within
+  you do not realize it"; 2017-01-23-af-alec-gaunt, "As you come closer, what
+  comes next will become clearer"; 2019-04-07-af-augustine has the gifts hidden within
   and blocked from awareness by the mind, which "will become self-evident and
   will grow and grow" as the soul awakens, the registry's own word for the
   step.
@@ -3667,7 +3689,8 @@ only stating it.
   "You are never alone, beloveds, and we will never leave you";
   2016-12-21-af-alec-gaunt, "You will not be abandoned by us, not ever";
   2016-12-21-af-jesus, "God will send His angels to be with you, to support
-  you, to work through you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
+  you, to work through you"; 2017-01-23-af-alec-gaunt, "we are always there
+  my beloveds, always there to be with you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
   shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will

@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Alec Gaunt addresses souls in the midst of deep inner transformation, teaching
@@ -41,28 +41,25 @@ questions:
   - "Can God really change something as fundamental as who I am?"
 related_messages:
   - 2016-06-13-af-james
-  - 2017-01-25-af-alec-gaunt
   - 2016-07-10-af-augustine
-  - 2016-04-13-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/changes-within-soul-will-bring-many-rewards/"
-notes: >
-  Two corrections: 'andwe who assist you' corrected to 'and we who assist you';
-  'you maybe distracted' corrected to 'you may be distracted'.
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >
   That outward conscious manifestation of who you are is a sort of paper tiger.
-  It is a picture of what you have experienced in life. It is not your true self.
+  It's an image brought about by many experiences of what you have been taught,
+  what you have absorbed in your life.
 collections: ["Mind & Soul", "Healing Path"]
 door: >
-  The outward self you cling to is a paper tiger. Your true self, with all its gifts and treasures, is waiting inside your soul
-last_edited: 2026-10-29
+  The outward self you cling to is a paper tiger. Your true self, with all its gifts and treasures, is waiting inside your soul.
+last_edited: 2026-11-01
 ---
 
-Each of you is on the precipice of great change. There is much happening within you that will manifest through you and around you in time and you feel the shifting and the changing energies within yourselves, within your soul. Each of you have spent many hours in prayer, have come together to receive God's Love and have received God's Love in abundance and this brings a result. It brings change within you, a shifting of the very core of your being as has been promised and guided. So your perspective changes and what is important changes - priorities, focus, service. All of these things become illuminated by the Love that is in your souls. These shifts of perception and attitude filter up through your minds and as you are in transition, as you absorb and adjust to these new conditions within you, you often feel discomfort, somewhat challenged and maybe confused, but I tell you my friends, you will reach a higher level of understanding and perception and gifts will flow from this in powerful and beautiful ways.
+Each of you is on the precipice of great change. There is much happening within you that will manifest through you and around you in time and you feel the shifting and the changing energies within yourselves, within your soul. Each of you has spent many hours in prayer, have come together to receive God's Love and have received God's Love in abundance and this brings a result. It brings change within you, a shifting of the very core of your being as has been promised and guided. So your perspective changes and what is important changes - priorities, focus, service. All of these things become illuminated by the Love that is in your souls. These shifts of perception and attitude filter up through your minds and as you are in transition, as you absorb and adjust to these new conditions within you, you often feel discomfort, somewhat challenged and maybe confused, but I tell you my friends, you will reach a higher level of understanding and perception and gifts will flow from this in powerful and beautiful ways.
 
-There is nothing to fear here and yet often in these states of stress and adjustment, you tend to turn upon yourself in criticism and unloving ways as those human conditions within you, which are meant to be released, come flaring up within your consciousness and give you grief. This is a pattern with most mortals as old habits and attitudes, thoughts, patterns are confronted. Those things that are not useful anymore within you, ways of coping with life, patterns of avoiding difficulties, self judgment, all these many things within you that are not compatible or harmonious with the Love, rise up into your conscious in a form of confrontation as you cling to these old things. This causes you pain, confusion, discomfort.
+There is nothing to fear here and yet often in these states of stress and adjustment, you tend to turn upon yourself in criticism and unloving ways as those human conditions within you, which are meant to be released, come flaring up within your consciousness and give you grief. This is a pattern with most mortals as old habits and attitudes, thoughts, patterns are confronted. Those things that are not useful anymore within you, ways of coping with life, patterns of avoiding difficulties, self-judgment, all these many things within you that are not compatible or harmonious with the Love, rise up into your consciousness in a form of confrontation as you cling to these old things. This causes you pain, confusion, discomfort.
 
 Change is not easy, changing some of those fundamental things within you, within your consciousness and your beings is very challenging. Yet how much more beautiful, effective and powerful you will be as a channel of God's Love when you release those things that are not a part of this flow? They obstruct, crimp and filter it.
 
