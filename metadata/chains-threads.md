@@ -2030,7 +2030,10 @@ message_ids already carry the dates.
   and being taught the way of God's Love"; 2017-02-23-af-andrew has the
   circle as the means by which God answers others' prayers, "You... have been
   used by God to answer prayer," the souls touched being "those who are
-  connected to you," in this world and in spirit; 2019-02-06-af-francis-of-assisi
+  connected to you," in this world and in spirit; 2017-03-08-af-confucius,
+  the Light flowing out along the circle's own bonds, "All those connected to
+  you are touched by your prayers and efforts together in this Circle of
+  Light"; 2019-02-06-af-francis-of-assisi
   states the argument strongly
   without developing it, "Prayer can change conditions.
   Prayer can change the behavior of those who violate and are in ignorance and

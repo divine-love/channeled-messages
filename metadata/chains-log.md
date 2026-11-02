@@ -1484,6 +1484,10 @@ description or summary, and every quote is checked against the message text.
 - NOTE (witness, `simplicity-of-the-path`): "A simple act, a simple prayer, a willingness to be open, a recognition of your true soul's desire is all that is required."
 - NOTE (context): the prayer given for the circle to say, "Dear God, open my soul to the inflowing of Your Divine Essence. I am willing and I desire to receive this Deep Touch from You and I want to know You. I want to know my true self," is kept as a practice file (content/practices/prayer-2017-03-05-af-luke.md).
 
+### 2017-03-08-af-confucius | Drink Deep of God's Love | 2017-03-08
+- NOTE (witness, `prayer-changes-world-conditions`): the route along the circle's own bonds, "His Love flows into your souls and you are gifted, gifted with this Touch and this Light flows out to your loved ones. All those connected to you are touched by your prayers and efforts together in this Circle of Light."
+- NOTE (sighting, `soul-expiation`): the cleansing named in a clause, "Where all fear and pain, all error, dissipates with this Touch of Love."
+
 ### 2017-03-27-af-james | Release Self-Will and Embrace the Perfect Will of God | 2017-03-27
 - NOTE (sighting, `challenges-as-blessings`): struggle as part of the passage from self-will to God's Will, "It does not come easily. It does not come without a struggle," with progress marked by meeting it, "upon each success and shift and healing within, you will know joy and a true awakening." The struggle belongs to the transition rather than strengthening the soul as such.
 - NOTE (sighting, `free-will-and-gods-plan`): self-will released into God's Will at the scale of one life, "What holds you back, beloveds, is not so much those old conditions within you as it is your willful desire to plant your feet, one within the world of man and one within the world of God. At some point you must choose."

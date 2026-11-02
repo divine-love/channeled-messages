@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2016-07-25-af-seretta-kem
   - 2016-09-01-af-seretta-kem
+  - 2017-03-08-af-confucius
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -53,7 +54,7 @@ excerpt: >
 door: >
   You think you are a few people praying in a room. The room is full.
 collections: ["Awakening Humanity", "Service & Mission"]
-last_edited: 2026-10-14
+last_edited: 2026-11-02
 ---
 
 Blessings to you beloveds, I am Seretta Kem.
