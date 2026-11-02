@@ -2424,7 +2424,8 @@ message_ids already carry the dates.
   circuitous route to Truth, they will come to God in time";
   2016-09-10-af-augustine, the universality claim asserted without the
   machinery, "Every child is worthy of this Touch, from the very lowest to the
-  highest."
+  highest"; 2017-03-30-af-jesus, the Love available "to all, no matter their
+  condition, no matter their deeds upon this earth."
   Structural note: the thread states its claim once and then proves it by
   cases. The Foundation and the Testimony anchor are the same message on
   separable passages, so the man who is the evidence is also the one who
@@ -3637,6 +3638,10 @@ message_ids already carry the dates.
   resistance and difficulty he met in his own day, drawn as a parallel to the
   present circle's mission; the Earth-life content is real but the message is
   about the present work, so it carries no member role under the scope test.
+  2017-03-30-af-jesus corrects the record of the crucifixion in the same way,
+  "I did not suffer as greatly as you might imagine... My consciousness was
+  with God at the time," with the death called "premature" and the mission
+  "successful," held at witness for the same reason.
   2019-04-01-jw-yogananda names him "the highest soul in God's kingdom" in
   passing.
   Fences. Against `religious-error`: that thread is what the church taught
