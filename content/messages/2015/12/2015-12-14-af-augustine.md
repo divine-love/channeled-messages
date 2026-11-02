@@ -44,6 +44,7 @@ related_messages:
   - 2015-09-27-af-augustine
   - 2015-12-07-af-augustine
   - 2016-12-12-af-augustine
+  - 2017-04-10-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
 notes: >
@@ -58,7 +59,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   You cannot know God's Will from your mind. You can only know it from your soul
-last_edited: 2026-10-30
+last_edited: 2026-11-02
 ---
 
 God bless you beloveds, it is your teacher Augustine.

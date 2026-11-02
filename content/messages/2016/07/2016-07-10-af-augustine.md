@@ -53,6 +53,7 @@ related_messages:
   - 2016-08-25-af-matthew
   - 2017-01-23-af-alec-gaunt
   - 2017-03-27-af-james
+  - 2017-04-10-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/nurturing-the-mind-or-the-soul-its-a-choice/"
 notes: >

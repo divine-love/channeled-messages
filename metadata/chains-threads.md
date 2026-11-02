@@ -728,9 +728,12 @@ message_ids already carry the dates.
   Witnesses. 2016-03-31-af-judas, why the truth cannot be demonstrated;
   2016-04-12-af-keea-atta-kem, the rapport-and-influence claim;
   2016-08-31-af-martin-luther, flagged promotion watch;
-  convictions as to what is truth"; 2017-01-04-af-james, the soul's own test,
-  "There is a sense of rightness when you come upon a truth," guarding against
-  spirit explanations as well as human ones; 2018-08-06-af-solomon, "must test the
+  2016-10-16-af-augustine, the every-soul avenue and the modes it uses;
+  2017-01-04-af-james, the eager seeker open to spirit explanations and to the
+  mind's own interpolation, with the Love as the safeguard;
+  2017-04-10-af-james, the instrument's clarity as the alignment of image,
+  desire and mind, the instruments "required to make effort to be clear and
+  focussed."
   Structural note: the Foundation section's anchor is an open choice.
   2016-03-27-af-seretta-kem holds it as a developed statement of the
   mechanism, with 2016-12-06-af-seretta-kem the fuller laws-and-conditions
@@ -1262,7 +1265,10 @@ message_ids already carry the dates.
   them requires; the willingness-to-listen clause is the nearest it comes to
   the honour-and-act step. 2017-01-02-af-seretta-kem names the quiet form and
   asks that it be followed, "Come to know the guidance, the promptings, those
-  subtle whispers which will guide you in life."
+  subtle whispers which will guide you in life." 2017-04-10-af-james has the
+  Will placed in the soul first, "The image is produced first," and the
+  honour step as desire, "It is the deep desire to know God's Will, allowing
+  the iris to open."
   Fences. Against `divine-love-mediumship`: that thread concerns how a message
   crosses from spirit into a mortal mind; this concerns how God's own guidance
   surfaces inside a soul. 2016-07-04-af-jesus was checked against this thread
@@ -1592,7 +1598,8 @@ message_ids already carry the dates.
   "This is your focus; this is why you come together... truly come to know
   your souls"; 2016-12-21-af-jesus gives the two knowings together as the
   soul grows, "you will come to truly know yourselves and come to know how
-  God loves you."
+  God loves you"; 2017-04-10-af-james makes the knowing prior to knowing God's
+  Will, "To know the Will of God, you must know your own soul."
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth and ends in the two minds integrating; this one asks what must be
   known first, and its move is sequence rather than comparison. The Foundation
@@ -1739,7 +1746,9 @@ message_ids already carry the dates.
   the soul as where the knowing is, "the key is within your soul"; 2016-12-28-af-alec-gaunt, the speculation
   that comes "from the minds of individuals" set against truth discerned
   "through your connection with God"; 2017-03-09-af-aekarius, "a desire to
-  know not from the mind, but from the soul"; and
+  know not from the mind, but from the soul"; 2017-04-10-af-james, the mind's
+  image "merely the reflection of the mind," to be discerned from the soul's;
+  and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named. The two held at once:
@@ -2909,7 +2918,11 @@ message_ids already carry the dates.
   this you see but a reflection of the truth"; 2016-12-28-af-alec-gaunt
   has use itself strengthen them, "as you exercise these faculties of the soul
   they become stronger and clearer," with the Love as "the great activator
-  within your soul"; 2018-06-18-af-matthew has the
+  within your soul"; 2017-04-10-af-james takes one faculty apart, the
+  expression of God's Will, as a camera working in reverse, the image of Truth
+  placed in the soul by the Love, "the iris is your will and your desire,"
+  "The lens is your mind," clear when all three align and otherwise "leading
+  to much interpretation and guesswork"; 2018-06-18-af-matthew has the
   faculties held open as well as opened, "It is only the Divine Love of God
   that not only awakens this new way, but sustains and develops and brings it
   into fruition"; 2018-10-09-af-seretta-kem brings them into line with
@@ -3205,7 +3218,12 @@ message_ids already carry the dates.
   says that sharing opens awarenesses none would reach alone, Luke says what
   makes the sharing possible across real difference, which is the Love each
   has received rather than any shared background or belief, and he makes the
-  exchange a duty rather than a benefit. 2017-08-21-af-matthew gives the
+  exchange a duty rather than a benefit. 2017-04-10-af-james gives the
+  perception claim a reason, each mind's lens being its own, "though these
+  images that come forth in you, may be somewhat different, for the lens of
+  your mind is unique, they come together in a beautiful tapestry, making a
+  great and wondrous picture of Truth," with the practice of "comparing your
+  wisdom, your knowledge, your inspiration." 2017-08-21-af-matthew gives the
   practice, first the sharing, "It is important to teach this my beloveds, to
   share in this experience together in prayer, to speak of your feelings, to
   speak of your perceptions," and then the receiving without measuring, "Be
@@ -4054,7 +4072,9 @@ Recurring observations recorded but not penned as candidate threads.
   sidetracked with what another may wish to give to you in the way of
   guidance or explanation," with the pull toward borrowed authority named,
   "you are often vulnerable to strong personalities who have great
-  convictions as to what is truth"; 2018-08-06-af-solomon, "must test the
+  convictions as to what is truth"; 2017-01-04-af-james, the soul's own test,
+  "There is a sense of rightness when you come upon a truth," guarding against
+  spirit explanations as well as human ones; 2018-08-06-af-solomon, "must test the
   truth in their own way"; 2019-01-30-af-jesus, "always test the truth that
   comes," there for what comes through mediums. It touches
   `divine-love-mediumship`, which locates verification in the soul, and the
