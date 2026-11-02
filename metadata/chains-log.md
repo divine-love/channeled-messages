@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-30
+last_updated: 2026-11-1
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -1361,6 +1361,14 @@ description or summary, and every quote is checked against the message text.
 - NOTE (witness, `bell-toll-instrumentality`): the Light carried acting on its surroundings unseen, "It is the power of this beloved and beautiful essence of God that not only influences you, my beloveds, but influences the environment all around you where God can use this Light," with "Many seeds are sown. Many souls are touched and often you are not aware."
 - NOTE (sighting, `divine-accompaniment`): the prayer step, "Continue to pray intensely for this Love, this blessing and things will shift and change... your angel friends will gather around you, supporting you, being with you in a conscious way," and the angels as assigned, "many angels whom God has assigned to your care and keeping, guidance and protection."
 - NOTE (sighting, `vanguards-of-change`): "And for some, you will continue to travel and bring this Truth to others," the travel without the release.
+
+### 2017-01-02-af-seretta-kem | A New Year's Blessing | 2017-01-02
+- NOTE (witness, `portals`): the term in loose use, with healing as what the portal brings. The healing came with "the angels and the prayers that you've made, and that deep and powerful portal of light that has been built from your efforts," and "It has brought a powerful wave of healing and many angels who are healers within your midst, bringing to you a strengthening of your bodies and a lightening of your souls." "Built from your efforts" sits against the Foundation's "You cannot build a Portal of Light" and resolves as 2016-05-09-af-seretta-kem does, the circle supplying the prayer, spirits building, God conferring.
+- NOTE (witness, `bell-toll-instrumentality`): the instrumentality named and called little known, "God needs your instrumentality, my beloveds. It is a powerful vehicle to bring light and healing, peace and love to this world," and "It is a dimension few acknowledge and understand," the Love flowing about the seeker and reaching others, "His blessings flowing about you and reaching others," in answer to a longing already there, "Within their souls there is a yearning, a yearning for light; and you, my precious friends, must respond to this yearning by being close to God."
+- NOTE (witness, `guidance-as-seed`): the quiet form named and the following asked for, "Come to know the guidance, the promptings, those subtle whispers which will guide you in life and bring you to those places where God wishes you to be in the flow of His Will and Love."
+- NOTE (witness, `soul-purpose-emergence`): the purpose given by God and come to know by exploring and prayer, "Continue to explore this and pray about this and come to know your purpose, which God has implanted within your souls," with each soul's road its own, "Each one walks a unique path and is a powerful and beloved instrument of God's creation."
+- NOTE (sighting, `healing-channel`): the channel named for healing among other things, "God's instruments of change and healing and love," without saying how one becomes it.
+- NOTE (context): Seretta Kem names his share in the circle's work beside his healing, "ever willing to assist you in your efforts together, bringing circles of light, portals of light, channels of light in God's Name and Will and Love." 2017-01-02-af-jesus was received at Gibsons on the same date.
 
 ### 2017-01-16-af-keea-atta-kem | Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually | 2017-01-16
 - `sensitive-souls-redemptive` **[Objection-removed]** : clears the fear that blocks the thread's next step, that growing sensitivity leaves a soul exposed. Sensitivity comes with growth, "the more sensitive you are as you open and progress in the Divine Love... you obtain certain sensitivities," and what is felt passes, "there may be some peripheral effect upon your being, but nothing that is permanent, nothing that is damaging," because the Love within is the protection, "With the blessing of God's Love, you have a great deal of immunity and protections from these conditions," so "do not fear or worry."

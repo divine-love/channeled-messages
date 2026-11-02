@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-10-30
+last_updated: 2026-11-01
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -341,7 +341,7 @@ message_ids already carry the dates.
   2016-10-24-af-confucius, 2016-11-07-af-andrew, 2016-11-26-af-andrew,
   2016-11-28-af-seretta-kem, 2016-12-02-af-augustine,
   2016-12-02-af-white-cloud, 2016-12-28-af-alec-gaunt,
-  2019-01-21-af-augustine.
+  2017-01-02-af-seretta-kem, 2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while
   2016-08-02-af-augustine grounds the toll in active expression, "It matters
@@ -1220,7 +1220,9 @@ message_ids already carry the dates.
   their promptings, and their inspirations. They come from God and His
   angels," without saying how they arrive, how they grow, or what honouring
   them requires; the willingness-to-listen clause is the nearest it comes to
-  the honour-and-act step.
+  the honour-and-act step. 2017-01-02-af-seretta-kem names the quiet form and
+  asks that it be followed, "Come to know the guidance, the promptings, those
+  subtle whispers which will guide you in life."
   Fences. Against `divine-love-mediumship`: that thread concerns how a message
   crosses from spirit into a mortal mind; this concerns how God's own guidance
   surfaces inside a soul. 2016-07-04-af-jesus was checked against this thread
@@ -1230,8 +1232,8 @@ message_ids already carry the dates.
   the field obscures. 2016-12-12-af-augustine is an Elaboration here and a
   witness there.
   What is awaited. A message that develops the growth claim, that the inkling
-  grows as Love nurtures it, rather than restating the prompting. Both
-  witnesses restate; neither develops. 2016-12-12-af-augustine has growth on
+  grows as Love nurtures it, rather than restating the prompting. The
+  witnesses restate; none develops. 2016-12-12-af-augustine has growth on
   the receiving side instead, the soul clearing until the Will is plain, and
   2016-12-28-af-alec-gaunt has the faculties that receive it strengthened by
   use; both are a different claim.
@@ -1851,12 +1853,14 @@ message_ids already carry the dates.
   are adequate." The thread's boundary, that portals concentrate blessing and
   do not gate contact. The exchange is short, but the objection is raised
   plainly and cleared completely, which is what the role requires.
-  Witnesses, the term in loose 2016 use. 2016-03-25-af-augustine, the word in
-  the circle's prayer, informal and metaphorical; 2016-05-09-af-seretta-kem
-  and 2016-11-27-af-confucius both describe a praying circle as forming a
-  portal, which sits against the Foundation's "You cannot build a Portal of
-  Light" and resolves the same way, people supplying the conditions and the
-  prayer, spirits building, God conferring.
+  Witnesses, the term in loose use. 2016-03-25-af-augustine, the word in
+  the circle's prayer, informal and metaphorical; 2016-05-09-af-seretta-kem,
+  2016-11-27-af-confucius and 2017-01-02-af-seretta-kem describe a praying
+  circle as forming a portal, the last a portal "built from your efforts"
+  that brings "a powerful wave of healing and many angels who are healers,"
+  which sits against the Foundation's "You cannot build a Portal of Light" and
+  resolves the same way, people supplying the conditions and the prayer,
+  spirits building, God conferring.
   Witnesses, the doctrine's clauses instanced. 2016-07-25-af-seretta-kem, a
   temporary portal per the Foundation's clause; 2016-08-26-af-brother-mandus,
   maintenance; 2016-08-26-af-jesus, replication and the precondition;
@@ -2926,6 +2930,9 @@ message_ids already carry the dates.
   Witnesses, where the purpose comes from. 2016-11-28-af-seretta-kem, the
   purpose given by God and left to the soul to find, "God has a plan and
   purpose for each one of you. It is for you to discover this."
+  2017-01-02-af-seretta-kem, the purpose "which God has implanted within your
+  souls," come to know by exploring and prayer, "Continue to explore this and
+  pray about this and come to know your purpose."
   2019-01-30-af-seretta-kem, the
   purpose as a commitment made before birth that the soul still knows, "your
   commitment in this regard was made before you came to Earth... and that your
