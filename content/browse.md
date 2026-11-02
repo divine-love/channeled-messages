@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-10-30
+last_updated: 2026-11-02
 ---
 
 # Browse All Messages
@@ -411,6 +411,7 @@ last_updated: 2026-10-30
 | [Seek Truth Within Your Soul](messages/2016/12/2016-12-28-af-alec-gaunt.md) | [Alec Gaunt](../spirits/alec-gaunt.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑28 | Everyone has an opinion about what is coming. Only God can tell you what is true. |
 | [Time to Accept a New Way of Being](messages/2016/12/2016-12-29-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2016‑12‑29 | The reality you have built in your mind is not the only reality. Letting go of it is liberation, not loss |
 | [The Road Is Clear Before You](messages/2017/01/2017-01-02-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑02 | The road is already clear. The only obstructions are the ones you create yourself |
+| [A New Year's Blessing](messages/2017/01/2017-01-02-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑02 | They are already yearning for light. Your part is to stay close enough to God to let it through. |
 | [Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually](messages/2017/01/2017-01-16-af-keea-atta-kem.md) | [Keea Atta Kem](../spirits/keea-atta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑16 | Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside |
 | [Changes Within Your Soul Will Bring Many Rewards](messages/2017/01/2017-01-23-af-alec-gaunt.md) | [Alec Gaunt](../spirits/alec-gaunt.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑23 | The outward self you cling to is a paper tiger. Your true self, with all its gifts and treasures, is waiting inside your soul |
 | [Building a Foundation of Spiritual Growth and Development](messages/2017/01/2017-01-25-af-alec-gaunt.md) | [Alec Gaunt](../spirits/alec-gaunt.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑01‑25 | The greatest fulfillment your soul can experience is simply to be with God |
