@@ -846,7 +846,10 @@ message_ids already carry the dates.
   breaking" and God having "set in motion a change agent that will bring about
   a balancing of the world, a healing of this planet"; 2016-12-07-af-andrew,
   the world and the soul changing together, "The world is changing and you are
-  changing," with the Earth to be "healed and brought back into balance."
+  changing," with the Earth to be "healed and brought back into balance";
+  2017-01-15-af-peter, the cause as humanity's collective will and its
+  "desire for the material above all else," the remedy placed outside human
+  effort, "these dilemmas, beloved souls, cannot be cured by the will of man."
   Fences. Against `preparation-to-be-a-rock`: that thread is the readying of
   souls; this is the Earth's own changes and their purpose. Against
   `earth-conditions-and-prayer`: that thread is the man-made darkness-field
@@ -859,7 +862,9 @@ message_ids already carry the dates.
   resolutely blind and deaf to the truth of Creation." The ground it gives is
   law, "with each choice comes consequence," and it calls the outcome "a
   blessing," so the two fit if the lesson is the working of the law rather
-  than a sentence. Read together at build.
+  than a sentence. 2017-01-15-af-peter has the same shape, "Now humanity will
+  reap the consequences," and adds "Humanity is not evil," which leans toward
+  the consequence reading. Read together at build.
 
 ### earth-conditions-and-prayer
 
@@ -1089,7 +1094,9 @@ message_ids already carry the dates.
   individual; 2016-11-29-af-care, letting God plan rather than planning for
   Him; 2016-12-12-af-augustine, "God's Will cannot always be enacted in the
   world in a pure and unadulterated way," with the human condition as the
-  cause; 2018-11-29-af-abdullah-latif, the limit on intercession.
+  cause; 2017-01-15-af-peter, the world made by the sum of human choices,
+  "You are able to choose, to make of this world what you will";
+  2018-11-29-af-abdullah-latif, the limit on intercession.
   Structural note: the Foundation section holds more than one role from the
   same message, which the revised section structure allows, and
   2015-03-24-af-augustine is the anchor as the message that states the premise
@@ -1673,7 +1680,8 @@ message_ids already carry the dates.
   2016-03-30-af-augustine, humility as the willful side yielding to the soul;
   2016-10-24-af-confucius, the agency axis restated; 2016-12-05-af-augustine,
   the soul taking "ascendency over your mind" and the mind beginning "to
-  acquiesce to your soul"; and 2019-01-21-af-augustine, the succession stated
+  acquiesce to your soul"; 2017-01-15-af-peter, "a mind that bows to the
+  soul"; and 2019-01-21-af-augustine, the succession stated
   as humanity's next step, the same claim as 2016-08-31-af-martin-luther. How
   the soul knows: 2016-09-02-af-augustine, the ineffability claim;
   2016-10-26-af-augustine, the soul as the image of God offered as the reason
@@ -2187,7 +2195,8 @@ message_ids already carry the dates.
   readying strand of an earth-changes message, carried with the fence;
   2016-12-28-af-alec-gaunt, "for you will be a rock. You will be steady in the
   storms to come," with awareness of the world asked for alongside the gaze
-  on God; 2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
+  on God; 2017-01-15-af-peter, "You must prepare within yourselves," with the
+  circle building "an oasis of light"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
   "As you hold on to one another as the winds blow, so you will support and
   save many from the coming changes," with the bonds forged now for later
   need.

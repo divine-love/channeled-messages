@@ -47,6 +47,7 @@ questions:
 related_messages:
   - 2016-10-15-af-seretta-kem
   - 2016-12-05-af-augustine
+  - 2017-01-15-af-peter
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -60,7 +61,7 @@ excerpt: >
 door: >
   As the storm draws closer, God grows you faster.
 collections: ["Awakening Humanity", "Service & Mission"]
-last_edited: 2026-10-30
+last_edited: 2026-11-01
 ---
 
 Beautiful friends, it is Alec. May the light of God’s Love carry you forward my beloved friends. As you begin to open, your soul perceptions and awarenesses begin to flower and come forth in surprising ways, each of you feels a difference, an opening, the beginnings of something new within you. And as God’s Love ignites your gifts, the beautiful talents and abilities that lie within you, each unique, each powerful, full of promise, open up doors of perception, gifts of healing and communication and ways in which love may be expressed for the benefit of all you meet. Beloveds, you must expect this in your life that these new awarenesses and perceptions will come and bring a different perspective and bring many abilities of sight and wisdom and strength and perception and ways in which love can come and be manifest in your lives, within your beings, as God uses what He has implanted within you for the benefit of mankind.
