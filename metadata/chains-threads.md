@@ -1354,7 +1354,9 @@ message_ids already carry the dates.
   further along this journey than you may think"; 2017-05-11-af-jesus names
   and dignifies the gradual
   road, "in many cases it is a gradual experience. Bit by bit, you continue to
-  inch your way forward"; 2018-10-09-af-seretta-kem states the beginning as
+  inch your way forward"; 2017-01-11-af-luke, "This is an incremental
+  unfolding and opening of the channel of God's Love within you";
+  2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
   very subtle indeed," and denies the process any shortcut;
   2018-07-14-af-seretta-kem, "this is a slow process, incremental in nature.
@@ -2542,7 +2544,8 @@ message_ids already carry the dates.
   compassion for yourselves"; 2016-09-01-af-jesus, "forgiveness of yourselves"
   placed before forgiveness of others; 2016-09-11-af-francis-of-assisi, a
   practice against negative thoughts "placed within you," saying to oneself
-  "you are worthy, you are loved, and you are beautiful"; 2018-06-24-af-luke,
+  "you are worthy, you are loved, and you are beautiful"; 2017-01-11-af-luke,
+  "You must be patient, you must forgive yourselves"; 2018-06-24-af-luke,
   "you must have compassion for yourselves, beloveds"; 2018-06-26-af-matthew,
   "Stop judging yourselves. Stop condemning yourselves and condemning others."
   Witness, the subject on its own. 2016-03-16-af-seretta-kem, a short message
@@ -2597,7 +2600,10 @@ message_ids already carry the dates.
   flows through you."
   Witnesses, sensitivity and sorrow. 2016-07-13-af-seretta-kem states the
   sensitivity-and-absorption claim in passing, the thread's territory without
-  its argument; 2019-01-21-af-augustine carries the sorrow facet pastorally,
+  its argument; 2017-01-11-af-luke, the sensitivity given by the Love's touch
+  and not to be carried as weight, "do not let these things be a burden to
+  you, my beloveds"; 2019-01-21-af-augustine carries the sorrow facet
+  pastorally,
   "do you not feel saddened that your brothers and sisters cannot experience
   this Holy Blessing."
   Fences. Against `opposition-to-the-light-worker`: that thread is the
@@ -2718,6 +2724,13 @@ message_ids already carry the dates.
   for they cannot abide within your soul with the blessing of God's Love
   within," with the Love as what pushes them out, "allow the love to push
   forth all those things within that are not in harmony with God";
+  2017-01-11-af-luke gives the seeker's side of that ratio, the greater
+  sensitivity the Love brings making the seeker aware of their own condition
+  and leading them to measure it against "the loving presence of the angels,"
+  so that "At times you do not see yourselves in a favourable light," with
+  patience and self-forgiveness as the answer while the Love does the work,
+  "you must forgive yourselves and allow the power of God's Love to burn away
+  these impurities";
   2018-04-03-af-luke develops the inherited strand
   alone, transmitted parent to child across history; 2018-05-12-af-luke names
   the Law and states its insistence, "The Laws of Compensation which insist

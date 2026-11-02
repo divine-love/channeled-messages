@@ -5,7 +5,7 @@ description: >
   Divine Love message joins, and the role it plays. Companion to
   chains-threads.md, which holds the thread registry, holding pen, and open
   questions. This file is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-11-1
+last_updated: 2026-11-01
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -1379,6 +1379,13 @@ description or summary, and every quote is checked against the message text.
 - NOTE (witness, `two-paths`): "They are indeed two distinct pathways leading to two distinct places, endpoints. They are both heavens, my beloved son."
 - NOTE (witness, `simplicity-of-the-path`): complexity falling away as the soul grows, "those complex ideas are rendered into very simple understandings of the mind."
 - NOTE (sighting, `incremental-journey`): "It will come, drop-by-drop, step-by-step."
+
+### 2017-01-11-af-luke | Shed Those Things That Are Not of Love | 2017-01-11
+- `soul-expiation` **[Elaboration]** : the seeker's side of the visibility the Love brings. The Love sharpens the seeing, "With this touch of Love, this opening of your soul and the awakening of your soul, comes a greater sensitivity. And you become aware of your own condition," and what is seen is measured against the light around, "you compare yourself with the loving presence of the angels and the flow of God's Love that is all around you. At times you do not see yourselves in a favourable light." What is to be shed is named, "those thoughts that are of error, and those feelings that are of fear, and those reactions that are of anger," and the response is patience and self-forgiveness while the Love does the work, "You must be patient, you must forgive yourselves and allow the power of God's Love to burn away these impurities," toward "a place of joyful freedom, a place of purity."
+- NOTE (build, `soul-expiation`): a Chrysalis candidate held for the Chrysalis audit, to be weighed with 2016-05-16-af-keea-atta-kem. The state is described as it stands, "For a soul in light is a soul that emanates joy and wisdom, truth and love," and the joy is promised "until it is indeed who you are and how you are in the world." The first is a description given in one sentence as the reason not to be burdened; the second is a forecast. Neither is taken as a Chrysalis here.
+- NOTE (witness, `sensitive-souls-redemptive`): the sensitivity as a fruit of the Love's touch, and the instruction not to carry it as weight, "do not let your perceptions and your sensitivities which give you a sense of the darkness in this world, do not let these things be a burden to you, my beloveds."
+- NOTE (witness, `self-love-foundation`): "You must be patient, you must forgive yourselves," against the times when "you do not see yourselves in a favourable light."
+- NOTE (witness, `incremental-journey`): "This is an incremental unfolding and opening of the channel of God's Love within you. You must be patient."
 
 ### 2017-01-16-af-keea-atta-kem | Accept Every Unique Soul: Their Differences Will Not Harm You Spiritually | 2017-01-16
 - `sensitive-souls-redemptive` **[Objection-removed]** : clears the fear that blocks the thread's next step, that growing sensitivity leaves a soul exposed. Sensitivity comes with growth, "the more sensitive you are as you open and progress in the Divine Love... you obtain certain sensitivities," and what is felt passes, "there may be some peripheral effect upon your being, but nothing that is permanent, nothing that is damaging," because the Love within is the protection, "With the blessing of God's Love, you have a great deal of immunity and protections from these conditions," so "do not fear or worry."

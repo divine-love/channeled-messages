@@ -40,12 +40,13 @@ questions:
   - "How do I break old habits that are blocking the flow of love through me?"
   - "Can spirit helpers heal me without my participation?"
 related_messages:
-  - 2016-04-13-af-seretta-kem
-  - 2016-07-13-af-seretta-kem
-  - 2017-12-12-af-seretta-kem
-  - 2018-07-14-af-seretta-kem
   - 2016-01-04-af-seretta-kem
   - 2016-02-10-af-confucius
+  - 2016-04-13-af-seretta-kem
+  - 2016-07-13-af-seretta-kem
+  - 2017-01-11-af-luke
+  - 2017-12-12-af-seretta-kem
+  - 2018-07-14-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -62,7 +63,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   The greatest healing of all is obtained through the inflowing of God's Essence. Every cell, every energy, every aspect of your mind is transformed
-last_edited: 2026-10-29
+last_edited: 2026-11-01
 ---
 
 Beloved souls, I am Seretta Kem. When I was on Earth, I lived in what you call Egypt, many, many generations ago when my country and culture was at its peak, and I have studied the art of healing for a very long time and I walk upon the Divine Path and I inhabit the Celestial Kingdom.
