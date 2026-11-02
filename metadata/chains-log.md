@@ -1435,6 +1435,8 @@ description or summary, and every quote is checked against the message text.
 - NOTE (considered and set aside, `challenges-as-blessings`): God's presence carries a soul through every challenge, "whether it be joyful or sad, difficult, or fulfilling, God will be there," but nothing here says hardship strengthens the soul.
 - NOTE (sighting, `prayer-soul-longing`): "Reach out to God in this simple way with a longing and a desire to receive this essence, this blessing and to be with God."
 - NOTE (context): the message gives a short prayer as words to say, introduced as "that step in faith that says" and later called "this simple prayer": "I am with you. I love you. Dear God be with me that I might feel your love...", preserved as a standalone practice file (content/practices/prayer-2017-01-25-af-alec-gaunt.md).
+- NOTE (witness, `simplicity-of-the-path`): the practice given as simple, "Make this simple prayer. Reach out to God in this simple way with a longing and a desire to receive this essence, this blessing and to be with God."
+- NOTE (sighting, `prayer-changes-world-conditions`): the circle's prayer going out to the world, "bringing light to this world in this prayer and how God can use this light in so many ways to benefit many in your world," without the route.
 
 ### 2017-03-27-af-james | Release Self-Will and Embrace the Perfect Will of God | 2017-03-27
 - NOTE (sighting, `challenges-as-blessings`): struggle as part of the passage from self-will to God's Will, "It does not come easily. It does not come without a struggle," with progress marked by meeting it, "upon each success and shift and healing within, you will know joy and a true awakening." The struggle belongs to the transition rather than strengthening the soul as such.

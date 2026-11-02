@@ -2687,6 +2687,8 @@ message_ids already carry the dates.
   simplicity put in terms of time and effort, "it is simple, it takes little
   time, it takes but a sincere effort"; 2017-01-04-af-james, complex ideas
   "rendered into very simple understandings of the mind" as the soul grows;
+  2017-01-25-af-alec-gaunt, "Make this simple prayer. Reach out to God in
+  this simple way";
   2018-11-28-af-augustine, "Yes, it is a
   simple path, is it not? It is not adorned with many complex ideas and this
   is for a reason."
