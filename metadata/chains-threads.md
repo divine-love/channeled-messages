@@ -2882,6 +2882,8 @@ message_ids already carry the dates.
   to hear and see and understand in a clear way what that will is";
   2016-12-21-af-alec-gaunt, the perceptions flowering as the Love ignites the
   gifts, opening "doors of perception, gifts of healing and communication";
+  2017-01-02-af-jesus, the soul's sight and knowledge coming "to your conscious
+  self," "not of the mind but a knowing of the soul";
   2017-05-11-af-jesus, the awakened soul known by what it does, "a soul
   awakened knows far greater than the greatest minds on your planet";
   2017-08-21-af-matthew, feeling as a faculty of the soul, "a soul can feel
@@ -3178,7 +3180,9 @@ message_ids already carry the dates.
   carries developed; 2016-12-02-af-confucius, fellowship as a need, "continue
   to bond together in love for you need one another"; 2016-12-05-af-augustine,
   the gathering as what holds the awakening in place, "you come together
-  because your souls draw you together to reinforce this new awakening."
+  because your souls draw you together to reinforce this new awakening";
+  2017-01-02-af-jesus, the bond as a shared experience of the Love, "you are
+  forever bonded in this Love for you are each touched deeply in this way."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the
@@ -3689,7 +3693,9 @@ only stating it.
   "You are never alone, beloveds, and we will never leave you";
   2016-12-21-af-alec-gaunt, "You will not be abandoned by us, not ever";
   2016-12-21-af-jesus, "God will send His angels to be with you, to support
-  you, to work through you"; 2017-01-23-af-alec-gaunt, "we are always there
+  you, to work through you"; 2017-01-02-af-jesus, "I will lead you and be
+  with you as you journey through these coming days and months and years";
+  2017-01-23-af-alec-gaunt, "we are always there
   my beloveds, always there to be with you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
@@ -3769,7 +3775,7 @@ only stating it.
   only can move forward"; 2016-12-01-af-john-the-beloved, "There will be no
   turning back to the darkness for any of you"; 2016-12-21-af-jesus, the
   Essence that will "change you forever"; and 2017-01-02-af-jesus,
-  "There is no turning back my beloveds." Fenced from `incremental-journey`,
+  "There is no turning back, my beloveds." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
   reached a certain measure. Mint when a message states the threshold: that a
