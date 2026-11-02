@@ -45,6 +45,7 @@ related_messages:
   - 2016-09-06-af-joseph
   - 2016-10-19-af-augustine
   - 2016-12-07-af-augustine
+  - 2017-01-30-af-augustine
 audio_url: ""
 canonical_url: ""
 language: en
@@ -56,7 +57,7 @@ door: >
 collections: ["The Saints & Apostles Speak"]
 essential_teachings: ["Core Teaching"]
 notes: ""
-last_edited: 2026-10-29
+last_edited: 2026-11-01
 ---
 
 God bless you, beloved souls. Indeed it is important to pray. It is important to start your day in prayer and to set out your intentions to God, and to listen for God's intentions for you, my beloveds. For as you pray and open that channel and that connection with your Creator, as you receive His Love flowing in your souls, as you open your minds and your hearts, you then are receptive to God's guidance, you then draw us angels into your midst, you then set up the flow, the process, the unfolding of this Light and guided outpourings to all those you meet.

@@ -258,6 +258,9 @@ message_ids already carry the dates.
   2017-01-23-af-alec-gaunt has the clothing as coping that has outlived its
   use, "ways of coping with life, patterns of avoiding difficulties," shed
   rather than exchanged.
+  2017-01-30-af-augustine has the armour as protectiveness "that keeps them
+  safe," with the Love entering while it is still worn, "God must find a crack
+  in your armor, a place where His Love can flow and reach your soul."
   Fences. Against `fear-of-full-immersion`, which is the fence that resolves
   the scope question raised four times: that thread argues why a soul will not
   go all the way into the Love and what it believes it will lose, and it keeps
@@ -2076,7 +2079,13 @@ message_ids already carry the dates.
   choice to sit in prayer. To long for this Love requires nothing but your
   effort and time. Even a brief prayer for God for Love will eventually set
   you upon this course and the more effort you apply in this journey, the
-  faster will be the awakening";
+  faster will be the awakening"; 2017-01-30-af-augustine separates what comes
+  without the longing from what comes only with it, healing and "a sense of
+  comfort" reaching even the passive seeker while the inflowing does not,
+  "You cannot sit back passively and expect God to touch your soul without
+  these prayers and efforts and desire," the prayer asked for being "not a
+  casual exercise" but "an intense and focused prayer," with the longing as
+  what "allows you to let down your guard";
   2017-05-11-af-jesus makes reception proportional to the depth of the asking
   and measures the circle against that standard to their face, the longing
   required being "far greater than any of you here are feeling and desiring to
@@ -2688,7 +2697,8 @@ message_ids already carry the dates.
   time, it takes but a sincere effort"; 2017-01-04-af-james, complex ideas
   "rendered into very simple understandings of the mind" as the soul grows;
   2017-01-25-af-alec-gaunt, "Make this simple prayer. Reach out to God in
-  this simple way";
+  this simple way"; 2017-01-30-af-augustine, "It is simple," and "seek this
+  Love in all its simplicity";
   2018-11-28-af-augustine, "Yes, it is a
   simple path, is it not? It is not adorned with many complex ideas and this
   is for a reason."
@@ -3776,8 +3786,9 @@ only stating it.
   any of you"; 2016-03-31-af-judas, "you cannot turn back on this path, you
   only can move forward"; 2016-12-01-af-john-the-beloved, "There will be no
   turning back to the darkness for any of you"; 2016-12-21-af-jesus, the
-  Essence that will "change you forever"; and 2017-01-02-af-jesus,
-  "There is no turning back, my beloveds." Fenced from `incremental-journey`,
+  Essence that will "change you forever"; 2017-01-02-af-jesus,
+  "There is no turning back, my beloveds"; and 2017-01-30-af-augustine,
+  "Once you have tasted these Living Waters... you will not turn away." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
   reached a certain measure. Mint when a message states the threshold: that a
