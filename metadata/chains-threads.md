@@ -1549,6 +1549,10 @@ message_ids already carry the dates.
   opportunity to research the development of the soul, your own soul and all
   the souls who are with you in this greater effort," carried out "through
   your prayers and efforts and contemplations and meditations."
+  2017-03-05-af-luke puts the two knowings into a single prayer, "I want to
+  know You. I want to know my true self," with the soul lost beneath the
+  mind's filters and the soul as the route, "it is the soul that will draw
+  you to God, if you listen."
   2018-11-29-af-abdullah-latif extends the Foundation in two
   directions it does not reach. He makes the knowing a prerequisite for action
   rather than a route to God only, "you cannot know what it is to pray until
@@ -1703,7 +1707,9 @@ message_ids already carry the dates.
   "God gave you a material mind in order to have the capacity to understand
   material things," which bears on the structural note on the two pictures
   of the mind; and 2016-12-12-af-augustine, guidance reworked by the mind
-  that reviews it, "You filter the information, make it anew at times."
+  that reviews it, "You filter the information, make it anew at times";
+  2017-03-05-af-luke, the soul "lost in this process" as experience is
+  "filtered through your minds and the biases of your minds."
   Governance:
   2016-03-30-af-augustine, humility as the willful side yielding to the soul;
   2016-10-24-af-confucius, the agency axis restated; 2016-12-05-af-augustine,
@@ -2123,11 +2129,13 @@ message_ids already carry the dates.
   developed; 2016-09-01-af-seretta-kem, the proportionality form, "the
   capacity to receive this Love is unlimited, only restricted by your own
   desires and longings."
-  Witness, the floor corroborated. 2016-09-10-af-andrew states the
+  Witnesses, the floor corroborated. 2016-09-10-af-andrew states the
   minimum-requirement claim of 2016-09-04-af-john-the-beloved through a
   different spirit, "All it requires is some time, some focus, to come to know
   that soul desire within you," which is what makes the floor safe to promote
-  rather than one spirit's turn of phrase.
+  rather than one spirit's turn of phrase. 2017-03-05-af-luke gives it
+  again, "A mere prayer, a mere opening, a longing within, that is already
+  there but needs to be recognized and expressed."
   Witnesses, what prayer opens. 2016-09-06-af-joseph describes what surfaces
   afterwards and locates the content as already placed rather than newly
   given, "The understandings that God has placed within your souls will emerge
@@ -2711,7 +2719,8 @@ message_ids already carry the dates.
   "rendered into very simple understandings of the mind" as the soul grows;
   2017-01-25-af-alec-gaunt, "Make this simple prayer. Reach out to God in
   this simple way"; 2017-01-30-af-augustine, "It is simple," and "seek this
-  Love in all its simplicity";
+  Love in all its simplicity"; 2017-03-05-af-luke, "A simple act, a simple
+  prayer, a willingness to be open... is all that is required";
   2018-11-28-af-augustine, "Yes, it is a
   simple path, is it not? It is not adorned with many complex ideas and this
   is for a reason."
@@ -3215,7 +3224,9 @@ message_ids already carry the dates.
   blessings of God's Love together. This is what is important";
   2017-02-15-af-confucius, the gathering formed by the Law of Attraction
   between soul lights, "what is within the mind has very little bearing upon
-  this great Law of Attraction."
+  this great Law of Attraction"; 2017-03-05-af-luke, a diverse circle drawn
+  together by the soul whatever the mind holds, "No matter the thoughts of
+  the mind... it is the soul that draws you together."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the
