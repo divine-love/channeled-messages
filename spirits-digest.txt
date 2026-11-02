@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-10-29 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
+Generated 2026-11-01 from spirits/*.yml (57 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -1335,8 +1335,9 @@ spirit_description: >
 
 
   In the messages he is a gentle teacher of healing and of mediumship, a
-  guardian of the Circles of Light, and a guide for those seeking to raise
-  their natural gifts through the power of Divine Love.
+  guardian of the Circles of Light who works to bring circles, portals and
+  channels of light, and a guide for those seeking to raise their natural
+  gifts through the power of Divine Love.
 notes: >
   In 2015-03-29-af-seretta-kem he identifies himself as having lived in Egypt
   at the peak of that civilisation and confirms that he now resides in the
@@ -1364,8 +1365,15 @@ notes: >
   channel, in this world.
 
 
+  In 2017-01-02-af-seretta-kem he names his part in the circle's work beside
+  his healing: "I am Seretta Kem, ever willing to assist you in your efforts
+  together, bringing circles of light, portals of light, channels of light in
+  God's Name and Will and Love."
+
+
   Further messages on his central subjects include 2016-04-13-af-seretta-kem,
-  The Greatest Healing Energy of All Is God's Divine Love.
+  The Greatest Healing Energy of All Is God's Divine Love, and
+  2019-01-26-af-seretta-kem, Establishing Portals.
 
 ========================================================================
 FILE: spirits/simon.yml
