@@ -1109,6 +1109,11 @@ message_ids already carry the dates.
   2016-05-12-af-augustine supplies the working protocol, "it must be a mutual
   agreement between you and God... it does require for you to bring it forth
   to your Heavenly Father and ask that this may be guided and blessed";
+  2017-04-20-af-augustine says what free will is and is not, the power to
+  "accept or reject the Will of God," not a capacity for "choices that are of
+  profound wisdom and harmony with creation," with self-mastery named as the
+  illusion and the plan already laid "within your soul" to be revealed "in
+  bits and drips, day by day";
   2019-01-29-af-augustine restates the premise in the register of personal
   calling, the invitation "deep and well-embedded" but "this does not mean
   that the soul will listen."
@@ -2241,6 +2246,10 @@ message_ids already carry the dates.
   with the rock in an image of its own, "you must remain the pillar of
   strength, the bearer of truth, the loving channel of God," as the way to
   care for the loved ones the seeker fears for;
+  2017-04-20-af-augustine declares the readiness, "essentially you have come
+  to a place where you are ready," the opening to serve tied to the collapse
+  of what mankind has built, "As this fabric created by mankind becomes
+  shredded and collapses, the door will open for you to serve";
   2017-09-13-af-keea-atta-kem makes the readying God's own
   work, "this is God orchestrating your life, preparing you for what is to
   come," and sends the prepared to scientists, leaders and seekers;
@@ -3060,7 +3069,9 @@ message_ids already carry the dates.
   the purpose grasped by quieting the mind to listen to the Will of God, and
   the path walked before it is recognized, "You are already on it and some of
   you do not realize it"; 2017-01-23-af-alec-gaunt, "As you come closer, what
-  comes next will become clearer"; 2019-04-07-af-augustine has the gifts hidden within
+  comes next will become clearer"; 2017-04-20-af-augustine, the plans laid
+  "within your soul" and "revealed to your consciousness in bits and drips,
+  day by day"; 2019-04-07-af-augustine has the gifts hidden within
   and blocked from awareness by the mind, which "will become self-evident and
   will grow and grow" as the soul awakens, the registry's own word for the
   step.
@@ -3173,7 +3184,9 @@ message_ids already carry the dates.
   you must stand up and be counted, each must speak these truths where the
   opportunity and God's guiding hand brings you forth in this world";
   2016-12-21-af-alec-gaunt, the truth told when it is sought, "not to
-  reprimand and judge, but to show the way gently and firmly to God."
+  reprimand and judge, but to show the way gently and firmly to God";
+  2017-04-20-af-augustine, many speaking "in one voice that Love is truly the
+  answer."
   Fences. Against `judgment-to-love`: that thread counsels leaving another's
   honest error uncorrected; this one argues that the truth itself must be
   spoken. 2016-04-12-af-moses draws the line between them, and its exception
@@ -3523,6 +3536,8 @@ message_ids already carry the dates.
   network, "God has entrusted you with this job, this role," and "to travel
   in order to forge those connections"; 2017-03-27-af-james, "you are at the
   front of this line, this wave of change, and this is not easy";
+  2017-04-20-af-augustine, "surprising opportunities, unanticipated, that will
+  allow you to take this leap forward in a very overt and recognized way";
   2018-06-18-af-matthew carries the vanguard title as its door, "You are the
   vanguards seeking to move forward... into a new dawn of Love and Truth that
   God intends for this world," with the circle cast as explorers rather than
@@ -3580,7 +3595,9 @@ message_ids already carry the dates.
   step and softens it rather than carrying it further: the cocoon is not
   wrong, and leaving it is a matter of times. 2017-03-27-af-james restates
   the plans step, "When those well laid plans that you make do not come to
-  fruition," without carrying it further.
+  fruition," without carrying it further. 2017-04-20-af-augustine joins it to
+  security, "ideas and dreams that I have concocted to give me a sense of
+  security," which leans toward one idea restated.
   Structural note: 2016-01-08-af-jesus also carries a `healing-channel`
   witness for its "great channel of service."
 

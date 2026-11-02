@@ -45,6 +45,7 @@ related_messages:
   - 2015-12-07-af-augustine
   - 2016-12-12-af-augustine
   - 2017-04-10-af-james
+  - 2017-04-20-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/free-will-versus-gods-will/"
 notes: >
