@@ -9,24 +9,24 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
-  Keea atta Kem addresses the anxiety of spiritually sensitive souls who feel
+  Keea Atta Kem addresses the anxiety of spiritually sensitive souls who feel
   affected by the world's conditions, teaching that increased sensitivity is a
   natural sign of soul growth, that thoughts attract like energies by law, and
-  that the Love within a growing soul provides powerful protection — so there is
+  that the Love within a growing soul provides powerful protection, so there is
   no need for fear, only joyful acceptance of each unique soul walking their own
   path toward God.
 primary_subjects: "Soul's True Nature"
 secondary_subjects:
   - "Emotional Struggles"
   - "Self-Love & Acceptance"
-  - "Celestial Governance & Spiritual Law"
+  - "Law of Attraction"
   - "Walking the Divine Path"
 people: []
 spirits: []
-keywords: ["sensitivity", "spiritual protection", "law of attraction", "thoughts", "conditions", "fear", "acceptance", "unique souls", "free will", "Divine Path", "immunity", "clouds and sun", "judgment", "channel of love", "equilibrium"]
+keywords: ["sensitivity", "spiritual protection", "Law of Attraction", "thoughts", "conditions", "fear", "acceptance", "unique souls", "free will", "Divine Path", "immunity", "clouds and sun", "judgment", "channel of love", "equilibrium"]
 questions:
   - "Why do I feel so affected by other people's energy?"
   - "Is it normal to become more sensitive as I grow spiritually?"
@@ -47,19 +47,16 @@ related_messages:
   - 2016-09-03-af-mary
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/accept-every-unique-soul-differences-will-not-harm-spiritually/"
-notes: >
-  Correction: 'not for you to obsessed about' corrected to 'not for you to be
-  obsessed about'. Double space before 'obsessed' also corrected.
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >
-  Just as upon a sunny day the clouds obscure the sun and bring a small shadow —
-  these clouds will move on and the sun returns. So it is with your condition as
-  you sit with God.
+  Just as upon a sunny day, at times the clouds obscure the sun and bring a
+  small shadow into your lives, these clouds will move on and the sun returns.
 collections: ["Prism of the Soul"]
 door: >
-  Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside
-last_edited: 2026-10-29
+  Sensitivity is a sign of growth, not vulnerability, and the Love within you is stronger than anything you encounter outside.
+last_edited: 2026-11-01
 ---
 
 Thank you for coming, for you were called. And your discussion of the morning was very good indeed, sharing your concerns and your perceptions, your ideas and your aspirations. This is good. It is good to reveal your inner thoughts and ideas, to bring forth what it is that is broiling about within your mind, your souls.
