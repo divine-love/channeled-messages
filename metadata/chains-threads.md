@@ -718,7 +718,9 @@ message_ids already carry the dates.
   Witnesses. 2016-03-31-af-judas, why the truth cannot be demonstrated;
   2016-04-12-af-keea-atta-kem, the rapport-and-influence claim;
   2016-08-31-af-martin-luther, flagged promotion watch;
-  2016-10-16-af-augustine, the every-soul avenue and the modes it uses.
+  convictions as to what is truth"; 2017-01-04-af-james, the soul's own test,
+  "There is a sense of rightness when you come upon a truth," guarding against
+  spirit explanations as well as human ones; 2018-08-06-af-solomon, "must test the
   Structural note: the Foundation section's anchor is an open choice.
   2016-03-27-af-seretta-kem holds it as a developed statement of the
   mechanism, with 2016-12-06-af-seretta-kem the fuller laws-and-conditions
@@ -1591,7 +1593,12 @@ message_ids already carry the dates.
   whole world; 2019-02-04-af-jesus, the hierarchy stated as something to be
   taught to others.
   How the soul knows. 2016-03-27-af-seretta-kem, the wordless truth filtered
-  and distorted as it passes into the material mind; 2017-08-21-af-matthew,
+  and distorted as it passes into the material mind; 2017-01-04-af-james, a
+  truth many-sided "like looking into a crystal," whose facets "the mind
+  cannot comprehend" and the soul can, with the mind "merely the tip of the
+  iceberg" and its complex ideas "rendered into very simple understandings of
+  the mind, yet very deep and profound perceptions of the soul";
+  2017-08-21-af-matthew,
   soul-knowing arriving as feeling because the whole soul is engaged in it;
   2018-03-02-af-andrew, impressions coloured by the receiver's own condition;
   2018-11-28-af-augustine, the soul absorbing truth where the mind constructs
@@ -2639,7 +2646,9 @@ message_ids already carry the dates.
   2016-11-26-af-andrew, "It is so simple, my beloveds, so simple," with the
   manner named as innocence, simplicity and grace; 2016-12-03-af-matthew, the
   simplicity put in terms of time and effort, "it is simple, it takes little
-  time, it takes but a sincere effort"; 2018-11-28-af-augustine, "Yes, it is a
+  time, it takes but a sincere effort"; 2017-01-04-af-james, complex ideas
+  "rendered into very simple understandings of the mind" as the soul grows;
+  2018-11-28-af-augustine, "Yes, it is a
   simple path, is it not? It is not adorned with many complex ideas and this
   is for a reason."
   Witnesses, where the complication is located. 2016-09-04-af-augustine
@@ -2802,7 +2811,13 @@ message_ids already carry the dates.
   Elaborations, which road opens them and how far. 2016-10-16-af-augustine
   removes the ceiling, the Celestial spirits themselves still growing, "we too
   are upon a journey of understanding just as you are but we are a little
-  further ahead than you"; 2019-01-21-af-augustine gates the deeper faculties
+  further ahead than you"; 2017-01-04-af-james gates the knowing of truth to
+  the Love and describes it from within, the Spirit of Truth residing "within
+  all who receive Divine Love" and giving "a signal, a sense, a knowing that
+  you have discovered the truth," a rightness unlike the mind's agreement,
+  with truth once perceived never dislodged, and the order fixed, "You cannot
+  put the cart before the horse, my son. You must pray first, earnestly for
+  the blessing of this Love"; 2019-01-21-af-augustine gates the deeper faculties
   to the Divine road, "a place of deep joy and recognition that can only come
   through the gifts and faculties of your soul," where the natural road lacks
   "the depth and acuity of the knowings of the soul."
@@ -3271,7 +3286,8 @@ message_ids already carry the dates.
   the choice put as a formal question with two named alternatives;
   2016-11-28-af-seretta-kem, both roads named as roads to the light, "Be it
   upon the path of the Natural Love or the path of God's Divine Love, but
-  choose they must a path to the light."
+  choose they must a path to the light"; 2017-01-04-af-james, "two distinct
+  pathways leading to two distinct places, endpoints. They are both heavens."
   Structural note: the Capstone section has two candidates and the choice is
   only the anchor, since both belong in the section either way.
   2016-05-02-af-andrew holds it, stating the fork as a choice, carrying the

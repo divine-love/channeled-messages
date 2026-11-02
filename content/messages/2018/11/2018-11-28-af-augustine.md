@@ -35,6 +35,7 @@ questions:
   - "What does it mean for the material mind and the soul mind to collaborate and integrate?"
   - "How do I stop my mind from compulsive speculation and return to simple trust in God?"
 related_messages:
+  - 2017-01-04-af-james
   - 2018-12-02-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/all-truth-comes-from-the-soul/"
@@ -47,7 +48,7 @@ excerpt: >
 door: >
   The mind builds its own truth. The soul simply receives it. Only prayer opens the deeper channel.
 collections: ["Mind & Soul", "Two Paths", "The Saints & Apostles Speak"]
-last_edited: 2026-10-29
+last_edited: 2026-11-01
 ---
 
 I see that you have had a lively discussion this morning. One rather controversial in nature. One that has ruffled the feathers of a few, maybe even caused the clouds to collide to make thunder ( laughter). My dearly beloved brothers and sisters, you must realize that the multitude of spirits in the spirit world is vast and complex. Within that complexity are a great deal of perspectives and what you would call realities because the mind is a powerful tool that is expressed more readily within the world of spirit creating these realities in which many spirits abide by and live within, and believe that they have found truth. Indeed, they have found a truth that they have created of themselves and made a world real and substantial through their own creation.

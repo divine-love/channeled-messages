@@ -46,6 +46,7 @@ questions:
 related_messages:
   - 2016-02-02-af-jesus
   - 2016-12-12-af-augustine
+  - 2017-01-04-af-james
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -57,7 +58,7 @@ excerpt: >
 door: >
   Everyone has an opinion about what is coming. Only God can tell you what is true.
 collections: ["Prism of the Soul"]
-last_edited: 2026-10-30
+last_edited: 2026-11-01
 ---
 
 It is your friend Alec. Many of you have been so faithful over the years in coming together consistently with the highest of intentions, seeking the Father’s Love, working together, loving and supporting one another. What a powerful testimony you make, my dear friends, in your efforts to continue to bring this Light of God’s Love into your midst, into your lives, and developing a channel of His Love through you.
