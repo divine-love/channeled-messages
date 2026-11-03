@@ -40,6 +40,7 @@ questions:
   - "How do I know if a spiritual teacher is pointing me to God or to themselves?"
   - "Can my earthly interests and mistakes still lead me to God?"
 related_messages:
+  - 2017-05-13-af-yogananda
   - 2019-01-31-af-yogananda
   - 2019-04-08-jw-yogananda
 audio_url: ""
@@ -54,7 +55,7 @@ excerpt: >
 door: >
   The guru spent a lifetime teaching reincarnation. Death was where he learned it was never true.
 collections: ["Letters from History"]
-last_edited: 2026-10-13
+last_edited: 2026-11-03
 ---
 
 My dear boy, my dear friend, I wish to start at the beginning as this seems the best place to begin.

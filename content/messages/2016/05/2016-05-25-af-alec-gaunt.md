@@ -40,6 +40,7 @@ questions:
   - "Can people be receiving God's Love without calling it that?"
 related_messages:
   - 2016-11-27-af-augustine
+  - 2017-05-13-af-yogananda
   - 2019-01-31-af-augustine
 audio_url: ""
 canonical_url: ""
@@ -53,7 +54,7 @@ door: >
   The mind's labels change. What you are actually looking at, in anyone, is a
   soul that is either turning toward God or not.
 collections: ["Service & Mission"]
-last_edited: 2026-08-25
+last_edited: 2026-11-03
 ---
 
 God bless you, my friends, it is good to be with you in this circle of Light, to pray with you and to see all of your beautiful faces coming together to receive in this way the blessing of God’s Love.

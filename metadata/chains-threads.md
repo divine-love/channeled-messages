@@ -3993,6 +3993,22 @@ only stating it.
   gathering movement itself, "you will all join together one day in a great
   movement that cries out for healing of this world". Mint when a message
   develops the two-currents framing rather than restating it.
+- `unique-in-harmony`, souls of every tradition who come to the Love keep
+  their distinctness, and the differences joined in harmony make the Truth
+  fuller rather than divide it, so every seeker is to be accepted. Seen:
+  2017-05-13-af-yogananda, the differences as God's design, "This is how God
+  created us all, is it not, with these differences? When we bring them
+  together, we create Truth, beautiful Truth." 2018-08-01-af-andrew develops
+  it from the Celestial Heavens, where those who led "various religions in the
+  world have come to the highest Truth of God's Love" and their trappings are
+  "both inconsequential as well as beautiful adornments of the spirit," each
+  soul "like a magnificent flower in God's garden, unique and beautiful."
+  Fenced from `divine-love-without-knowing`, which is reception without the
+  mind's understanding; from `judgment-to-love`, which is what to do with the
+  impulse to judge; and from `religious-error`, which is the error a tradition
+  carries: this candidate is what becomes of a soul's differences once the
+  Love is reached. Mint when a message develops why the differences enrich
+  rather than only affirming them.  
 - `unlimited-reception`, the soul's capacity to receive Divine Love is
   unbounded, so reception never completes and at-onement is an endless
   approach rather than a destination. Seen: 2015-10-12-af-augustine ("shall
