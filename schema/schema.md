@@ -5,7 +5,7 @@ All contributors should follow these conventions to ensure consistency, searchab
 
 This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
-Last updated: 2026-10-12
+Last updated: 2026-11-02
 
 ---
 
@@ -212,7 +212,7 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **location.city** | string | The city or locality where the message was received. | `Gibsons` |
 | **location.region** | string | The state, province, or region. Optional; leave blank if not applicable. | `BC` |
 | **location.country** | string | The country where the message was received. Optional. | `Canada` |
-| **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for regular prayer circles. Use a consistent name for all messages from the same event. DLSF Board Meetings use the consistent name `"DLSF Board Meeting"`. | `"August 2015 Gibsons Retreat"` |
+| **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for regular prayer circles. Use a consistent name for all messages from the same event. DLSF Board Meetings use the consistent name `"DLSF Board Meeting"`, and messages received while the Direct Voice circle sits, praying for the physical manifestation of celestial spirits, use `"Direct Voice"`. A Direct Voice sitting held during a retreat takes the retreat name here and records the Direct Voice setting in `notes`. | `"August 2015 Gibsons Retreat"` |
 | **message_type** | array of strings | Exactly one of: **Blessing, Guidance, Teaching**. Choose the single label that best describes the message. `Teaching` is reserved for structured doctrinal lessons; `Blessing` is purely affirming and prayerful with no instructional content; any directive content makes it `Guidance`. When in doubt between Blessing and Guidance, choose Guidance. | `["Teaching"]` |
 | **description** | string (block scalar) | A short (1-2 sentence) summary describing the purpose or insight of the message. Maximum 600 characters (enforced by the schema). Use YAML block scalar format (`>`) to prevent long lines. | `description: >`<br>`  Encouragement to release fear and trust God's protection.` |
 | **primary_subjects** | string | The single most relevant subject drawn from any level of the subject hierarchy, top category or subcategory. Represents the central theme of the message. Must be a name defined in `metadata/subjects.yml`. | `"Free Will & Human Error"` |

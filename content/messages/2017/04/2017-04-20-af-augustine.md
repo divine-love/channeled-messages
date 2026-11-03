@@ -9,7 +9,7 @@ location:
   city: "Abbotsford"
   region: "BC"
   country: "Canada"
-gathering: ""
+gathering: "Direct Voice"
 message_type: ["Guidance"]
 description: >
   Augustine tells the circle that after years of preparation and prayer they
@@ -45,8 +45,7 @@ related_messages:
   - 2016-12-10-af-james
 audio_url: ""
 canonical_url: ""
-notes: >
-  Received in the Direct Voice group.
+notes: ""
 essential_teachings: ["Prophecy"]
 language: en
 excerpt: >

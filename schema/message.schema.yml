@@ -85,7 +85,9 @@ properties:
     description: >
       Optional name of the retreat, gathering, or event at which the message was received.
       Use a consistent name for all messages from the same event so they can be grouped.
-      Leave blank for regular prayer circles. Examples: "August 2015 Gibsons Retreat",
+      Leave blank for regular prayer circles. Standing settings keep one name:
+      "DLSF Board Meeting", and "Direct Voice" for messages received while the
+      Direct Voice circle sits. Examples: "August 2015 Gibsons Retreat",
       "2019 Harrow Retreat", "Happy Days Farm Retreat November 2025".
 
   message_type:

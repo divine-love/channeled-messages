@@ -1293,12 +1293,16 @@ def main():
             props += [f"  - {q(spirit_link(sp))}" for sp in mentions]
         if fm.get("canonical_url"):
             props.append(f"canonical_url: {q(fm['canonical_url'])}")
+        byline = (f"**Spirit:** {spirit_link(fm.get('spirit_id',''), spirit)} · "
+                  f"**Medium:** {fm.get('medium','')} · **Date:** {date}")
+        if fm.get("gathering"):
+            # shown in the visible byline, since Publish hides properties
+            byline += f" · **Gathering:** {fm['gathering']}"
         lines = props + ["---",
                  "",
                  f"# {titles[mid]}",
                  "",
-                 f"**Spirit:** {spirit_link(fm.get('spirit_id',''), spirit)} · "
-                 f"**Medium:** {fm.get('medium','')} · **Date:** {date}",
+                 byline,
                  ""]
         # --- Reading order: excerpt, message, description, related, chains,
         # questions. The door is deliberately NOT shown here: the message
