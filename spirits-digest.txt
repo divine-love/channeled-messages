@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-11-02 from spirits/*.yml (58 files). Read-only reference for biography cross-checks;
+Generated 2026-11-03 from spirits/*.yml (58 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -734,6 +734,13 @@ notes: >
   he recalls his own Earth life: "I, too, was the object of such ridicule
   when I walked the Earth. I, too, struggled with these conditions so
   prevalent in the world."
+
+  In 2017-03-30-af-jesus he speaks of the crucifixion: "I did not suffer as
+  greatly as you might imagine, that my Heavenly Father made sure that my body
+  was not in great suffering as those who wished to see me die continued to
+  violate and violate my flesh. My consciousness was with God at the time." He
+  calls his death premature, and says the Father assured him that his mission
+  was successful and that his disciples would understand his message.
 
 ========================================================================
 FILE: spirits/john-the-beloved.yml
@@ -1655,6 +1662,12 @@ spirit_description: >
   through the gift of Direct Voice mediumship. He is among the few spirits in
   the archive who have come through more than one medium.
 notes: >
+  In 2017-05-13-af-yogananda, speaking at his sanctuary in Encinitas, he says
+  he inhabits the Celestial Kingdom, and that though his words were different
+  and his teachings reflected his life and background, he too brought the
+  Truth of God's Love into the world and dedicated his life to soul awakening.
+
+
   In 2018-11-21-af-yogananda he acknowledges his own struggles with spiritual
   harmony during his Earth life, and expresses his desire to speak through
   Direct Voice mediumship.
