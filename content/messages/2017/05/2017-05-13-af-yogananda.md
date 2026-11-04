@@ -25,7 +25,7 @@ secondary_subjects:
   - "Releasing Judgment"
   - "Awakening Mass Consciousness"
   - "Spirit Testimony & Personal Story"
-people: ["J W"]
+people: ["Jimbeau Walsh"]
 spirits: []
 keywords: ["Self-Realization", "Encinitas", "diversity", "acceptance", "tolerance", "interfaith", "Celestial Kingdom", "candle", "garden", "biases", "unique voice", "soul awakening", "bliss"]
 questions:
@@ -57,7 +57,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   When different souls bring their truth together, they create something more beautiful than any one of them could alone.
-last_edited: 2026-11-02
+last_edited: 2026-11-03
 ---
 
 Friends, I am indeed Yogananda and I thank you for coming to my sanctuary, for being in this place and adding your prayers to this beautiful garden. You see, Light is everywhere, beloveds, Light is everywhere.

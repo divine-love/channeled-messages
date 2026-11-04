@@ -1556,6 +1556,7 @@ description or summary, and every quote is checked against the message text.
 - NOTE (sighting, `unique-in-harmony`): differences as God's design and their joining as Truth, "This is how God created us all, is it not, with these differences? When we bring them together, we create Truth, beautiful Truth," with each soul bringing "their truth, their understanding, in their unique ways and their unique voice."
 - NOTE (considered and set aside, `religious-error`): he speaks of his own teaching but corrects nothing in it, holding that it carried the same Truth, "my words were different, my teachings reflected my life and background."
 - NOTE (build, `religious-error`): the Yogananda section members correct his reincarnation teaching; read beside them, this message keeps the correction from reading as a disowning of all he taught, since here the root of his teaching is the Truth of God's Love.
+- NOTE (witness, `divine-love-mediumship`): a rapport with a living man from the spirit's side, ahead of the messages Rev. Jimbeau Walsh later receives from him at 2019-04-01-jw-yogananda: "My friend [J W], I am with you often and we have many conversations in spirit as you sleep."
 - NOTE (context): received at his own sanctuary in Encinitas, "I thank you for coming to my sanctuary, for being in this place and adding your prayers to this beautiful garden."
 
 ### 2017-06-15-af-augustine | Lesson on Judgement | 2017-06-15

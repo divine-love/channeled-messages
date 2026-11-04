@@ -733,7 +733,9 @@ message_ids already carry the dates.
   mind's own interpolation, with the Love as the safeguard;
   2017-04-10-af-james, the instrument's clarity as the alignment of image,
   desire and mind, the instruments "required to make effort to be clear and
-  focussed."
+  focussed";
+  2017-05-13-af-yogananda, a rapport with a living man already under way from
+  the spirit's side, "we have many conversations in spirit as you sleep."
   Structural note: the Foundation section's anchor is an open choice.
   2016-03-27-af-seretta-kem holds it as a developed statement of the
   mechanism, with 2016-12-06-af-seretta-kem the fuller laws-and-conditions
