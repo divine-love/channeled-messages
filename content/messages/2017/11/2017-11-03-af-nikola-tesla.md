@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: "Direct Voice"
 message_type: ["Teaching"]
 description: >
   Nikola Tesla speaks from spirit about his continued exploration of the
@@ -58,7 +58,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   Love is not just a feeling. It is the most powerful energy in the universe, and its capacities have barely been understood
-last_edited: 2026-10-29
+last_edited: 2026-11-03
 ---
 
 Are you surprised? I am so pleased to be with you my friends. Yes there are many of us working in unison to help you in these ventures. And my particular understanding of the mechanics of the universe come into play in my assistance of the development of your gift. For in many respects this gift has an electrical component and of course it is all energy, is it not? Many different forms of energy. I've had the opportunity since being in spirit to explore these concepts and experiment in many different ways. And so I am excited of the prospects of working with you to bring a deeper understanding of the mechanics of your world, and of the universe of God. There is so much that can be given to humanity through your efforts. These things may be given once humanity is able to utilize these gifts with wisdom and to bring greater harmony into the world. For now it would not be advisable, but in the coming times which are almost upon us, there will be greater opportunity for humanity to shift in its awareness and objectives and desires for the world.

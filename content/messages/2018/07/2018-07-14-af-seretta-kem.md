@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: "Direct Voice"
 message_type: ["Teaching"]
 description: >
   Seretta Kem delivers a compassionate teaching on the rhythm of soul expiation,
@@ -63,7 +63,7 @@ excerpt: >
 collections: ["Healing Path"]
 door: >
   When you look back upon your lives, you will feel as much gratitude for the difficult times as for the times of joy. It is in the difficult times that the greatest progress is made
-last_edited: 2026-10-29
+last_edited: 2026-11-03
 ---
 
 I was very pleased to be able to speak to you through the instrument who sits in this circle, the dear soul who has a deep desire to serve God and utilize her gifts for the benefit of others.
