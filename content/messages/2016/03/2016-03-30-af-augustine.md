@@ -44,6 +44,7 @@ related_messages:
   - 2016-04-12-af-augustine
   - 2016-07-10-af-augustine
   - 2017-03-27-af-james
+  - 2018-06-24-af-luke
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/lesson-power-humility/"
 notes: >
@@ -60,7 +61,7 @@ excerpt: >
 collections: ["Letters from History", "The Saints & Apostles Speak"]
 door: >
   True power is not control. It is the strength that comes from letting God flow through you unrestricted
-last_edited: 2026-04-23
+last_edited: 2026-11-14
 ---
 
 God bless you, my students, I am your teacher Augustine, and I have come to talk to you on the subject of humility. For this very quality I lacked when I walked the Earth. I was a man full of ambition, full of opinion, full of a desire for power and I possessed a somewhat developed intellect and I had a great desire for pleasures of the flesh. In other words, I was very human, very human in my life on Earth, and made very human choices. And yet God touched my soul in prayer, God lifted me up in prayer and I did indeed receive the first drops of His Love in those times when I was in a position of power and control within our church. This created a great conflict within myself, for I knew there was a higher road to take and yet I resisted. I fought my soul's inclinations and I chose a road of power, the exertion of my desire to control, to dominate. This was partly due to my own personality, which is strong, and partly due to my fears that I would lose my power and my dominance. So I chose a road which in the end, the outcome was that I taught error. I taught error and that error to some degrees still survives to this day within the church. I did not listen to God, I listened to my own mind and desire and fears, my own humanity.

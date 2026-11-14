@@ -45,6 +45,8 @@ related_messages:
   - 2016-03-30-af-augustine
   - 2016-09-03-af-mary
   - 2017-01-16-af-keea-atta-kem
+  - 2018-06-24-af-luke
+  - 2018-07-22-af-seretta-kem
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/lesson-on-judgement/"
 notes: >
@@ -60,7 +62,7 @@ excerpt: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
   With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot judge
-last_edited: 2026-10-29
+last_edited: 2026-11-14
 ---
 
 You have requested a talk on judgment. So I will talk about the urge to judge your brothers and sisters in this world.

@@ -10,7 +10,7 @@ location:
   region: BC
   country: Canada
 gathering: "Direct Voice"
-message_type: ["Teaching"]
+message_type: ["Guidance"]
 description: >
   Yogananda addresses the group's deliberations about a journey to India, using
   his own experience of leaving India for America as a teaching on faith,
@@ -41,9 +41,8 @@ questions:
   - "What is Direct Voice mediumship?"
   - "Is a life of service to God compatible with a normal life?"
 related_messages:
-  - 2016-08-17-af-james-padgett
-  - 2017-05-13-af-yogananda
   - 2017-05-22-af-andrew
+  - 2018-05-04-af-yogananda
   - 2019-04-06-af-yogananda
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/choice-and-accepting-the-will-of-god/"
@@ -54,13 +53,11 @@ notes: >
 essential_teachings: ["Spirit Biography"]
 language: en
 excerpt: >
-  God will never turn away from you no matter what you decide. But if every
-  invitation is rejected, these invitations will cease, for God respects your
-  free will. He waits until you are ready.
+  If you do not, other invitations will come. But if every invitation is rejected then these invitations will cease, for God respects your free will. He waits. He waits until you are ready.
 collections: ["Service & Mission", "Letters from History"]
 door: >
-  God will never turn away from you no matter what you decide. But if every invitation is rejected, the invitations will cease
-last_edited: 2026-11-03
+  God never demands. He invites, and invites again, and waits until you are ready.
+last_edited: 2026-11-14
 ---
 
 And I heard your conversations regarding a journey to my country and this instrument's curiosity and concern about the guidance given by me some months past. He has a deep desire to fulfill God's Plan in this world and so he has cast about in his mind as to how can this be. How can I go to a place unknown and fulfill God's Will? I say, think of the disciples of Jesus. Did they not travel the world? Did they not have faith enough in God that upon their travels God presented many opportunities to serve in love. I learned this as well on my travels. I could have rejected the idea of going to America. I could have stayed in my safe place in a culture I understood, in a land of my birth but I chose to follow the yearnings of my soul. This brought me many experiences and opportunities to teach and serve and love.

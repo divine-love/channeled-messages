@@ -16,7 +16,7 @@ description: >
   habits of the mind that obstruct the soul's full expression of Love. He traces these
   patterns to childhood conditioning, explains how self-judgment compounds them, and
   teaches that only the combined power of disciplined awareness, prayer, and God's Touch
-  can melt them away — freeing each soul to become a true and unobstructed channel of
+  can melt them away, freeing each soul to become a true and unobstructed channel of
   Divine Love in the world.
 primary_subjects: "Releasing Judgment"
 secondary_subjects:
@@ -43,18 +43,19 @@ related_messages:
   - 2017-06-15-af-augustine
   - 2018-06-24-af-luke
   - 2018-06-26-af-matthew
+  - 2018-08-06-af-solomon
+  - 2018-08-27-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-mind-patterns/"
 notes: ""
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
-  When the mind acquiesces to the wisdom of the soul, then you will know a great joy,
-  a wonderful happiness in your life.
+  I tell you, beloveds, you will break the patterns. You will rise above the human condition.
 collections: ["Mind & Soul"]
 door: >
-  Are you willing to truly live this Love — not in half measure, not in three quarters measure, but in full measure?
-last_edited: 2026-11-03
+  Your soul is already bright. It is the mind's old habits that keep its light from reaching the world.
+last_edited: 2026-11-14
 ---
 
 I am Seretta Kem. I wish to talk about the habits and routines of your life. We have said many times that one of the great hurdles that you all face in living a life in harmony with God's Laws of Love are the many thought patterns, habits, that you express in your daily life and routines. Indeed, the dear soul has recommended that you become more aware of your judgments and to circumvent these judgements so that your thoughts are of a higher caliber and your sentiments are that of love rather than something that is not of love. This is a noble aspiration, beloved souls. It is a way of choosing light, of making a conscious choice within your material minds of how you will express yourselves in the world. It does indeed have its merits and its benefits. It allows more love to come through and be expressed by you in your life.

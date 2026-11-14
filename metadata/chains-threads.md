@@ -6,7 +6,7 @@ description: >
   minted, and open questions to revisit when building begins. Companion to
   chains-log.md, which holds the chronological per-message evidence. This file
   is NOT generated and NOT a schema. Nothing here is final.
-last_updated: 2026-11-02
+last_updated: 2026-11-14
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -1125,6 +1125,13 @@ message_ids already carry the dates.
   must move in the world," with the failure mode named, "the one who sits and
   waits is lost." It converts Augustine's permission into a condition: God's
   Will does not manifest without the seeker's movement.
+  Testimony. 2017-10-25-af-yogananda gives the willing-soul step from his own
+  life: he could have stayed "in my safe place in a culture I understood," he
+  faced the choice he puts to the circle, "do I follow the Will of God or do I
+  follow my will?", and he names willingness, not endowment, as what let God
+  work through him, "It was because I was willing." He also states God's side
+  of the terms: invitations, never demands, that cease only "if every
+  invitation is rejected".
   Witnesses. 2016-04-12-af-moses, the plan needing people who need not
   understand it; 2016-09-05-af-andrew, the willing soul as the means;
   2016-10-15-af-confucius, "though within your minds you do not see the
@@ -1493,7 +1500,13 @@ message_ids already carry the dates.
   underneath, "Beyond these feelings often lies a very deep feeling of being
   unloved and unrecognized in the world," with a daily test whose pass mark is
   recognizable: facing someone who has stirred the old feelings again and
-  again, and finding "love, compassion, and forgiveness" there instead.
+  again, and finding "love, compassion, and forgiveness" there instead;
+  2018-07-22-af-seretta-kem traces the habit to love withheld in childhood,
+  "ingraining within a child a sense that they are not loveable is very
+  damaging indeed," and follows a commitment to defer judgment through the
+  reflex it exposes and the self-judgment that compounds it, "judging yet
+  again your own inability to follow what appears to be a simple request to
+  not judge."
   Where the rule bends and where it reaches. 2016-08-11-af-alec-gaunt licenses
   a bounded exit, "to engage with love or to disengage where there is no
   possibility of love. And this is not being weak," conditioned on there being
@@ -1695,6 +1708,10 @@ message_ids already carry the dates.
   integration under way, "a sense of disconnection, of worry for your own
   future, a confusion regarding your priorities... This is all part of the
   transition of your soulful light infusing your beautiful minds";
+  2018-07-22-af-seretta-kem, the hurdle placed in the mind's patterns rather
+  than the soul, "your souls have received a good measure of Divine Love and
+  are bright," with the soul's condition to "inhabit your minds, to infuse
+  your minds with light";
   2018-10-09-af-seretta-kem, the reversal, the newly awakened soul as the
   weaker party needing the mind's accumulated strength;
   2019-03-03-mc-keea-atta-kem, befriending the mind rather than subduing it;
@@ -2853,13 +2870,23 @@ message_ids already carry the dates.
   that every part of your soul that is contaminated with darkness, memories
   and pain, be reconciled and brought to Light, bit by bit," and adds the
   positive ledger, so the accounting runs both directions rather than tallying
-  injury alone; 2018-10-09-af-seretta-kem connects expiation to the merging of
+  injury alone; 2018-06-24-af-luke makes the seeker's honesty the way in, the
+  realizations disclosed "primarily to yourselves" and answered by the soul,
+  "with these realizations comes your soul's response in prayer to be released
+  and healed from these conditions," with the awareness itself "a gift" that
+  marks progress; 2018-10-09-af-seretta-kem connects expiation to the merging of
   the two minds, so the clearing is not only purification but the removal of
   what stands between them; 2019-02-15-af-matthew adds that the gradual road
   is itself a mercy, sparing the soul a heavier load carried into spirit;
   2019-02-24-af-andrew adds the communal facet, God bringing differing souls
   together so that "presumptions and insights that are obscured by one, may
   come clear to another."
+  Objections removed. 2016-09-12-af-jerome clears the externalizing account
+  of one's own negative states, "those negative reactions belong to you...
+  they come from you." 2023-02-10-af-augustine clears the purify-first
+  barrier, "It is not as others have said that they must first cleanse all of
+  these conditions before they are able to know their soul or receive the
+  great gift of God's Love. Rather, the contrary is true."
   Reframe, anchor: 2016-03-11-af-luke recasts the cause: the encrustations are
   not the mark of sin but the residue of having lived in this world, so the
   seeker is "in a way a victim" and should meet their own cleansing with
@@ -2870,12 +2897,10 @@ message_ids already carry the dates.
   or not growing, or that the encrustations are not falling away."
   2018-07-14-af-seretta-kem recasts the difficulty itself as when the greatest
   progress is made, with the angels as midwives.
-  Objections removed. 2016-09-12-af-jerome clears the externalizing account
-  of one's own negative states, "those negative reactions belong to you...
-  they come from you." 2023-02-10-af-augustine clears the purify-first
-  barrier, "It is not as others have said that they must first cleanse all of
-  these conditions before they are able to know their soul or receive the
-  great gift of God's Love. Rather, the contrary is true."
+  Chrysalis, anchor: 2018-07-14-af-seretta-kem, held as a candidate,
+  describes the joy the cleansing leaves as it stands, "a joy that is not
+  reliant upon some condition from without you but a condition within that is
+  steady and sure and continues to grow."
   Testimony. 2019-02-16-mc-seretta-kem witnesses a single expiation from the
   inside, start to finish, through one soul's recent experience, related with
   her consent and unnamed: the inflowing Love loosens a condition ready to
@@ -3507,6 +3532,13 @@ message_ids already carry the dates.
   since "if you are not out amongst mankind there is no way that God can use
   you as a channel to touch others," and gives the time together a purpose
   beyond itself, "to replenish and to heal, to strengthen and to teach."
+  2017-10-25-af-yogananda meets the commission as one concrete invitation, a
+  journey to India, and names the weariness that holds back the going, "Some
+  of you are feeling taxed by the commitment you have made already," with the
+  doors opening on the circle's readiness, "When you are ready to take up the
+  mantle, to be brave and faithful, doors will open," and the cost of holding
+  back falling on the service itself, "when you put limitations on God, you
+  put great limitations on yourself."
   Objection-removed: 2016-12-10-af-james clears the belief that answering the
   call costs the people who depend on you, "This does not mean that your life
   will become chaos and those about you and who rely on you and who love you
@@ -3599,7 +3631,9 @@ message_ids already carry the dates.
   the plans step, "When those well laid plans that you make do not come to
   fruition," without carrying it further. 2017-04-20-af-augustine joins it to
   security, "ideas and dreams that I have concocted to give me a sense of
-  security," which leans toward one idea restated.
+  security," which leans toward one idea restated. 2017-10-25-af-yogananda
+  names the mind's weighing of feasibility, "burden yourselves with assessment
+  of the possibilities of success," which sits with the plans step.
   Structural note: 2016-01-08-af-jesus also carries a `healing-channel`
   witness for its "great channel of service."
 
@@ -4114,6 +4148,21 @@ Recurring observations recorded but not penned as candidate threads.
   comes," there for what comes through mediums. It touches
   `divine-love-mediumship`, which locates verification in the soul, and the
   cost side of `spiritual-fellowship`, without belonging to either.
+
+- **The gift and the channel.** Direct Voice and the other gifts the circle
+  prays for are placed below the Truth they would carry, in two ways. The work
+  does not wait on the gift: 2017-10-25-af-yogananda sends the circle to India
+  "whether you are endowed with the gift of Direct Voice or not," and
+  2018-01-21-af-professor-salyards holds the gift worth pursuing for the
+  attention it would draw, while "It is not reliant solely upon the
+  achievement of this gift of direct voice". And the gift waits on the
+  condition of those who would carry it: 2017-11-03-af-nikola-tesla,
+  knowledge held back until humanity "is able to utilize these gifts with
+  wisdom"; 2018-06-24-af-luke, "But first you must be the epitome of this
+  Love"; 2018-07-22-af-seretta-kem, "you cannot bring forth a gift, however
+  remarkable it is, without truly being an example of the truth." It touches
+  `divine-love-mediumship` and `bell-toll-instrumentality` without belonging
+  to either.
 
 ---
 
