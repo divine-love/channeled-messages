@@ -38,6 +38,13 @@ What it builds:
       the chains log - the facet claimed, the quoted passage, the fence - plus
       the log line number to edit at the source. Witness- and sighting-level
       NOTEs are listed at the foot rather than discarded.
+  Chains (working)/<Display Title>.md   the curator's mirror of each hub,
+      NOT published. It adds the curatorial asides, the log file and line of
+      every record, and under each record an "In context" fold-out showing
+      the paragraph each quoted passage comes from, with the quoted words
+      highlighted. The published hubs link to whole messages only, never to
+      a passage (the unit of linking is the whole message), and nothing is
+      added to the message notes for this.
   Chains Index.md                   all threads in two tables, those with
       structural gaps first, so an incomplete chain is visible in one scan
   Subjects/<Name>.md, Spirits/<Display Name>.md, Collections/<Name>.md
@@ -650,6 +657,158 @@ MSGID_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z0-9-]*)\b")
 # thread that has a hub, so linkify_ids can turn those spans into links.
 CHAIN_LINKS = {}
 SLUG_SPAN_RE = re.compile(r"`([a-z0-9]+(?:-[a-z0-9]+)*)`")
+
+
+# ── Quotes in context (working mirror only) ─────────────────────────────────
+# The published chain hubs link to whole messages and never to a passage: the
+# unit of linking is the whole message, so a quote sends the reader to the
+# full text, not to a fragment of it. The working mirror is not published,
+# and there the curator needs to check that a quote says what the record
+# claims. So under each record the mirror carries a fold-out showing the
+# paragraph each quoted passage comes from, with the quoted words
+# highlighted. It is worked out fresh from the message text on every build,
+# and nothing is added to the message notes.
+
+QUOTED_RE = re.compile(r'"([^"]+)"')
+ANY_QUOTE_MARK = "'\"\u2018\u2019\u201c\u201d"
+_PARAGRAPHS = {}
+
+
+def message_paragraphs(mid, messages):
+    """A message's paragraphs, each on one line, in order."""
+    if mid not in _PARAGRAPHS:
+        body = messages[mid][1] if mid in messages else ""
+        paras = [re.sub(r"\s+", " ", para).strip()
+                 for para in re.split(r"\n\s*\n", body or "")]
+        _PARAGRAPHS[mid] = [para for para in paras if para]
+    return _PARAGRAPHS[mid]
+
+
+def quoted_passages(evidence):
+    """
+    The quoted passages in a record's prose. A quote with an ellipsis is
+    several passages; closing punctuation is dropped, since the log's
+    sentence may end where the message's does not.
+    """
+    out = []
+    for quote in QUOTED_RE.findall(evidence or ""):
+        for part in re.split(r"\.\.\.|\u2026", quote):
+            part = part.strip().strip(",.;:?!").strip()
+            if len(part) >= 4:
+                out.append(part)
+    return out
+
+
+def _passage_pattern(passage):
+    """
+    A pattern that finds a quoted passage in a message's text. Any run of
+    white space matches any other, so a passage may cross a paragraph break.
+    Any quotation mark matches any other, since the log writes a message's
+    own inner double quotes as single ones and some messages use curly
+    marks. The first letter matches in either case, since a log sentence
+    may open a quote mid-sentence with a capital.
+    """
+    words = []
+    for word in passage.split():
+        words.append("".join(f"[{ANY_QUOTE_MARK}]" if ch in ANY_QUOTE_MARK
+                             else re.escape(ch) for ch in word))
+    pattern = r"\s+".join(words)
+    first = passage[0]
+    if first.isalpha():
+        pattern = f"[{first.lower()}{first.upper()}]" + pattern[1:]
+    return re.compile(pattern)
+
+
+def find_passage(passage, paragraphs):
+    """
+    Where a passage first occurs: [(paragraph index, start, end)], one item
+    for each paragraph it touches, or [] when it is not in the text.
+    """
+    found = _passage_pattern(passage).search("\n".join(paragraphs))
+    if not found:
+        return []
+    hits, start = [], 0
+    for index, para in enumerate(paragraphs):
+        end = start + len(para)
+        a, b = max(found.start(), start), min(found.end(), end)
+        if a < b:
+            hits.append((index, a - start, b - start))
+        start = end + 1
+    return hits
+
+
+def highlight(para, spans):
+    """The paragraph with each quoted span marked ==like this==."""
+    merged = []
+    for a, b in sorted(spans):
+        if merged and a <= merged[-1][1]:
+            merged[-1][1] = max(merged[-1][1], b)
+        else:
+            merged.append([a, b])
+    out, last = [], 0
+    for a, b in merged:
+        out += [para[last:a], "==", para[a:b], "=="]
+        last = b
+    return "".join(out) + para[last:]
+
+
+def number_list(numbers):
+    """[7] -> 'paragraph 7'; [3, 7, 9] -> 'paragraphs 3, 7 and 9'."""
+    words = [str(n) for n in numbers]
+    if len(words) == 1:
+        return f"paragraph {words[0]}"
+    return "paragraphs " + ", ".join(words[:-1]) + " and " + words[-1]
+
+
+def quote_context(evidence, mid, messages, titles, notenames):
+    """
+    The "In context" fold-out for one record: (lines, located, not located).
+
+    Each quoted passage is looked for in the record's own message first, and
+    then in any other message the record names, since a record sometimes
+    quotes the message it is being compared with. A passage found nowhere is
+    listed at the foot of the fold-out, so a quote that has drifted from the
+    message text shows up here.
+    """
+    passages = quoted_passages(evidence)
+    if not passages:
+        return [], 0, 0
+    others = [other for other in dict.fromkeys(MSGID_RE.findall(evidence))
+              if other != mid and other in messages]
+    found, missing = {}, []
+    for passage in passages:
+        for source in [mid] + others:
+            hits = find_passage(passage, message_paragraphs(source, messages))
+            if hits:
+                for index, a, b in hits:
+                    found.setdefault(source, {}).setdefault(index, []).append((a, b))
+                break
+        else:
+            missing.append(passage)
+
+    own = sorted(found.get(mid, {}))
+    if own:
+        total = len(message_paragraphs(mid, messages))
+        title = f"In context: {number_list([i + 1 for i in own])} of {total}"
+    elif found:
+        title = "In context: quoted from another message"
+    else:
+        title = "In context: quoted words not located"
+    lines = [f"> [!quote]- {title}"]
+    for source in [mid] + others:
+        spans = found.get(source)
+        if not spans:
+            continue
+        paras = message_paragraphs(source, messages)
+        if source != mid:
+            lines += [f"> From {wiki(source, titles, notenames)}:", ">"]
+        for index in sorted(spans):
+            lines += [f"> **{index + 1}.** {highlight(paras[index], spans[index])}", ">"]
+    if missing:
+        lines += ["> *Not located in the message text:* "
+                  + "; ".join(f'"{passage}"' for passage in missing), ">"]
+    lines[-1] = ""          # the trailing ">" becomes the blank line after
+    return lines, len(passages) - len(missing), len(missing)
 
 
 def linkify_ids(text, notenames):
@@ -1384,6 +1543,7 @@ def main():
     # Witness- and sighting-level NOTEs are listed at the foot rather than
     # discarded.
     health_rows = []          # for the Chains Index
+    ctx_located = ctx_missing = 0   # quoted passages, for the build report
     for chain_slug in sorted(set(chain_members) | set(chain_witnesses)):
         mem = chain_members.get(chain_slug, [])
         cname, cdisp = chain_notes.get(chain_slug, (chain_slug, chain_slug))
@@ -1420,7 +1580,8 @@ def main():
         work = ["---", f"aliases: [{chain_slug} working]", "---", "",
                 f"# Chain (working): {cdisp}", "",
                 f"Curatorial view of [[Chains/{cname}|{cdisp}]]. "
-                "Not published.", ""]
+                "Not published. Under each record, *In context* opens the "
+                "paragraph its quoted words come from.", ""]
         if theme:
             # Italic: the theme is the thread's one-line claim, and setting it
             # apart from the argument spine beneath keeps the two from reading
@@ -1457,6 +1618,11 @@ def main():
                 if priv:
                     work += ["> [!note] Curator",
                              "> " + linkify_ids(priv, notenames), ""]
+                context, located, missing = quote_context(
+                    evidence, mid, messages, titles, notenames)
+                work += context
+                ctx_located += located
+                ctx_missing += missing
 
         wits = chain_witnesses.get(chain_slug, [])
         if wits:
@@ -1472,6 +1638,13 @@ def main():
                 work += [f"{head} - {linkify_ids(pub, notenames)}"
                          + (f" **[curator]** {linkify_ids(priv, notenames)}" if priv else "")
                          + f" <small>[{log_ref(log_line)}]</small>"]
+                # The fold-out follows its own bullet as a separate block.
+                context, located, missing = quote_context(
+                    evidence, mid, messages, titles, notenames)
+                if context:
+                    work += [""] + context
+                ctx_located += located
+                ctx_missing += missing
             lines += [""]
             work += [""]
 
@@ -1690,6 +1863,8 @@ def main():
     if written != len(messages):
         print(f"WARNING: {len(messages)} messages loaded but {written} notes written "
               f"- a filename collision may have overwritten a note.")
+    print(f"Quotes in context (Chains (working) only): {ctx_located} quoted "
+          f"passage(s) shown in their paragraphs, {ctx_missing} not located.")
     print(f"Vault built: {len(messages)} messages, {len(chain_members)} chain hubs, "
           f"{len(by_subject)} subject hubs, {total_q} questions indexed.")
     if mirrored_into:
