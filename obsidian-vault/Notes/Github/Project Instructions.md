@@ -19,7 +19,7 @@
 - **`metadata/subjects.yml`** — the subject vocabulary. Validate every subject value against it with code before finalizing; never from memory.
 - **Collection and essential-teaching definitions** live in the DESCRIPTIONS dicts inside `.github/scripts/generate_collections.py` and `generate_essential_teachings.py`. The `content/collections/` and `content/essential-teachings/` folders are generated output; never read them as a source.
 - **`spirits/*.yml`** and **`mediums/*.yml`** — biography and doctrine. When a message reveals biographical detail, update the file in the same session, citing the source message_id; never infer beyond what is stated. Ask before creating a new spirit or medium file (one may already exist).
-- **`metadata/chains-threads.md`** and **`metadata/chains-log.md`** — the chains layer. Their shared front-matter design blocks are the chain rules: role sections in argument order, chronological within each section, one anchor per section, witnesses included rather than discarded, every entry made from a full reading of the message. Build the `chains/` directory only after the archive is caught up through 2026.
+- **`metadata/chains-threads.md`** and **`metadata/chains-log.md`** — the chains layer. These two files hold the rules, the registry, the holding pen, the patterns and the open questions. The log entries are in `metadata/chains-log/`, one file per year of message (`2018.md`), and each minted thread's roster is its own file in `metadata/chains-threads/`, named for its slug (`soul-expiation.md`). Their shared front-matter design blocks are the chain rules: role sections in argument order, chronological within each section, one anchor per section, witnesses included rather than discarded, every entry made from a full reading of the message. Build the `chains/` directory only after the archive is caught up through 2026.
 - **Retrieval caution:** project-knowledge search can return stale chunks of repo files. Files uploaded or pasted in the session, and the live published site, take precedence over retrieved chunks. Before reporting a suspected error in a repo file based on retrieval, ask the curator to confirm against the actual file.
 
 ## Workflow (per message)
@@ -38,7 +38,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 10. Update spirit files for any revealed biography (same session, cite source)
 11. Add any named spiritual Law as a secondary subject immediately
 12. Provide reciprocal related_messages links as full field blocks, inserted in chronological position (sort existing out-of-order lists on touch)
-13. Log to chains-log.md (and update chains-threads.md) when the message warrants it: members, witnesses, or NOTE-level sightings. Insert the entry at its date's position, and check every quote against the message text
+13. Log to the message's year file in `metadata/chains-log/` (and update the thread's roster file in `metadata/chains-threads/`, or chains-threads.md for the holding pen and patterns) when the message warrants it: members, witnesses, or NOTE-level sightings. Insert the entry at its date's position in that year's file, and check every quote against the message text
 14. For a spirit-given prayer, create its practice file and add a context note in the log pointing to it
 15. Batch commit approximately every five messages
 
@@ -50,7 +50,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - All output files go to `/mnt/user-data/outputs/`
 - Confirm every description, excerpt, and door fits its cap with code before delivering
 - Provide reciprocal related_messages lines explicitly in chat so the curator can paste them
-- Session handoff: the curator commits all files, then re-pastes these instructions, subjects.yml, chains-log.md, and chains-threads.md at the start of the next session
+- Session handoff: the curator commits all files, then re-pastes these instructions, subjects.yml, chains-log.md, and chains-threads.md at the start of the next session. Those two chains files now carry only the rules, registry, holding pen, patterns and open questions; the year files and roster files are read from the repo as each message needs them
 
 ## Current state
 

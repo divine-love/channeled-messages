@@ -430,7 +430,7 @@ The `door` is a single sentence distilling the transformative insight hidden wit
 
 ### Em Dashes
 
-No em dashes (—) anywhere in the repository: not in curator-written content (descriptions, excerpts, questions, notes, doors), and not in internal working files such as `chains-log.md` and `chains-threads.md`. Use a colon, comma, or single hyphen (-) as the sense requires, or rephrase. Chain log entry headings use pipes: `### id | Title | date`. Em dashes are a common AI writing pattern and reduce the human feel of the archive.
+No em dashes (—) anywhere in the repository: not in curator-written content (descriptions, excerpts, questions, notes, doors), and not in internal working files such as the chains layer (`metadata/chains-log.md`, `metadata/chains-threads.md`, and the entry and roster files in the `chains-log/` and `chains-threads/` folders beside them). Use a colon, comma, or single hyphen (-) as the sense requires, or rephrase. Chain log entry headings use pipes: `### id | Title | date`. Em dashes are a common AI writing pattern and reduce the human feel of the archive.
 
 ### Canadian English
 

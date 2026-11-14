@@ -4,13 +4,19 @@ on:
   push:
     paths:
       - 'metadata/chains-log.md'
+      - 'metadata/chains-log/**'
       - 'metadata/chains-threads.md'
+      - 'metadata/chains-threads/**'
       - '.github/scripts/validate_chains.py'
+      - '.github/scripts/chains_io.py'
   pull_request:
     paths:
       - 'metadata/chains-log.md'
+      - 'metadata/chains-log/**'
       - 'metadata/chains-threads.md'
+      - 'metadata/chains-threads/**'
       - '.github/scripts/validate_chains.py'
+      - '.github/scripts/chains_io.py'
   workflow_dispatch:
 
 jobs:

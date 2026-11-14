@@ -35,7 +35,7 @@ What it builds:
       then members grouped in role-section
       order (Foundation first), chronological within each section, anchors
       marked (anchor). Each member carries the curator's EVIDENCE PROSE from
-      chains-log.md - the facet claimed, the quoted passage, the fence - plus
+      the chains log - the facet claimed, the quoted passage, the fence - plus
       the log line number to edit at the source. Witness- and sighting-level
       NOTEs are listed at the foot rather than discarded.
   Chains Index.md                   all threads in two tables, those with
@@ -287,8 +287,13 @@ SPIRITS_DIR = ROOT / "spirits"
 MEDIUMS_DIR = ROOT / "mediums"
 GEN_COLLECTIONS = ROOT / ".github" / "scripts" / "generate_collections.py"
 GEN_ET = ROOT / ".github" / "scripts" / "generate_essential_teachings.py"
-CHAINS_LOG = ROOT / "metadata" / "chains-log.md"
-CHAINS_THREADS = ROOT / "metadata" / "chains-threads.md"
+# The chains layer is kept in split files (the log by year, the rosters by
+# thread) and read through chains_io.py, which sits beside this script.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import chains_io  # noqa: E402
+CHAINS_LOG = chains_io.LOG_DOOR          # the log's rules; entries are in
+                                         # metadata/chains-log/, by year
+CHAINS_THREADS = chains_io.THREADS_DOOR  # holds the registry table
 VAULT = ROOT / "obsidian-vault"
 
 ROLE_ORDER = ["Foundation", "Elaboration", "Objection-removed", "Reframe",
@@ -526,7 +531,8 @@ def resolve_home_links(text, resolve):
 
 def parse_chain_memberships():
     """
-    From chains-log.md: two products, both keyed by message_id.
+    From the chains log (metadata/chains-log/, read in year order through
+    chains_io): two products, both keyed by message_id.
 
       members[mid]  -> [(slug, role, is_anchor, evidence, log_line)]
       notes[mid]    -> [(slug, tier, evidence, log_line)]
@@ -539,9 +545,10 @@ def parse_chain_memberships():
     the log.
 
     `evidence` is the curator's prose for that line: the facet claimed, the
-    quoted passage, the fence, the demote-if condition. `log_line` is the
-    1-based line number in chains-log.md, so a hub can point at the exact
-    spot to edit when a correction is needed.
+    quoted passage, the fence, the demote-if condition. `log_line` is where
+    the record lives, as (file name, 1-based line number) - for example
+    ("2018.md", 142) - so a hub can point at the exact spot to edit when a
+    correction is needed. log_ref() writes it out as 2018.md:142.
 
     Continuation lines (hard-wrapped, two-space indented) are folded into
     the entry they belong to, so the parser is indifferent to whether an
@@ -565,7 +572,9 @@ def parse_chain_memberships():
         bucket[idx] = tuple(row)
         return True
 
-    for lineno, line in enumerate(CHAINS_LOG.read_text(encoding="utf-8").splitlines(), 1):
+    log = chains_io.load_log()
+    for index, line in enumerate(log.lines):
+        lineno = log.ref(index)
         # Heading format per schema.md: "### id | Title | date". re.match
         # ignores anything after the date as an unanchored suffix.
         # The log was migrated to pipes on 2026-07-19; legacy separator
@@ -622,6 +631,11 @@ def parse_chain_memberships():
     return members, notes
 
 
+def log_ref(log_line):
+    """('2018.md', 142) -> '2018.md:142', the pointer shown in the working mirror."""
+    return f"{log_line[0]}:{log_line[1]}"
+
+
 def wiki(msg_id, titles, notenames):
     """Link by note filename; display the human title."""
     name = notenames.get(msg_id, msg_id)
@@ -631,7 +645,7 @@ def wiki(msg_id, titles, notenames):
 
 MSGID_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z][a-z0-9-]*)\b")
 
-# Thread slugs written as code spans in chains-log.md prose (`healing-channel`).
+# Thread slugs written as code spans in chains log prose (`healing-channel`).
 # Filled in main() with {slug: (hub note name, display title)} for every
 # thread that has a hub, so linkify_ids can turn those spans into links.
 CHAIN_LINKS = {}
@@ -1362,11 +1376,11 @@ def main():
     #
     # Each hub is the chain as it currently stands: the argument it traces,
     # then the members grouped in role-section order and chronological within
-    # each section, EACH WITH THE CURATOR'S EVIDENCE PROSE from chains-log.md
+    # each section, EACH WITH THE CURATOR'S EVIDENCE PROSE from the chains log
     # (the facet claimed, the quoted passage, the fence, any demote-if
     # condition). A structural-health line sits at the top so gaps are
-    # visible without reading the whole hub, and every entry carries its
-    # chains-log.md line number so a correction can be made at the source.
+    # visible without reading the whole hub, and every entry carries the log
+    # file and line it came from so a correction can be made at the source.
     # Witness- and sighting-level NOTEs are listed at the foot rather than
     # discarded.
     health_rows = []          # for the Chains Index
@@ -1431,10 +1445,10 @@ def main():
                 mark = " **(anchor)**" if anchor else ""
                 pub, priv = split_evidence(evidence)
                 head = f"### {date} - {wiki(mid, titles, notenames)}{mark}"
-                # The chains-log.md line reference is a curator's tool, so it
+                # The log file and line reference is a curator's tool, so it
                 # appears only in the working mirror; the published hub shows
                 # the evidence alone.
-                ref = f"<small>[{log_line}]</small>"
+                ref = f"<small>[{log_ref(log_line)}]</small>"
                 # No blank line after the heading: the evidence belongs to the
                 # heading above it, and the gap made each member read as two
                 # separate blocks.
@@ -1457,7 +1471,7 @@ def main():
                 lines += [f"{head} - {linkify_ids(open_capital(pub), notenames)}"]
                 work += [f"{head} - {linkify_ids(pub, notenames)}"
                          + (f" **[curator]** {linkify_ids(priv, notenames)}" if priv else "")
-                         + f" <small>[{log_line}]</small>"]
+                         + f" <small>[{log_ref(log_line)}]</small>"]
             lines += [""]
             work += [""]
 
@@ -1649,7 +1663,7 @@ def main():
                  ""]
     (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
 
-    # Lint pass over chains-log.md: report rather than drop silently.
+    # Lint pass over the chains log: report rather than drop silently.
     orphan_ids = sorted(mid for mid in set(memberships) | set(chain_notes_log)
                         if mid not in messages)
     # Context and pattern notes bear on no thread by design (the log's
@@ -1670,7 +1684,7 @@ def main():
               f"lines but absent from the registry table: {', '.join(unregistered)}")
     if slugless:
         print(f"chains-log lint: {len(slugless)} NOTE line(s) with no slug "
-              f"(not shown on any chain hub); first at line {slugless[0][1]}")
+              f"(not shown on any chain hub); first at {log_ref(slugless[0][1])}")
 
     written = sum(1 for _ in (VAULT / "Messages").rglob("*.md"))
     if written != len(messages):
