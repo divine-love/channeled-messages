@@ -45,8 +45,8 @@
   placed immediately after the assurance that the help is already in place, so
   responsibility is set without abandonment.
   Witnesses, the offer side of the same law. 2016-08-26-af-augustine, the
-  non-coercion stated as invitation, "God does not command you to love him but
-  God beseeches you to know his Love. It is your choice";
+  non-coercion stated as invitation, "God does not command you to love Him but
+  God beseeches you to know His Love. It is your choice";
   2016-09-10-af-augustine, the same spirit stating it again, recorded so the
   repetition can be found; 2016-12-05-af-augustine, the choice to follow
   guidance with no penalty for refusing, "it is always your choice. If you

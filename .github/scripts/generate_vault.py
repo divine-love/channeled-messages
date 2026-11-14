@@ -671,7 +671,13 @@ SLUG_SPAN_RE = re.compile(r"`([a-z0-9]+(?:-[a-z0-9]+)*)`")
 
 QUOTED_RE = re.compile(r'"([^"]+)"')
 ANY_QUOTE_MARK = "'\"\u2018\u2019\u201c\u201d"
+ANY_DASH = "-\u2013\u2014"
 _PARAGRAPHS = {}
+
+# Names the log sets in quotation marks that are not quotations: subject,
+# collection and essential-teaching names, and message titles. Filled in
+# main(); quote_context leaves them alone.
+KNOWN_NAMES = set()
 
 
 def message_paragraphs(mid, messages):
@@ -692,6 +698,8 @@ def quoted_passages(evidence):
     """
     out = []
     for quote in QUOTED_RE.findall(evidence or ""):
+        if quote.strip().strip(",.;:?!").strip() in KNOWN_NAMES:
+            continue            # a name in quotation marks, not a quotation
         for part in re.split(r"\.\.\.|\u2026", quote):
             part = part.strip().strip(",.;:?!").strip()
             if len(part) >= 4:
@@ -703,15 +711,24 @@ def _passage_pattern(passage):
     """
     A pattern that finds a quoted passage in a message's text. Any run of
     white space matches any other, so a passage may cross a paragraph break.
-    Any quotation mark matches any other, since the log writes a message's
-    own inner double quotes as single ones and some messages use curly
-    marks. The first letter matches in either case, since a log sentence
-    may open a quote mid-sentence with a capital.
+    Any quotation mark matches any other, or none: the log writes a
+    message's own inner double quotes as single ones, some messages use
+    curly marks, and the log closes an inner quote where its own sentence
+    ends even when the message's quotation runs on. Any dash matches any
+    other, since the log writes a hyphen where a message has an en dash.
+    The first letter matches in either case, since a log sentence may open
+    a quote mid-sentence with a capital.
     """
+    def piece(ch):
+        if ch in ANY_QUOTE_MARK:
+            return f"[{ANY_QUOTE_MARK}]?"
+        if ch in ANY_DASH:
+            return f"[{ANY_DASH}]"
+        return re.escape(ch)
+
     words = []
     for word in passage.split():
-        words.append("".join(f"[{ANY_QUOTE_MARK}]" if ch in ANY_QUOTE_MARK
-                             else re.escape(ch) for ch in word))
+        words.append("".join(piece(ch) for ch in word))
     pattern = r"\s+".join(words)
     first = passage[0]
     if first.isalpha():
@@ -1544,6 +1561,11 @@ def main():
     # discarded.
     health_rows = []          # for the Chains Index
     ctx_located = ctx_missing = 0   # quoted passages, for the build report
+    KNOWN_NAMES.update(parents)
+    KNOWN_NAMES.update(subj_defs)
+    KNOWN_NAMES.update(collection_defs)
+    KNOWN_NAMES.update(et_defs)
+    KNOWN_NAMES.update(title.strip().strip(",.;:?!") for title in titles.values())
     for chain_slug in sorted(set(chain_members) | set(chain_witnesses)):
         mem = chain_members.get(chain_slug, [])
         cname, cdisp = chain_notes.get(chain_slug, (chain_slug, chain_slug))
