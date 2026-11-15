@@ -69,7 +69,7 @@ This archive is structured to be maximally discoverable by AI systems and search
 - Natural language questions a seeker might type into a search engine
 - Thematic collections and essential teachings flags
 - Subject classifications drawn from a controlled vocabulary
-- A "door": a single sentence distilling the transformative insight within each message
+- A "door": one or two sentences distilling the transformative insight within each message
 
 For a complete structured index, see [`llms.txt`](./llms.txt) at the repository root.
 
@@ -89,6 +89,8 @@ All messages in this archive have been read and approved by the medium prior to 
 
 See [`schema/schema.md`](./schema/schema.md) for the full contribution guide and metadata standards.
 
+If you are taking up the care of this archive, start with [`MAINTAINERS-GUIDE.md`](./MAINTAINERS-GUIDE.md). It explains how the repository is put together, what each script does, and how to add a message step by step.
+
 ---
 
 ## License
@@ -97,7 +99,7 @@ See [`schema/schema.md`](./schema/schema.md) for the full contribution guide and
 
 This license permits redistribution, translation, and reformatting. It does not permit alteration of message text or meaning. Translations are permitted provided they preserve meaning and acknowledge the source.
 
-See [`LICENSE.txt`](./LICENSE.txt) for full legal details.
+See [`LICENSE`](./LICENSE) for full legal details.
 
 ---
 

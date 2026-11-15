@@ -1,12 +1,15 @@
-# === Divine Love Message Metadata (TEMPLATE) ===
-# Save this file as: /messages/YYYY/ID.yml
-# Where message_id follows: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
+# === Divine Love Message: front matter (TEMPLATE) ===
+# A message is one Markdown file:  content/messages/YYYY/MM/{message_id}.md
+# In that file, put the fields below between two lines of three dashes (---),
+# then paste the message text beneath the second line. See schema/schema.md,
+# section 3, for a complete example.
+# The message_id follows: YYYY-MM-DD-{medium_initials}-{spirit_id}{-2|-3|...}
 # - medium_initials: first letters of medium's first & last names, always lowercase (e.g., Al Fike → af)
 # - Anonymous mediums: use 'xx' as medium_initials (e.g., 2015-01-05-xx-jesus)
 # - spirit_id: corresponds to the spirit file name, always lowercase (e.g., john-the-beloved)
 # - Use -2, -3, ... if multiple messages from the same spirit/medium on the same day
 
-message_id: 2025-01-01-af-spirit-id   # REQUIRED. Pattern: YYYY-MM-DD-{medium_initials}-{spirit_id} — always fully lowercase
+message_id: 2025-01-01-af-spirit-id   # REQUIRED. Pattern: YYYY-MM-DD-{medium_initials}-{spirit_id}, always fully lowercase
 
 title: "Your Curated Title Here"       # REQUIRED. Always wrap in double quotes. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
 
@@ -45,7 +48,7 @@ questions:                             # RECOMMENDED. Natural language questions
   - "How does Divine Love change the soul?"
   - "Can any soul be redeemed?"
 
-related_messages: []                   # OPTIONAL. Subject connections only — never date or proximity. Always fully lowercase. e.g., ["2015-10-12-af-mary"]
+related_messages: []                   # OPTIONAL. Subject connections only, never date or proximity. Always fully lowercase. e.g., ["2015-10-12-af-mary"]
 
 audio_url: ""                          # OPTIONAL. Link to audio recording (MP3/stream).
 canonical_url: ""                      # OPTIONAL. Permanent external URL where message is published. Leave blank if not publicly posted online.
@@ -59,7 +62,7 @@ language: en                           # REQUIRED. Language code (ISO 639-1). De
 excerpt: >                             # OPTIONAL. Short pull quote or highlight. Aim for under 200 characters.
   Evocative pull quote from the message text.
 
-door: >                                # OPTIONAL. Single sentence distilling the transformative insight. Max 300 characters. No em dashes.
+door: >                                # OPTIONAL. One or two sentences distilling the transformative insight. Max 300 characters. No em dashes.
   The door sentence goes here.
 
 collections: []                        # OPTIONAL. Thematic collections. Values: "Mind & Soul", "Two Paths", "Awakening Humanity", "Healing Path", "Service & Mission", "Letters from History", "Jesus Speaks", "Prism of the Soul", "The Saints & Apostles Speak"

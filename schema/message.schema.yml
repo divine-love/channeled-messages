@@ -267,10 +267,10 @@ properties:
   door:
     type: [string, "null"]
     description: >
-      A single sentence distilling the transformative insight hidden within the
-      message — the curator's invitation to enter. Written in the curator's voice
-      or very close to the spirit's words. Used to generate the browse index.
-      Aim for one strong sentence, under 300 characters.
+      One or two sentences distilling the transformative insight hidden within
+      the message, the curator's invitation to enter. Written in the curator's
+      voice or very close to the spirit's words. Used to generate the browse
+      index. Two sentences are fine within the limit of 300 characters.
     maxLength: 300
 
   collections:
