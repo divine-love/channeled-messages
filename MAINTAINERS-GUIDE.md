@@ -97,7 +97,7 @@ Each stage is explained below. If you ever feel lost, come back to this picture 
 | `schema/message.schema.yml` | The same rules in a form the checker can read | You, when a rule changes |
 | `.github/scripts/` | The scripts (section 5) | You, rarely |
 | `.github/workflows/` | Instructions telling GitHub when to run the scripts | You, rarely |
-| `.github/assets/` | The website's home page text (`home.md`) and its styling (`publish.css`) | You |
+| `.github/assets/` | The website's home page text (`home.md`), its other hand-written pages (the `pages/` folder), and its styling (`publish.css`) | You |
 | `obsidian-vault/` | The built copy of the archive for the website | A script, except `Notes/` |
 | `obsidian-vault/Notes/` | The keeper's own working notes. The only part of the vault that is kept in the repository | You |
 | `scripts/` | A few old one-time repair scripts, kept for the record. Not part of the normal work | Nobody now |
@@ -267,6 +267,17 @@ The same holds for an essential-teaching category, with `metadata/essential-teac
 **Add a translation.** A translation is a second file beside the original, with the language code before `.md`: `2015-11-30-af-jesus.pt-br.md`. Section 9 of `schema/schema.md` has the rules.
 
 **Change the website's home page or its look.** Edit `.github/assets/home.md` or `.github/assets/publish.css`, then rebuild the vault.
+
+**Change or add a hand-written page.** The pages a newcomer meets first, Begin Here and How This Archive Is Organized, are plain files in `.github/assets/pages/`. Each file becomes a page named for its first heading. To add a page, add a file there; to remove one, delete the file. Then rebuild the vault. Inside these pages and the home page, a few markers are filled in for you at build time:
+
+| You write | The page shows |
+|---|---|
+| `@message[2019-03-14-af-jesus]` | A link to that message, shown by its title |
+| `@door[2019-03-14-af-jesus]` | That message's door |
+| `@spirit[Augustine]`, `@medium[Al Fike]`, `@collection[Two Paths]` | A link to that spirit's, medium's or collection's page |
+| `{messages}`, `{subjects}` | The current number of messages or subjects |
+
+To change which messages Begin Here offers, change the message ids in `begin-here.md`. Their titles and doors follow by themselves.
 
 ---
 

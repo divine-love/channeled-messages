@@ -38,6 +38,15 @@ What it builds:
       the chains log - the facet claimed, the quoted passage, the fence - plus
       the log line number to edit at the source. Witness- and sighting-level
       NOTEs are listed at the foot rather than discarded.
+  Home.md and the curator's other pages   Home is built from
+      .github/assets/home.md. Every .md file in .github/assets/pages/ becomes
+      a page of its own at the top level of the vault, named for its first
+      heading (Begin Here, How This Archive Is Organized). In all of them,
+      @spirit[...], @medium[...] and @collection[...] become links to the
+      matching hub, @message[message_id] becomes a link shown by the
+      message's title, @door[message_id] becomes that message's door, and
+      {messages}, {subjects}, {chains} and {questions} become the current
+      counts.
   Chains (working)/<Display Title>.md   the curator's mirror of each hub,
       NOT published. It adds the curatorial asides, the log file and line of
       every record, and under each record an "In context" fold-out showing
@@ -286,6 +295,16 @@ CONTENT_PAGES = {
 # version of this script will overwrite the constants but never the file.
 HOME_SOURCE = ".github/assets/home.md"
 
+# Other standalone pages written by the curator, such as "Begin Here". Every
+# .md file in this folder becomes a page at the top level of the vault, named
+# for its first heading ("# Begin Here" becomes Begin Here.md). The prose may
+# use the same markers as the Home page, plus @message[...] and @door[...].
+# To add a page, add a file; to remove one, delete the file.
+PAGES_SOURCE = ".github/assets/pages"
+# The vault remembers which pages it wrote last time, so a page whose source
+# file has been deleted is cleared away on the next run.
+PAGES_MANIFEST = ".generated-pages"
+
 VAULT_ROOT_FILES = {
     ".github/assets/publish.css": "publish.css",
 }
@@ -510,13 +529,22 @@ def unwrap_paragraphs(text):
     return "\n".join(out)
 
 
-HOME_LINK_RE = re.compile(r"@(spirit|medium|collection)\[([^\]]+)\]")
+HOME_LINK_RE = re.compile(r"@(spirit|medium|collection|message|door)\[([^\]]+)\]")
+
+# Filled in main(): message_id -> wikilink showing the message's title, and
+# message_id -> the message's door. They let the curator's pages point at a
+# message by its id, so a title or a door changed in the message file is
+# picked up on the next build without touching the page.
+MESSAGE_LINKS = {}
+MESSAGE_DOORS = {}
+PAGE_COUNT_RE = re.compile(r"\{(messages|subjects|chains|questions)\}")
 
 
 def resolve_home_links(text, resolve):
     """
     Turn @spirit[...], @medium[...] and @collection[...] markers in the Home
-    prose into wikilinks.
+    prose into wikilinks. @message[message_id] becomes a link to that message
+    shown by its title, and @door[message_id] becomes that message's door.
 
     The prose names people by whatever form reads best in a sentence ("Mary
     his mother", "Keea Atta Kem"), while the hub notes are named from the
@@ -528,6 +556,17 @@ def resolve_home_links(text, resolve):
     """
     def repl(m):
         kind, label = m.group(1), m.group(2)
+        if kind == "message":
+            mid = label.strip()
+            if mid not in MESSAGE_LINKS:
+                print(f"NOTE: @message[{mid}] names a message that is not in "
+                      f"the archive; left as plain text.")
+            return MESSAGE_LINKS.get(mid, mid)
+        if kind == "door":
+            mid = label.strip()
+            if not MESSAGE_DOORS.get(mid):
+                print(f"NOTE: @door[{mid}] has no door to show; left blank.")
+            return MESSAGE_DOORS.get(mid, "")
         # An explicit "Label|Lookup" gives the sentence one form and the
         # resolver another, e.g. @spirit[Mary his mother|Mary].
         display, _, lookup = label.partition("|")
@@ -1241,6 +1280,13 @@ def main():
         used[folder].add(key)
         notenames[mid] = base
 
+    # For the curator's pages: @message[id] and @door[id].
+    MESSAGE_LINKS.clear()
+    MESSAGE_DOORS.clear()
+    for mid, (fm, _b) in messages.items():
+        MESSAGE_LINKS[mid] = wiki(mid, titles, notenames)
+        MESSAGE_DOORS[mid] = re.sub(r"\s+", " ", str(fm.get("door") or "")).strip()
+
     # Rebuild ONLY the generated folders. Everything else in the vault -
     # your Obsidian config in .obsidian/, and anything you write in Notes/ -
     # is preserved across runs and never touched by this script.
@@ -1258,6 +1304,13 @@ def main():
             shutil.rmtree(p)
         p.mkdir(parents=True)
     GENERATED_FILES += list(VAULT_ROOT_FILES.values())
+    # Names this script builds itself, which a curator's page may not take.
+    reserved_pages = {name.lower() for name in GENERATED_FILES}
+    manifest = VAULT / PAGES_MANIFEST
+    if manifest.is_file():
+        GENERATED_FILES += [name for name in
+                            manifest.read_text(encoding="utf-8").splitlines()
+                            if name.strip()]
     for f in GENERATED_FILES:
         (VAULT / f).unlink(missing_ok=True)
     # A configured content/ folder that no longer exists would otherwise
@@ -1858,6 +1911,33 @@ def main():
                  ""]
     (VAULT / "Home.md").write_text("\n".join(home), encoding="utf-8")
 
+    # The curator's other standalone pages (see PAGES_SOURCE).
+    pages_written = []
+    pages_dir = ROOT / PAGES_SOURCE
+    for source in (sorted(pages_dir.glob("*.md")) if pages_dir.is_dir() else []):
+        raw = source.read_text(encoding="utf-8")
+        heading = re.search(r"^# +(.+)$", raw, flags=re.M)
+        if not heading:
+            print(f"NOTE: {PAGES_SOURCE}/{source.name} has no '# Title' line; "
+                  f"skipped.")
+            continue
+        page_name = filename(heading.group(1)) + ".md"
+        if page_name.lower() in reserved_pages:
+            print(f"NOTE: {PAGES_SOURCE}/{source.name} would overwrite "
+                  f"{page_name}, which this script builds itself; skipped.")
+            continue
+        if page_name in pages_written:
+            print(f"NOTE: {PAGES_SOURCE}/{source.name} has the same title as "
+                  f"another page; skipped.")
+            continue
+        text = PAGE_COUNT_RE.sub(lambda m: counts[m.group(1)], raw)
+        text = unwrap_paragraphs(resolve_home_links(text, resolve_fm)).strip()
+        (VAULT / page_name).write_text(text + "\n", encoding="utf-8")
+        pages_written.append(page_name)
+    (VAULT / PAGES_MANIFEST).write_text(
+        "\n".join(pages_written) + ("\n" if pages_written else ""),
+        encoding="utf-8")
+
     # Lint pass over the chains log: report rather than drop silently.
     orphan_ids = sorted(mid for mid in set(memberships) | set(chain_notes_log)
                         if mid not in messages)
@@ -1896,6 +1976,9 @@ def main():
     if missing:
         print(f"NOTE: configured but not found, nothing carried: "
               f"{', '.join(missing)}.")
+    if pages_written:
+        print(f"Pages from {PAGES_SOURCE}/: "
+              + ", ".join(name[:-3] for name in pages_written) + ".")
     print("Preserved: .obsidian/ (your settings) and Notes/ (your own writing).")
     print(f"Open {VAULT.resolve()} as a vault in Obsidian.")
 

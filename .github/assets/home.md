@@ -24,12 +24,39 @@ seeker, the teacher, the minister, the historian, the translator, and anyone
 whose soul is searching for something more. They are best read slowly, the
 way one reads a letter from someone who loves you.
 
-Most of these messages have come through @medium[Al Fike], a spiritual
-teacher, prophet, author, and ordained minister with the Foundation Church of Divine
-Truth, and co-founder of the Divine Love Sanctuary Foundation. Al has given
-his life to this work. Others have received messages as well, and that circle
-continues to widen. You can learn more at
-[divinelovesanctuary.com](https://divinelovesanctuary.com/).
+## Where to start
+
+There is no wrong way in. But if you are standing at the threshold, wondering
+which way to turn, begin with [[Begin Here]]. It is a short page of a few
+messages, chosen so that a first visit may be spent reading rather than
+searching.
+
+When you are ready to go further, here are three paths.
+
+If you would rather feel your way through the archive than study your way
+through it, open [[Browse|Browse All Messages]]. It is a wide table and reads
+best on a larger screen. Every message is listed there beside its "door," a
+single line that points toward where that message leads. The word is
+@spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
+growing your souls and making yourselves a clearer channel of Love in the
+world. Seeking out that door in each message, and setting it down in a single
+line, is how the browse index came to be. Read through the list slowly and
+prayerfully, and when something stirs your soul, follow it. That pull is worth
+trusting. It is often the soul recognizing a truth long before the mind has
+caught up.
+
+If you arrived carrying a question, [[Ask the Archive]] gathers every question
+these messages answer and arranges them by subject. Wander the list, or begin
+typing in the search bar, in the words you would use if you were asking a
+trusted friend sitting quietly beside you.
+
+And if you long for the heart of the archive, turn to the
+[[Essential Teachings Index|Essential Teachings]]. These are the messages I
+would place in your hands if you had only an hour and wished to understand
+what this is all about. If you read nothing else here, read those.
+
+To see how the whole archive is laid out, and who speaks in it, turn to
+[[How This Archive Is Organized]].
 
 ## What Is Divine Love
 
@@ -59,90 +86,14 @@ at-onement with God, its Creator and its eternal Source. Old wounds begin to
 heal, burdens long carried grow lighter, and gifts we never knew were within
 us begin to open.
 
-## Where to start
+## Where the messages come from
 
-There is no wrong way in. But if you are standing at the threshold, wondering
-which way to turn, here are three paths to begin your journey.
-
-If you would rather feel your way through the archive than study your way
-through it, open [[Browse|Browse All Messages]]. It is a wide table and reads
-best on a larger screen. Every message is listed there beside its "door," a
-single line that points toward where that message leads. The word is
-@spirit[Augustine]'s: hidden within each lesson, he said, is a great door to
-growing your souls and making yourselves a clearer channel of Love in the
-world. Seeking out that door in each message, and setting it down in a single
-line, is how the browse index came to be. Read through the list slowly and
-prayerfully, and when something stirs your soul, follow it. That pull is worth
-trusting. It is often the soul recognizing a truth long before the mind has
-caught up.
-
-If you arrived carrying a question, [[Ask the Archive]] gathers every question
-these messages answer and arranges them by subject. Wander the list, or begin
-typing in the search bar, in the words you would use if you were asking a
-trusted friend sitting quietly beside you.
-
-And if you long for the heart of the archive, turn to the
-[[Essential Teachings Index|Essential Teachings]]. These are the messages I
-would place in your hands if you had only an hour and wished to understand
-what this is all about. If you read nothing else here, read those.
-
-## What you will find here
-
-**Messages** are the archive itself, {messages} of them, each carefully
-catalogued with its date, the spirit who gave it, the medium who received it,
-the place where it was given, and the subjects it touches.
-
-**Spirits** holds a page for each spirit who has spoken here, gathering what
-is known of their lives in their own words. Everything on those pages is drawn
-from the messages themselves, not from history books, so where the record is
-silent, the page keeps that silence too.
-
-**Mediums** does the same for the Divine Love mediums who have received the messages, beginning
-with @medium[Al Fike].
-
-**Subjects** allows a single theme to be traced across the years and through
-many voices. There are {subjects} of them, arranged in categories; begin at
-[[Subjects Index]].
-
-**Collections** gathers messages that belong together: @collection[Jesus Speaks],
-@collection[The Saints & Apostles Speak|The Saints & Apostles Speak],
-@collection[Two Paths], @collection[Healing Path], @collection[Mind & Soul],
-@collection[Service & Mission], @collection[Letters from History],
-@collection[Awakening Humanity], and @collection[Prism of the Soul].
-
-**Chains** is the newest layer, and is still being built. A chain follows a
-single teaching through the archive, from message to message and spirit to
-spirit, showing how it is laid down, deepened, questioned, seen anew, and at
-last brought to rest. Many of these teachings depart from what religious and
-spiritual traditions have long held, and the chains allow the messages to make
-their case in their own words, often across many years and through many
-different voices.
-
-## Who speaks here
-
-They introduce themselves by name, and the names are not small ones.
-@spirit[Jesus] is here, along with many who walked beside him in his earthly
-life: Mary his mother, John the Beloved, Andrew, Peter, James, Matthew, Luke,
-and Mark.
-
-Others come from far beyond that circle. @spirit[Augustine] returns again and
-again to teach. Confucius. Francis of Assisi. Moses, Isaiah, and Solomon.
-Yogananda, Martin Luther, and Gandhi, along with others who were known in
-their own centuries and have since found their way to this path.
-
-And then there are those whose names the world never knew. Goldie, who arrives
-when a room has grown too solemn and reminds everyone to laugh. Faith Nyquist.
-Alec Gaunt. Seretta Kem. Keea Atta Kem. Some of the most moving messages in
-this archive come from them, and I would not trade a single one for a more
-famous name.
-
-One thing is worth knowing before you read far. These spirits do not always
-agree with the traditions built around their names, and several return
-expressly to set the record straight. @spirit[Solomon] comes to say that the
-wisdom he was celebrated for was mistaken. @spirit[Martin Luther] comes to say
-he has since released much of what he spent his life fighting for. If you hope
-these messages will confirm what you were raised to believe, they may surprise
-you. They surprised me.
+Most of these messages have come through @medium[Al Fike], a spiritual
+teacher, prophet, author, and ordained minister with the Foundation Church of Divine
+Truth, and co-founder of the Divine Love Sanctuary Foundation. Al has given
+his life to this work. Others have received messages as well, and that circle
+continues to widen. You can learn more at
+[divinelovesanctuary.com](https://divinelovesanctuary.com/).
 
 ## Praying together
 
