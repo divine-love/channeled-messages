@@ -1,4 +1,4 @@
-State as of 2026-11-14. Read this before any work on the chains layer: `metadata/chains-log.md`, `metadata/chains-threads.md`, and the entry and roster files in the folders beside them.
+State as of 2026-11-15. Read this before any work on the chains layer: `metadata/chains-log.md`, `metadata/chains-threads.md`, and the entry and roster files in the folders beside them.
 
 ## Where the chains layer lives
 
@@ -174,6 +174,25 @@ New spirit file: `aekarius`.
 - **Body-text fixes approved by the curator:** 2017-11-03-af-nikola-tesla ("No, Love can ignite"), 2018-01-21-af-professor-salyards (two fragments joined), 2018-07-14-af-seretta-kem (two fragments joined) and 2018-07-22-af-seretta-kem (a false start, "but cannot", removed). Log quotes were rechecked afterward.
 - **Spirit files:** `yogananda` (his choice to leave India for America) and `nikola-tesla` (he prays for the Father's Love).
 - **The split** (see Where the chains layer lives). It moved text and changed no content. It was proved three ways before commit: the split files, joined in reading order, reproduced the two original files character for character; the validator reported the same 291 entries and 42 rosters with every debt counter at 0; and the rebuilt vault was identical to the one before, apart from the pointers in Chains (working), which changed from a bare line number to a file and line (`[2018.md:142]`). Those pointers appear only in the working mirror, never on the published site.
+
+**2026-11-15.**
+
+- **How sessions run.** By the curator's decision, messages are no longer processed in batches. Each is catalogued one at a time and reviewed together in conversation. The prompts are in `obsidian-vault/Notes/Claude/Claude Conversation Prompt Kit.md`, which replaces the Cowork Prompt Kit.
+- **Quotes in context** was built and the quotes it could not find were corrected (see Quotes in context, and Next, item 3).
+- **The door ruling.** A door is one or two sentences within the 300-character limit. `schema.md`, `message.schema.yml`, the message template and the README now say so.
+- **Chains follow arguments, not timelines.** The curator restated the design rule: the angels repeat a teaching over the years as they deem it important, so a chain is laid out in the order the argument needs, and dates settle the order only among messages that share a step. Never describe a chain as running in the order the messages were given.
+- **`MAINTAINERS-GUIDE.md`**, at the top of the repository, explains the whole repository to a person taking up the work: the folders, what each script does, what GitHub does on a push, and each ordinary job step by step. When a script, a folder or a routine changes, check whether the guide needs to change with it. `schema/VALIDATION.md`, the message template's header and the folder diagram in `schema.md` were brought up to date with it, and the old one-time scripts in `scripts/` gained a note saying they are retired. The curator supplied what the guide could not find in the repository: a successor is sent to the Divine Love Sanctuary Foundation for access to the accounts; `Chains (working)` and `Notes` are the two folders left out of publishing; Obsidian uses the Front Matter Title and Sync Graph Settings plugins; and nothing is changed by hand once the site is live.
+
+## Noticed and not yet dealt with
+
+Small things seen in passing. None blocks the work.
+
+- 1963-12-26-ds-mary: the door has no final full stop, and the notes partly restate the description.
+- `schema/message.schema.yml` still has two em dashes in its field descriptions.
+- Two rosters state a count, which the no-counts ruling covers: `judgment-to-love` ("Three of them give reasons") and `mind-vs-soul` ("built in seven groups").
+- `check_body_endings.py` lists seven messages whose text may stop short, among them 2019-02-01-af-josephus and 2019-04-01-jw-yogananda. Each needs a look against its source.
+- The Cowork Prompt Kit and "Where we left off" notes in `obsidian-vault/Notes/Claude Code/`, and the old handoff list in `obsidian-vault/Notes/README.md`, describe the batch routine and can be retired when the curator is ready.
+- Where the sequential catch-up resumes in 2017 is for the curator to confirm. The archive holds 2017 messages through 2017-05-22-af-andrew before the gaps begin.
 
 ## Next
 

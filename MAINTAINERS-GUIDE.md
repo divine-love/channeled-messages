@@ -62,14 +62,13 @@ Each stage is explained below. If you ever feel lost, come back to this picture 
 | Python 3 | Runs the scripts. After installing it, run `pip install pyyaml jsonschema` once |
 | Obsidian, with an Obsidian Publish subscription | Opens the built copy of the archive and publishes it to the website |
 
-**Access you will need from the current keeper.** These are not in the repository, because the repository is public and passwords must never be put in it.
+**Access.** No accounts or passwords are kept in the repository, because the repository is public. To take up this work, reach out to the Divine Love Sanctuary Foundation, whose site is [divinelovesanctuary.com](https://divinelovesanctuary.com). Ask the Foundation about:
 
-> **To be filled in by the current keeper, and kept somewhere private:**
-> - Who can grant access to the GitHub organization `divine-love`
-> - Who holds the Obsidian Publish account for the site
-> - Where the domain thewayofdivinelove.com is registered, and who can renew it
-> - Who to ask at the Divine Love Sanctuary Foundation about permission and about new messages
-> - Where the source transcripts of unpublished messages are kept
+- access to the GitHub organization `divine-love`
+- access to the Obsidian Publish account for the site
+- the domain thewayofdivinelove.com and its renewal
+- permission for any change to message text
+- new messages, and the transcripts of messages that have not been published
 
 **Git in four words.** *Pull* brings the latest files from GitHub to your computer. You *edit*. *Commit* records a set of changes with a short note saying what you did. *Push* sends your commits to GitHub. Always pull before you start work (section 6 explains why).
 
@@ -309,12 +308,19 @@ It exists so that a reader can follow a teaching as a whole instead of meeting i
 4. **Open `obsidian-vault/` in Obsidian** and look at what changed.
 5. **Publish.** In Obsidian, choose Publish changes, review the list, and publish.
 
-**What must not be published:** the folder `Chains (working)`. It is the keeper's private view of the chains layer, with working notes and the paragraph behind every quotation.
+**What must not be published:** two folders are left out of publishing.
 
-> **To be filled in by the current keeper:**
-> - Which other folders are left out of publishing (for example `Notes`)
-> - Any Obsidian plugins or settings the site depends on
-> - Anything done by hand after publishing
+- `Chains (working)` is the keeper's private view of the chains layer, with working notes and the paragraph behind every quotation.
+- `Notes` holds the keeper's own working notes.
+
+Everything else in the vault is published.
+
+**How Obsidian is set up.** Besides Obsidian Publish itself, the vault uses two community plugins:
+
+- **Front Matter Title**, with only its Graph feature switched on. Message pages are named with their date first so they sort in order, and this plugin makes the graph show each message's title instead.
+- **Sync Graph Settings**, which keeps the graph's display settings consistent.
+
+**After publishing, nothing is changed by hand.** The live site is exactly what Obsidian Publish makes from the vault. If something on the site is wrong, correct it in the repository, rebuild the vault, and publish again.
 
 **On the public site, a chain page links to whole messages and never to a passage.** This is deliberate. The messages are meant to be read in full.
 

@@ -2,7 +2,7 @@
 
 # For use as project knowledge in Claude conversations
 
-# Last updated: 2026-10-18
+# Last updated: 2026-11-15
 
 # THE REPOSITORY IS CANONICAL. These instructions carry only what the repo
 
@@ -19,10 +19,13 @@
 - **`metadata/subjects.yml`** — the subject vocabulary. Validate every subject value against it with code before finalizing; never from memory.
 - **Collection and essential-teaching definitions** live in the DESCRIPTIONS dicts inside `.github/scripts/generate_collections.py` and `generate_essential_teachings.py`. The `content/collections/` and `content/essential-teachings/` folders are generated output; never read them as a source.
 - **`spirits/*.yml`** and **`mediums/*.yml`** — biography and doctrine. When a message reveals biographical detail, update the file in the same session, citing the source message_id; never infer beyond what is stated. Ask before creating a new spirit or medium file (one may already exist).
-- **`metadata/chains-threads.md`** and **`metadata/chains-log.md`** — the chains layer. These two files hold the rules, the registry, the holding pen, the patterns and the open questions. The log entries are in `metadata/chains-log/`, one file per year of message (`2018.md`), and each minted thread's roster is its own file in `metadata/chains-threads/`, named for its slug (`soul-expiation.md`). Their shared front-matter design blocks are the chain rules: role sections in argument order, chronological within each section, one anchor per section, witnesses included rather than discarded, every entry made from a full reading of the message. Build the `chains/` directory only after the archive is caught up through 2026.
+- **`metadata/chains-threads.md`** and **`metadata/chains-log.md`** — the chains layer. These two files hold the rules, the registry, the holding pen, the patterns and the open questions. The log entries are in `metadata/chains-log/`, one file per year of message (`2018.md`), and each minted thread's roster is its own file in `metadata/chains-threads/`, named for its slug (`soul-expiation.md`). Their shared front-matter design blocks are the chain rules: role sections in argument order, chronological within each section, one anchor per section, witnesses included rather than discarded, every entry made from a full reading of the message. A chain follows an argument, not a timeline. Build the `chains/` directory only after the archive is caught up through 2026.
+- **`MAINTAINERS-GUIDE.md`** — how the whole repository fits together, written for a person taking up the work. When a script, a folder or a routine changes, check whether the guide needs to change with it.
 - **Retrieval caution:** project-knowledge search can return stale chunks of repo files. Files uploaded or pasted in the session, and the live published site, take precedence over retrieved chunks. Before reporting a suspected error in a repo file based on retrieval, ask the curator to confirm against the actual file.
 
 ## Workflow (per message)
+
+Messages are catalogued one at a time and reviewed together in conversation, not in batches. The prompts for a session are in `obsidian-vault/Notes/Claude/Claude Conversation Prompt Kit.md`.
 
 For published messages: the curator sends the URL; fetch and verify against the published text before processing. For unpublished messages: the curator pastes the text with a header block (title, spirit, medium, location, date); leave `canonical_url: ""`. A blank canonical_url is the only record that no public copy is known; do not add a note about it to notes.
 
@@ -36,7 +39,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 8. Validate all subjects against subjects.yml and all field caps with code
 9. Create the .md file: YAML front matter + full message text
 10. Update spirit files for any revealed biography (same session, cite source)
-11. Add any named spiritual Law as a secondary subject immediately
+11. Add any spiritual Law the message uses as a working Law as a secondary subject (see schema.md, Subjects; record general mentions in metadata/law-mentions-reviewed.yml)
 12. Provide reciprocal related_messages links as full field blocks, inserted in chronological position (sort existing out-of-order lists on touch)
 13. Log to the message's year file in `metadata/chains-log/` (and update the thread's roster file in `metadata/chains-threads/`, or chains-threads.md for the holding pen and patterns) when the message warrants it: members, witnesses, or NOTE-level sightings. Insert the entry at its date's position in that year's file, and check every quote against the message text
 14. For a spirit-given prayer, create its practice file and add a context note in the log pointing to it
@@ -44,30 +47,42 @@ For published messages: the curator sends the URL; fetch and verify against the 
 
 ## Collaboration preferences
 
-- Surface judgment calls (message_type edge cases, collections, essential_teachings, chain roles, possible anchors) with reasoning; apply schema-resolved decisions without narration
+- Surface judgment calls (message_type edge cases, collections, essential_teachings, chain roles, possible anchors, a possible Chrysalis) with reasoning; apply schema-resolved decisions without narration
 - Report body-text corrections in chat, not in the notes field
 - Chain reasoning is always explained; pattern-level observations (thread candidates, missing witnesses, structural drift) are raised proactively
-- All output files go to `/mnt/user-data/outputs/`
+- Never commit or push. The curator reviews every change and commits it herself, because reviewing is how she stays familiar with the repo
+- All output files go to `/mnt/user-data/outputs/`. Message, spirit and practice files come as downloads. Chains changes and reciprocal related_messages come as paste blocks, each naming its file and the line it goes after and before. A change that touches many files comes as one zip laid out like the repo, with a short review guide
 - Confirm every description, excerpt, and door fits its cap with code before delivering
 - Provide reciprocal related_messages lines explicitly in chat so the curator can paste them
-- Session handoff: the curator commits all files, then re-pastes these instructions, subjects.yml, chains-log.md, and chains-threads.md at the start of the next session. Those two chains files now carry only the rules, registry, holding pen, patterns and open questions; the year files and roster files are read from the repo as each message needs them
+- If the curator has not yet committed files delivered earlier, build on those files, not on GitHub
+- Session handoff: the curator commits all files. A session that can read the repo starts from Prompt 1 of the Conversation Prompt Kit and reads the repo directly. A session that cannot read the repo needs the files listed at the end of the kit. At the end of a session, update the Chains Layer Handoff note and the project doc `claude/chains-layer-handoff.md`, and give the curator new wording for Current state
 
 ## Current state
 
-- Processing position: two fronts. The sequential catch-up through the 2016 backlog has reached 2016-12-05-af-augustine. Messages from other dates are catalogued as they surface, so the archive already holds material through 2023 (latest: 2023-02-10-af-augustine), including 2016-12-06-af-seretta-kem and 2016-12-07-af-andrew. Check the index for collisions rather than assuming a message is unprocessed because of its date
+- Processing position: two fronts. The sequential catch-up has catalogued through the end of 2016 and into 2017; the archive holds 2017 messages through 2017-05-22-af-andrew before the gaps begin, and the curator confirms where it resumes. Messages from other dates are catalogued as they surface, so the archive already holds material through 2023 (latest: 2023-02-10-af-augustine). Check the index for collisions rather than assuming a message is unprocessed because of its date
 - Archive spans 1963-2023; earliest message 1963-12-26-ds-mary (earliest member of any chain, via who-jesus-was)
-- Chains layer: 41 minted threads, every one with a roster (each under a ### slug heading); 18 candidates in the holding pen. Every log entry has been made from a full reading, and every quote in the log and rosters has been checked against its message. All validator debt counters are at 0, so a newly minted thread needs its roster in the same commit
-- Read the project doc `claude/chains-layer-handoff.md` before any chains work: it carries the standing rulings (no counts, intervals or rank claims; plain language; quotes are the message's own words; the six NOTE kinds), how the validator works, and the open questions
+- Chains layer: 42 minted threads, each with its own roster file; 20 candidates in the holding pen; 3 patterns recorded and not penned. Every log entry has been made from a full reading. All validator debt counters are at 0, so a newly minted thread needs its roster file in the same commit
+- Chains layout (split 2026-11-14): `chains-log.md` and `chains-threads.md` hold the rules, registry, holding pen, patterns and open questions; entries are in `metadata/chains-log/` by year, rosters in `metadata/chains-threads/` by slug. `chains_io.py` reads them together for `validate_chains.py` and `generate_vault.py`. `last_updated` is carried by the two front-door files only
+- Quotes in context (2026-11-14): in the unpublished Chains (working) pages, every record has a fold-out showing the paragraph its quoted words come from. `generate_vault.py` reports how many quoted passages it could not locate; that number is 0 and should stay 0. The published chain pages link to whole messages only, never to a passage, by the curator's ruling
+- Read the project doc `claude/chains-layer-handoff.md` before any chains work: it carries the standing rulings (no counts, intervals or rank claims; plain language; quotes are the message's own words; the six NOTE kinds), how the validator works, what was noticed and not yet dealt with, and the open questions
+- The door is one or two sentences within 300 characters (ruling 2026-11-15)
+- Direct Voice: a "(DV)" in a source title means a Direct Voice sitting. Set `gathering: "Direct Voice"` and leave "(DV)" out of the catalogued title. A Direct Voice sitting held during a retreat keeps the retreat name, with the setting in `notes`. These sittings become frequent in the later years
 - Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and the log carries a context note pointing to it. Declarations to affirm, and a circle's own prayer that a spirit quotes, get no practice file; the context note says so
 - "Not publicly posted online." is retired (2026-10-12): a blank `canonical_url` alone records that no public copy is known
 - Portal watch closed 2026-08-06 on the minting of `portals`; portal sightings continue as ordinary thread traffic (2016-03-25 loose → 2016-08-25 established → 2018-11-21 and 2019-01-26 doctrine → 2019-04-06 boundary)
 - Mediums on file: Al Fike (af), Barbara Davies (bd), Maureen Cardoso (mc), Dr. Daniel Samuels (ds), Jimbeau Walsh (jw), anonymous (xx)
 - sri-yukteswar (Yogananda's guru) has a spirit file; he channels later and is distinct from sri-yarisupta
 - Kay Dunbar (passed 2019-04): mother of Jeanne Fike (wife of Al Fike) and Judy Dunbar; her "dear Albert" is Al Fike; watch for her later message through him
-- Subject vocabulary: 116 names; CI validates every subject and prints a usage census on every push
+- Alec Gaunt hosted Direct Voice prayer circles in his earth life, by the curator's account. His spirit file records only what messages state, so add it when a message says so
+- Subject vocabulary: 117 names; CI validates every subject and prints a usage census on every push
 
 ## Deferred / pending
 
+- Chains reading of the 2016 messages that carry no log entry, and of 2014-10-11-af-confucius and 2014-12-15-af-mary (the handoff lists them)
+- Chrysalis audit (the handoff lists the candidates; `soul-expiation` holds 2018-07-14-af-seretta-kem as a candidate)
+- "The gift and the channel" pattern may become a holding-pen candidate as the Direct Voice messages are read
+- `MAINTAINERS-GUIDE.md` has two boxes for the curator to fill in: who holds access to the accounts, and the publishing details
+- The Cowork Prompt Kit is retired in favour of the Conversation Prompt Kit; remove it when ready
 - audio_url to be populated as recordings are found
 - Possible tenth collection for children/the young (Children & Future Generations subject exists; watch volume)
 - Usage census data to inform a possible future merge of the two Surrender subjects
