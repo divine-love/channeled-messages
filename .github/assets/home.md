@@ -1,19 +1,16 @@
 # The Divine Love Messages Archive
 
-Within the human soul is a longing that nothing in this world satisfies. It
-stirs in silence and stillness, a poignant reminder that there is more to life
-than what the material world gives us. If that longing has brought you here,
-you are in good company. Seekers in every age have felt it, and many
-understood that the desire of the soul was never meant to be answered by the
+Within the human soul is a longing that nothing in this world satisfies, a poignant reminder that there is more to life
+than what the material world gives us. Seekers in every age have felt it, and many 
+understand that the desire of the soul was never meant to be answered by the
 world at all.
 
-A longing sincerely felt is already a prayer, and the soul's sincere longing
-for God's Love is always answered. His response is the path that opens before
+A longing sincerely felt is already a prayer, and a soul's sincere longing
+for God's Love is always answered. His response... is the path that opens before
 you. It leads inward first, into a territory we forgot to explore, into the
 beauty and glory of the soul. The road becomes a journey of discovery, rich in
 miracles and wonders, in truths given as the soul is ready to receive them,
-and in the love of God. We come to know God, not as a theory the mind works
-out, but as a living, loving Presence, and in that same light we come to know
+and in the love of God. We come to know God, as a living, loving Presence, and in that same light we come to know
 our true selves, perhaps for the very first time. Step by step, the road leads
 home, to at-onement with our Heavenly Father.
 
@@ -45,12 +42,9 @@ prayerfully, and when something stirs your soul, follow it. That pull is worth
 trusting. It is often the soul recognizing a truth long before the mind has
 caught up.
 
-If you arrived carrying a question, begin typing it in the search bar, in the
-words you would use if you were asking a trusted friend sitting quietly beside
-you. Every message carries the questions it answers, so the search will lead
-you to them.
+If you arrived carrying a question, begin typing it in the search bar. Every message carries the questions it answers, so the search will lead you to them.
 
-And if you long for the heart of the archive, turn to the
+If you long for the heart of the archive, turn to the
 [[Essential Teachings Index|Essential Teachings]]. These are the messages I
 would place in your hands if you had only an hour and wished to understand
 what this is all about. If you read nothing else here, read those.
@@ -70,7 +64,7 @@ as the soul's own capacity allows. Divine Love is infinitely more: God's own
 nature, flowing into the soul in answer to sincere prayer and honest longing,
 finding lodgment there, and changing the soul from within.
 
-This is what @spirit[Jesus] came to teach. Not doctrines or religion, but how
+This is what @spirit[Jesus] came to teach; how
 to cultivate a living relationship with God through asking for and receiving
 the inflowing of God's Love into the depths of the soul. The messages gathered
 here carry that teaching forward, given by Jesus and many Celestial spirits
