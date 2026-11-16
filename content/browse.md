@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-11-15
+last_updated: 2026-11-16
 ---
 
 # Browse All Messages
@@ -632,7 +632,7 @@ last_updated: 2026-11-15
 | [The Highest Gift of All Is the Blessing of God's Love](messages/2019/03/2019-03-08-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑08 | The winds of earth cannot topple a soul that is grounded in light. The only question is whether you will reach out. |
 | [Blessings From God Are With You](messages/2019/03/2019-03-08-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑08 | The warmth in the room is not the room. It is the flame you carry, and God is asking you to feed it. |
 | [There Is a Power to This Gift of Insight](messages/2019/03/2019-03-13-af-stephen.md) | [Stephen](../spirits/stephen.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑13 | The dreams you are tempted to dismiss are God preparing you. When the time to act comes, you will already know. |
-| [Love Is My Message](messages/2019/03/2019-03-14-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑14 | Do not pray to him. He is your brother, not your God. What he wants is for you to love the way he loved. |
+| [Love Is My Message](messages/2019/03/2019-03-14-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑14 | He calls you brother and sister, and asks one thing: that you love the way he loved. |
 | [Gather Your Brethren Into the Light](messages/2019/03/2019-03-14-af-mary.md) | [Mary, Mother of Jesus](../spirits/mary.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑14 | Seek to serve God in love, and all else falls into place. Start by gathering the ones in pain. |
 | [Divine Love Brings Your Soul Nourishment Needed to Awaken](messages/2019/03/2019-03-29-af-mark.md) | [Mark](../spirits/mark.yml) | [Al Fike](../mediums/al-fike.yml) | 2019‑03‑29 | You live inside a mystery you have never explored: your own soul. Divine Love is what brings it to life. |
 | [We Are Not So Different](messages/2019/04/2019-04-01-jw-yogananda.md) | [Yogananda](../spirits/yogananda.yml) | [Jimbeau Walsh](../mediums/jimbeau-walsh.yml) | 2019‑04‑01 | The guru spent a lifetime teaching reincarnation. Death was where he learned it was never true. |
