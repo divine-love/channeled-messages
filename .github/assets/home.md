@@ -45,10 +45,10 @@ prayerfully, and when something stirs your soul, follow it. That pull is worth
 trusting. It is often the soul recognizing a truth long before the mind has
 caught up.
 
-If you arrived carrying a question, [[Ask the Archive]] gathers every question
-these messages answer and arranges them by subject. Wander the list, or begin
-typing in the search bar, in the words you would use if you were asking a
-trusted friend sitting quietly beside you.
+If you arrived carrying a question, begin typing it in the search bar, in the
+words you would use if you were asking a trusted friend sitting quietly beside
+you. Every message carries the questions it answers, so the search will lead
+you to them.
 
 And if you long for the heart of the archive, turn to the
 [[Essential Teachings Index|Essential Teachings]]. These are the messages I

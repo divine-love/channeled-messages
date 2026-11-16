@@ -78,7 +78,9 @@ Then open ./obsidian-vault/ as a vault in Obsidian.
 Search behaviour: Obsidian's search matches question text inside notes, so
 a seeker typing words from a real question ("responsible for people who
 reject") lands on the message that answers it. The Ask the Archive index
-gives the same corpus as a browsable FAQ.
+gives the same corpus as a browsable list; it is still built, but the curator
+has hidden it from the site's navigation and the home page no longer links
+to it, since a list of every question is too long to be useful.
 """
 
 import re
@@ -184,10 +186,10 @@ prayerfully, and when something stirs your soul, follow it. That pull is worth
 trusting. It is often the soul recognizing a truth long before the mind has
 caught up.
 
-If you arrived carrying a question, [[Ask the Archive]] gathers every question
-these messages answer and arranges them by subject. Wander the list, or begin
-typing in the search bar, in the words you would use if you were asking a
-trusted friend sitting quietly beside you.
+If you arrived carrying a question, begin typing it in the search bar, in the
+words you would use if you were asking a trusted friend sitting quietly beside
+you. Every message carries the questions it answers, so the search will lead
+you to them.
 
 And if you long for the heart of the archive, turn to the
 [[Essential Teachings Index|Essential Teachings]]. These are the messages I

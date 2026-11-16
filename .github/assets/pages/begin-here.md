@@ -35,5 +35,6 @@ From @spirit[Joseph]. @door[2019-04-03-af-joseph]
 
 When you have read these, the [[Essential Teachings Index|Essential Teachings]]
 hold the messages that carry the heart of the archive. If you came with a
-question, [[Ask the Archive]] gathers every question these messages answer.
-And [[How This Archive Is Organized]] shows everything else that is here.
+question, type it into the search bar: every message carries the questions it
+answers. And [[How This Archive Is Organized]] shows everything else that is
+here.
