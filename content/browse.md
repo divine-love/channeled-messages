@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-11-16
+last_updated: 2026-11-18
 ---
 
 # Browse All Messages
@@ -431,6 +431,7 @@ last_updated: 2026-11-16
 | [Choose to Embrace God's Will](messages/2017/04/2017-04-20-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑04‑20 | Free will was never the power to steer your own life wisely. It is the power to say yes to God. |
 | [Jesus Speaks of the Pentecost](messages/2017/05/2017-05-11-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑11 | The only thing holding you back from the awakening of your soul is you |
 | [Accept the Diversity that God Created](messages/2017/05/2017-05-13-af-yogananda.md) | [Yogananda](../spirits/yogananda.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑13 | When different souls bring their truth together, they create something more beautiful than any one of them could alone. |
+| [Goldie's Enthusiasm and Encouragement](messages/2017/05/2017-05-18-af-goldie.md) | [Goldie](../spirits/goldie.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑18 | You are still wondering whether spirits could ever speak aloud among you. Goldie is already planning to sing. |
 | [Allow God to Use You as His Channel of Love](messages/2017/05/2017-05-22-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑22 | When your days are over and you look back, you will see that every step led to the next, and your life was an expression of Light |
 | [Lesson on Judgement](messages/2017/06/2017-06-15-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑06‑15 | With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot judge |
 | [Only the Soul Can Know God's Love](messages/2017/08/2017-08-21-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑08‑21 | A thousand words and a million books will never bring this Truth as it is experienced by that deep Touch from God |
