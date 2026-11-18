@@ -315,7 +315,8 @@ only stating it.
   comes on the asking: 2016-09-10-af-andrew, "if you ask for help in your
   prayers... God will send an angel to you, to help you in this struggle";
   2016-11-29-af-judas, a spirit offering himself by name, "Ask for my
-  assistance and I will come to you"; and 2017-12-18-af-martin-luther, "You
+  assistance and I will come to you"; 2017-05-19-af-laila, "Pray for my
+  assistance and I will be there"; and 2017-12-18-af-martin-luther, "You
   will receive all the assistance that you require if asked." Earnest prayer for the Love brings an
   angel close, one God assigns to each earnest soul and present when it prays,
   not necessarily at other times: 2016-05-30-af-augustine, "when you earnestly
@@ -343,6 +344,8 @@ only stating it.
   2017-01-23-af-alec-gaunt, "we are always there
   my beloveds, always there to be with you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
+  2017-05-19-af-laila, "I will be with you as will many who desire to work with
+  you and to help you with your ministry";
   2017-05-22-af-andrew, "We in spirit will continue to accompany you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
@@ -352,7 +355,9 @@ only stating it.
   be with you clearly and powerfully in your life"; 2019-02-27-af-andrew,
   "every soul who desires to be guided is blessed and accompanied by an angel
   or many angels." And Jesus assigns Celestial spirits as guides to mortals
-  who walk the path of Love: 2019-01-30-af-seretta-kem, "Jesus assigns these
+  who walk the path of Love: 2017-05-19-af-laila, given to a group as its
+  protector, "He has asked me to be your protector";
+  2019-01-30-af-seretta-kem, "Jesus assigns these
   guides in his wisdom," a role given to "many of us in the Celestial
   Kingdom"; 2019-02-21-af-elijah, a guide naming himself to one man, "My son,
   I continue to guide you." None argues it; each message asserts its step.
@@ -499,7 +504,13 @@ only stating it.
   "God will provide you with the means to deal with any and all
   circumstances," though the provision there is for hard encounters with
   people rather than the supply of an undertaking, so it is not taken as the
-  case that settles the question. `provision-for-service` holds the other half
+  case that settles the question. 2017-05-19-af-laila tells a new circle
+  everything it needs to do, "All you need to do is listen and walk day by day
+  with a desire to be a channel of love," and in the same message says God will
+  bring the people, "God will guide those souls who are earnest." Both halves
+  are here, but she only says them, and what God gives here is people for a
+  circle, not what a piece of work needs, so this message does not settle the
+  question either. `provision-for-service` holds the other half
   of the same bargain, what God supplies when the work is His; this candidate
   holds the requirement side, stated as a complete minimum. Mint when a
   message argues that the list is enough rather than stating it, or when the

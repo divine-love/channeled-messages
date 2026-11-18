@@ -36,6 +36,7 @@ related_messages:
   - 2015-03-27-af-confucius
   - 2016-01-04-af-confucius
   - 2016-02-29-af-confucius
+  - 2017-05-19-af-laila
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -52,7 +53,7 @@ excerpt: >
 collections: []
 door: >
   The journeys will continue and you will come again and again to those who desire your presence. This is your purpose and calling
-last_edited: 2026-10-29
+last_edited: 2026-11-18
 ---
 
 I am Confucius. It seems that some of my countrymen do not understand the courtesies of prayer and meditation. You must educate them. Tell them of God's Love and how to receive this Love.
