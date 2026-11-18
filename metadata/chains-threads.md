@@ -511,7 +511,9 @@ only stating it.
   bring the people, "God will guide those souls who are earnest." Both halves
   are here, but she only says them, and what God gives here is people for a
   circle, not what a piece of work needs, so this message does not settle the
-  question either. `provision-for-service` holds the other half
+  question either. 2017-05-20-af-jesus gives the list to every soul in the
+  world, "A simple prayer, a simple desire, a willingness to be open, to be
+  blessed is all that is required." `provision-for-service` holds the other half
   of the same bargain, what God supplies when the work is His; this candidate
   holds the requirement side, stated as a complete minimum. Mint when a
   message argues that the list is enough rather than stating it, or when the
