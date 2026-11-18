@@ -34,7 +34,8 @@ questions:
   - "How does God's Love change my thinking and perceptions?"
   - "What does soul perception feel like as it begins to open?"
   - "How long does spiritual transformation take?"
-related_messages: []
+related_messages:
+  - 2017-05-21-af-aekarius
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/like-a-newborn-the-eyes-of-your-soul-begin-to-open-bringing-shifts-and-changes-of-perception/"
 notes: ""
@@ -42,7 +43,7 @@ essential_teachings: []
 door: >
   The disorientation you feel is not confusion. It is your soul's eyes learning to see
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-04-13
+last_edited: 2026-11-18
 ---
 
 Bless you, my beloveds, your teacher Augustine is here. Each of you is experiencing a deep shift within yourselves. This is a time of observing, of releasing and stepping into a new realm of consciousness and closeness with your Heavenly Father. For what you have received in your gatherings have enlightened your souls, my beloveds, have brought more Love into your souls and this will have its effects in all parts of your beings. For you cannot have a greater Light within you and it not influence all parts of you. You may resist or suppress, you may turn away, you may have all manner of emotions and thoughts regarding this, but I tell you, the power of God's Love, its ability to transform your being, to cleanse your souls, to influence your minds, your thinking and your perceptions, is greater than any blessing in the universe, my beloveds, it is greater than anything you may receive as a blessing, for this is the essence of the Creator. This is a substance that is born from His Soul given to your soul through the workings of the Holy Spirit.

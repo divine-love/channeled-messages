@@ -347,6 +347,8 @@ only stating it.
   2017-05-19-af-gandhi, "every soul that aspires for light has an angel with
   them at all times"; 2017-05-19-af-laila, "I will be with you as will many
   who desire to work with you and to help you with your ministry";
+  2017-05-21-af-aekarius, "we walk by your side for you are never alone, my
+  beloveds, never";
   2017-05-22-af-andrew, "We in spirit will continue to accompany you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
@@ -414,7 +416,9 @@ only stating it.
   is retained within you, accumulating within your soul, bringing
   enlightenment, true knowledge and understanding." 2017-02-23-af-andrew
   asserts the reciprocity, "You receive as you give. You are loved as you
-  love," without the retention. Fenced from
+  love," without the retention. 2017-05-21-af-aekarius says that giving love
+  does not drain the giver, "without diminishing yourself," but not that a part
+  of it is kept. Fenced from
   `bell-toll-instrumentality` (what radiates outward) and `healing-channel`
   (what makes the channel clear): this is what stays behind in the channel.
   Mint when a message develops the retention mechanism rather than asserting

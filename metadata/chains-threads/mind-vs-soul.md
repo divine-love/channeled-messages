@@ -65,6 +65,9 @@
   integration under way, "a sense of disconnection, of worry for your own
   future, a confusion regarding your priorities... This is all part of the
   transition of your soulful light infusing your beautiful minds";
+  2017-05-21-af-aekarius, the newly awakened soul as a tender newborn to be
+  cared for, "you must nurture this new child within you," until "in time these
+  conflicts of the mind and the soul will dissipate";
   2018-07-22-af-seretta-kem, the hurdle placed in the mind's patterns rather
   than the soul, "your souls have received a good measure of Divine Love and
   are bright," with the soul's condition to "inhabit your minds, to infuse

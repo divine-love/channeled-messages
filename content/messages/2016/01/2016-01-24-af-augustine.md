@@ -40,6 +40,7 @@ related_messages:
   - 2016-01-23-af-augustine
   - 2016-03-10-af-augustine
   - 2016-07-10-af-augustine
+  - 2017-05-21-af-aekarius
 audio_url: ""
 canonical_url: ""
 language: en
@@ -51,7 +52,7 @@ door: >
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 essential_teachings: []
 notes: ""
-last_edited: 2026-10-29
+last_edited: 2026-11-18
 ---
 
 I am your teacher Augustine. God bless you, my children. It is important to know the desire of your soul, for the desire of your soul may be quite different from the desires of your mind. And often you are in conflict when these two sets of desires do not match.
