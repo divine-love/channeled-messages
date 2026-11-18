@@ -34,6 +34,7 @@ Working agreements for the session:
 
 - **Message text is never changed without my approval.** Spacing artifacts and clear typos are fixed silently and listed in chat. Grammar, sentence fragments and punctuation are flagged, and wait for my answer.
 - **Full reading only.** Every log entry and roster line comes from reading the whole message. Anything in quotation marks is the message's own words. Check every quote against the message text with code, and check again after any approved text fix.
+- **Keep the chains language very simple.** Write every log entry, roster line and holding-pen note so a child could follow it: short everyday words and plain sentences. Say what the message says and why it belongs to the thread. Avoid shorthand such as "asserted rather than argued" or "given as a closed list".
 - **Check with code, never from memory:** every subject against `subjects.yml`; every cap (description 600, excerpt aiming under 200 and never over 300, door 300); no em dashes in any file; both validators before you deliver.
 - **Decisions the schema settles** are applied without comment. **Judgment calls** (message_type edge cases, essential_teachings, collections, chain roles, anchors, a possible Chrysalis, a link you are unsure of) work differently: choose what you would recommend, apply it, and list each one with a sentence of reasoning so I can overrule it.
 - **Raise patterns as you notice them:** a candidate thread, a missing witness, a roster out of order, a place where the repo breaks its own rules.
@@ -61,7 +62,7 @@ Please catalogue it. Fetch the page and work from the published text. A "(DV)" i
 4. **The description, excerpt and door,** so I can read them without opening the file, with their lengths confirmed against the caps.
 5. **Related messages:** each link with the subject it shares, and for every other file a full `related_messages:` block in date order, ready to paste.
 6. **Spirit and medium files:** any biography the message states that the file does not carry, citing the message_id. Ask before creating a new spirit or medium file.
-7. **Chains:** the log entry, the year file it goes in and where, any roster, holding-pen or pattern changes, and the reasoning for each role. If the message warrants no entry, say so and why.
+7. **Chains:** the log entry, in very simple language, the year file it goes in and where, any roster, holding-pen or pattern changes, and the reasoning for each role. If the message warrants no entry, say so and why.
 8. **Prayer:** if a spirit gives a prayer, its practice file and the context note in the log.
 9. **The files** as downloads.
 
