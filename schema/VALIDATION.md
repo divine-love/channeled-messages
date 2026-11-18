@@ -73,6 +73,7 @@ A prayer file is any file in `content/practices/` named `prayer-` followed by a 
 - Every roster file is named for its thread and holds that one roster
 - Every thread in the list has a roster file
 - The record format the log's own rules set out
+- Every entry has at least one record. A message read in full that joins no thread has the single record `- Read in full; joins no thread.`, word for word, and nothing else
 
 The opening of `validate_chains.py` lists every check.
 

@@ -7,7 +7,7 @@ description: >
   per year of message. Companion to chains-threads.md, which holds the thread
   registry, holding pen, and open questions. The log is NOT generated and NOT
   a schema. Nothing here is final.
-last_updated: 2026-11-14
+last_updated: 2026-11-18
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -102,6 +102,18 @@ themselves are in the `chains-log/` folder beside it:
   `chains-log/2026-01.md`, `chains-log/2026-02.md`, and its year file is
   removed. A year is kept either whole or by month, never both.
 
+Every message read in full for chains has an entry. A message that joins no
+thread still gets one: its heading line as usual, then a single fixed record
+and nothing else,
+
+    - Read in full; joins no thread.
+
+The first is 2017-05-18-af-goldie, in `chains-log/2017.md`. The words are always exactly these, so the validator can check them, and the
+line is never added to an entry that has thread records. It is the one record
+that speaks of the reading rather than of the message, by the curator's ruling,
+so that the messages still to be read for chains are simply those with no entry
+in the log. The vault generator passes over it, so it shows on no chain page.
+
 Entries are in chronological order by message date, within each file and
 across the files read in name order. Messages are not catalogued in date
 order, so a new entry is inserted at its date's position in its year's file
@@ -146,7 +158,9 @@ A record says what the message contains and why it earns its role. It records
 nothing about the log's own history: no mint dates, no pen dates, no session
 or reading dates, no curator attributions. This is the history of the messages,
 not the history of the log. Where a standing ruling governs a decision, name
-the ruling descriptively rather than by the date it was made.
+the ruling descriptively rather than by the date it was made. The one exception
+is the fixed record "- Read in full; joins no thread.", described under How to
+read the log, which stands alone in its entry.
 
 Every entry is made from a full reading of the message, never from its
 description or summary, and every quote is checked against the message text.

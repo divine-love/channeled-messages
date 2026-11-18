@@ -587,6 +587,10 @@ def parse_chain_memberships():
 
     Member lines are the bold ones (- `slug` **[Role...]**) and are the only
     thing that feeds the graph and the role sections, unchanged from before.
+    The record "- Read in full; joins no thread." marks a message that was
+    read for chains and joins no thread; it matches neither shape below and
+    is passed over, so it shows on no hub.
+
     NOTE lines (- NOTE (tier, `slug`): ...) are now captured too, so the
     witnesses and sightings that were previously discarded can be listed at
     the foot of each chain hub instead of being findable only by grepping

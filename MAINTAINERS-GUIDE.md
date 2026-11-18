@@ -124,7 +124,7 @@ These change nothing. They read the files and report problems.
 |---|---|---|
 | `validate_messages.py` | Every message file against the rulebook: required fields, lengths, subjects that really exist, spirits and mediums that have files, links to messages that exist, collection rules. Ends with a count of how often each subject is used | On GitHub at every push, and by you before committing |
 | `validate_prayers.py` | Every spirit-given prayer file in `content/practices/`: that it points to a real message and that its words match that message exactly | On GitHub at every push, and by you |
-| `validate_chains.py` | The chains layer: every thread name is real, entries are in date order, each entry is in the right year's file, each roster file is named for its thread | On GitHub when a chains file changes, and by you |
+| `validate_chains.py` | The chains layer: every thread name is real, entries are in date order, each entry is in the right year's file, each roster file is named for its thread, the no-thread line is written exactly | On GitHub when a chains file changes, and by you |
 | `check_dashes.py` | Lists every em dash and en dash in the repository, so curator-written ones can be removed | By you, now and then |
 | `check_body_endings.py` | Lists messages whose text seems to stop mid-sentence, which can mean a message was cut short when copied | By you, now and then |
 | `check_names.py` | Looks for invisible characters in page names, which make links work in Obsidian but fail on the website | By you, when a link on the site is broken |
@@ -301,6 +301,7 @@ It exists so that a reader can follow a teaching as a whole instead of meeting i
 **The rules that matter most:**
 
 - An entry is written only after reading the whole message.
+- Every message read for chains gets an entry. One that joins no thread gets its heading and the single line `- Read in full; joins no thread.`, written exactly so. A message with no entry is one not yet read for chains.
 - Anything in quotation marks is the message's own words, copied exactly.
 - No counts, no "the first" or "the fullest". Messages are still being added, so any such claim goes out of date.
 - A new thread gets its line in the list and its own file in the same commit.

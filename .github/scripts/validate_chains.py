@@ -32,6 +32,9 @@ Two tiers of check:
             in front matter
           - every entry sits in the file for its own year, and an entry file
             holds entries and nothing else
+          - every entry has at least one record; an entry for a message read
+            in full that joins no thread has the single record
+            "- Read in full; joins no thread." exactly, and nothing else
           - every roster file is named for its slug and holds that one roster
           - no entries or rosters left in chains-log.md or chains-threads.md,
             and no stray files in either folder
@@ -93,7 +96,11 @@ NOTE_LINE = re.compile(r"^- NOTE\b")
 NOTE_OK = re.compile(
     r"^- NOTE \((?:context|pattern, described and not penned"
     r"|(?:witness|sighting|considered and set aside|build), `[a-z0-9-]+`)\): ")
-RECORD = re.compile(r"^- (?:`|NOTE)")
+# The one fixed record for a message read in full that joins no thread. It is
+# the whole of its entry, word for word, so the log holds an entry for every
+# message read for chains and the messages still to read are those with none.
+NO_THREAD = "- Read in full; joins no thread."
+RECORD = re.compile(r"^- (?:`|NOTE|Read in full; joins no thread\.$)")
 ENTRY = re.compile(r"^### (\S+)")
 MSG_ID = re.compile(r"\b\d{4}-\d{2}-\d{2}-[a-z]{2}-[a-z0-9-]+\b")
 SESSION_DATE = re.compile(r"\b202[6-9]-\d{2}-\d{2}\b")
@@ -308,9 +315,25 @@ def main():
 
     entry_lines = [i for i, l in enumerate(log) if l.startswith("### ")]
     first = entry_lines[0]
+    no_thread = sum(1 for l in log if l == NO_THREAD)
 
     print(f"Checking {len(entry_lines)} log entries "
+          f"({no_thread} read with no thread) "
           f"and {len(roster_slugs)} thread rosters...\n")
+
+    # ── Every entry has records; a no-thread entry has only that one ─────────
+    for a, b in zip(entry_lines, entry_lines[1:] + [len(log)]):
+        records = [j for j in range(a + 1, b) if log[j].startswith("- ")]
+        if not records:
+            errors.append(f"{logt.where(a)}: entry has no records")
+        for j in records:
+            if log[j].startswith("- Read in full") and log[j] != NO_THREAD:
+                errors.append(f"{logt.where(j)}: write this record exactly "
+                              f"as '{NO_THREAD}'")
+        if any(log[j] == NO_THREAD for j in records) and len(records) > 1:
+            errors.append(f"{logt.where(a)}: '{NO_THREAD}' is the whole of "
+                          "its entry; an entry with thread records does not "
+                          "carry it")
 
     # ── Registry and roster ordering ─────────────────────────────────────────
     registry_lines = [i + 1 for i, l in enumerate(threads)
