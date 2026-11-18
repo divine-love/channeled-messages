@@ -56,7 +56,7 @@ door: >
   Your longing to heal the world is real. But ask where it begins - in the mind
   that wants to plan it, or the soul that simply loves.
 collections: ["Service & Mission", "Healing Path"]
-last_edited: 2026-10-29
+last_edited: 2026-11-18
 ---
 
 I am Seretta Kem and I come to guide you upon those questions and efforts that you have made to bring healing to this world. I would ask you to consider, my beloveds, what motivates you when you come together in this way to bring healing to the world? Is it your minds or is it your souls? Undoubtedly your answer would be both and the motivation to bring healing to the world is a desire that originates from your soul. It is a longing and a yearning to bring comfort to many. It is a reflection of the Father's Love within you.
@@ -72,4 +72,3 @@ So I will ask you, my beloveds, do not seek to satisfy those concepts and hazy t
 And would it not be a beautiful thing that you are used within every breath for this purpose, a channel of Love, a channel of healing and comfort to speak the wisdom of Love, the truth of Love, to act in this way always, to be upon that higher level of being in this world? In this way you would not only be a channel to assist those who are injured but be a comforter and a speaker of truth. If you were to live in this way, my beloveds, each and every day, with each and every breath, you would change the world. It does not take many souls to be in this beautiful condition, to walk in this way, to bring a great power of Love. Is this not a noble ambition to be within yourselves in harmony with your Heavenly Father and with His Love, His Grace, His Touch through you to make that change that must come which God desires to be so in this world? And you, my beloveds, within your souls know this and feel the power of this and are willing to enact God's will in this way.
 
 God bless, God bless you, my beloved, beautiful souls, who seek so earnestly to serve God, who have beautiful Light, who see those who suffer in the world and wish to serve them in Love. God bless you, my beloveds, you are Lights and you will grow and understand through all the experiences of your lives and all of that which you do together to bring greater Light into this world. Beloved souls, continue in your efforts and seek the highest, seek to be a channel of Love always and God will guide you and collect you together for many different purposes and has done so many times and will do so many more. Beloveds, I love you. I am Seretta Kem and I assist you in your efforts to bring healing to this world. It is my honor, privilege and gift to assist you in this way and I love you, beloved souls. I love you. God bless you.
----

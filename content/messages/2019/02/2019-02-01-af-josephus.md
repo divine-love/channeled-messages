@@ -59,7 +59,7 @@ door: >
   You are using only half of what you are. The other half is a soul full of
   sealed chambers, and Divine Love is the light that opens them.
 collections: ["Prism of the Soul", "Letters from History"]
-last_edited: 2026-08-09
+last_edited: 2026-11-18
 ---
 
 May His Love find a great inflowing into your soul. My name is Josephus, I have not spoken through this instrument before but I have been asked to speak about the faculties of the soul. I was a philosopher and teacher of the Jewish faith and helped to formulate the scriptures of this religion. Now I reside within the Celestial Kingdom. I have followed the teachings of the Messiah of Israel, our beloved Jesus.
@@ -117,4 +117,3 @@ That moral compass within you is of the soul, and is another faculty. These elem
 I think I've covered many aspects of the faculties of the soul this day. I may return some other day to expound further upon this, but I am well satisfied with what I've shared today as I hope you are, beloved souls. This may add some clarity and inspiration to each one's journey of knowing the soul. It is my sincere wish that you continue in your efforts to receive this glorious gift of Divine Love, to awaken your faculties and transform them in Love. For this is the highest road that can be travelled resulting in the highest expressions of your faculties, awakened in Love, awakened by this awesome and wondrous touch of the Essence of God.
 
 I thank you my beloved friends for listening. I'm glad to have come to speak to you for there are not enough opportunities for we in the Celestial Kingdom to speak to you on Earth of these matters and this is a great gift and I thank you for this. May God's Love continue to uplift you, my friends, protect you, inform you and change so that you may truly know yourselves as God's children. God bless you. God bless you. I am Josephus.
----

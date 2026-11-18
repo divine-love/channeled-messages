@@ -59,7 +59,7 @@ door: >
   You do not have to understand the gift to receive it. The soul knows how to
   long for God even when the mind has never heard His name.
 collections: ["Two Paths", "The Saints & Apostles Speak"]
-last_edited: 2026-10-29
+last_edited: 2026-11-18
 ---
 
 God bless you, I am your Teacher Augustine. Now that this instrument has made himself comfortable, we may proceed with another answer. Indeed, he does not take seriously his condition and these discomforts are a reflection of this, a flaw in his physical functioning, and as he ages, these conditions will worsen if he does not make effort to correct them.
@@ -77,4 +77,3 @@ For you beloved souls, as you continue to teach the way of receiving the Divine 
 God will use you, my beloved friends, in many ways. God will open many doors so that you may indeed express the Truth of God's Love by your presence, by your love for them, and possibly by your testimony of Love shared with them. Yes, many opportunities exist. Many are receptive to this Truth though they may have mental barriers and misunderstandings in the way of this. And yet, the soul still yearns for God and the soul at some point will reach its mark and forge that connection that will allow the inflowing of Love into their soul and bring the transformation that the soul longs for in this at-onement with God.
 
 May God bless you, beloved souls. Continue to awaken your soul, infuse your soul with His Love making you a powerful beacon of Truth. Your teacher Augustine continues to assist you on that journey. May God bless you, beloved souls.
----

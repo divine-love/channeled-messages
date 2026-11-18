@@ -64,7 +64,7 @@ door: >
   There are no past lives. There are only souls who came very close, whose
   stories felt like your own.
 collections: ["Two Paths", "Letters from History"]
-last_edited: 2026-07-15
+last_edited: 2026-11-18
 ---
 
 God bless you beloved souls. I am Yogananda. The question was asked regarding how does one know about past lives and confer this knowledge in their present life? As you well know, there is no such mechanism as reincarnation. So why do many individuals believe and have had some experience to make them believe that reincarnation exists?
@@ -88,4 +88,3 @@ It was my teaching and pursuit of the power of Love, the power of God that drew 
 I continued upon this journey until I too entered through the threshold of the Celestial Heavens, thinking I had reached the end, but then coming to the realization that this progression continues on for all eternity. What wonderment has God created in this ever-increasing joy, this expansion of awareness and Love and Truth. How God must love us all, giving us this gift, this gift that brings all gifts, this blessing that opens the door to all blessings. I am truly grateful, my friends, to have come to this Truth and to have released those things that are not of Truth. My illusions have been banished and in their place comes Truth and the power of Love that brings such capacity to know Truth. How gifted are we all to know this Truth, to come in joyous gratitude to God, opening to receive His Touch and Blessings in us.
 
 May God bless us all, my friends, and may you come to know the never-ending journey to at-onement with God and along that journey may you experience all there is to experience, know all there is to know, feel all the depth of joy and awakening that comes as God blesses you deeply within your soul. God bless you. I am Yogananda. God bless you indeed and thank you.
----
