@@ -33,6 +33,7 @@ questions:
   - "What role do academic and intellectual spirits play in spiritual work?"
 related_messages:
   - 2016-12-06-af-seretta-kem
+  - 2017-05-18-af-goldie
   - 2017-11-03-af-nikola-tesla
   - 2018-08-29-af-seretta-kem
 audio_url: ""
@@ -45,7 +46,7 @@ excerpt: >
 collections: ["Service & Mission"]
 door: >
   The gift you are praying for is not the goal. It is one more way to wake a sleeping world.
-last_edited: 2026-11-14
+last_edited: 2026-11-18
 ---
 
 I am Professor Salyards. I have taken a keen interest in your work together. I have been with you all along.

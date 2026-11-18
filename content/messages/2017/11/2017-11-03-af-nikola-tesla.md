@@ -41,6 +41,7 @@ questions:
   - "Are there spirits in the afterlife who are working to help humanity?"
   - "Why do so many scientific discoveries get misused rather than helping humanity?"
 related_messages:
+  - 2017-05-18-af-goldie
   - 2018-01-21-af-professor-salyards
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/tesla-talks-about-the-power-of-love/"
@@ -53,7 +54,7 @@ excerpt: >
 collections: ["Letters from History"]
 door: >
   Those who bring the simple truth of God's Love are the greatest scientists of all.
-last_edited: 2026-11-14
+last_edited: 2026-11-18
 ---
 
 Are you surprised? I am so pleased to be with you my friends. Yes there are many of us working in unison to help you in these ventures. And my particular understanding of the mechanics of the universe come into play in my assistance of the development of your gift. For in many respects this gift has an electrical component and of course it is all energy, is it not? Many different forms of energy. I've had the opportunity since being in spirit to explore these concepts and experiment in many different ways. And so I am excited of the prospects of working with you to bring a deeper understanding of the mechanics of your world, and of the universe of God. There is so much that can be given to humanity through your efforts. These things may be given once humanity is able to utilize these gifts with wisdom and to bring greater harmony into the world. For now it would not be advisable, but in the coming times which are almost upon us, there will be greater opportunity for humanity to shift in its awareness and objectives and desires for the world.
