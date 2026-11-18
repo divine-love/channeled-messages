@@ -20,7 +20,13 @@
   to know these distinctions"; 2016-04-02-af-jesus sharpens the terminus,
   "Their road ends where your road begins. And your road goes on for all
   eternity, for God's Love is infinite," adding the soul's unlimited capacity
-  and the will as its only limit; 2018-05-12-af-luke supplies the machinery
+  and the will as its only limit; 2017-09-12-af-martin-luther names the
+  Divine road's purifying as a Law above the others, "There is one Law that
+  supersedes all others and that is the Law of Divine Love," by which the soul
+  is "able to sidestep many of these conditions" the natural road must work
+  through, since "this purification is enacted in a spontaneous way through
+  the influence of the Love within each soul";
+  2018-05-12-af-luke supplies the machinery
   beneath the summary, the accumulation premise and the natural path's
   conscious one-by-one reckoning with each memory; 2019-01-21-af-augustine
   puts free will at the fork and names what the natural road forgoes as a

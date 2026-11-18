@@ -38,7 +38,12 @@
   who you are," with the Foundation's answer given again by the same spirit,
   "Yet the essence of who you are will not be lost, just changed, enhanced."
   It names a desire to hold on rather than a fear, and meets the thread's bar
-  through the feared loss.
+  through the feared loss. 2017-09-12-af-augustine takes the same step through
+  the mind rather than the outward self: the fear is why the seeker keeps its
+  limits, "you are afraid that if you released these limitations you will lose
+  something vital," and the mind is what it fears to lose, answered with change
+  rather than loss, "This does not mean that you will lose your mind, your
+  material thoughts. No, my beloveds. But they will change."
   Witnesses. 2015-03-27-af-andrew takes the same subject from the other side,
   asking for the thing directly rather than accounting for the obstacle, "Will
   you open yourselves to this in a complete and vulnerable way? Be with God,

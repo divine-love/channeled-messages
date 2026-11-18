@@ -8,7 +8,7 @@ description: >
   file per thread. Companion to chains-log.md, which holds the rules for the
   chronological per-message evidence. This layer is NOT generated and NOT a
   schema. Nothing here is final.
-last_updated: 2026-11-14
+last_updated: 2026-11-18
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -313,9 +313,10 @@ only stating it.
   accompanied from spirit, and how closely depends on how it seeks. The steps
   run from asking, to praying, to persisting, to being assigned a guide. Help
   comes on the asking: 2016-09-10-af-andrew, "if you ask for help in your
-  prayers... God will send an angel to you, to help you in this struggle"; and
+  prayers... God will send an angel to you, to help you in this struggle";
   2016-11-29-af-judas, a spirit offering himself by name, "Ask for my
-  assistance and I will come to you." Earnest prayer for the Love brings an
+  assistance and I will come to you"; and 2017-12-18-af-martin-luther, "You
+  will receive all the assistance that you require if asked." Earnest prayer for the Love brings an
   angel close, one God assigns to each earnest soul and present when it prays,
   not necessarily at other times: 2016-05-30-af-augustine, "when you earnestly
   long for the Father's Love and so you bring the angels close";
@@ -342,6 +343,10 @@ only stating it.
   2017-01-23-af-alec-gaunt, "we are always there
   my beloveds, always there to be with you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
+  2017-05-22-af-andrew, "We in spirit will continue to accompany you";
+  2017-12-14-af-jesus, "you shall be accompanied by the angels with every
+  step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
+  all your efforts";
   2018-07-07-af-aaron, "For those of you who seek this truth of love, you
   shall always be accompanied by an angel"; 2019-02-18-af-augustine, "We will
   be with you clearly and powerfully in your life"; 2019-02-27-af-andrew,
@@ -390,7 +395,11 @@ only stating it.
   a soul makes. The subject "Two Choices for Humanity" is its search-level
   home meanwhile. 2016-12-12-af-augustine sets the two side by side as light
   and the clouds that diffuse it, not as a choice, so it is not the minting
-  case. Mint when another message states the choice in these terms.
+  case. 2017-09-12-af-martin-luther puts the choice between the power of Love
+  and the human condition, "you have chosen to walk in this condition rather
+  than to choose the power of Love," which names Love rather than God's Will,
+  so it is not the minting case either. Mint when another message states the
+  choice in these terms.
 - `love-retained-in-the-channel`, a portion of the love that passes through a
   serving channel is retained and accumulates, so serving others is also how
   the servant grows. Seen: 2015-03-29-af-mary, in a general form ("As you give

@@ -61,9 +61,10 @@
   Fences. Against `healing-channel`: this thread is what Divine Love healing
   is; that one is how a person becomes a channel for God's healing in the
   world.
-  What is awaited. Two checkpoints to weigh as they are reached,
-  2017-12-12-af-seretta-kem and 2018-07-14-af-seretta-kem, the latter already
-  carrying a Reframe in `soul-expiation`.
+  What is awaited. A checkpoint to weigh when it is reached,
+  2018-07-14-af-seretta-kem, which already carries a Reframe in
+  `soul-expiation`. 2017-12-12-af-seretta-kem heals the soul by expiation and
+  makes no comparison with other healing, so it belongs to `soul-expiation`.
   Structural note: the Foundation was originally credited with distinguishing
   Divine Love from the transferable energies. It does not. There is no
   comparison with other healing energies anywhere in that text; the claim is a

@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Guidance"]
 description: >
   Confucius, speaking on behalf of many angels who wish to address the circle,
@@ -20,7 +20,7 @@ description: >
 primary_subjects: "Readiness & Spiritual Maturity"
 secondary_subjects:
   - "Circle of Light & Prayer Circles"
-  - "Celestial Governance & Spiritual Law"
+  - "Divine Plan & Timing"
   - "Confidence in the Path"
 people: []
 spirits: []
@@ -35,24 +35,19 @@ questions:
   - "Am I ready for the mission God has been preparing me for?"
 related_messages:
   - 2016-08-15-af-mary
-  - 2015-12-21-af-peter
-  - 2016-03-21-af-augustine
-  - 2017-05-11-af-jesus
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/the-time-approaches/"
-notes: >
-  Confucius opens by noting that many angels wish to speak, suggesting this was a
-  brief message at the start of a longer circle.
-essential_teachings: ["Prophecy"]
+notes: ""
+essential_teachings: []
 language: en
 excerpt: >
-  All of those years of prayers, of coming together with the longing of the soul,
-  will open up these doors as God continues to bless you and helps you to see
-  beyond the limitations of your minds.
+  Yes, the time approaches where God will guide you through to a place where many
+  doors will open, many opportunities to speak and to love, to bring Light and
+  Peace.
 collections: ["Awakening Humanity"]
 door: >
-  All those years of prayer are about to open doors you have not yet imagined
-last_edited: 2026-10-29
+  All those years of prayer are about to open doors you have not yet imagined.
+last_edited: 2026-11-18
 ---
 
 There are many angels who wish to speak to you, my beloveds. The time approaches when you will bring forth many blessings and truths to this world. All of those years of prayers, of coming together with the longing of the soul will open up these doors as God continues to bless you within your soul, beloveds, and helps you to see beyond the limitations of your minds to know the great gifts of your soul.

@@ -41,6 +41,12 @@
   confrontation as you cling to these old things" and the seeker turning
   "upon yourself in criticism," with the pain placed in the holding on, "The
   pain is caused by your desire to hold on to what you see as who you are";
+  2017-12-12-af-seretta-kem gives the mechanism whole, the encrustations never
+  sealing the soul completely, "There are always cracks and fissures upon the
+  surface of the soul," expiation defined as "simply the release of these
+  conditions through a number of means including the physical," and the
+  clearing gathering speed, "The momentum builds and all conditions around
+  the soul, all error of the mind begins to disintegrate";
   2018-04-03-af-luke develops the inherited strand
   alone, transmitted parent to child across history; 2018-05-12-af-luke names
   the Law and states its insistence, "The Laws of Compensation which insist
@@ -60,7 +66,12 @@
   come clear to another."
   Objections removed. 2016-09-12-af-jerome clears the externalizing account
   of one's own negative states, "those negative reactions belong to you...
-  they come from you." 2023-02-10-af-augustine clears the purify-first
+  they come from you." 2017-12-12-af-seretta-kem clears the purify-first
+  barrier and gives the route the Love takes in, "The error which teaches that
+  every encrustation must be released in order to receive this gift, is not
+  true," with seeing one's own patterns helpful but "not mandatory, for these
+  conditions may fall away very slowly and subtly with the inflowing of the
+  Divine Love." 2023-02-10-af-augustine clears the purify-first
   barrier, "It is not as others have said that they must first cleanse all of
   these conditions before they are able to know their soul or receive the
   great gift of God's Love. Rather, the contrary is true."

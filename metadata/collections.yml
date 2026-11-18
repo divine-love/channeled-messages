@@ -8,7 +8,7 @@
 # collections organise BROWSING. Ask: "Would a reader interested in this
 # theme want to find this message?" If yes, add it to the relevant
 # collection. A message can belong to more than one collection, but aim
-# for relevance — don't add a message to a collection just because the
+# for relevance: don't add a message to a collection just because the
 # theme is mentioned briefly.
 #
 # collections and essential_teachings serve different purposes and can
@@ -18,14 +18,14 @@
 #
 # Common contributor questions:
 # Q: What is the difference between "Awakening Humanity" and "Service & Mission"?
-# A: "Service & Mission" focuses on the individual caller — their gifts,
+# A: "Service & Mission" focuses on the individual caller: their gifts,
 #    calling, and role as a channel of love. "Awakening Humanity" focuses
-#    outward — the broader global shift in consciousness and the role of
+#    outward: the broader global shift in consciousness and the role of
 #    prayer circles and light workers in that shift. A message can belong
 #    to both if it addresses both scales.
 #
 # Q: Does every message from a biblical figure go in "The Saints & Apostles Speak"?
-# A: Yes — this collection covers all biblical figures, not just the twelve apostles.
+# A: Yes. This collection covers all biblical figures, not just the twelve apostles.
 #    Moses, Mary, and other Old and New Testament figures all belong here.
 #    Jesus has his own collection ("Jesus Speaks") and does not go in
 #    "The Saints & Apostles Speak."
@@ -46,14 +46,14 @@ collections:
 
 - name: "Awakening Humanity"
   definition: >
-    Messages concerning the broader spiritual awakening of humanity —
+    Messages concerning the broader spiritual awakening of humanity,
     the global shift in consciousness that the Divine Love teachings
     anticipate and call forth. Includes teachings on the role of prayer
     circles, light workers, and the awakening mission in the world.
 
 - name: "Healing Path"
   definition: >
-    Messages about healing in all its dimensions — physical, emotional,
+    Messages about healing in all its dimensions: physical, emotional,
     and spiritual. Includes teachings on how Divine Love heals, the
     mechanics of spirit healing, and the restoration of the soul and body
     through prayer and God's Love.
@@ -109,13 +109,13 @@ collections:
 - name: "Mind & Soul"
   definition: >
     Messages exploring the relationship between the material mind and
-    the soul — how the mind can assist or obstruct the soul's growth,
+    the soul: how the mind can assist or obstruct the soul's growth,
     the integration of mind and soul, and the soul's faculties of
     perception and knowing.
 
 - name: "Prism of the Soul"
   definition: >
-    Messages exploring the nature, faculties, and gifts of the soul —
+    Messages exploring the nature, faculties, and gifts of the soul:
     its capacity for Divine Love, its unique expression, its senses,
     and the gifts that emerge as it is awakened and transformed.
 
@@ -129,7 +129,7 @@ collections:
 - name: "The Saints & Apostles Speak"
   definition: >
     Messages from biblical figures speaking directly from their perspective
-    in spirit — including the apostles, saints, and other Old and New
+    in spirit, including the apostles, saints, and other Old and New
     Testament figures such as Moses and Mary. These spirits offer personal
     testimony, teaching, and encouragement grounded in their own experience
     of Divine Love. Jesus has his own collection and does not appear here.
@@ -161,8 +161,8 @@ collections:
 
 - name: "Two Paths"
   definition: >
-    Messages contrasting the natural love path and the Divine Love path
-    — the two ways a soul may progress after physical life. Clarifies
+    Messages contrasting the natural love path and the Divine Love path,
+    the two ways a soul may progress after physical life. Clarifies
     the distinction between natural love (which leads to the soul
     spheres) and Divine Love (which leads to the Celestial Heavens and
     at-onement with God).

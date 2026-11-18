@@ -25,6 +25,10 @@
   than within one, those without the teaching "nonetheless... in the light and
   know the light, and are drawn to the light," with "an acknowledgement of
   this common spiritual light and love" on both sides;
+  2017-12-12-af-seretta-kem gives the cause of the not-feeling, the mind's
+  fixed structures and the soul's own blockages making "a sort of numbness,"
+  while the Love comes in regardless, "this experience is real and happens
+  despite this lack of sensitivity and awareness";
   2019-02-05-af-keea-atta-kem moves from not knowing to not feeling, "For
   those who do not feel the inflowing of the Divine Love within their souls,
   this does not mean that they are not receiving this Love, for indeed they

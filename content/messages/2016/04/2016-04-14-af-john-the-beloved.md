@@ -36,8 +36,9 @@ questions:
   - "How does God use my intentions to reach souls I'm not even consciously aware of?"
   - "What is the relationship between intention and being a channel of Love?"
 related_messages:
-  - 2016-03-18-af-john-the-beloved
   - 2015-10-19-af-john-the-beloved
+  - 2016-03-18-af-john-the-beloved
+  - 2017-05-22-af-andrew
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/each-day-has-the-potential-to-bring-light-given-the-right-intentions/"
 notes: >
@@ -51,7 +52,7 @@ excerpt: >
 collections: ["The Saints & Apostles Speak"]
 door: >
   Like the butterfly that flutters its wings and creates the hurricane, these tiny flutters of Light will create change
-last_edited: 2026-10-29
+last_edited: 2026-11-18
 ---
 
 God bless you, I am John the beloved.

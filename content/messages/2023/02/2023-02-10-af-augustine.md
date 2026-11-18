@@ -39,7 +39,8 @@ questions:
   - "How does God help me face my buried pain without being overwhelmed?"
   - "Why must I become more sensitive rather than more guarded to know God?"
   - "How do I become a clear channel of light in a difficult time?"
-related_messages: []
+related_messages:
+  - 2017-12-12-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 language: en
@@ -54,7 +55,7 @@ essential_teachings: ["Core Teaching"]
 notes: >
   Received aboard a Caribbean cruise during the Eastern US and Caribbean Soul
   Awakening Tour.
-last_edited: 2026-10-29
+last_edited: 2026-11-18
 ---
 
 May God bless you, beloved students. I am your teacher, Augustine. I come to speak about the sensitivities that humanity carries in the world. In your western world, as you call it, your children are educated to the point where many of their intuitive capacities and sensitivities are trained away. They do not feel as they did as young children. They become immune to the feelings and perceptions that come with a sensitized soul living in the material world. Instead, this is overshadowed by intellect and discipline. Often, through their experiences as children interacting with one another, they desensitize each other with their actions.

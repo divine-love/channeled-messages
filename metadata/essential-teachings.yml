@@ -2,13 +2,13 @@
 # Essential teachings flags for the Divine Love Messages archive.
 # These values are used in the essential_teachings field of each message
 # to mark messages that carry particular weight in the archive.
-# Use sparingly — not every message requires an essential_teachings flag.
+# Use sparingly: not every message requires an essential_teachings flag.
 # Generated pages are produced automatically by generate_essential_teachings.py
 # and placed in content/essential-teachings/.
 #
 # --- HOW TO CHOOSE ---
 # essential_teachings flags SIGNIFICANCE. Ask: "Is this message especially
-# important within the archive — foundational, prophetic, historically
+# important within the archive: foundational, prophetic, historically
 # notable, or personally revealing?" If yes, flag it. If a message is
 # simply on a theme covered elsewhere, use collections instead.
 #
@@ -19,12 +19,12 @@
 # essential_teachings flag.
 #
 # Common contributor questions:
-# Q: Every message in "Two Paths" feels important — do they all get "Core Teaching"?
+# Q: Every message in "Two Paths" feels important. Do they all get "Core Teaching"?
 # A: No. Reserve "Core Teaching" for messages foundational enough to direct
 #    a newcomer to first. Not every message on a theme deserves the flag.
 #
 # Q: Should every healing message get "Divine Healing"?
-# A: No. Flag only messages that teach the mechanics of divine healing —
+# A: No. Flag only messages that teach the mechanics of divine healing:
 #    how it works, what enables it. Messages where healing is mentioned
 #    in passing belong in the "Healing Path" collection instead.
 #

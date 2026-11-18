@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Augustine acknowledges the real limitations of living in a material body and
@@ -40,25 +40,19 @@ questions:
   - "How do I know I am never alone even when life feels isolating and difficult?"
   - "Why is unlearning just as important as learning on the spiritual path?"
 related_messages:
-  - 2017-06-15-af-augustine
   - 2017-01-23-af-alec-gaunt
-  - 2016-07-10-af-augustine
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/release-of-limitations/"
-notes: >
-  Received in the same circle as 2017-09-12-af-confucius, which appears to have
-  been a brief opening message from Confucius before Augustine delivered this
-  fuller teaching.
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >
-  There is so much to learn, and yet there is so much to unlearn. As this process
-  moves forward, you will see with clarity, a vibrancy, a beauty, a knowing that
-  cannot be had in any other way than a soul awakened in Love.
+  This does not mean that you will lose your mind, your material thoughts. No, my
+  beloveds. But they will change. These conditions will become purified.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
 door: >
-  There is so much to learn, and yet there is so much to unlearn
-last_edited: 2026-04-23
+  There is so much to learn, and yet there is so much to unlearn.
+last_edited: 2026-11-18
 ---
 
 I am Augustine. Each of you are aware of your limitations. You live in this world. You live in a fleshy body. You have been influenced in your thinking. You are limited by your needs and the material conditions in which you live. I need not state the obvious. But do you not see that God lifts you above these conditions, strengthens you, teaches you, helps you to release those conditions that are not in harmony with Love that you may be that beautiful channel of Love and Light in the world as you continue to pray for this great gift of Love, the power of which can change everything. There is no need to worry of the material, to feel the limitations of the flesh, to allow the conditions of your mind to determine the outcomes of your instrumentality.
