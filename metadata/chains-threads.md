@@ -344,8 +344,9 @@ only stating it.
   2017-01-23-af-alec-gaunt, "we are always there
   my beloveds, always there to be with you"; 2017-05-11-af-jesus, "we, the angels of Heaven, will
   surround you and support you and inspire you and protect you";
-  2017-05-19-af-laila, "I will be with you as will many who desire to work with
-  you and to help you with your ministry";
+  2017-05-19-af-gandhi, "every soul that aspires for light has an angel with
+  them at all times"; 2017-05-19-af-laila, "I will be with you as will many
+  who desire to work with you and to help you with your ministry";
   2017-05-22-af-andrew, "We in spirit will continue to accompany you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in

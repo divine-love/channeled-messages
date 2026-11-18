@@ -73,7 +73,10 @@
   must move in the world," with the failure mode named, "the one who sits and
   waits is lost." It converts Augustine's permission into a condition: God's
   Will does not manifest without the seeker's movement.
-  Testimony. 2017-10-25-af-yogananda gives the willing-soul step from his own
+  Testimony. 2017-05-19-af-gandhi gives his own life as proof, "one little man
+  who changed the course of history in my world, my country," moved "by the
+  grace of God," and asks the people listening, "Are you willing?"
+  2017-10-25-af-yogananda gives the willing-soul step from his own
   life: he could have stayed "in my safe place in a culture I understood," he
   faced the choice he puts to the circle, "do I follow the Will of God or do I
   follow my will?", and he names willingness, not endowment, as what let God
