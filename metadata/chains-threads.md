@@ -8,7 +8,7 @@ description: >
   file per thread. Companion to chains-log.md, which holds the rules for the
   chronological per-message evidence. This layer is NOT generated and NOT a
   schema. Nothing here is final.
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -213,6 +213,7 @@ message_ids already carry the dates.
 | `religious-error` | Established religious doctrines have obscured the simple truth of Divine Love | Inherited doctrines are human constructs, not absolute truth → the Vicarious Atonement is false → organised religion lets human will usurp God's → no written word is final → truth comes through the soul, personally | Religious Error & Reformation; Letters from History |
 | `self-love-foundation` | Loving oneself is the prerequisite for loving others | One cannot extend compassion outward while suppressing or condemning the self → the seeker is not to blame for their condition and should meet their own cleansing with compassion → self-love opens the capacity to love others fully → and the soul that loves itself becomes a clear channel of Love to the world | Self-Love & Acceptance; Compassion & Empathy |
 | `sensitive-souls-redemptive` | The sensitive soul is the saving grace of this world | The sensitive soul feels the cruelty of the world acutely and struggles to be in it → sensitivity is a sign of soul growth, not vulnerability → the Love within the growing soul is its protection (thoughts attract like energies by law) → such souls refuse the darkness of judgment and fear, progress swiftly, and stand as the redemptive example whose presence sows seeds of Love | Compassion & Empathy; Redemption of Humanity |
+| `short-life-long-road` | The choices of a short life on Earth set where the soul begins in spirit and how long its road is from there | Life on Earth is short and what is gathered here stays behind → the soul takes with it only itself, everything it has thought and done, and its acts of love → its capacity to love decides where it begins in spirit, and that place keeps it in its condition → Divine Love remakes the soul and lets it pass by many dark layers, so the road is swift for the soul that knows the way and long for the soul that does not | Soul Spheres & Progression; Purpose of Physical Life |
 | `simplicity-of-the-path` | Simplicity as the effective register of the path and its ministry | The Divine Love path is inherently simple and complication is human-made → the simple register is what actually reaches the soul, and esoteric complexity has no effect (the failure mode) → lived simply, the complexities fall away or fall into place → the scope covers both the walking and the speaking: the seeker's life and the servant's ministry | Walking the Divine Path; Service, Ministry & Being a Channel of Love |
 | `soul-expiation` | How the soul is cleansed of inherited and accumulated darkness | The soul carries encrustations and inherited conditions → these block the inflowing of Love → expiation alternates joy and the surfacing of buried pain → Divine Love washes through and cleanses where effort alone cannot → the new birth brings permanent joy | Cleansing & Expiation; Soul Healing & Emotional Restoration |
 | `soul-faculties` | The soul has distinct, nameable faculties that awaken and refine under Divine Love | The soul holds chambers/faculties beyond the material mind (awareness of God, knowing Truth, perceiving spirits, sensing God's Will, healing, creativity, original thought, moral compass, the higher capacity to love) → these are unique to each soul and must be experienced to be understood → Divine Love opens the chambers and refines each faculty | Soul Awakening; Nature of the Soul; Prism of the Soul |
@@ -478,25 +479,6 @@ only stating it.
   when a message develops the argument rather than asserting it. Its
   search-level home meanwhile is the subject "Divine Purpose" ("Purpose &
   Meaning of Life" is not a subject in subjects.yml).
-- `short-life-long-road`, the choices of a short life on Earth have a great
-  bearing on the soul's journey in spirit: they set where the soul begins and
-  how long its road is from there. A lifetime of choices made in ignorance can
-  mean a very long journey toward the lighter realms, especially on the
-  natural love path, while a life in which the soul prays for Divine Love
-  builds "a wonderful heritage of Light". Seen: 2016-05-02-af-andrew ("your
-  journey of life upon this Earth-plane is short but has a great bearing upon
-  where you will continue life in spirit"); 2019-02-10-af-augustine ("you are
-  destined to enter some place in this world of spirit that is determined by
-  the condition of your soul", a place that "will reinforce your own
-  condition"). Read with 2019-01-31-af-yogananda, who says progression in
-  spirit "can be swift indeed once there is a desire and the knowledge to do
-  so": the two agree, since the road is swift for the soul that knows the way
-  and long for the soul that arrives without it. Fenced from
-  `death-transition`, which is about what death is; from `two-paths`, which is
-  about the two destinations; and from `redemption-universal`, which is about
-  every soul arriving in the end. This candidate is about how the choices of
-  an Earth life set the length of the road. Mint when a message builds this
-  into an argument rather than stating it.
 - `the-whole-requirement`, what is asked of the human side, stated as a closed
   and sufficient list, with the question of how the work will get done
   refused. Seen: 2016-11-27-af-confucius, "All that we require of you is for
@@ -585,7 +567,8 @@ only stating it.
   when a message argues the inexhaustibility itself, for instance by drawing
   the consequence that at-onement has no end point. 2017-02-23-af-andrew,
   "Always to become brighter and more beautiful as you progress towards
-  at-onement to God," asserts it in the same way.
+  at-onement to God," asserts it in the same way. 2017-05-21-af-augustine says
+  it as well, "even this is the beginning of the journey that never ends."
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the

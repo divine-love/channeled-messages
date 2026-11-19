@@ -24,7 +24,10 @@
   expression of your soul," with the names of those prayed for placed in the
   circle's prayer bowl so the seeker can "go deep," and communion defended
   against the charge of selfishness, "It is not selfish, it is what is meant
-  to be for you, it is what God craves."
+  to be for you, it is what God craves"; 2017-05-21-af-augustine names the
+  longing as what God must answer, "for this is a law," with no reading able to
+  stand in for it, "you may study a thousand books, a million books, but this
+  will not bring you to God."
   Elaborations, what it asks of the seeker. 2016-07-11-af-confucius adds the
   cadence requirement and its cost, "you, my beloveds, must take the time,
   make the effort, say the prayers, sit in silence to receive God's answers to

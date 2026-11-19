@@ -45,7 +45,8 @@ questions:
 related_messages:
   - 2014-12-01-af-john-the-beloved
   - 2015-11-28-af-confucius
-  - 2016-07-11-af-confucius  
+  - 2016-07-11-af-confucius
+  - 2017-05-21-af-augustine
   - 2018-06-09-af-john-the-beloved
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/prayer/"
@@ -58,7 +59,7 @@ excerpt: >
 collections: []
 door: >
   Prayer is your vehicle. Prayer opens the door. Prayer is the language of the soul
-last_edited: 2026-07-29
+last_edited: 2026-11-19
 ---
 
 I wish to speak upon the subject of prayer for prayer is the mainstay of those who walk this Divine Path. It is the vehicle that brings the blessings and the touch from God to your souls. It is the outpouring of your heart and your soul to God in earnest longing and desire to be at-one with your Creator.
