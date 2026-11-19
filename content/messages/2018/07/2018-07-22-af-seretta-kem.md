@@ -40,6 +40,7 @@ questions:
   - "How does prayer help change deeply ingrained mental habits?"
   - "What does it mean to live in full measure rather than half measure?"
 related_messages:
+  - 2017-05-25-af-seretta-kem
   - 2017-06-15-af-augustine
   - 2018-06-24-af-luke
   - 2018-06-26-af-matthew
@@ -55,7 +56,7 @@ excerpt: >
 collections: ["Mind & Soul"]
 door: >
   Your soul is already bright. It is the mind's old habits that keep its light from reaching the world.
-last_edited: 2026-11-14
+last_edited: 2026-11-19
 ---
 
 I am Seretta Kem. I wish to talk about the habits and routines of your life. We have said many times that one of the great hurdles that you all face in living a life in harmony with God's Laws of Love are the many thought patterns, habits, that you express in your daily life and routines. Indeed, the dear soul has recommended that you become more aware of your judgments and to circumvent these judgements so that your thoughts are of a higher caliber and your sentiments are that of love rather than something that is not of love. This is a noble aspiration, beloved souls. It is a way of choosing light, of making a conscious choice within your material minds of how you will express yourselves in the world. It does indeed have its merits and its benefits. It allows more love to come through and be expressed by you in your life.

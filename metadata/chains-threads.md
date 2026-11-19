@@ -350,7 +350,8 @@ only stating it.
   who desire to work with you and to help you with your ministry";
   2017-05-21-af-aekarius, "we walk by your side for you are never alone, my
   beloveds, never"; 2017-05-21-af-mary, "I will watch over you, my beloveds,
-  as you work and serve God in love";
+  as you work and serve God in love"; 2017-05-25-af-seretta-kem, "You will
+  never be alone, you will continue to be upheld";
   2017-05-22-af-andrew, "We in spirit will continue to accompany you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
@@ -480,6 +481,25 @@ only stating it.
   when a message develops the argument rather than asserting it. Its
   search-level home meanwhile is the subject "Divine Purpose" ("Purpose &
   Meaning of Life" is not a subject in subjects.yml).
+- `the-gift-and-the-channel`, the gifts the circle prays for, Direct Voice
+  above all, come second to the Truth they would carry, and they wait on the
+  condition of the people who would carry them. The work does not wait on the
+  gift: 2017-10-25-af-yogananda sends the circle to India "whether you are
+  endowed with the gift of Direct Voice or not," and
+  2018-01-21-af-professor-salyards holds the gift worth pursuing for the
+  attention it would draw, while "It is not reliant solely upon the
+  achievement of this gift of direct voice". And the gift waits on the
+  condition of those who would carry it: 2017-05-25-af-seretta-kem names the
+  preparation, "a certain physical stamina, chemical balances within the body,
+  good health and a mind clear of negativity and judgments," and calls Direct
+  Voice "but one gift"; 2017-11-03-af-nikola-tesla, knowledge held back until
+  humanity "is able to utilize these gifts with wisdom"; 2018-06-24-af-luke,
+  "But first you must be the epitome of this Love"; 2018-07-22-af-seretta-kem,
+  "you cannot bring forth a gift, however remarkable it is, without truly
+  being an example of the truth." It touches `divine-love-mediumship` and
+  `bell-toll-instrumentality` without belonging to either. Mint when a message
+  argues why the gift must wait on the condition of those who carry it, rather
+  than saying that it does.
 - `the-whole-requirement`, what is asked of the human side, stated as a closed
   and sufficient list, with the question of how the work will get done
   refused. Seen: 2016-11-27-af-confucius, "All that we require of you is for
@@ -652,21 +672,6 @@ Recurring observations recorded but not penned as candidate threads.
   comes," there for what comes through mediums. It touches
   `divine-love-mediumship`, which locates verification in the soul, and the
   cost side of `spiritual-fellowship`, without belonging to either.
-
-- **The gift and the channel.** Direct Voice and the other gifts the circle
-  prays for are placed below the Truth they would carry, in two ways. The work
-  does not wait on the gift: 2017-10-25-af-yogananda sends the circle to India
-  "whether you are endowed with the gift of Direct Voice or not," and
-  2018-01-21-af-professor-salyards holds the gift worth pursuing for the
-  attention it would draw, while "It is not reliant solely upon the
-  achievement of this gift of direct voice". And the gift waits on the
-  condition of those who would carry it: 2017-11-03-af-nikola-tesla,
-  knowledge held back until humanity "is able to utilize these gifts with
-  wisdom"; 2018-06-24-af-luke, "But first you must be the epitome of this
-  Love"; 2018-07-22-af-seretta-kem, "you cannot bring forth a gift, however
-  remarkable it is, without truly being an example of the truth." It touches
-  `divine-love-mediumship` and `bell-toll-instrumentality` without belonging
-  to either.
 
 ---
 
