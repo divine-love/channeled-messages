@@ -289,6 +289,8 @@ Most of the archive files a message under subjects. The chains layer does someth
 
 It exists so that a reader can follow a teaching as a whole instead of meeting it in fragments, and so that no single line is lifted out of its message.
 
+**On the website, chains are called threads.** The public pages are in the vault's `Threads` folder and are listed on the Threads Index. The repository's own files and scripts keep the word chains (`chains-log.md`, `chains-threads.md`, `validate_chains.py`).
+
 **Where it lives:**
 
 | File | What it holds |
@@ -307,7 +309,7 @@ It exists so that a reader can follow a teaching as a whole instead of meeting i
 - Anything in quotation marks is the message's own words, copied exactly.
 - No counts, no "the first" or "the fullest". Messages are still being added, so any such claim goes out of date.
 - A new thread gets its line in the list and its own file in the same commit.
-- A new thread also needs a place on the website's Chains Index: add its name to one of the groups in `CHAIN_GROUPS`, near the top of `.github/scripts/generate_vault.py`. Until then it is shown under "Other chains" at the end of the index. Ideas still in the holding pen are not shown on the index.
+- A new thread also needs a place on the website's Threads Index: add its name to one of the groups in `CHAIN_GROUPS`, near the top of `.github/scripts/generate_vault.py`. Until then it is shown under "Other chains" at the end of the index. Ideas still in the holding pen are not shown on the index.
 - In a log note, write a file name as a path in parentheses, never in backticks. Anything in backticks is read as a thread name.
 
 ---
@@ -320,16 +322,16 @@ It exists so that a reader can follow a teaching as a whole instead of meeting i
    python .github/scripts/generate_vault.py
    ```
    This deletes and rebuilds everything in `obsidian-vault/` except the `Notes/` folder and your Obsidian settings. It takes a few seconds.
-3. **Read what it prints.** Among other things it reports "Quotes in context ... not located". That number should be 0. If it is not, a quotation in the chains layer no longer matches its message; find it in `Chains (working)` in the vault and correct the log.
+3. **Read what it prints.** Among other things it reports "Quotes in context ... not located". That number should be 0. If it is not, a quotation in the chains layer no longer matches its message; find it in `Threads (working)` in the vault and correct the log.
 4. **Open `obsidian-vault/` in Obsidian** and look at what changed.
 5. **Publish.** In Obsidian, choose Publish changes, review the list, and publish.
 
 **What must not be published:** two folders are left out of publishing.
 
-- `Chains (working)` is the keeper's private view of the chains layer, with working notes and the paragraph behind every quotation.
+- `Threads (working)` is the keeper's private view of the chains layer, with working notes and the paragraph behind every quotation.
 - `Notes` holds the keeper's own working notes.
 
-Everything else in the vault is published.
+Everything else in the vault is published. The index pages sit together in the `Find Your Way` folder, which the site menu shows as one group.
 
 **How Obsidian is set up.** Besides Obsidian Publish itself, the vault uses two community plugins:
 

@@ -28,9 +28,14 @@ What it builds:
         the full message text, then the description as an afterword,
         related-message wikilinks, chain wikilinks, and "Questions this
         message answers" (full-text searchable)
-  Subjects Index.md                 the full subjects.yml hierarchy as a
+  Find Your Way/                    the index pages, gathered in one folder
+      so the site menu shows them as one group: Browse, Subjects Index,
+      Threads Index, Essential Teachings Index, Spirits Index, Mediums
+      Index, Gatherings Index and Prayers
+  Find Your Way/Subjects Index.md   the full subjects.yml hierarchy as a
       linked tree - the taxonomy browser, replacing the old nested tags
-  Chains/<Display Title>.md         one hub per thread: theme, argument, a
+  Threads/<Display Title>.md        one hub per minted thread (the site
+      calls the chains "threads"): theme, argument, a
       structural-health line (member count, missing Foundation/anchor),
       then members grouped in role-section
       order (Foundation first), chronological within each section, anchors
@@ -47,21 +52,21 @@ What it builds:
       message's title, @door[message_id] becomes that message's door, and
       {messages}, {subjects}, {chains} and {questions} become the current
       counts.
-  Chains (working)/<Display Title>.md   the curator's mirror of each hub,
+  Threads (working)/<Display Title>.md   the curator's mirror of each hub,
       NOT published. It adds the curatorial asides, the log file and line of
       every record, and under each record an "In context" fold-out showing
       the paragraph each quoted passage comes from, with the quoted words
       highlighted. The published hubs link to whole messages only, never to
       a passage (the unit of linking is the whole message), and nothing is
       added to the message notes for this.
-  Chains Index.md                   the minted threads in the groups set by
+  Find Your Way/Threads Index.md    the minted threads in the groups set by
       CHAIN_GROUPS, each with the argument it traces; holding-pen
       candidates are left off until they are minted
   Gatherings/<Name>.md              one page per gathering, listing its
       messages by date, with a description from GATHERING_DESCRIPTIONS
-  Spirits Index.md, Mediums Index.md, Gatherings Index.md
+  Find Your Way/Spirits Index.md, Mediums Index.md, Gatherings Index.md
       one alphabetical list each, linking every spirit, medium and gathering
-  Prayers.md                        every spirit-given prayer in
+  Find Your Way/Prayers.md          every spirit-given prayer in
       content/practices, by date, linked to its own page
   Subjects/<Name>.md, Spirits/<Display Name>.md, Collections/<Name>.md
       category hub pages, FILENAMED BY DISPLAY NAME so the explorer,
@@ -299,7 +304,21 @@ GATHERING_DESCRIPTIONS = {
     ),
 }
 
-# The groups on the Chains Index page, in the order they are shown, each with
+# The public site calls the chains "threads", and gathers its index pages in
+# one folder that shows in the site menu as a single group. The repository's
+# own names (chains-log.md, chains-threads.md, the validator) are unchanged.
+THREADS_DIR = "Threads"
+THREADS_WORK_DIR = "Threads (working)"
+FIND_DIR = "Find Your Way"
+# Pages and folders earlier versions of this script wrote, removed on every
+# run so a renamed or moved page does not linger in the vault or on the site.
+RETIRED_FILES = ["Subjects Index.md", "Chains Index.md",
+                 "Essential Teachings Index.md", "Spirits Index.md",
+                 "Mediums Index.md", "Gatherings Index.md", "Prayers.md",
+                 "Browse.md"]
+RETIRED_DIRS = ["Chains", "Chains (working)"]
+
+# The groups on the Threads Index page, in the order they are shown, each with
 # the minted threads it holds (by slug). A minted thread not listed here is
 # shown under "Other chains" at the end, so a new thread is never left out.
 CHAIN_GROUPS = [
@@ -334,7 +353,7 @@ CHAIN_GROUPS = [
 # written by generate_browse.py, so run that first if the browse page is
 # stale.
 CONTENT_PAGES = {
-    "browse.md": "Browse.md",
+    "browse.md": f"{FIND_DIR}/Browse.md",
 }
 
 # Files copied verbatim to the vault root: {source path in the repo: vault
@@ -978,7 +997,7 @@ def linkify_chain_slugs(text):
         if not hub:
             return m.group(0)
         name, disp = hub
-        return f"[[Chains/{name}|{disp}]]"
+        return f"[[{THREADS_DIR}/{name}|{disp}]]"
     return SLUG_SPAN_RE.sub(repl, text)
 
 
@@ -1320,7 +1339,7 @@ def main():
 
     def chain_link(cs):
         name, _disp = chain_notes.get(cs, (cs, cs))
-        return f"[[Chains/{name}]]"
+        return f"[[{THREADS_DIR}/{name}]]"
 
     # Every minted thread that gets a hub (it has at least one member or note
     # in the log), so slugs mentioned in log prose can link to it. Holding-pen
@@ -1370,17 +1389,19 @@ def main():
     # Rebuild ONLY the generated folders. Everything else in the vault -
     # your Obsidian config in .obsidian/, and anything you write in Notes/ -
     # is preserved across runs and never touched by this script.
-    GENERATED = ["Messages", "Chains", "Chains (working)", "Subjects",
-                 "Spirits", "Collections", "Mediums", "Gatherings",
+    GENERATED = ["Messages", THREADS_DIR, THREADS_WORK_DIR, FIND_DIR,
+                 "Subjects", "Spirits", "Collections", "Mediums", "Gatherings",
                  "Essential Teachings"]
     GENERATED += [v for k, v in CONTENT_MIRROR.items()
                   if (CONTENT_DIR / k).is_dir()]
-    GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md",
-                       "Chains Index.md", "Essential Teachings Index.md",
-                       "Spirits Index.md", "Mediums Index.md",
-                       "Gatherings Index.md", "Prayers.md"]
+    GENERATED_FILES = ["Ask the Archive.md", "Home.md"]
     GENERATED_FILES += sorted(set(CONTENT_PAGES.values()))
     VAULT.mkdir(exist_ok=True)
+    for d in RETIRED_DIRS:
+        if (VAULT / d).exists():
+            shutil.rmtree(VAULT / d)
+    for f in RETIRED_FILES:
+        (VAULT / f).unlink(missing_ok=True)
     for d in GENERATED:
         p = VAULT / d
         if p.exists():
@@ -1389,6 +1410,8 @@ def main():
     GENERATED_FILES += list(VAULT_ROOT_FILES.values())
     # Names this script builds itself, which a curator's page may not take.
     reserved_pages = {name.lower() for name in GENERATED_FILES}
+    reserved_pages |= {name.lower() for name in RETIRED_FILES}
+    reserved_pages |= {"threads index.md"}
     manifest = VAULT / PAGES_MANIFEST
     if manifest.is_file():
         GENERATED_FILES += [name for name in
@@ -1414,7 +1437,7 @@ def main():
         hub_targets[sp.lower()] = f"Spirits/{nname}"
         hub_targets[f"spirits/{sp}".lower()] = f"Spirits/{nname}"
     for cs, (nname, _disp) in chain_notes.items():
-        hub_targets[cs.lower()] = f"Chains/{nname}"
+        hub_targets[cs.lower()] = f"{THREADS_DIR}/{nname}"
     for cname in collection_defs:
         hub_targets[slug(cname)] = f"Collections/{filename(cname)}"
         hub_targets[f"collections/{slug(cname)}"] = f"Collections/{filename(cname)}"
@@ -1479,6 +1502,45 @@ def main():
             return f"Essential Teachings/{filename(v)}" if v in et_defs else None
         return None
 
+    def add_prayer_byline(text, source_text):
+        """
+        Under a prayer page's title, the same byline a message page has:
+        Spirit, Medium, Gathering (from the source message, when it has one)
+        and Date. Pages that are not prayers are returned unchanged.
+        """
+        # Fields are read from the source file: in the carried text they have
+        # already been rewritten as wikilinks.
+        src = source_text.split("\n")
+        lines = text.split("\n")
+        if not src or src[0].strip() != "---" or not lines or lines[0].strip() != "---":
+            return text
+        try:
+            send = next(i for i in range(1, len(src)) if src[i].strip() == "---")
+            pfm = yaml.safe_load("\n".join(src[1:send])) or {}
+            end = next(i for i in range(1, len(lines)) if lines[i].strip() == "---")
+        except (StopIteration, yaml.YAMLError):
+            return text
+        if not isinstance(pfm, dict) or pfm.get("type") != "prayer":
+            return text
+        head = next((i for i in range(end + 1, len(lines))
+                     if lines[i].startswith("# ")), None)
+        if head is None:
+            return text
+        sp = pfm.get("spirit_id", "")
+        sname, sdisp = spirit_notes.get(sp, (sp, pfm.get("spirit_name", sp)))
+        parts = [f"**Spirit:** [[Spirits/{sname}|{sdisp}]]"]
+        med = pfm.get("medium")
+        if med:
+            parts.append(f"**Medium:** [[Mediums/{filename(med)}|{med}]]")
+        src_fm = messages.get(str(pfm.get("source_message", "")), ({}, ""))[0]
+        if src_fm.get("gathering"):
+            g = src_fm["gathering"]
+            parts.append(f"**Gathering:** [[Gatherings/{filename(g)}|{g}]]")
+        if pfm.get("date_received"):
+            parts.append(f"**Date:** {pfm['date_received']}")
+        return "\n".join(lines[:head + 1] + ["", " · ".join(parts)]
+                         + lines[head + 1:])
+
     def carry(src_file, dest):
         """Copy one file, rewriting body links and front-matter values."""
         nonlocal links_fixed
@@ -1489,6 +1551,7 @@ def main():
                                             row_targets)
             body, m = rewrite_carried_front_matter(body, resolve_fm)
             body = add_title_heading(body)
+            body = add_prayer_byline(body, src_file.read_text(encoding="utf-8"))
             dest.write_text(body, encoding="utf-8")
             links_fixed += n + m
         else:
@@ -1618,7 +1681,7 @@ def main():
             props += [f"  - {q('[[Essential Teachings/' + filename(e) + '|' + e + ']]')}" for e in ets]
         mem_props = memberships.get(mid, [])
         if mem_props:
-            props.append("chains:")
+            props.append("threads:")
             props += [f"  - {q(chain_link(cs))}" for cs, *_ in mem_props]
         mentions = fm.get("spirits") or []
         if mentions:
@@ -1661,7 +1724,7 @@ def main():
             lines += [f"- {wiki(r, titles, notenames)}" for r in rel] + [""]
         mem = memberships.get(mid, [])
         if mem:
-            lines += ["## Chains", ""]
+            lines += ["## Threads", ""]
             for chain_slug, role, anchor, _ev, _ln in mem:
                 mark = " **(anchor)**" if anchor else ""
                 lines += [f"- {chain_link(chain_slug)} - {role}{mark}"]
@@ -1744,10 +1807,10 @@ def main():
         # everything, including the curatorial asides. Exclude the
         # "Chains (working)" folder in Obsidian Publish.
         lines = ["---", f"aliases: [{chain_slug}]", "---", "",
-                 f"# Chain: {cdisp}", ""]
+                 f"# Thread: {cdisp}", ""]
         work = ["---", f"aliases: [{chain_slug} working]", "---", "",
-                f"# Chain (working): {cdisp}", "",
-                (f"Curatorial view of [[Chains/{cname}|{cdisp}]]. " if minted
+                f"# Thread (working): {cdisp}", "",
+                (f"Curatorial view of [[{THREADS_DIR}/{cname}|{cdisp}]]. " if minted
                  else "Curatorial view of a holding-pen candidate, which has "
                       "no public page until it is minted. ")
                 + "Not published. Under each record, *In context* opens the "
@@ -1819,24 +1882,47 @@ def main():
             work += [""]
 
         if minted:
-            (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
-        (VAULT / "Chains (working)" / f"{cname}.md").write_text("\n".join(work), encoding="utf-8")
+            (VAULT / THREADS_DIR / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
+        (VAULT / THREADS_WORK_DIR / f"{cname}.md").write_text("\n".join(work), encoding="utf-8")
 
     # Chains Index: the minted threads, grouped by CHAIN_GROUPS, each with the
     # argument it traces, so a reader can choose a chain and click through.
     # Holding-pen candidates are left off until they are minted.
-    idx_lines = ["# Chains Index", "",
-                 "Each chain follows one teaching through the archive, from "
-                 "message to message and spirit to spirit, laid out in the "
-                 "order its argument needs. Choose a chain to read its "
-                 "messages. This layer is still being built.", ""]
+    idx_lines = ["# Threads Index", "",
+                 "The messages in this archive teach things that are not widely "
+                 "known, and many of them differ from what the world's "
+                 "religions have long taught. There are two kinds of love, and "
+                 "two paths a soul can walk, and only the Divine Love brings "
+                 "the soul into at-onement with God. The soul, not the mind, is "
+                 "where God's Love and Truth are received. Hell is not forever, "
+                 "and no soul is ever beyond God's reach. Each of us carries "
+                 "into the next life everything we have thought and done, and "
+                 "the capacity to love decides where we begin there.", "",
+                 "The angels who give these messages do not say such things "
+                 "once and move on. They come back to them again and again, "
+                 "over many years and through many different voices. They lay "
+                 "a teaching down, explain it step by step, answer the doubts "
+                 "it raises, show it from a new angle, and tell from their own "
+                 "lives what it was like to live it. Taken together, the "
+                 "messages make the case for each teaching in the angels' own "
+                 "words.", "",
+                 "A thread follows one of these teachings through the archive. "
+                 "It gathers the messages that carry it and sets them in the "
+                 "order the argument needs, so you can read the teaching as it "
+                 "was explained, from its first statement to its fullest. "
+                 "Every link leads to a whole message, so that each teaching is "
+                 "read in full, in the words it was given.", "",
+                 "The threads are grouped by theme below, each with the "
+                 "argument it traces. Choose one to begin. This part of the "
+                 "archive is still being built, and new threads are added as "
+                 "more messages are read.", ""]
     pages = {r[0]: (r[1], r[2]) for r in health_rows}
     placed = set()
 
     def index_entry(cslug):
         cname, cdisp = pages.get(cslug) or chain_notes.get(cslug, (cslug, cslug))
         _theme, argument = registry.get(cslug, ("", ""))
-        entry = f"- **[[Chains/{cname}|{cdisp}]]**"
+        entry = f"- **[[{THREADS_DIR}/{cname}|{cdisp}]]**"
         if argument:
             entry += f": {argument}"
         return entry
@@ -1850,9 +1936,9 @@ def main():
         placed.update(members)
     others = sorted(s for s in registry if s not in placed)
     if others:
-        idx_lines += ["## Other chains", ""]
+        idx_lines += ["## Other threads", ""]
         idx_lines += [index_entry(s) for s in others] + [""]
-    (VAULT / "Chains Index.md").write_text("\n".join(idx_lines), encoding="utf-8")
+    (VAULT / FIND_DIR / "Threads Index.md").write_text("\n".join(idx_lines), encoding="utf-8")
 
     # Category hubs - each opens with its definition / biography, then messages
     def write_hub(folder, name, items, heading, intro=None):
@@ -1957,7 +2043,7 @@ def main():
             sn = sub["name"]
             idx.append(f"    - {'[[Subjects/' + filename(sn) + '|' + sn + ']]' if sn in by_subject else sn + ' *(no messages yet)*'}")
     idx.append("")
-    (VAULT / "Subjects Index.md").write_text("\n".join(idx), encoding="utf-8")
+    (VAULT / FIND_DIR / "Subjects Index.md").write_text("\n".join(idx), encoding="utf-8")
 
     # Spirits, Mediums and Gatherings indexes: one alphabetical list each, so
     # a reader can find a page without first meeting a link to it.
@@ -1978,21 +2064,23 @@ def main():
              "that spirit's life, in their own words, and lists their "
              "messages.", ""]
     lines += [e for _k, e in sorted(entries)] + [""]
-    (VAULT / "Spirits Index.md").write_text("\n".join(lines), encoding="utf-8")
+    (VAULT / FIND_DIR / "Spirits Index.md").write_text("\n".join(lines), encoding="utf-8")
 
     lines = ["# Mediums Index", "",
              "The mediums who have received the messages in the archive.", ""]
     lines += [f"- [[Mediums/{filename(m)}|{m}]] ({count_note(len(items))})"
               for m, items in sorted(by_medium.items(), key=lambda x: x[0].lower())]
-    (VAULT / "Mediums Index.md").write_text("\n".join(lines + [""]), encoding="utf-8")
+    (VAULT / FIND_DIR / "Mediums Index.md").write_text("\n".join(lines + [""]), encoding="utf-8")
 
     lines = ["# Gatherings Index", "",
              "Messages received at the same gathering, whether a retreat, a "
              "prayer circle that has met for years, or a sitting of the "
-             "Direct Voice circle.", ""]
+             + (f"[[Gatherings/{filename('Direct Voice')}|Direct Voice]]"
+                if "Direct Voice" in by_gathering else "Direct Voice")
+             + " circle.", ""]
     lines += [f"- [[Gatherings/{filename(g)}|{g}]] ({count_note(len(items))})"
               for g, items in sorted(by_gathering.items(), key=lambda x: x[0].lower())]
-    (VAULT / "Gatherings Index.md").write_text("\n".join(lines + [""]), encoding="utf-8")
+    (VAULT / FIND_DIR / "Gatherings Index.md").write_text("\n".join(lines + [""]), encoding="utf-8")
 
     # Prayers: every spirit-given prayer in content/practices, by date, each
     # linked to its own page, which links on to the message it came from.
@@ -2014,7 +2102,7 @@ def main():
              "Prayers the spirits have given in the messages, each on its own "
              "page with a link to the message it came from.", ""]
     lines += [e for _d, e in sorted(prayers)] + [""]
-    (VAULT / "Prayers.md").write_text("\n".join(lines), encoding="utf-8")
+    (VAULT / FIND_DIR / "Prayers.md").write_text("\n".join(lines), encoding="utf-8")
 
     # Essential Teachings index: the entry point the Home page points a new
     # reader to, so it opens with the definition of each teaching rather than
@@ -2031,7 +2119,7 @@ def main():
         if et_defs.get(e):
             et_idx.append(et_defs[e])
         et_idx += [f"*{len(items)} messages.*" if items else "*No messages yet.*", ""]
-    (VAULT / "Essential Teachings Index.md").write_text(
+    (VAULT / FIND_DIR / "Essential Teachings Index.md").write_text(
         "\n".join(et_idx), encoding="utf-8")
 
     # Home
@@ -2128,7 +2216,7 @@ def main():
     if written != len(messages):
         print(f"WARNING: {len(messages)} messages loaded but {written} notes written "
               f"- a filename collision may have overwritten a note.")
-    print(f"Quotes in context (Chains (working) only): {ctx_located} quoted "
+    print(f"Quotes in context (Threads (working) only): {ctx_located} quoted "
           f"passage(s) shown in their paragraphs, {ctx_missing} not located.")
     print(f"Vault built: {len(messages)} messages, {len(chain_members)} chain hubs, "
           f"{len(by_subject)} subject hubs, {total_q} questions indexed.")

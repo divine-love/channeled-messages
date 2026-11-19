@@ -42,13 +42,13 @@ plainly that they carry the whole of it. They are listed on the
 **Prayers** holds the prayers the spirits have given, each on its own page with
 a link to the message it came from. They are listed on the [[Prayers]] page.
 
-**Chains** is the newest layer, and is still being built. A chain follows a
+**Threads** is the newest layer, and is still being built. A thread follows a
 single teaching through the archive, from message to message and spirit to
 spirit, showing how it is laid down, deepened, questioned, seen anew, and at
 last brought to rest. Many of these teachings depart from what religious and
-spiritual traditions have long held, and the chains allow the messages to make
+spiritual traditions have long held, and the threads allow the messages to make
 their case in their own words, often across many years and through many
-different voices. Begin at the [[Chains Index]], where the chains are grouped
+different voices. Begin at the [[Threads Index]], where the threads are grouped
 by theme.
 
 ## Who speaks here
