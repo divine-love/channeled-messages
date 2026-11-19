@@ -281,6 +281,17 @@ CONTENT_MIRROR = {
     "talks": "Talks",
 }
 
+# A short description shown at the top of a gathering's page, keyed by the
+# gathering name exactly as it is written in the message files. A gathering
+# with no entry here still gets its page, with just its list of messages.
+GATHERING_DESCRIPTIONS = {
+    "Direct Voice": (
+        "Messages received while the Direct Voice circle sits together, "
+        "praying for the physical manifestation of celestial spirits in the "
+        "world."
+    ),
+}
+
 # Standalone pages copied to the top level of the vault, rather than into a
 # folder: {source path under content/: vault filename}. content/browse.md is
 # written by generate_browse.py, so run that first if the browse page is
@@ -1297,7 +1308,8 @@ def main():
     # your Obsidian config in .obsidian/, and anything you write in Notes/ -
     # is preserved across runs and never touched by this script.
     GENERATED = ["Messages", "Chains", "Chains (working)", "Subjects",
-                 "Spirits", "Collections", "Mediums", "Essential Teachings"]
+                 "Spirits", "Collections", "Mediums", "Gatherings",
+                 "Essential Teachings"]
     GENERATED += [v for k, v in CONTENT_MIRROR.items()
                   if (CONTENT_DIR / k).is_dir()]
     GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md",
@@ -1474,6 +1486,7 @@ def main():
     by_mention = defaultdict(list)    # spirit_id -> messages that mention them
     by_collection = defaultdict(list)
     by_medium = defaultdict(list)
+    by_gathering = defaultdict(list)
     by_et = defaultdict(list)
     questions_by_category = defaultdict(list)
     chain_members = defaultdict(list)     # slug -> [(role, anchor, msg_id, date, evidence, log_line)]
@@ -1496,6 +1509,12 @@ def main():
         def q(v):
             return '"' + str(v).replace('"', "'") + '"'
 
+        def medium_link(name):
+            return f"[[Mediums/{filename(name)}|{name}]]" if name else ""
+
+        def gathering_link(name):
+            return f"[[Gatherings/{filename(name)}|{name}]]"
+
         def subj_link(name):
             return q(f"[[Subjects/{filename(name)}|{name}]]")
 
@@ -1511,7 +1530,7 @@ def main():
                  f"medium: {q('[[Mediums/' + filename(fm.get('medium','')) + '|' + fm.get('medium','') + ']]')}",
                  f"location: {q(loc_str)}"]
         if fm.get("gathering"):
-            props.append(f"gathering: {q(fm['gathering'])}")
+            props.append(f"gathering: {q(gathering_link(fm['gathering']))}")
         mt = (fm.get("message_type") or [""])[0]
         props.append(f"message_type: {q(mt)}")
         if fm.get("primary_subjects"):
@@ -1543,10 +1562,10 @@ def main():
         if fm.get("canonical_url"):
             props.append(f"canonical_url: {q(fm['canonical_url'])}")
         byline = (f"**Spirit:** {spirit_link(fm.get('spirit_id',''), spirit)} · "
-                  f"**Medium:** {fm.get('medium','')} · **Date:** {date}")
+                  f"**Medium:** {medium_link(fm.get('medium',''))} · **Date:** {date}")
         if fm.get("gathering"):
             # shown in the visible byline, since Publish hides properties
-            byline += f" · **Gathering:** {fm['gathering']}"
+            byline += f" · **Gathering:** {gathering_link(fm['gathering'])}"
         lines = props + ["---",
                  "",
                  f"# {titles[mid]}",
@@ -1604,6 +1623,8 @@ def main():
         for c in fm.get("collections") or []:
             by_collection[c].append((date, mid))
         by_medium[fm.get("medium", "Unknown")].append((date, mid))
+        if fm.get("gathering"):
+            by_gathering[fm["gathering"]].append((date, mid))
         for e in ets:
             by_et[e].append((date, mid))
 
@@ -1826,6 +1847,11 @@ def main():
             intro += ["## From the archive's notes", "",
                       linkify_ids(prof["notes"], notenames), ""]
         write_hub("Mediums", mname, items, f"Medium: {mname}", intro)
+
+    for g, items in by_gathering.items():
+        intro = ([f"> {GATHERING_DESCRIPTIONS[g]}", ""]
+                 if GATHERING_DESCRIPTIONS.get(g) else [])
+        write_hub("Gatherings", g, items, f"Gathering: {g}", intro)
 
     for e, items in by_et.items():
         intro = [f"> {et_defs[e]}", ""] if et_defs.get(e) else []

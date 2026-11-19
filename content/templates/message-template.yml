@@ -26,7 +26,7 @@ location:                              # REQUIRED object; city is required, regi
   region:                              # OPTIONAL. e.g., "BC" (leave blank if none)
   country:                             # OPTIONAL. e.g., "Canada" (leave blank if none)
 
-gathering:                             # OPTIONAL. Name of retreat or event. Leave blank for regular prayer circles. e.g., "August 2015 Gibsons Retreat"
+gathering:                             # OPTIONAL. Name of retreat, event or named prayer circle, exactly as given. Leave blank for an unnamed home circle. e.g., "August 2015 Gibsons Retreat"
 
 message_type: ["Guidance"]             # REQUIRED. Exactly one of: Blessing, Guidance, Teaching.
 

@@ -17,6 +17,10 @@ silent, the page keeps that silence too.
 **Mediums** does the same for the Divine Love mediums who have received the messages, beginning
 with @medium[Al Fike].
 
+**Gatherings** brings together the messages received at the same gathering,
+whether a retreat, a prayer circle that has met for years, or a sitting of the
+[[Gatherings/Direct Voice|Direct Voice]] circle.
+
 **Subjects** allows a single theme to be traced across the years and through
 many voices. There are {subjects} of them, arranged in categories; begin at
 [[Subjects Index]].

@@ -139,7 +139,7 @@ These write files. Never edit what they write.
 | `generate_llms.py` | `llms.txt` | On GitHub at every push |
 | `generate_collections.py` | The pages in `content/collections/` | On GitHub at every push |
 | `generate_essential_teachings.py` | The pages in `content/essential-teachings/` | On GitHub at every push |
-| `generate_vault.py` | The whole `obsidian-vault/` folder: a page for every message, spirit, subject, collection and chain, plus the home page and indexes | By you, before publishing the website |
+| `generate_vault.py` | The whole `obsidian-vault/` folder: a page for every message, spirit, medium, gathering, subject, collection and chain, plus the home page and indexes | By you, before publishing the website |
 | `generate_spirits_digest.py` | `spirits-digest.txt` | By you, when an AI assistant needs all the spirit files at once |
 
 ### A helper
@@ -250,6 +250,8 @@ Section 4 of `schema/schema.md` explains every field. `content/templates/message
 ## 10. Other jobs
 
 **Add a spirit or a medium.** Copy the template from `content/templates/` into `spirits/` or `mediums/`, name the file for the id (`john-the-beloved.yml`), and fill it in. First make sure the spirit does not already have a file under another spelling.
+
+**Name or describe a gathering.** Each gathering named in the messages gets its own page in the vault's Gatherings folder: a retreat, an event, a named prayer circle that meets regularly, or the Direct Voice circle. Use the gathering's own name, exactly as it is given. Do not add words such as "Retreat" to a name that does not use them, and spell it the same way in every message, since each spelling makes its own page. To put a short description at the top of a gathering's page, add it to `GATHERING_DESCRIPTIONS` near the top of `.github/scripts/generate_vault.py`, then rebuild the vault.
 
 **Add a subject.** Add it to `metadata/subjects.yml` with a definition. Do this rarely: a new subject is only worth having if several messages need it and no existing subject fits.
 

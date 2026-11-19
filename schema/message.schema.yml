@@ -85,14 +85,16 @@ properties:
     description: >
       Optional name of the retreat, gathering, or event at which the message was received.
       Use a consistent name for all messages from the same event so they can be grouped.
-      Leave blank for regular prayer circles. Standing settings keep one name:
+      Leave blank for an unnamed home circle. A named prayer circle that meets
+      regularly, such as an online Circle of Light, uses its own name. Use the
+      name exactly as it is given. Standing settings keep one name:
       "DLSF Board Meeting", and "Direct Voice" for messages received while the
       Direct Voice circle sits. Examples: "August 2015 Gibsons Retreat",
       "2019 Harrow Retreat", "Happy Days Farm Retreat November 2025".
 
   message_type:
     type: array
-    description: Exactly one label describing the message — Blessing, Guidance, or Teaching.
+    description: Exactly one label describing the message (Blessing, Guidance, or Teaching).
     items:
       type: string
       enum: ["Blessing", "Guidance", "Teaching"]
@@ -257,7 +259,7 @@ properties:
     description: >
       A short, punchy pull quote or highlight for use in social sharing cards,
       homepage teasers, and search result snippets. May be a direct quote from
-      the message text or a curator-written highlight — curator's choice.
+      the message text or a curator-written highlight; the curator's choice.
       Should be more evocative and compelling than the description field.
       Aim for 1–2 sentences, under 200 characters; 300 is the hard ceiling
       (enforced). Note the block scalar's trailing newline counts toward

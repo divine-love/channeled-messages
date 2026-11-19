@@ -61,7 +61,8 @@ properties:
     description: >
       Optional name of the retreat, gathering, or event at which the talk was delivered.
       Use a consistent name for all content from the same event.
-      Leave blank for regular prayer circles.
+      Leave blank for an unnamed home circle. A named prayer circle that meets
+      regularly, such as an online Circle of Light, uses its own name.
 
   talk_type:
     type: string
