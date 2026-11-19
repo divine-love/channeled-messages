@@ -54,8 +54,11 @@ What it builds:
       highlighted. The published hubs link to whole messages only, never to
       a passage (the unit of linking is the whole message), and nothing is
       added to the message notes for this.
-  Chains Index.md                   all threads in two tables, those with
-      structural gaps first, so an incomplete chain is visible in one scan
+  Chains Index.md                   the minted threads in the groups set by
+      CHAIN_GROUPS, each with the argument it traces; holding-pen
+      candidates are left off until they are minted
+  Gatherings/<Name>.md              one page per gathering, listing its
+      messages by date, with a description from GATHERING_DESCRIPTIONS
   Subjects/<Name>.md, Spirits/<Display Name>.md, Collections/<Name>.md
       category hub pages, FILENAMED BY DISPLAY NAME so the explorer,
       graph, and quick switcher read in human language (no plugin needed
@@ -292,6 +295,36 @@ GATHERING_DESCRIPTIONS = {
     ),
 }
 
+# The groups on the Chains Index page, in the order they are shown, each with
+# the minted threads it holds (by slug). A minted thread not listed here is
+# shown under "Other chains" at the end, so a new thread is never left out.
+CHAIN_GROUPS = [
+    ("The Divine Love and the two paths", [
+        "two-paths", "divine-love-without-knowing", "pentecost",
+        "redemption-universal", "the-fall", "short-life-long-road",
+        "reincarnation-progression", "death-transition"]),
+    ("Prayer", [
+        "prayer-soul-longing", "prayer-changes-world-conditions",
+        "earth-conditions-and-prayer"]),
+    ("The soul's transformation", [
+        "soul-expiation", "mind-vs-soul", "soul-faculties",
+        "knowing-your-own-soul", "self-love-foundation", "judgment-to-love",
+        "incremental-journey", "challenges-as-blessings",
+        "fear-of-full-immersion", "sensitive-souls-redemptive",
+        "armour-of-the-world", "simplicity-of-the-path"]),
+    ("Free will and God's plan", [
+        "free-will-and-self-responsibility", "free-will-and-gods-plan",
+        "guidance-as-seed", "provision-for-service", "soul-purpose-emergence"]),
+    ("Serving in the world", [
+        "bell-toll-instrumentality", "healing-channel", "divine-love-healing",
+        "speaking-the-truth", "vanguards-of-change", "preparation-to-be-a-rock",
+        "divine-love-mediumship", "opposition-to-the-light-worker",
+        "spiritual-fellowship", "portals"]),
+    ("Truth, tradition and the world's future", [
+        "who-jesus-was", "religious-error", "conduit-not-scripture",
+        "conditions-of-a-people", "earth-changes"]),
+]
+
 # Standalone pages copied to the top level of the vault, rather than into a
 # folder: {source path under content/: vault filename}. content/browse.md is
 # written by generate_browse.py, so run that first if the browse page is
@@ -457,6 +490,22 @@ def parse_chain_registry():
             if len(cells) >= 3:
                 reg[cells[0].strip("`")] = (cells[1], cells[2])
     return reg
+
+
+def parse_holding_pen_slugs():
+    """From chains-threads.md: the slugs of the holding-pen candidates."""
+    slugs = set()
+    if not CHAINS_THREADS.exists():
+        return slugs
+    in_pen = False
+    for line in CHAINS_THREADS.read_text(encoding="utf-8").splitlines():
+        if line.startswith("# "):
+            in_pen = line.startswith("# Holding pen")
+            continue
+        m = re.match(r"- `([a-z0-9-]+)`", line)
+        if in_pen and m:
+            slugs.add(m.group(1))
+    return slugs
 
 
 def _clean_evidence(text):
@@ -1205,6 +1254,13 @@ def main():
     et_defs = load_definitions_from_generator(GEN_ET)
     registry = parse_chain_registry()
     memberships, chain_notes_log = parse_chain_memberships()
+    # A NOTE belongs to a chain only if its slug is a minted thread or a
+    # holding-pen candidate. Anything else in backticks (a file name, say)
+    # would otherwise become a chain page of its own.
+    known_slugs = set(registry) | parse_holding_pen_slugs()
+    for _mid, _nts in chain_notes_log.items():
+        _nts[:] = [(cs if cs in known_slugs or cs == "(general)" else "(general)",
+                    t, e, ln) for cs, t, e, ln in _nts]
 
     # Pass 1: load all messages
     messages = {}
@@ -1562,10 +1618,11 @@ def main():
         if fm.get("canonical_url"):
             props.append(f"canonical_url: {q(fm['canonical_url'])}")
         byline = (f"**Spirit:** {spirit_link(fm.get('spirit_id',''), spirit)} · "
-                  f"**Medium:** {medium_link(fm.get('medium',''))} · **Date:** {date}")
+                  f"**Medium:** {medium_link(fm.get('medium',''))}")
         if fm.get("gathering"):
             # shown in the visible byline, since Publish hides properties
             byline += f" · **Gathering:** {gathering_link(fm['gathering'])}"
+        byline += f" · **Date:** {date}"
         lines = props + ["---",
                  "",
                  f"# {titles[mid]}",
@@ -1753,31 +1810,36 @@ def main():
         (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
         (VAULT / "Chains (working)" / f"{cname}.md").write_text("\n".join(work), encoding="utf-8")
 
-    # Chains Index: every thread with its structural health, so gaps are
-    # visible in one scan instead of one hub at a time.
+    # Chains Index: the minted threads, grouped by CHAIN_GROUPS, each with the
+    # argument it traces, so a reader can choose a chain and click through.
+    # Holding-pen candidates are left off until they are minted.
     idx_lines = ["# Chains Index", "",
-                 f"**{len(health_rows)}** threads traced so far. Each follows a "
-                 "single idea across the archive, in the order the messages "
-                 "were given. This layer is a work in progress: threads still "
-                 "being gathered are listed first, with what they are waiting "
-                 "for.", ""]
-    needs_work = [r for r in health_rows if r[5]]
-    if needs_work:
-        idx_lines += ["## Still being gathered", "",
-                      "| Thread | Messages | Supporting | Waiting for |",
-                      "|---|---|---|---|"]
-        for cslug, cname, cdisp, nmem, nwit, flags in needs_work:
-            idx_lines.append(
-                f"| [[Chains/{cname}\\|{cdisp}]] | {nmem} | {nwit} | {'; '.join(flags)} |")
-        idx_lines.append("")
-    clean = [r for r in health_rows if not r[5]]
-    if clean:
-        idx_lines += ["## Complete", "",
-                      "| Thread | Messages | Supporting |", "|---|---|---|"]
-        for cslug, cname, cdisp, nmem, nwit, flags in clean:
-            idx_lines.append(
-                f"| [[Chains/{cname}\\|{cdisp}]] | {nmem} | {nwit} |")
-        idx_lines.append("")
+                 "Each chain follows one teaching through the archive, from "
+                 "message to message and spirit to spirit, laid out in the "
+                 "order its argument needs. Choose a chain to read its "
+                 "messages. This layer is still being built.", ""]
+    pages = {r[0]: (r[1], r[2]) for r in health_rows}
+    placed = set()
+
+    def index_entry(cslug):
+        cname, cdisp = pages.get(cslug) or chain_notes.get(cslug, (cslug, cslug))
+        _theme, argument = registry.get(cslug, ("", ""))
+        entry = f"- **[[Chains/{cname}|{cdisp}]]**"
+        if argument:
+            entry += f": {argument}"
+        return entry
+
+    for group, slugs in CHAIN_GROUPS:
+        members = [s for s in slugs if s in registry]
+        if not members:
+            continue
+        idx_lines += [f"## {group}", ""]
+        idx_lines += [index_entry(s) for s in members] + [""]
+        placed.update(members)
+    others = sorted(s for s in registry if s not in placed)
+    if others:
+        idx_lines += ["## Other chains", ""]
+        idx_lines += [index_entry(s) for s in others] + [""]
     (VAULT / "Chains Index.md").write_text("\n".join(idx_lines), encoding="utf-8")
 
     # Category hubs - each opens with its definition / biography, then messages

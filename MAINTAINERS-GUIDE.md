@@ -307,6 +307,8 @@ It exists so that a reader can follow a teaching as a whole instead of meeting i
 - Anything in quotation marks is the message's own words, copied exactly.
 - No counts, no "the first" or "the fullest". Messages are still being added, so any such claim goes out of date.
 - A new thread gets its line in the list and its own file in the same commit.
+- A new thread also needs a place on the website's Chains Index: add its name to one of the groups in `CHAIN_GROUPS`, near the top of `.github/scripts/generate_vault.py`. Until then it is shown under "Other chains" at the end of the index. Ideas still in the holding pen are not shown on the index.
+- In a log note, write a file name as a path in parentheses, never in backticks. Anything in backticks is read as a thread name.
 
 ---
 
