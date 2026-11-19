@@ -38,6 +38,7 @@ questions:
 related_messages:
   - 2016-11-27-af-confucius
   - 2016-12-04-af-confucius
+  - 2017-05-21-af-mary
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -49,7 +50,7 @@ excerpt: >
 door: >
   You were not meant to walk this alone. You need one another.
 collections: []
-last_edited: 2026-10-18
+last_edited: 2026-11-19
 ---
 
 Beloved souls, it is Confucius.

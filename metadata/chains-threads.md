@@ -349,7 +349,8 @@ only stating it.
   them at all times"; 2017-05-19-af-laila, "I will be with you as will many
   who desire to work with you and to help you with your ministry";
   2017-05-21-af-aekarius, "we walk by your side for you are never alone, my
-  beloveds, never";
+  beloveds, never"; 2017-05-21-af-mary, "I will watch over you, my beloveds,
+  as you work and serve God in love";
   2017-05-22-af-andrew, "We in spirit will continue to accompany you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
