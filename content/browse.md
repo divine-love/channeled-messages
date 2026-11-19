@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 ---
 
 # Browse All Messages
@@ -436,6 +436,7 @@ last_updated: 2026-11-18
 | [Your Little Band of Light*](messages/2017/05/2017-05-19-af-laila.md) | [Laila](../spirits/laila.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑19 | Do not count who comes. A few flames banked together can warm many souls. |
 | [Come and Drink of the Living Waters*](messages/2017/05/2017-05-20-af-jesus.md) | [Jesus of Nazareth](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑20 | One simple question for every soul in the world: will you spend a few moments with God? |
 | [What You Desire and What God Desires*](messages/2017/05/2017-05-21-af-aekarius.md) | [Aekarius](../spirits/aekarius.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑21 | The soul being born in you is tender and young. Be as patient with it as you would be with a newborn. |
+| [Soul Longing Is Prayer](messages/2017/05/2017-05-21-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑21 | A million books will not bring you to God. One honest longing will. |
 | [Allow God to Use You as His Channel of Love](messages/2017/05/2017-05-22-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑05‑22 | When your days are over and you look back, you will see that every step led to the next, and your life was an expression of Light. |
 | [Lesson on Judgement](messages/2017/06/2017-06-15-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑06‑15 | With Love, I cannot judge. With joy, I cannot judge. With acceptance, I cannot judge |
 | [Only the Soul Can Know God's Love](messages/2017/08/2017-08-21-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑08‑21 | A thousand words and a million books will never bring this Truth as it is experienced by that deep Touch from God |
