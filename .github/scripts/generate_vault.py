@@ -59,6 +59,10 @@ What it builds:
       candidates are left off until they are minted
   Gatherings/<Name>.md              one page per gathering, listing its
       messages by date, with a description from GATHERING_DESCRIPTIONS
+  Spirits Index.md, Mediums Index.md, Gatherings Index.md
+      one alphabetical list each, linking every spirit, medium and gathering
+  Prayers.md                        every spirit-given prayer in
+      content/practices, by date, linked to its own page
   Subjects/<Name>.md, Spirits/<Display Name>.md, Collections/<Name>.md
       category hub pages, FILENAMED BY DISPLAY NAME so the explorer,
       graph, and quick switcher read in human language (no plugin needed
@@ -1318,11 +1322,14 @@ def main():
         name, _disp = chain_notes.get(cs, (cs, cs))
         return f"[[Chains/{name}]]"
 
-    # Every thread that gets a hub (it has at least one member or note in the
-    # log), so slugs mentioned in log prose can link to it.
+    # Every minted thread that gets a hub (it has at least one member or note
+    # in the log), so slugs mentioned in log prose can link to it. Holding-pen
+    # candidates have no public page until they are minted, so they are not
+    # linked; their slugs stay as written.
     hub_slugs = {cs for _mems in memberships.values() for cs, *_ in _mems}
     hub_slugs |= {cs for _nts in chain_notes_log.values() for cs, *_ in _nts
                   if cs != "(general)"}
+    hub_slugs &= set(registry)
     CHAIN_LINKS.clear()
     CHAIN_LINKS.update({cs: chain_notes[cs] for cs in hub_slugs
                         if cs in chain_notes})
@@ -1369,7 +1376,9 @@ def main():
     GENERATED += [v for k, v in CONTENT_MIRROR.items()
                   if (CONTENT_DIR / k).is_dir()]
     GENERATED_FILES = ["Ask the Archive.md", "Subjects Index.md", "Home.md",
-                       "Chains Index.md", "Essential Teachings Index.md"]
+                       "Chains Index.md", "Essential Teachings Index.md",
+                       "Spirits Index.md", "Mediums Index.md",
+                       "Gatherings Index.md", "Prayers.md"]
     GENERATED_FILES += sorted(set(CONTENT_PAGES.values()))
     VAULT.mkdir(exist_ok=True)
     for d in GENERATED:
@@ -1738,8 +1747,10 @@ def main():
                  f"# Chain: {cdisp}", ""]
         work = ["---", f"aliases: [{chain_slug} working]", "---", "",
                 f"# Chain (working): {cdisp}", "",
-                f"Curatorial view of [[Chains/{cname}|{cdisp}]]. "
-                "Not published. Under each record, *In context* opens the "
+                (f"Curatorial view of [[Chains/{cname}|{cdisp}]]. " if minted
+                 else "Curatorial view of a holding-pen candidate, which has "
+                      "no public page until it is minted. ")
+                + "Not published. Under each record, *In context* opens the "
                 "paragraph its quoted words come from.", ""]
         if theme:
             # Italic: the theme is the thread's one-line claim, and setting it
@@ -1807,7 +1818,8 @@ def main():
             lines += [""]
             work += [""]
 
-        (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
+        if minted:
+            (VAULT / "Chains" / f"{cname}.md").write_text("\n".join(lines), encoding="utf-8")
         (VAULT / "Chains (working)" / f"{cname}.md").write_text("\n".join(work), encoding="utf-8")
 
     # Chains Index: the minted threads, grouped by CHAIN_GROUPS, each with the
@@ -1946,6 +1958,63 @@ def main():
             idx.append(f"    - {'[[Subjects/' + filename(sn) + '|' + sn + ']]' if sn in by_subject else sn + ' *(no messages yet)*'}")
     idx.append("")
     (VAULT / "Subjects Index.md").write_text("\n".join(idx), encoding="utf-8")
+
+    # Spirits, Mediums and Gatherings indexes: one alphabetical list each, so
+    # a reader can find a page without first meeting a link to it.
+    def count_note(n, word="message"):
+        return f"{n} {word}" + ("" if n == 1 else "s")
+
+    entries = []
+    for sp in set(by_spirit) | set(by_mention) | set(spirit_profiles):
+        sname, sdisp = spirit_notes.get(
+            sp, (filename(sp.replace("-", " ").title()),
+                 sp.replace("-", " ").title()))
+        n = len(by_spirit.get(sp, []))
+        note = f" ({count_note(n)})" if n else " (mentioned only)"
+        entries.append((sdisp.lower(), f"- [[Spirits/{sname}|{sdisp}]]{note}"))
+    lines = ["# Spirits Index", "",
+             "Every spirit who has spoken in the archive, and those the "
+             "messages speak of. Each page gathers what the messages say of "
+             "that spirit's life, in their own words, and lists their "
+             "messages.", ""]
+    lines += [e for _k, e in sorted(entries)] + [""]
+    (VAULT / "Spirits Index.md").write_text("\n".join(lines), encoding="utf-8")
+
+    lines = ["# Mediums Index", "",
+             "The mediums who have received the messages in the archive.", ""]
+    lines += [f"- [[Mediums/{filename(m)}|{m}]] ({count_note(len(items))})"
+              for m, items in sorted(by_medium.items(), key=lambda x: x[0].lower())]
+    (VAULT / "Mediums Index.md").write_text("\n".join(lines + [""]), encoding="utf-8")
+
+    lines = ["# Gatherings Index", "",
+             "Messages received at the same gathering, whether a retreat, a "
+             "prayer circle that has met for years, or a sitting of the "
+             "Direct Voice circle.", ""]
+    lines += [f"- [[Gatherings/{filename(g)}|{g}]] ({count_note(len(items))})"
+              for g, items in sorted(by_gathering.items(), key=lambda x: x[0].lower())]
+    (VAULT / "Gatherings Index.md").write_text("\n".join(lines + [""]), encoding="utf-8")
+
+    # Prayers: every spirit-given prayer in content/practices, by date, each
+    # linked to its own page, which links on to the message it came from.
+    prayers = []
+    for pf in sorted((CONTENT_DIR / "practices").glob("*.md")):
+        text = pf.read_text(encoding="utf-8")
+        if not text.startswith("---"):
+            continue
+        pfm = yaml.safe_load(text.split("---", 2)[1]) or {}
+        if pfm.get("type") != "prayer":
+            continue
+        sp = pfm.get("spirit_id", "")
+        sname, sdisp = spirit_notes.get(sp, (sp, pfm.get("spirit_name", sp)))
+        prayers.append((str(pfm.get("date_received", "")),
+                        f"- [[Practices/{pf.stem}|{pfm.get('title', pf.stem)}]], "
+                        f"from [[Spirits/{sname}|{sdisp}]], "
+                        f"{pfm.get('date_received', '')}"))
+    lines = ["# Prayers", "",
+             "Prayers the spirits have given in the messages, each on its own "
+             "page with a link to the message it came from.", ""]
+    lines += [e for _d, e in sorted(prayers)] + [""]
+    (VAULT / "Prayers.md").write_text("\n".join(lines), encoding="utf-8")
 
     # Essential Teachings index: the entry point the Home page points a new
     # reader to, so it opens with the definition of each teaching rather than

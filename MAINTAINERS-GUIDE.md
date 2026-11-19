@@ -139,7 +139,7 @@ These write files. Never edit what they write.
 | `generate_llms.py` | `llms.txt` | On GitHub at every push |
 | `generate_collections.py` | The pages in `content/collections/` | On GitHub at every push |
 | `generate_essential_teachings.py` | The pages in `content/essential-teachings/` | On GitHub at every push |
-| `generate_vault.py` | The whole `obsidian-vault/` folder: a page for every message, spirit, medium, gathering, subject, collection and chain, plus the home page and indexes | By you, before publishing the website |
+| `generate_vault.py` | The whole `obsidian-vault/` folder: a page for every message, spirit, medium, gathering, subject, collection and chain, plus the home page and the indexes (subjects, chains, essential teachings, spirits, mediums, gatherings, prayers) | By you, before publishing the website |
 | `generate_spirits_digest.py` | `spirits-digest.txt` | By you, when an AI assistant needs all the spirit files at once |
 
 ### A helper

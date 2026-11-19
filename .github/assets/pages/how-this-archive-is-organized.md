@@ -1,25 +1,29 @@
 # How This Archive Is Organized
 
 There are many ways into the archive. This page describes each of them, and
-the spirits whose voices you will meet inside.
+the spirits whose voices you will meet inside. If you have just arrived,
+[[Begin Here]] offers a few messages to read first.
 
 ## What you will find here
 
 **Messages** are the archive itself, {messages} of them, each carefully
 catalogued with its date, the spirit who gave it, the medium who received it,
-the place where it was given, and the subjects it touches.
+the place where it was given, and the subjects it touches. You can see them
+all in one list on [[Browse|Browse All Messages]].
 
 **Spirits** holds a page for each spirit who has spoken here, gathering what
 is known of their lives in their own words. Everything on those pages is drawn
 from the messages themselves, not from history books, so where the record is
-silent, the page keeps that silence too.
+silent, the page keeps that silence too. They are listed on the
+[[Spirits Index]].
 
 **Mediums** does the same for the Divine Love mediums who have received the messages, beginning
-with @medium[Al Fike].
+with @medium[Al Fike]. All of them are listed on the [[Mediums Index]].
 
 **Gatherings** brings together the messages received at the same gathering,
 whether a retreat, a prayer circle that has met for years, or a sitting of the
-[[Gatherings/Direct Voice|Direct Voice]] circle.
+[[Gatherings/Direct Voice|Direct Voice]] circle. They are listed on the
+[[Gatherings Index]].
 
 **Subjects** allows a single theme to be traced across the years and through
 many voices. There are {subjects} of them, arranged in categories; begin at
@@ -31,13 +35,21 @@ many voices. There are {subjects} of them, arranged in categories; begin at
 @collection[Service & Mission], @collection[Letters from History],
 @collection[Awakening Humanity], and @collection[Prism of the Soul].
 
+**Essential Teachings** gathers the messages that state a central teaching so
+plainly that they carry the whole of it. They are listed on the
+[[Essential Teachings Index]].
+
+**Prayers** holds the prayers the spirits have given, each on its own page with
+a link to the message it came from. They are listed on the [[Prayers]] page.
+
 **Chains** is the newest layer, and is still being built. A chain follows a
 single teaching through the archive, from message to message and spirit to
 spirit, showing how it is laid down, deepened, questioned, seen anew, and at
 last brought to rest. Many of these teachings depart from what religious and
 spiritual traditions have long held, and the chains allow the messages to make
 their case in their own words, often across many years and through many
-different voices.
+different voices. Begin at the [[Chains Index]], where the chains are grouped
+by theme.
 
 ## Who speaks here
 
