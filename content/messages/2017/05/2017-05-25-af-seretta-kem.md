@@ -41,6 +41,8 @@ questions:
   - "Do spirits expect us to be perfect?"
   - "Why does my physical health matter for spiritual gifts?"
 related_messages:
+  - 2017-06-05-af-stephen
+  - 2017-06-06-af-seretta-kem
   - 2018-06-24-af-luke
   - 2018-07-22-af-seretta-kem
 audio_url: ""
@@ -56,7 +58,7 @@ door: >
   Before the spirits can speak through a gift, love has to reign in the one who
   carries it.
 collections: ["Service & Mission", "Awakening Humanity"]
-last_edited: 2026-11-19
+last_edited: 2026-11-20
 ---
 
 My charges have asked for some guidance regarding preparation and being in a condition to sit in harmony for Direct Voice. Essentially you are merely required to enact the guidance that has been given to you over the years many, many times. Keep your thoughts on a higher level, be connected with God, be a channel of Love in the world and to let go of all obstacles in the way of this flow of Love and connection with God. Now obviously these things are very much a degree of understanding and expression and each day presents its unique challenges to each one of you and this is why prayer is so important. It is reaching for God so that God may bless you and cleanse you of many conditions that you may have taken on during your day. When you are showered by Light in your prayers you are uplifted into Light and does it not seem that those earthly cares and worries begin to fade and you can let go?

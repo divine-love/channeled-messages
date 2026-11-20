@@ -47,6 +47,15 @@
   to a place where you are ready," the opening to serve tied to the collapse
   of what mankind has built, "As this fabric created by mankind becomes
   shredded and collapses, the door will open for you to serve";
+  2017-06-06-af-seretta-kem makes all they have lived through the readying,
+  "All of your experiences, all of these teachings, all of our messages, all
+  of God's Blessings, this great unfolding of light in your life are a
+  preparation," gives the rock in so many words, "You must be the rock, my
+  beloveds, the rock of comfort, of truth, of love," and tells them not to
+  picture what is coming, "Do not let your imaginations give you ideas as to
+  what this will be like," since what carries them is "a surety and a faith"
+  already within, the seeker's side of what 2019-01-28-af-augustine says from
+  the spirit side;
   2017-09-13-af-keea-atta-kem makes the readying God's own
   work, "this is God orchestrating your life, preparing you for what is to
   come," and sends the prepared to scientists, leaders and seekers;

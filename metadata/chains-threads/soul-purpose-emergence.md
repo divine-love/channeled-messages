@@ -95,6 +95,10 @@
   pray about this and come to know your purpose."
   2017-03-09-af-aekarius, the purpose brought in at birth, "the young soul
   brings in a sort of identity and a condition, and a purpose."
+  2017-06-06-af-seretta-kem, the choice made "even before you incarnated,"
+  felt now as a calling, "you feel the calling, you feel like you are meant
+  to do something important," and chosen again now, "you have now chosen to
+  utilise your gifts."
   2019-01-30-af-seretta-kem, the
   purpose as a commitment made before birth that the soul still knows, "your
   commitment in this regard was made before you came to Earth... and that your

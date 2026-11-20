@@ -50,6 +50,14 @@
   emissaries of Love will help ease the fears and the confusion that will
   ensue from these changes." Explicit that the Hand is God's and the intended
   end is balance, as the Foundation also has it.
+  Objection removed. 2017-06-06-af-seretta-kem clears the belief that the
+  suffering the changes bring is sent by God, "God is not cruel, my beloveds.
+  God does not bring suffering to others or to you. It is humanity that
+  brings suffering upon itself by not following the Laws of Creation." The
+  changes are the Laws answering what people have done, "reactions and
+  consequences brought about by the Laws of Creation," which gives the law
+  reading that the structural note weighs for 2016-12-21-af-alec-gaunt and
+  2017-01-15-af-peter.
   Witnesses. 2016-12-05-af-augustine, the cause and the remedy together,
   humanity having "stressed many places upon this world to the point of
   breaking" and God having "set in motion a change agent that will bring about

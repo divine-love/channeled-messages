@@ -40,6 +40,7 @@ questions:
   - "Does every good choice make the next one easier?"
 related_messages:
   - 2016-02-29-af-luke
+  - 2017-06-05-af-stephen
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -52,7 +53,7 @@ door: >
   Every choice for Light lays track for the next one. That is why it gets
   easier, and why it never feels like it should.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-07-21
+last_edited: 2026-11-20
 ---
 
 Your teacher Augustine has come to speak to you in your prayers and in your longings to be in the Light.

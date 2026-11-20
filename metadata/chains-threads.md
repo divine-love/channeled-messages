@@ -325,7 +325,8 @@ only stating it.
   2016-10-26-af-augustine, "as you are earnest and pray for this opening of
   Love"; 2016-12-28-af-alec-gaunt, "your angel friends will gather around
   you, supporting you, being with you in a conscious way," as the seeker
-  prays intensely for the Love; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
+  prays intensely for the Love; 2017-06-05-af-stephen, with each prayer for
+  God's Blessing, "angels will surround you"; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
   instrument, "you will always be assured that an angel will be with you and
   often speak to you"; 2019-02-18-af-augustine, "God assigns an angel to each
   soul that is earnest in their efforts to receive this gift of Love." Those
@@ -353,7 +354,9 @@ only stating it.
   as you work and serve God in love"; 2017-05-22-af-andrew, "We in spirit
   will continue to accompany you"; 2017-05-25-af-seretta-kem, "You will
   never be alone, you will continue to be upheld"; 2017-06-04-af-jesus, "I
-  walk with you";
+  walk with you"; 2017-06-05-af-stephen, "I shall continue to attend your
+  Circles of Light, as will many angels"; 2017-06-06-af-seretta-kem, "we are
+  with you and we will continue to support you in many, many ways";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -485,7 +488,9 @@ only stating it.
 - `the-gift-and-the-channel`, the gifts the circle prays for, Direct Voice
   above all, come second to the Truth they would carry, and they wait on the
   condition of the people who would carry them. The work does not wait on the
-  gift: 2017-10-25-af-yogananda sends the circle to India "whether you are
+  gift: 2017-06-06-af-seretta-kem says the gift is not certain but God's Will
+  is, "not all is guaranteed but God's Will will manifest regardless of the
+  intransigence of this world"; 2017-10-25-af-yogananda sends the circle to India "whether you are
   endowed with the gift of Direct Voice or not," and
   2018-01-21-af-professor-salyards holds the gift worth pursuing for the
   attention it would draw, while "It is not reliant solely upon the
@@ -493,7 +498,16 @@ only stating it.
   condition of those who would carry it: 2017-05-25-af-seretta-kem names the
   preparation, "a certain physical stamina, chemical balances within the body,
   good health and a mind clear of negativity and judgments," and calls Direct
-  Voice "but one gift"; 2017-11-03-af-nikola-tesla, knowledge held back until
+  Voice "but one gift"; 2017-06-05-af-stephen, the medium and the people
+  around him being made ready by spirit, "we are preparing this instrument
+  and those who are associated with him for the gift of direct voice";
+  2017-06-06-af-seretta-kem, what the people must keep up, "to maintain a
+  light about you and within you, to keep your thoughts at a high level, to
+  be loving at all times," with one reason given, to let go of "those
+  conditions within your soul which blur the clarity and light within," and
+  the gift coming out of their whole wish for it, "it is in this deep desire
+  and acknowledgement that the power and the beauty of this gift will
+  manifest"; 2017-11-03-af-nikola-tesla, knowledge held back until
   humanity "is able to utilize these gifts with wisdom"; 2018-06-24-af-luke,
   "But first you must be the epitome of this Love"; 2018-07-22-af-seretta-kem,
   "you cannot bring forth a gift, however remarkable it is, without truly
@@ -525,7 +539,14 @@ only stating it.
   one sentence, "All that is required in your life will come to you" and
   "every soul must seek Light," but he only says them, and what comes is what
   a life needs, not what a piece of work needs, so this message does not
-  settle the question either. `provision-for-service` holds the other half
+  settle the question either. 2017-06-06-af-seretta-kem has both halves for a
+  piece of work, the Direct Voice project: what the people must do, "Your
+  responsibility is to maintain a light about you and within you," and what
+  they are given, "All the resources that are available to us are available
+  to you." But the list is not called enough, and the giving depends on the
+  doing, which is what `provision-for-service` argues, so this message raises
+  the question recorded in Open questions. `provision-for-service` holds the
+  other half
   of the same bargain, what God supplies when the work is His; this candidate
   holds the requirement side, stated as a complete minimum. Mint when a
   message argues that the list is enough rather than stating it, or when the
@@ -766,3 +787,13 @@ Larger structural questions to revisit when building begins.
   2016-07-11-af-confucius ("Pray Daily", which argues the daily discipline
   specifically), and 2018-07-30-af-keea-atta-kem ("Prayer"). Like the children
   collection, a taxonomy decision for the curator.
+
+- **Does `the-whole-requirement` belong inside `provision-for-service`?** The
+  candidate is what is asked of the people; the thread is what God gives for
+  a work that is His. 2017-06-06-af-seretta-kem puts the two together for one
+  piece of work, the Direct Voice project, and makes the giving depend on the
+  doing: the people are "to maintain a light about you and within you," and
+  then "All the resources that are available to us are available to you".
+  That is the thread's own argument, so the candidate may be one half of it
+  rather than a thread of its own. Decide when a message shows whether what is
+  asked can stand as enough without what is given.

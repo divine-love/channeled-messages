@@ -54,7 +54,12 @@
   provision for the hard encounters of service rather than the supply of an
   undertaking, "God will provide you with the means to deal with any and all
   circumstances but you must have faith that this will be so," in a message
-  that also states what is asked as a short list.
+  that also states what is asked as a short list;
+  2017-06-06-af-seretta-kem promises provision for the Direct Voice work and
+  the hard times around it, "Your material needs will be met, the needs of
+  your soul and spirit, all will be provided," and ties it to the people's
+  part, "All the resources that are available to us are available to you if
+  you so elect to receive, to act in this responsible manner."
   Sighting, kept for the fence it marks. 2016-09-13-af-goldie, "God will bring
   towards you as you move towards His intention there will be many blessings,
   experiences and opportunities to serve," which is opportunity rather than
