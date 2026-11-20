@@ -14,7 +14,7 @@ message_type: ["Teaching"]
 description: >
   Keea Atta Kem explains how guidance from spirit reaches those on Earth: not
   through the five senses but through a rapport formed with the mind and the
-  soul. He teaches that channelled messages are one form of this guidance
+  soul. She teaches that channelled messages are one form of this guidance
   among many, that the rapport grows clearer as the soul develops in Divine
   Love, and that those who gather in Circles of Light will know the rightness
   of their steps as they set aside fear, judgment, and pain.
