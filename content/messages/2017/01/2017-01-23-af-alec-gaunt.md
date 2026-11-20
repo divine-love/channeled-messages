@@ -43,6 +43,7 @@ related_messages:
   - 2016-06-13-af-james
   - 2016-07-10-af-augustine
   - 2017-06-08-af-augustine
+  - 2017-07-03-af-andrew
   - 2017-09-12-af-augustine
   - 2017-12-18-af-martin-luther
   - 2018-07-14-af-seretta-kem

@@ -38,7 +38,10 @@
   who you are," with the Foundation's answer given again by the same spirit,
   "Yet the essence of who you are will not be lost, just changed, enhanced."
   It names a desire to hold on rather than a fear, and meets the thread's bar
-  through the feared loss. 2017-09-12-af-augustine takes the same step through
+  through the feared loss. 2017-07-03-af-andrew sets the fear at the next step
+  of commitment, a bridge "over the chasm of your own fears and reticence,"
+  with grief for "ideas of who you are," and answers as the Foundation does,
+  "you shall remain intact." 2017-09-12-af-augustine takes the same step through
   the mind rather than the outward self: the fear is why the seeker keeps its
   limits, "you are afraid that if you released these limitations you will lose
   something vital," and the mind is what it fears to lose, answered with change

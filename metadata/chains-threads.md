@@ -370,6 +370,8 @@ only stating it.
   your helpers"; 2017-06-23-af-seretta-kem, "you have the support of the
   Angels and God's Hand upon you to guide you through";
   2017-06-24-af-confucius, "know that we are with you always";
+  2017-07-03-af-andrew, "I accompany you on your journeys and shall do so for
+  all eternity";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";

@@ -17,7 +17,12 @@
   direction, the swing between the soul's security and the mind's "confusion
   and eagerness to know" narrowing over time, "the pendulum will swing less
   and less until you are indeed firmly with your soul perceptions,
-  understanding and knowing"; 2019-01-28-af-matthew-2 develops the why from the human
+  understanding and knowing";
+  2017-07-03-af-andrew gives the rhythm of one step, "accepting more of the
+  Truth, bringing it within you, letting it settle and then expressing this
+  Truth in your lives," and makes even the step that looks like a chasm
+  "merely another step upon the road of awakening and soul growth";
+  2019-01-28-af-matthew-2 develops the why from the human
   side, the most tenacious soul conditions "stick to you with such tenacity"
   and require equal force of yearning to break, so the seeker chooses between
   the purposeful intense gaze into the dark chambers now and the drop-by-drop
