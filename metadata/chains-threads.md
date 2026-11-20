@@ -327,7 +327,10 @@ only stating it.
   Love"; 2016-12-28-af-alec-gaunt, "your angel friends will gather around
   you, supporting you, being with you in a conscious way," as the seeker
   prays intensely for the Love; 2017-06-05-af-stephen, with each prayer for
-  God's Blessing, "angels will surround you"; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
+  God's Blessing, "angels will surround you"; 2017-06-24-af-confucius, with
+  steady prayer making spirit's help stronger, "As you continue to pray and
+  to be in alignment with God, you allow our ministrations to be more
+  effective and powerful"; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
   instrument, "you will always be assured that an angel will be with you and
   often speak to you"; 2019-02-18-af-augustine, "God assigns an angel to each
   soul that is earnest in their efforts to receive this gift of Love." Those
@@ -365,6 +368,7 @@ only stating it.
   ever by your side"; 2017-06-14-af-goldie, "we will always be your friends,
   your helpers"; 2017-06-23-af-seretta-kem, "you have the support of the
   Angels and God's Hand upon you to guide you through";
+  2017-06-24-af-confucius, "know that we are with you always";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
