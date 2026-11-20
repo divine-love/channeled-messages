@@ -350,3 +350,106 @@ From the repository at commit 6660c5b, 2026-11-20. 334 messages.
 - 2019-03-14-af-mary | Gather Your Brethren Into the Light
 - 2019-04-03-af-augustine | Personal for Jeanne followed by an Encouraging Message for All
 - 2019-04-03-af-jesus | Birthday Prayer for Jeanne and Encouragement to All
+
+
+
+
+**Main category as the primary subject (9)**
+
+_Service, Ministry & Being a Channel of Love_
+
+- 2015-11-28-af-alec-gaunt, Walk in the World as Loving Channels to One Another
+- 2016-01-13-af-andrew, The Path You Walk Together
+- 2016-09-04-af-augustine, Continue in Your Service
+- 2016-11-29-af-judas, Put Aside the Goals and Ambitions of Your Mind
+
+_Divine Love & Relationship with God_
+
+- 1963-12-26-ds-mary, Jesus’ Birth and Youth
+- 2016-03-31-af-judas, The Purpose of Divine Love
+
+_Preparation for Earth Mission_
+
+- 2015-03-23-af-augustine, They Will Fill This Building
+
+_Celestial Governance & Spiritual Law_
+
+- 2018-10-23-af-andrew, Seek Harmony Through God’s Love
+
+_Creation and Incarnation_
+
+- 2016-05-29-af-aman, Aman Speaks of the Original State of Humanity and the Fall from Grace
+
+**Main category as a secondary subject (39 messages)**
+
+_Service, Ministry & Being a Channel of Love (25)_
+
+- 2015-06-01-af-augustine, Complying to the Will of God
+- 2015-08-10-af-john-the-beloved, Gathering the Souls Under the Wings of Love
+- 2015-08-20-af-confucius, Circles of Light: Form Them Wherever You Go
+- 2015-08-20-af-faith-nyquist, Encouragement to Establish Centers of Light
+- 2015-08-22-af-confucius, Confucius Urges Group Participants to Start Circles of Light Where They Live
+- 2015-10-02-af-andrew, Trust That God’s Will Is Unfolding
+- 2016-01-09-af-confucius, Your Beautiful Souls Are Eager
+- 2016-03-12-af-faith-nyquist, A Door Has Opened for You
+- 2016-04-04-af-augustine, God Provides for Those Who Serve*
+- 2016-04-05-af-gandhi, Talk on Compassion and Service
+- 2016-06-27-af-brother-mandus, You Will Fulfill Your Mandate to Be a Channel of Love at My Home
+- 2016-06-27-af-jesus, Love with God’s Heart of Love
+- 2016-08-11-af-alec-gaunt, Your Obstacles Strengthen You in the Light
+- 2016-08-25-af-brother-mandus, Embrace All in the Flow of God’s Love
+- 2016-08-29-af-faith-nyquist, This Place Has a Role to Play
+- 2016-11-27-af-mary, Mary Brings Her Blessings to the Group
+- 2017-10-25-af-yogananda, Choice and Accepting the Will of God
+- 2018-05-04-af-yogananda, A Great Journey Awaits
+- 2018-05-11-af-augustine, This Is a Place of Refuge
+- 2018-11-21-af-gandhi, Encouragement to Continue With Plans
+- 2019-01-05-af-mark, Bring the Blessing of Divine Love to This Sanctuary
+- 2019-01-25-af-albert-einstein, Many Scientists in Spirit Are Working to Forge Greater Communications between Worlds
+- 2019-01-25-af-victoria, Continue Your Efforts
+- 2019-01-28-af-albert-einstein, How Can We Help Approach Scientists?
+- 2019-02-01-af-confucius, Come Together Again With Your Questions
+
+_Divine Will, Guidance & Orchestration (4)_
+
+- 2015-08-13-af-augustine, Preparation and Support for Al
+- 2018-11-21-af-james, On the Value of Building Portals of Light
+- 2019-02-01-af-confucius, Come Together Again With Your Questions
+- 2019-02-03-af-andrew, The Door of Truth Is Opened With God’s Love
+
+_Preparation for Earth Mission (3)_
+
+- 2015-03-23-af-john-the-beloved, Your Purpose in This Gathering Is to Teach the Prayer Practice
+- 2015-03-24-af-augustine, There Is Fate and Yet There Is No Fate
+- 2018-05-20-af-keea-atta-kem, Make Arrangements to Come Together
+
+_Spiritual Community & Fellowship (3)_
+
+- 2015-03-28-af-augustine, The Journey of Divine Love Takes Time but Brings Great Benefits
+- 2017-08-21-af-matthew, Only the Soul Can Know God’s Love
+- 2018-07-15-af-augustine, Your Efforts Are Blessed Ten Times Over
+
+_Celestial Governance & Spiritual Law (1)_
+
+- 2015-03-24-af-augustine, There Is Fate and Yet There Is No Fate
+
+_Nature, Environment & God’s Creation (1)_
+
+- 2015-08-17-af-confucius, Sow Seeds of Love Upon Your Journey
+
+_Spiritual Warfare & Opposition (1)_
+
+- 2015-11-25-af-augustine, Guidance and Reassurance Regarding Creating Centres of Light
+
+_Teaching, Testimony & Instruction (1)_
+
+- 2015-10-26-af-seretta-kem, So Many in the Unseen World Benefit from Your Prayers Together
+
+
+
+
+
+**Also outside the messages:**
+
+- **A prayer and a talk** have the same problem: prayer-2016-09-04-af-john-the-beloved and the talk 2015-02-01-af-lifes-choices.
+- **A possible stray asterisk:** the title of 2016-04-04-af-augustine ends with one, “God Provides for Those Who Serve*”. 
