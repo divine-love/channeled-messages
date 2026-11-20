@@ -26,7 +26,12 @@
   meet "many challenges upon this road" and must be able "to shine this light
   over great distances" and "to not compromise," with the Love in them
   speeding the way, "the Divine Love in your souls will indeed accelerate the
-  process";
+  process"; 2017-06-23-af-seretta-kem puts the Love first and the wish for
+  the gift second, "The greatest factor regarding the success of these
+  ventures is the amount of Divine Love that is present within your souls,"
+  and "Resistance will kill this project," and says what the gift is for: in
+  a time of fear the spoken word will not be believed, and "A great
+  credibility will be given through these manifestations";
   2018-07-22-af-seretta-kem puts the example before the gift, "For you cannot
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues

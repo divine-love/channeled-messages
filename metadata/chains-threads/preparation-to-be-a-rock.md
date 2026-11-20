@@ -56,6 +56,11 @@
   what this will be like," since what carries them is "a surety and a faith"
   already within, the seeker's side of what 2019-01-28-af-augustine says from
   the spirit side;
+  2017-06-23-af-seretta-kem sets the rock against the sand, "much of it has
+  been built upon sand that will wash away soon. In these preparations you
+  begin to build a new foundation upon the rock of Truth," a foundation built
+  "within yourself," with the prepared moving "in this world but not of this
+  world";
   2017-09-13-af-keea-atta-kem makes the readying God's own
   work, "this is God orchestrating your life, preparing you for what is to
   come," and sends the prepared to scientists, leaders and seekers;

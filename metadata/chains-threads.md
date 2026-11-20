@@ -363,7 +363,8 @@ only stating it.
   I have never left you"; 2017-06-12-af-seretta-kem, "You have an army of
   angels accompanying you upon this journey"; 2017-06-14-af-augustine, "I am
   ever by your side"; 2017-06-14-af-goldie, "we will always be your friends,
-  your helpers";
+  your helpers"; 2017-06-23-af-seretta-kem, "you have the support of the
+  Angels and God's Hand upon you to guide you through";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";

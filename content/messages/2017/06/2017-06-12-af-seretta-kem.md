@@ -46,6 +46,7 @@ related_messages:
   - 2017-05-25-af-seretta-kem
   - 2017-06-06-af-seretta-kem
   - 2017-06-14-af-augustine
+  - 2017-06-23-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: ""
