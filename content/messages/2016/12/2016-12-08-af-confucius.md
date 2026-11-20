@@ -42,6 +42,7 @@ questions:
   - "What does the Bible mean by becoming a new creature?"
 related_messages:
   - 2016-02-29-af-confucius
+  - 2017-06-08-af-augustine
   - 2018-07-14-af-seretta-kem
 audio_url: ""
 canonical_url: ""
@@ -56,7 +57,7 @@ door: >
   When the obvious errors are gone, the hidden ones rise. That is the Love
   working, not failing.
 collections: ["Mind & Soul", "Service & Mission"]
-last_edited: 2026-10-29
+last_edited: 2026-11-20
 ---
 
 It is Confucius.

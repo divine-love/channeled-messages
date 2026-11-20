@@ -357,6 +357,8 @@ only stating it.
   walk with you"; 2017-06-05-af-stephen, "I shall continue to attend your
   Circles of Light, as will many angels"; 2017-06-06-af-seretta-kem, "we are
   with you and we will continue to support you in many, many ways";
+  2017-06-08-af-augustine, "we in the Celestial Kingdom shall continue to
+  accompany you on your journey";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -616,6 +618,7 @@ only stating it.
   "Always to become brighter and more beautiful as you progress towards
   at-onement to God," asserts it in the same way. 2017-05-21-af-augustine says
   it as well, "even this is the beginning of the journey that never ends."
+  2017-06-08-af-augustine, "It is a never-ending path, beloveds."
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the

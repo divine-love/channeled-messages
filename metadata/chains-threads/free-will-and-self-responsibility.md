@@ -32,7 +32,11 @@
   2016-09-12-af-jerome decouples responsibility from authorship, "no matter
   the source, it is your responsibility and your struggle to take the actions
   necessary to cleanse your soul," so the law reaches conditions the seeker
-  did not create.
+  did not create; 2017-06-08-af-augustine applies the law to healing and to
+  the helper, the release of a wound "subject to your free will," with no
+  healing "Without a true desire to be healed," and what one sees in another
+  no leave to say it, "If one forces their insight upon another, this is a
+  violation, not an act of love."
   Elaborations, what is at stake in the choosing. 2016-05-29-af-aman states
   the consequences at the scale of history rather than of a life, "Millennia
   upon millennia of disharmonious choices and unloving acts have made this

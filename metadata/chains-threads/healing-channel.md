@@ -15,7 +15,11 @@
   must be healed within to allow the love of God to do its work";
   2016-02-10-af-confucius gives the working method, "pray for God to touch
   that soul through you," with the precondition, "Remember to nourish your
-  soul foremost."
+  soul foremost"; 2017-06-08-af-augustine gives the reason for healing
+  oneself first, "you cannot teach others if you have not followed the same
+  path and are a little further ahead upon it," and "If you are not strong
+  within yourself, you cannot be strong for another," with the healing left
+  to God, "God will do the work."
   Elaborations, where the channel reaches. 2016-05-02-af-mary carries it into
   ordinary daily care, "whether it be your children, or the elderly or those
   in deep need, ask your Heavenly Father to make within you a channel of

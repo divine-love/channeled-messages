@@ -40,7 +40,14 @@
   seeker's own resistance, the old coping patterns rising "in a form of
   confrontation as you cling to these old things" and the seeker turning
   "upon yourself in criticism," with the pain placed in the holding on, "The
+  "The
   pain is caused by your desire to hold on to what you see as who you are";
+  2017-06-08-af-augustine sorts the conditions in two, some "burnt to ashes,
+  requiring no acknowledgement whatsoever" and others that "need to be
+  acknowledged and released," and makes the release a choice: a condition
+  held on to sticks between soul and mind, "often within your body,
+  somatized," and one pushed back down keeps returning, "coming forward to
+  consciousness and then being repressed once more";
   2017-12-12-af-seretta-kem gives the mechanism whole, the encrustations never
   sealing the soul completely, "There are always cracks and fissures upon the
   surface of the soul," expiation defined as "simply the release of these
