@@ -5,7 +5,7 @@ All contributors should follow these conventions to ensure consistency, searchab
 
 This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
-Last updated: 2026-11-14
+Last updated: 2026-11-20
 
 ---
 
