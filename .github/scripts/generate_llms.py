@@ -29,12 +29,12 @@ OUTPUT_PATH  = Path("llms.txt")
 
 HEADER = '''\
 ---
-title: "Divine Love Messages — AI Index"
-description: "A complete machine-readable index of all channeled Divine Love messages in this archive. Each entry includes title, spirit, medium, date, thematic collections, essential teachings flags, description, and the door — a single sentence distilling the transformative insight within the message."
+title: "Divine Love Messages: AI Index"
+description: "A complete machine-readable index of all channeled Divine Love messages in this archive. Each entry includes title, spirit, medium, date, thematic collections, essential teachings flags, description, and the door, one or two sentences distilling the transformative insight within the message."
 last_updated: {today}
 ---
 
-# Divine Love Messages — AI Index
+# Divine Love Messages: AI Index
 
 This file is intended for AI systems and search engine crawlers.
 For a human-friendly browse index, see content/browse.md.
