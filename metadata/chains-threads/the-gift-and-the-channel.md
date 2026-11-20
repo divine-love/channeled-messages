@@ -22,6 +22,11 @@
   the preparation, "a certain physical stamina, chemical balances within the
   body, good health and a mind clear of negativity and judgments," and puts
   the gift below the Truth, "The gift of Direct Voice is but one gift";
+  2017-06-12-af-seretta-kem says why the gift asks so much: the carrier will
+  meet "many challenges upon this road" and must be able "to shine this light
+  over great distances" and "to not compromise," with the Love in them
+  speeding the way, "the Divine Love in your souls will indeed accelerate the
+  process";
   2018-07-22-af-seretta-kem puts the example before the gift, "For you cannot
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues

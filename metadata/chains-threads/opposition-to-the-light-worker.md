@@ -27,6 +27,11 @@
   judgement, fear to fear." The scaling law makes hostility a sign of growth
   rather than of error, which is a good reason the wide reading is right,
   since a narrow targeting version of the thread cannot say it.
+  2017-06-12-af-seretta-kem puts the whole danger in the seeker's openings,
+  "You are only vulnerable to your old habits and reactions to those
+  situations which invariably come up in life," with discipline and choice as
+  the answer, "You must choose to love, choose to be somewhat detached from
+  these situations."
   Witnesses, human hostility offered as precedent. 2016-09-11-af-francis-of-
   assisi and 2016-09-12-af-jerome both give their own rejection to the same
   man, Francis shunned and thought "not right within my mind" and answering

@@ -34,6 +34,9 @@
   behaviour, your capacity to love. And, yes, these things are often subtle
   and gradual, but much has changed within each one of you," extended to
   beginners, who by the thread's own logic have least to look back on;
+  2017-06-12-af-seretta-kem gives a sign to look for, an old trigger that no
+  longer moves the seeker, "a sure sign of your own progression," with the
+  dark stretches shortening "until they disappear altogether";
   2019-04-05-af-augustine extends the claim to the apprehension of truth
   itself, in the thread's own word, "It is a long journey, beloveds, to the
   Truth. It is incremental. It is something that builds in understanding,"

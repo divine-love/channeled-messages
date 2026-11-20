@@ -43,6 +43,7 @@ questions:
 related_messages:
   - 2016-02-29-af-luke
   - 2016-05-16-af-simon
+  - 2017-06-12-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -55,7 +56,7 @@ door: >
   Your soul is already standing in the Light. The only question is where you
   keep putting your attention.
 collections: ["Mind & Soul", "The Saints & Apostles Speak"]
-last_edited: 2026-10-29
+last_edited: 2026-11-20
 ---
 
 It is your teacher Augustine. It appears you have learned a valuable lesson about your thoughts, the importance of keeping your thoughts on the highest, conducting yourselves with integrity, disciplining your emotions. All of these aspects of your character, emanations of your being are very important, regarding how you move in this world as a channel of God’s Love. Yes, there are many variables that determine how one behaves, what thoughts one has and the emotional well-being of the individual.
