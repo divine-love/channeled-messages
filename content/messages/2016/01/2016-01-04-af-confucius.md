@@ -53,7 +53,7 @@ excerpt: >
   consciousness, if you will.
 collections: ["Mind & Soul"]
 door: >
-  There may be nothing between your mind and your soul - a merging of consciousness
+  There may be nothing between your mind and your soul, strive for this merging of consciousness.
 last_edited: 2026-10-29
 ---
 

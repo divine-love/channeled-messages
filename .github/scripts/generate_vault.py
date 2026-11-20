@@ -341,7 +341,8 @@ CHAIN_GROUPS = [
     ("Serving in the world", [
         "bell-toll-instrumentality", "healing-channel", "divine-love-healing",
         "speaking-the-truth", "vanguards-of-change", "preparation-to-be-a-rock",
-        "divine-love-mediumship", "opposition-to-the-light-worker",
+        "divine-love-mediumship", "the-gift-and-the-channel",
+        "opposition-to-the-light-worker",
         "spiritual-fellowship", "portals"]),
     ("Truth, tradition and the world's future", [
         "who-jesus-was", "religious-error", "conduit-not-scripture",

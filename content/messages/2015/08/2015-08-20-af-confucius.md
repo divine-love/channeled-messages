@@ -49,12 +49,12 @@ excerpt: >
   Circles of Light, my beloveds. Bring your Circles of Light wherever you
   go. Gather those together who are cold and afraid.
 door: >
-  A Circle of Light asks nothing complicated of you — just mutual love,
+  A Circle of Light asks nothing complicated of you, just mutual love,
   a shared intention, and the willingness to let God do the rest.
 collections:
   - "Service & Mission"
   - "Awakening Humanity"
-last_edited: 2026-10-29
+last_edited: 2026-11-20
 ---
 
 Beloved, beautiful souls, I am Confucius. You did indeed come together to give healing to the world and healing to yourselves. And it was demonstrated to you the power of group prayer and the wonderment of this blessing that came through you for the world. Much was accomplished in this effort that you made together and some of you felt the power of it and perceived its beauty.

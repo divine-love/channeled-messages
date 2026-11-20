@@ -47,7 +47,7 @@ excerpt: >
   Remember to nourish your soul foremost, to be in alignment with the Heavenly
   Father, to make this your focus, to make this your anchor.
 door: >
-  Before you can pour healing into another soul, there is one soul you must tend first - your own.
+  Before you can pour healing into another soul, there is one soul you must tend first, and that is your own.
 collections: ["Healing Path"]
 essential_teachings: ["Divine Healing"]
 notes: ""

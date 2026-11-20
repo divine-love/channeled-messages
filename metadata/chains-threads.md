@@ -221,6 +221,7 @@ message_ids already carry the dates.
 | `speaking-the-truth` | The truth of God's Love must be spoken, plainly and in love | Silence before error is itself a failure, so the truth must be spoken → what holds the speaker back is fear for reputation and the desire for recognition → it is spoken best as one's own experience, plainly and in love, with calm resolution rather than argument or anger → the occasions and the words are asked of God → many will turn away and some will hear, and the cost is accepted | Teaching & Sharing the Message; Overcoming Fear & Doubt |
 | `spiritual-fellowship` | The company of other seekers is a requirement of the path, not a comfort | Fellowship holds the seeker against the pull back into the human conditions → it also supplies perception the seeker cannot reach alone, since each journey reveals what another's cannot → but fellowship sought for its own sake costs the truth, when belonging is traded for what one is told to believe → so a true church is any community that seeks Light together, with no institution, label or office required | Spiritual Community & Fellowship |
 | `the-fall` | The fall as the declining of a gift, not a transgression punished | God placed His individuated reflection in the first parents -> He offered them the Essence of His Being, and offered it as a choice -> content in what they already had, they declined it -> the Gift was withdrawn until Jesus, a soul again free of sin and error, accepted it and brought it back -> so the fall is a refusal, and the Essence remains a choice for every soul since | Free Will & Human Error; Redemption of Humanity |
+| `the-gift-and-the-channel` | The gifts come second to the Truth and wait on those who carry them | The gifts the circle prays for, Direct Voice among them, are a means of carrying the Truth and come second to it → the work does not wait on the gift: the Truth goes out with it or without it → the gift waits on the condition of those who would carry it: a clear and loving life and an example of the Love → because the gift's power comes through souls grown in the Love, and a group without that growth cannot bring it through → so the Love comes first, and the gift follows | Direct Voice Communication; Service & Mission |
 | `two-paths` | The natural love path and the Divine Love path are distinct, and the Divine path is swifter and higher | Every soul carries wounds requiring purification → two paths exist: natural love (long, by full conscious recompense) and Divine Love (swift, by God's transforming fire) → natural love is itself a gift from God and its road leads to real harmony and joy, so the roads differ in how far they reach, not in whether the love is good → Divine Love reaches the Celestial Heavens where natural love cannot → the choice is open to all | Two Paths; Natural Love Path vs Divine Love Path |
 | `vanguards-of-change` | The commission to mobile service | God has commissioned these souls as vanguards and will open the doors in His timing → answering the commission requires releasing material burdens to be free to go wherever guided → the release is operational, mobility at a moment's notice, and the fears blocking it are unfounded → the world changes through changed people walking through opened doors | Preparation for Earth Mission; Service & Mission |
 | `who-jesus-was` | Correcting the record on Jesus' nature and relationships | Jesus was not God incarnate but a man who found the way to the Father's Love → what made him able was the soul he incarnated with, complete and purified by prior agreement with God → so the doctrines resting on his divinity fall with it: the birth record, the soulmate legend, and the worship of him → the record went wrong because those closest to him did not understand him while he lived → what he did was open the door to Divine Love for mankind and all spirits, and he lives still, which is why impersonation is possible | Jesus Speaks; Religious Error & Reformation |
@@ -358,7 +359,8 @@ only stating it.
   Circles of Light, as will many angels"; 2017-06-06-af-seretta-kem, "we are
   with you and we will continue to support you in many, many ways";
   2017-06-08-af-augustine, "we in the Celestial Kingdom shall continue to
-  accompany you on your journey";
+  accompany you on your journey"; 2017-06-12-af-alec-gaunt, "I am with you.
+  I have never left you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -487,36 +489,6 @@ only stating it.
   when a message develops the argument rather than asserting it. Its
   search-level home meanwhile is the subject "Divine Purpose" ("Purpose &
   Meaning of Life" is not a subject in subjects.yml).
-- `the-gift-and-the-channel`, the gifts the circle prays for, Direct Voice
-  above all, come second to the Truth they would carry, and they wait on the
-  condition of the people who would carry them. The work does not wait on the
-  gift: 2017-06-06-af-seretta-kem says the gift is not certain but God's Will
-  is, "not all is guaranteed but God's Will will manifest regardless of the
-  intransigence of this world"; 2017-10-25-af-yogananda sends the circle to India "whether you are
-  endowed with the gift of Direct Voice or not," and
-  2018-01-21-af-professor-salyards holds the gift worth pursuing for the
-  attention it would draw, while "It is not reliant solely upon the
-  achievement of this gift of direct voice". And the gift waits on the
-  condition of those who would carry it: 2017-05-25-af-seretta-kem names the
-  preparation, "a certain physical stamina, chemical balances within the body,
-  good health and a mind clear of negativity and judgments," and calls Direct
-  Voice "but one gift"; 2017-06-05-af-stephen, the medium and the people
-  around him being made ready by spirit, "we are preparing this instrument
-  and those who are associated with him for the gift of direct voice";
-  2017-06-06-af-seretta-kem, what the people must keep up, "to maintain a
-  light about you and within you, to keep your thoughts at a high level, to
-  be loving at all times," with one reason given, to let go of "those
-  conditions within your soul which blur the clarity and light within," and
-  the gift coming out of their whole wish for it, "it is in this deep desire
-  and acknowledgement that the power and the beauty of this gift will
-  manifest"; 2017-11-03-af-nikola-tesla, knowledge held back until
-  humanity "is able to utilize these gifts with wisdom"; 2018-06-24-af-luke,
-  "But first you must be the epitome of this Love"; 2018-07-22-af-seretta-kem,
-  "you cannot bring forth a gift, however remarkable it is, without truly
-  being an example of the truth." It touches `divine-love-mediumship` and
-  `bell-toll-instrumentality` without belonging to either. Mint when a message
-  argues why the gift must wait on the condition of those who carry it, rather
-  than saying that it does.
 - `the-whole-requirement`, what is asked of the human side, stated as a closed
   and sufficient list, with the question of how the work will get done
   refused. Seen: 2016-11-27-af-confucius, "All that we require of you is for
