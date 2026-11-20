@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-11-03 from spirits/*.yml (58 files). Read-only reference for biography cross-checks;
+Generated 2026-11-20 from spirits/*.yml (59 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -43,7 +43,7 @@ FILE: spirits/aekarius.yml
 ========================================================================
 spirit_id: aekarius
 spirit_name: "Aekarius"
-spirit_aliases: []
+spirit_aliases: ["Icarious"]
 spirit_description: >
   Aekarius identifies himself as an inhabitant of the Celestial Kingdom who
   was once an astrologer and an astronomer, "very long days ago," in
@@ -59,6 +59,7 @@ notes: >
   beliefs he says, "We worshiped idols, we gave God many names and many
   personalities," and of himself, "this old astrologer has come to new
   understandings as he has grown in the Love of God."
+  In 2017-05-21-af-aekarius he gives his name as Icarious, "I am Icarious."
 
 ========================================================================
 FILE: spirits/albert-einstein.yml
@@ -468,7 +469,7 @@ spirit_description: >
   continues to grow in the Light and Love of God, and now inhabits the
   Celestial Kingdom. In the Divine Love messages he speaks as a passionate
   encourager of those working to bring spiritual awakening, compassion, and
-  service to the world — drawing direct parallels between his own Earth life
+  service to the world, drawing direct parallels between his own Earth life
   journey and the work of those gathered.
 notes: >
   Key biographical message: 2018-05-10-af-gandhi (Change Comes One Soul at
@@ -492,7 +493,10 @@ spirit_description: >
   to be with him in prayer and to walk and sing with him as he works. She
   describes her presence as felt in the lightness of a step and the joy in
   the heart.
-notes: ""
+notes: >
+  In 2017-05-18-af-goldie she says she looks forward to singing and dancing
+  with the circle in Direct Voice, and that she and the others in spirit pray
+  that the circle and the spirits will come together to bring the gift about.
 
 ========================================================================
 FILE: spirits/isaiah.yml
@@ -938,6 +942,24 @@ notes: >
   resolved.
 
 ========================================================================
+FILE: spirits/laila.yml
+========================================================================
+spirit_id: laila
+spirit_name: "Laila"
+spirit_aliases: []
+spirit_description: >
+  Laila is a Celestial spirit who lived many years ago in the land now called
+  Israel and followed Jesus during his life on earth. She has been asked to be a
+  protector to a prayer circle forming in Bend, Oregon, and to assist in its
+  work.
+notes: >
+  Biographical details from 2017-05-19-af-laila: she lived "many, many years
+  ago" in "what you call Israel" and "followed the Master Jesus when he walked
+  the earth"; she is "now an inhabitant of the Celestial Kingdom"; she has been
+  asked to be the protector of those forming a circle in Bend and to assist them
+  in their work.
+
+========================================================================
 FILE: spirits/lotus-blossom.yml
 ========================================================================
 spirit_id: lotus-blossom
@@ -1266,7 +1288,10 @@ spirit_id: nikola-tesla
 spirit_name: "Nikola Tesla"
 spirit_aliases: ["Nicola Tesla"]
 spirit_description: "Nikola Tesla (1856-1943), the Serbian-American inventor, electrical engineer, and futurist, is best known for his contributions to the design of the modern alternating current electricity supply system and his pioneering work on wireless transmission of energy. In the Divine Love messages, Tesla speaks from spirit with characteristic enthusiasm about the mechanics of the universe, describing how his understanding of energy and electricity has been deepened and expanded since passing. He has expressed a keen interest in assisting with the development of Direct Voice mediumship, which he understands to have an electrical component, and has spoken of the power of Divine Love as the most fundamental energy in the universe - one whose capacities far exceed what humanity has yet understood."
-notes: ""
+notes: >
+  In 2017-11-03-af-nikola-tesla he says he continues to pray for the Father's
+  Love to fill his soul, so that he may know more of the world, the universe of
+  God.
 
 ========================================================================
 FILE: spirits/osho-bhagwan.yml
@@ -1666,6 +1691,16 @@ notes: >
   he inhabits the Celestial Kingdom, and that though his words were different
   and his teachings reflected his life and background, he too brought the
   Truth of God's Love into the world and dedicated his life to soul awakening.
+  In the same message he speaks to his friend Jimbeau Walsh, saying he is with
+  him often and that they have many conversations in spirit as he sleeps.
+
+
+  In 2017-10-25-af-yogananda he recounts choosing to leave India for America,
+  following the yearnings of his soul rather than staying in the safe place of
+  the culture and land of his birth. He says he had to overcome his fears,
+  biases and misunderstanding, that the work was often very challenging,
+  certainly in the beginning, and that many benefitted not because he was
+  uniquely endowed but because he was willing.
 
 
   In 2018-11-21-af-yogananda he acknowledges his own struggles with spiritual
