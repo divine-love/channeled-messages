@@ -36,6 +36,13 @@
   through because as a group we lacked the soul development to allow this
   power to manifest as we so desired," and says what this circle has that his
   group lacked, "a great deal of Divine Love within your souls."
+  Capstone. 2017-06-14-af-augustine says why the gift comes second to the
+  Truth: the Direct Voice of earlier times came "by natural spirits and
+  mortals," without the Love, and was "a natural phenomenon"; the Love
+  "changes every gift," and without the soul's longing the circle's gift
+  would be "merely a physical manifestation." The goal is the Truth, "Your
+  goal is to bring the truth of God's Love to mankind," so the order is set,
+  "Do not put the cart before the horse, beloveds."
   Witnesses. 2017-06-05-af-stephen, the medium and those around him being
   made ready, "we are preparing this instrument and those who are associated
   with him for the gift of direct voice"; 2017-10-25-af-yogananda, the Truth
@@ -49,7 +56,7 @@
   2017-11-03-af-nikola-tesla marks the edge: knowledge held back until
   humanity "is able to utilize these gifts with wisdom" is the same rule for
   all of humanity, not a gift a circle prays for.
-  What is awaited: a message that says why the gifts come second to the
-  Truth, as 2017-06-12-af-alec-gaunt says why the gift waits on the people.
+  What is awaited: a message that shows the gift once it has come, and what
+  the Love has made of it beside the natural phenomenon.
   Structural note: the circle prays for the gift at its Direct Voice sittings,
   so every Direct Voice message is read for this thread.
