@@ -15,7 +15,11 @@
   perception rather than judgment, "As you begin to turn your gaze upon
   yourself and acknowledge how precious you are... in this way you then have
   eyes to see the beauty in others," so what is gained is the capacity to see
-  another's beauty; 2019-04-05-af-augustine states it as logic from the other
+  another's beauty; 2017-07-06-af-seretta-kem makes self-love part of what
+  makes the servant believable, "Part of the credibility that you must earn
+  with those souls is the ability to love yourself," and names what blocks
+  it, "your own thoughts that you are unworthy or a failure or that you do
+  not love yourself"; 2019-04-05-af-augustine states it as logic from the other
   side, "Come to understand yourself above all, to accept yourself above
   all... In this way, how can you judge another when you are being of love and
   acceptance, joy and light?"

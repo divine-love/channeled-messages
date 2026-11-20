@@ -318,7 +318,8 @@ only stating it.
   prayers... God will send an angel to you, to help you in this struggle";
   2016-11-29-af-judas, a spirit offering himself by name, "Ask for my
   assistance and I will come to you"; 2017-05-19-af-laila, "Pray for my
-  assistance and I will be there"; and 2017-12-18-af-martin-luther, "You
+  assistance and I will be there"; 2017-07-06-af-seretta-kem, "ask the Angels to come close to you"; and
+  2017-12-18-af-martin-luther, "You
   will receive all the assistance that you require if asked." Earnest prayer for the Love brings an
   angel close, one God assigns to each earnest soul and present when it prays,
   not necessarily at other times: 2016-05-30-af-augustine, "when you earnestly
@@ -629,10 +630,13 @@ only stating it.
   the gate on the love that flows out through a person rather than the Love
   received, "all that stands in the way of this immense flood of love that can
   and will come through you... is your thought that you are unworthy, or that
-  you are not loved, or that you cannot love"; and 2016-12-05-af-augustine,
+  you are not loved, or that you cannot love"; 2016-12-05-af-augustine,
   which makes accepting that one is loved the step that clears the way to
   serve, "to accept that you are loved, that you are truly loved and that you
-  are precious in God's sight". `fear-of-full-immersion` and
+  are precious in God's sight"; and 2017-07-06-af-seretta-kem, which puts it
+  on progress, "The only thing that will stop you from progressing is your own
+  thoughts that you are unworthy or a failure or that you do not love
+  yourself". `fear-of-full-immersion` and
   `self-love-foundation` each touch it without holding it:
   `fear-of-full-immersion` rules unworthiness out of the obstacle it names,
   and `self-love-foundation` is about how a person regards themselves rather
