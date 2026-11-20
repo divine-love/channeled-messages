@@ -599,6 +599,8 @@ only stating it.
   at-onement to God," asserts it in the same way. 2017-05-21-af-augustine says
   it as well, "even this is the beginning of the journey that never ends."
   2017-06-08-af-augustine, "It is a never-ending path, beloveds."
+  2017-06-28-af-augustine gives a reason, "For you can never receive enough
+  of this great essence of Love, it is infinite."
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the

@@ -36,6 +36,7 @@ questions:
   - "What does it mean that God's Grace is the birthright of every soul?"
 related_messages:
   - 2016-05-02-af-andrew
+  - 2017-06-28-af-augustine
   - 2018-05-12-af-luke
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/divine-love-path-natural-love-path/"
@@ -48,7 +49,7 @@ excerpt: >
 door: >
   Two roads. One leads to the perfection of the mind. The other leads to God.
 collections: ["Two Paths", "The Saints & Apostles Speak"]
-last_edited: 2026-08-11
+last_edited: 2026-11-20
 ---
 
 God bless you, I am your teacher Augustine. God's mantle of peace has descended upon you, beloveds. Like the wings of doves spreading out, enveloping you in Light, so you are uplifted and blessed with the Grace of God upon you. The great peace that passes all understanding is with you, beloved souls. When you sense this presence of peace, know that God is near and that you are indeed enveloped in the Light of God's Presence. In this beautiful Light, open your souls, open your souls, beloveds, and drink deep of these living waters, for the Holy Spirit comes to convey God's Love and awaits your thirst for this blessing.

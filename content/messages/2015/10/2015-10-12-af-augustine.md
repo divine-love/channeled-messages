@@ -39,6 +39,7 @@ related_messages:
   - 2016-08-25-af-matthew
   - 2016-08-27-af-brother-mandus
   - 2016-10-16-af-augustine
+  - 2017-06-28-af-augustine
   - 2018-05-21-af-matthew
   - 2018-12-17-af-mary
   - 2019-03-08-af-andrew
@@ -54,7 +55,7 @@ excerpt: >
   The soul is imbued with many qualities and attributes which mostly lie dormant without being ignited and brought to life by God's Divine Essence. It is a knowing, a deep understanding that is not the result of deduction and analysis.
 door: >
   The mind analyses. The soul knows. Only one of these can comprehend God.
-last_edited: 2026-10-29
+last_edited: 2026-11-20
 ---
 
 It is Augustine. I have come to teach a lesson this night for a question was asked about the difference between the mind of the soul and the material mind. And, indeed, these are two distinct entities within one being, within all of you. Many of you are quite familiar and have developed to a great degree the consciousness of the material mind and all its attributes of the intellect and the perceptions of the senses and your mental perceptions of the world around you, making sense of your lives, of the world and functioning within these human conditions. And this is what is predominant in your beings and consciousness.
