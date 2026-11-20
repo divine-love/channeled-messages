@@ -8,7 +8,7 @@ description: >
   file per thread. Companion to chains-log.md, which holds the rules for the
   chronological per-message evidence. This layer is NOT generated and NOT a
   schema. Nothing here is final.
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -350,9 +350,10 @@ only stating it.
   who desire to work with you and to help you with your ministry";
   2017-05-21-af-aekarius, "we walk by your side for you are never alone, my
   beloveds, never"; 2017-05-21-af-mary, "I will watch over you, my beloveds,
-  as you work and serve God in love"; 2017-05-25-af-seretta-kem, "You will
-  never be alone, you will continue to be upheld";
-  2017-05-22-af-andrew, "We in spirit will continue to accompany you";
+  as you work and serve God in love"; 2017-05-22-af-andrew, "We in spirit
+  will continue to accompany you"; 2017-05-25-af-seretta-kem, "You will
+  never be alone, you will continue to be upheld"; 2017-06-04-af-jesus, "I
+  walk with you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -520,7 +521,11 @@ only stating it.
   circle, not what a piece of work needs, so this message does not settle the
   question either. 2017-05-20-af-jesus gives the list to every soul in the
   world, "A simple prayer, a simple desire, a willingness to be open, to be
-  blessed is all that is required." `provision-for-service` holds the other half
+  blessed is all that is required." 2017-06-04-af-jesus puts both halves in
+  one sentence, "All that is required in your life will come to you" and
+  "every soul must seek Light," but he only says them, and what comes is what
+  a life needs, not what a piece of work needs, so this message does not
+  settle the question either. `provision-for-service` holds the other half
   of the same bargain, what God supplies when the work is His; this candidate
   holds the requirement side, stated as a complete minimum. Mint when a
   message argues that the list is enough rather than stating it, or when the
