@@ -17,9 +17,9 @@ medium: Firstname Lastname             # REQUIRED. Same as the source message, e
 
 date_received: 2025-01-01              # REQUIRED. Same as the source message's date (YYYY-MM-DD).
 
-primary_subjects: "Main Subject"       # REQUIRED. Exactly one subject from metadata/subjects.yml.
+primary_subjects: "Main Subject"       # REQUIRED. Exactly one subcategory name from metadata/subjects.yml, never a main category name.
 
-secondary_subjects:                    # OPTIONAL. Up to five subjects from metadata/subjects.yml.
+secondary_subjects:                    # OPTIONAL. Up to five subcategory names from metadata/subjects.yml.
   - "Prayer & Devotion"
   - "Teaching the Prayer Practice"
 

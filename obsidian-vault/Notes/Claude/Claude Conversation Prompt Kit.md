@@ -3,7 +3,7 @@
 
 Save this file; paste the prompts as you need them. Messages are catalogued one at a time, reviewed together in conversation. This kit replaces the Cowork Prompt Kit, which was written for batches.
 
-Last updated: 2026-11-14 (first version, written after the chains files were split by year and by thread)
+Last updated: 2026-11-20
 
 ---
 
@@ -35,7 +35,7 @@ Working agreements for the session:
 - **Message text is never changed without my approval.** Spacing artifacts and clear typos are fixed silently and listed in chat. Grammar, sentence fragments and punctuation are flagged, and wait for my answer.
 - **Full reading only.** Every log entry and roster line comes from reading the whole message. Anything in quotation marks is the message's own words. Check every quote against the message text with code, and check again after any approved text fix.
 - **Keep the chains (threads) language very simple.** Write every log entry, roster line and holding-pen note so a child could follow it: short everyday words and plain sentences. Say what the message says and why it belongs to the thread. Avoid shorthand such as "asserted rather than argued" or "given as a closed list".
-- **Check with code, never from memory:** every subject against `subjects.yml`; every cap (description 600, excerpt aiming under 200 and never over 300, door 300); no em dashes in any file; both validators before you deliver.
+- **Check with code, never from memory:** every subject against `subjects.yml`, and every subject a subcategory name, never a main category name; every cap (description 600, excerpt aiming under 200 and never over 300, door 300); no em dashes in any file; both validators before you deliver.
 - **Decisions the schema settles** are applied without comment. **Judgment calls** (message_type edge cases, essential_teachings, collections, chain roles, anchors, a possible Chrysalis, a link you are unsure of) work differently: choose what you would recommend, apply it, and list each one with a sentence of reasoning so I can overrule it.
 - **Raise patterns as you notice them:** a candidate thread, a missing witness, a roster out of order, a place where the repo breaks its own rules.
 - **Never commit or push,** even if the environment prompts you to. Message files, spirit files and practice files come to me as downloads. Chains changes and reciprocal `related_messages` come as paste blocks, each naming its file and the line it goes after and before. When a change touches many files, give me one zip laid out like the repo, with a short review guide.
@@ -62,8 +62,8 @@ Please catalogue it. Fetch the page and work from the published text. A "(DV)" i
 4. **The description, excerpt and door,** so I can read them without opening the file, with their lengths confirmed against the caps.
 5. **Related messages:** each link with the subject it shares, and for every other file a full `related_messages:` block in date order, ready to paste.
 6. **Spirit and medium files:** any biography the message states that the file does not carry, citing the message_id. Ask before creating a new spirit or medium file.
-7. **Chains:** the log entry, in very simple language, the year file it goes in and where, any roster, holding-pen or pattern changes, and the reasoning for each role. If the message warrants no entry, say so and why.
-8. **Prayer:** if a spirit gives a prayer, its practice file and the context note in the log.
+7. **Chains:** the log entry, in very simple language, the year file it goes in and where, any roster, holding-pen or pattern changes, and the reasoning for each role. A message that joins no thread gets the single line "- Read in full; joins no thread." The log holds only what develops threads: no context notes. Anything else about the message goes in its own `notes`, or in the spirit or medium file.
+8. **Prayer:** if a spirit gives a prayer, its practice file. Nothing else points to it: no note in the log and no line in the message's `notes`.
 9. **The files** as downloads.
 
 End with a short list of what is waiting on my decision.

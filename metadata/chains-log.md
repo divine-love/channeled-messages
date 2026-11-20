@@ -7,7 +7,7 @@ description: >
   per year of message. Companion to chains-threads.md, which holds the thread
   registry, holding pen, and open questions. The log is NOT generated and NOT
   a schema. Nothing here is final.
-last_updated: 2026-11-18
+last_updated: 2026-11-20
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -60,8 +60,8 @@ be built once, against the full set, with the entire arc visible.
 - **Terminology:** prefer "paths" or "doors" over "chain" in any
   reader-facing language, to avoid collision with the existing "Chain of
   Light / Lattice of Light" terminology. ("Chain" is fine internally.)
-- **Build timing:** construct the real chains AFTER the archive is caught up
-  through 2026. Until then, only notice and log here.
+- **Build timing:** construct the real chains once the messages through 2026
+  are all in the archive. Until then, only notice and log here.
 
 ## Link-role vocabulary (controlled, use these exact terms)
 
@@ -134,22 +134,30 @@ Testimony, Chrysalis, Capstone) is defined in chains-threads.md.
 
 Every record carries a tier. A member is a role line. Everything below member
 level is a NOTE whose parenthetical names its kind and, where it concerns a
-thread, that thread's slug. There are six kinds:
+thread, that thread's slug. There are five kinds in use, and a sixth that is
+retired:
 
 > - NOTE (witness, `slug`): ...
 > - NOTE (sighting, `slug`): ...
 > - NOTE (considered and set aside, `slug`): ...
 > - NOTE (build, `slug`): ...
 > - NOTE (pattern, described and not penned): ...
-> - NOTE (context): ...
+> - NOTE (context): ... (retired, see below)
 
 Witness, sighting, and considered and set aside grade the message as evidence
 for a thread. Build is addressed to whoever builds that thread: a tension, a
 fence, a caveat about the text, an open anchor question, a pairing to read
 together. A pattern is a recurring observation that is not yet a candidate
-thread. Context is anything about the message that bears on no thread: medium
-or spirit biography, family relationships, paired receptions, unidentified
-spirits, practice files, collection questions, and subject-level connections.
+thread.
+
+The log holds only what develops threads, so no new context note is written.
+Anything about a message that bears on no thread goes where it belongs: a fact
+about the message in its own `notes` field, a fact about a spirit or medium in
+that spirit or medium file, and nothing at all for a spirit-given prayer, whose
+practice file already names its message. Older context notes are still in the
+log until the context-note audit moves each one to its proper place; the
+validator accepts the kind until then.
+
 A note that touches several threads is split into one NOTE per thread. A NOTE
 with no parenthetical is invisible to any search that keys on its kind, so it
 does not count as logged.
@@ -174,7 +182,7 @@ The entries are in `chains-log/`, by year. None are kept in this file.
 > Chronological by message date; insert each new entry at its date's position
 > in the file for its year.
 > Format per entry:
-> message_id, title, date
+> ### message_id | title | date
 > - `slug` **[Role]** : note on why this message belongs and what it contributes
 >
 > One record per line. Records are never wrapped onto continuation lines, so a

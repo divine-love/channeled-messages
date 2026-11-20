@@ -61,8 +61,8 @@ be built once, against the full set, with the entire arc visible.
 - **Terminology:** prefer "paths" or "doors" over "chain" in any
   reader-facing language, to avoid collision with the existing "Chain of
   Light / Lattice of Light" terminology. ("Chain" is fine internally.)
-- **Build timing:** construct the real chains AFTER the archive is caught up
-  through 2026. Until then, only notice and log here.
+- **Build timing:** construct the real chains once the messages through 2026
+  are all in the archive. Until then, only notice and log here.
 
 ## Link-role vocabulary (controlled, use these exact terms)
 

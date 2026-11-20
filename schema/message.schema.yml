@@ -112,18 +112,16 @@ properties:
   primary_subjects:
     type: string
     description: >
-      The single most relevant subject from any level of the subject hierarchy
-      (top category or subcategory). Choose the most specific and relevant subject
-      regardless of its level in the hierarchy. Must be a name defined in
-      metadata/subjects.yml (enforced by validator).
+      The single most relevant subject. Must be a name defined in
+      metadata/subjects.yml (enforced by validator), and a subcategory name,
+      never a main category name. Choose the most specific and relevant subject.
 
   secondary_subjects:
     type: array
     description: >
-      Up to five additional subjects from any level of the subject hierarchy
-      (top category or subcategory). Choose the most relevant subjects regardless
-      of hierarchy level. Each must be a name defined in metadata/subjects.yml
-      (enforced by validator).
+      Up to five additional subjects, the most relevant ones. Each must be a
+      name defined in metadata/subjects.yml (enforced by validator), and a
+      subcategory name, never a main category name.
     items:
       type: string
     uniqueItems: true

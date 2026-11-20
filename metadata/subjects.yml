@@ -2,6 +2,8 @@
 # Subject hierarchy for the Divine Love Messages archive.
 # Each subject and subcategory includes a definition to guide curators
 # and help AI systems, search engines, and seekers understand the taxonomy.
+# Subjects are the subcategory names. The main category names group the
+# subjects and are never used as a subject in a message, prayer or talk.
 
 # KEY TERMINOLOGY
 # Divine Love: the Essence of God, received through prayer into the soul;

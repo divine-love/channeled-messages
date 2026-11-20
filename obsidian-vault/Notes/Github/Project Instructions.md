@@ -1,8 +1,8 @@
-# Divine Love Messages Archive — Project Instructions
+# Divine Love Messages Archive: Project Instructions
 
 # For use as project knowledge in Claude conversations
 
-# Last updated: 2026-11-15
+# Last updated: 2026-11-20
 
 # THE REPOSITORY IS CANONICAL. These instructions carry only what the repo
 
@@ -14,13 +14,13 @@
 
 ## Canon (single sources of truth)
 
-- **`schema/schema.md`** — ALL cataloguing conventions: field semantics, text handling, curator style, the door standard, subjects policy, translations. Follow it exactly. If anything here appears to conflict with schema.md, schema.md wins (and flag the conflict).
-- **`schema/message.schema.yml`** — machine-validated structure and caps (description 600 max; excerpt aim under 200, 300 hard max; door 300 max).
-- **`metadata/subjects.yml`** — the subject vocabulary. Validate every subject value against it with code before finalizing; never from memory.
+- **`schema/schema.md`**: ALL cataloguing conventions: field semantics, text handling, curator style, the door standard, subjects policy, translations. Follow it exactly. If anything here appears to conflict with schema.md, schema.md wins (and flag the conflict).
+- **`schema/message.schema.yml`**: machine-validated structure and caps (description 600 max; excerpt aim under 200, 300 hard max; door 300 max).
+- **`metadata/subjects.yml`**: the subject vocabulary. Validate every subject value against it with code before finalizing; never from memory.
 - **Collection and essential-teaching definitions** live in the DESCRIPTIONS dicts inside `.github/scripts/generate_collections.py` and `generate_essential_teachings.py`. The `content/collections/` and `content/essential-teachings/` folders are generated output; never read them as a source.
-- **`spirits/*.yml`** and **`mediums/*.yml`** — biography and doctrine. When a message reveals biographical detail, update the file in the same session, citing the source message_id; never infer beyond what is stated. Ask before creating a new spirit or medium file (one may already exist).
-- **`metadata/chains-threads.md`** and **`metadata/chains-log.md`** — the chains layer. These two files hold the rules, the registry, the holding pen, the patterns and the open questions. The log entries are in `metadata/chains-log/`, one file per year of message (`2018.md`), and each minted thread's roster is its own file in `metadata/chains-threads/`, named for its slug (`soul-expiation.md`). Their shared front-matter design blocks are the chain rules: role sections in argument order, chronological within each section, one anchor per section, witnesses included rather than discarded, every entry made from a full reading of the message. A chain follows an argument, not a timeline. Build the `chains/` directory only after the archive is caught up through 2026.
-- **`MAINTAINERS-GUIDE.md`** — how the whole repository fits together, written for a person taking up the work. When a script, a folder or a routine changes, check whether the guide needs to change with it.
+- **`spirits/*.yml`** and **`mediums/*.yml`**: biography and doctrine. When a message reveals biographical detail, update the file in the same session, citing the source message_id; never infer beyond what is stated. Ask before creating a new spirit or medium file (one may already exist).
+- **`metadata/chains-threads.md`** and **`metadata/chains-log.md`**: the chains layer. These two files hold the rules, the registry, the holding pen, the patterns and the open questions. The log entries are in `metadata/chains-log/`, one file per year of message (`2018.md`), and each minted thread's roster is its own file in `metadata/chains-threads/`, named for its slug (`soul-expiation.md`). Their shared front-matter design blocks are the chain rules: role sections in argument order, chronological within each section, one anchor per section, witnesses included rather than discarded, every entry made from a full reading of the message. A chain follows an argument, not a timeline. Build the `chains/` directory only once the messages through 2026 are all in the archive.
+- **`MAINTAINERS-GUIDE.md`**: how the whole repository fits together, written for a person taking up the work. When a script, a folder or a routine changes, check whether the guide needs to change with it.
 - **Retrieval caution:** project-knowledge search can return stale chunks of repo files. Files uploaded or pasted in the session, and the live published site, take precedence over retrieved chunks. Before reporting a suspected error in a repo file based on retrieval, ask the curator to confirm against the actual file.
 
 ## Workflow (per message)
@@ -41,8 +41,8 @@ For published messages: the curator sends the URL; fetch and verify against the 
 10. Update spirit files for any revealed biography (same session, cite source)
 11. Add any spiritual Law the message uses as a working Law as a secondary subject (see schema.md, Subjects; record general mentions in metadata/law-mentions-reviewed.yml)
 12. Provide reciprocal related_messages links as full field blocks, inserted in chronological position (sort existing out-of-order lists on touch)
-13. Log to the message's year file in `metadata/chains-log/` (and update the thread's roster file in `metadata/chains-threads/`, or chains-threads.md for the holding pen and patterns) when the message warrants it: members, witnesses, or NOTE-level sightings. Insert the entry at its date's position in that year's file, and check every quote against the message text
-14. For a spirit-given prayer, create its practice file and add a context note in the log pointing to it
+13. Log to the message's year file in `metadata/chains-log/` (and update the thread's roster file in `metadata/chains-threads/`, or chains-threads.md for the holding pen and patterns): members, witnesses, or NOTE-level sightings, or the single line "- Read in full; joins no thread." Insert the entry at its date's position in that year's file, and check every quote against the message text. The log holds only what develops threads, never context notes: a fact about the message goes in its `notes`, a fact about a spirit or medium in that file
+14. For a spirit-given prayer, create its practice file. Nothing else points to it: no note in the log and no line in the message's `notes`
 15. Batch commit approximately every five messages
 
 ## Collaboration preferences
@@ -59,32 +59,36 @@ For published messages: the curator sends the URL; fetch and verify against the 
 
 ## Current state
 
-- Processing position: two fronts. The sequential catch-up has catalogued through the end of 2016 and into 2017; the archive holds 2017 messages through 2017-05-22-af-andrew before the gaps begin, and the curator confirms where it resumes. Messages from other dates are catalogued as they surface, so the archive already holds material through 2023 (latest: 2023-02-10-af-augustine). Check the index for collisions rather than assuming a message is unprocessed because of its date
-- Archive spans 1963-2023; earliest message 1963-12-26-ds-mary (earliest member of any chain, via who-jesus-was)
-- Chains layer: 42 minted threads, each with its own roster file; 20 candidates in the holding pen; 3 patterns recorded and not penned. Every log entry has been made from a full reading. All validator debt counters are at 0, so a newly minted thread needs its roster file in the same commit
+- Order of work: messages are not added in date order. The curator chooses each message, so any year may have gaps, and messages arrive at both ends of the archive and in the middle. Never describe the work as a "catch-up" or say where it "resumes". Before cataloguing, check the index for a collision rather than assuming a message is new because of its date
+- Chains reading: every message in the archive should end up with a log entry. The messages still to be read for chains are exactly those with no entry in `metadata/chains-log/`; compare the log headings with `content/messages/` to list them
+- Chains layer: 44 minted threads, each with its own roster file; 19 candidates in the holding pen; 2 patterns recorded and not penned. All validator debt counters are at 0, so a newly minted thread needs its registry row, its roster file and its `CHAIN_GROUPS` entry in `generate_vault.py` in the same commit
 - Chains layout (split 2026-11-14): `chains-log.md` and `chains-threads.md` hold the rules, registry, holding pen, patterns and open questions; entries are in `metadata/chains-log/` by year, rosters in `metadata/chains-threads/` by slug. `chains_io.py` reads them together for `validate_chains.py` and `generate_vault.py`. `last_updated` is carried by the two front-door files only
-- Quotes in context (2026-11-14): in the unpublished Chains (working) pages, every record has a fold-out showing the paragraph its quoted words come from. `generate_vault.py` reports how many quoted passages it could not locate; that number is 0 and should stay 0. The published chain pages link to whole messages only, never to a passage, by the curator's ruling
-- Read the project doc `claude/chains-layer-handoff.md` before any chains work: it carries the standing rulings (no counts, intervals or rank claims; plain language; quotes are the message's own words; the six NOTE kinds), how the validator works, what was noticed and not yet dealt with, and the open questions
+- Context notes are retired (2026-11-20): the log holds only what develops threads. Older context notes stay until the context-note audit moves them (see Deferred); the validator still accepts the kind until then
+- Quotes in context (2026-11-14): in the unpublished Threads (working) pages, every record has a fold-out showing the paragraph its quoted words come from. `generate_vault.py` reports how many quoted passages it could not locate; that number is 0 and should stay 0. The published thread pages link to whole messages only, never to a passage, by the curator's ruling
+- Read the project doc `claude/chains-layer-handoff.md` before any chains work: it carries the standing rulings (no counts, intervals or rank claims; plain language; quotes are the message's own words; the NOTE kinds), how the validator works, what was noticed and not yet dealt with, and the open questions
+- No rank claims anywhere in the repository (2026-11-20): never call a message the first, earliest or latest, whether in the archive or "in hand", in notes, spirit files or the chains layer
+- Subjects are subcategory names only (2026-11-20): main category names are never used as subjects. Some older messages still carry one (the subject census at the end of `validate_messages.py` counts them)
 - The door is one or two sentences within 300 characters (ruling 2026-11-15)
 - Direct Voice: a "(DV)" in a source title means a Direct Voice sitting. Set `gathering: "Direct Voice"` and leave "(DV)" out of the catalogued title. A Direct Voice sitting held during a retreat keeps the retreat name, with the setting in `notes`. These sittings become frequent in the later years
-- Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and the log carries a context note pointing to it. Declarations to affirm, and a circle's own prayer that a spirit quotes, get no practice file; the context note says so
+- Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and nothing else points to it. Declarations to affirm, and a circle's own prayer that a spirit quotes, get no practice file
 - "Not publicly posted online." is retired (2026-10-12): a blank `canonical_url` alone records that no public copy is known
 - Portal watch closed 2026-08-06 on the minting of `portals`; portal sightings continue as ordinary thread traffic (2016-03-25 loose → 2016-08-25 established → 2018-11-21 and 2019-01-26 doctrine → 2019-04-06 boundary)
 - Mediums on file: Al Fike (af), Barbara Davies (bd), Maureen Cardoso (mc), Dr. Daniel Samuels (ds), Jimbeau Walsh (jw), anonymous (xx)
 - sri-yukteswar (Yogananda's guru) has a spirit file; he channels later and is distinct from sri-yarisupta
 - Kay Dunbar (passed 2019-04): mother of Jeanne Fike (wife of Al Fike) and Judy Dunbar; her "dear Albert" is Al Fike; watch for her later message through him
 - Alec Gaunt hosted Direct Voice prayer circles in his earth life, by the curator's account. His spirit file records only what messages state, so add it when a message says so
+- Publishing: the site is made by Obsidian Publish from the generated vault, with `Threads (working)` and `Notes` left out; nothing is changed by hand once it is live. On the site, chains are called threads; the repository keeps its own names. The vault uses the Front Matter Title plugin (Graph feature only) and Sync Graph Settings
 - Subject vocabulary: 117 names; CI validates every subject and prints a usage census on every push
 
 ## Deferred / pending
 
-- Chains reading of the 2016 messages that carry no log entry, and of 2014-10-11-af-confucius and 2014-12-15-af-mary (the handoff lists them)
+- Chains reading of the messages that have no log entry (the handoff lists the 2014 and 2016 ones)
+- Context-note audit: move each older context note in the log to the message's `notes` or the spirit or medium file, drop the prayer-file pointers, then retire the `(context)` kind in `validate_chains.py`, the `chains-log.md` design block and the handoff together. Propose the moves to the curator first
+- Main category sweep: give each older message that carries a main category name a subcategory instead (the subject census at the end of `validate_messages.py` shows which main category names are still used)
 - Chrysalis audit (the handoff lists the candidates; `soul-expiation` holds 2018-07-14-af-seretta-kem as a candidate)
-- "The gift and the channel" pattern may become a holding-pen candidate as the Direct Voice messages are read
-- `MAINTAINERS-GUIDE.md` has two boxes for the curator to fill in: who holds access to the accounts, and the publishing details
 - The Cowork Prompt Kit is retired in favour of the Conversation Prompt Kit; remove it when ready
 - audio_url to be populated as recordings are found
-- Possible tenth collection for children/the young (Children & Future Generations subject exists; watch volume)
+- Possible tenth collection for children and the young (Children & Future Generations subject exists)
 - Usage census data to inform a possible future merge of the two Surrender subjects
 - Keyword frequency analysis (curator's Obsidian note): hub pages for 5+ frequency keywords if warranted
 - The who-jesus-was Foundation anchor is a three-way build-time choice (1963-12-26-ds-mary, 2018-11-26-af-jesus, 2019-01-27-af-jesus)

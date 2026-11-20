@@ -203,8 +203,8 @@ message_type: ["Teaching"]             # exactly one of: Blessing, Guidance, Tea
 description: >
   A message encouraging disciples to walk confidently in God's light
   and share His Love with the world.
-primary_subjects: "Divine Love & Relationship with God"   # exactly one main subject
-secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]  # up to five
+primary_subjects: "Receiving the Divine Love through Prayer"   # exactly one subject, a subcategory name
+secondary_subjects: ["Walking the Divine Path", "Discipleship"]  # up to five, subcategory names
 people: []          # living humans mentioned (not the medium)
 spirits: ["andrew", "augustine"]         # other spirits mentioned besides the primary spirit
 keywords: ["discipleship", "service", "light", "divine love"]
@@ -254,8 +254,8 @@ All messages have been read and approved by the medium prior to posting. Please 
 | **gathering** | string | The name of the retreat, gathering, or event at which the message was received. Leave blank for an unnamed home circle. A named prayer circle that meets regularly, such as an online Circle of Light, uses its own name. Use the name exactly as it is given, without adding words such as "Retreat". Use a consistent name for all messages from the same event. DLSF Board Meetings use the consistent name `"DLSF Board Meeting"`, and messages received while the Direct Voice circle sits, praying for the physical manifestation of celestial spirits, use `"Direct Voice"`. A Direct Voice sitting held during a retreat takes the retreat name here and records the Direct Voice setting in `notes`. | `"August 2015 Gibsons Retreat"` |
 | **message_type** | array of strings | Exactly one of: **Blessing, Guidance, Teaching**. Choose the single label that best describes the message. `Teaching` is reserved for structured doctrinal lessons; `Blessing` is purely affirming and prayerful with no instructional content; any directive content makes it `Guidance`. When in doubt between Blessing and Guidance, choose Guidance. | `["Teaching"]` |
 | **description** | string (block scalar) | A short (1-2 sentence) summary describing the purpose or insight of the message. Maximum 600 characters (enforced by the schema). Use YAML block scalar format (`>`) to prevent long lines. | `description: >`<br>`  Encouragement to release fear and trust God's protection.` |
-| **primary_subjects** | string | The single most relevant subject drawn from any level of the subject hierarchy, top category or subcategory. Represents the central theme of the message. Must be a name defined in `metadata/subjects.yml`. | `"Free Will & Human Error"` |
-| **secondary_subjects** | array of strings (up to 5) | Up to five additional subjects drawn from any level of the subject hierarchy, top category or subcategory. Choose the most relevant subjects regardless of hierarchy level. Each must be a name defined in `metadata/subjects.yml`. | `["Divine Will, Guidance & Orchestration", "Earthly Challenges & Human Condition"]` |
+| **primary_subjects** | string | The single most relevant subject. Represents the central theme of the message. Must be a subcategory name defined in `metadata/subjects.yml`, never a main category name (see Subjects in Section 6). | `"Free Will & Human Error"` |
+| **secondary_subjects** | array of strings (up to 5) | Up to five additional subjects, the most relevant ones. Each must be a subcategory name defined in `metadata/subjects.yml`, never a main category name. | `["Divine Plan & Timing", "Emotional Struggles"]` |
 | **people** | array of strings | Names of living human beings mentioned (excluding the medium). Deceased historical figures who have a spirit file belong in `spirits[]`, not here, James Padgett always goes in `spirits[]`. | `["James Padgett", "Helen Padgett"]` |
 | **spirits** | array of strings | `spirit_id` values of other spirits mentioned besides the primary spirit author. Only spirits with an existing file in `/spirits/` may be listed (validator-enforced); a mentioned figure without a spirit file stays in the body and keywords, and a new spirit file may be proposed to the curator if the figure will recur. Must match filenames in `/spirits/` exactly, always lowercase kebab-case. | `["john-the-beloved", "mary"]` |
 | **keywords** | array of strings | Free-form topical tags or short phrases to improve search and categorization. | `["trust", "peace", "faith", "guidance"]` |
@@ -329,7 +329,7 @@ description: >
   A message encouraging disciples to walk confidently in God's light
   and share His Love with the world.
 primary_subjects: "Receiving the Divine Love through Prayer"
-secondary_subjects: ["Spiritual Discipline & Daily Living", "Service & Ministry"]
+secondary_subjects: ["Walking the Divine Path", "Discipleship"]
 people: []
 spirits: ["andrew", "augustine"]
 keywords: ["discipleship", "service", "light", "divine love"]
@@ -423,7 +423,7 @@ Additional rules:
 - Never restate the description. The notes field is for reference items only; if it repeats what the description already says, remove it.
 - Never record cataloguing rationale or spirit-attribution reasoning (for example, why a figure is or is not in `spirits[]`). That discussion belongs in the cataloguing session, not the archive.
 - Never reference message order ("first message", "second message"), messages are not catalogued in chronological order.
-- Never authoritatively declare a "first" (a spirit's or medium's first message, first channeling, earliest ever) unless the record can guarantee it; say "earliest in hand." A person's own self-description in their biography may be kept in their words.
+- Never declare a "first", an "earliest" or a "latest" (a spirit's or medium's first message, first channeling, the earliest message in the archive), and never hedge one with "in hand" or "so far". Messages are added out of order, at both ends of the archive and in the middle, so any such claim goes stale without anyone editing it. A person's own self-description in their biography may be kept in their words.
 - Be true to the message: notes and metadata must not assert anything the message text does not say.
 - No forward-looking statements.
 - **Medium's editorial notes**, when a published message is bracketed by the medium's own framing (their words, not channeled text), keep it out of the message body and preserve it **verbatim, in quotes**, in the `notes` field.
@@ -439,7 +439,7 @@ Questions should be written as a real seeker would type them into a search engin
 
 ### Subjects
 
-`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. If a needed subject does not exist, propose it to the curator first; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. Use the most specific subject that fits. Use a top-level category only when the message ranges across several of its subjects and none of them captures it, or when the category names a theme that none of its subjects covers. Never tag a top-level category together with one of its own subjects. When a message uses a named spiritual Law as a working Law, add it as a secondary subject. A Law is used as a working Law when it is named alongside other Laws as one that operates, or when the passage describes the Law doing what its definition in `subjects.yml` says. A general phrase such as "in harmony with God's laws of Love" does not count; record such a message in `metadata/law-mentions-reviewed.yml`, which keeps the validator's review warning from repeating. When a message refers to a spiritual Law without naming it, that Law may also be added as a secondary subject, with the curator's approval.
+`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. Subjects are always subcategory names. The main category names in `subjects.yml` group the subjects and are never used as a subject themselves, so that every message is filed in its proper place. Use the most specific subcategory that fits. If none fits, propose a new subject to the curator rather than reaching for the main category; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. Some older messages still carry a main category name; when one of them is touched, choose a subcategory in its place. When a message uses a named spiritual Law as a working Law, add it as a secondary subject. A Law is used as a working Law when it is named alongside other Laws as one that operates, or when the passage describes the Law doing what its definition in `subjects.yml` says. A general phrase such as "in harmony with God's laws of Love" does not count; record such a message in `metadata/law-mentions-reviewed.yml`, which keeps the validator's review warning from repeating. When a message refers to a spiritual Law without naming it, that Law may also be added as a secondary subject, with the curator's approval.
 
 ### Spirit Names in Keywords
 
@@ -509,16 +509,16 @@ When adding or editing messages, please follow these YAML guidelines.
    ```
  - All field names must be **snake_case exactly as shown**, do not capitalize them (e.g., `spirit:` not `Spirit:`, `message_type:` not `MessageType:`).
  - The **`spirits` field uses `spirit_id` values** (lowercase kebab-case, matching the spirit's filename), not display names. This ensures consistent searchability. Example: `["john-the-beloved", "mary"]` not `["John the Beloved", "Mary"]`. The **`people` field** is the exception, since living people don't have profile files, use their full display names there.
- - **`primary_subjects` and `secondary_subjects`** can reference any level of the subject hierarchy, top category or subcategory. Always choose the most specific and relevant subject, regardless of its level. `secondary_subjects` is capped at five.
+ - **`primary_subjects` and `secondary_subjects`** take subcategory names only, never a main category name. Always choose the most specific and relevant subject. `secondary_subjects` is capped at five.
 
 ### Example of good formatting
 
 ```yaml
 message_type: ["Teaching"]
-primary_subjects: "Spiritual Discipline & Daily Living"
+primary_subjects: "Walking the Divine Path"
 secondary_subjects:
-  - "Spiritual Discipline & Daily Living"
-  - "Service & Ministry"
+  - "Prayer & Devotion"
+  - "Discipleship"
 essential_teachings: ["Core Teaching"]
 collections: ["Jesus Speaks"]
 location:
@@ -544,6 +544,7 @@ location:
 | Using old field names | Fields have been renamed | `collections` not `series`; `essential_teachings` not `significance` |
 | Using old `essential_teachings` values | Values have been renamed | `"Core Teaching"` not `"Key Teaching"`; `"Prophecy"` not `"Prophetic"`; `"Divine Healing"` not `"Healing"`; `"Spirit Biography"` not `"Biographical"` |
 | Invented subject names | Subjects must exist in `metadata/subjects.yml` | Check the vocabulary; propose additions to the curator |
+| A main category name as a subject | Subjects are subcategory names only | `"Prayer & Devotion"`, not `"Spiritual Discipline & Daily Living"` |
 
 
 ## 8. Contributor Checklist
@@ -554,7 +555,7 @@ Before committing a new message:
  - ✅ The **spirit_id** matches a filename in the `/spirits/` folder exactly
  - ✅ The **title**, **date**, **spirit_id**, and **medium** are filled in
  - ✅ Exactly one **message_type** and one **primary_subjects** are present
- - ✅ Every value in **primary_subjects** and **secondary_subjects** exists in `metadata/subjects.yml`
+ - ✅ Every value in **primary_subjects** and **secondary_subjects** is a subcategory name in `metadata/subjects.yml`, never a main category name
  - ✅ **Optional fields are present but left blank if unknown** (e.g., `audio_url: ""` or `spirits: []`), do not omit them entirely, as validators expect all fields to be present
  - ✅ All IDs in **related_messages** are lowercase and match existing `message_id` values exactly
  - ✅ **related_messages** contains subject connections only, not date proximity, retreat, or location connections, listed chronologically (earliest first), with reciprocal links added to the other files
@@ -606,7 +607,7 @@ message_type: ["Teaching"]
 description: >
   Uma mensagem encorajando os discípulos a caminharem com confiança
   na luz de Deus.
-primary_subjects: "Divine Love & Relationship with God"
+primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects: []
 people: []
 spirits: []

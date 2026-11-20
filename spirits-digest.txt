@@ -126,6 +126,20 @@ notes: >
   times over the many years I have had an association here. I have come in the
   flesh. I have come in spirit. I have worked with many of you who are here."
 
+
+  In 2017-06-12-af-alec-gaunt he tells of his own path and of his attempt at
+  Direct Voice in his earth life. He began through Spiritualism, "I started my
+  spiritual path through spiritualism," and after he found the Divine Love he
+  "wished to combine these two truths and ambitions into one, to bring the
+  high teachers through and direct voice was my ambition." The attempt did not
+  succeed: "I carried this almost single-handedly although I certainly had my
+  assistants and those who prayed with me," and "as a group we lacked the soul
+  development to allow this power to manifest as we so desired." He calls
+  himself bonded to the circle he speaks to, "as you know we are bonded. I am
+  your brother." He says Seretta Kem now leads the circle's development and
+  its Direct Voice work, and asks the circle to study Seretta Kem's messages:
+  "Listen to them more than once."
+
 ========================================================================
 FILE: spirits/aman.yml
 ========================================================================
@@ -200,9 +214,9 @@ notes: >
   his own ascension into the Celestial Kingdom).
 
   From 2016-09-02-af-augustine, the duration and the ground of his present
-  condition, stated together for the first time in the messages in hand: "I
-  have spent many centuries in the world of Spirit and I now reside within the
-  Celestial Heavens, for my soul has been redeemed by the Father's Love."
+  condition, stated together: "I have spent many centuries in the world of
+  Spirit and I now reside within the Celestial Heavens, for my soul has been
+  redeemed by the Father's Love."
 
 ========================================================================
 FILE: spirits/barbara-davies.yml
@@ -340,7 +354,14 @@ spirit_id: confucius
 spirit_name: "Confucius"
 spirit_aliases: []
 spirit_description: "Confucius (551–479 BC), Chinese philosopher and founder of Confucianism, now a celestial spirit and gentle teacher in the Divine Love messages, guiding souls toward prayer, fellowship, and the transforming gift of God's Divine Love."
-notes: "States that he resides within the Celestial Kingdom. Source: 2016-04-13-af-confucius."
+notes: >
+  States that he resides within the Celestial Kingdom. Source:
+  2016-04-13-af-confucius.
+
+
+  In 2017-06-24-af-confucius he says he is part of the circle's Direct Voice
+  work, "I, too, am involved in this effort and I will help to bring healing
+  and to mix chemicals, to tend to each one of you."
 
 ========================================================================
 FILE: spirits/elijah.yml
@@ -895,8 +916,7 @@ notes: >
   made in this publication which is indeed meant to be widely distributed."
 
   He opens 2014-10-11-af-judas with "I have not spoken through this instrument
-  for quite some time," so communications through Al Fike predate the earliest
-  Judas message held in the archive.
+  for quite some time," so he had spoken through Al Fike before this message.
 
   In 2016-11-29-af-judas he says he does not speak often and wishes to speak
   more often to his brothers and sisters in this world, and he invites anyone
@@ -1178,15 +1198,14 @@ spirit_description: >
   between what the mind produces and what the soul knows.
 notes: >
   Her account of her Earth life comes from 1963-12-26-ds-mary, received
-  through Dr. Daniel Samuels, which is the earliest message in the archive.
-  It is the source for her marriage to Joseph, the eight children, the naming
-  of Judah, Jacob, Leah, and Rachel, the denial of the virgin birth, the
-  family's belief that Jesus was deranged, her understanding arriving at the
-  foot of the cross, and the breaking of the household afterward. She states
-  in that message that "Judah and Thomas became his apostles"; Thomas's
-  relation to the family is not stated explicitly, so it is left open here.
-  She signs the message "Mother of Jesus and Celestial Spirit" and says she
-  communicated with the approval of Jesus.
+  through Dr. Daniel Samuels. It is the source for her marriage to Joseph, the
+  eight children, the naming of Judah, Jacob, Leah, and Rachel, the denial of
+  the virgin birth, the family's belief that Jesus was deranged, her
+  understanding arriving at the foot of the cross, and the breaking of the
+  household afterward. She states in that message that "Judah and Thomas
+  became his apostles"; Thomas's relation to the family is not stated
+  explicitly, so it is left open here. She signs the message "Mother of Jesus
+  and Celestial Spirit" and says she communicated with the approval of Jesus.
 
 
   Doctrinal contributions elsewhere in the archive: in 2016-05-02-af-mary she
@@ -1437,6 +1456,14 @@ notes: >
   God's Name and Will and Love."
 
 
+  In 2017-06-06-af-seretta-kem he says he has come "to give further guidance
+  on Direct Voice," and asks a member of the circle to take part in the
+  Direct Voice work. In 2017-06-12-af-alec-gaunt, Alec Gaunt says Seretta Kem
+  leads the circle's development and its Direct Voice work, "Seretta Kem, who
+  is indeed a powerful and very advanced soul, is in charge of your
+  development at this time and of this project."
+
+
   Further messages on his central subjects include 2016-04-13-af-seretta-kem,
   The Greatest Healing Energy of All Is God's Divine Love, and
   2019-01-26-af-seretta-kem, Establishing Portals.
@@ -1547,7 +1574,10 @@ spirit_description: >
   truth as he understood it. In the Divine Love messages he speaks as a
   Celestial spirit, encouraging those gathered to trust the insights and visions
   God brings to the soul and to prepare for service in the world.
-notes: ""
+notes: >
+  In 2017-06-05-af-stephen he names himself, "I am Stephen, known as St.
+  Stephen while on earth," and says, "I have not spoken through this
+  instrument before."
 
 ========================================================================
 FILE: spirits/tahlia.yml

@@ -79,14 +79,15 @@ properties:
   primary_subjects:
     type: string
     description: >
-      The single most relevant subject from any level of the subject hierarchy
-      (top category or subcategory). Choose the most specific and relevant subject
-      regardless of its level in the hierarchy.
+      The single most relevant subject: a subcategory name from
+      metadata/subjects.yml, never a main category name. Choose the most
+      specific and relevant subject.
 
   secondary_subjects:
     type: array
     description: >
-      Up to five additional subjects from any level of the subject hierarchy.
+      Up to five additional subjects, each a subcategory name from
+      metadata/subjects.yml, never a main category name.
     items:
       type: string
     uniqueItems: true

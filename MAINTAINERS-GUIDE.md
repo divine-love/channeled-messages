@@ -229,7 +229,7 @@ Section 4 of `schema/schema.md` explains every field. `content/templates/message
 3. **Create the file** in the folder for its year and month, starting from the template.
 4. **Paste in the message text.** If it is published at divinelovesanctuary.com, check it against the published page and put that page's address in `canonical_url`. If it is not published, leave `canonical_url` empty.
 5. **Review the text.** Fix spacing faults and clear typing errors. Leave grammar and wording alone.
-6. **Fill in the catalogue fields,** following `schema/schema.md`. Take every subject from `metadata/subjects.yml`, spelled exactly as it is there.
+6. **Fill in the catalogue fields,** following `schema/schema.md`. Take every subject from `metadata/subjects.yml`, spelled exactly as it is there. Use subcategory names only: the main category names group the subjects and are never used as a subject.
 7. **Check the spirit and medium have files.** If the spirit is new, create `spirits/<spirit_id>.yml` from its template. If the message tells you something about the spirit's life, add it to the spirit's file and name the message it came from. Record only what a message says.
 8. **Add related messages,** and add this message to each of theirs, so the links go both ways. Keep each list in date order.
 9. **If a spirit gives a prayer,** make its practice file from `content/templates/prayer-template.md`, named `prayer-<message_id>.md`.

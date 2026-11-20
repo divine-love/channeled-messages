@@ -33,9 +33,9 @@ message_type: ["Guidance"]             # REQUIRED. Exactly one of: Blessing, Gui
 description: >                         # REQUIRED. 1-2 sentence curator summary (max ~600 chars).
   One or two sentences describing the heart of this message, its emphasis, and intended comfort or instruction.
 
-primary_subjects: Main Subject         # REQUIRED. Exactly one subject from subjects.yml at any level of the hierarchy.
+primary_subjects: Main Subject         # REQUIRED. Exactly one subcategory name from subjects.yml, never a main category name.
 
-secondary_subjects:                    # OPTIONAL. Up to five subjects from any level of the hierarchy.
+secondary_subjects:                    # OPTIONAL. Up to five subcategory names from subjects.yml.
   # - Another Subject
   # - Optional Second Subject
 
