@@ -372,7 +372,8 @@ only stating it.
   Angels and God's Hand upon you to guide you through";
   2017-06-24-af-confucius, "know that we are with you always";
   2017-07-03-af-andrew, "I accompany you on your journeys and shall do so for
-  all eternity";
+  all eternity"; 2017-07-09-af-matthew, "As you live through each day we will
+  walk with you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -382,11 +383,20 @@ only stating it.
   "every soul who desires to be guided is blessed and accompanied by an angel
   or many angels." And Jesus assigns Celestial spirits as guides to mortals
   who walk the path of Love: 2017-05-19-af-laila, given to a group as its
-  protector, "He has asked me to be your protector";
+  protector, "He has asked me to be your protector"; 2017-07-09-af-matthew, a
+  council of angels appointed to a circle and a guide named for each member,
+  without saying who appointed them, "These guides have been specially
+  selected in accordance to your needs and ability to communicate with these
+  beautiful souls";
   2019-01-30-af-seretta-kem, "Jesus assigns these
   guides in his wisdom," a role given to "many of us in the Celestial
   Kingdom"; 2019-02-21-af-elijah, a guide naming himself to one man, "My son,
   I continue to guide you." None argues it; each message asserts its step.
+  2017-07-09-af-matthew shows the accompaniment from the side of the spirits
+  who give it, in one circle: the guides were chosen for each person, gave up
+  other work to come, and draw closer as the members get ready. Matthew tells
+  it as one of the spirits who give the accompaniment, so it is a Testimony,
+  a first-hand account rather than a teaching.
   Fence: `free-will-and-self-responsibility` carries help waiting on the
   asking as part of a law about the seeker's own will; this candidate is about
   who accompanies the seeker and when. Mint when a message develops the

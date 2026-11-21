@@ -69,6 +69,8 @@
   front of this line, this wave of change, and this is not easy";
   2017-04-20-af-augustine, "surprising opportunities, unanticipated, that will
   allow you to take this leap forward in a very overt and recognized way";
+  2017-07-09-af-matthew, the circle "guided to those places in this world
+  where you are needed";
   2018-06-18-af-matthew carries the vanguard title as its door, "You are the
   vanguards seeking to move forward... into a new dawn of Love and Truth that
   God intends for this world," with the circle cast as explorers rather than

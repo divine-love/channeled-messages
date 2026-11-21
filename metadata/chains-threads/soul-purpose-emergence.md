@@ -99,6 +99,9 @@
   felt now as a calling, "you feel the calling, you feel like you are meant
   to do something important," and chosen again now, "you have now chosen to
   utilise your gifts."
+  2017-07-09-af-matthew, the choice made before birth and the gifts given for
+  it, "You chose this before you were even incarnated. God has given you a
+  purpose, a plan, the gifts and abilities to bring this forth in the world."
   2019-01-30-af-seretta-kem, the
   purpose as a commitment made before birth that the soul still knows, "your
   commitment in this regard was made before you came to Earth... and that your

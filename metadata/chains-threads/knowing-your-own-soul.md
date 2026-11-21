@@ -40,6 +40,11 @@
   are one movement. He extends it outward as well, "to be an agent of change
   in the world one must change within to carry a deep love and compassion for
   humanity. In this way, you will understand the Will of God."
+  Objection-removed. 2017-07-09-af-matthew answers the worry that stops a
+  seeker on this road, "You may say I do not know my soul well," by telling
+  them they already know it when they pray, "You do so in your prayers, you
+  feel this connection, this intimacy, this surety, that yes this is who I
+  am."
   Witnesses. 2015-08-17-af-peter gives the exclusive form, "knowing your souls
   you are able to know God... There is no other sure way to do this, my
   beloveds. There is no other way to at-onement with God," held at witness
@@ -77,3 +82,7 @@
   2016-12-05-af-keea-atta-kem points toward the first, the gathered knowing
   translated "through your minds to others," but gives it as a promise rather
   than developing it.
+  Structural note: the Foundation says "it is not easy for you to know your
+  souls," and 2017-07-09-af-matthew says the soul is one "you may easily and
+  readily connect with," speaking to people who already feel it when they
+  pray. Weigh at build whether the thread says how the two fit.

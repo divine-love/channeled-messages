@@ -74,7 +74,9 @@
   between soul lights, "what is within the mind has very little bearing upon
   this great Law of Attraction"; 2017-03-05-af-luke, a diverse circle drawn
   together by the soul whatever the mind holds, "No matter the thoughts of
-  the mind... it is the soul that draws you together."
+  the mind... it is the soul that draws you together";
+  2017-07-09-af-matthew, "you will need one another in the coming times, for
+  strength, for wisdom, guidance, support and fellowship."
   Fences. Against `religious-error`: that thread is the error institutions
   accumulate; this one is what gathering does for the seeker. The two meet in
   2015-06-15-af-joseph-smith, where the institution is refused and the

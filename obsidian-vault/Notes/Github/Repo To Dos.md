@@ -453,3 +453,225 @@ _Teaching, Testimony & Instruction (1)_
 
 - **A prayer and a talk** have the same problem: prayer-2016-09-04-af-john-the-beloved and the talk 2015-02-01-af-lifes-choices.
 - **A possible stray asterisk:** the title of 2016-04-04-af-augustine ends with one, “God Provides for Those Who Serve*”. 
+
+
+
+
+** Threads Missing Roster witnesses:**
+
+## armour-of-the-world
+
+- 2017-12-12-af-seretta-kem (witness)
+
+## bell-toll-instrumentality
+
+- 2016-08-17-af-james-padgett (witness)
+- 2017-03-30-af-jesus (witness)
+- 2017-05-22-af-andrew (witness)
+
+## conduit-not-scripture
+
+- 2015-08-20-af-james-padgett (witness)
+- 2016-12-08-af-confucius (witness)
+
+## divine-love-mediumship
+
+- 2015-08-20-af-james-padgett (witness)
+- 2017-06-14-af-augustine (witness)
+
+## divine-love-without-knowing
+
+- 2016-12-09-af-martin-luther (witness)
+- 2017-05-13-af-yogananda (witness)
+- 2017-05-20-af-jesus (witness)
+
+## earth-changes
+
+- 2016-12-08-af-augustine (witness)
+- 2017-06-23-af-seretta-kem (witness)
+- 2018-01-21-af-professor-salyards (witness)
+
+## earth-conditions-and-prayer
+
+- 2016-12-05-af-keea-atta-kem (witness)
+- 2017-05-25-af-seretta-kem (witness)
+
+## fear-of-full-immersion
+
+- 2016-12-08-af-confucius (witness)
+- 2018-07-22-af-seretta-kem (witness)
+
+## free-will-and-gods-plan
+
+- 2017-05-22-af-andrew (witness)
+- 2017-06-06-af-seretta-kem (witness)
+- 2017-06-14-af-augustine (witness)
+
+## free-will-and-self-responsibility
+
+- 2017-06-12-af-seretta-kem (witness)
+- 2017-06-23-af-seretta-kem (witness)
+- 2017-09-12-af-martin-luther (witness)
+- 2017-12-12-af-seretta-kem (witness)
+- 2017-12-18-af-martin-luther (witness)
+- 2018-06-24-af-luke (witness)
+- 2018-07-14-af-seretta-kem (witness)
+- 2018-07-22-af-seretta-kem (witness)
+
+## guidance-as-seed
+
+- 2017-06-04-af-jesus (witness)
+
+## incremental-journey
+
+- 2016-04-02-af-jesus (witness)
+- 2016-12-05-af-keea-atta-kem (witness)
+- 2016-12-08-af-augustine (witness)
+- 2016-12-08-af-confucius (witness)
+- 2017-05-20-af-jesus (witness)
+- 2017-09-12-af-augustine (witness)
+- 2017-09-12-af-martin-luther (witness)
+- 2017-12-18-af-martin-luther (witness)
+- 2018-06-24-af-luke (witness)
+
+## judgment-to-love
+
+- 2017-05-13-af-yogananda (witness)
+- 2017-05-21-af-aekarius (witness)
+
+## knowing-your-own-soul
+
+- 2017-05-21-af-aekarius (witness)
+- 2017-05-21-af-augustine (witness)
+- 2017-11-03-af-nikola-tesla (witness)
+
+## mind-vs-soul
+
+- 2016-08-17-af-james-padgett (witness)
+- 2017-05-19-af-gandhi (witness)
+- 2017-06-08-af-augustine (witness)
+- 2017-06-12-af-seretta-kem (witness)
+- 2017-06-23-af-seretta-kem (witness)
+- 2017-06-24-af-confucius (witness)
+- 2017-06-28-af-augustine (witness)
+- 2017-07-03-af-andrew (witness)
+- 2017-07-06-af-seretta-kem (witness)
+- 2017-09-12-af-augustine (witness)
+- 2017-10-25-af-yogananda (witness)
+- 2017-12-18-af-martin-luther (witness)
+- 2018-06-24-af-luke (witness)
+- 2018-09-30-af-augustine (witness)
+
+## opposition-to-the-light-worker
+
+- 2016-09-11-af-francis-of-assisi (witness)
+- 2016-12-10-af-james (witness)
+
+## prayer-changes-world-conditions
+
+- 2016-12-07-af-jesus (witness)
+- 2016-12-09-af-martin-luther (witness)
+- 2016-12-10-af-andrew (witness)
+- 2017-05-19-af-laila (witness)
+- 2017-06-28-af-peter (witness)
+- 2017-12-12-af-seretta-kem (witness)
+
+## prayer-soul-longing
+
+- 2016-12-07-af-jesus (witness)
+- 2017-05-20-af-jesus (witness)
+- 2017-06-28-af-augustine (witness)
+- 2017-06-28-af-peter (witness)
+
+## preparation-to-be-a-rock
+
+- 2014-07-26-af-augustine (witness)
+- 2015-10-26-af-faith-nyquist (witness)
+- 2016-03-16-af-jesus (witness)
+- 2016-05-16-af-simon (witness)
+- 2016-08-02-af-augustine (witness)
+- 2016-08-26-af-augustine (witness)
+- 2016-08-26-af-jesus (witness)
+- 2016-08-27-af-augustine (witness)
+- 2016-09-14-af-augustine (witness)
+- 2016-10-15-af-confucius (witness)
+- 2016-12-07-af-jesus (witness)
+- 2018-01-21-af-professor-salyards (witness)
+
+## provision-for-service
+
+- 2016-12-10-af-james (witness)
+- 2017-05-19-af-gandhi (witness)
+- 2017-06-24-af-confucius (witness)
+- 2018-01-21-af-professor-salyards (witness)
+
+## redemption-universal
+
+- 2017-12-12-af-seretta-kem (witness)
+
+## self-love-foundation
+
+- 2017-05-21-af-aekarius (witness)
+- 2017-06-08-af-augustine (witness)
+- 2017-09-12-af-augustine (witness)
+- 2018-07-22-af-seretta-kem (witness)
+- 2018-09-30-af-augustine (witness)
+
+## sensitive-souls-redemptive
+
+- 2017-05-21-af-aekarius (witness)
+- 2018-07-14-af-seretta-kem (witness)
+
+## simplicity-of-the-path
+
+- 2015-08-20-af-james-padgett (witness)
+- 2016-08-17-af-james-padgett (witness)
+- 2017-05-13-af-yogananda (witness)
+- 2017-05-19-af-laila (witness)
+- 2017-05-20-af-jesus (witness)
+- 2017-05-21-af-augustine (witness)
+- 2017-05-22-af-andrew (witness)
+- 2017-06-04-af-jesus (witness)
+- 2017-06-28-af-augustine (witness)
+- 2017-12-12-af-seretta-kem (witness)
+
+## soul-expiation
+
+- 2017-05-21-af-aekarius (witness)
+- 2017-07-03-af-andrew (witness)
+- 2017-09-12-af-augustine (witness)
+
+## soul-faculties
+
+- 2016-12-05-af-keea-atta-kem (witness)
+- 2016-12-08-af-augustine (witness)
+- 2017-05-21-af-aekarius (witness)
+- 2017-06-28-af-augustine (witness)
+- 2017-07-03-af-andrew (witness)
+- 2017-11-03-af-nikola-tesla (witness)
+
+## soul-purpose-emergence
+
+- 2016-12-10-af-james (witness)
+- 2017-06-23-af-seretta-kem (witness)
+
+## speaking-the-truth
+
+- 2016-12-08-af-augustine (witness)
+- 2017-06-12-af-seretta-kem (witness)
+- 2017-12-12-af-seretta-kem (witness)
+
+## spiritual-fellowship
+
+- 2016-12-10-af-andrew (witness)
+- 2017-05-20-af-jesus (witness)
+- 2017-05-21-af-mary (witness)
+- 2017-06-24-af-confucius (witness)
+
+## vanguards-of-change
+
+- 2016-12-05-af-keea-atta-kem (witness)
+- 2016-12-08-af-confucius (witness)
+- 2016-12-09-af-martin-luther (witness)
+- 2017-05-19-af-gandhi (witness)
+- 2017-09-12-af-confucius (witness)

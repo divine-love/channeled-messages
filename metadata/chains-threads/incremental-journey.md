@@ -22,6 +22,10 @@
   Truth, bringing it within you, letting it settle and then expressing this
   Truth in your lives," and makes even the step that looks like a chasm
   "merely another step upon the road of awakening and soul growth";
+  2017-07-09-af-matthew has the going back and forth between the mind and the
+  soul wear a path, so the soul is easier to reach each time, "the path
+  becomes well trod and your ability to be in the state of soul consciousness
+  is more readily accessible";
   2019-01-28-af-matthew-2 develops the why from the human
   side, the most tenacious soul conditions "stick to you with such tenacity"
   and require equal force of yearning to break, so the seeker chooses between

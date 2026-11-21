@@ -66,7 +66,10 @@
   desire and mind, the instruments "required to make effort to be clear and
   focussed";
   2017-05-13-af-yogananda, a rapport with a living man already under way from
-  the spirit's side, "we have many conversations in spirit as you sleep."
+  the spirit's side, "we have many conversations in spirit as you sleep";
+  2017-07-09-af-matthew, each member of a circle able to hear from the angels
+  given to them, "Each of you has the capacity to receive guidance from these
+  angels who are assigned to you."
   Structural note: the Foundation section's anchor is an open choice.
   2016-03-27-af-seretta-kem holds it as a developed statement of the
   mechanism, with 2016-12-06-af-seretta-kem the fuller laws-and-conditions

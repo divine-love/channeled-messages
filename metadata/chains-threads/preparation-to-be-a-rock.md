@@ -96,7 +96,9 @@
   2016-12-28-af-alec-gaunt, "for you will be a rock. You will be steady in the
   storms to come," with awareness of the world asked for alongside the gaze
   on God; 2017-01-15-af-peter, "You must prepare within yourselves," with the
-  circle building "an oasis of light"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
+  circle building "an oasis of light"; 2017-07-09-af-matthew, "God has
+  invested a great deal of light within you to prepare you for these moments
+  to come"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
   "As you hold on to one another as the winds blow, so you will support and
   save many from the coming changes," with the bonds forged now for later
   need.

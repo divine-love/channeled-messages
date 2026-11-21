@@ -32,6 +32,11 @@
   and "Resistance will kill this project," and says what the gift is for: in
   a time of fear the spoken word will not be believed, and "A great
   credibility will be given through these manifestations";
+  2017-07-09-af-matthew adds the love between the people who carry it: the
+  wish to know every detail of the gift is not to become "a distraction from
+  the greater purpose of prayer," and their bond, "one that requires trust and
+  honesty, love and commitment," builds "a great capacity for we in spirit to
+  work with you";
   2018-07-22-af-seretta-kem puts the example before the gift, "For you cannot
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues
@@ -50,7 +55,11 @@
   "Do not put the cart before the horse, beloveds."
   Witnesses. 2017-06-05-af-stephen, the medium and those around him being
   made ready, "we are preparing this instrument and those who are associated
-  with him for the gift of direct voice"; 2017-10-25-af-yogananda, the Truth
+  with him for the gift of direct voice"; 2017-06-24-af-confucius, the
+  purpose waiting on the people, "You cannot fulfill a high spiritual purpose
+  if you are not in a spiritual condition that will facilitate these
+  expressions of love"; 2017-07-06-af-seretta-kem, the Love first, "Remember
+  that prayer is the foundation for this effort"; 2017-10-25-af-yogananda, the Truth
   carried "whether you are endowed with the gift of Direct Voice or not";
   2018-06-24-af-luke, "But first you must be the epitome of this Love."
   Fences. Against `divine-love-mediumship`: that thread is how a medium
