@@ -375,7 +375,8 @@ only stating it.
   2017-06-24-af-confucius, "know that we are with you always";
   2017-07-03-af-andrew, "I accompany you on your journeys and shall do so for
   all eternity"; 2017-07-09-af-matthew, "As you live through each day we will
-  walk with you";
+  walk with you"; 2017-07-10-af-augustine, "many from the Celestial Kingdom
+  who accompany you each and every day";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -497,7 +498,8 @@ only stating it.
   "Once you have tasted these Living Waters... you will not turn away";
   2017-02-23-af-andrew, the Light placed in the soul "Never to be
   diminished"; 2017-03-27-af-james, "This is inevitable upon your path for
-  you have already chosen." Fenced from `incremental-journey`,
+  you have already chosen"; 2017-07-10-af-augustine, "You will not stray off
+  this path, no my beloveds." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
   reached a certain measure. Mint when a message states the threshold: that a

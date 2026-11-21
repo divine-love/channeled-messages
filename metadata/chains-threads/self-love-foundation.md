@@ -31,7 +31,9 @@
   step is to truly love yourselves"; 2016-08-26-af-brother-mandus, "when you
   love yourself completely you cannot but love all in this way";
   2017-06-15-af-augustine, "For a soul that truly loves itself and is embedded
-  within this pure Love of God there can be no judgment."
+  within this pure Love of God there can be no judgment"; 2017-07-10-af-augustine,
+  being precious to God as the ground for how the seekers see themselves, "See
+  yourselves as children of God, truly know this, believe it, embrace it."
   Witnesses, compassion in place of condemnation. 2014-12-15-af-mary, "you are
   willing to condemn yourselves for those imperfections which are within and
   this my children is not required"; 2016-03-11-af-luke, "You
