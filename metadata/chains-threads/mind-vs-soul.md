@@ -7,8 +7,8 @@
   defines the distinction rather than applying it; it states the incapacity as
   a limit in kind, not degree.
   The Elaboration section is too large to read as one chronological run and
-  should be built in seven groups, chronological within each; the groups
-  subdivide that one role section and do not add a structural level.
+  should be built in the groups named below, chronological within each; the
+  groups subdivide that one role section and do not add a structural level.
   What the mind is. 2016-01-24-af-augustine, clutter, fear and unworthiness
   obscuring the soul's desire; 2016-02-15-af-augustine, the mind revered and
   nurtured while the soul lies cloistered and encrusted; 2016-05-16-af-simon,

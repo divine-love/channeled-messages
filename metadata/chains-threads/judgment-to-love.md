@@ -71,8 +71,8 @@
   Love," until "you forgive reflexively, no matter the intention of others,"
   with even a small measure of true forgiveness "greater than all good deeds
   done in this world."
-  Witnesses. Three of them give reasons for not judging that are worth
-  weighing at build. 2016-09-02-af-confucius reaches it through comparison,
+  Witnesses. Those that give reasons for not judging are worth weighing at
+  build: 2016-09-02-af-confucius reaches it through comparison,
   since each soul's path is unique and cannot be measured against another's;
   2016-09-11-af-francis-of-assisi reaches it through what can be seen, since
   the one judging cannot see what only God can; 2016-11-07-af-andrew reaches

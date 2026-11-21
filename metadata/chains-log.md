@@ -45,8 +45,8 @@ be built once, against the full set, with the entire arc visible.
   sections, timing lives within each section.
 - **A chain is a PATH, not a BAG.** A collection is unordered membership
   ("all the Two Paths messages"). A chain is an ordered argument that builds
-  ("Hell is not eternal -> the dark spheres are a condition not a sentence ->
-  any soul there can still turn to God -> therefore no soul is beyond
+  ("Hell is not eternal → the dark spheres are a condition not a sentence →
+  any soul there can still turn to God → therefore no soul is beyond
   redemption"). If a proposed chain is just "every message tagged X," it is a
   collection, not a chain. The anchor-per-section rule is the guard that
   inclusion never collapses a path back into a bag: a section may hold many
@@ -108,7 +108,7 @@ and nothing else,
 
     - Read in full; joins no thread.
 
-The first is 2017-05-18-af-goldie, in `chains-log/2017.md`. The words are always exactly these, so the validator can check them, and the
+For example, 2017-05-18-af-goldie, in `chains-log/2017.md`. The words are always exactly these, so the validator can check them, and the
 line is never added to an entry that has thread records. It is the one record
 that speaks of the reading rather than of the message, by the curator's ruling,
 so that the messages still to be read for chains are simply those with no entry

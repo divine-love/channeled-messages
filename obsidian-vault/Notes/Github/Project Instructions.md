@@ -78,7 +78,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - Kay Dunbar (passed 2019-04): mother of Jeanne Fike (wife of Al Fike) and Judy Dunbar; her "dear Albert" is Al Fike; watch for her later message through him
 - Alec Gaunt hosted Direct Voice prayer circles in his earth life, by the curator's account. His spirit file records only what messages state, so add it when a message says so
 - Publishing: the site is made by Obsidian Publish from the generated vault, with `Threads (working)` and `Notes` left out; nothing is changed by hand once it is live. On the site, chains are called threads; the repository keeps its own names. The vault uses the Front Matter Title plugin (Graph feature only) and Sync Graph Settings
-- Subject vocabulary: 117 names; CI validates every subject and prints a usage census on every push
+- Subject vocabulary: 96 subjects under 21 main categories; CI validates every subject and prints a usage census on every push
 
 ## Deferred / pending
 
