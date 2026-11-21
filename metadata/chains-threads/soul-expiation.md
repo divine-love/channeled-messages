@@ -90,6 +90,10 @@
   2016-03-17-af-alec-gaunt recasts the felt slowness: even when the mind
   cannot reach soul-awareness, "this does not mean that your soul is dormant
   or not growing, or that the encrustations are not falling away."
+  2017-07-12-af-seretta-kem recasts the pain of letting go: it comes from
+  holding on, "What causes struggle is your own resistance to the true desires
+  of your soul," and the release itself need not hurt, "although even this is
+  not necessary."
   2018-07-14-af-seretta-kem recasts the difficulty itself as when the greatest
   progress is made, with the angels as midwives.
   Chrysalis, anchor: 2018-07-14-af-seretta-kem, held as a candidate,

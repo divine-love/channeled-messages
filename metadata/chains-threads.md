@@ -499,7 +499,11 @@ only stating it.
   2017-02-23-af-andrew, the Light placed in the soul "Never to be
   diminished"; 2017-03-27-af-james, "This is inevitable upon your path for
   you have already chosen"; 2017-07-10-af-augustine, "You will not stray off
-  this path, no my beloveds." Fenced from `incremental-journey`,
+  this path, no my beloveds." 2017-07-12-af-seretta-kem ties it to how far the
+  soul has grown, "It would take a great deal to divert you off of this path
+  at this time in your spiritual development," and allows a straying that is
+  put right, "if you do indeed stray, you will be corrected for you will know
+  within your heart that this is wrong." Fenced from `incremental-journey`,
   where the seeker steps back and forward within the path (two steps forward,
   one back); this candidate is about not leaving the path once the Love has
   reached a certain measure. Mint when a message states the threshold: that a

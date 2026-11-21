@@ -54,6 +54,9 @@
   Witness, the cause within. 2017-01-16-af-keea-atta-kem, "Thoughts do indeed
   attract and bring like energies close. This is a Law," with the seeker
   responsible for his own thoughts rather than a victim of them.
+  Witness, human hostility met with patience. 2017-07-12-af-seretta-kem,
+  derision "reflecting their own state of being," met by not taking it in,
+  "be patient with those who are impatient with you."
   Fences. Against `sensitive-souls-redemptive`, whose claim is that the
   indwelling Love is passive protection and sensitivity a strength: this thread
   is about what opposes and how it is met, not about who the sensitive soul is.

@@ -40,6 +40,7 @@ questions:
   - "Can someone else give me this experience of God?"
 related_messages:
   - 2016-09-01-af-jesus
+  - 2017-07-12-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -55,7 +56,7 @@ door: >
   You may be carrying the gift already and not know it, because nobody ever
   told you how it differs from ordinary love.
 collections: ["Two Paths", "The Saints & Apostles Speak"]
-last_edited: 2026-09-06
+last_edited: 2026-11-20
 ---
 
 I am Augustine, your teacher, I was once the Bishop of Hippo many, many years ago and I have spent many centuries in the world of Spirit and I now reside within the Celestial Heavens, for my soul has been redeemed by the Father’s Love.

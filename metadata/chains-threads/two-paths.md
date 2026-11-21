@@ -38,7 +38,10 @@
   2016-09-02-af-augustine names the loves of parents, mates and children
   "beautiful attributes of the natural love not to be denied nor to be pushed
   aside as something inferior," and gives the reason, "it is a gift from God."
-  Section member: 2018-05-12-af-luke honours the natural destination from the
+  Section members: 2017-07-12-af-seretta-kem clears a second fear, that
+  attending to natural love turns a seeker off the Divine Path, since the
+  Divine Love refines the natural love and every human part as well, "you must
+  not resist this." 2018-05-12-af-luke honours the natural destination from the
   inside, "Their interactions with one another are harmonious and joyful,"
   while keeping the ceiling, "There is a state of harmony but it can go no
   further than this." So the roads differ in how far they reach, not in

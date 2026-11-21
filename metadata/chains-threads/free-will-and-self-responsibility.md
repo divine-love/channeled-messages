@@ -54,7 +54,10 @@
   2016-09-10-af-augustine, the same spirit stating it again, recorded so the
   repetition can be found; 2016-12-05-af-augustine, the choice to follow
   guidance with no penalty for refusing, "it is always your choice. If you
-  refuse, it does not mean that God loves you any less."
+  refuse, it does not mean that God loves you any less";
+  2017-07-12-af-seretta-kem, the non-coercion with the cost of resisting it,
+  "God always allows you to choose, my beloveds. He does not force anything,"
+  and "It is your will, beloveds, that causes pain."
   Witnesses, the assistance gate. 2016-09-14-af-augustine, help gated on the
   seeker's asking with the spirits' posture in the meantime named as enforced
   waiting, "we in spirit who watch you and watch over you can only wait for
