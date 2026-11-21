@@ -340,7 +340,8 @@ only stating it.
   lives, addressed to that company rather than to everyone:
   2014-07-26-af-augustine, a teacher to his circle, "Your teacher Augustine is
   always by your side"; 2014-10-11-af-confucius, "so many other Angels who
-  have your care and your tutelage"; 2016-11-29-af-andrew, "we who love you and serve God
+  have your care and your tutelage"; 2014-12-15-af-mary, "we your Angel
+  friends will always be close"; 2016-11-29-af-andrew, "we who love you and serve God
   and serve you in love will continue to support and carry you through the
   difficult times"; 2016-12-05-af-keea-atta-kem, the support tied to
   commitment, "when you make these efforts and truly focus and are committed

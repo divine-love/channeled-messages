@@ -9,7 +9,11 @@
   understanding and journey to take and in sharing this with one another, it
   opens new awarenesses." The second reason is the thread's distinctive claim
   and the bar for membership.
-  Elaborations, what fellowship gives. 2016-11-28-af-luke states the exchange
+  Elaborations, what fellowship gives. 2014-12-15-af-mary has God care for
+  each seeker through the others in the circle, "God is caring for you
+  through your beloved friends who pray with you for the love," each one "a
+  channel of love for the other," and the others holding up the one who
+  falters. 2016-11-28-af-luke states the exchange
   as an obligation running both ways, at the moment a circle is being formed,
   "each of you has something to give to your brothers and sisters here and
   each of you has something to learn from your brothers and sisters in this

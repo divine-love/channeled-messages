@@ -79,7 +79,9 @@
   it from joy, "How can you judge your brothers and sisters if you feel the
   joy and acknowledgement of how much you are all loved." The others:
   2014-07-26-af-augustine, the cost falling on the one who judges, with self
-  and others named together; 2015-06-15-af-faith-nyquist, judging others'
+  and others named together; 2014-12-15-af-mary, criticism measured by
+  whether it helps the one criticized, "Is your criticism helpful or a
+  hindrance?"; 2015-06-15-af-faith-nyquist, judging others'
   behaviour as what diverts "the flow of God's Love"; 2016-02-29-af-confucius,
   judgment named among the conditions that pull a soul from the Light;
   2016-08-26-af-brother-mandus; 2016-09-01-af-jesus, on which see the

@@ -82,7 +82,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 
 ## Deferred / pending
 
-- Chains reading of the messages that have no log entry (the handoff lists the 2014 and 2016 ones)
+- Chains reading of the messages that have no log entry (the handoff lists the 2016 ones)
 - Context-note audit: move each older context note in the log to the message's `notes` or the spirit or medium file, drop the prayer-file pointers, then retire the `(context)` kind in `validate_chains.py`, the `chains-log.md` design block and the handoff together. Propose the moves to the curator first
 - Main category sweep: give each older message that carries a main category name a subcategory instead (the subject census at the end of `validate_messages.py` shows which main category names are still used)
 - Chrysalis audit (the handoff lists the candidates; `soul-expiation` holds 2018-07-14-af-seretta-kem as a candidate)

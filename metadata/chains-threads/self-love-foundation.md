@@ -32,7 +32,9 @@
   love yourself completely you cannot but love all in this way";
   2017-06-15-af-augustine, "For a soul that truly loves itself and is embedded
   within this pure Love of God there can be no judgment."
-  Witnesses, compassion in place of condemnation. 2016-03-11-af-luke, "You
+  Witnesses, compassion in place of condemnation. 2014-12-15-af-mary, "you are
+  willing to condemn yourselves for those imperfections which are within and
+  this my children is not required"; 2016-03-11-af-luke, "You
   must have compassion for yourselves and know that you are not to blame for
   your condition. You are in a way a victim of these conditions";
   2016-05-09-af-augustine, "Do not condemn yourselves... know with a deep

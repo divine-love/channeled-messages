@@ -1,12 +1,5 @@
 # Messages with no chains log entry
 
-From the repository at commit 6660c5b, 2026-11-20. 334 messages.
-
-## 2014 (2)
-
-- 2014-10-11-af-confucius | You Will Never Feel the Pain of Being Alone When You Possess God's Love
-- 2014-12-15-af-mary | Use Your Gift of Life to the Most Advantage
-
 ## 2015 (161)
 
 - 2015-01-05-af-andrew | Cleansing of Your Soul Brings Understanding, Perception and Wisdom
