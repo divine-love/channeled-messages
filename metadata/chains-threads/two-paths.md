@@ -64,7 +64,9 @@
   as a choice, "there are two choices in dealing with these deep-seated
   injuries within the soul"; the natural path by full conscious recompense;
   the sixth-sphere ceiling; and the close on the open invitation.
-  Witnesses. 2015-10-26-af-aman, placing himself on the Divine road and naming
+  Witnesses. 2014-10-11-af-confucius, the two loves told apart by how each
+  comes, natural love at birth and the Divine Love "a gift given to the souls
+  who ask the Father with desire to receive it"; 2015-10-26-af-aman, placing himself on the Divine road and naming
   what it opens; 2016-04-12-af-moses, both loves counting toward progression;
   2016-05-02-af-mary, the Love over-riding the Law of Compensation, given in
   the same circle as the Capstone;

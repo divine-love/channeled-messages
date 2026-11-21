@@ -6,7 +6,11 @@
   sincere prayer and soul-longing for God's Love brings real change in both
   the material and the spirit worlds, and strips prayer to its essence, "Just
   longing. Just prayer."
-  Elaborations, what prayer is and is not. 2016-01-23-af-augustine draws the
+  Elaborations, what prayer is and is not. 2014-10-11-af-confucius gives the
+  longing its source, the soul's loneliness without God, "that deep aloneness
+  brings an anguish and a crying out and in this longing to not feel so
+  alone, the soul, if one allows this, will reach out to the Creator and find
+  what it needs to truly know it is not alone"; 2016-01-23-af-augustine draws the
   central distinction, prayer being the anchor and foundation of the Path
   Divine but "not a prayer that is a recitation from your minds, but prayer
   that is a longing from your soul," and it is the longing that elicits God's

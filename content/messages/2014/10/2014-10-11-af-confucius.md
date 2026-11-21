@@ -9,6 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Confucius clarifies the difference between natural love and Divine Love, urging
@@ -18,6 +19,8 @@ description: >
   at-onement with God.
 primary_subjects: "Receiving the Divine Love through Prayer"
 secondary_subjects:
+  - "Natural Love Path vs Divine Love Path"
+  - "Emotional Struggles"
   - "Soul Awakening"
 people: []
 spirits: []
@@ -32,21 +35,27 @@ questions:
   - "What is God's Divine Essence?"
   - "Can God's Love fill the emptiness I feel inside?"
   - "How does Divine Love lead to at-onement with God?"
-related_messages: []
+related_messages:
+  - 2014-10-11-af-judas
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/you-will-never-feel-the-pain-of-being-alone-when-you-possess-gods-love/"
 notes: ""
 essential_teachings: []
+excerpt: >
+  This gift is the highest gift that can be given to a mortal or a spirit,
+  this gift of Love that shall transform you and bring you at-one with your
+  Creator.
 door: >
-  The loneliness you feel is a signpost pointing toward the Love that ends it
-last_edited: 2026-10-29
+  The loneliness you feel is a signpost pointing toward the Love that ends it.
+collections: ["Two Paths"]
+last_edited: 2026-11-20
 ---
 
 God bless you, beloved souls, Confucius has come to see you and pray with you this day. Yes, my daughter (B), I did indeed call you to this group, for your soul longed to be a part of this beloved circle and to come to know more fully the Father's Love within you and to receive ever more of this blessing. Welcome all of you travelers who have come some distance to be together in love. Dear and beloved group, welcome. Indeed your souls long to be together in this way in light, in this beloved light of God's touch.
 
 My beloveds, you speak of opening the heart. Do you know what this means? It is the soul, beloveds. It is your soul that opens to God's Love, the Divine Essence, this beautiful gift from God, this part of Divinity that is gifted to you for the asking. And I urge you, my beloveds, to pray for the inflowing of God's Divine Essence, to pray for this gift, that you may come to know the wonderment, the beauty, the power that comes with this opening within you, the touch of God, that beloved touch that changes you, my beloveds. It will change you for all eternity. Yes, you speak of opening the heart, to feel love for one another. Indeed this is an important aspect of being together but it does indeed go deeper, my beloveds. It goes to your very essence, your very core, your soul. It is opening your soul to God which is the purpose and the focus of these prayers together. And as you journey a little further you will come to know this, and see this for what it is. This gift is the highest gift that can be given to a mortal or a spirit, this gift of Love that shall transform you and bring you at-one with your Creator.
 
-And each of you are drawn to this light, this possibility, this gift. Each of you have longed for it deep within you. For without it, the souls of mankind feel alone, without this connection with God. And that deep aloneness brings an anguish and a crying out and in this longing to not feel so alone, the soul, if one allows this, will reach out to the Creator and find what it needs to truly know it is not alone. Each beloved soul has their Heavenly Father as their comforter, as their guide, as their Heavenly Father. And in this knowing comes a joy, and a relief, and the fears and the anguish fall away and melt into joyous reverie, that their Heavenly Father does indeed acknowledge them, as He acknowledges all the souls in the world, in the universe with His presence and His consciousness. Indeed, it is up to each individual to make this choice, to be open, to beseech their Heavenly Father to receive the blessing of His Love. And at that moment, at that time when the Father touches you, in that very deep and intimate place, you will begin a journey that will last for all eternity, my children, all eternity. For the flow of His Love is infinite and your thirst will never be quenched completely. The soul, with the blessing of the Father's Love, will expand and grow forever and towards atonement, atonement with God, greater and more complete and it never ends. So I beseech you, beloveds, seek ye God's Love. Make that choice within you. Open to this wondrous gift, for it does not reside in every soul. It is the natural love that each blessed soul receives and is imbued with incarnated to this world. The Divine Love is a gift given to the souls who ask the Father with desire to receive it.
+And each of you are drawn to this light, this possibility, this gift. Each of you have longed for it deep within you. For without it, the souls of mankind feel alone, without this connection with God. And that deep aloneness brings an anguish and a crying out and in this longing to not feel so alone, the soul, if one allows this, will reach out to the Creator and find what it needs to truly know it is not alone. Each beloved soul has their Heavenly Father as their comforter, as their guide, as their Heavenly Father. And in this knowing comes a joy, and a relief, and the fears and the anguish fall away and melt into joyous reverie, that their Heavenly Father does indeed acknowledge them, as He acknowledges all the souls in the world, in the universe with His presence and His consciousness. Indeed, it is up to each individual to make this choice, to be open, to beseech their Heavenly Father to receive the blessing of His Love. And at that moment, at that time when the Father touches you, in that very deep and intimate place, you will begin a journey that will last for all eternity, my children, all eternity. For the flow of His Love is infinite and your thirst will never be quenched completely. The soul, with the blessing of the Father's Love, will expand and grow forever and towards at-onement, at-onement with God, greater and more complete and it never ends. So I beseech you, beloveds, seek ye God's Love. Make that choice within you. Open to this wondrous gift, for it does not reside in every soul. It is the natural love that each blessed soul receives and is imbued with [when] incarnated to this world. The Divine Love is a gift given to the souls who ask the Father with desire to receive it.
 
 You have all come here because you desire this and you shall all be gifted with this gift because you are open to it. And I merely wish to clarify the difference, the difference between that which is bestowed within you from God and that which you possess innately upon your birth, your creation, the Divine Love and the natural love.
 

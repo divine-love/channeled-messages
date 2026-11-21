@@ -339,7 +339,8 @@ only stating it.
   who keep praying for the Love are promised a standing accompaniment in their
   lives, addressed to that company rather than to everyone:
   2014-07-26-af-augustine, a teacher to his circle, "Your teacher Augustine is
-  always by your side"; 2016-11-29-af-andrew, "we who love you and serve God
+  always by your side"; 2014-10-11-af-confucius, "so many other Angels who
+  have your care and your tutelage"; 2016-11-29-af-andrew, "we who love you and serve God
   and serve you in love will continue to support and carry you through the
   difficult times"; 2016-12-05-af-keea-atta-kem, the support tied to
   commitment, "when you make these efforts and truly focus and are committed
@@ -592,7 +593,10 @@ only stating it.
   rather than only affirming them.  
 - `unlimited-reception`, the soul's capacity to receive Divine Love is
   unbounded, so reception never completes and at-onement is an endless
-  approach rather than a destination. Seen: 2015-10-12-af-augustine ("shall
+  approach rather than a destination. Seen: 2014-10-11-af-confucius ("For the
+  flow of His Love is infinite and your thirst will never be quenched
+  completely," the soul growing "towards at-onement, at-onement with God,
+  greater and more complete and it never ends"); 2015-10-12-af-augustine ("shall
   come again and again and again, never ending, always expanding");
   2016-05-02-af-andrew ("there are unlimited possibilities, for God's Love,
   this energy, this Gift is unlimited. The potential for your soul to receive
