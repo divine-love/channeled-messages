@@ -334,7 +334,9 @@ only stating it.
   steady prayer making spirit's help stronger, "As you continue to pray and
   to be in alignment with God, you allow our ministrations to be more
   effective and powerful"; 2017-06-28-af-peter, "I come to be with you in
-  prayer"; 2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
+  prayer"; 2017-07-24-af-andrew, "as you beseech the Heavenly Father for His
+  Love, so you attract the angels of Love from the Celestial Heavens";
+  2019-01-30-af-seretta-kem, tied to humbly asking to be used as an
   instrument, "you will always be assured that an angel will be with you and
   often speak to you"; 2019-02-18-af-augustine, "God assigns an angel to each
   soul that is earnest in their efforts to receive this gift of Love." Those

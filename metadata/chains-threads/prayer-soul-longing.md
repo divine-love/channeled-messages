@@ -73,7 +73,10 @@
   developed; 2016-09-01-af-seretta-kem, the proportionality form, "the
   capacity to receive this Love is unlimited, only restricted by your own
   desires and longings"; 2017-07-17-af-augustine, the Love received lighting a
-  longing for more, "It ignites a thirst of longing and desire for more".
+  longing for more, "It ignites a thirst of longing and desire for more";
+  2017-07-24-af-andrew, the longing felt as what joins the seeker to God,
+  "feel that yearning from within you that brings you a connection with your
+  Heavenly Father".
   Witnesses, the floor corroborated. 2016-09-10-af-andrew states the
   minimum-requirement claim of 2016-09-04-af-john-the-beloved through a
   different spirit, "All it requires is some time, some focus, to come to know

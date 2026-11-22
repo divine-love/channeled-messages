@@ -42,6 +42,7 @@ questions:
   - "Do we attract people who are like us spiritually?"
 related_messages:
   - 2016-01-18-af-confucius
+  - 2017-07-24-af-andrew
   - 2018-08-20-af-augustine
 audio_url: ""
 canonical_url: ""
