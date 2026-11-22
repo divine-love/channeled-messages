@@ -334,7 +334,8 @@ CHAIN_GROUPS = [
         "knowing-your-own-soul", "self-love-foundation", "judgment-to-love",
         "incremental-journey", "challenges-as-blessings",
         "fear-of-full-immersion", "sensitive-souls-redemptive",
-        "armour-of-the-world", "simplicity-of-the-path"]),
+        "armour-of-the-world", "simplicity-of-the-path",
+        "affect-as-soul-marker"]),
     ("Free will and God's plan", [
         "free-will-and-self-responsibility", "free-will-and-gods-plan",
         "guidance-as-seed", "provision-for-service", "soul-purpose-emergence"]),

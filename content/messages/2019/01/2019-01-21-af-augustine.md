@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Augustine contrasts the Divine Love path with the natural love path, teaching that while God blesses all souls regardless of their choices, only those who receive the Father's Love will awaken the deeper faculties and potentials of the soul that are needed to lead humanity out of its current darkness. He calls those present to continue praying for this gift, trusting that their awakened souls will become powerful instruments of healing and change in the world.
@@ -37,6 +37,7 @@ questions:
 related_messages:
   - 2016-05-02-af-andrew
   - 2017-06-28-af-augustine
+  - 2017-07-30-af-augustine
   - 2018-05-12-af-luke
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/divine-love-path-natural-love-path/"
@@ -49,7 +50,7 @@ excerpt: >
 door: >
   Two roads. One leads to the perfection of the mind. The other leads to God.
 collections: ["Two Paths", "The Saints & Apostles Speak"]
-last_edited: 2026-11-20
+last_edited: 2026-11-22
 ---
 
 God bless you, I am your teacher Augustine. God's mantle of peace has descended upon you, beloveds. Like the wings of doves spreading out, enveloping you in Light, so you are uplifted and blessed with the Grace of God upon you. The great peace that passes all understanding is with you, beloved souls. When you sense this presence of peace, know that God is near and that you are indeed enveloped in the Light of God's Presence. In this beautiful Light, open your souls, open your souls, beloveds, and drink deep of these living waters, for the Holy Spirit comes to convey God's Love and awaits your thirst for this blessing.

@@ -20,7 +20,11 @@
   to know these distinctions"; 2016-04-02-af-jesus sharpens the terminus,
   "Their road ends where your road begins. And your road goes on for all
   eternity, for God's Love is infinite," adding the soul's unlimited capacity
-  and the will as its only limit; 2017-09-12-af-martin-luther names the
+  and the will as its only limit; 2017-07-30-af-augustine puts the difference
+  in what each road makes of the soul: the natural road brings purification
+  and harmony but leaves "still a human soul," while the soul transformed in
+  Divine Love "is not merely a spirit but a being that reflects more the
+  Divine than the human or the spirit"; 2017-09-12-af-martin-luther names the
   Divine road's purifying as a Law above the others, "There is one Law that
   supersedes all others and that is the Law of Divine Love," by which the soul
   is "able to sidestep many of these conditions" the natural road must work

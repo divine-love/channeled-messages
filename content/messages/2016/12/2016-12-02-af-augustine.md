@@ -44,6 +44,7 @@ related_messages:
   - 2016-08-26-af-brother-mandus
   - 2016-09-09-af-andrew
   - 2016-11-27-af-augustine
+  - 2017-07-30-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -57,7 +58,7 @@ excerpt: >
 door: >
   You do not have to convince anyone. You only have to be there, and be the Love.
 collections: ["The Saints & Apostles Speak", "Mind & Soul", "Service & Mission"]
-last_edited: 2026-10-18
+last_edited: 2026-11-22
 ---
 
 It’s Augustine.

@@ -28,7 +28,10 @@
   Heavenly Father," keeps the simple register for ministry, "simple words,
   simple prayer, simple love is all that is required," and separates simple
   from easy, "It is very simple, my beloveds, but hard to do in a challenging
-  world."
+  world"; 2017-07-30-af-augustine gives a reason souls turn from the simple
+  path, that the mind finds the simple touch unsatisfying, "who seek more
+  complex understandings," and says why the simplicity matters, "for every
+  soul has the capacity to understand this simple Truth."
   Witnesses, the claim asserted. 2016-08-26-af-augustine, "It is a simple
   opening of yourselves to this blessing of Love... Powerfully, beautifully,
   simply"; 2016-08-28-af-faith-nyquist, the path-and-life assertion with a

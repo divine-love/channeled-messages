@@ -181,6 +181,7 @@ message_ids already carry the dates.
 
 | Slug | Theme | Argument it traces | Related subject / collection |
 |---|---|---|---|
+| `affect-as-soul-marker` | A feeling the Love brings is a sign by which a soul can know God has touched it | When God touches a soul, a feeling rises in it, joy, peace, excitement → the feeling is a marker that tells the soul where it stands: that God has touched it and all is right within → it can be trusted because the soul recognizes its Creator, and the peace is God's own mark → so the seeker can look to what they feel, rather than wait on the mind's explanations | Joyful Living; Knowing God |
 | `armour-of-the-world` | The soul moves through the world in clothing that is not its own, and it must be exchanged | A person navigates a wounding world in armour: a shield against betrayal, a cloak of accumulated pain, mental assumptions worn as protection → the armour is worn deliberately and for good reason, since the world it answers is real → but it is the same thing that keeps God out, so it cannot be reinforced, only set down → and it is not simply removed and gone, it is exchanged, the cloak of error shed for a cloak of Light | Surrender & Trust in God; Overcoming Fear & Doubt |
 | `bell-toll-instrumentality` | The awakened soul is itself the instrument that awakens others | A soul carrying Divine Love radiates a signal like a tolling bell → this reaches other souls wordlessly and ignites their longing for God → the stronger the Love within, the further it resonates → this silent instrumentality is the greatest gift and the true agent that changes the world | Service, Ministry & Being a Channel of Love; Service & Mission; Awakening Humanity |
 | `challenges-as-blessings` | Every difficulty is a blessing that strengthens the soul | Hardship, whatever its source, is redeemed into soul-growth by God's design → every struggle, test, and challenge brings insights and lessons that strengthen the soul → the strengthened soul becomes a more powerful channel of Love → so the challenge is met with trust rather than resentment | Soul Growth through Challenges |
@@ -239,20 +240,6 @@ roster files are read in at this point.
 Candidate threads: arguments seen in the messages but not yet built into a
 chain. A candidate is minted when a message develops its argument rather than
 only stating it.
-- `affect-as-soul-marker`, an inner feeling given by the Love, such as joy or
-  peace, as a sign by which the soul's condition can be known. The candidate
-  is defined by this argument, not by the image of joy (the argument-not-image
-  ruling). Seen: 2016-04-12-af-andrew (joy "tells you that all is right within
-  you, that you are in harmony"); 2016-09-02-af-andrew ("when you feel this
-  great and deep peace you know that God has touched you... His mark is the
-  peace that passes all understanding", the feeling as God's mark, a sign left
-  by the one who touched); and 2017-07-16-af-goldie, in Keea Atta Kem's part,
-  the feeling as a knowing, "a vibrancy, a joy, a knowing that you are indeed
-  on the right path". Joy given or promised by the Love does not count,
-  only joy offered as something to read: 2016-11-27-af-confucius and
-  2016-11-28-af-goldie carry the image without the argument and are set aside.
-  Mint when a message develops the sign (why it is reliable, how to read it)
-  rather than asserting it.
 - `channel-of-love-in-the-material`, being a channel of Love is not limited to
   overtly spiritual acts: ordinary material work (cleaning, fixing, preparing
   a place) done in love carries out God's Will just as fully and becomes a
@@ -382,7 +369,8 @@ only stating it.
   walk with you"; 2017-07-10-af-augustine, "many from the Celestial Kingdom
   who accompany you each and every day"; 2017-07-16-af-seretta-kem, "you are
   accompanied at all times by the angels"; 2017-07-22-af-seretta-kem, the path
-  walked "accompanied by the angels";
+  walked "accompanied by the angels"; 2017-07-30-af-augustine, "We will walk
+  beside you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";

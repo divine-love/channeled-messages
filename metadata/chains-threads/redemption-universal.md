@@ -48,7 +48,9 @@
   2016-09-10-af-augustine, the universality claim asserted without the
   machinery, "Every child is worthy of this Touch, from the very lowest to the
   highest"; 2017-03-30-af-jesus, the Love available "to all, no matter their
-  condition, no matter their deeds upon this earth."
+  condition, no matter their deeds upon this earth"; 2017-07-30-af-augustine,
+  every soul arriving in the end, "All souls will come to God in time, in
+  their own way," and forgiveness whatever was done.
   Structural note: the thread states its claim once and then proves it by
   cases. The Foundation and the Testimony anchor are the same message on
   separable passages, so the man who is the evidence is also the one who

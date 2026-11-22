@@ -81,7 +81,8 @@
   forward";
   2017-07-16-af-seretta-kem, prayer that seemed to change nothing not wasted,
   "if you could see the light within you, you would know that those hours
-  were not wasted";
+  were not wasted"; 2017-07-30-af-augustine, a first touch "somewhat mild"
+  growing with persistence, "it will become a fiery passion within you";
   2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
   very subtle indeed," and denies the process any shortcut;
