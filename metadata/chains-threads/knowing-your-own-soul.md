@@ -61,7 +61,10 @@
   your souls"; 2016-12-21-af-jesus gives the two knowings together as the
   soul grows, "you will come to truly know yourselves and come to know how
   God loves you"; 2017-04-10-af-james makes the knowing prior to knowing God's
-  Will, "To know the Will of God, you must know your own soul."
+  Will, "To know the Will of God, you must know your own soul";
+  2017-07-16-af-seretta-kem asks the seekers to know "who you truly are and
+  where you are going and why," and to ask for the answer, "Ask your soul,
+  ask God."
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth and ends in the two minds integrating; this one asks what must be
   known first, and its move is sequence rather than comparison. The Foundation

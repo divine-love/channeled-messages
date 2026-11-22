@@ -79,6 +79,9 @@
   jewel," with one day "different from the next"; 2017-03-27-af-james, "at
   times it is a struggle and at times it is a joy, but you are always moving
   forward";
+  2017-07-16-af-seretta-kem, prayer that seemed to change nothing not wasted,
+  "if you could see the light within you, you would know that those hours
+  were not wasted";
   2018-10-09-af-seretta-kem states the beginning as
   almost imperceptible, "In the beginning of this journey, the effects are
   very subtle indeed," and denies the process any shortcut;

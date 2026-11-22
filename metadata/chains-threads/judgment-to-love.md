@@ -92,7 +92,9 @@
   God away, you push love away"; 2016-12-02-af-augustine, "rather than insist
   that another change, love them, be the Love"; 2017-01-16-af-keea-atta-kem,
   learning "to not judge those who you find different in this world" and to
-  let each soul walk its own path; 2018-03-02-af-andrew, non-judgment given as
+  let each soul walk its own path; 2017-07-16-af-seretta-kem, judging others
+  falling away as judging oneself does, "As the inner judgments fade away";
+  2018-03-02-af-andrew, non-judgment given as
   his own example, "I could judge my brother for what he did... but where
   would that thought originate? Not of the soul."
   Fences. Against `self-love-foundation`: that thread argues that you cannot

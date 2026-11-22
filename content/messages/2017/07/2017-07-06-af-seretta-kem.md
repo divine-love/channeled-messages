@@ -45,6 +45,7 @@ related_messages:
   - 2017-06-23-af-seretta-kem
   - 2017-07-09-af-matthew
   - 2017-07-12-af-seretta-kem
+  - 2017-07-16-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -57,7 +58,7 @@ door: >
   The only wall left between you and the work is the old thought that you are
   not enough.
 collections: ["Service & Mission"]
-last_edited: 2026-11-20
+last_edited: 2026-11-22
 ---
 
 I see you continue to make your enquiries, to say your prayers and to attempt to change physical and mental habits. You are indeed working diligently towards your goals and we are happy to see these efforts made. This indeed makes us feel optimistic that we will accomplish our goals for Direct Voice for you have shown a deep commitment and a desire towards this project.

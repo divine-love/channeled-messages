@@ -19,7 +19,11 @@
   makes the servant believable, "Part of the credibility that you must earn
   with those souls is the ability to love yourself," and names what blocks
   it, "your own thoughts that you are unworthy or a failure or that you do
-  not love yourself"; 2019-04-05-af-augustine states it as logic from the other
+  not love yourself"; 2017-07-16-af-seretta-kem makes self-love patience with
+  one's own slow growth, "You cannot expect to be an angel overnight," with
+  kindness to oneself growing into kindness to others, "as this grows within
+  you, you will feel greater tolerance, acceptance and love for those around
+  you"; 2019-04-05-af-augustine states it as logic from the other
   side, "Come to understand yourself above all, to accept yourself above
   all... In this way, how can you judge another when you are being of love and
   acceptance, joy and light?"
@@ -61,7 +65,8 @@
   Fences. Against `judgment-to-love`: that thread is what to do with the
   impulse to judge; this one is how a person regards themselves. They meet
   where self-acceptance makes judging others impossible, at
-  2017-06-15-af-augustine and 2019-04-05-af-augustine. Against the
+  2017-06-15-af-augustine, 2017-07-16-af-seretta-kem and
+  2019-04-05-af-augustine. Against the
   `worthiness-as-gate` candidate in the holding pen: that is what a person can
   receive from God; this is how they regard themselves. Against
   `sensitive-souls-redemptive`: that thread is what sensitivity is for.

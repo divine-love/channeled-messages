@@ -8,7 +8,7 @@ description: >
   file per thread. Companion to chains-log.md, which holds the rules for the
   chronological per-message evidence. This layer is NOT generated and NOT a
   schema. Nothing here is final.
-last_updated: 2026-11-20
+last_updated: 2026-11-22
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -376,7 +376,8 @@ only stating it.
   2017-07-03-af-andrew, "I accompany you on your journeys and shall do so for
   all eternity"; 2017-07-09-af-matthew, "As you live through each day we will
   walk with you"; 2017-07-10-af-augustine, "many from the Celestial Kingdom
-  who accompany you each and every day";
+  who accompany you each and every day"; 2017-07-16-af-seretta-kem, "you are
+  accompanied at all times by the angels";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -625,7 +626,8 @@ only stating it.
   it as well, "even this is the beginning of the journey that never ends."
   2017-06-08-af-augustine, "It is a never-ending path, beloveds."
   2017-06-28-af-augustine gives a reason, "For you can never receive enough
-  of this great essence of Love, it is infinite."
+  of this great essence of Love, it is infinite." 2017-07-16-af-seretta-kem,
+  "It is a never-ending journey into joy, into at-onement with God."
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the

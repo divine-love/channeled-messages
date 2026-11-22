@@ -64,6 +64,9 @@
   self," "not of the mind but a knowing of the soul";
   2017-05-11-af-jesus, the awakened soul known by what it does, "a soul
   awakened knows far greater than the greatest minds on your planet";
+  2017-07-16-af-seretta-kem, gifts of perception beginning as the light
+  grows, "you feel waves of insight and emotion, of understanding and
+  knowing";
   2017-08-21-af-matthew, feeling as a faculty of the soul, "a soul can feel
   its understanding, its comprehension of a Truth"; 2018-05-12-af-luke, the
   natural road's bounded development, souls who "refine their gifts in as far
