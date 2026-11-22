@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-11-20 from spirits/*.yml (59 files). Read-only reference for biography cross-checks;
+Generated 2026-11-22 from spirits/*.yml (59 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
@@ -494,8 +494,10 @@ spirit_description: >
   journey and the work of those gathered.
 notes: >
   Key biographical message: 2018-05-10-af-gandhi (Change Comes One Soul at
-  a Time) — Gandhi's most personal disclosure, describing his Earth life,
-  passing, and current state in spirit.
+  a Time), in which Gandhi describes his Earth life, passing, and current
+  state in spirit. By Goldie's account in 2017-07-16-af-goldie, Gandhi
+  desires to work with the Direct Voice circle and would love to come forward
+  in Direct Voice to the world.
 
 ========================================================================
 FILE: spirits/goldie.yml
@@ -991,7 +993,11 @@ spirit_id: lotus-blossom
 spirit_name: "Lotus Blossom"
 spirit_aliases: []
 spirit_description: "Lotus Blossom is a celestial spirit who communicates with gentle wisdom and poetic imagery, speaking particularly on the themes of soul gifts, spiritual awakening, and the unfolding of divine purpose. She walks closely with the circle and offers both spiritual and physical assistance to those she accompanies."
-notes: ""
+notes: >
+  By Goldie's account in 2017-07-16-af-goldie, Lotus Blossom was involved in
+  years past with the development of Direct Voice, has special knowledge of
+  the energy flows within the body and is a gifted healer, and is a guide to
+  one member of the Direct Voice circle.
 
 ========================================================================
 FILE: spirits/luke.yml

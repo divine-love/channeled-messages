@@ -47,6 +47,7 @@ related_messages:
   - 2017-04-10-af-james
   - 2017-06-14-af-augustine
   - 2017-07-06-af-seretta-kem
+  - 2017-07-16-af-goldie
   - 2019-01-30-af-seretta-kem
 audio_url: ""
 canonical_url: ""
@@ -62,7 +63,7 @@ door: >
   Angels have set aside their other work to walk beside you. The choice of
   every breath is still your own.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-11-20
+last_edited: 2026-11-22
 ---
 I am Matthew and I am pleased you are together here this night with those others from across the seas in prayer and preparation for direct voice. I will be part of those working closely with you in this preparation and execution of this gift. I will be giving guidance as we progress forward, along with our beloved Seretta Kem. Now, a group of angels, a council of sorts, has been appointed to this group. I will give you the names for each beloved soul who is participating so that you can call upon these beautiful celestial beings for support and guidance as you continue to pray separately and together.
 

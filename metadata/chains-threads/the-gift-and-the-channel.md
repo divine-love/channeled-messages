@@ -37,6 +37,11 @@
   the greater purpose of prayer," and their bond, "one that requires trust and
   honesty, love and commitment," builds "a great capacity for we in spirit to
   work with you";
+  2017-07-16-af-goldie has each member carry a piece of the gift, "a piece of
+  a big circle and that piece must match all the other pieces," with the gift
+  coming when the whole ring is ready, "When the vibration and energy of this
+  beautiful ring of light is perfected, there will be the great blessing of
+  Direct Voice";
   2018-07-22-af-seretta-kem puts the example before the gift, "For you cannot
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues

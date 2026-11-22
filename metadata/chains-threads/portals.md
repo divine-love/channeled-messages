@@ -46,12 +46,16 @@
   Witnesses, the term in loose use. 2016-03-25-af-augustine, the word in
   the circle's prayer, informal and metaphorical; 2016-05-09-af-seretta-kem,
   2016-11-27-af-confucius, 2017-01-02-af-seretta-kem,
-  2017-02-15-af-confucius and 2017-02-23-af-andrew describe a praying
-  circle as forming a portal, the last a portal "built from your efforts"
-  that brings "a powerful wave of healing and many angels who are healers,"
-  which sits against the Foundation's "You cannot build a Portal of Light" and
-  resolves the same way, people supplying the conditions and the prayer,
-  spirits building, God conferring.
+  2017-02-15-af-confucius, 2017-02-23-af-andrew and 2017-07-16-af-goldie
+  describe a praying circle as forming a portal. 2017-02-23-af-andrew has a
+  portal "built from your efforts" that brings "a powerful wave of healing
+  and many angels who are healers," which sits against the Foundation's "You
+  cannot build a Portal of Light" and resolves the same way, people supplying
+  the conditions and the prayer, spirits building, God conferring.
+  2017-07-16-af-goldie makes the portal the ring of light the circle forms
+  for Direct Voice, "this portal to bring about the communication that we so
+  desire to bring to this world," to be weighed beside the Objection-removed,
+  which says communication needs no portal.
   Witnesses, the doctrine's clauses instanced. 2016-07-25-af-seretta-kem, a
   temporary portal per the Foundation's clause; 2016-08-26-af-brother-mandus,
   maintenance; 2016-08-26-af-jesus, replication and the precondition;

@@ -243,10 +243,12 @@ only stating it.
   peace, as a sign by which the soul's condition can be known. The candidate
   is defined by this argument, not by the image of joy (the argument-not-image
   ruling). Seen: 2016-04-12-af-andrew (joy "tells you that all is right within
-  you, that you are in harmony") and 2016-09-02-af-andrew ("when you feel this
+  you, that you are in harmony"); 2016-09-02-af-andrew ("when you feel this
   great and deep peace you know that God has touched you... His mark is the
   peace that passes all understanding", the feeling as God's mark, a sign left
-  by the one who touched). Joy given or promised by the Love does not count,
+  by the one who touched); and 2017-07-16-af-goldie, in Keea Atta Kem's part,
+  the feeling as a knowing, "a vibrancy, a joy, a knowing that you are indeed
+  on the right path". Joy given or promised by the Love does not count,
   only joy offered as something to read: 2016-11-27-af-confucius and
   2016-11-28-af-goldie carry the image without the argument and are set aside.
   Mint when a message develops the sign (why it is reliable, how to read it)
@@ -391,7 +393,9 @@ only stating it.
   council of angels appointed to a circle and a guide named for each member,
   without saying who appointed them, "These guides have been specially
   selected in accordance to your needs and ability to communicate with these
-  beautiful souls";
+  beautiful souls"; 2017-07-16-af-goldie, a guide named for one member, chosen
+  for what she can give, "Our dear and beloved M has the guide of Lotus
+  Blossom helping her with her efforts for Direct Voice";
   2019-01-30-af-seretta-kem, "Jesus assigns these
   guides in his wisdom," a role given to "many of us in the Celestial
   Kingdom"; 2019-02-21-af-elijah, a guide naming himself to one man, "My son,
