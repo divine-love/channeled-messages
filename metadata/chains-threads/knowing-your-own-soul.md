@@ -69,7 +69,9 @@
   2017-07-16-af-seretta-kem asks the seekers to know "who you truly are and
   where you are going and why," and to ask for the answer, "Ask your soul,
   ask God"; 2017-07-17-af-augustine puts the two side by side as what matters
-  most, "your relationship with God, your relationship with your own soul".
+  most, "your relationship with God, your relationship with your own soul";
+  2017-07-31-af-andrew, the soul's true desire known before it is prayed, "The
+  mind may have an idea of what it is you really desire, but the soul knows".
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth and ends in the two minds integrating; this one asks what must be
   known first, and its move is sequence rather than comparison. The Foundation

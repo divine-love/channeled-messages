@@ -31,7 +31,10 @@
   to be for you, it is what God craves"; 2017-05-21-af-augustine names the
   longing as what God must answer, "for this is a law," with no reading able to
   stand in for it, "you may study a thousand books, a million books, but this
-  will not bring you to God."
+  will not bring you to God"; 2017-07-31-af-andrew sets sincere prayer against
+  prayer said "out of obligation or habit" and against sitting in wait, "all
+  you will feel is a vacuum around you," because "nothing is happening when
+  you express nothing other than that which is in your mind."
   Elaborations, what it asks of the seeker. 2016-07-11-af-confucius adds the
   cadence requirement and its cost, "you, my beloveds, must take the time,
   make the effort, say the prayers, sit in silence to receive God's answers to

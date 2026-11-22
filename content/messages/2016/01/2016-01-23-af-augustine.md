@@ -14,8 +14,8 @@ message_type: ["Teaching"]
 description: >
   Augustine teaches that prayer is the foundation and anchor of the soul's walk
   as a channel of God's Love, opening the connection through which His Love,
-  guidance, and the angels flow. He distinguishes true prayer — a sincere longing
-  from the very centre of the soul — from mere recitation of the mind, explaining
+  guidance, and the angels flow. He distinguishes true prayer, a sincere longing
+  from the very centre of the soul, from mere recitation of the mind, explaining
   that it is this longing that elicits God's response, unlocks the soul's
   potentials and gifts, and pours His Love upon the seeker in torrents and trickles
   alike.
@@ -47,6 +47,7 @@ related_messages:
   - 2016-12-07-af-augustine
   - 2017-01-30-af-augustine
   - 2017-05-21-af-augustine
+  - 2017-07-31-af-andrew
 audio_url: ""
 canonical_url: ""
 language: en
@@ -58,7 +59,7 @@ door: >
 collections: ["The Saints & Apostles Speak"]
 essential_teachings: ["Core Teaching"]
 notes: ""
-last_edited: 2026-11-19
+last_edited: 2026-11-22
 ---
 
 God bless you, beloved souls. Indeed it is important to pray. It is important to start your day in prayer and to set out your intentions to God, and to listen for God's intentions for you, my beloveds. For as you pray and open that channel and that connection with your Creator, as you receive His Love flowing in your souls, as you open your minds and your hearts, you then are receptive to God's guidance, you then draw us angels into your midst, you then set up the flow, the process, the unfolding of this Light and guided outpourings to all those you meet.

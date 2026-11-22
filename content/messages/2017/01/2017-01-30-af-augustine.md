@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2016-01-23-af-augustine
   - 2017-05-11-af-jesus
+  - 2017-07-31-af-andrew
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -53,7 +54,7 @@ excerpt: >
 door: >
   Comfort may come to anyone. The Love itself comes to the one who longs for it.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-11-01
+last_edited: 2026-11-22
 ---
 
 What is it that you seek, beloveds? What is the yearning within your souls? What is the focus of your prayer? What do you seek? For in your focus and concentration and effort in prayer, bringing forth your longings, opening yourselves up to the Creator, allowing these blessings of Love to flow into you and around you, you are in the Light. When you bring these desires, these longings, these thoughts, forward in prayer, and in your quiet meditation, it is important to focus, beloveds. It is important to reach to God, the Source, and elicit this response, elicit the Holy Spirit that brings this Love into your soul. It is simple. You cannot sit back passively and expect God to touch your soul without these prayers and efforts and desire. Yes, you will receive the blessing of healing, a sense of comfort. You will come to know the feeling of this Love around you. But to receive this Love, to have this Love flow into your souls, and have its impact upon your soul, the change that comes, you must long for it. You must be open to it. You must be aligned with it.
