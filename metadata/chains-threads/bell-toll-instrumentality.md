@@ -13,9 +13,13 @@
   soul an active agent that ignites longing in others unawares, the stronger
   the Love the more resonant the toll; 2016-03-12-af-john-the-beloved frames
   it through prayer, ripples touching souls the one who prays will never know
-  of, "this is how change happens"; 2018-08-13-af-seretta-kem makes the light
-  built within itself the greatest service one can render a suffering world,
-  whatever one's circumstances.
+  of, "this is how change happens"; 2017-07-17-af-augustine has the love that
+  goes out from the seeker change as the soul fills, "so that love within you
+  takes on the qualities of Divine Love," so its touch lights a desire for the
+  Love in others, "God is using you as a channel of His Love in this way to
+  ignite the desire within those you meet"; 2018-08-13-af-seretta-kem makes
+  the light built within itself the greatest service one can render a
+  suffering world, whatever one's circumstances.
   How it travels. 2016-03-17-af-alec-gaunt says the most powerful tool is not
   argument but example and exposure to the experience, "at least half of that
   teaching is through your example"; 2016-04-12-af-andrew names the

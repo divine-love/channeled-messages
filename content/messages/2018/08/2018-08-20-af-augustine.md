@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Augustine delivers a sober and wide-ranging teaching on the escalating imbalance
@@ -44,6 +44,7 @@ questions:
   - "What does it mean that none are condemned to darkness?"
 related_messages:
   - 2015-08-17-af-jesus
+  - 2017-07-17-af-augustine
   - 2017-09-13-af-keea-atta-kem
   - 2018-08-13-af-seretta-kem
 audio_url: ""
@@ -57,7 +58,7 @@ excerpt: >
 collections: ["Awakening Humanity", "The Saints & Apostles Speak"]
 door: >
   Pray with faith and joy. For it is in this opening and joyful acknowledgment of God that the power required to heal your world will come
-last_edited: 2026-10-29
+last_edited: 2026-11-22
 ---
 
 I am Augustine, your teacher. Indeed, you see the outward manifestations of man's condition, a result of humanity's lack of love for their planet, for themselves, for one another. For when love is present, there is harmony and when the human condition intensifies as it has, and the viewpoint, perspective, of most in your world is that of the material, and a great desire for the accumulation of wealth with no concern for the effects upon your earth and upon your brothers and sisters, there comes outward manifestations of the disharmony that exists in your world.

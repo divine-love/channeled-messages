@@ -72,7 +72,8 @@
   response-follows-longing in a single clause, which the Foundation carries
   developed; 2016-09-01-af-seretta-kem, the proportionality form, "the
   capacity to receive this Love is unlimited, only restricted by your own
-  desires and longings."
+  desires and longings"; 2017-07-17-af-augustine, the Love received lighting a
+  longing for more, "It ignites a thirst of longing and desire for more".
   Witnesses, the floor corroborated. 2016-09-10-af-andrew states the
   minimum-requirement claim of 2016-09-04-af-john-the-beloved through a
   different spirit, "All it requires is some time, some focus, to come to know

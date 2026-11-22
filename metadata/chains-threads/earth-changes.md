@@ -66,7 +66,10 @@
   changing," with the Earth to be "healed and brought back into balance";
   2017-01-15-af-peter, the cause as humanity's collective will and its
   "desire for the material above all else," the remedy placed outside human
-  effort, "these dilemmas, beloved souls, cannot be cured by the will of man."
+  effort, "these dilemmas, beloved souls, cannot be cured by the will of man";
+  2017-07-17-af-augustine, the fires outside the window as "a manifestation of
+  a lack of Love," with the change beginning in the seeker's "own inner world
+  and thus the world around you".
   Fences. Against `preparation-to-be-a-rock`: that thread is the readying of
   souls; this is the Earth's own changes and their purpose. Against
   `earth-conditions-and-prayer`: that thread is the man-made darkness-field

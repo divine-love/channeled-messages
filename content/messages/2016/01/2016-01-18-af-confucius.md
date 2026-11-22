@@ -39,6 +39,7 @@ related_messages:
   - 2015-11-30-af-andrew
   - 2016-08-02-af-augustine
   - 2016-11-26-af-andrew
+  - 2017-07-17-af-augustine
   - 2018-09-01-af-augustine
 audio_url: ""
 canonical_url: ""
@@ -51,7 +52,7 @@ door: >
   you will never meet turn toward the sound.
 collections: ["Service & Mission", "Awakening Humanity"]
 notes: ""
-last_edited: 2026-10-29
+last_edited: 2026-11-22
 ---
 
 God bless you, my children, I am Confucius.

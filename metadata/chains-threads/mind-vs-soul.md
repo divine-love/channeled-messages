@@ -135,7 +135,9 @@
   and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
-  does to perception, with the cost named. The two held at once:
+  does to perception, with the cost named; 2017-07-17-af-augustine, the soul
+  and not the mind as where the Love abides and flows from, "it is your soul.
+  This is where Love abides". The two held at once:
   2016-09-09-af-andrew, the material mind as where the vestiges persist after
   the soul has changed; 2017-01-23-af-alec-gaunt, the soul "already at that
   point of awareness, knowing God's Will" while the mind's conditions "stand
