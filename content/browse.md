@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 ---
 
 # Browse All Messages
@@ -458,6 +458,7 @@ last_updated: 2026-11-21
 | [Individual Guides for Direct Voice](messages/2017/07/2017-07-09-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑09 | Angels have set aside their other work to walk beside you. The choice of every breath is still your own. |
 | [Journey Towards At-onement](messages/2017/07/2017-07-10-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑10 | Your needs are already being filled. What you no longer need, you can set down. |
 | [Encouragement and Guidance, a Blueprint for Change](messages/2017/07/2017-07-12-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑12 | The path itself is not the struggle. The struggle is in holding on. |
+| [You Are Jewels Beyond Price](messages/2017/07/2017-07-16-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑16 | No one becomes an angel overnight. The hours of prayer that seemed to change nothing were never wasted. |
 | [Only the Soul Can Know God's Love](messages/2017/08/2017-08-21-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑08‑21 | A thousand words and a million books will never bring this Truth as it is experienced by that deep Touch from God |
 | [Release of Limitations](messages/2017/09/2017-09-12-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑09‑12 | There is so much to learn, and yet there is so much to unlearn. |
 | [The Time Approaches](messages/2017/09/2017-09-12-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑09‑12 | All those years of prayer are about to open doors you have not yet imagined. |
