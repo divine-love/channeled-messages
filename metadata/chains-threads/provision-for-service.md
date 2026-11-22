@@ -59,7 +59,10 @@
   the hard times around it, "Your material needs will be met, the needs of
   your soul and spirit, all will be provided," and ties it to the people's
   part, "All the resources that are available to us are available to you if
-  you so elect to receive, to act in this responsible manner."
+  you so elect to receive, to act in this responsible manner";
+  2017-07-22-af-seretta-kem, the same work promised all it needs when the
+  circle is in harmony, "In this harmony and one voice, all will come that is
+  required for you to be successful in this venture".
   Sighting, kept for the fence it marks. 2016-09-13-af-goldie, "God will bring
   towards you as you move towards His intention there will be many blessings,
   experiences and opportunities to serve," which is opportunity rather than

@@ -45,6 +45,7 @@ questions:
 related_messages:
   - 2016-09-02-af-augustine
   - 2017-07-06-af-seretta-kem
+  - 2017-07-22-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -56,7 +57,7 @@ excerpt: >
 door: >
   The path itself is not the struggle. The struggle is in holding on.
 collections: ["Two Paths", "Service & Mission"]
-last_edited: 2026-11-20
+last_edited: 2026-11-22
 ---
 I am glad to see that you are all proactive in repairing your bodies, in enlivening your souls and bringing your thoughts into harmony, bringing light, the light of God's Love into your beings. This is what we have asked of you and you are indeed listening and making the efforts that are necessary. It is important that these things are done in balance. It is easy to focus on one thing and we have asked you to do several things. Remember, that you need not be intensively focused on one aspect but lightly focused upon all aspects. What I mean by this is each day brings a choice and when you establish a new routine, let's say a routine of thought, it takes application with each day but it does not require your full attention for there are many other things that need your attention. You have developed a prayer practice and routine, continue with this and you may intensify this if you need to. When you think of your diets it is not necessary to throw everything completely out of your old routines but to enhance that which you are already doing and eliminate those things that you know are not in harmony with your body.
 

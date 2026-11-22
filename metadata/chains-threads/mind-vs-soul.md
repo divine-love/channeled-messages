@@ -68,6 +68,10 @@
   2017-05-21-af-aekarius, the newly awakened soul as a tender newborn to be
   cared for, "you must nurture this new child within you," until "in time these
   conflicts of the mind and the soul will dissipate";
+  2017-07-22-af-seretta-kem, a foot in each as the lot of every soul on the
+  path, Jesus included, "Each and every mortal and spirit must struggle with
+  this," with seeing the difference itself a step, "To be able to discern
+  between the two is a powerful step in your soul's progression";
   2018-07-22-af-seretta-kem, the hurdle placed in the mind's patterns rather
   than the soul, "your souls have received a good measure of Divine Love and
   are bright," with the soul's condition to "inhabit your minds, to infuse

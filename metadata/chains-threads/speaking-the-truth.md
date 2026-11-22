@@ -31,6 +31,11 @@
   disharmony... and when someone speaks in terms that are grossly in error
   stand up, speak the truth," carried to the institutions that deplete the
   world and to prayer for those who confront them;
+  2017-07-22-af-seretta-kem says what must be said and what may be kept: each
+  soul is to declare in its own time that it is with God, "I declare myself as
+  a channel of God's Love and Truth," while the details of its work are its
+  own to share or keep, "God does not insist that you tell all or be open to
+  all in terms of revealing your personal activities in life";
   2018-11-05-af-john-wesley makes the claim about how change happens at all,
   "It is that individuals stand up and speak the truth no matter the
   consequences or reactions from those around them," gives the manner in

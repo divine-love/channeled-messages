@@ -44,6 +44,7 @@ related_messages:
   - 2016-11-29-af-andrew
   - 2017-01-23-af-alec-gaunt
   - 2017-07-06-af-seretta-kem
+  - 2017-07-22-af-seretta-kem
 audio_url: ""
 canonical_url: ""
 notes: ""

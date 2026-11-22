@@ -36,9 +36,12 @@
   across the veil to those who have departed; 2016-09-04-af-augustine states
   the unwitting radiance at its widest, souls touched when you walk down a
   street, blessings "far greater in number than the souls within your
-  circle"; 2019-02-04-af-jesus scales it to the collective, "God establishes
-  beachheads of Light in a darkened world," nodes expanding as the seeker
-  empowers them.
+  circle"; 2017-07-22-af-seretta-kem has the light seen even by those the
+  seeker would hide from, "your light shines for all to see," and the
+  attention it draws used by God, "it is this attention that God uses to
+  forge a channel of Love"; 2019-02-04-af-jesus scales it to the collective,
+  "God establishes beachheads of Light in a darkened world," nodes expanding as
+  the seeker empowers them.
   Where the one-way picture breaks. 2016-08-02-af-augustine turns the bell
   around, the seeker also the signal's recipient, "listen to that chime
   within you that draws you to be awake"; 2016-09-15-af-augustine denies that

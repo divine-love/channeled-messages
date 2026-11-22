@@ -31,8 +31,10 @@
   sensitivity-and-absorption claim in passing, the thread's territory without
   its argument; 2017-01-11-af-luke, the sensitivity given by the Love's touch
   and not to be carried as weight, "do not let these things be a burden to
-  you, my beloveds"; 2019-01-21-af-augustine carries the sorrow facet
-  pastorally,
+  you, my beloveds"; 2017-07-22-af-seretta-kem, the sensitive who "prefer the
+  quiet life" asked to step into the world all the same, "But God has
+  different ideas, plans for you"; 2019-01-21-af-augustine carries the sorrow
+  facet pastorally,
   "do you not feel saddened that your brothers and sisters cannot experience
   this Holy Blessing."
   Fences. Against `opposition-to-the-light-worker`: that thread is the

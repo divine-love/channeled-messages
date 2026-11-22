@@ -379,7 +379,8 @@ only stating it.
   all eternity"; 2017-07-09-af-matthew, "As you live through each day we will
   walk with you"; 2017-07-10-af-augustine, "many from the Celestial Kingdom
   who accompany you each and every day"; 2017-07-16-af-seretta-kem, "you are
-  accompanied at all times by the angels";
+  accompanied at all times by the angels"; 2017-07-22-af-seretta-kem, the path
+  walked "accompanied by the angels";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -554,7 +555,10 @@ only stating it.
   they are given, "All the resources that are available to us are available
   to you." But the list is not called enough, and the giving depends on the
   doing, which is what `provision-for-service` argues, so this message raises
-  the question recorded in Open questions. `provision-for-service` holds the
+  the question recorded in Open questions. 2017-07-22-af-seretta-kem does the
+  same for the same work, the giving resting on the circle's harmony, "In
+  this harmony and one voice, all will come that is required for you to be
+  successful in this venture". `provision-for-service` holds the
   other half
   of the same bargain, what God supplies when the work is His; this candidate
   holds the requirement side, stated as a complete minimum. Mint when a
@@ -583,9 +587,11 @@ only stating it.
   that all will unravel" set against "This tiny droplet of Light will expand
   and expand"; 2016-11-28-af-seretta-kem, with the circles' gathered prayer as
   what carries the change, "to continue the momentum of this great force of
-  change that is coming to the world"; and 2016-12-05-af-augustine, the
+  change that is coming to the world"; 2016-12-05-af-augustine, the
   gathering movement itself, "you will all join together one day in a great
-  movement that cries out for healing of this world". Mint when a message
+  movement that cries out for healing of this world"; and
+  2017-07-22-af-seretta-kem, the circle "creating a beachhead of light in the
+  darkness". Mint when a message
   develops the two-currents framing rather than restating it.
 - `unique-in-harmony`, souls of every tradition who come to the Love keep
   their distinctness, and the differences joined in harmony make the Truth

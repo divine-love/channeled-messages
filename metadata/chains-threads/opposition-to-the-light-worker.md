@@ -31,7 +31,11 @@
   "You are only vulnerable to your old habits and reactions to those
   situations which invariably come up in life," with discipline and choice as
   the answer, "You must choose to love, choose to be somewhat detached from
-  these situations."
+  these situations." 2017-07-22-af-seretta-kem says why the hard words stop
+  hurting: a circle praying as one is not reached by them, "negativity cannot
+  penetrate this light," and a person who knows who they are is not touched,
+  "they will not touch you because you will know who you are, you will know
+  that God is guiding you".
   Witnesses, human hostility offered as precedent. 2016-09-11-af-francis-of-
   assisi and 2016-09-12-af-jerome both give their own rejection to the same
   man, Francis shunned and thought "not right within my mind" and answering
