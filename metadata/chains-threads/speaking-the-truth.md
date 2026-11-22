@@ -59,7 +59,8 @@
   2016-12-21-af-alec-gaunt, the truth told when it is sought, "not to
   reprimand and judge, but to show the way gently and firmly to God";
   2017-04-20-af-augustine, many speaking "in one voice that Love is truly the
-  answer."
+  answer"; 2017-07-30-af-seretta-kem, the circle to "stand up and declare that
+  the time has come for the great flood of Love to arrive".
   Fences. Against `judgment-to-love`: that thread counsels leaving another's
   honest error uncorrected; this one argues that the truth itself must be
   spoken. 2016-04-12-af-moses draws the line between them, and its exception

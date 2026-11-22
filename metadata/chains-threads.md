@@ -370,7 +370,8 @@ only stating it.
   who accompany you each and every day"; 2017-07-16-af-seretta-kem, "you are
   accompanied at all times by the angels"; 2017-07-22-af-seretta-kem, the path
   walked "accompanied by the angels"; 2017-07-30-af-augustine, "We will walk
-  beside you";
+  beside you"; 2017-07-30-af-seretta-kem, "We will continue to walk with you as
+  you travel the earth";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -582,10 +583,11 @@ only stating it.
   what carries the change, "to continue the momentum of this great force of
   change that is coming to the world"; 2016-12-05-af-augustine, the
   gathering movement itself, "you will all join together one day in a great
-  movement that cries out for healing of this world"; and
-  2017-07-22-af-seretta-kem, the circle "creating a beachhead of light in the
-  darkness". Mint when a message
-  develops the two-currents framing rather than restating it.
+  movement that cries out for healing of this world"; 2017-07-22-af-seretta-kem,
+  the circle "creating a beachhead of light in the darkness"; and
+  2017-07-30-af-seretta-kem, the parched lands of the world "flooded with Love".
+  Mint when a message develops the two-currents framing rather than restating
+  it.
 - `unique-in-harmony`, souls of every tradition who come to the Love keep
   their distinctness, and the differences joined in harmony make the Truth
   fuller rather than divide it, so every seeker is to be accepted. Seen:
