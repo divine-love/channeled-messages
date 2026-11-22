@@ -27,6 +27,10 @@
   know You. I want to know my true self," with the soul lost beneath the
   mind's filters and the soul as the route, "it is the soul that will draw
   you to God, if you listen."
+  2017-07-29-af-confucius makes knowing the soul the first step to Truth,
+  "this is the first step in coming to know Truth," because the soul is what
+  can know God, "For your souls have the capacity to know God in a deep and
+  intimate way."
   2018-11-29-af-abdullah-latif extends the Foundation in two
   directions it does not reach. He makes the knowing a prerequisite for action
   rather than a route to God only, "you cannot know what it is to pray until

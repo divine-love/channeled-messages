@@ -136,7 +136,9 @@
   "through your connection with God"; 2017-03-09-af-aekarius, "a desire to
   know not from the mind, but from the soul"; 2017-04-10-af-james, the mind's
   image "merely the reflection of the mind," to be discerned from the soul's;
-  and
+  2017-07-29-af-confucius, the mind's answers as speculation and the soul's
+  knowing as firm, "Truth that is solid as the ground you have your feet
+  upon"; and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named; 2017-07-17-af-augustine, the soul

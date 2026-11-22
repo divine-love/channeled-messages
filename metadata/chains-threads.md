@@ -523,7 +523,10 @@ only stating it.
   people miss it. Seen: 2016-03-14-af-mary (states it crisply but does not
   build the argument); 2016-11-21-af-confucius, which says where a person must
   stand to see it, "as your soul grows you will be able to see from that
-  perspective of the soul and understand the true purpose of your life." Mint
+  perspective of the soul and understand the true purpose of your life."
+  2017-07-29-af-confucius names the purpose, "that great purpose of each soul
+  which is to find its at-onement with God," and puts the knowing of it in the
+  soul rather than the mind. Mint
   when a message develops the argument rather than asserting it. Its
   search-level home meanwhile is the subject "Divine Purpose" ("Purpose &
   Meaning of Life" is not a subject in subjects.yml).
@@ -640,6 +643,8 @@ only stating it.
   2017-06-28-af-augustine gives a reason, "For you can never receive enough
   of this great essence of Love, it is infinite." 2017-07-16-af-seretta-kem,
   "It is a never-ending journey into joy, into at-onement with God."
+  2017-07-29-af-confucius, "so immense His Love for each one of you, that you
+  can never receive all of it."
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the

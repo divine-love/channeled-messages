@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2015-06-24-af-augustine
   - 2016-05-16-af-keea-atta-kem
+  - 2017-07-29-af-confucius
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -54,7 +55,7 @@ door: >
   Something is moving in you, and it is not restlessness. It is the Love,
   changing you for all eternity.
 collections: []
-last_edited: 2026-10-29
+last_edited: 2026-11-22
 ---
 
 Bless you, my beloveds, Confucius is with you in your prayers.
