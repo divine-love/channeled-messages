@@ -1,7 +1,7 @@
 ---
 title: "Browse All Messages"
 description: "Augustine teaches that hidden within each channeled message is a great door to growing your souls and making yourselves a clearer channel of Love in the world. This index collects those doors - one per message - as an invitation to enter."
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 ---
 
 # Browse All Messages
@@ -469,6 +469,7 @@ last_updated: 2026-11-22
 | [God Will Guide You to the Parched Lands of the World](messages/2017/07/2017-07-30-af-seretta-kem.md) | [Seretta Kem](../spirits/seretta-kem.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑30 | Most of the thirsty do not know they are thirsty. Your work is to help them feel it. |
 | [Sincere Prayer is a Longing From the Soul](messages/2017/07/2017-07-31-af-andrew.md) | [Andrew](../spirits/andrew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑31 | Sitting and waiting is not prayer. The longing you bring is the key that opens the door. |
 | [May Your Souls Shine with the Father's Love](messages/2017/07/2017-07-31-af-jesus.md) | [Jesus](../spirits/jesus.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑07‑31 | You were blessed so that you could bless. Lights touching lights bring comfort to the dark. |
+| [Accept God's Calling](messages/2017/08/2017-08-01-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑08‑01 | Before you teach, you are seen. Who you are and the love you give open a small door in another soul. |
 | [Only the Soul Can Know God's Love](messages/2017/08/2017-08-21-af-matthew.md) | [Matthew](../spirits/matthew.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑08‑21 | A thousand words and a million books will never bring this Truth as it is experienced by that deep Touch from God |
 | [Release of Limitations](messages/2017/09/2017-09-12-af-augustine.md) | [Augustine](../spirits/augustine.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑09‑12 | There is so much to learn, and yet there is so much to unlearn. |
 | [The Time Approaches](messages/2017/09/2017-09-12-af-confucius.md) | [Confucius](../spirits/confucius.yml) | [Al Fike](../mediums/al-fike.yml) | 2017‑09‑12 | All those years of prayer are about to open doors you have not yet imagined. |
