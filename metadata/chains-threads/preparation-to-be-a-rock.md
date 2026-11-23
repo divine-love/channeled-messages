@@ -98,10 +98,12 @@
   on God; 2017-01-15-af-peter, "You must prepare within yourselves," with the
   circle building "an oasis of light"; 2017-07-09-af-matthew, "God has
   invested a great deal of light within you to prepare you for these moments
-  to come"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one another,
-  "As you hold on to one another as the winds blow, so you will support and
-  save many from the coming changes," with the bonds forged now for later
-  need.
+  to come"; 2017-08-01-af-augustine, the strength asked of those who will lead
+  others through the upheavals, "You must recognize the strength of your
+  souls"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one
+  another, "As you hold on to one another as the winds blow, so you will
+  support and save many from the coming changes," with the bonds forged now
+  for later need.
   Structural note: the fence is that a message must carry the readying itself,
   God's preparation of a soul for what is coming, and not merely the coming
   changes or a general call to grow. It is not that the message must contain a

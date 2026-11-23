@@ -45,6 +45,7 @@ related_messages:
   - 2016-09-06-af-mary
   - 2016-10-24-af-confucius
   - 2016-12-21-af-alec-gaunt
+  - 2017-08-01-af-augustine
 audio_url: ""
 canonical_url: ""
 notes: >
@@ -58,7 +59,7 @@ excerpt: >
 door: >
   The circle is the easy part. God can only use you out among those who need you.
 collections: ["The Saints & Apostles Speak", "Mind & Soul", "Service & Mission", "Awakening Humanity"]
-last_edited: 2026-10-30
+last_edited: 2026-11-22
 ---
 
 I doubt you will have trouble hearing my voice today and it is good that you pray for one another to allow the healing energies and the blessings to flow freely amongst yourselves.

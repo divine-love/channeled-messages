@@ -73,6 +73,7 @@
   2016-12-02-af-white-cloud, 2016-12-28-af-alec-gaunt,
   2017-01-02-af-seretta-kem, 2017-02-15-af-confucius,
   2017-07-16-af-seretta-kem, 2017-07-30-af-seretta-kem,
+  2017-08-01-af-augustine,
   2019-01-21-af-augustine.
   Structural note: the thread holds a deliberate tension and both sides
   stand. The Capstone has the signal going out even in idle silence, while

@@ -20,6 +20,11 @@
   may adjust and prepare with each onslaught," and what follows is renewed
   rather than undone, "many of your technologies and accomplishments will
   remain but how they are used and utilized will change";
+  2017-08-01-af-augustine says why so few see what is coming: what people have
+  built shelters them from the results of their own error, "an illusion that
+  gives them the impression that they are safe," and the seekers must "pull
+  back the illusions, that curtain," while those willing to live the new way
+  "will find this transition much less dramatic";
   2017-09-13-af-keea-atta-kem gives the manifestation material, magnetic
   shifts, animal disruption, and the closed-system consequences of ignoring
   the Laws of Creation, and sends those carrying Divine Love to scientists,

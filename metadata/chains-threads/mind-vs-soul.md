@@ -125,7 +125,9 @@
   2016-10-24-af-confucius, the agency axis restated; 2016-12-05-af-augustine,
   the soul taking "ascendency over your mind" and the mind beginning "to
   acquiesce to your soul"; 2017-01-15-af-peter, "a mind that bows to the
-  soul"; and 2019-01-21-af-augustine, the succession stated
+  soul"; 2017-08-01-af-augustine, the strength for the work drawn from the soul
+  each day rather than willed from the mind; and 2019-01-21-af-augustine, the
+  succession stated
   as humanity's next step, the same claim as 2016-08-31-af-martin-luther. How
   the soul knows: 2016-09-02-af-augustine, the ineffability claim;
   2016-10-26-af-augustine, the soul as the image of God offered as the reason

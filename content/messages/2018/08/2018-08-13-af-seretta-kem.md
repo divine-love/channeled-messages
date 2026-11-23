@@ -9,7 +9,7 @@ location:
   city: Gibsons
   region: BC
   country: Canada
-gathering:
+gathering: ""
 message_type: ["Teaching"]
 description: >
   Seretta Kem speaks urgently about the intensifying imbalance of the Earth and
@@ -39,8 +39,9 @@ questions:
   - "What does it mean to walk as a channel of love in a troubled world?"
   - "How do I maintain my light when the world feels overwhelming?"
 related_messages:
-  - 2017-09-13-af-keea-atta-kem
   - 2015-08-17-af-jesus
+  - 2017-08-01-af-augustine
+  - 2017-09-13-af-keea-atta-kem
   - 2018-03-26-af-james
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/growing-the-light-within-your-souls-is-the-greatest-service-to-god/"
@@ -53,7 +54,7 @@ excerpt: >
 collections: ["Awakening Humanity"]
 door: >
   No matter what situation you are in in your life, it is the light that you carry and the light that builds within you that will have the greatest effect
-last_edited: 2026-10-29
+last_edited: 2026-11-22
 ---
 
 Yes, you can see plainly the changes that are happening in your world, how the earth is imbalanced and needs to come back into balance, back into harmony with the rhythms and cycles that God has created in your world. These conditions will unfortunately intensify, as so many blindly ignore the warnings and the manifestations that have come because humanity has not lived in this world with a sense of love, kindness, respect, wisdom. Beloved souls, God compels you and every soul in this world, to seek to uplift your thinking and to uplift your souls in love. That you may walk the world in peace and harmony, in wisdom and love. What greater thing can you do at this time than to do this; to pray and be close to God, to seek to be in harmony within yourself and at harmony with the world.

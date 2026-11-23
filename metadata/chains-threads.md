@@ -371,7 +371,8 @@ only stating it.
   accompanied at all times by the angels"; 2017-07-22-af-seretta-kem, the path
   walked "accompanied by the angels"; 2017-07-30-af-augustine, "We will walk
   beside you"; 2017-07-30-af-seretta-kem, "We will continue to walk with you as
-  you travel the earth";
+  you travel the earth"; 2017-08-01-af-augustine, "we will accompany you, the
+  angels will surround you";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";
@@ -634,7 +635,9 @@ only stating it.
   of this great essence of Love, it is infinite." 2017-07-16-af-seretta-kem,
   "It is a never-ending journey into joy, into at-onement with God."
   2017-07-29-af-confucius, "so immense His Love for each one of you, that you
-  can never receive all of it."
+  can never receive all of it." 2017-08-01-af-augustine, the soul's capacity
+  "of knowing God is infinite given an adequate amount of the blessing of
+  Divine Love."
 - `world-governed-by-god`, the end state of the Plan stated as a change of
   governance rather than as an awakening: the world passes from being governed
   by man to being governed by God. Seen: 2016-09-05-af-andrew, "the
