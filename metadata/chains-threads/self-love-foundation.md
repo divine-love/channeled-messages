@@ -19,14 +19,17 @@
   makes the servant believable, "Part of the credibility that you must earn
   with those souls is the ability to love yourself," and names what blocks
   it, "your own thoughts that you are unworthy or a failure or that you do
-  not love yourself"; 2017-07-16-af-seretta-kem makes self-love patience with
-  one's own slow growth, "You cannot expect to be an angel overnight," with
-  kindness to oneself growing into kindness to others, "as this grows within
-  you, you will feel greater tolerance, acceptance and love for those around
-  you"; 2019-04-05-af-augustine states it as logic from the other
+  not love yourself"; 2019-04-05-af-augustine states it as logic from the other
   side, "Come to understand yourself above all, to accept yourself above
   all... In this way, how can you judge another when you are being of love and
   acceptance, joy and light?"
+  Objection removed, that one is failing for not measuring up, anchor:
+  2017-07-16-af-seretta-kem names the habit of self-criticism, "looking at
+  yourself as if not measuring up to what is asked of you and what is truth,"
+  and clears it, "Beloveds, you live in this world and are human. You cannot
+  expect to be an angel overnight." Patience with oneself then grows into
+  patience with others, "as this grows within you, you will feel greater
+  tolerance, acceptance and love for those around you."
   Witnesses, the order of the loves. 2014-12-01-af-john-the-beloved, "it is
   your challenge to love yourselves and in so doing to truly love your fellow
   man"; 2015-03-28-af-augustine puts being loved by God first, "you are truly

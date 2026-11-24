@@ -68,10 +68,6 @@
   2017-05-21-af-aekarius, the newly awakened soul as a tender newborn to be
   cared for, "you must nurture this new child within you," until "in time these
   conflicts of the mind and the soul will dissipate";
-  2017-07-22-af-seretta-kem, a foot in each as the lot of every soul on the
-  path, Jesus included, "Each and every mortal and spirit must struggle with
-  this," with seeing the difference itself a step, "To be able to discern
-  between the two is a powerful step in your soul's progression";
   2018-07-22-af-seretta-kem, the hurdle placed in the mind's patterns rather
   than the soul, "your souls have received a good measure of Divine Love and
   are bright," with the soul's condition to "inhabit your minds, to infuse
@@ -94,7 +90,12 @@
   and the red making an orange. Clear this before the Chrysalis section, which
   does not read correctly without it. From the same spirit,
   2015-05-18-af-augustine asks the human part to "essentially fall away,"
-  which this Reframe refines.
+  which this Reframe refines. Section member: 2017-07-22-af-seretta-kem turns
+  the seekers' lament at standing with a foot in each world into a sign of
+  progress, "this, my beloveds, has brought you further than many upon this
+  world. To be able to discern between the two is a powerful step in your
+  soul's progression," a struggle shared by every soul on the path, Jesus
+  included, "Each and every mortal and spirit must struggle with this."
   Chrysalis, anchor: 2018-10-09-af-seretta-kem, the two minds merging until
   "there will be no sense of separation," with oneness denied the status of an
   ending, "even this is not the end but merely the beginning." Section member:
