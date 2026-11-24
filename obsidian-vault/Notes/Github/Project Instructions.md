@@ -2,7 +2,7 @@
 
 # For use as project knowledge in Claude conversations
 
-# Last updated: 2026-11-20
+# Last updated: 2026-11-23
 
 # THE REPOSITORY IS CANONICAL. These instructions carry only what the repo
 
@@ -61,7 +61,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 
 - Order of work: messages are not added in date order. The curator chooses each message, so any year may have gaps, and messages arrive at both ends of the archive and in the middle. Never describe the work as a "catch-up" or say where it "resumes". Before cataloguing, check the index for a collision rather than assuming a message is new because of its date
 - Chains reading: every message in the archive should end up with a log entry. The messages still to be read for chains are exactly those with no entry in `metadata/chains-log/`; compare the log headings with `content/messages/` to list them
-- Chains layer: 44 minted threads, each with its own roster file; 19 candidates in the holding pen; 2 patterns recorded and not penned. All validator debt counters are at 0, so a newly minted thread needs its registry row, its roster file and its `CHAIN_GROUPS` entry in `generate_vault.py` in the same commit
+- Chains layer: 45 minted threads, each with its own roster file; 18 candidates in the holding pen; 2 patterns recorded and not penned. All validator debt counters are at 0, so a newly minted thread needs its registry row, its roster file and its `CHAIN_GROUPS` entry in `generate_vault.py` in the same commit
 - Chains layout (split 2026-11-14): `chains-log.md` and `chains-threads.md` hold the rules, registry, holding pen, patterns and open questions; entries are in `metadata/chains-log/` by year, rosters in `metadata/chains-threads/` by slug. `chains_io.py` reads them together for `validate_chains.py` and `generate_vault.py`. `last_updated` is carried by the two front-door files only
 - Context notes are retired (2026-11-20): the log holds only what develops threads. Older context notes stay until the context-note audit moves them (see Deferred); the validator still accepts the kind until then
 - Quotes in context (2026-11-14): in the unpublished Threads (working) pages, every record has a fold-out showing the paragraph its quoted words come from. `generate_vault.py` reports how many quoted passages it could not locate; that number is 0 and should stay 0. The published thread pages link to whole messages only, never to a passage, by the curator's ruling
@@ -69,15 +69,17 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - No rank claims anywhere in the repository (2026-11-20): never call a message the first, earliest or latest, whether in the archive or "in hand", in notes, spirit files or the chains layer
 - Subjects are subcategory names only (2026-11-20): main category names are never used as subjects. Some older messages still carry one (the subject census at the end of `validate_messages.py` counts them)
 - The door is one or two sentences within 300 characters (ruling 2026-11-15)
-- Direct Voice: a "(DV)" in a source title means a Direct Voice sitting. Set `gathering: "Direct Voice"` and leave "(DV)" out of the catalogued title. A Direct Voice sitting held during a retreat keeps the retreat name, with the setting in `notes`. These sittings become frequent in the later years
+- Direct Voice: a "(DV)" in a source title means a Direct Voice sitting. Set `gathering: "Direct Voice"` and leave "(DV)" out of the catalogued title. A Direct Voice sitting held during a retreat keeps the retreat name, with the setting in `notes`. These sittings become frequent in the later years A Direct Voice sitting can be one person praying alone at the same hour as others elsewhere; mark it the same way
 - Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and nothing else points to it. Declarations to affirm, and a circle's own prayer that a spirit quotes, get no practice file
 - "Not publicly posted online." is retired (2026-10-12): a blank `canonical_url` alone records that no public copy is known
 - Portal watch closed 2026-08-06 on the minting of `portals`; portal sightings continue as ordinary thread traffic (2016-03-25 loose → 2016-08-25 established → 2018-11-21 and 2019-01-26 doctrine → 2019-04-06 boundary)
-- Mediums on file: Al Fike (af), Barbara Davies (bd), Maureen Cardoso (mc), Dr. Daniel Samuels (ds), Jimbeau Walsh (jw), anonymous (xx)
+- Mediums on file: Al Fike (af), Barbara Davies (bd), Maureen Cardoso (mc), Dr. Daniel Samuels (ds), Jimbeau Walsh (jw), Helge Mercker (hm), anonymous (xx). Medium initials are the first letters of the first and last names, whatever a source's closing line uses
 - sri-yukteswar (Yogananda's guru) has a spirit file; he channels later and is distinct from sri-yarisupta
 - Kay Dunbar (passed 2019-04): mother of Jeanne Fike (wife of Al Fike) and Judy Dunbar; her "dear Albert" is Al Fike; watch for her later message through him
 - Alec Gaunt hosted Direct Voice prayer circles in his earth life, by the curator's account. His spirit file records only what messages state, so add it when a message says so
 - Publishing: the site is made by Obsidian Publish from the generated vault, with `Threads (working)` and `Notes` left out; nothing is changed by hand once it is live. On the site, chains are called threads; the repository keeps its own names. The vault uses the Front Matter Title plugin (Graph feature only) and Sync Graph Settings
+- Titles (2026-11-23): when a source has no title, create one; a created title carries no asterisk or other mark
+- Roles: before settling on Elaboration, ask whether a message clears a named belief (Objection removed), turns an idea around (Reframe), describes the transformed state (Chrysalis), gives a first-hand account (Testimony) or completes the argument (Capstone). The handoff says more
 - Subject vocabulary: 96 subjects under 21 main categories; CI validates every subject and prints a usage census on every push
 
 ## Deferred / pending
@@ -85,7 +87,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - Chains reading of the messages that have no log entry (the handoff lists the 2016 ones)
 - Context-note audit: move each older context note in the log to the message's `notes` or the spirit or medium file, drop the prayer-file pointers, then retire the `(context)` kind in `validate_chains.py`, the `chains-log.md` design block and the handoff together. Propose the moves to the curator first
 - Main category sweep: give each older message that carries a main category name a subcategory instead (the subject census at the end of `validate_messages.py` shows which main category names are still used)
-- Chrysalis audit (the handoff lists the candidates; `soul-expiation` holds 2018-07-14-af-seretta-kem as a candidate)
+- Chrysalis audit (the handoff lists the candidates; `soul-expiation` holds 2018-07-14-af-seretta-kem and `two-paths` holds 2017-07-30-af-augustine as candidates)
 - The Cowork Prompt Kit is retired in favour of the Conversation Prompt Kit; remove it when ready
 - audio_url to be populated as recordings are found
 - Possible tenth collection for children and the young (Children & Future Generations subject exists)
