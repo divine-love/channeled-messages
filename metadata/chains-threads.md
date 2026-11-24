@@ -375,7 +375,7 @@ only stating it.
   beside you"; 2017-07-30-af-seretta-kem, "We will continue to walk with you as
   you travel the earth"; 2017-08-01-af-augustine, "we will accompany you, the
   angels will surround you"; 2017-08-02-hm-augustine, "You are never alone. We
-  walk with you."; 2017-08-06-af-jesus, "We accompany you with every moment";
+  walk with you."; 2017-08-06-af-jesus-2, "We accompany you with every moment";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";

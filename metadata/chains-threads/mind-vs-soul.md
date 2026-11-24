@@ -127,7 +127,7 @@
   the soul taking "ascendency over your mind" and the mind beginning "to
   acquiesce to your soul"; 2017-01-15-af-peter, "a mind that bows to the
   soul"; 2017-08-01-af-augustine, the strength for the work drawn from the soul
-  each day rather than willed from the mind; 2017-08-06-af-jesus, the
+  each day rather than willed from the mind; 2017-08-06-af-jesus-2, the
   world's problems taken up by the mind without the soul's love, "your
   problems will multiply"; and 2019-01-21-af-augustine, the
   succession stated

@@ -1,3 +1,4 @@
+Message notes don't appear on website
 # Messages with no chains log entry
 
 ## 2015 (161)

@@ -46,7 +46,7 @@
   along, "you will bring those who are with you along into that greater
   light." 2016-05-12-af-alec-gaunt gives the same assurance in one sentence
   inside its Elaboration; this message makes it the argument.
-  Capstone, presumptive anchor: 2017-08-06-af-jesus confirms the name, "your
+  Capstone, presumptive anchor: 2017-08-06-af-jesus-2 confirms the name, "your
   name of the vanguards is correct for you are vanguards; you enter forth
   into new territory," and carries the argument to its end. God's Will
   carries them "to many places in this world," the doors open, "the path will
