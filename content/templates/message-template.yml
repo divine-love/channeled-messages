@@ -11,7 +11,7 @@
 
 message_id: 2025-01-01-af-spirit-id   # REQUIRED. Pattern: YYYY-MM-DD-{medium_initials}-{spirit_id}, always fully lowercase
 
-title: "Your Curated Title Here"       # REQUIRED. Always wrap in double quotes. If curator-supplied (not original), append an asterisk, e.g., "Title Here*"
+title: "Your Curated Title Here"       # REQUIRED. Always wrap in double quotes. If the source has none, create one; a created title carries no mark.
 
 date: 2025-01-01                       # REQUIRED. ISO date (YYYY-MM-DD) the message was received.
 

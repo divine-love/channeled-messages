@@ -49,6 +49,7 @@ related_messages:
   - 2017-06-23-af-seretta-kem
   - 2017-06-24-af-confucius
   - 2017-07-06-af-seretta-kem
+  - 2017-08-02-hm-augustine
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -59,7 +60,7 @@ excerpt: >
 door: >
   Darkness has no door into you except the one your old habits leave open.
 collections: ["Service & Mission", "Mind & Soul"]
-last_edited: 2026-11-20
+last_edited: 2026-11-23
 ---
 
 Good morning, I am Seretta Kem. Yes, this instrument has experienced problems with his vision and knows these things will be corrected in time. It is an indication of a need to adjust certain aspects of the blood and to put limitations upon the physical exertion for he is no longer a young man, though not old, certainly not in his opinion [smiling]. He is experiencing some limitations and he must respect these limitations and he must understand that there are solutions to these problems, physical imbalances and weaknesses. Certainly an overhaul of diet would be very beneficial. He understands that his lack of physical exercise in the last little while has had its price upon his body. Exercise is also very important as it is with all of you.

@@ -1,6 +1,6 @@
 ---
 message_id: 2016-11-27-af-james-reid-2
-title: "Many Souls on Our Side Are Part of This Effort*"
+title: "Many Souls on Our Side Are Part of This Effort"
 date: 2016-11-27
 spirit_id: james-reid
 spirit_name: "James Reid"
@@ -41,8 +41,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  The source header carries no title; the title here is curator-supplied,
-  marked with an asterisk. Received the same day as 2016-11-27-af-james-reid.
+  Received the same day as 2016-11-27-af-james-reid.
 essential_teachings: []
 language: en
 excerpt: >
@@ -51,7 +50,7 @@ excerpt: >
 door: >
   The gathering you can see is the smaller half of it.
 collections: []
-last_edited: 2026-08-25
+last_edited: 2026-11-23
 ---
 
 Your brother James [Reid] is very happy, very happy indeed to be a part of these efforts. To continue his work to bring the truth to mankind and so we gather many souls on our side of life, vastly more than are in the flesh. Remember this, beloved souls, there are many involved in these efforts and are touched by your gatherings and prayers together. Much is accomplished.

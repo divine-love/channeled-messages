@@ -8,7 +8,7 @@ description: >
   file per thread. Companion to chains-log.md, which holds the rules for the
   chronological per-message evidence. This layer is NOT generated and NOT a
   schema. Nothing here is final.
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 status: working notes only, do not generate from this file
 companion: chains-log.md
 ---
@@ -372,7 +372,8 @@ only stating it.
   walked "accompanied by the angels"; 2017-07-30-af-augustine, "We will walk
   beside you"; 2017-07-30-af-seretta-kem, "We will continue to walk with you as
   you travel the earth"; 2017-08-01-af-augustine, "we will accompany you, the
-  angels will surround you";
+  angels will surround you"; 2017-08-02-hm-augustine, "You are never alone. We
+  walk with you.";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";

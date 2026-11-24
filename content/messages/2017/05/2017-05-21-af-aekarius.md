@@ -1,6 +1,6 @@
 ---
 message_id: 2017-05-21-af-aekarius
-title: "What You Desire and What God Desires*"
+title: "What You Desire and What God Desires"
 date: 2017-05-21
 spirit_id: aekarius
 spirit_name: "Aekarius"
@@ -54,7 +54,7 @@ door: >
   The soul being born in you is tender and young. Be as patient with it as you
   would be with a newborn.
 collections: ["Mind & Soul"]
-last_edited: 2026-11-18
+last_edited: 2026-11-23
 ---
 
 I am Icarious and I lived in Phoenicia many hundreds, thousands of years ago. And I come to talk about what it is that you desire, compared to what it is that God desires.

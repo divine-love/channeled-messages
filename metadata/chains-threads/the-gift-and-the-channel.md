@@ -67,7 +67,9 @@
   that prayer is the foundation for this effort"; 2017-07-22-af-seretta-kem,
   what each must declare being that they are with God rather than that they
   prepare for the gift, "I do not say that they must declare I am preparing
-  for this gift"; 2017-10-25-af-yogananda, the Truth
+  for this gift"; 2017-08-02-hm-augustine, a daily routine of prayer and
+  trust as part of "the preparation for Direct Voice"; 2017-10-25-af-yogananda,
+  the Truth
   carried "whether you are endowed with the gift of Direct Voice or not";
   2018-06-24-af-luke, "But first you must be the epitome of this Love."
   Fences. Against `divine-love-mediumship`: that thread is how a medium

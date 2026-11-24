@@ -140,7 +140,9 @@
   image "merely the reflection of the mind," to be discerned from the soul's;
   2017-07-29-af-confucius, the mind's answers as speculation and the soul's
   knowing as firm, "Truth that is solid as the ground you have your feet
-  upon"; and
+  upon"; 2017-08-02-hm-augustine, the soul's knowing and trusting as something
+  to practise daily, "It needs to be activated. It needs to be practised";
+  and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named; 2017-07-17-af-augustine, the soul

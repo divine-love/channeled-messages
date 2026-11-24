@@ -46,6 +46,10 @@
   2017-06-12-af-seretta-kem gives a sign to look for, an old trigger that no
   longer moves the seeker, "a sure sign of your own progression," with the
   dark stretches shortening "until they disappear altogether";
+  2017-08-02-hm-augustine has the change felt before it is understood, "a
+  detection of something that has changed but not a complete awareness of
+  what it might be," then slowly revealed, with the joy of surprise, "these
+  sudden, unexpected discoveries of oneself";
   2019-04-05-af-augustine extends the claim to the apprehension of truth
   itself, in the thread's own word, "It is a long journey, beloveds, to the
   Truth. It is incremental. It is something that builds in understanding,"

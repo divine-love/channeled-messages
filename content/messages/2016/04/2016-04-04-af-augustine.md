@@ -1,6 +1,6 @@
 ---
 message_id: 2016-04-04-af-augustine
-title: "God Provides for Those Who Serve*"
+title: "God Provides for Those Who Serve"
 date: 2016-04-04
 spirit_id: augustine
 spirit_name: Augustine
@@ -59,7 +59,7 @@ excerpt: >
 door: >
   God does not send His servants out unprovided. The worry, not the money, is the barrier.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-10-13
+last_edited: 2026-11-23
 ---
 
 I’ve heard the conversation amongst my students regarding the support that they desire in doing God’s work. They’ve asked for guidance and I am here to give this guidance. First and foremost, when a child embarks upon a mission guided by God, all that is required is provided on every level, including a monetary level, and there should be no need for conflict or worry, a sense of guilt, or a sense that these material and spiritual aspects will not be provided, for indeed they will, and you must not put in front of you barriers to this. But it should also be noted that God’s servants must do so with humility and grace and balance.

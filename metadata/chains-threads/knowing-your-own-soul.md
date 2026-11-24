@@ -71,7 +71,9 @@
   ask God"; 2017-07-17-af-augustine puts the two side by side as what matters
   most, "your relationship with God, your relationship with your own soul";
   2017-07-31-af-andrew, the soul's true desire known before it is prayed, "The
-  mind may have an idea of what it is you really desire, but the soul knows".
+  mind may have an idea of what it is you really desire, but the soul knows";
+  2017-08-02-hm-augustine, the group told "over and over again to dive into
+  your souls".
   Fences. Against `mind-vs-soul`: that thread asks which faculty perceives
   truth and ends in the two minds integrating; this one asks what must be
   known first, and its move is sequence rather than comparison. The Foundation

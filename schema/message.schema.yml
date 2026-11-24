@@ -31,7 +31,8 @@ properties:
   title:
     type: string
     description: >
-      Human-readable title. If curator-supplied (not from the original), append an asterisk *.
+      Human-readable title. If the source has none, the curator creates one;
+      a created title carries no mark.
 
   date:
     type: string
