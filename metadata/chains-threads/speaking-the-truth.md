@@ -31,16 +31,19 @@
   disharmony... and when someone speaks in terms that are grossly in error
   stand up, speak the truth," carried to the institutions that deplete the
   world and to prayer for those who confront them;
-  2017-07-22-af-seretta-kem says what must be said and what may be kept: each
-  soul is to declare in its own time that it is with God, "I declare myself as
-  a channel of God's Love and Truth," while the details of its work are its
-  own to share or keep, "God does not insist that you tell all or be open to
-  all in terms of revealing your personal activities in life";
   2018-11-05-af-john-wesley makes the claim about how change happens at all,
   "It is that individuals stand up and speak the truth no matter the
   consequences or reactions from those around them," gives the manner in
   Jesus, who "merely stated the truth with calm resolution," and asks for
   persistence, "to not give up ever but to carry on."
+  Reframe, anchor: 2017-07-22-af-seretta-kem turns the call to speak around.
+  What a soul must declare is that it is with God, not every detail of its
+  work, "I do not say that they must declare I am preparing for this gift.
+  This is not what I mean. But they must say I am with God, I declare myself
+  as a channel of God's Love and Truth." The rest is the soul's own to share
+  or keep, "God does not insist that you tell all or be open to all in terms
+  of revealing your personal activities in life," and each declares it "in
+  their own time and their own way."
   Testimony, anchor: 2015-08-20-af-james-padgett, the medium of the
   foundational messages on his own fear, "I was afraid of what others thought
   of me. I was fearful for my career, my reputation, my standing in the

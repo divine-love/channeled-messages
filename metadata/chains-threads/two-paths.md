@@ -20,11 +20,7 @@
   to know these distinctions"; 2016-04-02-af-jesus sharpens the terminus,
   "Their road ends where your road begins. And your road goes on for all
   eternity, for God's Love is infinite," adding the soul's unlimited capacity
-  and the will as its only limit; 2017-07-30-af-augustine puts the difference
-  in what each road makes of the soul: the natural road brings purification
-  and harmony but leaves "still a human soul," while the soul transformed in
-  Divine Love "is not merely a spirit but a being that reflects more the
-  Divine than the human or the spirit"; 2017-09-12-af-martin-luther names the
+  and the will as its only limit; 2017-09-12-af-martin-luther names the
   Divine road's purifying as a Law above the others, "There is one Law that
   supersedes all others and that is the Law of Divine Love," by which the soul
   is "able to sidestep many of these conditions" the natural road must work
@@ -50,6 +46,11 @@
   while keeping the ceiling, "There is a state of harmony but it can go no
   further than this." So the roads differ in how far they reach, not in
   whether the love is good.
+  Chrysalis, presumptive anchor: 2017-07-30-af-augustine describes the soul
+  the Divine road makes, as it stands. The natural road leaves "still a human
+  soul," while the soul transformed in the Love becomes something new, "They
+  cease to become human, they become Divine angels," "a being that reflects
+  more the Divine than the human or the spirit."
   Testimony, anchor: 2016-05-29-af-aman, the whole architecture walked by a
   single soul: the refusal, the fall, the climb up the natural path to "our
   previous exalted state within the sixth sphere or natural heavens," and

@@ -31,10 +31,7 @@
   to be for you, it is what God craves"; 2017-05-21-af-augustine names the
   longing as what God must answer, "for this is a law," with no reading able to
   stand in for it, "you may study a thousand books, a million books, but this
-  will not bring you to God"; 2017-07-31-af-andrew sets sincere prayer against
-  prayer said "out of obligation or habit" and against sitting in wait, "all
-  you will feel is a vacuum around you," because "nothing is happening when
-  you express nothing other than that which is in your mind."
+  will not bring you to God."
   Elaborations, what it asks of the seeker. 2016-07-11-af-confucius adds the
   cadence requirement and its cost, "you, my beloveds, must take the time,
   make the effort, say the prayers, sit in silence to receive God's answers to
@@ -59,6 +56,16 @@
   in joy, but in fear. To cry out in confusion, to cry out tinged with error,"
   and prescribes escalation, the intensity "doubled and redoubled until you
   come to that point where the Pentecost is assured."
+  Objection removed, that sitting and waiting is enough, anchor:
+  2017-07-31-af-andrew names the belief and clears it, "So do not come to
+  these circles or come to God when you take this time in prayer and sit and
+  wait to receive something without expressing a true desire within
+  yourselves, a true longing." Waiting without the longing brings "a vacuum
+  around you," because "nothing is happening when you express nothing other
+  than that which is in your mind," and prayer is not a habit either, "I do
+  not say that you should say a prayer out of obligation or habit." The
+  longing is what opens the door, "this is the key that you need to elicit a
+  response from God."
   Capstone: 2018-07-30-af-keea-atta-kem gives a full treatment and ties the
   argument to a named law. Prayer is the language of the soul and an act of
   faith opening a thread of light to God; the mechanism is named, "It is
