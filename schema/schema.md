@@ -5,7 +5,7 @@ All contributors should follow these conventions to ensure consistency, searchab
 
 This document complements the machine-readable file [`message.schema.yml`](./message.schema.yml), which enforces structure through automated validation.
 
-Last updated: 2026-11-20
+Last updated: 2026-11-23
 
 ---
 
@@ -146,7 +146,7 @@ Each message has a unique id using this format:
 
  - `{medium_initials}` = the first letter of the medium's first and last name, **always lowercase**.
    Example: Al Fike → `af`
-   Known mediums: Al Fike → `af`; Barbara Davies → `bd`; Maureen Cardoso → `mc`; Dr. Daniel Samuels → `ds`; Jimbeau Walsh → `jw`.
+   Known mediums: Al Fike → `af`; Barbara Davies → `bd`; Maureen Cardoso → `mc`; Dr. Daniel Samuels → `ds`; Jimbeau Walsh → `jw`; Helge Mercker → `hm`.
  - **Anonymous mediums**, when a medium wished to remain unnamed, use `xx` as the medium initials.
    Example: `2015-01-05-xx-jesus`
  - `{spirit_id}` = the spirit's unique identifier, corresponding to the name in the spirit file. Naming pattern is the spirit's full name with **each space replaced by a hyphen (-)**.
@@ -439,7 +439,7 @@ Questions should be written as a real seeker would type them into a search engin
 
 ### Subjects
 
-`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. Subjects are always subcategory names. The main category names in `subjects.yml` group the subjects and are never used as a subject themselves, so that every message is filed in its proper place. Use the most specific subcategory that fits. If none fits, propose a new subject to the curator rather than reaching for the main category; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. Some older messages still carry a main category name; when one of them is touched, choose a subcategory in its place. When a message uses a named spiritual Law as a working Law, add it as a secondary subject. A Law is used as a working Law when it is named alongside other Laws as one that operates, or when the passage describes the Law doing what its definition in `subjects.yml` says. A general phrase such as "in harmony with God's laws of Love" does not count; record such a message in `metadata/law-mentions-reviewed.yml`, which keeps the validator's review warning from repeating. When a message refers to a spiritual Law without naming it, that Law may also be added as a secondary subject, with the curator's approval.
+`metadata/subjects.yml` is the **single source of truth** for subject names. Every value in `primary_subjects` and `secondary_subjects` must match a name defined there exactly, the CI validator fails the build otherwise, and prints a subject usage census on every push. Never invent a subject name, and never copy one from memory or from a sibling file. Subjects are always subcategory names. The main category names in `subjects.yml` group the subjects and are never used as a subject themselves, so that every message is filed in its proper place. Use the most specific subcategory that fits. If none fits, propose a new subject to the curator rather than reaching for the main category; approved subjects are added to `subjects.yml` with a definition, placed in the correct parent category, and checked for overlap with existing subjects before use. Some older messages still carry a main category name; when one of them is touched, choose a subcategory in its place. When a message uses a named spiritual Law as a working Law, add it as a secondary subject. A Law is used as a working Law when it is named alongside other Laws as one that operates, or when the passage describes the Law doing what its definition in `subjects.yml` says. A general phrase such as "in harmony with God's laws of Love" does not count; record such a message in `metadata/law-mentions-reviewed.yml`, which keeps the validator's review warning from repeating. When a message shows a spiritual Law at work without naming it, add that Law as a primary or secondary subject if it deserves a place among the message's subjects; otherwise add the Law's name as a keyword.
 
 ### Spirit Names in Keywords
 

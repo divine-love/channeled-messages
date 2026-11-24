@@ -69,7 +69,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - No rank claims anywhere in the repository (2026-11-20): never call a message the first, earliest or latest, whether in the archive or "in hand", in notes, spirit files or the chains layer
 - Subjects are subcategory names only (2026-11-20): main category names are never used as subjects. Some older messages still carry one (the subject census at the end of `validate_messages.py` counts them)
 - The door is one or two sentences within 300 characters (ruling 2026-11-15)
-- Direct Voice: a "(DV)" in a source title means a Direct Voice sitting. Set `gathering: "Direct Voice"` and leave "(DV)" out of the catalogued title. A Direct Voice sitting held during a retreat keeps the retreat name, with the setting in `notes`. These sittings become frequent in the later years A Direct Voice sitting can be one person praying alone at the same hour as others elsewhere; mark it the same way
+- Direct Voice: a "(DV)" in a source title means a Direct Voice sitting. Set `gathering: "Direct Voice"` and leave "(DV)" out of the catalogued title. A Direct Voice sitting held during a retreat keeps the retreat name, with the setting in `notes`. These sittings become frequent in the later years. A Direct Voice sitting can be one person praying alone at the same hour as others elsewhere; mark it the same way
 - Spirit-given prayers, including words a group is given to say together, get a practice file (`content/practices/prayer-{message_id}.md`, from `content/templates/prayer-template.md`, checked by `validate_prayers.py`), and nothing else points to it. Declarations to affirm, and a circle's own prayer that a spirit quotes, get no practice file
 - "Not publicly posted online." is retired (2026-10-12): a blank `canonical_url` alone records that no public copy is known
 - Portal watch closed 2026-08-06 on the minting of `portals`; portal sightings continue as ordinary thread traffic (2016-03-25 loose → 2016-08-25 established → 2018-11-21 and 2019-01-26 doctrine → 2019-04-06 boundary)
@@ -80,6 +80,7 @@ For published messages: the curator sends the URL; fetch and verify against the 
 - Publishing: the site is made by Obsidian Publish from the generated vault, with `Threads (working)` and `Notes` left out; nothing is changed by hand once it is live. On the site, chains are called threads; the repository keeps its own names. The vault uses the Front Matter Title plugin (Graph feature only) and Sync Graph Settings
 - Titles (2026-11-23): when a source has no title, create one; a created title carries no asterisk or other mark
 - Roles: before settling on Elaboration, ask whether a message clears a named belief (Objection removed), turns an idea around (Reframe), describes the transformed state (Chrysalis), gives a first-hand account (Testimony) or completes the argument (Capstone). The handoff says more
+- Unnamed Laws (2026-11-23): when a message shows a spiritual Law at work without naming it, add the Law as a subject if it deserves a place among the message's subjects; otherwise add its name as a keyword
 - Subject vocabulary: 96 subjects under 21 main categories; CI validates every subject and prints a usage census on every push
 
 ## Deferred / pending

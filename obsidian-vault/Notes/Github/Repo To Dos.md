@@ -668,3 +668,9 @@ _Teaching, Testimony & Instruction (1)_
 - 2016-12-09-af-martin-luther (witness)
 - 2017-05-19-af-gandhi (witness)
 - 2017-09-12-af-confucius (witness)
+
+
+
+
+
+Need a book file for Living with the Divine Love by Helge Mercker

@@ -7,7 +7,7 @@ description: >
   per year of message. Companion to chains-threads.md, which holds the thread
   registry, holding pen, and open questions. The log is NOT generated and NOT
   a schema. Nothing here is final.
-last_updated: 2026-11-20
+last_updated: 2026-11-23
 status: working notes only, do not generate from this file
 companion: chains-threads.md
 ---
@@ -130,7 +130,8 @@ file **chains-threads.md**. Check the registry there before minting a new
 thread, to avoid duplicates.
 
 Link-role vocabulary (Foundation, Elaboration, Objection-removed, Reframe,
-Testimony, Chrysalis, Capstone) is defined in chains-threads.md.
+Testimony, Chrysalis, Capstone) is defined above, and the same list is kept
+in chains-threads.md.
 
 Every record carries a tier. A member is a role line. Everything below member
 level is a NOTE whose parenthetical names its kind and, where it concerns a
