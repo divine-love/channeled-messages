@@ -46,6 +46,12 @@
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues
   and conditions and patterns must indeed fall away."
+  Reframe. 2017-08-05-hm-jesus turns the gift from the end of the work into
+  its start. The work is not done when the gift comes, "as the true work
+  begins afterwards," and goes on "in bringing it to many, in demonstrating it
+  to different corners of the world." Until then the spirits lean on the
+  people, "we very much rely on your desire for this gift, on your prayers and
+  your degree of harmony, your commitment and dedication to this."
   Testimony. 2017-06-12-af-alec-gaunt tells of his own earth-life attempt at
   Direct Voice and why it failed, "We were not able to bring those gifts
   through because as a group we lacked the soul development to allow this

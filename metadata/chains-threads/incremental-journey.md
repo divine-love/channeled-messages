@@ -74,24 +74,25 @@
   shifts, your soul awakens, your understanding grows, your perceptions deepen
   and you are changed"; 2016-11-29-af-andrew, "Bit by bit, incrementally you
   will rise up above your own human condition," with the reassurance "You are
-  further along this journey than you may think"; 2017-05-11-af-jesus names
-  and dignifies the gradual
-  road, "in many cases it is a gradual experience. Bit by bit, you continue to
-  inch your way forward"; 2017-01-11-af-luke, "This is an incremental
-  unfolding and opening of the channel of God's Love within you";
-  2017-01-23-af-alec-gaunt, "Each new awareness, though ever so faint, is a
-  jewel," with one day "different from the next"; 2017-03-27-af-james, "at
-  times it is a struggle and at times it is a joy, but you are always moving
-  forward";
+  further along this journey than you may think"; 2017-01-11-af-luke, "This
+  is an incremental unfolding and opening of the channel of God's Love within
+  you"; 2017-01-23-af-alec-gaunt, "Each new awareness, though ever so faint,
+  is a jewel," with one day "different from the next"; 2017-03-27-af-james,
+  "at times it is a struggle and at times it is a joy, but you are always
+  moving forward"; 2017-05-11-af-jesus names and dignifies the gradual road,
+  "in many cases it is a gradual experience. Bit by bit, you continue to inch
+  your way forward";
   2017-07-16-af-seretta-kem, prayer that seemed to change nothing not wasted,
   "if you could see the light within you, you would know that those hours
   were not wasted"; 2017-07-30-af-augustine, a first touch "somewhat mild"
   growing with persistence, "it will become a fiery passion within you";
-  2018-10-09-af-seretta-kem states the beginning as
-  almost imperceptible, "In the beginning of this journey, the effects are
-  very subtle indeed," and denies the process any shortcut;
+  2017-08-05-hm-jesus, the new birth reached in small steps for most, "For
+  most it is incremental. It is a journey, it is a process";
   2018-07-14-af-seretta-kem, "this is a slow process, incremental in nature.
   It does not come all at once but in bits and pieces";
+  2018-10-09-af-seretta-kem states the beginning as almost imperceptible, "In
+  the beginning of this journey, the effects are very subtle indeed," and
+  denies the process any shortcut;
   2018-10-16-af-seretta-kem, the soul's chambers "in-filled gradually."
   Fences. Against `pentecost`: that thread is the two modes of awakening,
   sudden and gradual, and the readiness the sudden mode requires; this thread

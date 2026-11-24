@@ -78,7 +78,11 @@
   you do not realize it"; 2017-01-23-af-alec-gaunt, "As you come closer, what
   comes next will become clearer"; 2017-04-20-af-augustine, the plans laid
   "within your soul" and "revealed to your consciousness in bits and drips,
-  day by day"; 2019-04-07-af-augustine has the gifts hidden within
+  day by day"; 2017-08-05-hm-jesus, each one coming to "the clear
+  understanding of your purpose" through "your soul's progression and
+  understanding," where the purpose is "what it is that your part is in this,"
+  a part in a shared work, which belongs to `vanguards-of-change`;
+  2019-04-07-af-augustine has the gifts hidden within
   and blocked from awareness by the mind, which "will become self-evident and
   will grow and grow" as the soul awakens, the registry's own word for the
   step.

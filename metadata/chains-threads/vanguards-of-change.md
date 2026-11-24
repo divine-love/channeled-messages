@@ -93,6 +93,10 @@
   easy to enwrap your group in a safe cocoon of love," with the wish granted,
   "there is nothing untoward in this desire," and the turn outward, "Then
   there are times when you must reach out to others."
+  2017-08-05-hm-jesus, the other things that pull at a person, "other
+  commitments and works and obligations that you perceive are important in
+  your life," taken to God in prayer to ask "what He wishes for you," with the
+  work carried "to different corners of the world, as you will be guided".
   Witnesses, the reach of a small company. 2015-06-15-af-joseph-smith gives it
   a long range, "the reverberations of your efforts will spread through time
   throughout this world. Many generations to come will feel the effects of a

@@ -35,7 +35,10 @@
   subtle whispers which will guide you in life." 2017-04-10-af-james has the
   Will placed in the soul first, "The image is produced first," and the
   honour step as desire, "It is the deep desire to know God's Will, allowing
-  the iris to open."
+  the iris to open." 2017-08-05-hm-jesus has the seeker ask God in prayer
+  what He wishes, and the answer rise from within, "your soul will bring the
+  answers forward," to be acted on, "the convictions of your soul knowing will
+  influence your being, will influence your actions and your decisions."
   Fences. Against `divine-love-mediumship`: that thread concerns how a message
   crosses from spirit into a mortal mind; this concerns how God's own guidance
   surfaces inside a soul. 2016-07-04-af-jesus was checked against this thread

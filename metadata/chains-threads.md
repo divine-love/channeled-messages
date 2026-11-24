@@ -307,7 +307,9 @@ only stating it.
   prayers... God will send an angel to you, to help you in this struggle";
   2016-11-29-af-judas, a spirit offering himself by name, "Ask for my
   assistance and I will come to you"; 2017-05-19-af-laila, "Pray for my
-  assistance and I will be there"; 2017-07-06-af-seretta-kem, "ask the Angels to come close to you"; and
+  assistance and I will be there"; 2017-07-06-af-seretta-kem, "ask the Angels to come close to you";
+  2017-08-05-hm-jesus, the uncertainties to be spoken first, "You need to
+  express these things for us to enter into your presence"; and
   2017-12-18-af-martin-luther, "You
   will receive all the assistance that you require if asked." Earnest prayer for the Love brings an
   angel close, one God assigns to each earnest soul and present when it prays,

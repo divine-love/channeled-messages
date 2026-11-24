@@ -100,7 +100,10 @@
   invested a great deal of light within you to prepare you for these moments
   to come"; 2017-08-01-af-augustine, the strength asked of those who will lead
   others through the upheavals, "You must recognize the strength of your
-  souls"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one
+  souls"; 2017-08-05-hm-jesus, the steady soul others turn to, "Stride
+  forward with a steadfastness and a knowing," for "People are drawn to
+  seeking comfort and the calling for certainty in times of great chaos,
+  tribulations, pain and suffering"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one
   another, "As you hold on to one another as the winds blow, so you will
   support and save many from the coming changes," with the bonds forged now
   for later need.

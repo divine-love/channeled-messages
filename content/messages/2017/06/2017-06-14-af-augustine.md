@@ -45,6 +45,7 @@ related_messages:
   - 2017-06-12-af-seretta-kem
   - 2017-06-23-af-seretta-kem
   - 2017-07-09-af-matthew
+  - 2017-08-05-hm-jesus
 audio_url: ""
 canonical_url: ""
 notes: ""
@@ -56,7 +57,7 @@ excerpt: >
 door: >
   Without the Love, even a miracle is only a phenomenon.
 collections: ["The Saints & Apostles Speak", "Service & Mission"]
-last_edited: 2026-11-20
+last_edited: 2026-11-23
 ---
 
 I wish to remind you and to reinforce the idea and effort to pray for Divine Love always. I know your minds are directed upon this project of Direct Voice and I know this is indeed required of you to be vigilant and mindful and have your desires aligned towards this wondrous effort. But remember, my beloveds, it is the power of God's great Love, His Holy Essence that will bring about this gift in all its fullness. You may read many articles, research this phenomena, and consider the possibilities of this gift. Remember, beloved souls, that these gifts were brought forward by spirits that did not have the soul development that even you possess at this time, nor did they have the celestial angels assisting them in this effort. Nor was this manifestation especially blessed by God. No, my beloveds, this was an effort by natural spirits and mortals to bring about a natural phenomenon to this world.

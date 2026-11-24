@@ -42,6 +42,7 @@ questions:
 related_messages:
   - 2016-10-24-af-confucius
   - 2017-06-12-af-seretta-kem
+  - 2017-08-05-hm-jesus
 audio_url: ""
 canonical_url: ""
 notes: ""
