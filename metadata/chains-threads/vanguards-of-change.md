@@ -1,7 +1,7 @@
 ### vanguards-of-change
 
-- `vanguards-of-change`: running from the commission itself to the freedom it
-  requires.
+- `vanguards-of-change`: running from the commission itself, through the
+  freedom it requires, to the world changed by those who go.
   Foundation, presumptive anchor: 2016-01-08-af-jesus establishes the
   commission. "You are the vanguards," said twice; God "will open the doors"
   in the timing of His Will; their souls already sense what is coming; and the
@@ -46,6 +46,13 @@
   along, "you will bring those who are with you along into that greater
   light." 2016-05-12-af-alec-gaunt gives the same assurance in one sentence
   inside its Elaboration; this message makes it the argument.
+  Capstone, presumptive anchor: 2017-08-06-af-jesus confirms the name, "your
+  name of the vanguards is correct for you are vanguards; you enter forth
+  into new territory," and carries the argument to its end. God's Will
+  carries them "to many places in this world," the doors open, "the path will
+  be cleared, the road will be lit," and the world changes through those who
+  go, "many will follow and many will do as you have done," so that the world
+  has "the opportunity to change its course."
   Witnesses, the commission asserted without the release.
   2016-08-11-af-alec-gaunt has it materializing in the present tense, "You
   will travel the world to bring these truths to mankind and now you see this

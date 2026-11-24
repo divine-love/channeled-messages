@@ -42,6 +42,12 @@
   coming when the whole ring is ready, "When the vibration and energy of this
   beautiful ring of light is perfected, there will be the great blessing of
   Direct Voice";
+  2017-08-06-af-jesus has the gift wait on the people rather than the place:
+  the conditions in the church were already strong enough, "if you were
+  prepared as you will be in the future, this could have happened," and the
+  circle's prayer is what will let it come, "It is the fervency of your
+  prayers and desire for success for the Direct Voice that will allow me to
+  materialize";
   2018-07-22-af-seretta-kem puts the example before the gift, "For you cannot
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues

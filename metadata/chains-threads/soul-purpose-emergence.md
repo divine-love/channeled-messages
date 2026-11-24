@@ -82,6 +82,9 @@
   understanding of your purpose" through "your soul's progression and
   understanding," where the purpose is "what it is that your part is in this,"
   a part in a shared work, which belongs to `vanguards-of-change`;
+  2017-08-06-af-jesus, the purpose understood as God's Will carries the soul
+  "to many places within your own self so that you will be able to understand
+  your true purpose";
   2019-04-07-af-augustine has the gifts hidden within
   and blocked from awareness by the mind, which "will become self-evident and
   will grow and grow" as the soul awakens, the registry's own word for the

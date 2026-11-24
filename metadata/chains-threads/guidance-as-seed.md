@@ -39,6 +39,9 @@
   what He wishes, and the answer rise from within, "your soul will bring the
   answers forward," to be acted on, "the convictions of your soul knowing will
   influence your being, will influence your actions and your decisions."
+  2017-08-06-af-jesus asks the circle to act on what the soul knows, "Always
+  listen to your souls, my beloveds," and "Do not hesitate when you know the
+  steps you must take and the road you must follow."
   Fences. Against `divine-love-mediumship`: that thread concerns how a message
   crosses from spirit into a mortal mind; this concerns how God's own guidance
   surfaces inside a soul. 2016-07-04-af-jesus was checked against this thread
