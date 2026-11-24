@@ -1,5 +1,5 @@
 SPIRITS DIGEST
-Generated 2026-11-22 from spirits/*.yml (59 files). Read-only reference for biography cross-checks;
+Generated 2026-11-23 from spirits/*.yml (59 files). Read-only reference for biography cross-checks;
 the individual spirit files remain canonical.
 
 ========================================================================
