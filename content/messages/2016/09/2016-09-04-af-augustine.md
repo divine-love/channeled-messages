@@ -45,8 +45,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Augustine speaks near the close of several days of meetings, referring to
-  "this gathering of souls in a country that is foreign to many of you".
+  Given near the close of several days of meetings in Frankfurt.
 essential_teachings: []
 language: en
 excerpt: >
@@ -56,7 +55,7 @@ door: >
   You have been serving all along without seeing it. Every street you walk
   down, souls are touched.
 collections: ["Service & Mission", "The Saints & Apostles Speak"]
-last_edited: 2026-11-22
+last_edited: 2026-11-27
 ---
 
 It is your teacher Augustine. I believe that you have learned many lessons with this gathering of souls in a country that is foreign to many of you and familiar to some of you. And so it will go, my beloved students, you will venture forth into other lands, other countries, cultures, peoples, traditions, languages, for God does not reside just with your own peoples but with all peoples in the world. And it is important for you to be amongst many different peoples in this world, to be familiar and comfortable with all of these different cultures; to walk amongst your brothers and sisters feeling like you are a part of the human race, for truly you are brothers and sisters in this world. And in all of this, love must inform your actions and your words and you each must be strong, filled with the Love, filled with the desire to serve, filled with the flow of God’s Love through you. For it is in your efforts, those of you well established upon this path and of strong faith, it is for you to encourage, to enhance, to pray deeply when you are amongst those who are hungry and have not had the experience and the growth within their souls that you have had, my beloveds.

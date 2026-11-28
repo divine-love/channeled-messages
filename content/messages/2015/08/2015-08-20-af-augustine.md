@@ -35,10 +35,7 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: >
-  Some transcripts carry the date August 21 for this message; August 20
-  used as given in the primary source. Delivered during the August 2015
-  Gibsons Retreat.
+notes: ""
 essential_teachings: []
 language: en
 excerpt: >
@@ -48,7 +45,7 @@ door: >
   God has given you a gift tonight that will work while you sleep; come
   to prayer tomorrow ready to receive what He has prepared.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-06-26
+last_edited: 2026-11-27
 ---
 
 It is your teacher Augustine. You have each received the Gift of the Father's Love within your souls and you have each received a Gift that you will take with you that will enhance your experience upon the morrow in your prayers. It will bring you some help and support for you to reach a deeper place within your souls. And we wish for you to go to your beds in peace and to feel the joy of your Father's Love for you. As you sleep in your beds, this Gift will work its blessing upon you. Come together tomorrow with deep expectations of the blessing of the Father's Love in great abundance. For if you indeed allow this Gift to work its blessing you will all be lifted very high beyond these conditions of the world, beyond the conditions within you to a place of deep communion and Love.

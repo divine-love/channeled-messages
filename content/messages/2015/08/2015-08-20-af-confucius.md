@@ -15,8 +15,8 @@ description: >
   Confucius affirms the power of group prayer demonstrated at the retreat
   and calls the gathering to form Circles of Light wherever they go when
   they return home. He assures them that gathering like-minded souls in
-  loving prayer requires no great effort — only mutual intention, love,
-  and a desire to bring Light — and that God will grant the means and
+  loving prayer requires no great effort, only mutual intention, love,
+  and a desire to bring Light, and that God will grant the means and
   show the way.
 primary_subjects: "Circle of Light & Prayer Circles"
 secondary_subjects:
@@ -39,9 +39,7 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Some transcripts carry the date August 21 for this message; August 20
-  used as the primary date. A transcriber note indicates that the group
-  prayer referenced in the opening paragraph was a Merkaba healing
+  The group prayer Confucius speaks of at the opening was a Merkaba healing
   exercise.
 essential_teachings: []
 language: en
@@ -54,7 +52,7 @@ door: >
 collections:
   - "Service & Mission"
   - "Awakening Humanity"
-last_edited: 2026-11-20
+last_edited: 2026-11-27
 ---
 
 Beloved, beautiful souls, I am Confucius. You did indeed come together to give healing to the world and healing to yourselves. And it was demonstrated to you the power of group prayer and the wonderment of this blessing that came through you for the world. Much was accomplished in this effort that you made together and some of you felt the power of it and perceived its beauty.

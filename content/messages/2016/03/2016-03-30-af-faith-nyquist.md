@@ -36,7 +36,8 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Faith counsels the circle regarding their visits to "my old home," which the title abbreviates as WHC; the body refers to it only as her old home and "those hallowed halls."
+  The "old home" Faith speaks of is the World Healing Centre, which the source
+  title calls WHC.
 essential_teachings: []
 language: en
 excerpt: >
@@ -44,7 +45,7 @@ excerpt: >
 door: >
   You think you need a strategy for the hard room. Faith says walk in with love and watch the walls come down.
 collections: []
-last_edited: 2026-10-29
+last_edited: 2026-11-27
 ---
 
 God bless you, this is Faith.

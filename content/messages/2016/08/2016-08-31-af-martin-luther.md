@@ -44,10 +44,9 @@ related_messages:
 audio_url: ""
 canonical_url: ""
 notes: >
-  Delivered in Frankfurt as the opening address of a multi-day gathering;
-  Martin Luther says he worked with those who arranged it, that he opens the
-  circle, and that many spirits will speak over the days that follow. He notes
-  that he cannot speak German through this medium.
+  The opening address of a gathering of several days in Frankfurt. Martin
+  Luther says he worked with those who arranged it, and that he cannot speak
+  German through this medium.
 essential_teachings: []
 language: en
 excerpt: >
@@ -57,7 +56,7 @@ door: >
   The man who led the first Reformation says his own was born of the mind. He
   is asking for one born of the soul.
 collections: ["Letters from History", "Awakening Humanity"]
-last_edited: 2026-08-06
+last_edited: 2026-11-27
 ---
 
 Welcome, beautiful souls. I am Martin Luther, and I welcome you to the country in which I was born and I regret that I can not speak my language through this instrument who is unprepared to do so, so we will have to make do with English.

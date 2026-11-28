@@ -41,7 +41,8 @@ questions:
 related_messages: []
 audio_url: ""
 canonical_url: ""
-notes: "Part of the August 2015 pre-retreat series."
+notes: >
+  Given as the circle prepared for the August 2015 Gibsons Retreat.
 essential_teachings: ["Core Teaching"]
 language: en
 excerpt: >
@@ -56,7 +57,7 @@ door: >
 collections:
   - "Mind & Soul"
   - "The Saints & Apostles Speak"
-last_edited: 2026-10-29
+last_edited: 2026-11-27
 ---
 
 It is your teacher Augustine. I have come to talk about the soul perceptions which are slowly dawning upon your consciousness, my beautiful brothers and sisters. This slow awakening within your beings emerging ever slowly but surely into the consciousness of your minds requires your attention, my beloveds. Just as you walk through a garden and you are appreciating the bold and colorful flowers, these soul perceptions are more subtle, these flowers grow closer to the ground, they are intricate but you must focus, to bend down to see and appreciate what is there. And so you must with your consciousness bring it to a place of attention and openness, desiring to see the subtleties rather than being dazzled by the intricacies of the material world and your mind's machinations, the many thoughts and ideas that come. Yes God's voice is quiet but it is powerful, and the voice of your soul can be resounding within your ears if you listen and if you give it credence.

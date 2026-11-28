@@ -43,11 +43,7 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Part of a series of pre-retreat messages delivered on August 13, 2015
-  alongside Augustine and Andrew messages, likely in preparation for
-  the August 2015 Gibsons Retreat. Confucius references his "precious
-  birds" imagery, suggesting prior use of this metaphor with this
-  group.
+  Given as the circle prepared for the August 2015 Gibsons Retreat.
 essential_teachings: []
 language: en
 excerpt: >
@@ -58,7 +54,7 @@ door: >
   blooms in the soul the moment you stop trying to figure it out.
 collections:
   - "Mind & Soul"
-last_edited: 2026-10-29
+last_edited: 2026-11-27
 ---
 
 Did I not say that my precious birds will come together, to flock together? God draws you together, my beloveds, for a great purpose. And when these days are done you will know with surety and a powerful clarity what you must do, the steps you must take forward. In many ways you have tried to discern and decipher the Will of God through your minds and speculations. And I tell you, now comes the time to know the Will of God. But this, my beloveds, is not through your minds, it is through your souls. And we have made great preparations for you to come to this place of clarity, of awakening in this way so that your souls may come to understand your purpose, that road which God has placed you upon and the service which is uniquely yours as your gifts unfold, as the Love continues to pour within your souls. Long for this, my beloveds, this understanding, this soul awareness, this soul wisdom. You are ready to allow this awakening, to embrace it. And the dilemmas which you hold within your mind will melt away. And your mind will truly accept what will be given.

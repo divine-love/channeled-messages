@@ -39,12 +39,12 @@ related_messages:
 audio_url: ""
 canonical_url: "https://divinelovesanctuary.com/gods-will-mans-will/"
 notes: >
-  Message references 'this structure (the World Healing Centre)' suggesting it
-  was received in the context of a specific building project or spiritual centre.
+  The World Healing Centre the message names is the one in Blackpool, England,
+  which Brother Mandus founded.
 essential_teachings: []
 door: >
   Religious error can be held sincerely, and sincerely held error still needs to be released
-last_edited: 2026-10-29
+last_edited: 2026-11-27
 ---
 
 I am Martin Luther and I come to speak about the Will of God.

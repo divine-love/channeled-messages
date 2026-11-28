@@ -37,11 +37,7 @@ related_messages: []
 audio_url: ""
 canonical_url: ""
 notes: >
-  Message addressed to a small group preparing for an upcoming gathering,
-  likely the August 2015 Gibsons Retreat. Augustine speaks directly about
-  Al Fike's mediumship gifts reaching a new level, with preparation made
-  "down to the cellular structure" of his brain. Personal references to Al
-  Fike noted; questions reframed universally.
+  Given as the circle prepared for the August 2015 Gibsons Retreat.
 essential_teachings: []
 language: en
 excerpt: >
@@ -51,7 +47,7 @@ door: >
   God's preparation goes deeper than you know, right down to the cellular
   level; the work ahead has already begun within you.
 collections: ["The Saints & Apostles Speak"]
-last_edited: 2026-10-29
+last_edited: 2026-11-27
 ---
 
 It is Augustine here.
