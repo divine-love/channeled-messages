@@ -49,6 +49,7 @@ related_messages:
   - 2017-06-12-af-seretta-kem
   - 2017-06-23-af-seretta-kem
   - 2017-08-05-hm-jesus
+  - 2017-08-06-af-seretta-kem
   - 2017-09-13-af-keea-atta-kem
 audio_url: ""
 canonical_url: ""
@@ -61,7 +62,7 @@ door: >
   When everything people lean on gives way, they will look for someone who does
   not. You have been made ready to be that rock.
 collections: ["Service & Mission", "Awakening Humanity"]
-last_edited: 2026-11-23
+last_edited: 2026-11-27
 ---
 
 I am Seretta Kem. I have come to give further guidance on Direct Voice and I have come to open the door to you, my daughter, Elizabeth, to ask if you would be willing to step forward in this role as participant in this project of Direct Voice. I would ask these instruments to educate this daughter, if she is willing, regarding this effort and practice and what is required at this time for preparation.

@@ -38,6 +38,9 @@
   clouds will move on and the sun returns"; 2017-03-09-af-aekarius, outside
   conditions "changed or neutralized by the power of the Light within you,"
   with another's condition reaching the seeker only "if you allow this";
+  2017-08-06-af-seretta-kem, the dark conditions of the world carried in each
+  person too, "you do harbour some of those conditions that are dark, that
+  are inherent within this plane," so that "you fight against a head wind";
   2018-06-18-af-matthew.
   Structural note: the remedy wording is under pressure from three
   directions, none of them a prayer practice. The registry line says daily

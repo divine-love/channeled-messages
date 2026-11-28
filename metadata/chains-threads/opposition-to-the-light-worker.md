@@ -55,9 +55,12 @@
   subject is exposed by her own delving, "she knows not the conditions that
   she is delving into and is very vulnerable to all influences," with nothing
   conspiring against her.
-  Witness, the cause within. 2017-01-16-af-keea-atta-kem, "Thoughts do indeed
-  attract and bring like energies close. This is a Law," with the seeker
-  responsible for his own thoughts rather than a victim of them.
+  Witnesses, the cause within. 2017-01-16-af-keea-atta-kem, "Thoughts do
+  indeed attract and bring like energies close. This is a Law," with the
+  seeker responsible for his own thoughts rather than a victim of them;
+  2017-08-06-af-seretta-kem, a person's own "judgments, some preferences and
+  biases" that "open the door for negative forces to work through you and
+  cause disharmony".
   Witnesses, human hostility not taken in. 2017-07-12-af-seretta-kem,
   derision "reflecting their own state of being," met with patience, "be
   patient with those who are impatient with you"; 2017-07-16-af-seretta-kem,

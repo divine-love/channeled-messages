@@ -103,7 +103,9 @@
   souls"; 2017-08-05-hm-jesus, the steady soul others turn to, "Stride
   forward with a steadfastness and a knowing," for "People are drawn to
   seeking comfort and the calling for certainty in times of great chaos,
-  tribulations, pain and suffering"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one
+  tribulations, pain and suffering"; 2017-08-07-af-augustine, the time of
+  maturity come, "You are no longer babies upon this path," with "much work
+  requiring a strong instrument, strong in every way"; 2019-02-21-af-elijah, the prepared souls as anchors that hold one
   another, "As you hold on to one another as the winds blow, so you will
   support and save many from the coming changes," with the bonds forged now
   for later need.

@@ -57,7 +57,10 @@
   refuse, it does not mean that God loves you any less";
   2017-07-12-af-seretta-kem, the non-coercion with the cost of resisting it,
   "God always allows you to choose, my beloveds. He does not force anything,"
-  and "It is your will, beloveds, that causes pain."
+  and "It is your will, beloveds, that causes pain"; 2017-08-07-af-augustine,
+  the spirits as a parent who lets the child walk and fall, "we will never
+  allow you to injure yourselves to any great extent unless, of course, that
+  is your choice."
   Witnesses, the assistance gate. 2016-09-14-af-augustine, help gated on the
   seeker's asking with the spirits' posture in the meantime named as enforced
   waiting, "we in spirit who watch you and watch over you can only wait for

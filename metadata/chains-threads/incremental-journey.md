@@ -88,6 +88,8 @@
   growing with persistence, "it will become a fiery passion within you";
   2017-08-05-hm-jesus, the new birth reached in small steps for most, "For
   most it is incremental. It is a journey, it is a process";
+  2017-08-07-af-augustine, what is not yet seen coming into view bit by bit,
+  "It will come as you incrementally step into the Light";
   2018-07-14-af-seretta-kem, "this is a slow process, incremental in nature.
   It does not come all at once but in bits and pieces";
   2018-10-09-af-seretta-kem states the beginning as almost imperceptible, "In

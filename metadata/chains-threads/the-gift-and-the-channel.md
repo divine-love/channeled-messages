@@ -52,6 +52,14 @@
   bring forth a gift, however remarkable it is, without truly being an
   example of the truth," with the old patterns in the way, "these old issues
   and conditions and patterns must indeed fall away."
+  Objection removed. 2017-08-06-af-seretta-kem: the gift waits on the
+  circle's harmony and on how they watch their thoughts, "if we are to work
+  together in this close and intimate way you must reach for a higher
+  condition," but this does not mean becoming someone else or being perfect,
+  "We are not suggesting that you change everything within you. You cannot
+  change your personality and your inclinations to a great degree," only
+  stopping a dark thought when it comes, "when you fall into negative
+  thoughts, that you choose to halt this pattern and to interrupt it."
   Reframe. 2017-08-05-hm-jesus turns the gift from the end of the work into
   its start. The work is not done when the gift comes, "as the true work
   begins afterwards," and goes on "in bringing it to many, in demonstrating it

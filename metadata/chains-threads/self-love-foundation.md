@@ -30,6 +30,13 @@
   expect to be an angel overnight." Patience with oneself then grows into
   patience with others, "as this grows within you, you will feel greater
   tolerance, acceptance and love for those around you."
+  Reframe. 2017-08-07-af-augustine turns looking after oneself from taking
+  away from the work into honouring God. The generous servant who "thinks
+  more of others than himself" and "does not leave much in reserve" is
+  asked for "a balance of receiving and giving, and of loving oneself,"
+  because "Love must be given to all aspects of your life, including
+  yourself," and loving oneself is a way of saying to God, "I honour my
+  existence, the creation that You have made, my dear Heavenly Father."
   Witnesses, the order of the loves. 2014-12-01-af-john-the-beloved, "it is
   your challenge to love yourselves and in so doing to truly love your fellow
   man"; 2015-03-28-af-augustine puts being loved by God first, "you are truly

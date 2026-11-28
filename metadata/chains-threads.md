@@ -309,7 +309,9 @@ only stating it.
   assistance and I will come to you"; 2017-05-19-af-laila, "Pray for my
   assistance and I will be there"; 2017-07-06-af-seretta-kem, "ask the Angels to come close to you";
   2017-08-05-hm-jesus, the uncertainties to be spoken first, "You need to
-  express these things for us to enter into your presence"; and
+  express these things for us to enter into your presence";
+  2017-08-06-af-seretta-kem, "If you find this difficult to do, ask for
+  help"; and
   2017-12-18-af-martin-luther, "You
   will receive all the assistance that you require if asked." Earnest prayer for the Love brings an
   angel close, one God assigns to each earnest soul and present when it prays,
@@ -376,6 +378,8 @@ only stating it.
   you travel the earth"; 2017-08-01-af-augustine, "we will accompany you, the
   angels will surround you"; 2017-08-02-hm-augustine, "You are never alone. We
   walk with you."; 2017-08-06-af-jesus-2, "We accompany you with every moment";
+  2017-08-07-af-augustine, "to protect and guide you as you continue to find
+  your way";
   2017-12-14-af-jesus, "you shall be accompanied by the angels with every
   step"; 2017-12-18-af-martin-luther, "We will be with you, beloved souls, in
   all your efforts";

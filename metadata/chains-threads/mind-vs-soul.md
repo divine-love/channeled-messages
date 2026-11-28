@@ -145,7 +145,8 @@
   knowing as firm, "Truth that is solid as the ground you have your feet
   upon"; 2017-08-02-hm-augustine, the soul's knowing and trusting as something
   to practise daily, "It needs to be activated. It needs to be practised";
-  and
+  2017-08-07-af-augustine, the soul as knowing what each one needs, "your
+  soul knows what you need"; and
   2018-08-06-af-solomon, the soul's knowing as the test when the mind finds an
   argument sound. Reception: 2016-09-04-af-john-the-beloved, what the Love
   does to perception, with the cost named; 2017-07-17-af-augustine, the soul
